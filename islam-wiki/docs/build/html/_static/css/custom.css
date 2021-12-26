@@ -1,0 +1,19 @@
+body {
+    background-color: #F1F6EF;
+}
+
+div.body {
+    background-color: #ECFBE4;
+}
+
+div.body h2 {
+	font-size: 24px;
+}
+
+div.body h1 {
+	font-size: 28px;
+}
+
+div.contents p {
+	font-size: 14px;
+}
