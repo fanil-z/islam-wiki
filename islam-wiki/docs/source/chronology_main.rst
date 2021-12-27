@@ -46,13 +46,13 @@ Islam History Map
 #. Ayyub (Job)
 #. Shu'ayb (Jethro?)
 
-4. Musa
+4. Musa and the Five Books (Torah)
 *******************************************
 
 #. Musa (Moses)
 #. Harun (Aaron)
 #. Exodus
-#. Scriptures
+#. The Torah: (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 #. Davud
 #. Sulayman (Solomon)
 #. Ilyas (Elija)
