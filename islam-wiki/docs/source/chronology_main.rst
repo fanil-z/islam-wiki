@@ -13,7 +13,11 @@ Islam History Map
 
 0. Before Creation of Humankind
 ***************************************
-	#. what do we know?
+#. At first there was only Allah. Creations: The Throne, The Pen and The Tablet,
+#. Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
+#. Creation of jinns. 
+	Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be ampng the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing.
+
 
 1. Creation of Humankind
 *******************************************
@@ -156,8 +160,10 @@ Signs of Al Kiyamah
 	* The prophet Muhammad
 	* 3 major earthquakes
 	* Dajjal
+	* Isa will return to the Earth and defeat Dajjal
 	* smoke
 	* bedouins building towers
+
 
 
 Prophet Muhammad (570-632)
@@ -239,10 +245,16 @@ Dhul Karnain
 
 
 
-
+Humans are created between angels and animals. Angels dont have their own desires they only worship Allah. and animals are living on their instincts and dont worship Allah as the angels so.
+and if human beings incline to instincts, they become worse than animals. and if they incline towards worshipping Allah, they become better than angels.
+Adam was the last of Allah's creations.
 
 
 
 A good table of the prophets and nations: https://islam.fandom.com/wiki/Prophets_and_Messengers_of_Allah
 
 https://wikiislam.net/wiki/Main_Page
+
+
+The Beginning and the End series with Omar Suleiman: https://www.youtube.com/watch?v=gxR6Z2BCaEk&list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv&index=2
+
