@@ -13,17 +13,19 @@ Islam History Map
 
 0. Before Creation of Humankind
 ***************************************
-#. At first there was only Allah. Creations: The Throne, The Pen and The Tablet,
+#. At first there was only Allah. 
+# Creations: The Throne, The Pen and The Tablet, the angels.
 #. Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
-#. Creation of jinns. 
-	Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be ampng the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing.
+#. Creation of jinns from smokeless flame, the edge of the flame. 
+Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be among the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing.
 
 
 1. Creation of Humankind
 *******************************************
-#. Adam
+#. Adam was created from clay.
 #. Arrogance of Shaytan
 #. Adam and Eve: Exile from Jannah
+Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
 
 2. Early Human Era on Earth
 *******************************************
