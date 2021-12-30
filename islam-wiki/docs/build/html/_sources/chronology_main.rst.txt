@@ -1,6 +1,8 @@
 Bismillah
 
-* :doc:`Concept and Planning <../concept>` 
+:doc:`Concept and Planning <../concept>` 
+:doc:`Family Tree<../prophet_muhammad_saw_family_tree>`
+
 .. contents::
    :local:
    :depth: 4
@@ -13,22 +15,28 @@ Islam History Map
 
 0. Before Creation of Humankind
 ***************************************
-#. At first there was only Allah. Creations: The Throne, The Pen and The Tablet,
+#. At first there was only Allah.
+# Creations: The Throne, The Pen and The Tablet, the angels.
 #. Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
-#. Creation of jinns. 
-	Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be ampng the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing.
+#. Creation of jinns from smokeless flame, the edge of the flame. 
+Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be among the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing.
 
 
-1. Creation of Humankind
+1. Creation of Humankind 
 *******************************************
-#. Adam
+
+#. Adam was created from clay.
 #. Arrogance of Shaytan
 #. Adam and Eve: Exile from Jannah
+Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
 
 2. Early Human Era on Earth
 *******************************************
 
+#. Adam and Hawwa had many children. 
 #. Habyl and Qabyl (Abel and Cain)
+ Both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat l-māidah) 
+#. Seth. Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel. 
 #. Idris (Enoch)
 #. Nuh
 #. First Revelation
@@ -47,6 +55,8 @@ Islam History Map
 	#. Yacub
 		* Yousuf
 #. Ismail (Ishmael) (beginning of Arabic people)
+	#. Hajar and Zamzam
+	#. Building of Kaaba
 #. Ayyub (Job)
 #. Shu'ayb (Jethro?)
 
@@ -78,32 +88,65 @@ Islam History Map
 6. Pre-Islamic Arabia
 *******************************************
 
-#. **Jaahiliyah**: After introducing idols, Jews ceased to visit the temple of Abraham. Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. 
-#. **Qusay**: after battles it was agreed that Qusay from Quraish must be the guardian of the Kaaba. They were receiving taxes, feeding the pilgrims and living in tents. Qusay told them to build houses.
-#. **Hashim**: Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. married an influential Yathrib woman from Khazraj. He fell ill and died in Gaza. (Surah Quraish mentions these caravans.)
-#. **Muttalib**: younger brother of Hashim who took over the right of watering the pilgrims and levying the tax to feed them.
-#. **Abd'al Muttalib**: his name was Shaybah. Mutallib took him from Yathrib and brought him to Mecca. He rediscovered Zamzam
+Jaahiliyah
+======================
+
+After introducing idols, Jews ceased to visit the temple of Abraham. Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. 
+
+Qusayy ibn Kilay
+======================
+
+The great-great-greatfather of the Prophet Muhammad saw. after battles it was agreed that Qusay from Quraish must be the guardian of the Kaaba. They were receiving taxes, feeding the pilgrims and living in tents. Qusayy told them to build houses. His hidden qualities enabled him to establish his superiority over the Makkans and especially the tribe of Quraysh. Within a short time he acquired the high governmental offices in Makkah and also became the custodian of the keys of the Ka'bah and the undisputed ruler of that city.
+Many remarkable events are associated with his name. One of these was that he encouraged the people to construct a house with the name of 'Darun Nadwah' adjacent to the Ka'bah and thus founded a Council Hall for the Arabs so that their dignitaries and chiefs might sit together in this public centre and solve their problems. He died in the 5th A.D. and left behind two sons named Abdud Dar and Abd Manaf.
+
+Hashim
+=======================
+
+Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. married an influential Yathrib woman from Khazraj. He fell ill and died in Gaza. (Surah Quraish mentions these caravans.)
+
+Muttalib
+=======================
+
+younger brother of Hashim who took over the right of watering the pilgrims and levying the tax to feed them.
+
+Abd'al Muttalib
+=======================
+
+his name was Shaybah. Mutallib took him from Yathrib and brought him to Mecca. He rediscovered Zamzam
 #. **Battle of Elephants** (Year of the elephant)
+
+Notable Monotheists
+=======================
+
 #. **Zayd ibn Amr** told priests and jews that this is not the religion of Ibrahim. he adopted girls who otherwise would be killed by their tribes. (Said ibn Zayd is one of the ten promised Paradise. One-man ummah.)
 #. **Waraqa ibn Naufal** was the first Muslim. He converted to Christianity before.
 
 7. History of Islam
 *******************************************
+
 7.1. Prophet Muhammad saw 
 *******************************************
-#. Early Life
+
+Early Life
+=======================
+
 	* 570 the Prophet Muhammad saw is born
 	* Childhood
 	* Signs of Prophethood
 	* Marriage to Khadeeja
-#. Meccan Period
+Meccan Period
+=======================
+
 	* 610 First Surah
 	* 612 starts to preach
 	* 616 persecution of the first Muslims
 	* 620 Arabs from Yathrib meet the prophet Mohammad saw and invite him
 	* 622 Hijrah. together with 70 families the prophet Muhammad saw moves to Yathrib nd renames it to Medina. The beginning of the Muslim era.
-#. Medina Period
+Medina Period
+=======================
+
 	* 624 Battle of Badr
+	* 624 which year was the change of qiblah: "Many a time We have seen you turn your face towards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). the prophet Muhammad was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
 	* Battle of Porridge
 	* 625 Battle of Uhud 
 	* 627 Battle of Trench 
@@ -120,7 +163,8 @@ Islam History Map
 7.2 The Rashidun (Righteous Khalifs)
 *******************************************
 #. Abu Bakr (632-634)
-	The wars of riddah against tribes who secede from the confederacy. Abu Bakr manages to subdue the revolt and unite the tribes of Arabia.
+	* The wars of riddah against tribes who secede from the confederacy. Abu Bakr manages to subdue the revolt and unite the tribes of Arabia.
+	* Umar and Abu Bakr tell Zayd to compile and write The Quran because many khafiz die in one of the battles of riddah.
 #. Umar ibn al-Khattab (634-644)
 	* The Muslim armies invade Iraq, Syria and Egypt.
 	* 638 Muslims conquer Jerusalem, which becomes the third holiest city in the Islamic world after Mecca and Medina.
@@ -142,6 +186,7 @@ Islam History Map
 
 7.3 The Islamic Golden Age
 *******************************************
+
 Umayyad Dinasty Era 
 #. Muawiyyah
 	* Science and Medicine
@@ -258,3 +303,5 @@ https://wikiislam.net/wiki/Main_Page
 
 The Beginning and the End series with Omar Suleiman: https://www.youtube.com/watch?v=gxR6Z2BCaEk&list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv&index=2
 
+
+Good history with TOC and good layout: https://www.al-islam.org/message-jafar-subhani/chapter-29-change-qiblah
