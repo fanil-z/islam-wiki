@@ -7,11 +7,31 @@ div.body {
 }
 
 div.body h2 {
-	font-size: 24px;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+div.section p {
+	margin-left: 15px;
+}
+
+.toc-backref {
+	text-decoration: none;
+}
+
+div.body h3 {
+	font-size: 130%;
+	text-decoration: none;
+}
+
+div.body h4 {
+	font-size: 110%;
+	text-decoration: none;
 }
 
 div.body h1 {
-	font-size: 28px;
+	font-size: 160%;
+	text-decoration: none;
 }
 
 div.contents p {

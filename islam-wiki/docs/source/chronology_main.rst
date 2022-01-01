@@ -15,11 +15,11 @@ Islam History Map
 
 0. Before Creation of Humankind
 ***************************************
+
 #. At first there was only Allah.
-# Creations: The Throne, The Pen and The Tablet, the angels.
+#. Creations: The Throne, The Pen and The Tablet, the angels.
 #. Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
-#. Creation of jinns from smokeless flame, the edge of the flame. 
-Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be among the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing.
+#. Creation of jinns from smokeless flame, the edge of the flame. Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be among the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing.
 
 
 1. Creation of Humankind 
@@ -28,22 +28,47 @@ Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best 
 #. Adam was created from clay.
 #. Arrogance of Shaytan
 #. Adam and Eve: Exile from Jannah
-Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
+	Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
 
 2. Early Human Era on Earth
 *******************************************
 
+Habyl and Qabyl
+================
+
 #. Adam and Hawwa had many children. 
-#. Habyl and Qabyl (Abel and Cain)
- Both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat l-māidah) 
-#. Seth. Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel. 
-#. Idris (Enoch)
-#. Nuh
+#. Habyl and Qabyl (Abel and Cain) 
+	Both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat l-māidah) 
+
+Seth
+================
+
+Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel.
+flute, music and dancing was invented.
+
+Idris (Enoch)
+================
+
+Idris was born when Adam as was alive. Idris is mentioned in the Quran that he was of high class and a prophet.
+
+
+How Idol Worshipping appeared
+================
+
+There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people strted celebrating anniversaries of these men.they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
+
+Nuh
+================
+
+Nuh is the sesond most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him.
 #. First Revelation
-#. How Idol Worshipping appeared. Some people made statues of noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
 #. The Great Flood
-#. Hud (Eber?) and people of 'Ad
-#. Saleh (Selah?) and people of Thamud
+
+Hud (Eber?) and people of 'Ad
+=======================
+
+Saleh (Selah?) and people of Thamud
+=======================
 
 3. Ibrahim
 *******************************************
