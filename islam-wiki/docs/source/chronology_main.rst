@@ -1,7 +1,10 @@
 Bismillah
 
 :doc:`Concept and Planning <../concept>` 
+
 :doc:`Family Tree<../prophet_muhammad_saw_family_tree>`
+
+:doc:`Ibrahim<../prophets/ibrahim>`
 
 .. contents::
    :local:
@@ -88,7 +91,27 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 3. Ibrahim
 *******************************************
 
-**Ibrahim**: Ibrahim is from Iraq, Hagar is from Egypt. Hajj was established by Ibrahim.
+**Ibrahim**: Ibrahim is from Iraq, Hagar is from Egypt. Hajj was established by Ibrahim. Kurban was established by the example of Ibrahim and his son. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people.
+
+Early Life
+============
+Ibrahim was born in a house of idolaters in the ancient city of Ur of the Chaldees, likely the place called 'Ur' in present-day Iraq, in which case, the idolaters would have been practitioners of the hypothesized Ancient Mesopotamian religion.
+
+His father Azar was a well-known idol-sculptor that his people worshiped. As a young child, Ibrahim used to watch his father sculpting these idols from stones or wood. When his father was finished with them, Ebrahem would ask his father why they could not move or respond to any request and then would mock them; therefore, his father would always scold him for not following his ancestors' rituals and mocking their idols.
+
+When Ibrahim was young he used to laugh whenever he saw them entering the temple, lowering their heads, silently offering the statues the best of their food, crying and asking forgiveness from them. He started feeling angry towards his people, who could not realize that these are only stones that could neither benefit nor harm them.
+
+Searching for Truth
+=============
+
+One night, Abraham went up to the mountain, leaned against a rock, and looked up to the sky. He saw a shining star and said to himself, "Could this be my Lord?" But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon rising in splendor and said, "Could this be my Lord?" but the moon also set. At daybreak, he saw the sun rising and said, "Could this be my Lord? This is the biggest and brightest!" But when the sun also set he said, "O my people! I am free from all that you join as partners with Allah! I have turned my face towards Allah who created the heavens and the earth and never shall I associate partners with Allah. Our Lord is the creator of the heavens and the earth and everything in between. He has the power to make the stars rise and set." After this declaration, Abraham then heard Allah calling him, "O Abraham " Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!"Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
+
+Destroying Idols
+==========
+"And, by God, I shall circumvent your idols after you have gone away and turned your backs." (Quran 21:57)
+
+It was time for a religious festival, perhaps dedicated to Sin, for which they left the town.  Abraham was invited to attend the festivities, but he excused himself, and then he destroyed all idols in the temple and left only the biggest one. after people came back and accused Ibrahim of destroying idols, he said that that biggest one did it. 
+
 
 Lut (Lot)
 ===================
