@@ -93,6 +93,11 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 
 **Ibrahim**: Ibrahim is from Iraq, Hagar is from Egypt. Hajj was established by Ibrahim. Kurban was established by the example of Ibrahim and his son. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people.
 
+There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources clain that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. there is scientific evidence that Homo-Sapiens existed for ...
+and the prophet Muhammad saw said that the distance between me and Al Kiyamah is like distance between my two fingers.
+Arab people didn't even count the years. the calendar was adopted only during the reign of khalif Umar ibn Al Khattab.
+
+
 Early Life
 ============
 Ibrahim was born in a house of idolaters in the ancient city of Ur of the Chaldees, likely the place called 'Ur' in present-day Iraq, in which case, the idolaters would have been practitioners of the hypothesized Ancient Mesopotamian religion.
@@ -111,7 +116,6 @@ Destroying Idols
 "And, by God, I shall circumvent your idols after you have gone away and turned your backs." (Quran 21:57)
 
 It was time for a religious festival, perhaps dedicated to Sin, for which they left the town.  Abraham was invited to attend the festivities, but he excused himself, and then he destroyed all idols in the temple and left only the biggest one. after people came back and accused Ibrahim of destroying idols, he said that that biggest one did it. 
-
 
 Lut (Lot)
 ===================
@@ -180,16 +184,51 @@ Jaahiliyah
 
 After introducing idols, Jews ceased to visit the temple of Abraham. Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. 
 
+Tribes of Arabia:
+	* Ghifar
+	* Ghatafan
+	* Hanifa
+	* Quraish. Clans of Quraish:
+		* Banu Makhzum
+		* Banu Hashim
+		* Banu Zuhra
+		* Banu Nawfal
+		* Banu Abd Shams
+		* Banu Adi ...
+	* Hawazin
+	* Ka'b
+	* Azd
+	* Kindah
+
+
 Qusayy ibn Kilay
 ======================
 
+Hadith from Sahih Muslim:
+```Allah chose Kinanah from descendends of Ismail
+He chose Quraish from Kinanah
+He chose Banu Hashim from Quraish
+He chose me from Banu Hashim```
+
+Kinanah he was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
+
+WHen Khuzagha attacked Jurhum, Jurhum hid the Zamzam before they leave.
+
+At that time, Khuzagha was controlling Mecca. he married chieftan's daughter and after the chieftan died, people wanted Qusayy to take over so he united Quraish tribes and fought against sons of Khuzagha chieftan and reclaimed the control over Mecca for the Quraish.
+
 The great-great-greatfather of the Prophet Muhammad saw. after battles it was agreed that Qusay from Quraish must be the guardian of the Kaaba. They were receiving taxes, feeding the pilgrims and living in tents. Qusayy told them to build houses. His hidden qualities enabled him to establish his superiority over the Makkans and especially the tribe of Quraysh. Within a short time he acquired the high governmental offices in Makkah and also became the custodian of the keys of the Ka'bah and the undisputed ruler of that city.
+
 Many remarkable events are associated with his name. One of these was that he encouraged the people to construct a house with the name of 'Darun Nadwah' adjacent to the Ka'bah and thus founded a Council Hall for the Arabs so that their dignitaries and chiefs might sit together in this public centre and solve their problems. He died in the 5th A.D. and left behind two sons named Abdud Dar and Abd Manaf.
 
 Hashim
 =======================
 
-Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. married an influential Yathrib woman from Khazraj. He fell ill and died in Gaza. (Surah Quraish mentions these caravans.)
+Abd Manaf's son.
+his name is Amr. Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. married an influential Yathrib woman from Khazraj. He fell ill and died in Gaza. (Surah Quraish mentions these caravans.)
+the silk road was going through Basra. So Hashim hooked to the Silk Road and connected Yemen and Basra. and in the middle was Mecca. and Mecca had people who would come to Hajj, so there was the market.
+
+and it was a safe route because of Mecca was a holy sight.
+One of Hashim's wives was from Yathrib.
 
 Muttalib
 =======================
