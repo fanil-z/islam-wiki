@@ -200,6 +200,8 @@ Tribes of Arabia:
 	* Azd
 	* Kindah
 
+Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad saw died, Arabs conquered both of these empires.
+they did not have buildings, they did not even have a government. they were never united. by modern historic scholars considers this as the same if modern Escimoes conquerred Russia and USA.
 
 Qusayy ibn Kilay
 ======================
