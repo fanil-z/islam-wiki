@@ -1,0 +1,1 @@
+../../ui/dist/assets/index.js
