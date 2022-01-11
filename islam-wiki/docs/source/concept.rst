@@ -12,6 +12,12 @@ Need to do
 * Send Feedback button
 * Buy a hosting place.
 * add favicon
+* add head menu with links
+* add custom css
+* maybe just switch to Hugo as it seems more convenient and versatile:
+	* hugo-doks
+	* hugo-book
+	* hugo-learn
 
 Custom Header
 ****************************

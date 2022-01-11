@@ -12,6 +12,8 @@ Need to do
 * Send Feedback button
 * Buy a hosting place.
 * add favicon
+* add head menu with links
+* add custom css
 
 Custom Header
 ****************************

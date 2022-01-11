@@ -22,13 +22,19 @@ Islam History Map
 #. At first there was only Allah.
 #. Creations: The Throne, The Pen and The Tablet, the angels.
 #. Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
-#. Creation of jinns from smokeless flame, the edge of the flame. Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be among the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing.
+#. Creation of jinns from smokeless flame, the edge of the flame. Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be among the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing. 
+about big bang https://www.youtube.com/watch?v=q3MWRvLndzs
+a brief history of the universe https://www.youtube.com/watch?v=7KYTJ8tBoZ8
 
 
 1. Creation of Humankind 
 *******************************************
 
 #. Adam was created from clay.
+#. According to scientific calculations:
+	* Life on Earth began 3.5 billion years ago.
+	* Animals appeared 600 million years ago.
+	* Modern Homo-Sapiens ~200.000 years ago. scientific Adam and mithochondril Eve is estimated by geneologists 140-200k years ago. Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. https://www.youtube.com/watch?v=xFXxJva_99c
 #. Arrogance of Shaytan
 #. Adam and Eve: Exile from Jannah
 	Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
@@ -70,9 +76,19 @@ Nuh is the sesond most narrated prophet in the Quran. he was the first prophet w
 Hud (Eber?) and people of 'Ad
 =======================
 
-People of Aad were tall, strong and famous fro their craftsmanshift, especially in building construction. at first Ad people worshipped only Allah but then they made idols from stones. and Allah sent them Hud. and they called him a fool and a liar and said tell Allah to send his punishment if you are truthfull. then a draught happened. the plants died but people continued to worship idols. 3 years was the draught. Allh told Hud to gather his followers and leave.
+People of Aad were tall, strong and famous fro their craftsmanshift, especially in building construction. 
+<details>
+<summary>Open history of 'Aad </summary>
+<p>at first Ad people worshipped only Allah but then they made idols from stones. and Allah sent them Hud. and they called him a fool and a liar and said tell Allah to send his punishment if you are truthfull. then a draught happened. the plants died but people continued to worship idols. 3 years was the draught. Allh told Hud to gather his followers and leave.
+and then a black cloud came. People of Aad thought that this cloud will bring them rain. The weather changed. the wind ripped their houses apart and destroyed their buildings. the storm did not stop until the entire region was reduced to ruins.</p>
+</details> 
+here
 
-and then a black cloud came. People of Aad thought that this cloud will bring them rain. The weather changed. the wind ripped their houses apart and destroyed their buildings. the storm did not stop until the entire region was reduced to ruins.
+.. dropdown:: Click on me to see my content!
+	:open:
+    I'm the content which can be anything.
+
+
 
 Saleh (Selah?) and people of Thamud
 =======================
@@ -161,6 +177,8 @@ The people taunted Shuʿayb and told him that, were it not for the prestigious f
 #. Davud
 #. Sulayman (Solomon)
 #. Ilyas (Elija)
+	mentioned 4 times in the Quran. he was the one who perfected his character
+	After death of the prophet Suleyman as, his kingdom was divided into two: Israel(Samaria) and Judah(Jerusalem). They started to go astray. Allah sent Ilyas to Samaria because they started worshipping an idol. They sis not listen to Ilyas, so Allah sent a long-lasting draught. he challenged priests of the idol Ball.
 #. Alyasa (Elisha) 
 #. Yunus Jonah (8-9cen BCE)
 #. Dhu al-Kifl (debated, Ezekiel, Budda or other)
@@ -421,6 +439,9 @@ Dhul Karnain
 Humans are created between angels and animals. Angels dont have their own desires they only worship Allah. and animals are living on their instincts and dont worship Allah as the angels so.
 and if human beings incline to instincts, they become worse than animals. and if they incline towards worshipping Allah, they become better than angels.
 Adam was the last of Allah's creations.
+
+
+about 70 years ago there was a consensus in the scientific world that the universe is eternal, which contradicts the Quran that says Allah started the universe. and after 20 years more cosmic data came and scientists accepted that the Big Bang Theory make more sense. 
 
 
 
