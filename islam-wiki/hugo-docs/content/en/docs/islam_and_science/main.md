@@ -74,7 +74,13 @@ and the AI models are nothing but a code. and as any code in git, it has an auth
 
 the mountains that make the earth firm
 
-The Big Bang theory
+The bees are female
+
+
+rotating in tjeir orbits
+
+smoke in the early stages of the universe
+
 
 Links:
 

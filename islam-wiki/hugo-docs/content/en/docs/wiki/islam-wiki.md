@@ -1,5 +1,11 @@
 Bismillah
 
+<style>
+  code {
+    white-space : pre-wrap !important;
+    word-break: break-word;
+  }
+</style>
 
 # Islam History Map
 
@@ -8,26 +14,169 @@ Bismillah
 ## 0. Before Creation of Humankind
 ***************************************
 
-1. At first there was only Allah.
+1. At first, there was only Allah.
 2. Creations: The Throne, The Pen and The Tablet, the angels.
-3. Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
-4. Creation of jinns from smokeless flame, the edge of the flame. Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of Jinn and he was allowed to be among the angels. Angels and Iblis were send to annihilate many jinnns who were transgressing. 
+<details>
+	<summary>Creation of the Heavens and the Earth</summary>
 
-* [About the  big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
+The Qur'an says that "the heavens and the earth were joined together as one unit, before We clove them asunder" (21:30). Following this big explosion, Allah "turned to the sky, and it had been (as) smoke. He said to it and to the earth: 'Come together, willingly or unwillingly.' They said: 'We come (together) in willing obedience'" (41:11). Thus the elements and what was to become the planets and stars began to cool, come together, and form into shape, following the natural laws that Allah established in the universe.
+
+The Qur'an further states that Allah created the sun, the moon, and the planets, each with their own individual courses or orbits. "It is He Who created the night and the day, and the sun and the moon; all (the celestial bodies) swim along, each in its rounded course" (21:33).
+
+"The heavens, We have built them with power. And verily, We are expanding it" (51:47). There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered.
+
+The Qur'an states that "Allah created the heavens and the earth, and all that is between them, in six days" (7:54). While on the surface this might seem similar to the account related in the Bible, there are some important distinctions.
+
+The verses that mention "six days" use the Arabic word "youm" (day). This word appears several other times in the Qur'an, each denoting a different measurement of time. In one case, the measure of a day is equated with 50,000 years (70:4), whereas another verse states that "a day in the sight of your Lord is like 1,000 years of your reckoning" (22:47). The word "youm" is thus understood, within the Qur'an, to be a long period of time -- an era or eon. Therefore, Muslims interpret the description of a "six day" creation as six distinct periods or eons. The length of these periods is not precisely defined, nor are the specific developments that took place during each period.
+
+</details>
+
+
+<details>
+	<summary> Living Creatures</summary>
+
+Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
+Creation of jinns from smokeless flame, the edge of the flame. 
+After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work.
+
+After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work. A distinct point is made to counter the Biblical idea of a day of rest: "We created the heavens and the earth and all that is between them in six days, nor did any sense of weariness touch Us" (50:38).
+
+Allah is never "done" with His work, because the process of creation is ongoing. Each new child who is born, every seed that sprouts into a sapling, every new species that appears on earth, is part of the ongoing process of Allah's creation. "He it is Who created the heavens and the earth in six days, then established Himself on the Throne. He knows what enters within the heart of the earth, and what comes forth out of it, what comes down from heaven, and what mounts up to it. And He is with you wherever you may be. And Allah sees well all that you do" (57:4).
+
+</details>
+
+<details>
+<summary>Era of Jinns</summary>
+
+Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of jinn and he was allowed to be among the angels.
+
+Jinns were transgressing and were not treating animals well.
+
+Angels and Iblis were send to annihilate many jinnns who were transgressing.
+
+</details>
+
+<details>
+	<summary>Scientific Side-Note</summary>
+
+	1. Life on Earth began 3.5 billion years ago.
+	2. Animals appeared 600 million years ago.
+	3. Modern Homo-Sapiens ~200.000 years ago. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago. Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
+[Watch a good video](https://www.youtube.com/watch?v=xFXxJva_99c)
+
+</details>
+
+
+* [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
 
 
 ## 1. Creation of Humankind 
 *******************************************
 
-1. Adam was created from clay.
-2. According to scientific calculations:
-	* Life on Earth began 3.5 billion years ago.
-	* Animals appeared 600 million years ago.
-	* Modern Homo-Sapiens ~200.000 years ago. scientific Adam and mithochondril Eve is estimated by geneologists 140-200k years ago. Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. https://www.youtube.com/watch?v=xFXxJva_99c
-3. Arrogance of Shaytan
-4. Adam and Eve: Exile from Jannah
-	Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
+<details> <summary> Adam was created from clay.</summary>
+
+While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
+The Qur'an describes how Allah created Adam.
+
+	"We created man from sounding clay, from mud moulded into shape..." 
+	(Quran 15:26)
+	
+	"He began the creation of man from clay, and made his progeny from a quintessence of fluid"
+	(Quran 32:7-8) 
+
+Thus, human beings have a fundamental attachment to the earth.
+
+While the creation of Eve is not described in detail, the Qur'an does make it clear that a "mate" was created with Adam, from the same nature and soul. "It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her in love" (7:189). She is not mentioned by name in the Qur'an, but in Islamic tradition she is known as "Hawwa" (Eve).
+
+From these two individuals, generations of human beings have inhabited the earth. "Oh humankind! We created you from a single pair of a male and a female, and made you into nations and tribes, so that you may know each other (not that ye may despise each other). Verily the most honored among you in the sight of Allah is the who is the most righteous of you. And Allah has full knowledge and is well acquainted (with all things)" (49:13)
+
+</details>
+
+<details>
+	<summary>Iblis refused to bow down to Adam out of arrogance</summary>
+
+The Qur’an tells the story of Iblis several different times, each time offering different facets of the story. The version most relevant for our purposes, is in the seventh sura. God speaks first.
+
+	We created you, We formed you; and then We commanded the angels, "bow down before Adam," and they bowed. But not Iblis; he refused to be one of those who bow.
+
+	God said: "What prevented you from bowing down as I commanded you?" And he [Iblis] said: "I am better than he: You created me from fire and him from clay."
+
+	God said: "Get down from here! Here is no place for your arrogance, Get out! You are the lowest of creatures!"
+	but Iblis said, "Give me respite until the day they are raised."
+	and God said, "You have respite."
+	And then Iblis said, "Because you have put me in the wrong, I shall lie in wait for them on Your straight path; I will assault them from the front and the back, from their right and their left; nor will you find that most of them are grateful."
+	God said, "Get out! You are disgraced and expelled! I swear I shall fill Hell with you and all who follow you."
+
+</details>
+
+<details>
+	<summary>Creation of Hawwah (Eve)</summary>
+Adam’s spouse, although commonly referred to as Eve or Hawa, is not mentioned by name in the Quran despite being referred to in many places. The details regarding how Eve was created is not mentioned in the Quran. However, it is made evident that Eve was created from Adam. 
+
+“O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women….” [4:1]
+
+The hadith or traditions of Prophet Muhammad (pbuh) further reveal that Eve was created from Adam’s rib which was taken while he was asleep. The narrations that describe this story of the rib is often used to emphasize being gentle and kind to women. 
+
+“O Muslims! I advise you to be gentle with women, for they are created from a rib, and the most crooked portion of the rib is its upper part. If you try to straighten it, it will break, and if you leave it, it will remain crooked; so I urge you to take care of the women.” [Sahih al-Bukhari 5185; Sahih Muslim 8:3468]
+
+After Eve was created, the couple was given a place in heaven.
+
+“And We said, ‘O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.’” [2:35]
+
+Eve was created to accompany Adam as his companion and life partner, and they were instructed to live together in tranquility. In heaven, Adam and Eve were free to eat and enjoy everything with the exception of one tree. 
+
+The Quran does not describe what kind of tree it was, however, this prohibition set the stage for the test that was to come.
+</details>
+
+<details>
+	<summary>Adam and Eve: Exile from Jannah</summary>
+
+Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
+
+In the Quran, the forbidden tree served as a test for Adam and Eve. Furthermore, God warned Adam and Eve that the devil was an enemy and that they should be on their guard. 
+
+“So We said, ‘O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer.’” [20:117]
+
+Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispering into their hearts. Claiming to be a sincere advisor, he planted in their minds ideas that would make the forbidden tree appealing. Thoughts of the tree preoccupied both Adam and Eve. Forgetting the warning, they gave in and erred.
+
+“But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, ‘Your Lord did not forbid you this tree except that you become angels or become of the immortal.’ And he swore [by Allah ] to them, ‘Indeed, I am to you from among the sincere advisors.’ So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, ‘Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?’” [7:20-22]
+
+By forgetting God’s command, Adam and Eve bore equal responsibility for their error. This too was a test for Satan, who in fact, furthered his disobedience by exploiting mankind through their desires. 
+</details>
+
+<details>
+	<summary>Repentance of Adam and Eve and Allah's Forgiveness</summary>
+
+Through this test, God prepared Adam for his role on earth, as a caretaker and a Prophet. This experience taught Adam firsthand that Satan was a deceptive enemy to mankind. 
+
+After eating from the tree, Adam and Eve became ashamed and deeply regretted their actions. They acknowledged their errors and sought mercy, repenting sincerely [7:23].
+
+The story of Adam and Eve in the Quran teaches the virtue of repentance and supplication. Adam and Eve recognized their errors and prayed for forgiveness. This, in turn, earned them Allah’s forgiveness and guidance.
+
+“Then his Lord chose him and turned to him in forgiveness and guided [him].” [20:122]
+
+</details>
+
+
+<details>
+	<summary><b>Adam and Eve are sent to Earth</b>
+
+They were forgiven but sent to Earth. They were forgiven but sent to Earth. They were forgiven but sent to Earth. They were forgiven but sent to Earth.
+</summary>
+In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. 
+
+“Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful.” [2:37]
+
+Despite being forgiven, Adam and Eve were no longer granted the comforts of paradise and would be sent to Earth. It is important to note that since Allah had mentioned Adam’s mission on Earth long before his test, Adam and Eve’s appointment to earth is not viewed as punishment, instead, it aligns with God’s Plan. The Quran describes the Earth to Adam and Eve as a place in which to reside and enjoy for a period of time, until the day they die and are resurrected (Quran 7:24-25). 
+
+“We said, ‘Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance – there will be no fear concerning them, nor will they grieve. And those who disbelieve and deny Our signs – those will be companions of the Fire; they will abide therein eternally.’” [2:38-39]
+
+Furthermore, Adam is informed by God that he and his progeny will be sent guidance during their time on Earth. In contrast, Satan, unlike Adam, had not begged for forgiveness and had instead requested respite: a chance to mislead and reveal the inadequacy of mankind. God facilitated this request, but warned that Satan would be powerless over the believers. 
+
+Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Earth, Adam (pbuh) assumes the role as the first Prophet and the father of mankind. 
+</details>
+
 
 ## 2. Early Human Era on Earth
 *******************************************
@@ -52,13 +201,17 @@ ibris was the first to write.
 
 There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people strted celebrating anniversaries of these men.they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
 
-## Nuh
+## Nuh (Noah) and the Great Flood
 *************************************
 
 Nuh is the sesond most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him.
 ### The Great Flood
 
 After the flood, people started over and for some time they lived in tawhid.
+<details>
+<summary><b>Historic Side-Note </b></summary>
+Here the examples of all old nations among which existed the story of the great flood.
+</details>
 
 ### Hud (Eber?) and people of 'Ad
 
@@ -119,8 +272,9 @@ Soddom and Homorra
 
 
 ### Iskhaq (Isaac) (beginning of Jewish people)
-	* Yacub
-		* Yousuf
+
+* Yacub
+	* Yousuf
 
 ### Ismail (Ishmael) (beginning of Arabic people)
 Second son of Ibrahim.
