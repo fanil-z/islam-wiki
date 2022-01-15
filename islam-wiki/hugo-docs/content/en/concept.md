@@ -14,20 +14,28 @@ Need to do
 * add favicon
 * add head menu with links
 * add custom css
-* maybe just switch to Hugo as it seems more convenient and versatile:
-	* hugo-doks
+* [DONE] maybe just switch to Hugo as it seems more convenient and versatile:
+	* hugo-doks +
 	* hugo-book
 	* hugo-learn
 * https://www.islam-guide.com/truth.htm maybe contact them and fix their CSS.
 * add the "Useful Links" section
+* add some images or emoji
+* find a way to deal with bootstrap CSS
+* deal with the TOC
+* attach the upper panel
+* put the search-box to the upper level
 
 
 Sections
 ===========
 1. Ultimate Roadmap of the Universe According to Islam
-2. Islam and Science (Scientific Miracles of the Quran)
-3. Synopsis for each episode of the seerah of the prophet Muhammad saw
-4. Comparison with other religions
+2. Interactive chart with the Prophets family.
+3. Islam and Science (Scientific Miracles of the Quran)
+4. Synopsis for each episode of the seerah of the prophet Muhammad saw
+5. Comparison with other religions
+6. [God's creation compared to computer programming]
+7. Maybe make the interactive chart of connections like in Infinite Jest.
 
 
 Custom Header
@@ -58,17 +66,10 @@ Nice to Have
 
 Example
 .. _chronology_main:
-
 Section to cross-reference
 --------------------------
-
 This is the text of the section.
-
 It refers to the section itself, see :ref:`chronology_main`.
-
 :doc:`Islam Chronology <../chronology_main>` 
-
-
-
 
 Bismilah

@@ -14,16 +14,34 @@
 ## 0. Before Creation of Humankind
 ***************************************
 
-1. At first, there was only Allah.
-2. Creations: The Throne, The Pen and The Tablet, the angels.
+At first, there was only Allah.
+
+<details>
+	<summary>First Creations: Throne, The Pen and The Tablet</summary>
+The first creation of Allah was the Throne (Al-'Arsh). It is considered to be the largest creation.
+The Quran mentions the throne some 25 times (33 times as Al-'Arsh). 'Ali ibn Abi Talib, said: "Allah created the Throne as an indication of His power, not for taking it as a place for Himself."
+
+</details>
+
+<details>
+	<summary>Creation of Angels</summary>
+Jibril or the Ruh (Gabriel), 
+Mikail 
+
+
+</details>
+
+
 <details>
 	<summary>Creation of the Heavens and the Earth</summary>
 
-The Qur'an says that "the heavens and the earth were joined together as one unit, before We clove them asunder" (21:30). Following this big explosion, Allah "turned to the sky, and it had been (as) smoke. He said to it and to the earth: 'Come together, willingly or unwillingly.' They said: 'We come (together) in willing obedience'" (41:11). Thus the elements and what was to become the planets and stars began to cool, come together, and form into shape, following the natural laws that Allah established in the universe.
+The Qur'an says that `the heavens and the earth were joined together as one unit, before We clove them asunder` (21:30). Following this big explosion, Allah ```turned to the sky, and it had been (as) smoke. He said to it and to the earth: 'Come together, willingly or unwillingly.' They said: 'We come (together) in willing obedience'``` (41:11). Thus the elements and what was to become the planets and stars began to cool, come together, and form into shape, following the natural laws that Allah established in the universe.
 
 The Qur'an further states that Allah created the sun, the moon, and the planets, each with their own individual courses or orbits. "It is He Who created the night and the day, and the sun and the moon; all (the celestial bodies) swim along, each in its rounded course" (21:33).
 
-"The heavens, We have built them with power. And verily, We are expanding it" (51:47). There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered.
+	"The heavens, We have built them with power. And verily, We are expanding it" (51:47)
+
+There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered.
 
 The Qur'an states that "Allah created the heavens and the earth, and all that is between them, in six days" (7:54). While on the surface this might seem similar to the account related in the Bible, there are some important distinctions.
 
@@ -73,7 +91,7 @@ Angels and Iblis were send to annihilate many jinnns who were transgressing.
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
 
 
-## 1. Creation of Humankind 
+## 1. Adam and Eve 
 *******************************************
 
 <details> <summary> Adam was created from clay.</summary>
@@ -94,7 +112,7 @@ From these two individuals, generations of human beings have inhabited the earth
 </details>
 
 <details>
-	<summary>Iblis refused to bow down to Adam out of arrogance</summary>
+	<summary>Iblis refused to bow down to Adam</summary>
 
 The Qur’an tells the story of Iblis several different times, each time offering different facets of the story. The version most relevant for our purposes, is in the seventh sura. God speaks first.
 
@@ -114,7 +132,7 @@ The Qur’an tells the story of Iblis several different times, each time offerin
 	<summary>Creation of Hawwah (Eve)</summary>
 Adam’s spouse, although commonly referred to as Eve or Hawa, is not mentioned by name in the Quran despite being referred to in many places. The details regarding how Eve was created is not mentioned in the Quran. However, it is made evident that Eve was created from Adam. 
 
-“O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women….” [4:1]
+	"O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women…." Quran [4:1]
 
 The hadith or traditions of Prophet Muhammad (pbuh) further reveal that Eve was created from Adam’s rib which was taken while he was asleep. The narrations that describe this story of the rib is often used to emphasize being gentle and kind to women. 
 
@@ -122,7 +140,7 @@ The hadith or traditions of Prophet Muhammad (pbuh) further reveal that Eve was 
 
 After Eve was created, the couple was given a place in heaven.
 
-“And We said, ‘O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.’” [2:35]
+	"And We said, ‘O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.’" Quran [2:35]
 
 Eve was created to accompany Adam as his companion and life partner, and they were instructed to live together in tranquility. In heaven, Adam and Eve were free to eat and enjoy everything with the exception of one tree. 
 
@@ -130,17 +148,17 @@ The Quran does not describe what kind of tree it was, however, this prohibition 
 </details>
 
 <details>
-	<summary>Adam and Eve: Exile from Jannah  🚻 🐍 🌳 🍎 </summary>
+	<summary>Adam and Eve: Eating from Forbidden Tree 🚻 🐍 🌳 🍎 </summary>
 
-Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
+Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live on the Earth.
 
 In the Quran, the forbidden tree served as a test for Adam and Eve. Furthermore, God warned Adam and Eve that the devil was an enemy and that they should be on their guard. 
 
-“So We said, ‘O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer.’” [20:117]
+	"So We said, ‘O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer.’" Quran [20:117]
 
 Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispering into their hearts. Claiming to be a sincere advisor, he planted in their minds ideas that would make the forbidden tree appealing. Thoughts of the tree preoccupied both Adam and Eve. Forgetting the warning, they gave in and erred.
 
-“But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, ‘Your Lord did not forbid you this tree except that you become angels or become of the immortal.’ And he swore [by Allah ] to them, ‘Indeed, I am to you from among the sincere advisors.’ So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, ‘Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?’” [7:20-22]
+	"But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, ‘Your Lord did not forbid you this tree except that you become angels or become of the immortal.’ And he swore [by Allah ] to them, ‘Indeed, I am to you from among the sincere advisors.’ So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, ‘Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?’" Quran [7:20-22]
 
 By forgetting God’s command, Adam and Eve bore equal responsibility for their error. This too was a test for Satan, who in fact, furthered his disobedience by exploiting mankind through their desires. 
 </details>
@@ -154,7 +172,7 @@ After eating from the tree, Adam and Eve became ashamed and deeply regretted the
 
 The story of Adam and Eve in the Quran teaches the virtue of repentance and supplication. Adam and Eve recognized their errors and prayed for forgiveness. This, in turn, earned them Allah’s forgiveness and guidance.
 
-“Then his Lord chose him and turned to him in forgiveness and guided [him].” [20:122]
+"Then his Lord chose him and turned to him in forgiveness and guided [him]." Quran [20:122]
 
 </details>
 
