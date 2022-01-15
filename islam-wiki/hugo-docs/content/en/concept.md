@@ -22,6 +22,14 @@ Need to do
 * add the "Useful Links" section
 
 
+Sections
+===========
+1. Ultimate Roadmap of the Universe According to Islam
+2. Islam and Science (Scientific Miracles of the Quran)
+3. Synopsis for each episode of the seerah of the prophet Muhammad saw
+4. Comparison with other religions
+
+
 Custom Header
 ****************************
 * Tabs: 

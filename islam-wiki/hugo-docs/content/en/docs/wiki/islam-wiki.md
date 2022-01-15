@@ -1,5 +1,4 @@
-Bismillah
-
+# World History Roadmap 🌍☪️
 <style>
   code {
     white-space : pre-wrap !important;
@@ -7,9 +6,10 @@ Bismillah
   }
 </style>
 
-# Islam History Map
+*(including creation of the Universe and development of Abrahamic religions according to Islamic sources)*
 
-*(including creation of Humankind and development of Abrahamic religions)*
+*بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem*
+
 
 ## 0. Before Creation of Humankind
 ***************************************
@@ -48,6 +48,7 @@ Allah is never "done" with His work, because the process of creation is ongoing.
 <details>
 <summary>Era of Jinns</summary>
 
+Allah created jinns from fire🔥. 
 Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of jinn and he was allowed to be among the angels.
 
 Jinns were transgressing and were not treating animals well.
@@ -58,14 +59,15 @@ Angels and Iblis were send to annihilate many jinnns who were transgressing.
 
 <details>
 	<summary>Scientific Side-Note</summary>
-
-	1. Life on Earth began 3.5 billion years ago.
-	2. Animals appeared 600 million years ago.
-	3. Modern Homo-Sapiens ~200.000 years ago. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago. Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
+	
+	13.8 billion years ago: the Universe started to expand. 
+	3.5 billion years ago: Life on Earth began.
+	600 million years ago: Animals appeared.
+	~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
+	Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
 [Watch a good video](https://www.youtube.com/watch?v=xFXxJva_99c)
 
 </details>
-
 
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
@@ -128,7 +130,7 @@ The Quran does not describe what kind of tree it was, however, this prohibition 
 </details>
 
 <details>
-	<summary>Adam and Eve: Exile from Jannah</summary>
+	<summary>Adam and Eve: Exile from Jannah  🚻 🐍 🌳 🍎 </summary>
 
 Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live in the Earth.
 
@@ -193,7 +195,7 @@ Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Isl
 
 The Islamic literature holds that Seth was born when Adam was past 100 and that Adam appointed Seth as guide to his people. The 11th-century Syrian historian and translator Al-Mubashshir ibn Fātik recorded the maxims and aphorisms of the ancient philosophers in his book Kitāb mukhtār al-ḥikam wa-maḥāsin al-kalim[16] and included a chapter on Seth. Within Islamic tradition Seth holds wisdom of several kinds; knowledge of time, prophecy of the future Great Flood, and inspiration on the methods of night prayer. Islam, Judaism and Christianity trace the genealogy of mankind back to Seth since Abel left no heirs and Cain's heirs, according to tradition, were destroyed by the Great Flood. Many traditional Islamic crafts are traced back to Seth, such as the making of horn combs
 
-flute, music and dancing was invented. According to the Bible, Jubal the descendant of Cain invenved flute and music.
+🎷 flute, music and dancing was invented. According to the Bible, Jubal the descendant of Cain invenved flute and music.
 </details>
 
 <details>
@@ -201,13 +203,36 @@ flute, music and dancing was invented. According to the Bible, Jubal the descend
 
 Idris was born when Adam as was alive. Idris is mentioned in the Quran that he was of high class and a prophet. 
 ibris was the first to write.
+
+Idris is mentioned twice in the Quran, where he is described as a wise man. In surah 19 of the Quran, Maryam, God says:
+
+	"Also mention in the Book the case of Idris: He was a man of truth (and sincerity), (and) a prophet:
+	And We raised him to a exalted place."
+	Quran 19:56–57
+
+	"And (remember) Isma'il, Idris, and Dhu al-Kifl,[19] all (men) of constancy and patience;
+	We admitted them to Our mercy: for they were of the righteous ones."
+	Quran 21:85–86 (Yusuf Ali)
+
+According to later Muslim writings, Idris was born in Babylon, a city in present-day Iraq. Before he received the Revelation, he followed the rules revealed to Prophet Seth, the son of Adam. When Idris grew older, God bestowed Prophethood on him. During his lifetime all the people were not yet Muslims. Afterwards, Idris left his hometown of Babylon because a great number of the people committed many sins even after he told them not to do so. Some of his people left with Idris. It was hard for them to leave their home.
+
+They asked Prophet Idris: "If we leave Babylon, where will we find a place like it?" Prophet Idris said: "If we immigrate for the sake of Allah, He will provide for us." So the people went with Prophet Idris and they reached the land of Egypt. They saw the Nile River. Idris stood at its bank and mentioned Allah, the Exalted, by saying: "SubhanAllah."
+
+Islamic literature narrates that Idris was made prophet at around 40, which parallels the age when Muhammad began to prophesy, and lived during a time when people had begun to worship fire. Exegesis embellishes upon the lifetime of Idris, and states that the prophet divided his time into two. For three days of the week, Idris would preach to his people and four days he would devote solely to the worship of God. Many early commentators, such as Tabari, credited Idris with possessing great wisdom and knowledge.
+
+Exegesis narrates that Idris was among "the first men to use the pen as well as being one of the first men to observe the movement of the stars and set out scientific weights and measures." These attributes remain consistent with the identification of Enoch with Idris, as these attributes make it clear that Idris would have most probably lived during the Generations of Adam, the same era during which Enoch lived. Ibn Arabi described Idris as the "prophet of the philosophers" and a number of works were attributed to him. Some scholars wrote commentaries on these supposed works, all while Idris was also credited with several inventions, including the art of making garments.
+
+The commentator Ibn Ishaq narrated that he was the first man to write with a pen and that he was born when Adam still had 308 years of his life to live. In his commentary on the Quranic verses 19:56-57, the commentator Ibn Kathir narrated "During the Night Journey, the Prophet passed by him in fourth heaven. In a hadith, Ibn Abbas asked Ka’b what was meant by the part of the verse which says, ”And We raised him to a high station.” Ka’b explained: Allah revealed to Idris: ‘I would raise for you every day the same amount of the deeds of all Adam’s children’ – perhaps meaning of his time only. So Idris wanted to increase his deeds and devotion. A friend of his from the angels visited and Idris said to him: ‘Allah has revealed to me such and such, so could you please speak to the angel of death, so I could increase my deeds.’ The angel carried him on his wings and went up into the heavens. When they reached the fourth heaven, they met the angel of death who was descending down towards earth. The angel spoke to him about what Idris had spoken to him before. The angel of death said: ‘But where is Idris?’ He replied, ‘He is upon my back.’ The angel of death said: ‘How astonishing! I was sent and told to seize his soul in the fourth heaven. I kept thinking how I could seize it in the fourth heaven when he was on the earth?’ Then he took his soul out of his body, and that is what is meant by the verse: ‘And We raised him to a high station.’
+
+Early accounts of Idris' life attributed "thirty portions of revealed scripture" to him. Therefore, Idris was understood by many early commentators to be both a prophet as well as a messenger. Several modern commentators have linked this sentiment with Biblical apocrypha such as the Book of Enoch and the Second Book of Enoch.
+
 </details>
 
 ### How Idol Worshipping appeared
 
 There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
 
-## Nuh (Noah) and the Great Flood
+## Nuh (Noah) and the Great Flood 🌊 ⛴ 🕊 ⛰ 🌱
 *************************************
 
 Nuh is the sesond most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him.
@@ -215,6 +240,7 @@ Nuh is the sesond most narrated prophet in the Quran. he was the first prophet w
 <details>
 	<summary><b>The Great Flood</b></summary>
 
+🕊
 After the flood, people started over and for some time they lived in tawhid.
 </details>
 
@@ -223,7 +249,7 @@ After the flood, people started over and for some time they lived in tawhid.
 Here the examples of all old nations among which existed the story of the great flood.
 </details>
 
-### Hud (Eber?) and people of 'Ad
+### Hud (Eber?) and people of 'Ad 🌪
 
 People of Aad were tall, strong and famous fro their craftsmanshift, especially in building construction. 
 <details>
@@ -232,7 +258,7 @@ People of Aad were tall, strong and famous fro their craftsmanshift, especially 
 and then a black cloud came. People of Aad thought that this cloud will bring them rain. The weather changed. the wind ripped their houses apart and destroyed their buildings. the storm did not stop until the entire region was reduced to ruins.</p>
 </details>
 
-### Saleh (Selah?) and people of Thamud
+### Saleh (Selah?) and people of Thamud 🐪
 
 Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
 <details>
@@ -267,7 +293,7 @@ His father Azar was a well-known idol-sculptor that his people worshiped. As a y
 
 When Ibrahim was young he used to laugh whenever he saw them entering the temple, lowering their heads, silently offering the statues the best of their food, crying and asking forgiveness from them. He started feeling angry towards his people, who could not realize that these are only stones that could neither benefit nor harm them.
 
-#### Searching for Truth
+#### Searching for Truth 🌠
 
 One night, Abraham went up to the mountain, leaned against a rock, and looked up to the sky. He saw a shining star and said to himself, "Could this be my Lord?" But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon rising in splendor and said, "Could this be my Lord?" but the moon also set. At daybreak, he saw the sun rising and said, "Could this be my Lord? This is the biggest and brightest!" But when the sun also set he said, "O my people! I am free from all that you join as partners with Allah! I have turned my face towards Allah who created the heavens and the earth and never shall I associate partners with Allah. Our Lord is the creator of the heavens and the earth and everything in between. He has the power to make the stars rise and set." After this declaration, Abraham then heard Allah calling him, "O Abraham " Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!"Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
 
@@ -286,10 +312,11 @@ Soddom and Homorra
 * Yacub
 	* Yousuf
 
-### Ismail (Ishmael) (beginning of Arabic people)
+### Ismail (Ishmael) (beginning of Arabic people) 
 Second son of Ibrahim.
 	* Hajar and Zamzam
-	* Building of Kaaba
+	* Dream of sacrifice 🚸 🏔️ 🐑
+	* Building of Kaaba 🕋
 
 ### Ayyub (Job)
 
@@ -312,17 +339,22 @@ The people taunted Shuʿayb and told him that, were it not for the prestigious f
 ## 4. Musa and the Five Books (Torah)
 *******************************************
 
-### Musa (Moses)
+### Musa (Moses) 🌿 🔥
 #### Harun (Aaron)
 #### Exodus
 ### The Torah: (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
-### Davud
+### Davud 
 ### Sulayman (Solomon)
+
+The temple built by jinns 🏛️
+magic taught by Harut and Marut in Babylon
+
 ### Ilyas (Elija)
 mentioned 4 times in the Quran. he was the one who perfected his character
 After death of the prophet Suleyman as, his kingdom was divided into two: Israel(Samaria) and Judah(Jerusalem). They started to go astray. Allah sent Ilyas to Samaria because they started worshipping an idol. They sis not listen to Ilyas, so Allah sent a long-lasting draught. he challenged priests of the idol Ball.
 ### Alyasa (Elisha) 
-### Yunus Jonah (8-9cen BCE)
+### Yunus Jonah 🐳 (8-9cen BCE) 
+The companion of the fish 🐟.
 ### Dhu al-Kifl (debated, Ezekiel, Budda or other)
 
 ## 5. Isa
@@ -337,7 +369,7 @@ After death of the prophet Suleyman as, his kingdom was divided into two: Israel
 * Konstantine and Ariyan Christians 
 
 
-## 6. Pre-Islamic Arabia
+## 6. Pre-Islamic Arabia 🏜 🐫 🌴 🕋 
 *******************************************
 
 #### Jaahiliyah
@@ -398,7 +430,7 @@ younger brother of Hashim who took over the right of watering the pilgrims and l
 #### Abd'al Muttalib
 
 his name was Shaybah. Mutallib took him from Yathrib and brought him to Mecca. He rediscovered Zamzam
-##### **Battle of Elephants** (Year of the elephant)
+##### **Battle of Elephants** (Year of the elephant) 🐘
 
 ### Notable Monotheists
 
@@ -425,7 +457,7 @@ his name was Shaybah. Mutallib took him from Yathrib and brought him to Mecca. H
 * 620 Arabs from Yathrib meet the prophet Mohammad saw and invite him
 * 622 Hijrah. together with 70 families the prophet Muhammad saw moves to Yathrib nd renames it to Medina. The beginning of the Muslim era.
 
-### Medina Period
+### Medina Period 🕌
 
 * 624 Battle of Badr
 * 624 which year was the change of qiblah: "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). the prophet Muhammad was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
@@ -487,18 +519,67 @@ Umayyad Dinasty Era
  Somewher here Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations).
  his student ibn Hisham shortens his seerah.
 
+حلال
+
+https://emojipedia.org/ramadan/
+
 ## 8. Yawm Al Qiyamah
 *******************************************
 
-Signs of Al Kiyamah
-	* The prophet Muhammad
-	* 3 major earthquakes
-	* Dajjal
-	* Isa will return to the Earth and defeat Dajjal
-	* smoke
-	* bedouins building towers
+* The prophet Muhammad
+* bedouins building towers
 
+#### 10 Major Signs of Al Kiyamah
 
+These signs are connected to each other. When one comes, the other one follows.
+There is a hadith that prophet Muhammad saw said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
+
+<details>
+	<summary><b>Dajjal - the false Messiah or Anti-Christ</b></summary> 
+
+</details>
+
+<details>
+	<summary><b>Gog and Magog (Yadjuj and Madjuj)</b></summary> 
+
+</details>
+
+<details>
+	<summary><b>3 sinkings (swallowings) of the earth</b></summary> 
+(maybe major earthquakes). One in the east, one in the west and one in Arabia.
+</details>
+
+<details>
+	<summary><b>A fire would come out of Yemen</b></summary> 
+
+</details>
+
+<details>
+	<summary><b>Isa will return to the Earth and defeat Dajjal</b></summary> 
+
+</details>
+
+<details>
+	<summary><b>The Smoke (Ad-Dukhan)</b></summary> 
+The Day of Judgement will not take place until you experience Ad Dukhaw. a smoke that will appear in the sky. you will see it, you will feel it. some hadiths say "dark smoke". it will come into everyone. Smoke will come upon the believers like a flu or cold. and it will come upon non-believers causing disaster death, severe ilness and loding consciousness.
+
+The Smoke is mentioned in the Quran.
+
+	"Then wait for the Day when the sky will bring a visible smoke, covering the people; this is a painful torment. [They will say], “Our Lord, remove from us the torment; indeed, we are believers.” How can they be reminded when a messenger has already come to them, making things clear."
+	Quran surah Ad Dukhan
+</details>
+
+<details>
+	<summary><b>The Sun will come up from the West</b></summary> 
+and since then, the repentance will not be anymore accepted.
+</details>
+
+<details>
+	<summary><b>The Beast appears on the Earth</b></summary> 
+The Beast will come out at that time. and it will leave marks on people as believer or non-believer.
+</details>
+
+🌱🌴
 
 Prophet Muhammad (570-632)
 1. Abu Bakr 632-634
@@ -578,7 +659,7 @@ Dhul Karnain
 
 
 
-
+🌌
 Humans are created between angels and animals. Angels dont have their own desires they only worship Allah. and animals are living on their instincts and dont worship Allah as the angels so.
 and if human beings incline to instincts, they become worse than animals. and if they incline towards worshipping Allah, they become better than angels.
 Adam was the last of Allah's creations.
