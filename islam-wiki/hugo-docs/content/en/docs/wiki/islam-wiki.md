@@ -85,8 +85,6 @@ The Qur'an describes how Allah created Adam.
 	"He began the creation of man from clay, and made his progeny from a quintessence of fluid"
 	(Quran 32:7-8) 
 
-Thus, human beings have a fundamental attachment to the earth.
-
 While the creation of Eve is not described in detail, the Qur'an does make it clear that a "mate" was created with Adam, from the same nature and soul. "It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her in love" (7:189). She is not mentioned by name in the Qur'an, but in Islamic tradition she is known as "Hawwa" (Eve).
 
 From these two individuals, generations of human beings have inhabited the earth. "Oh humankind! We created you from a single pair of a male and a female, and made you into nations and tribes, so that you may know each other (not that ye may despise each other). Verily the most honored among you in the sight of Allah is the who is the most righteous of you. And Allah has full knowledge and is well acquainted (with all things)" (49:13)
@@ -180,34 +178,46 @@ Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Ear
 
 ## 2. Early Human Era on Earth
 *******************************************
-#### Habyl and Qabyl
 
-1. Adam and Hawwa had many children. 
-2. Habyl and Qabyl (Abel and Cain) 
-	Both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat l-māidah) 
+<details>
+	<summary><b>Habyl and Qabyl</b></summary>
 
-#### Seth
+Adam and Eve had many children. Habyl and Qabyl (Abel and Cain), both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat l-māidah). 
+According to the Quran and Bible, lifespan of some prophets was much longer than of modern people. They lived for up to one thousand years.
+</details>
+
+<details>
+	<summary><b>Seth</b></summary>
 
 Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel.
-flute, music and dancing was invented.
 
-#### Idris (Enoch)
+The Islamic literature holds that Seth was born when Adam was past 100 and that Adam appointed Seth as guide to his people. The 11th-century Syrian historian and translator Al-Mubashshir ibn Fātik recorded the maxims and aphorisms of the ancient philosophers in his book Kitāb mukhtār al-ḥikam wa-maḥāsin al-kalim[16] and included a chapter on Seth. Within Islamic tradition Seth holds wisdom of several kinds; knowledge of time, prophecy of the future Great Flood, and inspiration on the methods of night prayer. Islam, Judaism and Christianity trace the genealogy of mankind back to Seth since Abel left no heirs and Cain's heirs, according to tradition, were destroyed by the Great Flood. Many traditional Islamic crafts are traced back to Seth, such as the making of horn combs
+
+flute, music and dancing was invented. According to the Bible, Jubal the descendant of Cain invenved flute and music.
+</details>
+
+<details>
+	<summary><b>Idris (Enoch)</b></summary>
 
 Idris was born when Adam as was alive. Idris is mentioned in the Quran that he was of high class and a prophet. 
 ibris was the first to write.
-
+</details>
 
 ### How Idol Worshipping appeared
 
-There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people strted celebrating anniversaries of these men.they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
+There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
 
 ## Nuh (Noah) and the Great Flood
 *************************************
 
 Nuh is the sesond most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him.
-### The Great Flood
+
+<details>
+	<summary><b>The Great Flood</b></summary>
 
 After the flood, people started over and for some time they lived in tawhid.
+</details>
+
 <details>
 <summary><b>Historic Side-Note </b></summary>
 Here the examples of all old nations among which existed the story of the great flood.
