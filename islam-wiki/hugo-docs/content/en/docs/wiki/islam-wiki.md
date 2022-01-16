@@ -18,24 +18,73 @@ At first, there was only Allah.
 
 <details>
 	<summary>First Creations: Throne, The Pen and The Tablet</summary>
+
 The first creation of Allah was the Throne (Al-'Arsh). It is considered to be the largest creation.
 The Quran mentions the throne some 25 times (33 times as Al-'Arsh). 'Ali ibn Abi Talib, said: "Allah created the Throne as an indication of His power, not for taking it as a place for Himself."
+
+‘Ubadah ibn al-Samit reported: The Prophet, peace and blessings be upon him, said, “Verily, the first to be created by Allah was the pen. 
+
+Source: Sunan al-Tirmidhī 3319
+
+Chapter 68 in the Quran is named ‘Al-Qalam’ (the pen). It opens up with the verse: ‘By the pen and what they inscribe.’
+
+In Chapter 96 of the Quran one finds another reference to the high value placed on the might of the pen; ‘Who taught by the pen. Taught mankind that which he knew not’ (96:4-5).
+
+Allah told it to write, so the Pen wrote all that will happen until the Final Hour.
+
+'Pen' isthe name of that thing by whose instrumentality Allah has caused the writing on the Tablet. Hence, Allah has ordained the Tablet to serve as an original record, through which the angels, peace be upon them, acquire the knowledge of what is going to happen concerning what is hidden and what is inspired.
+
+Guarded (Preserved) Tablet
+The Preserved Tablet is the record in which Allaah The Almighty has recorded the fate of His creatures before He created them. In this regard, He Says (what means): 
+	
+	"Do you not know that Allaah knows what is in the heaven and earth? Indeed, that is in a Record." Quran 22: 70 
+
+In his interpretation of this verse, Ibn ‘Atiyyah  may  Allaah  have  mercy  upon  him said that the record in this verse refers to the Preserved Tablet. Allaah The Almighty also Says (what means): {No disaster strikes upon the earth or among yourselves except that it is in a Record before We bring it into being.} [Quran 57: 22]  The Maaliki scholar, Al-Qurtubi  may  Allaah  have  mercy  upon  him mentioned in his interpretation of this verse that the record mentioned here refers to the Preserved Tablet.  
 
 </details>
 
 <details>
 	<summary>Creation of Angels</summary>
-Jibril or the Ruh (Gabriel), 
-Mikail 
 
+Allah created angels from nur (luminous light).
+
+One of the Islamic major characteristic is their lack of bodily desires; they never get tired, do not eat or drink, and have no anger.[9] As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena.[3] Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good.[4] Belief in angels is one of the main articles of faith in Islam.
+
+**Jibril** or the Ruh (Gabriel) is venerated as one of the primary archangels and as the Angel of Revelation in Islam.[60][61][62] Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse;[60][61][62] he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel.[61] Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).[65] 
+
+**Mikail** the archangel of mercy, is often depicted as providing nourishment for bodies and souls while also being responsible for bringing rain and thunder to Earth.[67] Some scholars pointed out that Mikail is in charge of angels who carry the laws of nature.
+
+**Israfil** (frequently associated with the Jewish and Christian angel Raphael), is the archangel who blows into the trumpet in the end time, therefore also associated with music in some traditions.[69] Israfil is responsible for signaling the coming of Qiyamah (Judgment Day) by blowing a horn.
+
+**Azrail**  is the archangel of death. He and his subordinative angels are responsible for parting the soul from the body of the dead and will carry the believers to heaven (Illiyin) and the unbelievers to hell (Sijjin).
+
+Mentioned in Quran:
+* Nāzi'āt and Nāshiṭāt, helpers of Azrail who take the souls of the deceased.
+	* Nāzi'āt: they are responsible for taking out the souls of disbelievers painfully.
+	* Nāshiṭāt: they are responsible for taking out the souls of believers peacefully.
+* Hafaza, (The Guardian angel):
+* Kiraman Katibin (Honourable Recorders), two of whom are charged to every human being; one writes down good deeds and another one writes down evil deeds. They are both described as 'Raqeebun 'Ateed' in the Qur'an.
+* Mu'aqqibat (The Protectors) who keep people from death until its decreed time and who bring down blessings.
+* Angels of Hell:
+	* Maalik, Chief of the angels who govern Jahannam (Hell).
+	* Nineteen angels of hell, commanding the Zabaniyya, to torment sinful people in hell.
+	* Those angels who distribute provisions, rain, and other blessings by God's Command.
+	* Those angels who drive the clouds.
+	* Cherubim, who are close to God and request forgiveness for the sinners.
+	* Hamalat al-'Arsh, those who carry the 'Arsh (Throne of God), comparable to the Christian Seraph.
+	* Harut and Marut, often depicted as angels who taught the humans in Babylon magic; mentioned in Quran (2:102).
+
+Also, there is a hadith about Munkar and Nakir, two angels questioning the dead.
 
 </details>
 
 
 <details>
-	<summary>Creation of the Heavens and the Earth</summary>
+	<summary>Creation of the Heavens and the Earth 🌌 🌍 </summary>
 
-The Qur'an says that `the heavens and the earth were joined together as one unit, before We clove them asunder` (21:30). Following this big explosion, Allah ```turned to the sky, and it had been (as) smoke. He said to it and to the earth: 'Come together, willingly or unwillingly.' They said: 'We come (together) in willing obedience'``` (41:11). Thus the elements and what was to become the planets and stars began to cool, come together, and form into shape, following the natural laws that Allah established in the universe.
+In the Quran, the heavens and the earth were joined together as one "unit of creation", after which they were "cloven asunder". After the parting of both, they simultaneously came into their present shape after going through a phase when they were smoke-like. The Quran states that the process of creation took 6 youm(يوم). In the Quran, the word youm (often translated to "era") means day.
+
+The Qur'an says that `the heavens and the earth were joined together as one unit, before We clove them asunder` (21:30). Following this big explosion 💥, Allah ```turned to the sky, and it had been (as) smoke. He said to it and to the earth: 'Come together, willingly or unwillingly.' They said: 'We come (together) in willing obedience'``` (41:11). Thus the elements and what was to become the planets and stars began to cool, come together, and form into shape, following the natural laws that Allah established in the universe.
 
 The Qur'an further states that Allah created the sun, the moon, and the planets, each with their own individual courses or orbits. "It is He Who created the night and the day, and the sun and the moon; all (the celestial bodies) swim along, each in its rounded course" (21:33).
 
@@ -51,7 +100,7 @@ The verses that mention "six days" use the Arabic word "youm" (day). This word a
 
 
 <details>
-	<summary> Living Creatures</summary>
+	<summary> Creatures Living on Earth</summary>
 
 Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
 Creation of jinns from smokeless flame, the edge of the flame. 
@@ -66,12 +115,16 @@ Allah is never "done" with His work, because the process of creation is ongoing.
 <details>
 <summary>Era of Jinns</summary>
 
-Allah created jinns from fire🔥. 
+Allah created jinns from smokeless fire🔥. 
+
+Jinns are the only creatures besides human that have a free will and they will be judged according to their deeds.
 Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of jinn and he was allowed to be among the angels.
 
 Jinns were transgressing and were not treating animals well.
 
 Angels and Iblis were send to annihilate many jinnns who were transgressing.
+
+There is a special type of jinns - shayatin. According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
 
 </details>
 
@@ -95,6 +148,8 @@ Angels and Iblis were send to annihilate many jinnns who were transgressing.
 *******************************************
 
 <details> <summary> Adam was created from clay.</summary>
+
+According to Quranic creation narrative, God informed the angels, that He was going to create a khalifa (vicegerent) on earth. 
 
 While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
 The Qur'an describes how Allah created Adam.
@@ -246,19 +301,18 @@ Early accounts of Idris' life attributed "thirty portions of revealed scripture"
 
 </details>
 
-### How Idol Worshipping appeared
+#### How Idol Worshipping appeared
 
 There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
 
 ## Nuh (Noah) and the Great Flood 🌊 ⛴ 🕊 ⛰ 🌱
 *************************************
 
-Nuh is the sesond most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him.
+Nuh is the second most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him.
 
 <details>
 	<summary><b>The Great Flood</b></summary>
 
-🕊
 After the flood, people started over and for some time they lived in tawhid.
 </details>
 
@@ -267,16 +321,15 @@ After the flood, people started over and for some time they lived in tawhid.
 Here the examples of all old nations among which existed the story of the great flood.
 </details>
 
-### Hud (Eber?) and people of 'Ad 🌪
-
-People of Aad were tall, strong and famous fro their craftsmanshift, especially in building construction. 
 <details>
-<summary><b>Open history of 'Aad </b></summary>
+<summary><b>Hud (Eber?) and people of 'Ad </b></summary>
+People of Aad were tall, strong and famous fro their craftsmanshift, especially in building construction. 
+
 <p>at first Ad people worshipped only Allah but then they made idols from stones. and Allah sent them Hud. and they called him a fool and a liar and said tell Allah to send his punishment if you are truthfull. then a draught happened. the plants died but people continued to worship idols. 3 years was the draught. Allh told Hud to gather his followers and leave.
 and then a black cloud came. People of Aad thought that this cloud will bring them rain. The weather changed. the wind ripped their houses apart and destroyed their buildings. the storm did not stop until the entire region was reduced to ruins.</p>
 </details>
 
-### Saleh (Selah?) and people of Thamud 🐪
+#### Saleh (Selah?) and people of Thamud 🐪
 
 Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
 <details>
@@ -300,10 +353,9 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 
 There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources clain that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. there is scientific evidence that Homo-Sapiens existed for ...
 and the prophet Muhammad saw said that the distance between me and Al Kiyamah is like distance between my two fingers.
-Arab people didn't even count the years. the calendar was adopted only during the reign of khalif Umar ibn Al Khattab.
 
-
-#### Early Life
+<details>
+	<summary>Early Life</summary>
 
 Ibrahim was born in a house of idolaters in the ancient city of Ur of the Chaldees, likely the place called 'Ur' in present-day Iraq, in which case, the idolaters would have been practitioners of the hypothesized Ancient Mesopotamian religion.
 
@@ -311,32 +363,50 @@ His father Azar was a well-known idol-sculptor that his people worshiped. As a y
 
 When Ibrahim was young he used to laugh whenever he saw them entering the temple, lowering their heads, silently offering the statues the best of their food, crying and asking forgiveness from them. He started feeling angry towards his people, who could not realize that these are only stones that could neither benefit nor harm them.
 
-#### Searching for Truth 🌠
+</details>
+
+<details>
+	<summary>Searching for Truth</summary>
 
 One night, Abraham went up to the mountain, leaned against a rock, and looked up to the sky. He saw a shining star and said to himself, "Could this be my Lord?" But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon rising in splendor and said, "Could this be my Lord?" but the moon also set. At daybreak, he saw the sun rising and said, "Could this be my Lord? This is the biggest and brightest!" But when the sun also set he said, "O my people! I am free from all that you join as partners with Allah! I have turned my face towards Allah who created the heavens and the earth and never shall I associate partners with Allah. Our Lord is the creator of the heavens and the earth and everything in between. He has the power to make the stars rise and set." After this declaration, Abraham then heard Allah calling him, "O Abraham " Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!"Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
 
-#### Destroying Idols
+</details>
+<details>
+	<summary>Destroying Idols</summary>
 
-"And, by God, I shall circumvent your idols after you have gone away and turned your backs." (Quran 21:57)
+	"And, by God, I shall circumvent your idols after you have gone away and turned your backs." (Quran 21:57)
 
 It was time for a religious festival, perhaps dedicated to Sin, for which they left the town.  Abraham was invited to attend the festivities, but he excused himself, and then he destroyed all idols in the temple and left only the biggest one. after people came back and accused Ibrahim of destroying idols, he said that that biggest one did it. 
+</details>
 
-### Lut (Lot)
-Soddom and Homorra
+<details>
+	<summary>Soddom and Homorra (Story of Lut (Lot))</summary>
+</details>
 
+<details>
+	<summary>Iskhaq (Isaac) (beginning of Jewish people)</summary>
+</details>
+<details>
+	<summary>Ismail (Ishmael) (beginning of Arabic people)</summary>
 
-### Iskhaq (Isaac) (beginning of Jewish people)
-
-* Yacub
-	* Yousuf
-
-### Ismail (Ishmael) (beginning of Arabic people) 
 Second son of Ibrahim.
 	* Hajar and Zamzam
 	* Dream of sacrifice 🚸 🏔️ 🐑
 	* Building of Kaaba 🕋
 
-### Ayyub (Job)
+</details>
+
+
+<details>
+	<summary>Yacub</summary>
+</details>
+
+<details>
+	<summary>Yusuf</summary>
+</details>
+
+<details>
+	<summary>Ayyub (Job)</summary>
 
 Ayyub came after Yusuf. The Quran describes Job as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Job never lost faith in God and forever called to God in prayer, asking Him to remove his affliction:
 And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." — Quran, sura 21 (The Prophets), ayah 83
@@ -344,36 +414,90 @@ And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me
 The narrative goes on to state that after many years of suffering, God ordered Job to "Strike with thy foot!".[6] At once, Job struck the ground with his foot and God caused a cool spring of water to gush forth from the Earth, from which Job could replenish himself. The Quran states that it was then that God removed his pain and suffering and He returned Job's family to him, blessed him with many generations of children and granted him great wealth. In addition to the brief descriptions of Job's narrative, the Quran further mentions Job twice in the lists of those whom God had given special guidance, wisdom and inspiration (IV: 163) and as one of the men who received authority, the gift of prophethood (VI:84).
 
 After Satan has given up trying to turn Job away from the Lord, God removed Job's affliction and returned his family to him, doubling them in number. He returned Job's wealth and showered Job with gold. Once Job's wife had seen her husband restored to prosperity and health, she prayed thanks to God but then worried over the oath her husband had taken earlier, in which he had promised to beat her with a hundred strokes. Job was also deeply grieved over the oath he had taken, amidst his suffering. God, however, sent a revelation to Job, which told him to not beat his wife but to gently hit her with a bundle of soft grass.
+</details>
 
-### Shu'ayb (Jethro?)
+<details>
+	<summary>Shu'ayb (Jethro?)</summary>
 
 The Qur'an states that Shuaib was appointed by God to be a prophet to the people of Midian. The people of this land were said to be especially notorious for cheating others through dishonesty and for idolatry. Shuʿayb's prophecy mainly involved calling the Midianites to the correct path of God, and forbidding them to worship false gods.
 
 It is also said he told his people to stop being dishonest in their daily activities. Although he preached and prophesied for a sustained period of time, the majority of the people refused to listen to him. Shuayb, however, remained steadfast. He consistently preached powerfully against the wicked, telling them of the punishment that had befallen the sinful before them. Shuʿayb warned the people that their ignorance would lead to the destruction of Midian, giving historical examples of earlier prophets, including Noah, Hud, Saleh and Lot, all of whose people had been destroyed by God.
 
 The people taunted Shuʿayb and told him that, were it not for the prestigious family he came from, he would surely have been stoned to death. Shuayb replied, "Is my family of more consideration with you than God?" When the Midianites refused to believe, they were destroyed by a mighty earthquake. The Qur'an, however, mentions that Shuʿayb, and his believing companions, were rescued from the thunderous punishment.
-
+</details>
 
 ## 4. Musa and the Five Books (Torah)
 *******************************************
 
-### Musa (Moses) 🌿 🔥
+#### Musa (Moses) 🌿 🔥
 #### Harun (Aaron)
 #### Exodus
-### The Torah: (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
-### Davud 
-### Sulayman (Solomon)
+#### The Torah: (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
+#### Davud 
+<details>
+<summary><b>Sulayman (Solomon) </b></summary>
+Sulaimān ibn Dāwūd (Arabic: سُلَيْمَان بْن دَاوُوْد, Solomon son of David) was, according to the Quran, a malik (مَلِك, king) and Nabī (Prophet) of the Israelites. Islamic tradition generally holds that he was the third king of Jewish people, and a wise ruler for the nation.
+
+Islam views Solomon as one of the prophets of God, who was bestowed with many God-given gifts, including the ability to speak to animals and jinn. Supported by a magical ring given by God, he enslaved the devils (shayatin) and demons (div).
+
+Muslims further maintain that he remained faithful to the one and only God throughout his life; and reigned justly over the whole of the Israelites; was blessed with a level of kingship which was given to none after him and before him; and fulfilled all of his commandments, being promised nearness to God in Paradise at the end of his life. Arab historians regarded Solomon as one of the greatest rulers around the world.
+
+**Judgment on the field**
+
+In the earliest narrative involving Solomon, the Quran (21:78) briefly alludes to a story that Solomon was in the company of his father, when two men came to ask David to judge between them regarding a ḥarth (حَرْث, field). Later Muslim commentators expanded on the allusion, including Al-Tabari, Baidawi, and Ibn Kathir. They said that the first of the two men said that he owned a vineyard of which he took great care the whole year through. But one day, when he was absent, the other man's sheep had strayed into the vineyard and devoured the grapes. He asked to be compensated for this damage.[9]: 62  Upon hearing the man's complaint, Solomon suggested that the owner of the sheep take the other man's vineyard to repair and cultivate until the vines returned to their former state, whereupon he should return it to its owner. At the same time, the owner of the vineyard would care for the sheep and benefit from their wool and milk until his land was returned to him, at which point he would return the sheep to their owner. Solomon's level of judgment, which the Quran says,[10] would characterize Solomon throughout his life. Ḥikmah (Wisdom), according to Muslim tradition, would always be associated with Solomon, who would later even be referred to as Sulaimān al-Ḥakīm (سُلَيْمَان ٱلْحَكِيْم, "Solomon the Wise"). This story is adapted in the Kebra Nagast, but as a dispute adjudicated by a son of Solomon's.
+
+**Solomon and the demons**
+
+The Queen of Sheba
+The Quran narrates that the wind was made subservient to Solomon, and he could control it at his own will, and that the jinn also came under Solomon's control. The jinn helped strengthen Solomon's reign. The devils (shayatin), and demons were forced building for him monuments. God also caused a miraculous ʿayn (عَيْن, 'fount' or 'spring') of molten qiṭr (قِطْر, 'brass' or 'copper') to flow for Solomon, to be used by the demons in their construction.
+
+When David died, Solomon inherited his position as the prophetic king of the Israelites. Solomon once permitted a woman to build a statue of her father. Later, she began to worship the statue and Solomon was rebuked for tolerating idolatry in his kingdom. As a punishment, God enabled one of the enslaved demons to steal Solomon's ring and take over his kingdom (Surah 38:34). He later repents his sin and gains control over the demons again, focusing on building the temple again. He prayed to God to grant him a kingdom which would be unlike any after him. God accepted Solomon's prayer and gave him what he pleased.
+
+Allegorical, Solomon's loss to the demons, is a human losing its soul to demonic passion. Attar of Nishapur writes: "If you bind the div (demon), you will set out for the royal pavilion with Solomon" and "You have no command over your self's kingdom, for in your case the div is in the place of Solomon".
+
+Unlike the Talmudic tradition, Solomon was unaware and never participated in idolatry. Further, the Quran rejects that Solomon was a magician: "(...) Solomon did not disbelieve, but the devils disbelieved, teaching men magic and (...)". (2:102)
+
+**Solomon and the ant** 🐜
+
+Solomon was even taught the languages of various animals, such as ants. The Quran recounts that, one day, Solomon and his army entered a wādin-naml (وَادِ ٱلْنَّمْل, valley of the ant). On seeing Solomon and his army, a namlah (نَمْلَة, female ant) warned all the others to `... get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it.` Immediately understanding what the ant said, Solomon, as always, prayed to God, thanking him for bestowing upon him such gifts and further avoided trampling over the ant colonies.[9]: 63 Solomon's wisdom, however, was yet another of the gifts he received from God, and Muslims maintain that Solomon never forgot his daily prayer, which was more important to him than any of his gifts.
+
+Exegetical literature emphasizes the ant's wisdom and explains the meaning behind Solomon's gift to control the wind. According to Siracü'l-Kulub, the ant asks Solomon if he knows why he is called "Solomon" (Süleyman). Solomon negates and the ant went on to explain: "Although your heart was sound (selim) and you know the circumstances of the next world, you have accepted a few pleassures of this world and have been deceived by its possesion and kingship; therefore you are called Solomon." Afterwards the ant asks Solomon, if he knows why God has subdued the wind for him. Once again, Solomon denies and the ant answers: "He has subdued the wind for a reason: that which you have accepted is nothing. Just as the wind passes, the world's wealth and kingship pass too." Scholars like Fakhr al-Din Razi and al-Qurtubi elevated the ant to the rank of an examplar for humans to follow.(p196)
+
+**Conquest of Saba'**
+
+Ruins of the Barran Temple at Ma'rib, the former capital of Saba' in what is now Yemen
+Another important aspect of Solomon's kingship was the size of his army, which consisted of both men and jinn. Solomon would frequently assess his troops and warriors as well as the jinn and all the animals who worked under him. One day, when inspecting his troops, Solomon found the Hud-hud (هُدْهُد, Hoopoe) missing from the assembly. Shortly later, however, the Hud-hud arrived to Solomon's court, saying "I have compassed (territory) which thou hast not compassed, and I have come to thee from Saba' with tidings true."The Hud-hud further told Solomon that the people of Sheba worshiped the Sun, and that the woman who ruled the kingdom was highly intelligent and powerful. Solomon, who listened closely, chose to write a letter to the land of Sheba, through which he would try to convince the people of Sheba to cease in worshiping the Sun, and to come to the worship of God. Solomon ordered the Hud-hud to give the letter to the Queen of Sheba (Bilqis), and then to hide and observe her reaction.[9]: 64  The Hud-hud accepted Solomon's orders, and flew to give the letter to her. The Queen then called her ministers in the court and announced the letter of Solomon stating to the people of Sheba: "In the name of Allah the Compassionate the Merciful, Be you not exalted against me, but come to me as Muslimīn (مُسْلِمِيْن)." She asked for suggestions from her minister and administration stating that "O my people, I know that you all are powerful and brave warriors, and no one on the face of the Earth can defeat our army, but still I want your opinion." The people of the court replied: "You have all the power, and whatever order you deliver, you will find us obedient." Eventually, however, the Queen came to Solomon, announcing her submission to God.
+
+**Solomon and the ifrit**
+
+During Bilqis' travel, Solomon asks his servants to deliver her throne to his court. An ifrit offers his service (Q27:38-40), but Solomon declines. Another man is endowed with this task instead, who prays to God for the throne. Afterwards, the prayer is answered and the throne appears thanks to God's power in Solomon's palace. When Bilqis arrives, Solomon asks if she can recognize her throne. She gives him an evasive answer, because she can not grasp the miracle performed here. Since this miracle was done by God (and not by the ifrit), she surrenders to the faith of Solomon. Solomon declined the ifrit's temptatious offer, because he wants to rely on God only and not on the demonic, this leading to his successful conversation of Bilqis.
+
+**Death**
+
+The Quran relates that Solomon died while he was leaning on his staff. Then a creature (an ant or a worm) gnaw at Solomon's staff, until his body collapsed.
+
+	Then, when We decreed (Solomon's) death, nothing showed them his death except a little worm of the earth, which kept (slowly) gnawing away at his staff: so when he fell down, the Jinn saw plainly that if they had known the unseen, they would not have tarried in the humiliating Penalty (of their Task).
+	Qurʾan, Surah 34 (Sabaʾ), Ayah 14
+
+As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them.
+
+They realized the truth only when God sent a creature to crawl out of the ground and gnaw at Solomon's staff, until his body collapsed. This verse is understood to teach the audience that jinn do not know the unseen (Al-Ghaib), since if they had known the unseen, they would not have stayed in the service of Solomon.[28]
 
 The temple built by jinns 🏛️
-magic taught by Harut and Marut in Babylon
 
-### Ilyas (Elija)
+Angels Harut and Marut taught magic in Babylon (between 1895BC and 539BC). it is mentioned in the Quran.
+</details>
+
+<details>
+<summary>Ilyas (Elija)</summary>
+
 mentioned 4 times in the Quran. he was the one who perfected his character
 After death of the prophet Suleyman as, his kingdom was divided into two: Israel(Samaria) and Judah(Jerusalem). They started to go astray. Allah sent Ilyas to Samaria because they started worshipping an idol. They sis not listen to Ilyas, so Allah sent a long-lasting draught. he challenged priests of the idol Ball.
-### Alyasa (Elisha) 
-### Yunus Jonah 🐳 (8-9cen BCE) 
-The companion of the fish 🐟.
-### Dhu al-Kifl (debated, Ezekiel, Budda or other)
+</details>
+
+#### Alyasa (Elisha) 
+#### Yunus Jonah 🐳 (8-9cen BCE) The companion of the fish 🐟.
+#### Dhu al-Kifl (debated, Ezekiel, Budda or other)
 
 ## 5. Isa
 *******************************************
@@ -390,8 +514,8 @@ The companion of the fish 🐟.
 ## 6. Pre-Islamic Arabia 🏜 🐫 🌴 🕋 
 *******************************************
 
-#### Jaahiliyah
-
+<details>
+<summary>Jaahiliyah</summary>
 After introducing idols, Jews ceased to visit the temple of Abraham. Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. 
 
 Tribes of Arabia:
@@ -413,7 +537,12 @@ Tribes of Arabia:
 Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad saw died, Arabs conquered both of these empires.
 they did not have buildings, they did not even have a government. they were never united. by modern historic scholars considers this as the same if modern Escimoes conquerred Russia and USA.
 
-#### Qusayy ibn Kilay
+</details>
+
+
+
+<details>
+<summary>Qusayy ibn Kilay</summary>
 
 Hadith from Sahih Muslim:
 
@@ -432,7 +561,10 @@ The great-great-greatfather of the Prophet Muhammad saw. after battles it was ag
 
 Many remarkable events are associated with his name. One of these was that he encouraged the people to construct a house with the name of 'Darun Nadwah' adjacent to the Ka'bah and thus founded a Council Hall for the Arabs so that their dignitaries and chiefs might sit together in this public centre and solve their problems. He died in the 5th A.D. and left behind two sons named Abdud Dar and Abd Manaf.
 
-#### Hashim
+</details>
+
+<details>
+<summary>Hashim</summary>
 
 Abd Manaf's son.
 his name is Amr. Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. married an influential Yathrib woman from Khazraj. He fell ill and died in Gaza. (Surah Quraish mentions these caravans.)
@@ -440,20 +572,26 @@ the silk road was going through Basra. So Hashim hooked to the Silk Road and con
 
 and it was a safe route because of Mecca was a holy sight.
 One of Hashim's wives was from Yathrib.
+</details>
 
-#### Muttalib
 
-younger brother of Hashim who took over the right of watering the pilgrims and levying the tax to feed them.
+<details>
+<summary>Abd'al Muttalib</summary>
 
-#### Abd'al Muttalib
+his name was Shaybah. 
+Muttalib younger brother of Hashim who took over the right of watering the pilgrims and levying the tax to feed them.
+Mutallib took Shaybah from Yathrib and brought him to Mecca. He rediscovered Zamzam
+</details>
 
-his name was Shaybah. Mutallib took him from Yathrib and brought him to Mecca. He rediscovered Zamzam
-##### **Battle of Elephants** (Year of the elephant) 🐘
-
-### Notable Monotheists
-
+<details>
+<summary>**Battle of Elephants** (Year of the elephant) 🐘</summary>
+</details>
+<details>
+<summary>Notable Monotheists</summary>
 * **Zayd ibn Amr** told priests and jews that this is not the religion of Ibrahim. he adopted girls who otherwise would be killed by their tribes. (Said ibn Zayd is one of the ten promised Paradise. One-man ummah.)
 * **Waraqa ibn Naufal** was the first Muslim. He converted to Christianity before.
+
+</details>
 
 ## 7. History of Islam
 *******************************************
@@ -477,11 +615,11 @@ his name was Shaybah. Mutallib took him from Yathrib and brought him to Mecca. H
 
 ### Medina Period 🕌
 
-* 624 Battle of Badr
+* 624 ⚔️ Battle of Badr
 * 624 which year was the change of qiblah: "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). the prophet Muhammad was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
 * Battle of Porridge
-* 625 Battle of Uhud 
-* 627 Battle of Trench 
+* 625 ⚔️ Battle of Uhud 
+* 627 ⚔️ Battle of Trench 
 * Massacre of men from Quraizah who supported Meccans at the battle of Uhud.
 * 628 attempt of Hajj. 
 	**Treaty of Hudaybiyyah**: A peace agreement is signed between Muhammad's Muslims and the people of Mecca.
@@ -494,32 +632,52 @@ Abu Bakr is elected his khalifah (representative).
 
 ## 7.2 The Rashidun (Righteous Khalifs)
 *******************************************
-### Abu Bakr (632-634)
+### 
+<details>
+<summary>Abu Bakr (632-634)</summary>
 
 * The wars of riddah against tribes who secede from the confederacy. Abu Bakr manages to subdue the revolt and unite the tribes of Arabia.
 * Umar and Abu Bakr tell Zayd to compile and write The Quran because many khafiz die in one of the battles of riddah.
+* Story of how Abu Bakr died
 
-### Umar ibn al-Khattab (634-644)
-	* The Muslim armies invade Iraq, Syria and Egypt.
-	* 638 Muslims conquer Jerusalem, which becomes the third holiest city in the Islamic world after Mecca and Medina.
-	* 641 Muslims control Syria, Palestine and Egypt. They have defeated the Persian Empire. The garrison towns of Kufah, Basrah, Fustat are built to house the Muslim troops.
-	* 644 Khalif Umar is assassinated by a Persian prisoner of war. Uthman ibn Affan is elected the third caliph.
+</details>
 
-### Uthman ibn Affan (644-656)
 
-	* 644-650 Muslims conquer Cyprus, Tripoli in North Africa and establish Muslim rule in Afghanistan and Sind.
-	* 650 Uthman orders the establishment of one "true" Quran while destroying the others.
-	* 656 Caliph Umar is assassinated by malcontent Muslims soldiers, who acclaim Ali ibn Abu Talib as the new caliph, but not all accept Ali's rule.
+<details>
+<summary>Umar ibn al-Khattab (634-644)</summary>
 
-### Ali ibn Abi Talib
+* The Muslim armies conquer Iraq, Syria and Egypt.
+* 638 Muslims conquer Jerusalem, which becomes the third holiest city in the Islamic world after Mecca and Medina.
+* 641 Muslims control Syria, Palestine and Egypt. They have defeated the Persian Empire. The garrison towns of Kufah, Basrah, Fustat are built to house the Muslim troops.
+* 644 Khalif Umar is assassinated by a Persian prisoner of war. Uthman ibn Affan is elected the third caliph.
 
-	* 656-660 The first fitnah. civil war ensues.
-	* 656 The Battle of the Camel. Aisha, Talhah and Zubayr with the army meet Ali for not avenging Uthman's murder. They are defeated by Ali's partisans.
-	* In Syria the opposition is led by Uthman's kinsman, Mauwiyyah ibn Abi Sufyan.
-	* 657 An attempt to arbitrate between the two sides. Muawiyyah deposes Ali and is proclaimed caliph in Jerusalem.
-	* The Kharajites secede from Ali's camp.
-	* 661 Ali is murdered by a Kharajite extremist.
-	* Ali's supporters claim his son Hasan as the next caliph.	
+</details>
+
+
+
+<details>
+<summary>Uthman ibn Affan (644-656)</summary>
+
+* 644-650 Muslims conquer Cyprus, Tripoli in North Africa and establish Muslim rule in Afghanistan and Sind.
+* 650 Uthman orders the establishment of one "true" Quran while destroying the others.
+* 656 Caliph Umar is assassinated by malcontent Muslims soldiers, who acclaim Ali ibn Abu Talib as the new caliph, but not all accept Ali's rule.
+
+</details>
+
+
+<details>
+<summary>Ali ibn Abi Talib</summary>
+
+* 656-660 The first fitnah. civil war ensues.
+* 656 The Battle of the Camel. Aisha, Talhah and Zubayr with the army meet Ali for not avenging Uthman's murder. They are defeated by Ali's partisans.
+* In Syria the opposition is led by Uthman's kinsman, Mauwiyyah ibn Abi Sufyan.
+* 657 An attempt to arbitrate between the two sides. Muawiyyah deposes Ali and is proclaimed caliph in Jerusalem.
+* The Kharajites secede from Ali's camp.
+* 661 Ali is murdered by a Kharajite extremist.
+* Ali's supporters claim his son Hasan as the next caliph.	
+
+</details>
+
 
 ### Hasan 
 
@@ -537,9 +695,6 @@ Umayyad Dinasty Era
  Somewher here Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations).
  his student ibn Hisham shortens his seerah.
 
-حلال
-
-https://emojipedia.org/ramadan/
 
 ## 8. Yawm Al Qiyamah
 *******************************************
@@ -588,7 +743,7 @@ The Smoke is mentioned in the Quran.
 </details>
 
 <details>
-	<summary><b>The Sun will come up from the West</b></summary> 
+	<summary><b>The Sun will come up from the West </b>🌄</summary> 
 and since then, the repentance will not be anymore accepted.
 </details>
 
@@ -597,7 +752,15 @@ and since then, the repentance will not be anymore accepted.
 The Beast will come out at that time. and it will leave marks on people as believer or non-believer.
 </details>
 
+
+<details>
+<summary>Unsorted drafts</summary>
 🌱🌴
+
+
+حلال
+
+https://emojipedia.org/ramadan/
 
 Prophet Muhammad (570-632)
 1. Abu Bakr 632-634
@@ -685,7 +848,7 @@ Adam was the last of Allah's creations.
 
 about 70 years ago there was a consensus in the scientific world that the universe is eternal, which contradicts the Quran that says Allah started the universe. and after 20 years more cosmic data came and scientists accepted that the Big Bang Theory make more sense. 
 
-
+Arab people didn't even count the years. the calendar was adopted only during the reign of khalif Umar ibn Al Khattab.
 
 A good table of the prophets and nations: https://islam.fandom.com/wiki/Prophets_and_Messengers_of_Allah
 
@@ -696,3 +859,5 @@ The Beginning and the End series with Omar Suleiman: https://www.youtube.com/wat
 
 
 Good history with TOC and good layout: https://www.al-islam.org/message-jafar-subhani/chapter-29-change-qiblah
+
+</details>
