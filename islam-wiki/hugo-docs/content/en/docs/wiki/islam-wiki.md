@@ -4,6 +4,24 @@
     white-space : pre-wrap !important;
     word-break: break-word;
   }
+  .docs-toc {
+    order: 1;
+}
+  .col-xl-3 {
+    width: 30%;
+    margin-left: 2px;
+}
+
+  .navbar {
+  	position:-webkit-sticky;
+  	position: sticky;
+  	top: 0;
+}
+  .navbar-light .navbar-brand {
+  	position:-webkit-sticky;
+  	position: sticky;
+  	top: 0;
+}
 </style>
 
 *(including creation of the Universe and development of Abrahamic religions according to Islamic sources)*
@@ -305,14 +323,46 @@ Early accounts of Idris' life attributed "thirty portions of revealed scripture"
 
 There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
 
-## Nuh (Noah) and the Great Flood 🌊 ⛴ 🕊 ⛰ 🌱
+## 3. Noah and the Great Flood ⛴ 🕊 ⛰ 
 *************************************
 
 Nuh is the second most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him.
 
 <details>
 	<summary><b>The Great Flood</b></summary>
+According to Islam, he was a prophet, sent to warn mankind of that region and his people to change their ways. He conveyed the message for over 950 years. Islamic literature recounts that in the Generations of Adam, many men and women continued to follow Adam's original teachings, worshiping God alone and remaining righteous. Among Adam's descendants there were many brave and pious men, greatly loved and revered by their respective communities. Exegesis goes on to narrate that, upon the death of these elders, people felt enormous grief and some felt prompted to make statues of these people in remembrance of them. Then gradually, through the generations many forgot what such statues were for and began to worship them, (as the Shaytan (Satan) slowly deceived each generation) along with many other idols. In order to guide the people, God appointed Noah with the duty of being the next prophet to humanity.
 
+Early preaching
+According to Islamic belief, Noah began preaching to his people both verbally and by example. He would praise God consistently and he urged his people to do the same, warning his tribe of the punishment they would face if they did not mend their ignorant ways. The Qur'an states that Noah repeatedly told his people:
+
+"O my people, worship Allah; you have no deity other than Him. Indeed, I fear for you the punishment of a tremendous Day!"
+
+Noah's ark depicted in a 14th-century manuscript of Rashid al-Din's world history, the Jami al-tawarikh
+Early on, a few were moved by Noah's words but the powerful and wealthy members of the tribe refused to hear his call. The unbelievers at the time were impelled to rebel by various evil motives. Firstly, they were extremely envious and jealous of men superior to them in any way. Secondly, the people were ignorant of the weak and lowly, who were frequently superior intellectually, morally and spiritually. As a result of their ignorance, they were arrogant and mocked all who they felt were inferior to them. Saying "Are we to believe you, when those who follow you are the most abject of people?" Noah responded: "Their judgment rests only with my Lord, if you could perceive." When Noah preached the faith of God to them, all they did was revile the messenger, abuse the message and call the whole warning a lie. He then went on to explain the Message in greater depth, ensuring them that it was not a message of destruction but it was a message with the mercy from God, and that their acts would lead to destruction if they did not accept the faith. He questioned them, asking why they would not accept what would benefit them in the near future. Noah went onto further, and told his community that he asked of no reward from them, telling them his only reward would be from God. But his people threatened him with being stoned.
+
+Accusation
+
+Miniature from Hafiz-i Abru's Majma al-tawarikh. "Noah's Ark" Iran (Afghanistan), Herat; Timur’s son Shah Rukh (1405-1447) ordered the historian Hafiz-i Abru to write a continuation of the Jami al-tawarikh. Like the Il-Khanids, the Timurids were concerned with legitimizing their right to rule, and Hafiz-i Abru's "A Collection of Histories" covers a period that included the time of Shah Rukh himself.
+As time passed, Noah became firmer in his preaching. When the unbelievers began insulting those who accepted God's message, believing that Noah would send those faithful away to attract the wealthy unbelievers, Noah revealed that they - the arrogant and ignorant rich - were the wicked and sinful ones. His people accused him of being soothsayer or diviner. Noah declared that he was by no means a mere fortune-teller, pretending to reveal secrets which are not worth revealing. Noah also denied accusations claiming he was an angel, always maintaining that he was a human messenger. When the people refused to acknowledge their sinfulness Noah told them that it was not Noah, but God that would punish them - however God pleased.
+
+Prayer
+
+A depiction of Noah in a Mughal miniature from the 16th century
+The Quran states that Noah prayed to God, telling him that his preaching only made his people disbelieve further. Noah told God how they had closed their minds to accepting the message, so that the light of the truth should not affect their thinking. Noah told God how he had used all the resources of the classical preacher, conveying the message both in public places and with individuals in private. Noah spoke of how he had told the people the rewards they would receive if they became righteous, namely that God would supply plentiful rain as a blessing, and that God would also guarantee them an increase in children and wealth.
+
+Building of the Ark
+
+Noah's ark and the deluge from Zubdat-al Tawarikh
+According to the Quran, one day, Noah received a revelation from God, in which he was told that no one would believe the message now aside from those who have already submitted to God. Noah's frustration at the defiance of his people led him to ask God to not leave even one sinner upon earth.[29] Although there is no proof that God accepted his prayer (as there is many examples of accepted prayers, such as in case of Yunus, Lut (Lot), Suleyman (Solomon) etc., even Noah's prayer in some other shape was accepted), God decreed that a terrible flood would come (and yet, Qur'an doesn't say it came to cover whole Earth) and He ordered Noah to build a ship (Fulk) which would save him and the believers from this dreadful calamity.[41] Ever obedient to God's instructions, Noah went out in search of material with which to build the vessel. When Noah began building the Ark, the people who saw him at work laughed at him even more than before. Their conclusion was that he was surely a madman – they could not find any other reason why a man would build a huge vessel when no sea or river was nearby.[29] Although Noah was now very old, the aged patriarch continued to work tirelessly until, at last, the Ship was finished.
+
+Family
+Little is known of Noah's personal history before his call to prophecy. However, Ibn Kathir records him to have been the son of Lamech and grandson of Methuselah, one of the patriarchs from the Generations of Adam. Noah was neither the leader of the tribe nor a very rich man but, even before being called to prophecy, he worshiped God faithfully and was, in the words of the Qur'an, "a devotee most grateful".
+
+Noah was married to a woman whose name is not mentioned in the Quran. Some Islamic historians such as Al-Tabari have suggested that the name of Noah's wife was Umzarah bint Barakil but this cannot be confirmed. Most Muslims simply call her by her midrashic name Naamah.[citation needed] Islamic scholars agree that Noah had four sons whose names were Ham, Shem, Yam and Japheth. According to the Quran, one of Noah's sons was a disbeliever who refused to come aboard the Ark, instead preferring to climb a mountain, where he drowned. It is agreed among most Islamic scholars that Yam was the one who drowned; the other three remained believers.
+
+The Quran states that Noah's wife was not a believer with him so she did not join him; neither did one of Noah's sons (Yam), who was secretly a disbeliever but had pretended faith in front of Noah. The sons of Noah are not expressly mentioned in the Qur'an, except for the fact that one of the sons was among the people who did not follow his own father, not among the believers and thus was washed away in the flood.[44] Also the Qur'an indicates a great calamity, enough to have destroyed Noah's people, but to have saved him and his generations to come. Noah's wife (Naamah) is referred to in the Qur'an as an evil woman. When God emphasizes upon the notion that everyone is for themselves on the Day of Judgement and that marital relations will not be to your aid when the judgement takes place.
+
+In contrast, the wife of the Pharaoh of the Exodus, Asiya, and Mary, the mother of Jesus, are referred to as among the best of women. This adds to the notion that, on the Last Day, everyone will be judged according to their own deeds. The "Stories of The Prophets" explain that the son who declined to embark was a non-believer.
 After the flood, people started over and for some time they lived in tawhid.
 </details>
 
@@ -329,7 +379,8 @@ People of Aad were tall, strong and famous fro their craftsmanshift, especially 
 and then a black cloud came. People of Aad thought that this cloud will bring them rain. The weather changed. the wind ripped their houses apart and destroyed their buildings. the storm did not stop until the entire region was reduced to ruins.</p>
 </details>
 
-#### Saleh (Selah?) and people of Thamud 🐪
+#### Saleh and people of Thamud 🐪
+(Selah?)
 
 Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
 <details>
@@ -346,7 +397,7 @@ In response, God gave the Thamud a blessed she-camel, as both a means of sustena
 The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
 </p> </details>
 
-## 3. Ibrahim
+## 4. Ibrahim
 *******************************************
 
 **Ibrahim**: Ibrahim is from Iraq, Hagar is from Egypt. Hajj was established by Ibrahim. Kurban was established by the example of Ibrahim and his son. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people.
@@ -426,13 +477,13 @@ It is also said he told his people to stop being dishonest in their daily activi
 The people taunted Shuʿayb and told him that, were it not for the prestigious family he came from, he would surely have been stoned to death. Shuayb replied, "Is my family of more consideration with you than God?" When the Midianites refused to believe, they were destroyed by a mighty earthquake. The Qur'an, however, mentions that Shuʿayb, and his believing companions, were rescued from the thunderous punishment.
 </details>
 
-## 4. Musa and the Five Books (Torah)
+## 5. Musa and the Torah
 *******************************************
-
+Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 #### Musa (Moses) 🌿 🔥
 #### Harun (Aaron)
 #### Exodus
-#### The Torah: (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
+#### The Torah 
 #### Davud 
 <details>
 <summary><b>Sulayman (Solomon) </b></summary>
@@ -496,8 +547,13 @@ After death of the prophet Suleyman as, his kingdom was divided into two: Israel
 </details>
 
 #### Alyasa (Elisha) 
-#### Yunus Jonah 🐳 (8-9cen BCE) The companion of the fish 🐟.
-#### Dhu al-Kifl (debated, Ezekiel, Budda or other)
+#### Yunus Jonah 🐳 (8-9cen BCE)
+
+ The companion of the fish 🐟.
+
+#### Dhu al-Kifl 
+
+(debated, Ezekiel, Budda or other)
 
 ## 5. Isa
 *******************************************
@@ -511,7 +567,7 @@ After death of the prophet Suleyman as, his kingdom was divided into two: Israel
 * Konstantine and Ariyan Christians 
 
 
-## 6. Pre-Islamic Arabia 🏜 🐫 🌴 🕋 
+## 7. Pre-Islamic Arabia 🐫 🌴 🕋 
 *******************************************
 
 <details>
@@ -593,10 +649,10 @@ Mutallib took Shaybah from Yathrib and brought him to Mecca. He rediscovered Zam
 
 </details>
 
-## 7. History of Islam
+## 8. History of Islam
 *******************************************
 
-## 7.1. Prophet Muhammad saw 
+## 8.1. Prophet Muhammad saw 
 
 ### Early Life
 
@@ -630,7 +686,7 @@ Mutallib took Shaybah from Yathrib and brought him to Mecca. He rediscovered Zam
 * 632 Death of the Prophet Muhammad saw.
 Abu Bakr is elected his khalifah (representative).
 
-## 7.2 The Rashidun (Righteous Khalifs)
+## 8.2 The Rashidun (Righteous Khalifs)
 *******************************************
 ### 
 <details>
@@ -681,7 +737,7 @@ Abu Bakr is elected his khalifah (representative).
 
 ### Hasan 
 
-## 7.3 The Islamic Golden Age
+## 8.3 The Islamic Golden Age
 *******************************************
 
 Umayyad Dinasty Era 
@@ -696,7 +752,7 @@ Umayyad Dinasty Era
  his student ibn Hisham shortens his seerah.
 
 
-## 8. Yawm Al Qiyamah
+## 9. Yawm Al Qiyamah
 *******************************************
 
 * The prophet Muhammad
@@ -730,6 +786,13 @@ There is a hadith that prophet Muhammad saw said, If you encounter the beginning
 <details>
 	<summary><b>Isa will return to the Earth and defeat Dajjal</b></summary> 
 
+Isa will die in Medina. and later Medina would be destroyed. no Muslims will be left there.
+The Quran will be lifted up.
+ Later there will be a ruler from Abyssinia, who will destroy the Kaaba.
+while believers would march to figt the Abyssinain ruler, Allah will send a light breeze that will take away the souls of all believers. and only unbelievers will be left on the Earth and they will live like animals.
+
+everything in ad-dunya is cursed except the remembrance of Allah and whoever are the allies of the remembrance of Allah.
+
 </details>
 
 <details>
@@ -752,10 +815,12 @@ and since then, the repentance will not be anymore accepted.
 The Beast will come out at that time. and it will leave marks on people as believer or non-believer.
 </details>
 
+the fire will come out and it will spread.
+
 
 <details>
 <summary>Unsorted drafts</summary>
-🌱🌴
+🌱🌴🌊🏜
 
 
 حلال

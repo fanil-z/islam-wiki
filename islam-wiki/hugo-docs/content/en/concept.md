@@ -22,9 +22,10 @@ Need to do
 * add the "Useful Links" section
 * add some images or emoji
 * find a way to deal with bootstrap CSS
-* deal with the TOC
-* attach the upper panel
+* [DONE] deal with the TOC
+* [DONE] attach the upper panel (position: sticky)
 * put the search-box to the upper level
+* transfer the history roadmap from /docs to the /wiki folder.
 
 
 Sections
