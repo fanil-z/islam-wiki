@@ -1,4 +1,4 @@
-# World History Roadmap 🌍☪️
+# World History Map 🌍☪️
 <style>
   code {
     white-space : pre-wrap !important;
@@ -8,8 +8,8 @@
     order: 1;
 }
   .col-xl-3 {
-    width: 30%;
-    margin-left: 2px;
+    width: 20%;
+    margin-left: 0px;
 }
 
   .navbar {
@@ -28,6 +28,9 @@
 
 *بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem*
 
+<details>
+<summary>DISCLAIMER!</summary>
+</details>
 
 ## 0. Before Creation of Humankind
 ***************************************
@@ -66,13 +69,13 @@ In his interpretation of this verse, Ibn ‘Atiyyah  may  Allaah  have  mercy  u
 
 Allah created angels from nur (luminous light).
 
-One of the Islamic major characteristic is their lack of bodily desires; they never get tired, do not eat or drink, and have no anger.[9] As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena.[3] Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good.[4] Belief in angels is one of the main articles of faith in Islam.
+One of the Islamic major characteristic is their lack of bodily desires; they never get tired, do not eat or drink, and have no anger. As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena. Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good. Belief in angels is one of the main articles of faith in Islam.
 
-**Jibril** or the Ruh (Gabriel) is venerated as one of the primary archangels and as the Angel of Revelation in Islam.[60][61][62] Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse;[60][61][62] he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel.[61] Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).[65] 
+**Jibril** or the Ruh (Gabriel) is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
 
-**Mikail** the archangel of mercy, is often depicted as providing nourishment for bodies and souls while also being responsible for bringing rain and thunder to Earth.[67] Some scholars pointed out that Mikail is in charge of angels who carry the laws of nature.
+**Mikail** the archangel of mercy, is often depicted as providing nourishment for bodies and souls while also being responsible for bringing rain and thunder to Earth. Some scholars pointed out that Mikail is in charge of angels who carry the laws of nature.
 
-**Israfil** (frequently associated with the Jewish and Christian angel Raphael), is the archangel who blows into the trumpet in the end time, therefore also associated with music in some traditions.[69] Israfil is responsible for signaling the coming of Qiyamah (Judgment Day) by blowing a horn.
+**Israfil** (frequently associated with the Jewish and Christian angel Raphael), is the archangel who blows into the trumpet in the end time, therefore also associated with music in some traditions. Israfil is responsible for signaling the coming of Qiyamah (Judgment Day) by blowing a horn.
 
 **Azrail**  is the archangel of death. He and his subordinative angels are responsible for parting the soul from the body of the dead and will carry the believers to heaven (Illiyin) and the unbelievers to hell (Sijjin).
 
@@ -319,9 +322,12 @@ Early accounts of Idris' life attributed "thirty portions of revealed scripture"
 
 </details>
 
-#### How Idol Worshipping appeared
 
+<details>
+<summary><b>How Idol Worshipping appeared</b></summary>
 There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
+</details>
+
 
 ## 3. Noah and the Great Flood ⛴ 🕊 ⛰ 
 *************************************
@@ -332,7 +338,7 @@ Nuh is the second most narrated prophet in the Quran. he was the first prophet w
 	<summary><b>The Great Flood</b></summary>
 According to Islam, he was a prophet, sent to warn mankind of that region and his people to change their ways. He conveyed the message for over 950 years. Islamic literature recounts that in the Generations of Adam, many men and women continued to follow Adam's original teachings, worshiping God alone and remaining righteous. Among Adam's descendants there were many brave and pious men, greatly loved and revered by their respective communities. Exegesis goes on to narrate that, upon the death of these elders, people felt enormous grief and some felt prompted to make statues of these people in remembrance of them. Then gradually, through the generations many forgot what such statues were for and began to worship them, (as the Shaytan (Satan) slowly deceived each generation) along with many other idols. In order to guide the people, God appointed Noah with the duty of being the next prophet to humanity.
 
-Early preaching
+#### Early preaching
 According to Islamic belief, Noah began preaching to his people both verbally and by example. He would praise God consistently and he urged his people to do the same, warning his tribe of the punishment they would face if they did not mend their ignorant ways. The Qur'an states that Noah repeatedly told his people:
 
 "O my people, worship Allah; you have no deity other than Him. Indeed, I fear for you the punishment of a tremendous Day!"
@@ -340,22 +346,22 @@ According to Islamic belief, Noah began preaching to his people both verbally an
 Noah's ark depicted in a 14th-century manuscript of Rashid al-Din's world history, the Jami al-tawarikh
 Early on, a few were moved by Noah's words but the powerful and wealthy members of the tribe refused to hear his call. The unbelievers at the time were impelled to rebel by various evil motives. Firstly, they were extremely envious and jealous of men superior to them in any way. Secondly, the people were ignorant of the weak and lowly, who were frequently superior intellectually, morally and spiritually. As a result of their ignorance, they were arrogant and mocked all who they felt were inferior to them. Saying "Are we to believe you, when those who follow you are the most abject of people?" Noah responded: "Their judgment rests only with my Lord, if you could perceive." When Noah preached the faith of God to them, all they did was revile the messenger, abuse the message and call the whole warning a lie. He then went on to explain the Message in greater depth, ensuring them that it was not a message of destruction but it was a message with the mercy from God, and that their acts would lead to destruction if they did not accept the faith. He questioned them, asking why they would not accept what would benefit them in the near future. Noah went onto further, and told his community that he asked of no reward from them, telling them his only reward would be from God. But his people threatened him with being stoned.
 
-Accusation
+#### Accusation
 
 Miniature from Hafiz-i Abru's Majma al-tawarikh. "Noah's Ark" Iran (Afghanistan), Herat; Timur’s son Shah Rukh (1405-1447) ordered the historian Hafiz-i Abru to write a continuation of the Jami al-tawarikh. Like the Il-Khanids, the Timurids were concerned with legitimizing their right to rule, and Hafiz-i Abru's "A Collection of Histories" covers a period that included the time of Shah Rukh himself.
 As time passed, Noah became firmer in his preaching. When the unbelievers began insulting those who accepted God's message, believing that Noah would send those faithful away to attract the wealthy unbelievers, Noah revealed that they - the arrogant and ignorant rich - were the wicked and sinful ones. His people accused him of being soothsayer or diviner. Noah declared that he was by no means a mere fortune-teller, pretending to reveal secrets which are not worth revealing. Noah also denied accusations claiming he was an angel, always maintaining that he was a human messenger. When the people refused to acknowledge their sinfulness Noah told them that it was not Noah, but God that would punish them - however God pleased.
 
-Prayer
+#### Prayer
 
 A depiction of Noah in a Mughal miniature from the 16th century
 The Quran states that Noah prayed to God, telling him that his preaching only made his people disbelieve further. Noah told God how they had closed their minds to accepting the message, so that the light of the truth should not affect their thinking. Noah told God how he had used all the resources of the classical preacher, conveying the message both in public places and with individuals in private. Noah spoke of how he had told the people the rewards they would receive if they became righteous, namely that God would supply plentiful rain as a blessing, and that God would also guarantee them an increase in children and wealth.
 
-Building of the Ark
+#### Building of the Ark
 
 Noah's ark and the deluge from Zubdat-al Tawarikh
 According to the Quran, one day, Noah received a revelation from God, in which he was told that no one would believe the message now aside from those who have already submitted to God. Noah's frustration at the defiance of his people led him to ask God to not leave even one sinner upon earth.[29] Although there is no proof that God accepted his prayer (as there is many examples of accepted prayers, such as in case of Yunus, Lut (Lot), Suleyman (Solomon) etc., even Noah's prayer in some other shape was accepted), God decreed that a terrible flood would come (and yet, Qur'an doesn't say it came to cover whole Earth) and He ordered Noah to build a ship (Fulk) which would save him and the believers from this dreadful calamity.[41] Ever obedient to God's instructions, Noah went out in search of material with which to build the vessel. When Noah began building the Ark, the people who saw him at work laughed at him even more than before. Their conclusion was that he was surely a madman – they could not find any other reason why a man would build a huge vessel when no sea or river was nearby.[29] Although Noah was now very old, the aged patriarch continued to work tirelessly until, at last, the Ship was finished.
 
-Family
+#### Family
 Little is known of Noah's personal history before his call to prophecy. However, Ibn Kathir records him to have been the son of Lamech and grandson of Methuselah, one of the patriarchs from the Generations of Adam. Noah was neither the leader of the tribe nor a very rich man but, even before being called to prophecy, he worshiped God faithfully and was, in the words of the Qur'an, "a devotee most grateful".
 
 Noah was married to a woman whose name is not mentioned in the Quran. Some Islamic historians such as Al-Tabari have suggested that the name of Noah's wife was Umzarah bint Barakil but this cannot be confirmed. Most Muslims simply call her by her midrashic name Naamah.[citation needed] Islamic scholars agree that Noah had four sons whose names were Ham, Shem, Yam and Japheth. According to the Quran, one of Noah's sons was a disbeliever who refused to come aboard the Ark, instead preferring to climb a mountain, where he drowned. It is agreed among most Islamic scholars that Yam was the one who drowned; the other three remained believers.
@@ -363,12 +369,19 @@ Noah was married to a woman whose name is not mentioned in the Quran. Some Islam
 The Quran states that Noah's wife was not a believer with him so she did not join him; neither did one of Noah's sons (Yam), who was secretly a disbeliever but had pretended faith in front of Noah. The sons of Noah are not expressly mentioned in the Qur'an, except for the fact that one of the sons was among the people who did not follow his own father, not among the believers and thus was washed away in the flood.[44] Also the Qur'an indicates a great calamity, enough to have destroyed Noah's people, but to have saved him and his generations to come. Noah's wife (Naamah) is referred to in the Qur'an as an evil woman. When God emphasizes upon the notion that everyone is for themselves on the Day of Judgement and that marital relations will not be to your aid when the judgement takes place.
 
 In contrast, the wife of the Pharaoh of the Exodus, Asiya, and Mary, the mother of Jesus, are referred to as among the best of women. This adds to the notion that, on the Last Day, everyone will be judged according to their own deeds. The "Stories of The Prophets" explain that the son who declined to embark was a non-believer.
-After the flood, people started over and for some time they lived in tawhid.
+After the flood, humankind started over and for some time they lived in tawhid.
 </details>
 
 <details>
 <summary><b>Historic Side-Note </b></summary>
 Here the examples of all old nations among which existed the story of the great flood.
+
+Story of the great flood occurs in:
+the Mesopotamian flood stories, the Genesis flood narrative, Nuh (Noah) in Islam, manvantara-sandhya in Hinduism, the Gun-Yu in Chinese mythology, Deucalion and Pyrrha in Greek mythology, Bergelmir in Norse mythology, the arrival of the first inhabitants of Ireland with Cessair in Irish mythology, in parts of Polynesia such as Hawaii, the lore of the K'iche' and Maya peoples in Mesoamerica, the Lac Courte Oreilles Ojibwa tribe of Native Americans in North America, the Muisca and Cañari Confederation in South America, Africa, and some Aboriginal tribes in Australia.
+
+One example of a flood myth is the Epic of Gilgamesh. Many scholars believe that this account was copied from the Akkadian Atra-Hasis,[a] which dates to the 18th century BC.[3][b] In the Gilgamesh flood myth, the highest god, Enlil, decides to destroy the world with a flood because humans have become too noisy. The god Ea, who had created humans out of clay and divine blood, secretly warns the hero Utnapishtim of the impending flood and gives him detailed instructions for building a boat so that life may survive.[5][6] Both the Epic of Gilgamesh and Atra-Hasis are preceded by the similar Sumerian creation myth (c. 1600 BC)[7]—the oldest surviving example of such a flood-myth narrative, known from tablets found in the ruins of Nippur.
+https://en.wikipedia.org/wiki/List_of_flood_myths 
+
 </details>
 
 <details>
@@ -379,10 +392,14 @@ People of Aad were tall, strong and famous fro their craftsmanshift, especially 
 and then a black cloud came. People of Aad thought that this cloud will bring them rain. The weather changed. the wind ripped their houses apart and destroyed their buildings. the storm did not stop until the entire region was reduced to ruins.</p>
 </details>
 
-#### Saleh and people of Thamud 🐪
+<details>
+<summary><b>Saleh and people of Thamud 🐪</b></summary>
+
 (Selah?)
 
 Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
+</details>
+
 <details>
 <summary><b>Open history of Thamud </b></summary>
 <p>
@@ -400,13 +417,13 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 ## 4. Ibrahim
 *******************************************
 
-**Ibrahim**: Ibrahim is from Iraq, Hagar is from Egypt. Hajj was established by Ibrahim. Kurban was established by the example of Ibrahim and his son. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people.
-
 There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources clain that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. there is scientific evidence that Homo-Sapiens existed for ...
 and the prophet Muhammad saw said that the distance between me and Al Kiyamah is like distance between my two fingers.
 
 <details>
 	<summary>Early Life</summary>
+
+**Ibrahim**: Ibrahim is from Iraq, Hagar is from Egypt. Hajj was established by Ibrahim. Kurban was established by the example of Ibrahim and his son. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people.
 
 Ibrahim was born in a house of idolaters in the ancient city of Ur of the Chaldees, likely the place called 'Ur' in present-day Iraq, in which case, the idolaters would have been practitioners of the hypothesized Ancient Mesopotamian religion.
 
@@ -432,18 +449,101 @@ It was time for a religious festival, perhaps dedicated to Sin, for which they l
 
 <details>
 	<summary>Soddom and Homorra (Story of Lut (Lot))</summary>
+
+Lut (Arabic: لوط, romanized: Lūṭ), known as Lot in the Old Testament, is a prophet of God in the Quran. According to Islamic tradition, Lut was born to Haran and spent his younger years in Ur, later migrating to Canaan with his uncle Abraham. He was sent to the cities of Sodom and Gomorrah as a prophet, and was commanded to preach to their inhabitants on monotheism and the sinfulness of homosexuality and their lustful and violent acts.
+
+Though Lut was not born among the people he'd been sent to preach to, the people of Sodom are still regarded as his "brethren" in the Quran. Like the Biblical narrative, the Quran states that Lut's messages were ignored by the inhabitants of the cities, and Sodom and Gomorrah were subsequently destroyed. The destruction of the cities is traditionally presented as a warning against male rape and went on to be used as a warning against homosexual acts.
+
+While the Quran does not elaborate upon Lut's later life, Islam holds that all prophets were examples of moral and spiritual righteousness.
+
+Lut is referenced a relatively large number of times in the Quran. Many of these passages place the narrative of Lut in a line of successive prophets including Noah, Hud, Salih and Shuayb. Islamic scholars have stated that these particular prophets represent the early cycle of prophecy as described in the Quran. These narratives typically follow similar patterns: a prophet is sent to a community; the community pays no heed to his warnings instead threatens him with punishment; God asks the prophet to leave with his followers the community and its people are subsequently destroyed in a punishment. Elsewhere in the Quran, Lut is mentioned alongside Ismael, Elisha and Jonah as men whom God favored above the nations.
+
+The Quran states that Lut was a nephew of Abraham who had been sent to the twin cities of Sodom and Gomorrah as a prophet after migrating to Canaan, but he was rejected by the cities' inhabitants. One day, a group of angels visited Abraham as guests in the guise of handsome men in order to inform him of the fact that his wife Sarah was pregnant with Isaac. While there, they also told him that they had been sent by God to the "guilty people" of Lut to destroy them with "a shower of stones of clay".[16] Lut and those who believed in him, were to be spared, but his wife was to die in the destruction, with the angels stating that "she is of those who lag behind". The Quran also draws upon Lot's wife as an "example for the unbelievers" as she was married to a righteous man but refused to believe in his message and was thus condemned to Hell.
+
+The people of the twin cities transgressed against the bounds of God. According to the Quran, their sins included inhospitality and robbery  they hated strangers and robbed travellers, apart from other abuses and rape. It was their sin of sexual misconduct as well which was seen as particularly egregious, with Lut strongly chiding them for approaching men with sexual desire instead of women. Lut told and tried to help them to abandon their sinful ways, but they ridiculed him[20] and threatened to evict him from the cities. Lut prayed to God and begged to be saved from the consequences of their sinful acts.
+
+Then three angels, disguised as handsome males, came to Lut as guests. He grieved the men, as he felt powerlessness to protect them from the people of the cities. The cities' residents becoming aware of the visitors demanded that Lot surrender his guests to them. Distressed and fearful that they would incur the wrath of God, suggested rather lawful marriage to his daughters as pious and purer alternatives to their unlawful wishes, and perhaps as a source of guidance. But they were unrelenting and replied "thou knowest we have no need of thy daughters: indeed thou knowest quite well what we desire!", referring to his male guests.
+
+The exegetes Ibn Kathir, Qurtubi and Tabari do not read 'daughters' to mean Lot's literal daughters. They argue that since a prophet is like a father to his nation, Lot was directing the evildoers to turn away from their sins and engage in healthy and pious relationships with the daughters of the nation, i.e. women in general.
+
+The angels then revealed their true identities to Lot and said to him, “We are (here) to deliver thee and thy following, except thy wife: she is of those who lag behind." They advised Lot to leave the cities during the night, telling him not to look back. Keeping his faith in God, Lot left the cities in the darkness of night, bringing with him his followers and believing family members. Finally, morning came, and the Decree of God passed whereupon the Quran reads, “We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-“[32] And thus was sealed the fate of the twin cities, falling into destruction and despair and marking the end of the civilisations of Sodom and Gomorrah.
+
 </details>
 
 <details>
 	<summary>Iskhaq (Isaac) (beginning of Jewish people)</summary>
+	Covenant 
+	Second son of Ibrahim. his mother is Sarah.
+
+According to Bible: As had been prophesied in Mamre the previous year,[40] Sarah became pregnant and bore a son to Abraham, on the first anniversary of the covenant of circumcision. Abraham was "an hundred years old", when his son whom he named Isaac was born; and he circumcised him when he was eight days old.[41] For Sarah, the thought of giving birth and nursing a child, at such an old age, also brought her much laughter, as she declared, "God hath made me to laugh, so that all who hear will laugh with me."[42] Isaac continued to grow and on the day he was weaned, Abraham held a great feast to honor the occasion. During the celebration, however, Sarah found Ishmael mocking; an observation that would begin to clarify the birthright of Isaac.
+
+	Ishaq is the father of Yaqub and grandfather of Yusuf.
+
+	Islam considers Isaac (Arabic:اسحاق Ishaaq) a prophet of Islam, and describes him as the father of the Israelites and a righteous servant of God.
+
+Isaac, along with Ishmael, is highly important for Muslims for continuing to preach the message of monotheism after his father Abraham. Among Isaac's children was the follow-up Israelite patriarch Jacob, who is also venerated as an Islamic prophet.
+
+Isaac is mentioned seventeen times by name in the Quran, often with his father and his son, Jacob.[36] The Quran states that Abraham received "good tidings of Isaac, a prophet, of the righteous", and that God blessed them both (37: 112). In a fuller description, when angels came to Abraham to tell him of the future punishment to be imposed on Sodom and Gomorrah, his wife, Sarah, "laughed, and We gave her good tidings of Isaac, and after Isaac of (a grandson) Jacob" (11: 71–74); and it is further explained that this event will take place despite Abraham and Sarah's old age. Several verses speak of Isaac as a "gift" to Abraham (6: 84; 14: 49–50), and 24: 26–27 adds that God made "prophethood and the Book to be among his offspring", which has been interpreted to refer to Abraham's two prophetic sons, his prophetic grandson Jacob, and his prophetic great-grandson Joseph. In the Quran, it later narrates that Abraham also praised God for giving him Ishmael and Isaac in his old age (14: 39–41).
+
+Elsewhere in the Quran, Isaac is mentioned in lists: Joseph follows the religion of his forefathers Abraham, Isaac and Jacob (12: 38) and speaks of God's favor to them (12: 6); Jacob's sons all testify their faith and promise to worship the God that their forefathers, "Abraham, Ishmael and Isaac", worshiped (2: 127); and the Quran commands Muslims to believe in the revelations that were given to "Abraham, Ishmael, Isaac, Jacob and the Patriarchs" (2: 136; 3: 84). In the Quran's narrative of Abraham's near-sacrifice of his son (37: 102), the name of the son is not mentioned and debate has continued over the son's identity, though many feel that the identity is the least important element in a story which is given to show the courage that one develops through faith.[37]
+
+Quran
+The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jacob are mentioned as being bestowed upon Abraham as gifts of God, who then worshipped God only and were righteous leaders in the way of God:
+
+And We bestowed on him Isaac and, as an additional gift, (a grandson), Jacob, and We made righteous men of every one (of them).
+And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).
+
+— Quran, sura 21 (Al-Anbiya), ayah 72–73[38]
+And WE gave him the glad tidings of Isaac, a Prophet, and one of the righteous.
+
+— Quran, sura 37 (As-Saaffat), ayah 112[39]
 </details>
 <details>
 	<summary>Ismail (Ishmael) (beginning of Arabic people)</summary>
+name Yishmael means God will hear
+First son of Ibrahim.
 
-Second son of Ibrahim.
-	* Hajar and Zamzam
+Ismael (Arabic: إسماعيل, romanized: ʾIsmāʿēl) is regarded as a prophet and messenger and the founder of Ishmaelites in Islam. He is the son of Ebrāhēm (Abraham), born to Hājar (Hagar). Ismael is also associated with Mecca and the construction of the Kaaba. Ismael is considered the ancestor to Muhammad.
+
+Ismael is the figure known as Ishmael in Judaism and Christianity. These sources include the Quran, Quranic commentary (tafsir), hadith, historiographic collections like that of Muhammad ibn Jarir al-Tabari, and Isra'iliyat (Islamic texts about Biblical or ancient Israelite figures that originate from Jewish or Christian sources).
+Ishmael and Hagar taken to Mecca by Abraham
+Ishmael and Hagar being taken to Mecca by Abraham in Islamic texts[4] is an important part in the story of Ishmael, as it brings the focus to Mecca and is the beginning of Mecca's sanctification as a holy area.[2]: 61  Islamic tradition says Abraham was ordered by God to take Hagar and Ishmael to Mecca, and later Abraham returned to Mecca to build the Kaaba.[5] In many of these accounts, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibral) guides them to the location of the Kaaba, at which point Abraham builds it and afterwards, leaves the other two there (other versions discussed below say the construction of the Kaaba occurred later and that Ishmael took part in it). Generally, it is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. Hagar and Ishmael then run out of water and Ishmael becomes extremely thirsty. Hagar is distressed and searches for water, running back and forth seven times between the hills of Al-Safa and Al-Marwah. Hagar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee.[6] When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam. At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history[7] and are recounted in Reuven Firestone's Journeys in Holy Lands.[2]
+
+The sacrifice
+Part of a series on
+Islam
+Allah3.svg
+Beliefs
+Practices
+TextsFoundations
+History
+Culture and society
+Related topics
+Allah-green.svg Islam portal
+vte
+Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries.[8]: 92–95  Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art."[8]: 92–93  Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ishmael over Isaac because he was the first child.
+
+
+Abraham sacrificing his son, Ishmael; Abraham cast into fire by Nimrod
+The general narrative pertaining to Ishmael in Islamic literature describes the sacrifice either as a test or as part of a vow. Some versions tell of the devil trying to stop God's command from being obeyed by visiting Hagar, Ishmael, and Abraham. Every time the devil says Abraham is going to sacrifice Ishmael, each person answers that if God commanded it, they should obey. Eventually, Abraham tells Ishmael about the order and Ishmael is willing to be sacrificed and encourages Abraham to listen to God. Often, Ishmael is portrayed as telling Abraham some combination of instructions to bring his shirt back to Hagar, bind him tightly, sharpen the knife, and place him face down, all so that there will be no wavering in the resolve to obey God.
+
+As Abraham attempts to slay Ishmael, either the knife is turned over in his hand or copper appears on Ishmael to prevent the death and God tells Abraham that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm).[9] Since the sacrifice of a ram cannot be greater than that of Abraham's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ishmael) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Abraham's sacrifice and to remind themselves of self-abnegation in the way of Allah.[10] Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ishmael.[2][7]
+
+The actions of Ishmael in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Abraham talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ishmael makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ishmael is a model of surrendering one's will to God, an essential characteristic in Islam.[11]
+
+Though it is generally believed by modern Muslims that Ishmael was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ishmael.[2]: 135  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.[2]: 144  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage.[8]: 87 Arguments by early Muslim scholars for Ishmael as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ishmael, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time.[7]: 88–90  In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ishmael in the Quran is that directly after the sacrifice narrative, Abraham is told of the coming of Isaac's birth, therefore, it must be Ishmael who was about to be sacrificed.[7]: 88  However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac.[2]: 135–136 [7]: 89  Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
+
+Construction of the Kaaba
+At some point, often believed to be after Hagar's death, Ishmael married a woman from the Jurhum, the tribe who settled in the area around Zamzam. Abraham visited Ishmael in Mecca and when he arrived at his home, Ishmael was not there. Instead Ishmael's wife greets Abraham, but she was not welcoming or generous to him. Abraham instructed her to tell Ishmael some version of the statement that he was not pleased with or to change "the threshold of his door." When Ishmael returns home and his wife told him that, he knows it is from his father and taking the advice, divorced the woman. He then married another woman from Jurhum. Abraham once again visited and was met by Ishmael's second wife, as Ishmael was out. This wife was very kind and provided food for him. Abraham instructed her to tell Ishmael some version of the statement that he was pleased with "the threshold of his door." When Ishmael arrived and his wife repeated Abraham's statement, Ishmael knew it was from his father and kept his wife.[2][7]
+
+There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Abraham build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Abraham to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ishmael assisted his father. Of those that say Ishmael took part in the construction, most describe Abraham visited Ishmael a third time in Mecca, during which they raised the Kaaba. Some say Ishmael looked for a final stone, but Abraham did not accept the one he brought back. Instead an angel had brought the Black Stone, which Abraham put into place. Ishmael was left at the Kaaba, in charge of its care and to teach others about the Hajj.[2][7] The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Abraham with the Hajj after Islam had developed to help remove its connection to early pagan rituals.[2]: 101 
+
+* Hajar and Zamzam
+	The story that an angel comes to comfort Hajar is also mentioned in the Bible. it also says that Ishmael will have so many descendants that it will be difficult to count.
+
 	* Dream of sacrifice 🚸 🏔️ 🐑
 	* Building of Kaaba 🕋
+	Ishmael and Isaac buried Ibrahim together
 
 </details>
 
@@ -480,11 +580,32 @@ The people taunted Shuʿayb and told him that, were it not for the prestigious f
 ## 5. Musa and the Torah
 *******************************************
 Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
-#### Musa (Moses) 🌿 🔥
-#### Harun (Aaron)
-#### Exodus
-#### The Torah 
-#### Davud 
+<details>
+<summary><b>Musa (Moses) 🌿 🔥 </b></summary> 
+
+</details>
+<details>
+<summary><b>Harun (Aaron) </b></summary>
+</details>
+
+<details>
+<summary><b>Exodus</b></summary>
+</details>
+
+<details>
+<summary><b>The Torah </b></summary>
+
+</details>
+
+
+## 6. Jewish Kings and Prophets
+*******************************************
+
+<details>
+<summary><b>Davud </b></summary>
+
+</details>
+
 <details>
 <summary><b>Sulayman (Solomon) </b></summary>
 Sulaimān ibn Dāwūd (Arabic: سُلَيْمَان بْن دَاوُوْد, Solomon son of David) was, according to the Quran, a malik (مَلِك, king) and Nabī (Prophet) of the Israelites. Islamic tradition generally holds that he was the third king of Jewish people, and a wise ruler for the nation.
@@ -546,19 +667,26 @@ mentioned 4 times in the Quran. he was the one who perfected his character
 After death of the prophet Suleyman as, his kingdom was divided into two: Israel(Samaria) and Judah(Jerusalem). They started to go astray. Allah sent Ilyas to Samaria because they started worshipping an idol. They sis not listen to Ilyas, so Allah sent a long-lasting draught. he challenged priests of the idol Ball.
 </details>
 
-#### Alyasa (Elisha) 
-#### Yunus Jonah 🐳 (8-9cen BCE)
+<details>
+<summary>Alyasa (Elisha)</summary>
 
+</details> 
+ 
+<details>
+<summary>Yunus Jonah 🐳 (8-9cen BCE)</summary>
  The companion of the fish 🐟.
 
-#### Dhu al-Kifl 
+</details> 
 
+<details>
+<summary>Dhu al-Kifl </summary>
 (debated, Ezekiel, Budda or other)
+</details> 
 
-## 5. Isa
+
+## 7. Isa (Jesus and Family of Imran)
 *******************************************
 
-### Jesus and Family of Imran
 * Imran
 * Zacharia
 	* **Yahya** (John the Baptist) 1 century BC
@@ -567,9 +695,14 @@ After death of the prophet Suleyman as, his kingdom was divided into two: Israel
 * Konstantine and Ariyan Christians 
 
 
-## 7. Pre-Islamic Arabia 🐫 🌴 🕋 
+## 8. Pre-Islamic Arabia 🐫 🌴 🕋 
 *******************************************
 
+<details>
+<summary>Descendants of Ibrahim and Ismail</summary>
+
+
+</details>
 <details>
 <summary>Jaahiliyah</summary>
 After introducing idols, Jews ceased to visit the temple of Abraham. Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. 
@@ -649,10 +782,10 @@ Mutallib took Shaybah from Yathrib and brought him to Mecca. He rediscovered Zam
 
 </details>
 
-## 8. History of Islam
+## 9. History of Islam
 *******************************************
 
-## 8.1. Prophet Muhammad saw 
+## 9.1. Prophet Muhammad saw 
 
 ### Early Life
 
@@ -686,7 +819,7 @@ Mutallib took Shaybah from Yathrib and brought him to Mecca. He rediscovered Zam
 * 632 Death of the Prophet Muhammad saw.
 Abu Bakr is elected his khalifah (representative).
 
-## 8.2 The Rashidun (Righteous Khalifs)
+## 9.2 The Rashidun (Righteous Khalifs)
 *******************************************
 ### 
 <details>
@@ -734,10 +867,12 @@ Abu Bakr is elected his khalifah (representative).
 
 </details>
 
+<details>
+<summary>Hasan</summary>
 
-### Hasan 
+</details> 
 
-## 8.3 The Islamic Golden Age
+## 9.3 The Islamic Golden Age
 *******************************************
 
 Umayyad Dinasty Era 
@@ -752,7 +887,27 @@ Umayyad Dinasty Era
  his student ibn Hisham shortens his seerah.
 
 
-## 9. Yawm Al Qiyamah
+## 10. Later History
+
+### Crusades
+Proto-Crusades
+
+SardiniaBarbastroMahdia
+In the Holy Land (1095–1291)
+
+First 1101 Norwegian Venetian 1129 Second Third 1197 Fourth Fifth Sixth Barons' Seventh 1267 Eighth Lord Edward's
+Later Crusades (post-1291)
+
+Aragonese Smyrniote Alexandrian Savoyard Barbary Nicopolis VarnaHoly Leagues
+Northern Crusades (1147–1410)
+
+Kalmar Wendish Swedish 1150 1249 1293 Livonian Prussian Lithuanian
+
+### Golden Horde
+
+### Ottoman Empire
+
+## 11. Yawm Al Qiyamah
 *******************************************
 
 * The prophet Muhammad
@@ -765,6 +920,11 @@ There is a hadith that prophet Muhammad saw said, If you encounter the beginning
 
 <details>
 	<summary><b>Dajjal - the false Messiah or Anti-Christ</b></summary> 
+One of Dajjal's eyes will be like a bad grape.
+one third of the earth for one year the rain will stop. on the second year 2/3 will be rainless.
+Dajjal will pretent that he can resurrect people from the dead but it will be jinns who will imitate people's parents.
+
+Dajjal will be the biggest trial for humankind since they were sent to the Earth. 
 
 </details>
 
@@ -826,6 +986,9 @@ the fire will come out and it will spread.
 حلال
 
 https://emojipedia.org/ramadan/
+ancient civilizations
+http://www.essential-humanities.net/history-overview/world-history-timeline/
+
 
 Prophet Muhammad (570-632)
 1. Abu Bakr 632-634
@@ -924,5 +1087,11 @@ The Beginning and the End series with Omar Suleiman: https://www.youtube.com/wat
 
 
 Good history with TOC and good layout: https://www.al-islam.org/message-jafar-subhani/chapter-29-change-qiblah
+
+
+Google Cloud Storage may be cheap: https://cloud.google.com/products/calculator#id=403ea1fe-b607-45f1-a3c9-b28ec66b0551
+and 300 for free3339999
+
+
 
 </details>

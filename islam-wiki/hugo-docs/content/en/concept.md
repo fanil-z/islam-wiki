@@ -14,6 +14,7 @@ Need to do
 * add favicon
 * add head menu with links
 * add custom css
+* find how to build a static website with config
 * [DONE] maybe just switch to Hugo as it seems more convenient and versatile:
 	* hugo-doks +
 	* hugo-book
@@ -26,6 +27,21 @@ Need to do
 * [DONE] attach the upper panel (position: sticky)
 * put the search-box to the upper level
 * transfer the history roadmap from /docs to the /wiki folder.
+* expand all toggle (https://stackoverflow.com/questions/43008609/expanding-all-details-tags)
+* dark mode toggle
+* sticky panel include: dark mode toggle, expand all toggle, Home link, ?search, ?git link
+* write the disclaimer
+* change the upper line gradient color
+* add a timeline since Ibrahim. now there's no way I can hack bootstrap css on that level
+* seems like I need to upload it somewhere and fix the baseurl in config before it starts to work locally without serve.
+
+border-image-source: linear-gradient(
+89deg, #067f11e3, #05ffcab3 50%, #4fe622ab);
+
+<label class="switch">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
 
 
 Sections
