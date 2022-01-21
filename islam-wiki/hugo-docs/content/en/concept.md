@@ -23,17 +23,27 @@ Need to do
 * add the "Useful Links" section
 * add some images or emoji
 * find a way to deal with bootstrap CSS
-* [DONE] deal with the TOC
+* [DONE] deal with the TOC (how did I do that?)
 * [DONE] attach the upper panel (position: sticky)
 * put the search-box to the upper level
 * transfer the history roadmap from /docs to the /wiki folder.
-* expand all toggle (https://stackoverflow.com/questions/43008609/expanding-all-details-tags)
+* [DONE] expand all toggle (https://stackoverflow.com/questions/43008609/expanding-all-details-tags)
 * dark mode toggle
 * sticky panel include: dark mode toggle, expand all toggle, Home link, ?search, ?git link
 * write the disclaimer
 * change the upper line gradient color
 * add a timeline since Ibrahim. now there's no way I can hack bootstrap css on that level
 * seems like I need to upload it somewhere and fix the baseurl in config before it starts to work locally without serve.
+* fix CSS for This-Page-TOC background and border in the bootstrap CSS.
+* add button to go up to the beginning: 
+* incorporate search in the current page: https://stackoverflow.com/questions/51988459/html-searching-on-the-same-page/51988637
+
+
+## Notes
+* **expand all** script is in layout/docs/single.html
+* the menu, buttons, Expand All in the layout/partials/header/header.html
+
+
 
 border-image-source: linear-gradient(
 89deg, #067f11e3, #05ffcab3 50%, #4fe622ab);

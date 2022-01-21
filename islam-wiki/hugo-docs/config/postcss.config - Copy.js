@@ -23,7 +23,14 @@ module.exports = {
         'h5',
         'alert-link',
         ...whitelister([
-          './content/en/_static/css/custom.css',
+          './content/en/_static/css/custom.css'
+          './node_modules/@hyas/doks/assets/scss/common/_variables.scss',
+          './node_modules/@hyas/doks/assets/scss/components/_buttons.scss',
+          './node_modules/@hyas/doks/assets/scss/components/_code.scss',
+          './node_modules/@hyas/doks/assets/scss/components/_syntax.scss',
+          './node_modules/@hyas/doks/assets/scss/components/_search.scss',
+          './node_modules/@hyas/doks/assets/scss/common/_dark.scss',
+          './node_modules/katex/dist/katex.css',
         ]),
       ],
     }),

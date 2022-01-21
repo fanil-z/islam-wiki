@@ -97,23 +97,12 @@
 <nav class="doks-subnavbar py-2 sticky-lg-top{{ if eq .Site.Params.options.flexSearch false }} d-lg-none{{ end }}" aria-label="Secondary navigation">
   <div class="container-xxl d-flex align-items-md-center">
 
-
     {{ if .Site.Params.options.flexSearch -}}
     <form class="doks-search position-relative flex-grow-1 me-auto">
       <input id="search" class="form-control is-search" type="search" placeholder="Search docs..." aria-label="Search docs..." autocomplete="off">
       <div id="suggestions" class="shadow bg-white rounded d-none"></div>
     </form>
     {{ end -}}
-
-
-      <p style="font-size:14px; margin-right:5%; padding-top: 5px">سْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem</p>
- 
-
-    <input placeholder="search" type="text" id="searchp" style="color:#303030; font-size: 16px;">
-    <input type="button" style="color:#303030; font-size: 16px; background-color: #c6c6c6; border-color: #c6c6c6; margin-right:16px;" value="Search" onclick="searchp(document.getElementById('searchp').value)">
-
-
-    <button id="btnExpandHideAllDetails" onclick="openAll()" style="color:#303030; font-size: 16px; background-color: #c6c6c6; border-color: #c6c6c6;">Expand All Details</button>
 
     {{ if eq .Site.Params.options.docsVersioning true -}}
     <div class="dropdown ms-3">

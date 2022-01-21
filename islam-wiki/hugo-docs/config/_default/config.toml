@@ -1,4 +1,4 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "http://localhost:1313/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -13,6 +13,9 @@ rssLimit = 10
 defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
+
+[params]
+    custom_css = ["css/custom.css"]
 
 # add redirects/headers
 [outputs]

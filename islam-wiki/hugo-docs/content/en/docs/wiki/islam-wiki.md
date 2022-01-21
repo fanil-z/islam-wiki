@@ -8,28 +8,37 @@
     order: 1;
 }
   .col-xl-3 {
-    width: 20%;
+    width: 25%;
     margin-left: 0px;
+    border-right: solid;
+    border-right-color: #f4f4f4;
+    border-right-width: 0.4px;
+    #background-color: #f4f4f4;
 }
 
-  .navbar {
-  	position:-webkit-sticky;
-  	position: sticky;
-  	top: 0;
-}
-  .navbar-light .navbar-brand {
-  	position:-webkit-sticky;
-  	position: sticky;
-  	top: 0;
-}
+#  .navbar {
+#  	position:-webkit-sticky;
+#  	position: sticky;
+#  	top: 0;
+#}
+#  .navbar-light .navbar-brand {
+#  	position:-webkit-sticky;
+#  	position: sticky;
+#  	top: 0;
+#}
+  btnExpandHideAllDetails {
+  	
+  }
 </style>
 
 *(including creation of the Universe and development of Abrahamic religions according to Islamic sources)*
 
-*بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem*
 
 <details>
 <summary>DISCLAIMER!</summary>
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem
+
+sources: Quran, Bible, hadith
 </details>
 
 ## 0. Before Creation of Humankind
@@ -471,6 +480,26 @@ The angels then revealed their true identities to Lot and said to him, “We are
 </details>
 
 <details>
+	<summary>The Covenant</summary>
+
+According to the Bible, God makes a covenant with Abraham and says that He will make Abraham a father of many nations. He gets old and still doesn't have children but doesn't lose his faith. Sarah wants to force the promise by giving Hagar to Abraham so that she can conceive a child. and she gives birth to Ismail.
+God says that the sign of the covenant is circumcision.
+When Abraham was around 100 years old, three angels come to Abraham and bring them the good news that Sarah will conveive a child. Sarah laughs because she is very old but angels tell her that this is the will of God. and Sarah gives birth to Ishaq.
+
+After having her own son, she tells Abraham to send away Hagar and Ismail so that Ismail doesn't cause a threat to the inheritance of Ishaq. God also tells Abraham to send them away and he leaves them in Mecca. Hagar asks if that is the will of Abraham or the will of God and feels relieved because it was the will of God. While they leave there in the wilderness, they run out of water and Hagar runs from one hill to the other to see if there's caravan. God sends them an angel that tells Hagar that God hears Ishmael crying and the angels comforts them and finds them a water spring. Muslims believe this is the spring of Zamzam which fulfills the thirst of piligrims in Mecca up to recent days.
+After having a water source some caravan tribes ask permission to settle in that area. Ishmael grows and Hagar finds him a wife from Egypt.
+
+Ibrahim waits patiently.
+
+Promised land of Canaan for Isaac
+promise of descendands 
+promisces of blessings for those who follow the covenenant
+
+
+</details>
+
+
+<details>
 	<summary>Iskhaq (Isaac) (beginning of Jewish people)</summary>
 	Covenant 
 	Second son of Ibrahim. his mother is Sarah.
@@ -497,6 +526,8 @@ And We made them leaders, guiding (men) by Our Command, and We sent them inspira
 And WE gave him the glad tidings of Isaac, a Prophet, and one of the righteous.
 
 — Quran, sura 37 (As-Saaffat), ayah 112[39]
+
+Isaaq and Rebecca a re parents of Jacob and Esau
 </details>
 <details>
 	<summary>Ismail (Ishmael) (beginning of Arabic people)</summary>
@@ -509,18 +540,6 @@ Ismael is the figure known as Ishmael in Judaism and Christianity. These sources
 Ishmael and Hagar taken to Mecca by Abraham
 Ishmael and Hagar being taken to Mecca by Abraham in Islamic texts[4] is an important part in the story of Ishmael, as it brings the focus to Mecca and is the beginning of Mecca's sanctification as a holy area.[2]: 61  Islamic tradition says Abraham was ordered by God to take Hagar and Ishmael to Mecca, and later Abraham returned to Mecca to build the Kaaba.[5] In many of these accounts, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibral) guides them to the location of the Kaaba, at which point Abraham builds it and afterwards, leaves the other two there (other versions discussed below say the construction of the Kaaba occurred later and that Ishmael took part in it). Generally, it is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. Hagar and Ishmael then run out of water and Ishmael becomes extremely thirsty. Hagar is distressed and searches for water, running back and forth seven times between the hills of Al-Safa and Al-Marwah. Hagar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee.[6] When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam. At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history[7] and are recounted in Reuven Firestone's Journeys in Holy Lands.[2]
 
-The sacrifice
-Part of a series on
-Islam
-Allah3.svg
-Beliefs
-Practices
-TextsFoundations
-History
-Culture and society
-Related topics
-Allah-green.svg Islam portal
-vte
 Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries.[8]: 92–95  Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art."[8]: 92–93  Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ishmael over Isaac because he was the first child.
 
 
@@ -549,8 +568,48 @@ There are many versions of the construction of the Kaaba that differ in fairly s
 
 
 <details>
-	<summary>Yacub</summary>
+	<summary>Yaqub</summary>
+Jacob was later renamed to Israel.
+
+#### Yaqub in the Quran and Hadith
+Two further references to Isra'il (Arabic: إِسْرَآئِیل [ˈisraāˈiyl]; Classical/ Quranic Arabic: إِسْرَآءِیْل [ˈisraāãˈiyl]) are believed to be mention of Jacob. The Arabic form Ya'qūb (Arabic: يَعْقُوب, romanized: Yaʿqūb may be direct from the Hebrew or indirect through Syriac.[91]
+
+He is recognized in Islam as a prophet who received inspiration from God. He is acknowledged as a patriarch of Islam. Muslims believe that he preached the same monotheistic faith as his forefathers ʾIbrāhīm, ʾIsḥāq and Ismā'īl. Jacob is mentioned 16 times in the Quran.[92] In the majority of these references, Jacob is mentioned alongside fellow prophets and patriarchs as an ancient and pious prophet. According to the Quran, Jacob remained in the company of the elect throughout his life. (38:47) The Quran specifically mentions that Jacob was guided (6:84) and inspired (4:163) and was chosen to enforce the awareness of the Hereafter. (38:46) Jacob is described as a good-doer (21:72) and the Quran further makes it clear that God inspired Jacob to contribute towards purification and hold the contact prayer. (21:73) Jacob is further described as being resourceful and a possessor of great vision (38:45) and is further spoken of as being granted a "tongue [voice] of truthfulness to be heard." (19:50)
+
+Of the life of Jacob, the Quran narrates two especially important events. The first is the role he plays in the story of his son Joseph. The Quran narrates the story of Joseph in detail, and Jacob, being Joseph's father, is mentioned thrice and is referenced another 25 times.[92] In the narrative, Jacob does not trust some of his older sons (12: 11, 18, 23) because they do not respect him. (12: 8, 16–17) Jacob's prophetic nature is evident from his foreknowledge of Joseph's future greatness (12:6), his foreboding and response to the supposed death of Joseph (12: 13, 18) and in his response to the sons' plight in Egypt. (12: 83, 86–87, 96) Islamic literature fleshes out the narrative of Jacob, and mentions that his wives included Rachel.[93] Jacob is later mentioned in the Quran in the context of the promise bestowed to Zechariah, regarding the birth of John the Baptist. (19:6) Jacob's second mention is in the Quran's second chapter. As Jacob lay on his deathbed, he asked his 12 sons to testify their faith to him before he departed from this world to the next. (2:132) Each son testified in front of Jacob that they would promise to remain Muslim (in submission to God) until the day of their death, that is they would surrender their wholeselves to God alone and would worship only Him.
+
+In contrast to the Judeo-Christian view of Jacob, one main difference is that the story of Jacob's blessing, in which he deceives Isaac, is not accepted in Islam. The Quran makes it clear that Jacob was blessed by God as a prophet and, therefore, Muslims believe that his father, being a prophet as well, also knew of his son's greatness.[94] Jacob is also cited in the Hadith as an example of one who was patient and trusting in God in the face of suffering.
+
+#### Yaqub in the Bible
+
+The biblical account of the life of Jacob is found in the Book of Genesis, chapters 25–50.
+
+##### Birth
+Jacob and his twin brother, Esau, were born to Isaac and Rebecca after 20 years of marriage, when Isaac was 60 years of age.[10] Rebecca was uncomfortable during her pregnancy and went to inquire of God why she was suffering. She received the prophecy that twins were fighting in her womb and would continue to fight all their lives, even after they became two separate nations. The prophecy also said that "the one people shall be stronger than the other people; and the elder shall serve the younger" (Genesis 25:25 KJV).
+
+When the time came for Rebecca to give birth, the firstborn, Esau, came out covered with red hair, as if he were wearing a hairy garment, and his heel was grasped by the hand of Jacob, the secondborn. According to Genesis 25, Isaac and Rebecca named the first son Hebrew: עשו, Esau.[11] The second son they named יעקב, Jacob (Ya'aqob or Ya'aqov, meaning "heel-catcher", "supplanter", "leg-puller", "he who follows upon the heels of one", from Hebrew: עקב, 'aqab or 'aqav, "seize by the heel", "circumvent", "restrain", a wordplay upon Hebrew: עקבה, 'iqqebah or 'iqqbah, "heel").[12]
+
+The boys displayed very different natures as they matured. "... and Esau was a cunning hunter, a man of the field; but Jacob was a simple man, dwelling in tents".[13] Moreover, the attitudes of their parents toward them also differed: "And Isaac loved Esau, because he did eat of his venison: but Rebecca loved Jacob."[
+
+##### Blessing of Isaac
+As Isaac aged, he became blind and was uncertain when he would die, so he decided to bestow Esau's birthright upon him. He requested that Esau go out to the fields with his weapons (quiver and bow) to kill some venison. Isaac then requested that Esau make "savory meat" for him out of the venison, according to the way he enjoyed it the most, so that he could eat it and bless Esau.
+
+Rebecca overheard this conversation. It is suggested that she realized prophetically that Isaac's blessings would go to Jacob, since she was told before the twins' birth that the older son would serve the younger.
+
+The Bible tells the story of how Rebecca and JAcob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Ishak and Yaqub being prophets would not do so.
+
+
 </details>
+
+<details>
+	<summary>Historicity</summary>
+Although archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE;[98], John J. Bimson wrote in 1980: "Since then ... there has been a strong reaction against the use of archaeological evidence in support of the biblical traditions, and Albright's comment could not be repeated with any truth today."[98] Nahum M. Sarna (1978) noted that an inability to date the narratives of the patriarchs does not necessarily invalidate their historicity,[98] a view supported by Bimson, who admitted that "Our knowledge of the centuries around 2000 BC is very small, and our ignorance very great."
+
+Historicity of the Egyptian episode
+According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan.[106] It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected.[106][107] The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty.[106] The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.[
+</details>
+
+
 
 <details>
 	<summary>Yusuf</summary>
@@ -988,6 +1047,10 @@ the fire will come out and it will spread.
 https://emojipedia.org/ramadan/
 ancient civilizations
 http://www.essential-humanities.net/history-overview/world-history-timeline/
+
+EXPAND ALL skipping the first 5:
+https://stackoverflow.com/questions/43008609/expanding-all-details-tags
+
 
 
 Prophet Muhammad (570-632)
