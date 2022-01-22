@@ -82,6 +82,19 @@ One of the Islamic major characteristic is their lack of bodily desires; they ne
 
 **Jibril** or the Ruh (Gabriel) is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
 
+Daniel saw Gabriel
+
+Ezekiel saw Gabriel
+
+Gabriel came to Zakariyah and tells him that his prayers are heard and that they his wife will give birth to John.
+
+Jibril came to Maryam and told the good news that she will give birth to a child Jesus.
+
+Jibril had special relation with the prophet Muhammed (sww). In most cases he used to come to the prophet in a human form and give a Revelation or explain religious and worldly matters. Documented occasions when Jibril communicated with the prophet Muhammad:
+1. There is an authentic hadith that when the prophet Muhammad was 4-6 years old, Jibril came to him opened up his chest and cleaned his heart in Zamzam water.
+2. Close to the prophecy times, the prophet Muhammad starts to see a man in a dream who later turns out to be Jibril. 
+3. In the cave of the mount Hira, Jibril comes to the prophet Muhammad and says "Iqra!" ("Recite!"). After the prophet says that he does not know what to recite, Jibril huggs him tight and transfers the first surah of the Quran. the prophet Muhammad was so overwhelmed by this experience, that he hurries back home and asks Hadija to cover him with cloth.
+
 **Mikail** the archangel of mercy, is often depicted as providing nourishment for bodies and souls while also being responsible for bringing rain and thunder to Earth. Some scholars pointed out that Mikail is in charge of angels who carry the laws of nature.
 
 **Israfil** (frequently associated with the Jewish and Christian angel Raphael), is the archangel who blows into the trumpet in the end time, therefore also associated with music in some traditions. Israfil is responsible for signaling the coming of Qiyamah (Judgment Day) by blowing a horn.
@@ -166,12 +179,14 @@ There is a special type of jinns - shayatin. According to most sources, After Sa
 	600 million years ago: Animals appeared.
 	~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
 	Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
-[Watch a good video](https://www.youtube.com/watch?v=xFXxJva_99c)
 
-</details>
-
+* [Watch a good video](https://www.youtube.com/watch?v=xFXxJva_99c)
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
+how small  we are https://www.youtube.com/watch?v=Iy7NzjCmUf0
+</details>
+
+
 
 
 ## 1. Adam and Eve 
@@ -328,6 +343,8 @@ Exegesis narrates that Idris was among "the first men to use the pen as well as 
 The commentator Ibn Ishaq narrated that he was the first man to write with a pen and that he was born when Adam still had 308 years of his life to live. In his commentary on the Quranic verses 19:56-57, the commentator Ibn Kathir narrated "During the Night Journey, the Prophet passed by him in fourth heaven. In a hadith, Ibn Abbas asked Ka’b what was meant by the part of the verse which says, ”And We raised him to a high station.” Ka’b explained: Allah revealed to Idris: ‘I would raise for you every day the same amount of the deeds of all Adam’s children’ – perhaps meaning of his time only. So Idris wanted to increase his deeds and devotion. A friend of his from the angels visited and Idris said to him: ‘Allah has revealed to me such and such, so could you please speak to the angel of death, so I could increase my deeds.’ The angel carried him on his wings and went up into the heavens. When they reached the fourth heaven, they met the angel of death who was descending down towards earth. The angel spoke to him about what Idris had spoken to him before. The angel of death said: ‘But where is Idris?’ He replied, ‘He is upon my back.’ The angel of death said: ‘How astonishing! I was sent and told to seize his soul in the fourth heaven. I kept thinking how I could seize it in the fourth heaven when he was on the earth?’ Then he took his soul out of his body, and that is what is meant by the verse: ‘And We raised him to a high station.’
 
 Early accounts of Idris' life attributed "thirty portions of revealed scripture" to him. Therefore, Idris was understood by many early commentators to be both a prophet as well as a messenger. Several modern commentators have linked this sentiment with Biblical apocrypha such as the Book of Enoch and the Second Book of Enoch.
+
+In the Bible, Enoch receives visions of how the Earth will be destroyed in the End of Times and how people who did good will receive their reward and how people who did bad deeds will receive their punishment.
 
 </details>
 
@@ -613,6 +630,138 @@ According to researches on the historicity of the Old Testament, the descent of 
 
 <details>
 	<summary>Yusuf</summary>
+
+Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Arabic: يوسف ٱبن يعقوب ٱبن إسحاق ٱبن إبراهيم) (Joseph, son of Jacob, son of Isaac, son of Abraham) is a prophet mentioned in the Quran,[1] and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom.[2] It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Joseph was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Joseph is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Qur'an and bears more details than the Biblical counterpart.[3]
+
+Yusuf is believed to have been the eleventh son of Yaqub (Arabic: يعقوب, Yaqub), and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Joseph."[4] The story begins with Joseph revealing a dream he had to his father, which Jacob recognizes.[5] In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
+
+The story of Joseph in the Qurʾān is a continuous narrative. There are more than one hundred verses, and in totality they encompass many years and "present an amazing variety of sciences and characters in a tightly-knit plot, and offer a dramatic illustration of some of the fundamental themes of the Qurʾān."[7] The Qurʾān itself relates to the story's importance in the third verse: "and We narrate unto you aḥsanal-qaṣaṣ (Arabic: أحسن ٱلقصص, "best (or most beautiful) of stories")." Most scholars believe this is referring to Joseph's story, while others, including Ṭabari, argue it is a reference to the Qurʾān as a whole.[8] It asserts and documents the execution of God's rulings despite the challenge of human intervention ("And Allah hath full power and control over His affairs; but most among mankind know it not").[9]
+
+This is what the story of Yūsuf confirms categorically, for it ends with comfort and marvels, which is described in the Qurʾān. Along with the story there is also some commentary from some leading scholars of Islam.
+
+#### Joseph before the dream
+Muhammad at-Ṭabari provides exquisite detail and commentary of this narrative in his chapter on Joseph relaying the opinions of well-known scholars. In Ṭabari's chapter, the physical beauty of Joseph and his mother Rahyl is introduced, in that they were said to have had "more beauty than any other human being."[10] His father, Jacob, had given him to his oldest sister to be raised. Ṭabari comments that there was no greater love than what Joseph's aunt felt for him as she had raised him as her own. And she was very reluctant to give him back to Jacob and kept him until her death. The reason, according to Ṭabari, that she was able to do this was because of a belt that had been passed to her from her father, Isaac. Ṭabari notes "if someone else acquired it by guile from the person who was supposed to have it, then he would become absolutely subject to the will of the rightful owner."[11] This is important because Joseph's aunt puts the belt on Joseph when Jacob is absent and then accuses Joseph of stealing it and he thus stays with her until her death. Jacob was very reluctant to give up Joseph and thus favors him when they are together. This is commentary but, as is the profession of commentators, this provides an interesting set up to Joseph's personal story and also lays a foundation for a future interaction with his brothers, particularly Benjamin.
+
+#### The dream
+The story begins with a dream and ends with its interpretation. As the sun appeared over the horizon, bathing the earth in its morning glory, Joseph, son of Jacob awoke from his sleep, delighted by a pleasant dream he had. Filled with excitement he ran to his father and reported what he had seen.
+
+	Yusuf said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!
+	Qur'an 12:4[12]
+
+According to Ibn Kathir, Jacob knew that Joseph would someday become extremely important and would be in a high position, both in this world and the next—he recognized that the stars represented his brothers and the sun and moon represented himself and Joseph's mother, Rachel. Jacob advised Joseph to keep the dream to himself in order to protect him from the jealousy of his brothers, who were already unhappy about the love Jacob felt for Joseph.[13] Ya'qub foresaw that Yusuf would be one through whom the prophecy of his grandfather, Ibrahim (Abraham), would be fulfilled, in that his offspring would keep the light of Abraham's house alive and spread God's message to mankind. Abu Ya'ala interpreted Jacob's reaction as an understanding that the planets, sun and moon bowing to Joseph representing "something dispersed which God united."[13]
+
+	Ya'qub told Yusuf: "My son, relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is a clear enemy to humanity. Thus your Lord has selected you and given you knowledge to interpret reports, and has perfected his blessing upon you and upon the family of Jacob just as he perfected it on your forefathers before: Ibrahim and Is-haq (Isaac). Your Lord is Knowing, Wise" (Qur'an, Surah 12 (Yusuf) Ayat 5-6).[14]
+
+Joseph did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Joseph and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.""[15]
+
+Joseph was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (Arabic: حديث, 'narration'):
+
+Narrated Abu Huraira:
+Some people asked the Prophet: "Who is the most honorable amongst the people?" He replied, "The most honorable among them is the one who is the most Allah-fearing." They said, "O Prophet of Allah! We do not ask about this." He said, "Then the most honorable person is Yusuf, Nabiyyullah (Arabic: نبي الله, Prophet of Allah), the son of a Nabiyyillah, the son of a Nabiyyillah, the son of Khalilillah (Arabic: خليل الله, "Friend of Allah")."
+— Sahih al-Bukhari collected by Muhammad al-Bukhari[16]
+
+#### The plot against Joseph
+
+Selling Joseph as a slave. Painting in Takieh Moaven ol molk, Kermanshah, Iran
+The Qurʾān continues with Joseph's brothers plotting to kill him. It relates: "in Joseph and his brothers are signs for those who seek answers. When Joseph's brother said about him: "He is more loved by our father than we are, and we are a group. Our father is in clear error. Let us kill Joseph or cast him to the ground, so that the face of your father will be toward you, and after him you will be a community of the truthful."[17]
+
+But one of the brothers argued against killing him and suggested they throw him into a well, said to be Jubb Yusif (Arabic: جب يوسف, "Well of Joseph"), so that a caravan might pick him up and take him into slavery. Mujahid, a scholar, says that it was Simeon and Suddi says it was Judah while Qatadah and Ibn Is-haq says that it was the eldest, Ruben.[18] Said one of them: "Slay not Joseph, but if ye must do something, throw him down to the bottom of the well: he will be picked up by some caravan of travellers."[19]
+
+Killing Joseph because of jealousy would have been extreme, but scholars also suggested that Joseph was fairly young when he was thrown into the well, as young as twelve.[20] He would live to be 110[21] or 120.[20]
+
+The brothers asked their father to let them take Joseph out to the desert to play and promised to watch him. Jacob, not thrilled with the idea knowing how much the brothers disliked Joseph, hesitated. Ṭabari comments that Jacobs's excuse was that a dhi'b (Arabic: ذئب, wolf) might hurt him.[22] But the brothers insisted. When they had Joseph alone they threw him into a well and left him there, They returned with a blood stained shirt and lied that he had been attacked by a wolf, but their father did not believe them, as he was a sincere man who loved his son.[22]
+
+The Qur'an says:
+
+	They said: "O our father! why dost thou not trust us with Joseph,- seeing we are indeed his sincere well-wishers?
+	Send him with us tomorrow to enjoy himself and play, and we shall take every care of him."
+	(Jacob) said: "Really it saddens me that ye should take him away: I fear lest the wolf should devour him while ye attend not to him."
+	They said: "If the wolf were to devour him while we are (so large) a party, then should we indeed (first) have perished ourselves!"
+	So they did take him away, and they all agreed to throw him down to the bottom of the well: and We put into his heart (this Message): 'Of a surety thou shalt (one day) tell them the truth of this their affair while they know (thee) not'
+	Then they came to their father in the early part of the night, weeping.
+	They said: "O our father! We went racing with one another, and left Joseph with our things; and the wolf devoured him.... But thou wilt never believe us even if we tell the truth."
+	They stained his shirt with false blood. He said: "Nay, but your minds have made up a tale (that may pass) with you, (for me) patience is most fitting: Against that which ye assert, it is Allah (alone) Whose help can be sought"...
+	Qur'an, Surah 12 (Yusuf) Ayat 11-18[23]
+
+Ṭabari comments that Judah stopped the brothers from causing more harm to Joseph, and that he would bring him food.[22] Ibn Kathir comments that Reuben suggested that they put him in the pit so that he might return later to bring him home. But when he returned, he found Joseph gone. "So he screamed and tore his clothes. He put blood on the coat of Joseph. When Jacob learned of this, he tore his clothes, wore a black cloak, and was sad for many days."[24] Ibn 'Abbas writes that the "reason for this trial of Jacob was that he had slaughtered a sheep while he was fasting. He asked a neighbor of his to eat it but he did not. So God tested him with the matter of Joseph."[25] The section that describes Joseph's revelation in the well is interpreted by Ibn 'Abbas: "When they were unaware" (12:15) means "you will tell them about what they did in a situation in which they will not recognize you."[26] This is yet more foreshadowing. A possible reason for his enslavement was that after Abraham had left Egypt he took slaves with him but "Abraham did not dismount for them (following barefoot). Therefore God revealed to him: "Since you did not alight for the slaves and those walking barefoot with you, I will punish you by selling one of your descendants into his country.""[27]
+
+#### God's plan to save Joseph
+A passing caravan took Joseph. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (Arabic: مصر, Egypt), to a rich man referred to as "Al-'Aziz" (Arabic: ٱلعزيز, "Great One", "Nobleman")[28] in the Qur'an, or Potiphar in the Bible.[29] ʿAzīz is also known as Qatafir or Qittin.[30] Joseph was taken into 'Aziz's home who told his wife to treat him well.
+
+	Then there came a caravan of travellers: they sent their water-carrier (for water), and he let down his bucket (into the well)...He said: "Ah there! Good news! Here is a (fine) young man!" So they concealed him as a treasure. But Allah knoweth well all that they do.
+	The (Brethren) sold him for a miserable price, for a few dirhams counted out: in such low estimation did they hold him!
+	The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: maybe he will bring us much good, or we shall adopt him as a son." Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
+	When Joseph attained His full manhood, We gave him power and knowledge: thus do We reward those who do right.
+	Qur'an, Surah 12 (Yusuf) Ayat 19-22[31]
+
+This is the point of the story that many scholars of Islam report as being central (contrasting to other religious traditions) to Joseph's story. Under ʿAzīz Misr (Arabic: عزيز مصر, "The Dear One of Egypt"), Joseph moves to a high position in his household. Later, the brothers would come to Egypt but would not recognize Joseph but called him by the same title, "al-ʿAzīz."[32]
+
+While working for 'Aziz, Joseph grew to be a man. He was constantly approached by the wife of 'Aziz (Imra'at al-'Aziz, presumably Zulayka or Zuleika) (variations include 'Zulaykhah' and 'Zulaikhah' as well) who intended to seduce him. Tabari and others are not reticent to point out that Joseph was mutually attracted to her. Ṭabari writes that the reason he did not succumb to her was because when they were alone the "figure of Jacob appeared to him, standing in the house and biting his fingers …" and warned Joseph not to become involved with her. Ṭabari, again, says "God turned him away from his desire for evil by giving him a sign that he should not do it."[33] It is also said that after the death of ʿAzīz, Joseph married Zolayḵā.[32]
+
+	But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: "Now come, thou (dear one)!" He said: "Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!"
+	And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
+	Qur'an, Surah 12 (Yusuf) Ayat 23-24[34]
+
+Zolayḵā is said to have then ripped the back of Joseph's shirt and they raced with one another to the door where her husband was waiting. At that point she attempted to blame Joseph and suggested that he had attacked her. However, Joseph said that it was Zolayḵā who had attempted to seduce him and his account is confirmed by one of the household. 'ʿAzīz believed Joseph and told his wife to beg forgiveness."[35] One member of the family, it is disputed who (perhaps a cousin) told ʿAzīz to check the shirt. If it was torn in the front than Joseph was guilty and his wife innocent but if it was torn in the back, Joseph was innocent and his wife guilty. It was torn in the back so ʿAzīz reprimands his wife for lying.[36]
+
+Zuleikha's circle of friends thought that she was becoming infatuated with Joseph and mocked her for being in love with a slave. She invited them to her home and gave them all apples, and knives to peel them with. She then had Joseph walk through and distract the women who cut themselves with the knives. Zuleikha then pointed out that she had to see Joseph every day.[36]
+
+Joseph prayed to God and said that he would prefer prison to the things that Zolayḵā and her friends wanted. According to Ṭabari, some time later, even though ʿAzīz knew that Joseph was innocent, he "grew disgusted with himself for having let Joseph go free … It seemed good to them to imprison him for a time."[37] It is possible that Zolayḵā had influence here, rebuking her husband for having her honor threatened.
+
+The account of Joseph and the wife of 'Aziz is called "Yusuf and Zulaikha," and has been told and retold countless times in many languages. The Qur'anic account differs from the Biblical version in which Potiphar believes his wife and throws Joseph into prison.[38]
+
+#### Joseph interprets dreams
+This account refers to the interaction between Joseph and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Joseph refers to the Egyptian ruler as a malik (Arabic: ملك, 'king'), not a fir'aun (Arabic: فرعون, 'pharaoh'). After Joseph had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Joseph's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Qur'an or the Bible – and his family. Joseph asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Joseph reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Joseph then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.[39]
+
+Joseph had asked the one whom he knew would be released (Ṭabari writes that his name was Nabu) to mention his case to the king. When asked about his time in prison, Ṭabari reports that Muhammad said: "If Joseph had not said that—meaning what he said (to Nabu)—he would not have stayed in prison as long as he did because he sought deliverance from someone other than God."[40]
+
+The king had a dream of seven fat cows being eaten by seven skinny ones and seven ears of corn being replaced with shriveled ones, and he was terrified. None of his advisors could interpret it. When the servant who was released from prison heard about it, he remembered Joseph from prison and persuaded the king to send him to Joseph so that he could return with an interpretation. Joseph told the servant that Egypt would face seven years of prosperity and then suffer seven years of famine and that the king should prepare for it so as to avoid great suffering.[41]
+
+Scholars debate as to whether Joseph agreed to interpret the dream right away or if he declared that his name should be cleared in the house of ʿAzīz first. Ṭabari notes that when the messenger came to Joseph and invited him to come to the king, Joseph replied "Go back to your lord and ask him about the case of the women who cut their hands. My lord surely knows their guile."[42] Ibn Kathir agrees with Ṭabari saying that Joseph sought "restitution for this in order that ʿAzīz might know that he was not false to him during his absence" and that Zolayḵā eventually confessed that nothing happened between them.[43] Ṭabari inserts an interesting interaction between Joseph and the angel Gabriel in which Gabriel helps Joseph both gain his freedom and admit to his own desires.[40]
+
+Joseph said, "What you cultivate during the next seven years, when the time of harvest comes, leave the grains in their spikes, except for what you eat. After that, seven years of drought will come, which will consume most of what you stored for them. After that, a year will come that brings relief for the people, and they will, once again, press juice." (Qur'an, 12:47-49) Joseph was brought to king and interpreted the dream.
+
+When he became aware of Yusuf's innocence, the king said, "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted."" (Quran 12:54) Upon speaking with Yusuf, the king recognized his virtues, great ability, brilliance, good conduct and perfect mannerisms. Yusuf said, "Set me over the storehouses of the land; I will indeed guard them with full knowledge" (Quran 12:55). Thus Yusuf asked the king to appoint him as Minister of Finance.
+
+Use of "king" versus "pharaoh"
+In the Qur'an, the title of the Ruler of Egypt during the time of Joseph is specifically said to be "the King" (Arabic: al-Malik) whilst the Ruler of Egypt during the time of Moses is specifically said to be "Pharaoh" (Arabic: Firaun, though as a name without the definite article). This is interesting because according to historical sources, the title Pharaoh only began to be used to refer to the rulers of Egypt (starting with the rule of Thutmose III) in 1479 BCE - approximately 21 years after the prophet Joseph died.[44] But in the narration of Yusuf in the Bible, the titles King (Hebrew: Melekh) and Pharaoh are used interchangeably for the ruler of Egypt in Genesis chapters 39-41.[45]
+
+	The Malik (of Egypt) said: "I do see (in a vision) seven fat kine, whom seven lean ones devour, and seven green ears of corn, and seven (others) withered. O ye chiefs! expound to me my vision, if it be that ye can interpret visions."
+	Qur'an, Surah 12 (Yusuf), Ayah 43,[46]
+
+	Then after them We sent Musa with Our Signs to Fir'aun and his chiefs, but they wrongfully rejected them. So see how was the end of al-Mufsidin (Arabic: ألمفسدين, "the Mischief-makers" or "the Corrupters").
+	Qur'an, Surah 7 (Al-Araf), Ayah 103 [47]
+
+	And the Malik said: "Bring him to me." But when the messenger came to him, He (Yusuf) said: "Return to your lord and ask him, 'What happened to the women who cut their hands? Surely, my Lord (Allah) is Well-Aware of their plot.
+	Qur'an, Surah 12 (Yusuf), Ayah 50,[48]
+
+	And Joseph's master took him, and put him into the prison, the place where the king's prisoners were bound; and he was there in the prison.
+	Genesis 39:20
+
+	And Joseph was thirty years old when he stood before Pharaoh king of Egypt.--And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
+	Genesis 41:46
+
+	And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
+	Genesis 47:11
+
+#### The family reunion
+Joseph became extremely powerful. Ibn Kathir relates that the king of Egypt had faith in Joseph and that the people loved and revered him. It is said that Joseph was 30 when he was summoned to the king. "The king addressed him in 70 languages, and each time Joseph answered him in that language."[43] Ibn Is-haq comments, "the king of Egypt converted to Islam at the hands of Joseph."[41]
+
+Joseph's brothers, in the meantime, had suffered while the people of Egypt prospered under Joseph's guidance. Jacob and his family were hungry and the brothers went to Egypt, unaware that Joseph was there and in such a high position.[49] Joseph gave them what they needed but questions them and they reveal that there were once twelve of them. They lie and say that the one most loved by their father, meaning Joseph, died in the desert. Joseph tells them to bring Benjamin, the youngest, to him. They return home to Jacob and persuade him to let Benjamin accompany them in order to secure food. Jacob insists that they bring Benjamin back—and this time the brothers are honest when they swear to it.[50] According to Ibn Kathir, Jacob ordered the brothers to use many gates when returning to Egypt because they were all handsome.[51] The Qurʾān itself elaborates that Jacob sensed Joseph.
+
+When the brothers return with Benjamin, Joseph reveals himself to Benjamin. He then gives the brothers the supplies he promised but also put the king's cup into one of the bags. He then proceeds to accuse them of stealing, which the brothers deny. Joseph informs them that whoever it was who stole the cup will be enslaved to the owner and the brothers agree, not realizing the plot against them. Ṭabari reports that the cup was found in Benjamin's sack.[52]
+
+After much discussion and anger, the brothers try to get Benjamin released by offering themselves instead—for they must keep their promise to their father. Reuben stays behind with Benjamin in order to keep his promise to his father. When the other brothers inform Jacob of what has happened, Jacob does not believe them and becomes blind after crying much over the disappearance of his son. Forty years had passed since Joseph was taken from his father, and Jacob had held it in his heart. Jacob sends the brothers back to find out about Benjamin and Joseph. Upon their return Joseph reveals himself to his brothers and gives them one of his shirts to give to Jacob.[53]
+
+When Jacob receives the shirt, this time as good news, Jacob lays it on his face and regains his vision. He says `Did I not tell you that I know from God what you do not know?` (12:96). Ṭabari says that this means that "from the truth of the interpretation of Joseph's dream in which he saw eleven planets and the sun and the moon bowing down to him, he knew that which they did not know."[54]
+
+Joseph was reunited with his family, and his dream as a child came true as he saw his parents and eleven of his brothers prostrating before him in love, welcome and respect. Ibn Kathir mentions that his mother had already died but there are some who argue that she came back to life.[55] Ṭabari says that she was alive. Joseph eventually died in Egypt. Tradition holds that when Musa (Moses) left Egypt, he took Joseph's coffin with him so that he would be buried alongside his ancestors in Canaan.[55]
+
+#### Death and burial
+It is hard to find sources that consistently agree on the actual dates of Joseph's life. Scholars tend to see the story as a way for the descendants of Abraham to find their way to Egypt. Joseph is the reason the Israelites move to Egypt, which then allows for the story of Moses and the Exodus from Egypt to take place.
+
+Historically, some Muslims also associated Joseph's Tomb with that of the biblical figure[citation needed]. In recent years however, they[by whom?] claim that an Islamic cleric, Sheikh Yussuf (Joseph) Dawiqat, was buried there two centuries ago.[56] According to Islamic tradition, the biblical Joseph is buried in Hebron, next to the Cave of the Patriarchs where a medieval structure known as Yussuf-Kalah, the "Castle of Joseph", is located.
+
 </details>
 
 <details>
@@ -641,18 +790,116 @@ The people taunted Shuʿayb and told him that, were it not for the prestigious f
 Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 <details>
 <summary><b>Musa (Moses) 🌿 🔥 </b></summary> 
+In Islam, Mūsā ben ʿEmrān[1] (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.[2][3]
 
-</details>
-<details>
-<summary><b>Harun (Aaron) </b></summary>
-</details>
+According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of Muhammad, and Muslims consider many aspects of the two individuals' lives to be shared.[4] Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution—of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.[5]
 
+Musa is also viewed as a very important figure in Islam due to his reception of revelations such as the Ten Commandments, which form part of the contents of the Torah and are central to the Abrahamic religions of Judaism and Christianity.[6][7] Consequently, Jews and Christians are designated as "People of the Book" for Muslims and are to be recognized with this special status wherever Islamic law is applied. According to Islamic tradition, Musa is one of the many prophets that meets Muhammad in the seven heavens following the latter's ascension from Jerusalem during the Miʿraj.[8] During the journey, Musa is said to have repeatedly sent Muhammad back to meet God and request a reduction in the number of required daily prayers—originally 50—until only the five obligatory prayers remained.[9][10] Musa is further revered in Islamic literature, which expands upon the incidents of his life and the miracles attributed to him in the Quran and hadith, such as his direct conversations with God.
+
+#### Childhood
+According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor.[11] Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Joseph). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. (Other stories says that the Pharaoh dreams of a little boy who catches the Pharaoh's crown and destroys it,[12] although there is no authentic Islamic reference to whether the dreams actually occurred.) When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring.[13] Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower.[14] Therefore, they suggest that male infants should be killed in one year but spared the next.[14] Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.[15]
+
+#### On the Nile
+
+Asiya (depicted with long black tresses) and her servants, having finished bathing, find baby Musa in the Nile. Their clothes hang in the trees while the river waves and crests are done in the Chinese style. Illustration from the Persian Jami' al-tawarikh
+According to Islamic tradition, Jochebed, Musa's mother, suckles him secretly during this period. When they are in danger of being caught, God inspires her to put him in a wicker basket and set him adrift on the Nile.[16] She instructs her daughter to follow the course of the ark and report back to her. As her daughter follows the ark along the riverbank, Musa is discovered by the Pharaoh's wife, Asiya, who convinces the Pharaoh to adopt him.[17][18] When Asiya ordered wet nurses for Musa, Musa refuses to be breastfed. Islamic tradition states that this is because God forbids Musa from being fed by any wet nurse in order to reunite him with his mother.[19] His sister worries that Musa has not been fed for some time, so she appears to the Pharaoh and informs him that she knows someone who can feed him.[20] After being questioned, she is ordered to bring the woman being discussed.[20] The sister brings their mother, who feeds Musa, and thereafter, she is appointed as the wet nurse of Musa.[21]
+
+#### Test of prophecy
+According to Isra'iliyat hadith, when Musa is playing on the Pharaoh's lap in his childhood, he grabs the Pharaoh's beard and slaps him in the face. This action prompts the Pharaoh to consider Musa as the Israelite who would overthrow him, and the Pharaoh wants to kill Musa. The Pharaoh's wife persuades him not to kill him because he is an infant. Instead, he decides to test Musa.[22] Two plates are set before young Musa, one containing rubies and the other glowing coals.[22] Musa reaches out for the rubies, but the angel Gabriel directs his hand to the coals. Musa grabs a glowing coal and puts it in his mouth, burning his tongue.[23] After the incident, Musa suffers a speech defect, but is spared by the Pharaoh.[24][25]
+
+#### Escape to Midian
+
+The Midian Mountains near Haql on the coast of the Gulf of Aqaba, which separates Midian in the northern part of the Arabian Peninsula and Ash-Shaam from the Sinai Peninsula in present-day Egypt
+After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute.[26][self-published source] Musa strikes the Egyptian in a state of anger, which results in his death.[27] Musa then repents to God, and the following day, he again comes across the same Israelite fighting with another Egyptian. The Israelite again asks Musa for help, and as Musa approaches the Israelite, he reminds Musa of his manslaughter and asks if Musa intended to kill the Egyptian. Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees to the desert after being alerted to his punishment.[13] According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well.[28] Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Shuaib, Musa waters their flocks for them.[28] The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters.[26] Musa consents and works for him for ten years.[26]
+
+##### Preaching
+###### Call to prophethood
+
+This is believed[by whom?] to be the Biblical Mount Sinai, where Musa first spoke to God.
+According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period. During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire for them. When Musa reaches the Valley of Tuwa, God calls out to him from the right side of the valley from a tree, on what is revered as Al-Buq‘ah Al-Mubārakah ("The Blessed Ground") in the Quran.[29] Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake, and later instructed to hold it.[30] The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light.[31] God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God.[31] Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.[28]
+
+The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) of ancient Egypt and to guide the Israelites, who were enslaved by the former. The Quran directly validates Musa and Harun as prophets chosen by God:
+
+	And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet. And We called him from the side of the mount at [his] right and brought him near, confiding [to him]. And We gave him out of Our mercy his brother Harun as a prophet.
+	Quran 19:51–53[32]
+
+##### Arrival at Pharaoh's court
+When Musa and Harun arrive in the court of Pharaoh and proclaim their prophethood to the Pharaoh, the Pharaoh begins questioning Musa about the God he follows. The Quran narrates that Musa answers the Pharaoh by stating that he follows the God who gives everything its form and guides them.[33] The Pharaoh then inquires about the generations who passed before them, and Musa answers that knowledge of the previous generations is with God.[34] The Quran also mentions the Pharaoh questioning Musa: “And what is the Lord of the worlds?”[35] Musa replies that God is the lord of the heavens, the earth and what is between them. The Pharaoh then reminds Musa of his childhood with them and the killing of the man he has done.[36] Musa admits that he has committed the deed in ignorance, but insists that he is now forgiven and guided by God. Pharaoh accuses him of being mad and threatens to imprison him if he continues to proclaim that the Pharaoh is not the true god. Musa informs him that he has come with manifest signs from God.[37] When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent.[38] He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
+
+##### Confrontation with sorcerers
+
+Pharaoh watches a serpent devour a demon in the presence of Musa; from a manuscript of Qisas al-Anbiya, c. 1540.
+When the sorcerers come to the Pharaoh, he promises them that they would be among the honored among his assembly if they won. On the day of the festival of Egypt, Musa grants the sorcerers the chance to perform first and warned them that God would expose their tricks. The Quran states that the sorcerers bewitch the eyes of the observers and cause them terror.[39][self-published source] The summoned sorcerers throw their rods on the floor, and they appear to change into snakes by the effect of their magic. At first, Musa becomes concerned witnessing the tricks of the magicians, but is assured by God to not be worried. When Musa does the same his rod, the serpent devours all the sorcerers' snakes.[40] The sorcerers realize that they have witnessed a miracle. They proclaim belief in the message of Musa and fall onto their knees in prostration despite threats from the Pharaoh.[citation needed] The Pharaoh is enraged by this and accuses them of working under Musa. He warns them that if they insist in believing in Musa, he would cut their hands and feet on opposite sides, and crucify them on the trunks of palm trees for their betrayal of the Pharaoh. The magicians, however, remain steadfast to their newfound faith and are punished by Pharaoh.[41]
+</details>
 <details>
 <summary><b>Exodus</b></summary>
+
+#### Exodus
+##### Plagues of Egypt
+After losing against Musa, the Pharaoh continues to plan against Musa and the Israelites, ordering meetings with the ministers, princes and priests. According to the Quran, the Pharaoh is reported to have ordered his minister, Haman, to build a tower so that he "may look at the God of Musa".[42] Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt. The Quran states that God decrees punishments over him and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops,[43] pestilence of lice that makes their life miserable,[44] toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.[45]
+
+##### Splitting of the sea
+Having escaped and now being pursued by the Egyptians, the Israelites stop when they reach the seafront. The Israelites exclaim to Musa that they would be overtaken by Pharaoh and his army. In response, God commands Musa to strike the Red Sea with his staff, instructing them not to fear being inundated or drowning in sea water. Upon striking the sea, Musa splits it into two parts, forming a path that allows the Israelites to pass through. The Pharaoh witnesses the sea splitting alongside his army, but as they also try to pass through, the sea closes in on them.[46][47] As he is about to die, Pharaoh proclaims belief in the God of Musa and the Israelites, but his belief is rejected by God.[48] The Quran states that the body of the Pharaoh is made a sign and warning for all future generations. As the Israelites continue their journey to the Promised Land, they come upon people who are worshipping idols. The Israelites request to have an idol to worship, but Musa refuses and states that the polytheists would be destroyed by God.[49] They are granted manna and quail as sustenance from God, but the Israelites ask Musa to pray to God for the earth to grow lentils, onions, herbs and cucumbers for their sustenance.[50] When they stop in their travel to the Promised Land due to lack of water, Musa is commanded by God to strike a stone, and upon its impact twelve springs came forth, each for a specific tribe of the Israelites.[51]
 </details>
 
 <details>
 <summary><b>The Torah </b></summary>
+
+#### Years in the wilderness
+##### Revelation of the Torah
+
+The revelation of the Torah at Mount Sinai as depicted in Biblical illustrations
+After leaving Egypt, Musa leads the Israelites to Mount Sinai (Tur). Upon arrival, Musa leaves the people, instructing them that Harun is to be their leader during his absence. Musa is commanded by God to fast for thirty days and to then proceed to the valley of Tuwa for guidance. God orders Musa to fast again for ten days before returning. After completing his fasts, Musa returns to the spot where he had first received his miracles from God. He takes off his shoes as before and goes down into prostration. Musa prays to God for guidance and begs God to reveal himself to him.[52] It is narrated in the Quran that God tells him that it would not be possible for Musa to perceive God, but that He would reveal himself to the mountain, stating: "By no means canst thou see Me (direct); But look upon the mount; if it abide in its place, then shalt thou see Me." When God reveals himself to the mountain, it instantaneously turns into ashes, and Musa loses consciousness. When he recovers, he goes down in total submission and asks forgiveness of God.[53]
+
+Musa is then given the Ten Commandments by God as Guidance and as Mercy. Meanwhile, in his absence, a man named Samiri creates a Golden Calf, proclaiming it to be the God of Musa.[54] The people begin to worship it. Harun attempts to guide them away from the Golden Calf, but the Israelites refuse to do so until Musa returns. Musa, having thus received the scriptures for his people, is informed by God that the Israelites has been tested in his absence, and they have gone astray by worshiping the Golden Calf. Musa comes down from the mountain and returns to his people.[55] The Quran states that Musa, in his anger, grabs hold of Harun by his beard and admonishes him for doing nothing to stop them, but when Harun tells Musa of his fruitless attempt to stop them, Musa understands his helplessness, and they both pray to God for forgiveness. Musa then questions Samiri for creating the Golden Calf. Samiri replies that it had simply occurred to him, and he had done so.[56] Samiri is exiled, and the Golden Calf is burned to ashes, and the ashes are thrown into the sea. The wrong-doers who have worshipped the Calf are ordered to be punished for their crime.[57]
+
+Musa then chooses 70 elites from among the Israelites and orders them to pray for forgiveness. Shortly thereafter, the elders travel alongside Musa to witness the speech between Musa and God. Despite witnessing the speech between them, they refuse to believe until they see God with their own eyes, so as punishment, a thunderbolt kills them. Musa prays for their forgiveness, and they are resurrected. They return to camp and set up a tent dedicated to worshiping God, as Harun had taught them from the Torah. They resume their journey towards the Promised Land.
+
+##### The Israelites and the cow
+Islamic exegesis narrates the incident of an old and pious man who lives among the Israelites and earns his living honestly. As he is dying, he places his wife, his little son, and his only possession—a calf in God's care—instructing his wife to take the calf and leave it in a forest.[58] His wife does as she is told, and after a few years, when the son has grown up, she informs him about the calf. The son travels to the forest with a rope.[59] He prostrates and prays to God to return the calf to him. As the son prays, the now-grown cow stops beside him. The son takes the cow with him. The son is also pious and earns his living as a lumberjack.
+
+One wealthy man among the Israelites dies and leaves his wealth to his son. The relatives of the wealthy son secretly murders the son in order to inherit his wealth. The other relatives of the son come to Musa and ask for his help in tracing the killers. Musa instructs them to slaughter a cow, cut out its tongue, and then place it on the corpse; this would reveal the killers.[60] The relatives do not believe Musa and do not understand why they are instructed to slaughter a cow when they are trying to find the killers. They accuse Musa of joking, but Musa manages to convince them that he is serious. Hoping to delay the process, the relatives ask the type and age of the cow they should slaughter, but Musa tells them that it is neither old nor young but in-between the two ages.[61] Instead of searching for the cow described, they inquire about its colour, to which Musa replies that it is yellow.[62] They ask Musa for more details, and he informs them that it is unyoked, and does not plow the soil nor does it water the tilth. The relatives and Musa search for the described cow, but the only cow that they find to fit the description belongs to an orphaned youth.[63] The youth refuses to sell the cow without consulting his mother. All of them travel together to the youth's home. The mother refuses to sell the cow, despite the relatives constantly increasing the price. They urge the orphaned son to tell his mother to be more reasonable. However, the son refuse to sell the cow without his mother's agreement, claiming that he would not sell it even if they offered to fill its skin with gold. At this, the mother agrees to sell it for its skin filled with gold. The relatives and Musa consent, and the cow is slaughtered and the corpse is touched by its tongue.[64] The corpse rises back to life and reveals the identity of the killers.
+
+</details>
+
+
+<details>
+<summary><b>Meeting with Khidr </b></summary>
+
+#### Meeting with Khidr
+One hadith recounts that when Musa is delivering an impressive sermon, an Israelite inquires if there were anyone more knowledgeable than him.[65] When Musa denies any such person exists, he receives a revelation from God, which admonishes Musa for not attributing absolute knowledge to God and informs Musa that there is someone named Khidr who is more knowledgeable than him.[65] Upon inquiry, God informs Musa that Khidr would be found at the junction of two seas. God instructs Musa to take a live fish and at the location where it would escape, Khidr would be found.[65] Afterwards, Musa departs and travels alongside with a boy named Yusha (Yeshua bin Nun), until they stop near a rock where Musa rests. While Musa is asleep, the fish escapes from the basket. When Musa wakes up, they continue until they stop for eating. At that moment, Yusha remembers that the fish had slipped from the basket at the rock. He informs Musa about the fish, and Musa remembers God's statement, so they retrace their steps back to the rock. There they see Khidr. Musa approaches Khidr and greets him. Khidr instead asks Musa how people are greeted in their land. Musa introduces himself, and Khidr identifies him as the prophet of the Israelites. According to the Quran, Musa asks Khidr: "Shall I closely follow you on condition that you teach me of what you have been taught?"[66] Khidr warns that he would not be able to remain patient and consents on the condition that Musa would not question his actions.[65]
+
+They walk on the seashore and pass by a ship. The crew of the ship recognize Khidr and offer them to board their ship free of charge. When they are on the boat, Khidr takes an adze and pulls up a plank.[67] When Musa notices what Khidr is doing, he is astonished and stops him. Musa reminds Khidr that the crew has taken them aboard for free. Khidr admonishes Musa for forgetting his promise of not asking. Musa states that he has forgotten and asks to be forgiven. When they leave the seashore, they pass by a boy playing with others. Khidr takes hold of the boy's head and kills him.[67] Musa is again astonished by this action and questions Khidr regarding what he had done.[68] Khidr admonishes Musa again for not keeping his promise, and Musa apologizes and asks Khidr to leave him if he again questions Khidr. Both of them travel on until they happened upon a village. They ask the villagers for food, but the inhabitants refuse to entertain them as guests. They see therein a wall which is about to collapse, and Khidr repairs the wall. Musa asks Khidr why he had repaired the wall when the inhabitants refuse to entertain them as guests and give them food. Musa states that Khidr could have taken wages for his work.
+
+Khidr informs Musa that they are now to part ways as Musa has broken his promise. Khidr then explains each of his actions. He informs Musa that he had broken the ship with the adze because a ruler who reigns in those parts took all functional ships by force; Khidr has created a defect in order to prevent their ship from being taken by force.[68] Khidr then explains that he has killed the child because he was mischievous and disobedient to his parents, and Khidr fears that the child would overburden them with his disobedience, and explained that God would replace him with a better one who is more obedient and has more affection. Khidr then explains that he has fixed the wall because it belongs to two hapless children whose father is pious. God wishes to reward them for their piety. Khidr states that there is a treasure hidden underneath the wall, and by repairing the wall, the wall would break in the future, and when dealing with the broken wall, the orphans would find the treasure.[69]
+</details>
+
+<details>
+<summary><b>Death OF Musa </b></summary>
+#### Other incidents
+The sayings of Muhammad (hadith), Islamic literature and Quranic exegesis also narrate some incidents of the life of Musa. One story goes that he is bathing apart from the other Israelites who all bathe together. This leads the Bani Israels to say that Musa does so due to a scrotal hernia. One day, when Musa is bathing in seclusion, he puts his clothes on a stone, and the stone flees with his clothes. Musa rushes after the stone, and when the Bani Israels see him, they say, 'By Allah, Musa has got no defect in his body". Musa then beats the stone with his clothes, and Abu Huraira states, "By Allah! There are still six or seven marks present on the stone from that excessive beating".[70] In a hadith, Muhammad states that the stone still has three to five marks due to Musa hitting it.[70]
+
+#### Death
+
+Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrael, the Angel of Death, comes to Musa, Musa slaps him in the eye. The angel returns to God and tells Him that Musa does not want to die.[71] God tells the angel to return and tell Musa to put his hand on the back of an ox, and for every hair that comes under his hand, he would be granted a year of life. When Musa asks God what would happen after the granted time, God informs him that he would die after the period. Musa, therefore, requests God for death at his current age near the Promised Land "at a distance of a stone's throw from it."[72]
+
+</details>
+
+<details>
+<summary><b>Harun (Aaron) </b></summary>
+
+	(Moses) said: "0 my Lord! Open for me my chest (grant me self-confidence, contentment, and boldness). And ease my task for me; and make loose the knot (the defect) from my tongue, (i.e. remove the incorrectness of my speech) that they understand my speech, and appoint for me a helper from my family, Aaron, my brother; increase my strength with him, and let him share my task (of conveying Allah's Message and Prophethood), that we may glorify You much, and remember You much, Verily! You are of us Ever a Well-Seer."
+
+	Allah said: "You are granted your request, 0 Moses! And indeed We conferred a favor on you another time (before). When We inspired your mother with that which We inspired, saying: 'Put him (the child) into the Tabut (a box or case or a chest) and put him into the river (Nile), then the river shall cast it up on the bank, and there, an enemy of Mine and an enemy of his shall take him.' And I endued you with love from Me, in order that you may be brought up under My Eye, when your sister went and said: 'Shall I show you one who will nurse him?' So We restored you to your mother, that she might cool her eyes and she should not grieve. Then you did kill a man, but We saved you from great distress and tried you with a heavy trial. Then you stayed a number of years with the people of Madyan (Midian). Then you came here according to the fixed term which I ordained (for you), 0 Moses!
+
+	"And I have Istanatuka chosen you for My Inspiration and My Message for Myself Go you and your brother with My Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), and do not, you both, slacken and become weak in My Remembrance.
+
+	"Go, both of you, to Pharaoh, verily, he has transgressed (all bounds in disbelief and disobedience and behaved as an arrogant and as a tyrant). And speak to him mildly, perhaps he may accept admonition or fear Allah."
+
+	They said. "Our Lord! Verily! We fear lest he should hasten to punish us or lest he should transgress (all bounds against us)."
+
+	He (Allah) said. "Fear not, Verily! I am with you both, Hearing and Seeing. So go you both to him, and say: 'Verily, we are Messengers of your Lord, so let the children of Israel go with us, and torment them not; indeed, we have come with a sign from your Lord! And peace will be upon him who follows the guidance! Truly, it has been revealed to us that the torment will be for him who denies believes not in the Oneness of Allah, and in His Messengers, etc., and turns away' (from the truth and obedience of Allah)." 
+	Quran Ayah 20:25-48
 
 </details>
 
@@ -880,7 +1127,7 @@ Abu Bakr is elected his khalifah (representative).
 
 ## 9.2 The Rashidun (Righteous Khalifs)
 *******************************************
-### 
+
 <details>
 <summary>Abu Bakr (632-634)</summary>
 
@@ -984,6 +1231,12 @@ one third of the earth for one year the rain will stop. on the second year 2/3 w
 Dajjal will pretent that he can resurrect people from the dead but it will be jinns who will imitate people's parents.
 
 Dajjal will be the biggest trial for humankind since they were sent to the Earth. 
+
+In Daniel 8:23-26, Daniel sees a vision of a ram the horns of which grow up to the skies an he doesn't know the interpretation of this vision. So then he sees a man llike looking figure and hears: "Gabriel, tell him the meaning of the vision". Gabriel explains to Daniel that in the latter part of their reign when rebels have become completely wicked, a fierce-looking king, a master of intrigue will arise. He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy those who are mighty, the holy priests. He will cause deceit to prosper, and he will consider himself superior. 
+Yet he will be destroyed, but not by human power.
+The vision of the evenings and mornings that has been given you is true, but seal up the vision, for it concerns the distant future.
+
+Gabriel had such strong impact on Daniel that he had to recover several days.
 
 </details>
 
