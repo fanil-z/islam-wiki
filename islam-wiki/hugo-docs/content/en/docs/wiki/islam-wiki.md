@@ -38,7 +38,13 @@
 <summary>DISCLAIMER!</summary>
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem
 
-sources: Quran, Bible, hadith
+First of all, we need to say Allahu 'Alim. Only God know the ultimate truth.
+Sources of this guide: The Quran, authentic hadiths, The Bible (Old Testament)
+
+Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus the core structure of this guide is based on stories in the Quran.
+
+And when it comes to nature and cosmos questions, human mind is just to primitive to understand it.
+
 </details>
 
 ## 0. Before Creation of Humankind
@@ -445,6 +451,10 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 
 There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources clain that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. there is scientific evidence that Homo-Sapiens existed for ...
 and the prophet Muhammad saw said that the distance between me and Al Kiyamah is like distance between my two fingers.
+
+Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
+In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is said to have taken place. 
+
 
 <details>
 	<summary>Early Life</summary>
@@ -860,6 +870,13 @@ Islamic exegesis narrates the incident of an old and pious man who lives among t
 
 One wealthy man among the Israelites dies and leaves his wealth to his son. The relatives of the wealthy son secretly murders the son in order to inherit his wealth. The other relatives of the son come to Musa and ask for his help in tracing the killers. Musa instructs them to slaughter a cow, cut out its tongue, and then place it on the corpse; this would reveal the killers.[60] The relatives do not believe Musa and do not understand why they are instructed to slaughter a cow when they are trying to find the killers. They accuse Musa of joking, but Musa manages to convince them that he is serious. Hoping to delay the process, the relatives ask the type and age of the cow they should slaughter, but Musa tells them that it is neither old nor young but in-between the two ages.[61] Instead of searching for the cow described, they inquire about its colour, to which Musa replies that it is yellow.[62] They ask Musa for more details, and he informs them that it is unyoked, and does not plow the soil nor does it water the tilth. The relatives and Musa search for the described cow, but the only cow that they find to fit the description belongs to an orphaned youth.[63] The youth refuses to sell the cow without consulting his mother. All of them travel together to the youth's home. The mother refuses to sell the cow, despite the relatives constantly increasing the price. They urge the orphaned son to tell his mother to be more reasonable. However, the son refuse to sell the cow without his mother's agreement, claiming that he would not sell it even if they offered to fill its skin with gold. At this, the mother agrees to sell it for its skin filled with gold. The relatives and Musa consent, and the cow is slaughtered and the corpse is touched by its tongue.[64] The corpse rises back to life and reveals the identity of the killers.
 
+#### Other incidents
+The sayings of Muhammad (hadith), Islamic literature and Quranic exegesis also narrate some incidents of the life of Musa. One story goes that he is bathing apart from the other Israelites who all bathe together. This leads the Bani Israels to say that Musa does so due to a scrotal hernia. One day, when Musa is bathing in seclusion, he puts his clothes on a stone, and the stone flees with his clothes. Musa rushes after the stone, and when the Bani Israels see him, they say, 'By Allah, Musa has got no defect in his body". Musa then beats the stone with his clothes, and Abu Huraira states, "By Allah! There are still six or seven marks present on the stone from that excessive beating".[70] In a hadith, Muhammad states that the stone still has three to five marks due to Musa hitting it.[70]
+
+#### Death
+
+Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrael, the Angel of Death, comes to Musa, Musa slaps him in the eye. The angel returns to God and tells Him that Musa does not want to die.[71] God tells the angel to return and tell Musa to put his hand on the back of an ox, and for every hair that comes under his hand, he would be granted a year of life. When Musa asks God what would happen after the granted time, God informs him that he would die after the period. Musa, therefore, requests God for death at his current age near the Promised Land "at a distance of a stone's throw from it."[72]
+
 </details>
 
 
@@ -872,17 +889,6 @@ One hadith recounts that when Musa is delivering an impressive sermon, an Israel
 They walk on the seashore and pass by a ship. The crew of the ship recognize Khidr and offer them to board their ship free of charge. When they are on the boat, Khidr takes an adze and pulls up a plank.[67] When Musa notices what Khidr is doing, he is astonished and stops him. Musa reminds Khidr that the crew has taken them aboard for free. Khidr admonishes Musa for forgetting his promise of not asking. Musa states that he has forgotten and asks to be forgiven. When they leave the seashore, they pass by a boy playing with others. Khidr takes hold of the boy's head and kills him.[67] Musa is again astonished by this action and questions Khidr regarding what he had done.[68] Khidr admonishes Musa again for not keeping his promise, and Musa apologizes and asks Khidr to leave him if he again questions Khidr. Both of them travel on until they happened upon a village. They ask the villagers for food, but the inhabitants refuse to entertain them as guests. They see therein a wall which is about to collapse, and Khidr repairs the wall. Musa asks Khidr why he had repaired the wall when the inhabitants refuse to entertain them as guests and give them food. Musa states that Khidr could have taken wages for his work.
 
 Khidr informs Musa that they are now to part ways as Musa has broken his promise. Khidr then explains each of his actions. He informs Musa that he had broken the ship with the adze because a ruler who reigns in those parts took all functional ships by force; Khidr has created a defect in order to prevent their ship from being taken by force.[68] Khidr then explains that he has killed the child because he was mischievous and disobedient to his parents, and Khidr fears that the child would overburden them with his disobedience, and explained that God would replace him with a better one who is more obedient and has more affection. Khidr then explains that he has fixed the wall because it belongs to two hapless children whose father is pious. God wishes to reward them for their piety. Khidr states that there is a treasure hidden underneath the wall, and by repairing the wall, the wall would break in the future, and when dealing with the broken wall, the orphans would find the treasure.[69]
-</details>
-
-<details>
-<summary><b>Death OF Musa </b></summary>
-#### Other incidents
-The sayings of Muhammad (hadith), Islamic literature and Quranic exegesis also narrate some incidents of the life of Musa. One story goes that he is bathing apart from the other Israelites who all bathe together. This leads the Bani Israels to say that Musa does so due to a scrotal hernia. One day, when Musa is bathing in seclusion, he puts his clothes on a stone, and the stone flees with his clothes. Musa rushes after the stone, and when the Bani Israels see him, they say, 'By Allah, Musa has got no defect in his body". Musa then beats the stone with his clothes, and Abu Huraira states, "By Allah! There are still six or seven marks present on the stone from that excessive beating".[70] In a hadith, Muhammad states that the stone still has three to five marks due to Musa hitting it.[70]
-
-#### Death
-
-Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrael, the Angel of Death, comes to Musa, Musa slaps him in the eye. The angel returns to God and tells Him that Musa does not want to die.[71] God tells the angel to return and tell Musa to put his hand on the back of an ox, and for every hair that comes under his hand, he would be granted a year of life. When Musa asks God what would happen after the granted time, God informs him that he would die after the period. Musa, therefore, requests God for death at his current age near the Promised Land "at a distance of a stone's throw from it."[72]
-
 </details>
 
 <details>
@@ -909,6 +915,44 @@ Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrae
 
 <details>
 <summary><b>Davud </b></summary>
+Dawud (Arabic: دَاوُوْد, romanized: Dāwūd [daːwuːd]), is a prophet and messenger of God (Allah) and is righteous, divinely-anointed monarch of the United Kingdom of Israel.[1] Additionally, Muslims also honor David for having received the divine revelation of the Zabur (Psalms).[2][3] Mentioned sixteen times in the Quran, David appears in the Islamic scripture as a link in the chain of prophets who preceded Muhammad.[4] Although he is not usually considered one of the "law-giving" prophets (ulū al-ʿazm), "he is far from a marginal figure" in Islamic thought.[2] In later Islamic traditions, he is praised for his rigor in prayer and fasting. He is also presented as the prototypical just ruler and as a symbol of God's authority on earth, having been at once a king and a prophet.
+
+David is particularly important to the religious architecture of Islamic Jerusalem.[1] Dawud is known as biblical David who was, according to the Hebrew Bible, the second king of the United Kingdom of Israel and Judah, reigning c. 1010–970 BCE
+
+#### Narrative in the Quran
+David's narrative in the Quran, in many respects, parallels that given in the Bible. He is named a prophet (nabī) and also a messenger (rasūl), David is included in lists of those who received revelation (waḥy; Q4:163) or guidance (hudā; 6:84) from God. In both lists his name appears next to that of his son Solomon. Elsewhere, the Quran explains that God gave to both of them the gifts of "sound judgment" (ḥukm; 21:79) and "knowledge" (ʿilm; 21:79; 27:15). Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms"[6] 
+(Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr),[6] presumably a reference to the Psalms or the Psalter (the term Zabūr is perhaps related to the Hebrew term mizmōr or Syriac mazmūrā, "psalm"). The mountains and the birds praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth.[1] This role is also suggested by 2:251: "God gave him authority (mulk) and wisdom (ḥikmah) and taught him what He willed. If God did not drive back some people by others, the earth would become corrupt."[2]
+
+Among the things taught to David was the ability to make armour (21:80, 34:10–11), a suggestion that David’s military exploits were the act of God. It is also important that the Quranic reference to David's "wisdom" was sometimes explained by the classical exegetes as the gift of prophecy.[7] The Quran also connects David and Jesus, by insisting that both cursed those Israelites who did not believe (5:78). Moreover, according to the Quran, David was given the ability to distinguish between truth and falsehood when dispensing justice (faṣl al-khiṭāb, 38:20). Furthermore, there is the allusion to a test David was put through, wherein he prayed and repented and God forgave him (38:24-5). Surat Sad (the 38th chapter of the Quran) is also called "the sūra of David"[8] Exegetes explain that since David prostrated when asking God to forgive him, Muhammad was ordered to imitate him and to perform a prostration when reading this chapter.[9]
+
+Religious significance
+David is one of the few Islamic Prophets who received Kingship as well. While other prophets preached during the reign of kings, David, in his time, was the king. Thus, he received an extremely large task, of making sure that the people of Israel were not only held in check spiritually but that the country itself remained strong as well. His place as both leader and prophet is revered by all Muslims as one of extremely high rank. The figure of David, together with that of his prophetic son, Solomon, are iconic of people who ruled justly over their land. God frequently mentions David's high rank as a prophet and messenger in the Quran. He is often mentioned alongside other prophets to emphasize how great he was. For example, God says:
+
+	And We gave him Isaac and Jacob and guided them, as We had guided Noah before them, and of his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus We reward those who are upright and do good.
+	Quran 6:84
+
+When the Caliph 'Umar visited Jerusalem, the Patriarch Sophronius accompanied him on the Temple Mount, while he searched for the Mihrab Dawud (David's prayer-niche) to perform a prayer. Later commentators identified this site with the Tower of David. In a hadith, the prayer and fasting of David is mentioned to be dear to God.
+
+Narrated Abdullah bin 'Amr bin Al-'As: The Apostle of Allah told me, "The most beloved prayer to Allah is that of David and the most beloved fasts to Allah are those of David. He used to sleep for half of the night and then pray for one third of the night and again sleep for its sixth part and used to fast on alternate days."
+— Muhammad al-Bukhari, Sahih al-Bukhari[11]
+
+#### The Book of David: Zabur
+
+The Zabur is the holy book attributed to David by God, just as Musa (Moses) received the Tawrat (Torah), Isa (Jesus) received the Injil (Gospel) and Muhammad received the Quran. In the current Hebrew Bible, the Zabur is known as the Psalms. However, like other scriptures of the past, the Psalms are believed to have been corrupted over time, with some of the original message now gone. Nonetheless, Muslims are told to treat the present Psalms with immense respect because, in their original form, they too were an inspired Book of God. The Quran states:
+
+	Your Lord knows whoever is in the heavens and the earth. We exalted some of the prophets over the others; and to David We gave the Book of Psalms.
+	Quran 17:55[12]
+
+The term Zabur is the Arabic equivalent of the Hebrew Zimra, meaning "song/music." It, along with Zamir ("song") and Mizmor ("Psalm"), is a derivative of Zamar, meaning "sing", "sing praise", "make music". Thus, David is also usually attributed the gifts of music and song.
+
+#### David in the Bible
+
+This was after Samson.
+The current King Saul declared war on Philistine. David was a shepherd. 
+Saul hires David to play him music. Philistines send Goliaf with the army against israelites. David declares that he will beat the giant and kills the giant with one shot of his sling. 
+David was successful in the wars and his popularit grows. Saul grows jealous. David flees to Moab and then lives in caves of Ziph. Saul searches him to kill him. .
+Saul then ceases to kill David.
+philistines kill Saul. David becomes the king of Israel. David conquers Jerusalem. 
 
 </details>
 
@@ -971,10 +1015,50 @@ Angels Harut and Marut taught magic in Babylon (between 1895BC and 539BC). it is
 
 mentioned 4 times in the Quran. he was the one who perfected his character
 After death of the prophet Suleyman as, his kingdom was divided into two: Israel(Samaria) and Judah(Jerusalem). They started to go astray. Allah sent Ilyas to Samaria because they started worshipping an idol. They sis not listen to Ilyas, so Allah sent a long-lasting draught. he challenged priests of the idol Ball.
+
+Ilyas is first mentioned as a prophet in Al-An'am 6:85.[14] He invited his people who lived in Baalbek to monotheism, obeying God and abandoning sins.[15] His main task was to prevent the idol-worshipping.[16] After he faced persistence of his people for many years, cursed them with drought and people were inflicted with starvation.[17] Ilyas' narrative in the Quran and later Muslim tradition resembles closely that in the Hebrew Bible and Muslim literature records Elijah's primary prophesying as taking place during the reign of Ahab and Jezebel as well as Ahaziah.[a] Ilyas' figure has been identified with a number of other prophets and saints, including Idris, which is believed by some scholars to have been another name for Ilyas,[20] and Khidr.[21] Islamic legend later developed the figure of Ilyas, greatly embellishing upon his attributes, and some apocryphal literature gave Ilyas the status of a half-human, half-angel.[22] Ilyas also appears in later works of literature, including the Hamzanama.[23]
+
+#### Ilyas in the Quran
+Ilyas is mentioned in the Quran, where his preaching is recounted in a concise manner. The Quran narrates that Ilyas told his people to come to the worship of God and to leave the worship of Baal, the primary idol of the area. The Quran states:[1]
+
+	"Verily Ilyas was one of the apostles. When he said to his people: "Will you not fear God? "Will ye call upon Ba'al and leave the Best of Creators, God, your Lord and Cherisher and the Lord and Cherisher of your fathers of old?
+	As-Saaffat 123–126
+
+The Quran makes it clear that the majority of Ilyas' people denied the prophet and continued to follow idolatry. However, it mentions that a small number of devoted servants of God among them followed Elijah and believed in and worshiped God. The Quran states, `They denied him (Elijah), and will surely be brought to punishment, Except the sincere and devoted Servants of God (among them). And We left his (memory) for posterity.`
+
+In the Quran, God praises Elijah in two places:
+
+	Peace be upon Elijah! This is how We reward those who do good. He is truly among our believing servants.
+	Quran, chapter 37 (As-Saaffat), verse 129–132[26]
+	And Zakariya and Yahya and Isa and Ilyas, they were all from among the righteous
+	Quran, chapter 6 (Al-An'am), verse 85[27]
+
+Numerous commentators, including Abdullah Yusuf Ali, have offered commentary on verse 85 saying that Ilyas, Zakariya, Yahya and Isa were all spiritually connected. Abdullah Yusuf Ali says, "The third group consists not of men of action, but Preachers of Truth, who led solitary lives. Their epithet is: "the Righteous." They form a connected group round Jesus. Zachariah was the father of John the Baptist, who is referenced as "Ilyas, which was for to come" (Matt 11:14); and Elias is said to have been present and talked to Jesus at the Transfiguration on the Mount (Matt. 17:3)."[28]
+
+Although most Muslim scholars believed that Elijah preached in Israel, some early commentators on the Quran stated that Ilyas was sent to Baalbek, in Lebanon.[29] Modern scholars have rejected this claim, stating that the connection of the city with Elijah would have been made because of the first half of the city's name, that of Baal, which was the deity that Elijah exhorted his people to stop worshiping. Scholars who reject identification of Elijah's town with Baalbek further argue that the town of Baalbek is not mentioned with the narrative of Ilyas in either the Quran or the Hebrew Bible.[30]
+
+#### Death of Ilyas
+By the passage of time, drought spread and many died. When they saw themselves inflicted, regretted their past deeds, turned to Elias (a), and accepted his invitation.[31] Then, due to the prayer of Elias (a) a heavy rain came and the land was satiated; however, after a while, people forgot their covenant with God and returned to idol worshipping. When Ilyas saw this, he asked God for his own death; but, God sent him a chariot of fire and he ascended to the skies and chose Alyasa who was his pupil as his vicegerent.[32] Ilyas is rarely associated with Islamic eschatology.[33] However, some Muslims believe that Ilyas is expected to come back along with the mysterious figure Khidr during the end of times.[5]
+
+#### Legacy
+Muslim literature and tradition recounts that Ilyas preached to the Kingdom of Israel, ruled over by Ahab and later his son Ahaziah. He is called a "prophet of the desert—like Yahya".[34] Ilyas is believed to have preached with zeal to Ahab and his wife Jezebel, who according to Muslim tradition was partly responsible for the worship of false idols in this area. Muslims believe that it was because the majority of people refused to listen to Elijah that Elisha had to continue preaching the message of God to Israel after him.[35]
+
+Ilyas has been the subject of legends and folktales in Muslim culture, usually involving his meeting with Khidr. According to a Muslim exegete report, Muhammad met Ilyas in Mecca.[36] In Islamic mysticism, Ilyas is associated closely with the sage Khidr. One hadith reported that Ilyas and Khidr met together every year in Jerusalem to go on the pilgrimage to Mecca.[37] Ilyas appears also in the Hamzanama numerous times, where he is spoken of as being the brother of Khidr as well as one who drank from the Fountain of Youth.[38] Further, It is narrated in Kitab al-Kafi that Imam Ja'far al-Sadiq was reciting the prostration of Ilyas in the Syrian language and began to weep. He then translated the supplication in Arabic to a group of visiting scholars:
+
+"O Lord, will I find that you punish me although you know of my thirst in the heat of midday? Will I find that you punish me although you know that I rub my face on Earth to worship you? Will I find that you punish me although you know that I give up sins for you? Will I find that you punish me although you know that I stay awake all night just for you?" To which Allah then inspired to Ilyas, "Raise your head from the Earth for I will not punish you".[39]
+
 </details>
 
 <details>
 <summary>Alyasa (Elisha)</summary>
+Alyasa (Arabic: اليسع, romanized: Alyasā') is prophet and messenger of God (Allah) who was sent to guide the Children of Israel. In the Quran, Alyasa is mentioned twice as a prophet,[1] and is mentioned both times alongside fellow prophets.[2] He is honored by Muslims as the prophetic successor to Ilyas (Elijah). Islamic sources that identify Elisha with Khidr cite the strong relationship between Khidr and Ilyas in Islamic tradition.[3]
+
+The name of Alyasa is mentioned twice in Al-An'am 6:86 and Sad 38:48. In those verses, without mentioning anything about the personality or prophethood of Alyasa, he is mentioned as "graced" and "among the elect".[4] According to the Quran, Elisha is exalted "above the rest of creation" (Arabic: فَضَّلْنَا عَلَى ٱلْعَالَمِين, romanized: faḍḍalnā ʿala l-ʿālamīn(a)[4] and is "among the excellent" (Arabic: مِنَ ٱلْأَخْيَار, romanized: mina l-akhyār).[5] Alyasa is mentioned in Al-An'am 6:86 and Sad 38:48, along with Ismail:
+
+	And Ismail and Alyasa and Yunus, and Lut; and each one We graced over the worlds;
+	Quran Al-An'am 6:86
+	And remember Our servants Ismail, Alyasa, and Dhul-Kifl, each of them truly good.
+	Quran Sad 38:48
 
 </details> 
  
@@ -982,23 +1066,138 @@ After death of the prophet Suleyman as, his kingdom was divided into two: Israel
 <summary>Yunus Jonah 🐳 (8-9cen BCE)</summary>
  The companion of the fish 🐟.
 
+Yunus ibn Matta (Arabic: يُونُس ابن ماتا, romanized: Yūnus ibn Matta) is a prophet and messenger of God (Allah). Yunus is traditionally viewed as highly important in Islam as a prophet who was faithful to God and delivered His messages. Yunus is the only one of the Bible's Twelve Minor Prophets to be named in the Quran. The tenth chapter of the Quran is named after him.
+
+Yunus is called Dhul-Nun (Arabic: ذُو ٱلنُّوْن) and by Muslims.[5] He is mentioned four times in the Quran by name.
+
+In Al-Anbiya 21:87 and Al-Qalam 68:48, Yunus is called Dhul-Nūn (Arabic: ذُو ٱلنُّوْن, lit. 'The One of the Fish').[5] In An-Nisa 4:163 and Al-An'am 6:86, he is referred to as "an apostle of Allah".[5] Surah 37:139-148 retells the full story of Yunus:[5]
+
+	So also was Jonah among those sent (by Us).
+	When he ran away (like a slave from captivity) to the ship (fully) laden,
+	He (agreed to) cast lots, and he was condemned:
+	Then the whale did swallow him, and he had done acts worthy of blame.
+	Had it not been that he (repented and) glorified Allah,
+	He would certainly have remained inside the Fish till the Day of Resurrection.
+	But We cast him forth on the naked shore in a state of sickness,
+	And We caused to grow, over him, a spreading plant of the gourd kind.
+	And We sent him (on a mission) to a hundred thousand (men) or more.
+	And they believed; so We permitted them to enjoy (their life) for a while.
+	Quran, chapter 37 (As-Saaffat), verses 139–148[8]
+
+The Quran does not mention Yunus' heritage, but Muslim tradition teaches that Yunus was from the tribe of Binyjamin.
+
+#### Hadithic mentions
+Yunus is also mentioned in a few incidents during the lifetime of Muhammad. In some instances, Yunus' name is spoken of with praise and reverence by Muhammad. According to historical narrations about Muhammad's life, after ten years of receiving revelations, Muhammad went to the city of Ta’if to see if its leaders would allow him to preach his message from there rather than Mecca, but he was cast from the city by the people. He took shelter in the garden of Utbah and Shaybah, two members of the Quraysh tribe. They sent their servant, Addas, to serve him grapes for sustenance. Muhammad asked Addas where he was from and the servant replied Nineveh. "The town of Yunus the just, son of Amittai!" Muhammad exclaimed. Addas was shocked because he knew that the pagan Arabs had no knowledge of the prophet Yunus. He then asked how Muhammad knew of this man. "We are brothers," Muhammad replied. "Yunus was a Prophet of God and I, too, am a Prophet of God." Addas immediately accepted Islam and kissed the hands and feet of Muhammad.[10]
+
+One of the sayings of Muhammad, in the collection of Imam Bukhari, says that Muhammad said "One should not say that I am better than Yunus". Ibn Abi al-Salt, an older contemporary of Muhammad, taught that, had Yunus not prayed to Allah, he would have remained trapped inside the fish until Day of Resurrection[14] but, because of his prayer, Yunus "stayed only a few days within the belly of the fish".[14]
+
+The ninth-century Persian historian Al-Tabari records that, while Jonah was inside the fish, "none of his bones or members were injured".[14] Al-Tabari also writes that Allah made the body of the fish transparent, allowing Yunus to see the "wonders of the deep"[15] and that Yunus heard all the fish singing praises to Allah.[15] Kisai Marvazi, a tenth-century poet, records that Yunus' father was seventy years old when Yunus was born[14] and that he died soon afterwards,[14] leaving Yunus' mother with nothing but a wooden spoon, which turned out to be a cornucopia.[14]
+
+
 </details> 
 
 <details>
 <summary>Dhu al-Kifl </summary>
 (debated, Ezekiel, Budda or other)
+Dhu al-Kifl (Arabic: ذُو ٱلْكِفْل, ḏū ʾl-kīfl, literally "Possessor of the Kifl "; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-Kifl, or Zu l-Kifl) is an Islamic prophet. Although his identity is unknown, his identity has been theorised and identified as various Hebrew Bible prophets and other figures, most commonly Ezekiel and Gautama Buddha.[1][2][3][4] Dhu al-Kifl is believed to have been exalted by Allah to a high station in life and is chronicled in the Quran as a man of the "Company of the Good".[5] Although not much is known of Dhu al-Kifl from other historical sources, all the writings from classical commentators, such as Ibn Ishaq and Ibn Kathir, speak of Dhu al-Kifl as a prophetic, saintly man who remained faithful in daily prayer and worship.
+
+Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
+
+And (remember) Isma'il, Idris, and Dhu al-Kifl, all (men) of constancy and patience.
+We admitted them to Our mercy: for they were of the righteous ones.
+
+— Quran, Surah Al-Anbiya (21), Ayahs 85–86[13]
+And commemorate Isma'il, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good.
+
+— Quran, Surah Sad (38), Ayah 48[14]
+In both cases, Dhu al-Kifl is mentioned in the context of a list of Qur'anic prophets, including many others not mentioned in the ayat quoted above.
+
 </details> 
 
 
 ## 7. Isa (Jesus and Family of Imran)
 *******************************************
+<details>
+<summary>Wife of Imran (Joahim) makes dua</summary>
+The Family of Imran) is the third chapter (sūrah) of the Quran with two hundred verses (āyāt).
 
-* Imran
-* Zacharia
-	* **Yahya** (John the Baptist) 1 century BC
-* Maryam
-* Isa (Jesus of Nazareth)
-* Konstantine and Ariyan Christians 
+Imran in Islam is regarded as the father of Mary. This chapter is named after the family of Imran, which includes Imran, Saint Anne (wife of Imran), Mary, and Jesus.
+
+His wife thought that he was going to give birth to a boy, but it was Mary.
+
+</details>
+
+<details>
+<summary>Maryam (Virgin Mary) is born</summary>
+
+ (Arabic: مريم بنت عمران, Maryam bint Imran) or Maryam, daughter of Imran, mother of Isa (Jesus), holds a singularly exalted place in Islam as the only woman named in the Quran, which refers to her seventy times and explicitly identifies her as the greatest of all women,[1][2][3] stating, with reference to the angelic salutation during the annunciation, "O Mary, God has chosen you, and purified you; He has chosen you above all the women of creation."[4] In the Quran, her story is related in three Meccan chapters (19, 21, 23) and four Medinan surahs (3, 4, 5, 66), and the nineteenth Surah titled Maryam, is named after her. The Quran refers to Mary more often than the Bible.
+
+According to the Quran, divine grace surrounded Mary from birth, and, as a young woman, she received a message from God through the archangel Gabriel that God had chosen her, purified her, and had preferred her above all "the women of the worlds."[7] This event, according to the same narrative, was followed by the annunciation of a child who was to be miraculously conceived by her through the intervention of the divine spirit while she was still virgin, whose name would be Jesus and who would be the "anointed one," the Promised Messiah. As such, orthodox Islamic belief "has upheld the tenet of the virgin birth of Jesus,"[7] and although the classical Islamic thinkers never dwelt on the question of the perpetual virginity of Mary at any great length,[7] it was generally agreed in traditional Islam that Mary remained a virgin throughout her life, with the Quran's mention of Mary's purification “from the touch of men” implying perpetual virginity in the minds of many of the most prominent Islamic fathers.
+
+The birth of Mary is narrated in the Quran with references to her father as well as her mother. Mary's father is called Imran. He is the equivalent of Joachim in Christian tradition. Her mother, according to al-Tabari, is called Hannah,[12] which is the same name as in Christian tradition (Saint Anne). Muslim literature narrates that Imran and his wife were old and childless and that, one day, the sight of a bird in a tree feeding her young aroused Anne's desire for a child. She prayed to God to fulfill her desire[17] and vowed, if her prayer was accepted, that her child would be dedicated to the service of God.
+
+According to Iraqi scholar and translator, N.J. Dawood, the Quran confuses Mary mother of Jesus with Mary the sister of Moses, by referring to Mary, the mother of Jesus' father as Imran, which is the Arabic version of Amram, who in Exodus 6:20, is shown to be the father of Moses.[18] Dawood, in a note to Quran 19:28, where Mary the Mother of Jesus is referred to as the "Sister of Aaron", and Aaron was the brother of Mary sister of Moses, states: "It Appears that Miriam, Aaron's sister, and Maryam (Mary), mother of Jesus, were according to the Koran, one and the same person."[19] Although Islamic studies of the beginning of the 20th century tended to see this as a mistake in genealogy, in more recent Islamic Studies of the 21st century the general consensus is, according to Angelika Neuwirth, Nicolai Sinai & Michael Marx, that the Quran does not make a genealogical error but instead makes use of Typology.[20] This is, following Wensincks conclusion, supported by the figurative speech of the Quran and the Islamic tradition:
+Maryam is called a sister of Hārūn and the use of these three names Imrān, Hārūn and Maryam, has led to the supposition that the Kur'ān does not clearly distinguish between the two Maryams of the Old and the New Testaments. It is not necessary to assume that these kinship links are to be interpreted in modern terms. The words "sister" and "daughter", like their male counterparts, in Arabic usage can indicate extended kinship, descendance or spiritual affinity. Muslim tradition is clear that there are eighteen centuries between the Biblical Amram and the father of Maryam.
+
+Similarly, Stowasser concludes that "to confuse Mary the mother of Jesus with Mary the sister of Moses and Aaron in Torah is completely wrong and in contradiction to the sound Hadith and the Qur'anic text as we have established".
+
+The quranic account of Mary's birth does not affirm an Immaculate Conception for Mary as Islam does not accept the doctrine of original sin, or an inherited fault in humans, as it is found in Christianity. No such doctrine exists in Islam.
+
+A descendant of Caliph Ali, Shia Imam, Ja'far al-Sadiq, describes the birth of Mary in detail. According to one narration, God informs Imran that he will grant him with a boy that will heal the blind and the leper and raise the dead by God's permission. When Imran relays the information to his wife, Hannah, she thought that she would conceive a boy. When she delivered Mary, she said "Oh my Lord! Verily I have delivered a female, and the male is not like the female, for a girl will not be a prophet" to which Allah replies "And God knows better what has been delivered[3:36]". When he granted Jesus to Mary, the promise to Imran was fulfilled.
+
+Early years
+The Quran does not, specifically, point to the fact that Mary lived and grew up in a temple as the word miḥ'rāb in Quran 3:36 in its literal meaning refers to a private chamber[28][29] or a public/private prayer chamber.[30] The definitive idea of Mary growing up in a temple derived via external literature (i.e. see the narration below by Ja'far al-Sadiq). She was placed under the care of the prophet Zechariah, the husband of Hannah's sister and Mary's maternal uncle and caretaker.[27]: 16  As often as Zechariah entered Mary's prayer chamber, he found her provided with food[31] and he would ask her where she received it from, to which she would reply that God provides to whom He wills. Scholars have debated as to whether this refers to miraculous food that Mary received from God or whether it was normal food. Those in favor of the former view state that it had to be miraculous food, as Zechariah being a prophet, would have known that God is the provider of all sustenance and thus would not have questioned Mary, if it was normal food.
+
+Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the mihrab and put on a covering so no one saw her. Zechariah went into the mihrab and found that she had summer fruit in the winter and winter fruit in the summer. He asked "From whence is this?" She said, "It is from Allah. Indeed, Allah provides for whom He wills without account"[3:37].[27]: 16–17 
+</details>
+
+<details>
+<summary>Zakariyah</summary>
+
+People drew lots to decide who is going to take care of Maryam and Zakariyah was chosen for this task.
+
+Quran mentions 
+
+	**Yahya** (John the Baptist) 1 century BC
+</details>
+
+<details>
+<summary>Virgin Mary gives birth to Jesus</summary>
+
+The virgin birth of Jesus is supremely important in Islam, as one of the most important miracles of God. The first explicit mention of an annunciation foreshadowing the birth of Jesus is in Quran 19:20 where Mary asks Gabriel (Jibril) how she will be able to conceive, when no man has touched her. Gabriel's reply assures Mary that for God all things are easy and that Jesus's virgin birth will be a sign for mankind.[32] The birth is later referred in Quran 66:12,[33] where the Quran states that Mary remained "pure", while God allowed a life to shape itself in Mary's womb. A third mention of the annunciation is in Q3:42–43, where Mary is also given the glad tidings that she has been chosen above all the women of creation.[34]
+
+Commentators on the Quran remark on the last verse that Mary was as close to a perfect woman as there could be, and she was devoid of almost all failings.[35] Although Islam honors numerous women, including Zipporah, Hagar, Sarah, Asiya, Khadijah, Fatimah, Ayesha, Hafsa many commentators[36] followed this verse in the absolute sense, and agreed that Mary was the greatest woman of all time.[35] Other commentators, however, while maintaining that Mary was the "queen of the saints", interpreted this verse to mean that Mary was the greatest woman of that time and that Fatimah, Khadijah and Asiya were equally great.[35][37] According to exegesis and literature, Gabriel appeared to Mary, who was still young in age, in the form of a well-made man with a "shining face" and announced to her the birth of Jesus. After her immediate astonishment, she was reassured by the angel's answer that God has the power to do anything.[35] The details of the conception are not discussed during these angelic visits, but elsewhere the Quran states (Quran 21:91)[38] and 66:12[33]) that God breathed "His Spirit" into Mary while she was chaste.
+Mary shaking the palm tree for dates, a legend derived from the Gospel of Pseudo-Matthew.[41]
+According to the Quran, Mary was chosen twice by the Lord: "O Mary! Verily Allah has chosen you and puriﬁed you and chosen you above the women of the worlds" (Quran 3:42); and the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.[27]: 16 
+
+The Quran narrates the virgin birth of Jesus numerous times. In chapter 19 (Maryam), verses (ayat) 17–21,[42] the annunciation is given, followed by the virgin birth in due course. In Islam, Jesus is called the "spirit of God" because he was through the action of the spirit, but that belief does not include the doctrine of his pre-existence, as it does in Christianity.[43] Quran 3:47 also supports the virginity of Mary, revealing that "no man has touched [her]".[44] Quran 66:12[33] states that Jesus was born when the spirit of God breathed upon Mary, whose body was chaste.[45]
+
+According to the Quran, the following conversation transpired between the angel Gabriel and Mary when he appeared to her in the form of a man:
+
+And mention, [O Muhammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. And she took, in seclusion from them, a screen. Then We sent to her Our spirit, and he represented himself to her as a well-proportioned man. She said, "Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allah." He said, "I am only the messenger of your Lord to give you a pure boy." She said, "How can I have a boy while no man has touched me and I have not been unchaste?" He said, "Thus [it will be]; your Lord says, 'It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter [already] decreed.'[19:16-21]
+
+The Quran's narrative of the virgin birth is somewhat different from that in the New Testament. The Quran states that when the pains of childbirth came upon Mary, she held onto a nearby palm tree, at which point a voice came from "beneath the (palm-tree)" or "beneath her", which said " "Grieve not! for thy Lord hath provided a rivulet beneath thee; "And shake towards thyself the trunk of the palm-tree: It will let fall fresh ripe dates upon thee."[46] The Quran goes on to describe that Mary vowed not to speak to any man on that day,[47] as God was to make Jesus, who Muslims believe spoke in the cradle, perform his first miracle. The Quran goes on to narrate that Mary then brought Jesus to the temple, where immediately she began to be taunted by all the men, excluding Zechariah, who believed in the virgin birth. The Israelites questioned Mary how she came to be with child whilst unmarried, to which Mary pointed to the baby Jesus. It was then that, according to the Quran, the infant Jesus began to speak in the cradle, and spoke of his prophecy for the first time.[48]
+
+According to Imam Ja'far al-Sadiq, Jesus the son of Mary used to cry intensely as a child, so that Mary was at wits end regarding his profuse crying. He said to her, "Get some of the bark of that tree, make a tonic from it and feed me with it." When he drank it, he cried intensely. Mary said, "What sort of prescription did you give me?" He said, "Oh my mother! Knowledge of prophet-hood and weakness of childhood."[27]: 23 
+
+The Fatimid Ismaili jurist Qadi al-Nu’man holds that the virgin birth of Jesus is meant to be interpreted symbolically. In his interpretation, Mary was the follower (lāḥiq), of the Imam Joachim (‘Imran). However, when Joachim realized that she was not suited for the Imamah, he passed it to Zechariah, who then passed it to John the Baptist. Meanwhile, Mary received spiritual inspiration (mādda) from God, revealing that he would invite a man [to the faith] who would become an exalted Speaker (nāṭiq) of a revealed religion (sharīʿa). According to al-Nu’man, the verses “She said: Lord! How can I have a child when no man has touched me?” (Quran 3:47) and “neither have I been unchaste” (Quran 19:20) are symbolic of Mary's saying, “How can I conduct the invitation (daʿwa) when the Imam of the Time has not given me permission to do so?” and “Nor shall I be unfaithful by acting against his command”, respectively. To this, a celestial hierarch replies “Such is God. He creates [i.e., causes to pass] what he wills” (Quran 3:47).
+</details>
+
+<details>
+<summary>Isa (Jesus of Nazareth)</summary>
+
+
+</details>
+
+<details>
+<summary>Apostoles and Paul</summary>
+ 
+</details>
+
+<details>
+<summary>Konstantine and Ariyan Christians</summary>
+
+</details>
 
 
 ## 8. Pre-Islamic Arabia 🐫 🌴 🕋 
@@ -1303,6 +1502,16 @@ http://www.essential-humanities.net/history-overview/world-history-timeline/
 
 EXPAND ALL skipping the first 5:
 https://stackoverflow.com/questions/43008609/expanding-all-details-tags
+
+
+Mesopotamia:
+	1. Ubaid period (6500-3800bc)
+	early village settlements. all population engaged in the production of food.
+	Eridu - the settlement name. 
+	the increasing food surplus allowed the creation of other professions like merchants, craftsmen, weavers, metallurges. the taxation and redistribution of food supply led to creation of governments. city of Uruq prospered.
+	Society hierarchy appeared. The high priest had leading role in a temple, keppers scribes administrators and priests and at the bottom were producers: farmers and fishermen. Cineaform writing appeared. 
+	2. 
+
 
 
 
