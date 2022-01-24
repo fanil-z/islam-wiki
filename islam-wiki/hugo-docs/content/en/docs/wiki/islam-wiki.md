@@ -1158,7 +1158,6 @@ People drew lots to decide who is going to take care of Maryam and Zakariyah was
 
 Quran mentions 
 
-	**Yahya** (John the Baptist) 1 century BC
 </details>
 
 <details>
@@ -1182,6 +1181,45 @@ According to Imam Ja'far al-Sadiq, Jesus the son of Mary used to cry intensely a
 
 The Fatimid Ismaili jurist Qadi al-Nu’man holds that the virgin birth of Jesus is meant to be interpreted symbolically. In his interpretation, Mary was the follower (lāḥiq), of the Imam Joachim (‘Imran). However, when Joachim realized that she was not suited for the Imamah, he passed it to Zechariah, who then passed it to John the Baptist. Meanwhile, Mary received spiritual inspiration (mādda) from God, revealing that he would invite a man [to the faith] who would become an exalted Speaker (nāṭiq) of a revealed religion (sharīʿa). According to al-Nu’man, the verses “She said: Lord! How can I have a child when no man has touched me?” (Quran 3:47) and “neither have I been unchaste” (Quran 19:20) are symbolic of Mary's saying, “How can I conduct the invitation (daʿwa) when the Imam of the Time has not given me permission to do so?” and “Nor shall I be unfaithful by acting against his command”, respectively. To this, a celestial hierarch replies “Such is God. He creates [i.e., causes to pass] what he wills” (Quran 3:47).
 </details>
+
+<details>
+<summary>Yaḥyā ibn Zakarīyā** (John the Baptist)</summary>
+1 century BC
+
+Yaḥyā ibn Zakarīyā (Arabic: يحيى ابن زكريا, literally Yahya/John, son of Zechariah), identified in English as John the Baptist, is considered in Islam a prophet and messenger of God (Allah) who was sent to guide the Children of Israel. He is believed by Muslims to have been a witness to the word of God who would herald the coming of Isa Masih (Jesus).
+
+Yahya is mentioned five times in the Quran.
+
+Yahya is also honored highly in Sufism as well as Islamic mysticism, primarily because of the Quran's description of John's chastity and kindness.[4] Sufis have frequently applied commentaries on the passages on John in the Quran, primarily concerning the God-given gift of wisdom which he acquired in youth as well as his parallels with Jesus. Although several phrases used to describe John and Jesus are virtually identical in the Quran, the manner in which they are expressed is different.
+
+In the Quran, God frequently mentions Zakariya's continuous praying for the birth of a son. Zakariya's wife, was barren and therefore the birth of a child seemed impossible.[6] As a gift from God, Zechariah was given a son by the name of Yaḥya, a name specially chosen for this child alone. In accordance with Zakariya's prayer, God made Yahya and Isa, who according to exegesis was born six months later,[7] renew the message of God, which had been corrupted and distorted by the Israelites.
+
+The Quran claims that John the Baptist was the first to receive this name (Quran 19:7–10) but since the name Yoḥanan occurs many times before John the Baptist,[8] this verse is referring either to Islamic scholar consensus that "Yaḥyā" is not the same name as "Yoḥanan"[9] or to the Biblical account of the miraculous naming of John, which accounted that he was almost named "Zacharias" (Greek: Ζαχαρίας)[10] after his father's name, as no one in the lineage of his father Zacharias (also known as Zechariah) had been named "John" ("Yohanan"/"Yoannes") before him.[11] As the Quran says:[12]
+"O Zakaryya, indeed We give you good tidings of a boy whose name will be Yahya, and whose we never before have created sameness for.
+
+He said: "O my Lord! How shall I have a son, when my wife is barren and I have grown quite decrepit from old age?"
+
+He said: "So (it will be) thy Lord saith, 'that is easy for Me: I did indeed create thee before, when thou hadst been nothing!'"
+
+(Zakarya) said: "O my Lord! give me a Sign." "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three nights."
+
+— Maryam 19: 7–10
+Prophethood
+
+The Jordan River, where Yahya baptized Isa.[13]
+Yahya was exhorted to hold fast to the scripture and was given wisdom by God while still a child.[14] He was pure and devout, and walked well in the presence of God. He was dutiful towards his parents and he was not arrogant or rebellious. John's reading and understanding of the scriptures, when only a child, surpassed even that of the greatest scholars of the time.[6] Muslim exegesis narrates that Isa sent Yahya out with twelve disciples,[15] who preached the message before Jesus called his own disciples.[7] The Quran says:[16]
+"O Yaḥya! take hold of the Book with might": and We gave him Wisdom even as a youth,
+
+— Maryam, 19:12
+John was a classical prophet,[17] who was exalted high by God for his bold denouncing of all things sinful. Furthermore, the Quran speaks of John's gentle piety and love and his humble attitude towards life, for which he was granted the purity of Life.
+
+According to Islamic tradition, Yahya used to go to the Haram esh-Sharif (Temple Mount) to deliver his sermons.[3]
+
+Assassination
+During the prophethood of Yahya, a conflict occurred between him and Herod Antipas, who wanted to divorce his first wife and take as wife his former sister-in-law.[3] Yahya informed that the marriage might be incestuous, and did not approve of the marriage. After this, Herod Antipas had Yahya imprisoned.[3] Yahya was then decapitated.[18][3] Yahya's head is believed to be inside the Umayyad Mosque in Damascus.
+
+</details>
+
 
 <details>
 <summary>Isa (Jesus of Nazareth)</summary>
