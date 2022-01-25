@@ -1223,6 +1223,42 @@ During the prophethood of Yahya, a conflict occurred between him and Herod Antip
 
 <details>
 <summary>Isa (Jesus of Nazareth)</summary>
+Isa ibn Maryam (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, lit. 'Jesus, son of Mary'), is the penultimate prophet and messenger of God (Allah) and the Messiah, who was sent to guide the Children of Israel with a revelation: Injīl (Arabic for "gospel").
+
+As in the Christian New Testament, the Quran (the central religious text of Islam) describes Jesus as al-Masīḥ (Arabic for messiah), born of a virgin, performing miracles, accompanied by disciples, rejected by the Jewish establishment, and being raised to heaven. The Quran firmly states that Jesus is not divine and he is not the Son of God. Also, the Quran differs from the New Testament in proclaiming that Jesus was neither crucified nor died on the cross.
+
+The significance of Jesus in Islam is reflected in his being mentioned in the Quran in 93 verses with various titles attached such as "Son of Mary", "Spirit of God", and the "Word of God", and other relational titles, mentioned directly and indirectly, over 187 times. Jesus is more briefly described in Surah Maryam, Chapter 19 of Quran. Thus, he is one of the most mentioned people in the Quran by reference; 25 times by the name Isa,[note 1] third-person 48 times,[note 2] first-person 35 times and the rest as titles.
+
+The Quran and ahadith (testimonial reports) mention Jesus to have been born a "pure boy" (without sin) to Maryam (Mary) as the result of virginal conception, similar to the event of the Annunciation in Christianity. The Quran denies Jesus as a deity in several verses, including one that mentions that Jesus did not claim to be divine (Q5:116). According to the Quran, he was not crucified,[16] but was rather saved by God. (Although the earliest Islamic traditions and exegesis quote somewhat conflicting reports regarding a death and its length, Muslims believe that Jesus did not die on the cross, but still believe that he was raised alive to heaven). Over the centuries, Muslim writers have referenced other miracles like casting out demons, having borrowed from some heretical pre-Islamic sources, and from canonical sources as legends about Jesus were expanded.
+
+In Islam, Jesus is believed to have been the precursor to the Islamic prophet Muhammad. According to the Quran, the coming of Muhammad was predicted by Jesus in As-Saff 61:6. Through this verse, early Arab Muslims claimed legitimacy for their new faith in the existing religious traditions and the alleged predictions of Jesus. Like all prophets in Islam, Jesus is also called a Muslim, as he preached that his followers should adopt the "straight path". In Islamic eschatology, Jesus will return in a Second Coming to fight Al-Masih ad-Dajjal or the "False Messiah" as well as Gog and Magog and establish peace and justice on earth.
+
+Birth narratives
+
+According to the Quran, the pains of labor took Mary to the trunk of a palm tree.
+The Islamic faith echoed some strands within the Christian tradition that Mary (or Maryam) was a literal virgin when Jesus was conceived. The most detailed account of the annunciation and birth of Jesus is provided in Surah 3 (Al Imran) and 19 (Maryam) of the Quran where the story is narrated that God (Allah) sent an angel to announce that Maryam could shortly expect to bear a son, despite being a virgin.[36]
+
+Some academics have noted that the account in Surah 19[37] is particularly close to that in the Christian Gospel of Luke.[38] The Annunciation to Mary is mentioned twice in the Quran and in both instances Mary/ Maryam is told that she was chosen by God to deliver a son. In the first instance, the bearer of the news (who is believed by most Muslims to be the archangel Gabriel), delivered the news in (Q3:42-47) as he takes the form of a man (Q19:16-22). The details of the conception are not discussed but when Mary asks how she can bear a son in view of her chastity she is told that God creates what he wills and that these things are easy for God. The Quran (Q21:91 and Q66:12) says that God blew through his angel into Mary and she, although being chaste, bore Jesus without any father.
+
+The account of the birth of Jesus follows the Quran's narrative, adding that the birth occurred in Bethlehem beside a palm tree with a manger.
+
+Childhood
+Main article: Finding in the Temple
+See also: Flight into Egypt and Infancy Gospel of Thomas
+The Quran does not include the tradition of the Flight into Egypt, though sūra XXIII, 50 could conceivably allude to it: "And we made the son of Maryam and his mother a sign; and we made them abide in an elevated place, full of quiet and watered with springs."[48] However, narratives similar to the narrative found in the Gospels and non-canonical sources circulated in later Islamic tradition, with some details and elaborations being added over the centuries by Islamic writers and historians. Some narratives have Jesus and family staying in Egypt up to 12 years.[20] Many moral stories and miraculous events of Jesus' youth are mentioned in Qisas al-anbiya (Stories of the Prophets), books composed over the centuries about pre-Islamic prophets and heroes.
+
+Adulthood
+
+Mission
+
+It is generally agreed that Jesus spoke Aramaic, the common language of Judea in the first century A.D. and the region at-large.[52]
+
+The first and earliest view of Jesus formulated in Islamic thought is that of a prophet – a human being chosen by God to present both a judgment upon humanity for worshipping idols and a challenge to turn to the one true God. From this basis, reflected upon all previous prophets through the lens of Muslim identity, Jesus is considered no more than a messenger repeating a repetitive message of the ages. The miracles of Jesus and the quranic titles attributed to Jesus demonstrate the power of God rather than the divinity of Jesus – the same power behind the message of all prophets. Some Islamic traditions believe Jesus' mission was only to the people of Israel and his status as a prophet being confirmed by numerous miracles.
+
+A second early high image of Jesus is an end-time figure. This concept arises mostly from the Hadith. Muslim tradition constructs a narrative similarly found in Christian theology, seeing Jesus arriving at the end of time and descending upon earth to fight the Antichrist. This narrative is understood to champion the cause of Islam, with some traditions narrating Jesus pointing to the primacy of Muhammad. Most traditions state Jesus will then die a natural death.
+
+A third and distinctive image is of Jesus representing an ascetic figure – a prophet of the heart. Although the Quran refers to the 'gospel' of Jesus, those specific teachings of his are not mentioned in the Quran or later religious texts. They are largely absent. The Sufi tradition is where Jesus became revered, acknowledged as a spiritual teacher with a distinctive voice from other prophets, including Muhammad. Sufism tends to explore the dimensions of union with God through many approaches, including asceticism, poetry, philosophy, speculative suggestion, and mystical methods. Although Sufism to the Western mind may seem to share similar origins or elements of Neoplatonism, Gnosticism, and Buddhism, the ideology is distinctly Islamic since they adhere to the words of the Quran and pursue imitation of Muhammad as the perfect man.
+
 
 
 </details>
