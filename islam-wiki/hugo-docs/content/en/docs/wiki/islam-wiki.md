@@ -26,9 +26,7 @@
 #  	position: sticky;
 #  	top: 0;
 #}
-  btnExpandHideAllDetails {
-  	
-  }
+
 </style>
 
 *(including creation of the Universe and development of Abrahamic religions according to Islamic sources)*
@@ -168,12 +166,64 @@ Allah created jinns from smokeless fire🔥.
 
 Jinns are the only creatures besides human that have a free will and they will be judged according to their deeds.
 Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of jinn and he was allowed to be among the angels.
+The term jin occurs thirty nine times in the Qur’an. There is a whole sura called sura al-Jinn, which speaks clearly and
+explicitly about the jinn. They are a part of divine creation separate from humanity and the angels, but they share certain
+qualities with mankind, like intellect, discrimination and the capacity for freedom (Leaman, 2006).
+In the Qur’an, Allah mentions the word jin as jan,
+1 jinnah,
+2 and jin.
+3 The word of al-jan shows in plural meaning and
+indicates as a creature that is hidden from the insights, as mentioned in sura al-Hijr verse 27. This verse explains the jinn
+were created before the creation of mankind, and their origin is from smokeless fire. This fire was taken from the clean,
+pure, extremely hot and the most excellent (Ibn Kathir, 1999; al-Alusi, n.d)
+
+Most of exegetes said Jann was the father of jinn as Adam was father to the mankind (Al-Razi, 1981). The jinn live
+in a world that cannot be seen with the senses. According to most of scholars, they eat, drink and procreate. Similar to
+humans, some are righteous while others are not.
+
+In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39 and khannas in sura al-Nas (The
+Mankind) verse 4 which both mean the jinn. Moreover, the exegetes noted the Qur’an has given a description and
+explanation about the jinn and their social condition. Al-Tabari (2001) for example in his commentary explains that human
+and jinn were created as creatures who have the obligation to surrender and worship God as the creator. Allah mentioned
+in sura al-Dhariyat (The Winnowing Winds) verse 56 that indicates the existence of the jinn which means:
+And I did not create the jinn and mankind except to worship Me.
+According to the majority of scholars the jinn are being obliged to follow the Islamic law that was revealed by Allah
+to His Messenger Muhammad (Al-Shibli, 1985). They are obliged as well as human in obeying of all commands and avoid
+the prohibitions (Bali, 1998, Al-Ashqar, 1999), as described in sura al-Rahman (The Beneficient) verse 13:
+So which of the favors of your Lord would you deny?
+According to al-Razi (1981) in his exegetical work the discussion appearing in this verse is addressed to the jinn
+and mankind. It means that the jinn are obliged to act in accordance with Allah’s orders and to perform worshipping like
+humans.
+From here, the jinn conditions as human beings, among them have accepted the revelation of the Prophet
+Muhammad (pbuh). They are part of the divine creation and have attitudes, namely intellect, ability to be free and
+independent. They have the power to choose between true and false, right and wrong as Allah said in sura al-Jinn
+verse11 below:
+And among us are the righteous, and among us are [others] not so; we were [of] divided ways. 
+
+According to Arabic linguists there are different categories of jinn: (i) jinni, in general terms. (ii) Amir or dweller if the
+jinn lives in houses with people (iii) Arwah or spirits who interact with children. (iv) Shaytan or Satan if the jinn is wicked.
+(v) if he is worse than that, called marid or demon. (vi) Ifrit, if he is worse than that and strong (al-Shibli, 1985). In general,
+the pagan believe that jinn have hidden powers, giving some benefit and harassment. As Allah says in Sura Saba’ verse
+41:
+They will say, “Exalted are You! You, [O Allah], are our benefactor not them. Rather, they used to worship the jinn; most
+of them were believers in them.”
+Similarly in Sura al-Jinn verse 6, Allah explains that most pagan seek help and protection to jinn. In view of them
+there is collaboration between man and poets of jinn which they can produce beautiful poetry to listen to (Shihab, 2002)
+
 
 Jinns were transgressing and were not treating animals well.
 
 Angels and Iblis were send to annihilate many jinnns who were transgressing.
 
-There is a special type of jinns - shayatin. According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
+There is a special type of jinns - shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
+
+The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation.[25][41][42] However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
+
+Jinn are mentioned approximately 29 times in the Quran. In Islamic tradition, Muhammad was sent as a prophet to both human and jinn communities, and that prophets and messengers were sent to both communities. Traditionally, the 72nd surah, Al-Jinn, named after them, is held to tell about the revelation to jinn and several stories mention one of Muhammad's followers accompanied him, witnessing the revelation to the jinn.
+
+In the story of Solomon they appear as nature spirits comparable to Talmudic shedim.Solomon was gifted by God to talk to animals and spirits. God granted him authority over the rebellious jinn and devils forcing them to build the First Temple. In other instances, the Quran tells about Pagan Arabs, calling jinn for help, instead of God. The Quran reduced the status of jinn from that of tutelary deities to that of minor spirits, usually paralleling humans.
+
+The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
 
 </details>
 
@@ -1258,6 +1308,118 @@ The first and earliest view of Jesus formulated in Islamic thought is that of a 
 A second early high image of Jesus is an end-time figure. This concept arises mostly from the Hadith. Muslim tradition constructs a narrative similarly found in Christian theology, seeing Jesus arriving at the end of time and descending upon earth to fight the Antichrist. This narrative is understood to champion the cause of Islam, with some traditions narrating Jesus pointing to the primacy of Muhammad. Most traditions state Jesus will then die a natural death.
 
 A third and distinctive image is of Jesus representing an ascetic figure – a prophet of the heart. Although the Quran refers to the 'gospel' of Jesus, those specific teachings of his are not mentioned in the Quran or later religious texts. They are largely absent. The Sufi tradition is where Jesus became revered, acknowledged as a spiritual teacher with a distinctive voice from other prophets, including Muhammad. Sufism tends to explore the dimensions of union with God through many approaches, including asceticism, poetry, philosophy, speculative suggestion, and mystical methods. Although Sufism to the Western mind may seem to share similar origins or elements of Neoplatonism, Gnosticism, and Buddhism, the ideology is distinctly Islamic since they adhere to the words of the Quran and pursue imitation of Muhammad as the perfect man.
+
+Miracles
+Main article: Miracles of Jesus
+See also: Infancy Gospel of Thomas
+The Quran attributes at least six miracles to Jesus, with many more being added over the centuries by writers and historians. Miracles were attributed to Jesus as signs of his prophethood and his authority, according to educator and professor Ishaq Musa Al-Husayni (d. 1990), an author most known for Mudhakkirat Dajaja (Memoirs of a Hen) (Cairo: Dar al-Maarif, 1943; 2nd ed. 1967). In Christ in the Quran and Modern Arabic Literature (1960), Al-Husayni said it is noteworthy Muhammad attributes no miracles to himself.[59]
+
+These six miracles in the Quran are without detail unlike the Gospel and their non-canonical Gnostic sources, which include details and mention other attributed miracles.[59] Over the centuries, these six miracle narratives have been elaborated through Hadith and poetry, with religious writings including some of the other miracles mentioned in the Gospel, non-canonical sources, and from lore.[20][50]
+
+Speaking from the cradle
+Speaking from the cradle is mentioned in three places in the Quran: al-Imran (3) 41, 46, al-Maida (5) 109–110 and Maryam (19) 29–30. Part of the narrative has the infant Jesus defending his mother Mary from the accusation of having given birth without a known husband.[60] Early Islam was unclear about Joseph and his role.Thus these Gnostic gospel influence is claimed as to say Quran may not be divine by opponents. Jesus speaks as the angel Gabriel had mentioned at the annunciation: Jesus proclaims he is a servant of God, has been given a book, is a prophet, is blessed wherever he will go, blesses the day he was born, the day he will die, and the day he is raised alive.[61]
+
+Although this particular narrative is not found in the Bible, the theme of speaking from the cradle is found in the non-canonical pre-Islamic Syriac Infancy Gospel. That source has Jesus declaring himself the Son of God, the Word, and affirming what the angel Gabriel had previously announced to Mary as detailed in the Gospel.[60]
+
+Creating birds from clay
+The miracle story of creating birds from clay and breathing life into them when a child is mentioned in al-Imran (3) 43, 49 and al-Maida (5) 109–110. Although this miracle is also not mentioned the canonical Gospel, the same narrative is found in at least two pre-Islamic sources: the Infancy Gospel of Thomas and the Jewish Toledot Yeshu, with few variant details between the Quran and these two sources.[62][63]
+
+Healing the blind and the lepers
+See also: Healing the two blind men in Galilee and Cleansing ten lepers
+Similar to the New Testament, the Quran mentions Jesus healing the blind and the lepers in al-Imran (3) 49. Muslim scholar and judge al-Baydawi (d. 1286) wrote how it was recorded that many thousands of people came to Jesus to be healed and that Jesus healed these diseases through prayer only.[64] Medieval scholar al-Tha'labi wrote about how these two particular diseases were beyond medical help, and Jesus' miracles were meant to be witnessed by others as clear signs of his message.[62]
+
+Raising the dead
+Jesus is believed to have raised people from the dead, as mentioned in al-Imran (3) 49. Although no detail is given as to who was raised or the circumstance, at least three people are mentioned in detail in the Gospel (a daughter of Jairus, a widow's son at Nain, and Lazarus).[65]
+
+Prescience
+Jesus was able to predict, or had foreknowledge,[66] of what was hidden or unknown to others. One example is Jesus would answer correctly any and every question anyone asked him. Another example is Jesus knew what people had just eaten, as well as what they had stored in their homes.[20]
+
+Table of food from heaven
+Main article: Feeding the multitude
+See also: Last Supper
+In the fifth chapter of the Quran, al-Ma'ida (5) 112–115, a narration mentions the disciples of Jesus requesting a table laden with food, and for it to be a special day of commemoration for them in the future. This may be a possible reference to the Eucharist according to professor of Islamic and Arabic studies W. Montgomery Watt (d. 2006).[67] According to professor of comparative religions Geoffrey Parrinder (d. 2005), it is unclear if this story parallels the Gospel's Last Supper or the feeding the multitude, but may be tied to the Arabic word ʿīd (Muslim festival):[68]
+
+One time the disciples said, O Jesus, son of Mary, can your Lord send down for us a table from heaven? He said, Fear God if you are believers. They said We want to eat of it, and that our hearts may be at peace, and we may know you have spoken truthfully and be among the witnesses to it. Jesus, son of Mary, said, O God our Lord send down upon us a table from heaven, to be for us a festival, for the first of us and the last of us, and a sign from you: and give provision (of food) to us, for you are the best of providers. God said I am sending it down for you.[67]
+
+In a record by the Sunni exegete Tabari, before the last supper, the threat of death made him anxious. Therefore, Jesus invited his disciples for the last supper. After the meal, he washed their hands and performed their ablutions to wipe their hands on his clothing. Afterwards Jesus replied to them: "As for that I have done to you tonight, in that I served you the meal and washed your hands in person, let it be an example for you. Since you indeed consider me to be better than you, do not be haughty in relation to each other but rather expand yourselves for each other as I have expanded myself for you." After instructing the disciples in his teachings, Jesus foretells that one of them would deny him and another betray him. However, in accordance with Islamic views on Jesus' death, just a corpse in semblance of Jesus was crucified and Jesus himself was raised to God.[69]
+
+Other miracles
+Many stories and narratives have been developed over the years about Jesus, containing certain inherent lessons or providing meaning due to the lack of detail in the Quran regarding Jesus. Some of these narratives are similar in nature to the New Testament, while some portray Jesus in a very human manner.
+
+Besides some detailed summaries of miracles of Jesus mentioned by Muslim writers over the centuries, from adulthood (like walking on water – also found in the Gospel – and causing loaves of bread to come from the ground),[60] some other miracles from childhood include: explaining the Muslim creed fundamentals to a schoolmaster, revealing who the thieves were to a wealthy chief, filling empty jars of something to drink, providing food and wine for a tyrannical king while also proving to this king his power in raising a dead man from the dead, raising a child accidentally killed, and causing the garments from a single-colored vat to come out with various colors.[20]
+
+Healing a royal official's son
+Main article: Healing the royal official's son
+Al-Tabari (d. 923) reports a story of an adult Jesus' encounter with a certain king in the region and the healing of his son. The identity of the king is not mentioned while legend suggests Philip the Tetrarch. The corresponding Bible reference is "the royal official's son".[70]
+
+Greed and truth-telling
+A legendary story of a miracle by a young Jesus, used as a hard-learned lesson popularly found in Middle Eastern lore according to professor Ayoub, has to do with a Jewish man and loaves of bread. Although carrying a polemic tone, the lesson centers on greed with truth-telling woven into the narration. It is a story found often in children's books.[71]
+
+Inherent wisdom
+See also: Logos (Islam) and Logos (Christianity)
+Another legendary miracle story is one regarding Jesus' childhood wisdom. This legend, reported through al-Tabari from ibn Ishaq, talks about Mary sending Jesus to a religious school and the teacher being astonished to find Jesus already knowing the information being taught / discussed.[20]
+
+Food in children's homes
+Another story from al-Tabari tells of a young Jesus playing with the youths of his village and telling them what food their parents were preparing for them at home.[20]
+
+According to the details of the narrative, some parents became annoyed and forbade their children to play with Jesus, suspecting he was a magician. As a result, the parents kept their children away from Jesus and gathered their children into a single house. One day, feeling lonely, Jesus went out looking for his friends, and coming upon this house he asked the parents where their children were. The parents lied, responding that the children were not there. After Jesus asks who, then, is in the house, the parents call Jesus a pig. Jesus then says "Let there be swine in this house", turning all the children into swine.[50]
+
+Revelation
+Main article: Gospel in Islam
+See also: Ministry of Jesus
+Muslims believe that God revealed to Jesus a new scripture, al-Injīl (the Gospel), while also declaring the truth of the previous revelations: al-Tawrat (the Torah) and al-Zabur (the Psalms). The Quran speaks favorably of al-Injīl, which it describes as a scripture that fills the hearts of its followers with meekness and piety. Traditional Islamic exegesis claiming the biblical message to have been distorted or corrupted (tahrif), is termed ta'yin al-mubham ("resolution of ambiguity").[72] This polemic effort has its origins in the medieval period with Abd al-Jabbar ibn Ahmad's writings.[73]
+
+Regarding the Law of Moses, the Quran indicates that Jesus never abolished Jewish laws but rather confirmed them, while making partial abrogations only.[74]
+
+Islam rejects Paul's theology of justification before God by faith alone as held by some Protestants or faith through grace as held by Catholics, Orthodox and most mainline Protestants. Jesus' legal perspective did not involve a New Covenant concerning works,[citation needed] but to simply modify those existing laws.[citation needed] Shabir Ally considers this understanding to corroborate with the canonical gospels that include Matthew 5:17.
+
+Disciples
+In the Qur'an
+The following is a list of all the Qur'anic references to the disciples of Jesus:
+
+But when Jesus felt [persistence in] disbelief from them, he said, "Who are my supporters for [the cause of] Allah?" The disciples said, "We are supporters for Allah. We have believed in Allah and testify that we are Muslims [submitting to Him]. (52) Our Lord, we have believed in what You revealed and have followed the messenger [i.e., Jesus], so register us among the witnesses [to truth]."(53)
+
+— Qur'an 3:52-53[1]
+And [remember] when I inspired to the disciples, "Believe in Me and in My messenger [i.e., Jesus]." They said, "We have believed, so bear witness that indeed we are Muslims [in submission to Allah]."(111) [And remember] when the disciples said, "O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?" [Jesus] said, "Fear Allah, if you should be believers."(112) They said, "We wish to eat from it and let our hearts be reassured and know that you have been truthful to us and be among its witnesses."(113) Said Jesus, the son of Mary, "O Allah, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers."(114) Allah said, "Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds."(115)
+
+— Quran 5:111-115[4]
+O you who have believed, be supporters of Allah, as when Jesus, the son of Mary, said to the disciples, "Who are my supporters for Allah?" The disciples said, "We are supporters of Allah." And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant. (14)
+
+— Quran 61:14[5]
+In Hadith
+The following are Hadith (narrations originating from the words of Muhammad), collected by Muslim ibn al-Hajjaj Nishapuri, which indirectly emphasize Islamic beliefs concerning the disciples of Jesus:[6]
+
+It is narrated on the authority 'Abdullah b. Mas'ud that the Messenger of God observed: Never a Prophet had been sent before me by God towards his nation who had not among his people (his) disciples and companions who followed his ways and obeyed his command. Then there came after them their successors who said whatever they did not practise, and practised whatever they were not commanded to do. He who strove against them with his hand was a believer: he who strove against them with his tongue was a believer, and he who strove against them with his heart was a believer and beyond that there is no faith even to the extent of a mustard seed. Abu Rafi' said: I narrated this hadith to 'Abdullah b. 'Umar; he contradicted me. There happened to come 'Abdullah b. Mas'ud who stayed at Qanat, and 'Abdullah b 'Umar wanted me to accompany him for visiting him (as 'Abdullah b. Mas'ud was ailing), so I went along with him and as we sat (before him) I asked Ibn Mas'ud about this hadith. He narrated it in the same way as I narrated it to Ibn 'Umar. The same hadith has been transmitted by another chain of narrators on the authority of 'Abdullah b. Mas'ud who observed: Never was there one among the prophets who had had not disciples who followed his direction and followed his ways. The remaining part of the hadith is like that as narrated by Salih but the arrival of Ibn Mas'ud and the meeting of Ibn 'Umar with him is not mentioned.
+
+— Sahih Muslim[7]
+Death
+Main article: Islamic view of Jesus' death
+The primary quranic verse dealing with the event of the crucifixion is Surah 4 Verse 157:
+
+That they said (in boast), "We killed the Messiah Jesus the son of Mary, the Messenger of The God'; but they killed him not, nor crucified him, but so it was made to appear to them, and those who differ therein are full of doubts, with no (certain) knowledge, but only conjecture to follow, for of a surety they killed him not.
+
+Most Islamic traditions categorically deny that Jesus physically died on the cross or otherwise. Most traditions instead teach substitution, or the idea that another person was crucified in Jesus' place. However, some modern Muslim scholars believe that Jesus did indeed die, and references to his survival are symbolic, not literal. This disagreement on the nature of Jesus' death is found within the Islamic canon itself, with the earliest Hadith quoting the companions of Muhammad saying that Jesus had died. Meanwhile, the majority of subsequent Hadith and Tafsir argue in favor of the opposite.
+
+Substitution
+It is unclear exactly where the substitutionist interpretation originated, but some scholars consider the theory originating among certain Gnostic groups of the second century.[35] Leirvik finds the Quran and Hadith to have been clearly influenced by the non-canonical ('heretical') Christianity that prevailed in the Arab peninsula and further in Abyssinia.[78]
+
+Muslim commentators have been unable to convincingly disprove the crucifixion. Rather, the problem has been compounded by adding the conclusion of their substitutionist theories. The problem has been one of understanding.
+
+If the substitutionist interpretation (Christ replaced on the cross) is taken as a valid reading of the Qur'anic text, the question arises of whether this idea is represented in Christian sources. According to Irenaeus' Adversus Haereses, the Egyptian Gnostic Christian Basilides (2nd century) held the view that Christ (the divine nous, intelligence) was not crucified, but was replaced by Simon of Cyrene. However, both Clement of Alexandria and Hippolytus denied that Basilides held this view. But the substitutionist idea in general form is quite clearly expressed in the Gnostic Nag Hammadi documents Apocalypse of Peter and The Second Treatise of the Great Seth.
+
+While most Western scholars, Jews, and Christians believe Jesus died, orthodox Muslim theology teaches he ascended to Heaven without being put on the cross and God transformed another person, Simon of Cyrene, to appear exactly like Jesus who was crucified instead of Jesus (cf. Irenaeus' description of the heresy of Basilides, Book I, ch. XXIV, 4.).[83]
+
+Some disagreement and discord can be seen beginning with Ibn Ishaq's (d. 761) report of a brief accounting of events leading up to the crucifixion, firstly stating that Jesus was replaced by someone named Sergius, while secondly reporting an account of Jesus' tomb being located at Medina and thirdly citing the places in the Quran (3:55; 4:158) that God took Jesus up to himself.
+
+Michael Cook notes that denial that Jesus died follows the Christian heresy of Docetism, who were "disturbed by that God should have died", but that this concern conflicts with another Islamic doctrine, that Jesus was a man, not God.[84] Quranic commentators seem to have concluded the denial of the crucifixion of Jesus by following material interpreted in Tafsir that relied upon extra-biblical Judeo-Christian sources, with the earliest textual evidence having originated from a non-Muslim source; a misreading of the Christian writings of John of Damascus regarding the literal understandings of Docetism (exegetical doctrine describing spiritual and physical realities of Jesus as understood by men in logical terms) as opposed to their figurative explanations. John of Damascus highlighted the Quran's assertion that the Jews did not crucify Jesus being very different from saying that Jesus was not crucified, explaining that it is the varied Quranic exegetes in Tafsir, and not the Quran itself, that denies the crucifixion, further stating that the message in the 4:157 verse simply affirms the historicity of the event.
+
+Second coming
+See also: Second Coming § Islam, Islamic eschatology, and Hadith of Jesus praying behind Mahdi
+According to Islamic tradition which describes this graphically, Jesus' descent will be in the midst of wars fought by the Mahdi (lit. "the rightly guided one"), known in Islamic eschatology as the redeemer of Islam, against al-Masih ad-Dajjal (the Antichrist "false messiah") and his followers. Jesus will descend at the point of a white minaret, east of Damascus (believed to be the Minaret of Isa in the Umayyad Mosque), dressed in yellow robes—his head anointed. He will say prayer behind al-Mahdi then join him in his war against the Dajjal. Jesus, considered as a Muslim, will abide by the Islamic teachings. Eventually, Jesus will slay the Antichrist, and then everyone who is one of the People of the Book (ahl al-kitāb, referring to Jews and Christians) will believe in him. Thus, there will be one community, that of Islam.
+
+Sahih al-Bukhari, Volume 3, Book 43: Kitab-ul-Ilm (Book of Knowledge), Hâdith Number 656:
+Allah's Apostle said, "The Hour will not be established until the son of Mary (i.e. Jesus) descends amongst you as a just ruler, he will break the cross, kill the swine, and abolish the Jizya tax. Money will be in abundance so that nobody will accept it (as charitable gifts)."
+— Narrated by Abu Huraira
 
 
 

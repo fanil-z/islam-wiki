@@ -37,6 +37,9 @@ Need to do
 * fix CSS for This-Page-TOC background and border in the bootstrap CSS.
 * add button to go up to the beginning: 
 * incorporate search in the current page: https://stackoverflow.com/questions/51988459/html-searching-on-the-same-page/51988637
+* put search button inside search field
+
+seems like my sense of beauty is falling behind my willingness to fix all CSS issues.
 
 
 ## Notes
