@@ -38,6 +38,7 @@ Need to do
 * add button to go up to the beginning: 
 * incorporate search in the current page: https://stackoverflow.com/questions/51988459/html-searching-on-the-same-page/51988637
 * put search button inside search field
+* Try GitLab Pages. Seems like it's free compared to GitHub Pages.
 
 seems like my sense of beauty is falling behind my willingness to fix all CSS issues.
 
@@ -46,6 +47,7 @@ seems like my sense of beauty is falling behind my willingness to fix all CSS is
 * **expand all** script is in layout/docs/single.html
 * the menu, buttons, Expand All in the layout/partials/header/header.html
 
+so, I did some calculations and if I have 1000views in a month for 30 years, I will need to start to pay.
 
 
 border-image-source: linear-gradient(

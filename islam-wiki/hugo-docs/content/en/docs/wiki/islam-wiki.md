@@ -29,19 +29,20 @@
 
 </style>
 
-*(including creation of the Universe and development of Abrahamic religions according to Islamic sources)*
+<p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources.</i></p>
 
 
 <details>
 <summary>DISCLAIMER!</summary>
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem
+	
+	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem
 
-First of all, we need to say Allahu 'Alim. Only God know the ultimate truth.
-Sources of this guide: The Quran, authentic hadiths, The Bible (Old Testament)
+	First of all, we need to say Allahu 'Alim. Only God know the ultimate truth.
+	Sources of this guide: The Quran, authentic hadiths, The Bible (Old Testament)
 
-Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus the core structure of this guide is based on stories in the Quran.
+	Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus the core structure of this guide is based on stories in the Quran.
 
-And when it comes to nature and cosmos questions, human mind is just to primitive to understand it.
+	And when it comes to nature and cosmos questions, human mind is just to primitive to understand it.
 
 </details>
 
@@ -845,7 +846,7 @@ It is also said he told his people to stop being dishonest in their daily activi
 The people taunted Shuʿayb and told him that, were it not for the prestigious family he came from, he would surely have been stoned to death. Shuayb replied, "Is my family of more consideration with you than God?" When the Midianites refused to believe, they were destroyed by a mighty earthquake. The Qur'an, however, mentions that Shuʿayb, and his believing companions, were rescued from the thunderous punishment.
 </details>
 
-## 5. Musa and the Torah
+## 5. Musa and the Exodus
 *******************************************
 Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 <details>
@@ -1431,7 +1432,18 @@ Allah's Apostle said, "The Hour will not be established until the son of Mary (i
 </details>
 
 <details>
-<summary>Konstantine and Ariyan Christians</summary>
+<summary>How Christianity was similar to Islam before Council of Nicaea</summary>
+
+There was a time when Christianity was very close to Islam.
+
+Constantine the founder of Constantinople (a.k.a. Istanbul). Constantine was the first emperor to stop the persecution of Christians and to legalize Christianity. and he accepted Christianity. So, the Roman Empire became Christian.
+
+His son Constantine I initiated the First Council of Nicea.
+
+Arius who believed that Jesus aws created by God and there are not equal in status was exiled after https://en.wikipedia.org/wiki/First_Council_of_Nicaea during emperor of Rome Constantine 1.
+The Arisian version of Christianity was very close to Islam. 
+Peter the Venerable said that Muhammad saw was the successor to Aries.
+
 
 </details>
 
@@ -1654,7 +1666,7 @@ Kalmar Wendish Swedish 1150 1249 1293 Livonian Prussian Lithuanian
 * The prophet Muhammad
 * bedouins building towers
 
-#### 10 Major Signs of Al Kiyamah
+### 11.1 Major Signs of Al Kiyamah
 
 These signs are connected to each other. When one comes, the other one follows.
 There is a hadith that prophet Muhammad saw said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
@@ -1723,6 +1735,33 @@ The Beast will come out at that time. and it will leave marks on people as belie
 </details>
 
 the fire will come out and it will spread.
+
+
+### 11.2 Al Qiyamah
+*******************************************
+<details>
+	<summary><b>What happens after</b></summary> 
+Allahu 'Alim.
+The Barzak.
+
+The Judgement will not begin until thousands of years people will wait. 
+
+People will come to Adam and ask him to interrogate but he will reject it. and after Nuh, Musa, Isa and some others, people will come to the prophet Muhammad. and he will say that is my task.
+
+There will be pool from Al Kawthar near the prophet Muhammad, and it will be allowed to sincere Muslims to drink from it.
+Allah says in the Quran that He has already gifted the prophet Muhammad Al Kawthar, the main river of Jannah. It's water is pure white and whoever drinks for it will not feel thirst for thousands of years.
+
+People will hear Jahannah roar and it will have desire to take the sinners.
+
+People will have their good deeds on the right side and their bad deeds on the left side.
+
+People will have pass through the Sirat bridge above Jahannam. and it will be easy to pass for good people and it will be difficult to pass for bad people and they will fall to Jahannam.
+
+The angel that guards the gates of Heaven will ask: "Who is there?". The prophet Muhammad will reply Muhammad. And malak will say that he is the one for whom the gates must be open. and he will be the first to enter Jannah.
+
+There are several narrations that some of the people who ended up in Jahannam will be allowed to enter Jannah after some time passes and their sins are burned. They will be placed into the river of Jannah where they will regain their shape and start living in Jannah.
+
+</details>
 
 
 <details>

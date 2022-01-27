@@ -44,7 +44,7 @@
 	<script>
 	function openAll() {
 	  var elems = document.getElementsByTagName("details");
-	  document.getElementById("btnExpandHideAllDetails").innerHTML = "Hide All Details";
+	  document.getElementById("btnExpandHideAllDetails").innerHTML = "Hide All";
 	  document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: closeAll();");
 
 	  for (var i = 1; i <= elems.length; i++){
@@ -55,7 +55,7 @@
 	function closeAll() {	
 	  var elems = document.getElementsByTagName("details");
 	  document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: openAll();" );
-	  document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand All Details";	
+	  document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand All";	
 	  
 	  for (var i = 1; i <= elems.length; i++){
 	    elems[i].removeAttribute("open");
