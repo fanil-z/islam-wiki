@@ -10,10 +10,34 @@
   .col-xl-3 {
     width: 25%;
     margin-left: 0px;
-    border-right: solid;
+    #border-right: solid;
     border-right-color: #f4f4f4;
     border-right-width: 0.4px;
-    #background-color: #f4f4f4;
+    background-color: #edfbf0e3;
+}
+
+  .hljs {
+  	background: #f3f3f3b8;
+  }
+
+  [data-dark-mode] .col-xl-3 {
+    border-right-color: #424242;
+    background-color: #213f3e;
+}
+
+  blockquote {
+  	margin-top: 1rem;
+    font-size: 0.96rem;
+    border-left: 4px solid #dee2e6;
+    padding-left: 1rem;
+    background-color: #d8f2db;
+    padding-right: 15px;
+  }
+
+[data-dark-mode] body blockquote {
+  background-color: #213f3e;
+  border-left: 4px solid green;
+  padding-right: 15px;
 }
 
 #  .navbar {
@@ -212,6 +236,9 @@ Similarly in Sura al-Jinn verse 6, Allah explains that most pagan seek help and 
 there is collaboration between man and poets of jinn which they can produce beautiful poetry to listen to (Shihab, 2002)
 
 
+file:///C:/Users/Joelle%20van%20Dyne/Downloads/7599-Article%20Text-29415-1-10-20150904.pdf
+
+
 Jinns were transgressing and were not treating animals well.
 
 Angels and Iblis were send to annihilate many jinnns who were transgressing.
@@ -337,7 +364,8 @@ The story of Adam and Eve in the Quran teaches the virtue of repentance and supp
 <details>
 	<summary><b>Adam and Eve are sent to Earth</b>
 
-They were forgiven but sent to Earth. They were forgiven but sent to Earth. They were forgiven but sent to Earth. They were forgiven but sent to Earth.
+In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. They were forgiven but sent to Earth.
+ 
 </summary>
 In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. 
 
@@ -1432,18 +1460,37 @@ Allah's Apostle said, "The Hour will not be established until the son of Mary (i
 </details>
 
 <details>
-<summary>How Christianity was similar to Islam before Council of Nicaea</summary>
+<summary>Monotheistic Christianity before Nicean Creed</summary>
 
 There was a time when Christianity was very close to Islam.
 
 Constantine the founder of Constantinople (a.k.a. Istanbul). Constantine was the first emperor to stop the persecution of Christians and to legalize Christianity. and he accepted Christianity. So, the Roman Empire became Christian.
 
-His son Constantine I initiated the First Council of Nicea.
+Constantine the Great or Constantine I initiated the First Council of Nicea.
 
 Arius who believed that Jesus aws created by God and there are not equal in status was exiled after https://en.wikipedia.org/wiki/First_Council_of_Nicaea during emperor of Rome Constantine 1.
 The Arisian version of Christianity was very close to Islam. 
-Peter the Venerable said that Muhammad saw was the successor to Aries.
+Peter the Venerable said that Muhammad saw was the successor to Arius.
 
+Nicaea was all about Arius and Constantine wanted to establish peace among his own ruling lands.
+There was no Trinity before the Nicaea Creed.
+and the first person who expounded this doctrine was Paul.
+
+Jesus attemded Jewish temples and he just logically couldn't claim that he is God. The disciples also attended Jewish temples and worshipped God alone. 
+Jesus came to revive the religion of Moses, not to build new churches and invent a new religion.
+
+Contradictions in the Bible. Also it is important to take into account that the Bible cannot be fully called the Word of God because it was translated from it's original language and corrupted by writers of multiple epochs.
+
+Jesus was Jewish and he was circumsized. He used to 
+
+
+First reason:
+	1. Paul. who never saw Jesus.
+	2. Nicean Creed.
+	3. All books that didnot agree with the Nicean Creed started to be destroyed. Christians who shared the beliefs of Arius were declared heretics and prosecuted. 
+
+10 Resons why Jesus is not divine from Islamic perspective: https://www.youtube.com/watch?v=pCuxnu_IGUk
+will try to watch this: https://www.youtube.com/watch?v=Yte-ad6Y31s
 
 </details>
 
@@ -1453,12 +1500,14 @@ Peter the Venerable said that Muhammad saw was the successor to Aries.
 
 <details>
 <summary>Descendants of Ibrahim and Ismail</summary>
+Hadith from Sahih Muslim:
 
+> Allah chose Kinanah from descendends of Ismail
+> He chose Quraish from Kinanah
+> He chose Banu Hashim from Quraish
+> He chose me from Banu Hashim
 
-</details>
-<details>
-<summary>Jaahiliyah</summary>
-After introducing idols, Jews ceased to visit the temple of Abraham. Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. 
+Kinanah he was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
 
 Tribes of Arabia:
 	* Ghifar
@@ -1476,26 +1525,22 @@ Tribes of Arabia:
 	* Azd
 	* Kindah
 
-Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad saw died, Arabs conquered both of these empires.
-they did not have buildings, they did not even have a government. they were never united. by modern historic scholars considers this as the same if modern Escimoes conquerred Russia and USA.
+
+</details>
+<details>
+<summary>Jaahiliyah</summary>
+After introducing idols, Jews ceased to visit the temple of Abraham. Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. 
 
 </details>
 
 
 
 <details>
-<summary>Qusayy ibn Kilay</summary>
+<summary>The Quraish Tribe</summary>
 
-Hadith from Sahih Muslim:
+#### Qusayy ibn Kilay
 
-> Allah chose Kinanah from descendends of Ismail
-> He chose Quraish from Kinanah
-> He chose Banu Hashim from Quraish
-> He chose me from Banu Hashim
-
-Kinanah he was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
-
-WHen Khuzagha attacked Jurhum, Jurhum hid the Zamzam before they leave.
+When Khuzagha attacked Jurhum, Jurhum hid the Zamzam before they leave.
 
 At that time, Khuzagha was controlling Mecca. he married chieftan's daughter and after the chieftan died, people wanted Qusayy to take over so he united Quraish tribes and fought against sons of Khuzagha chieftan and reclaimed the control over Mecca for the Quraish.
 
@@ -1503,10 +1548,7 @@ The great-great-greatfather of the Prophet Muhammad saw. after battles it was ag
 
 Many remarkable events are associated with his name. One of these was that he encouraged the people to construct a house with the name of 'Darun Nadwah' adjacent to the Ka'bah and thus founded a Council Hall for the Arabs so that their dignitaries and chiefs might sit together in this public centre and solve their problems. He died in the 5th A.D. and left behind two sons named Abdud Dar and Abd Manaf.
 
-</details>
-
-<details>
-<summary>Hashim</summary>
+#### Hashim
 
 Abd Manaf's son.
 his name is Amr. Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. married an influential Yathrib woman from Khazraj. He fell ill and died in Gaza. (Surah Quraish mentions these caravans.)
@@ -1526,7 +1568,53 @@ Mutallib took Shaybah from Yathrib and brought him to Mecca. He rediscovered Zam
 </details>
 
 <details>
-<summary>**Battle of Elephants** (Year of the elephant) 🐘</summary>
+<summary>Battle of Elephants (Year of the Elephant) 🐘</summary>
+
+>SHORT VERSION:
+>
+>**The Ethiopian governor Abraha** envied pilgrims of Mecca and built a big Christian cathedral in Sanaa. But Arabs didnot change the direction of their pilgrimage. Then, Abraha gathered a **large army with war elephants** 🐘🐘🐘 and marched to destroy Kaaba.
+>
+>Seeing a large army, people of Mecca left the city. Abdul Mutallib and the Quraish were convinced that Allah will protect the Kaaba. And Allah sent a **flock of birds** that throwed stones from Hell to Abraha's army and they all died. 
+>
+>This happened in the year the prophet Muhammad (sww) was born and hence this even it was called The Year of the Elephant.
+>
+>The prophet Muhammad (sww) has received a surah about this event, **surah Al-Fil**.
+
+
+The War of Elephants took place eight years before the death of Abd Al Muttalib. By then, he was the patriarch of the tribe.
+
+The Ethiopian governor of Yemen, Abraha al-Ashram, envied the reverence in which the Ka'bah was held by the Arabs. Being a staunch Christian, he built a big cathedral in Sanaa (the capital of Yemen) and ordered the Arabs to go there for pilgrimage instead. The order was ignored. Not only that; someone entered the cathedral and made it unclean. The wrath of Abraha knew no bounds. In his fury, he decided to avenge it by demolishing and desecrating the Ka'bah itself. He advanced with a large army towards Mecca.
+ 
+There were many elephants in his army; he himself rode a huge elephant. It was an animal which the Arabs had not seen before, thus the year came to be known as 'Amul-Fil (the year of the elephant), and it started an era for reckoning the years in Arabia. This remained in use until the days of 'Umar ibn al ­Khattab when, on the advice of Hazrat 'Ali ibn Abi Talib, he replaced it with the era of Hijra.
+ 
+When news of the advance of Abraha's army came, the Arabian tribes of Quraish, Kinanah, Khuza'ah and Hudhayl joined together to defend the Ka'bah. Abraha sent a small contingent towards Mecca to capture the camels and young people. The contingent captured many animals, including two hundred of 'Abdul-Muttalib's.
+ 
+Meanwhile, a man from the tribe of Himyar was sent by Abraha to Quraish to advise them that Abraha had not come to fight them: his only aim was to demolish the Ka'bah. But if the Quraish resisted, they would be crushed. Then followed a frightening description of his huge army, which, admittedly, was much larger and better equipped than all the tribes put together.
+ 
+'Abdul-Muttalib replied to this ultimatum in these words: "By Allah, we do not want to fight him. So far as this House (the Ka'bah) is concerned, it is the House of Allah; if Allah wants to save His House, He will save it, and if He leaves it unprotected, no one can save it."
+ 
+Then 'Abdul-Muttalib, with 'Amr ibn Lu'aba and some other prominent leaders, went to see Abraha. Abraha was informed before hand of the prestige and position of 'Abdul-Muttalib. Also the personality of 'Abdul-Muttalib was very impressive and awe­inspiring. When he entered Abraha's tent, the latter rose from his throne, warmly welcomed him, and seated him beside him on the carpet. During the conversation, 'Abdul-Muttalib requested him to release his camels. Abraha was astonished. He said: "When my eyes fell upon you, I was so impressed by you that had you requested me to withdraw my army and go back to Yemen, I would have granted that request. But now, I have no respect for you. Why? Here I have come to demolish the House which is the religious center of yours and of your forefathers and the foundation of your prestige and respect in Arabia, and you say nothing to save it; instead, you ask me to return your few camels back to you?!"
+ 
+'Abdul-Muttalib said: "I am the owner of the camels, (therefore, I tried to save them), and this House has its own Owner Who will surely protect it." Abraha was stunned by this reply. He ordered the camels to be released, and the deputation of Quraish returned.
+ 
+On the second day, Abraha issued orders to his army to enter Mecca. 'Abdul-Muttalib told the Meccans to leave the city and to seek refuge in the surrounding hills. But he, together with some leading members of Quraish, remained within the precincts of the Ka'bah. Abraha sent someone to warn them to vacate the building. When the messenger came, he asked the people who their leader was. All fingers pointed towards 'Abdul-Muttalib. He was again invited to go to Abraha where he had a talk with him. When he came out, he was heard saying: "The Owner of this House is its Defender, and I am sure He will save it from the attack of the adversaries and will not dishonor the servants of His House."
+ 
+'Abdul-Muttalib then took hold of the door of the Ka'bah and, crying to Allah, prayed in the following words (of poetry):
+ 
+(O Allah! Surely a man defends his own home, therefore, Thou shouldst protect Thy Own House. Their cross and their wrath can never overcome Thy wrath. O Allah, help Thy Own people against the fellows of the cross and its worshippers).
+ 
+Then he, too, went to the summit of the hill, Abu Qubays. Abraha advanced with his army. Seeing the walls of the Ka'bah, he ordered its demolition. No sooner had the army reached near the Ka'bah than an army of Allah appeared from the western side. A dark cloud of small birds (known in Arabic as Ababil) overshadowed the entire army of Abraha. Each bird had three pebbles: two in its claws and one in its beak. A rain of the pebbles poured down from the birds, and in a few minutes, the whole army was destroyed. Abraha himself was seriously wounded; he fled towards Yemen but died on the way.
+ 
+It is to this important event that Allah refers in Chapter 105:
+ 
+	"Have you not considered, [O Muhammad], how your Lord dealt with the companions of the Elephant? Did He not make their treacherous plan go astray? And He sent against them birds in flocks, striking them with stones of baked clay, so He rendered them like straw eaten up."
+	Quran, 105 Surah Al-Fil
+ 
+Some historians have tried to minimize the impact of the Divine intervention by suggesting that the army perished because of an epidemic of smallpox. But such an explanation creates more puzzles than it solves. How was it that the whole army was seized by that epidemic just when it was advancing on the Ka'bah? How was it that not a single soldier survived that epidemic? Why was it that no Meccan caught that contagious epidemic? Moreover, if there was no epidemic in Mecca before or after that sudden burst of the plague, where did the epidemic come from?
+ 
+This epoch-making episode happened in 570 A.D. It was in the same year that the Holy Prophet of Islam was born to Abdullah and Amina.
+
+
 </details>
 <details>
 <summary>Notable Monotheists</summary>
@@ -1624,6 +1712,16 @@ Abu Bakr is elected his khalifah (representative).
 <summary>Hasan</summary>
 
 </details> 
+
+<details>
+<summary>Miracle of the Early Islamic Expansion</summary>
+
+Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad saw died, Arabs conquered both of these empires.
+they did not have buildings, they did not even have a government. they were never united. by modern historic scholars considers this as the same if modern Escimoes conquerred Russia and USA.
+
+</details> 
+
+
 
 ## 9.3 The Islamic Golden Age
 *******************************************
