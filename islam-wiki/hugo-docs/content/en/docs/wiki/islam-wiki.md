@@ -279,7 +279,7 @@ how small  we are https://www.youtube.com/watch?v=Iy7NzjCmUf0
 <details> <summary> Adam was created from clay.</summary>
 
 According to Quranic creation narrative, God informed the angels, that He was going to create a khalifa (vicegerent) on earth. 
-
+  
 While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
 The Qur'an describes how Allah created Adam.
 

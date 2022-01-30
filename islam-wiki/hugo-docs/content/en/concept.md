@@ -34,12 +34,13 @@ Need to do
 * change the upper line gradient color
 * add a timeline since Ibrahim. now there's no way I can hack bootstrap css on that level
 * seems like I need to upload it somewhere and fix the baseurl in config before it starts to work locally without serve.
-* fix CSS for This-Page-TOC background and border in the bootstrap CSS.
+* [DONE] fix CSS for This-Page-TOC background and border in the bootstrap CSS.
 * add button to go up to the beginning: 
 * incorporate search in the current page: https://stackoverflow.com/questions/51988459/html-searching-on-the-same-page/51988637
 * put search button inside search field
 * Try GitLab Pages. Seems like it's free compared to GitHub Pages.
 
+To fix CSS use files from the /scss/common directory.
 seems like my sense of beauty is falling behind my willingness to fix all CSS issues.
 
 
