@@ -28,7 +28,7 @@ Need to do
 * put the search-box to the upper level
 * transfer the history roadmap from /docs to the /wiki folder.
 * [DONE] expand all toggle (https://stackoverflow.com/questions/43008609/expanding-all-details-tags)
-* dark mode toggle
+* dark mode toggle slider: https://infomate.club/howtoberlin/
 * sticky panel include: dark mode toggle, expand all toggle, Home link, ?search, ?git link
 * write the disclaimer
 * change the upper line gradient color

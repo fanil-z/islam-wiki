@@ -152,7 +152,7 @@ Also, there is a hadith about Munkar and Nakir, two angels questioning the dead.
 
 
 <details>
-	<summary>Creation of the Heavens and the Earth 🌌 🌍 </summary>
+	<summary>Creation of the Heavens and the Earth 🌍 </summary>
 
 In the Quran, the heavens and the earth were joined together as one "unit of creation", after which they were "cloven asunder". After the parting of both, they simultaneously came into their present shape after going through a phase when they were smoke-like. The Quran states that the process of creation took 6 youm(يوم). In the Quran, the word youm (often translated to "era") means day.
 
@@ -252,6 +252,8 @@ Jinn are mentioned approximately 29 times in the Quran. In Islamic tradition, Mu
 In the story of Solomon they appear as nature spirits comparable to Talmudic shedim.Solomon was gifted by God to talk to animals and spirits. God granted him authority over the rebellious jinn and devils forcing them to build the First Temple. In other instances, the Quran tells about Pagan Arabs, calling jinn for help, instead of God. The Quran reduced the status of jinn from that of tutelary deities to that of minor spirits, usually paralleling humans.
 
 The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
+
+the Jinn were allowed to enter heavens to listen to angels. That stopeed when the Iqra came.
 
 </details>
 
@@ -528,12 +530,15 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 ## 4. Ibrahim
 *******************************************
 
+
+<details>
+  <summary>History</summary>
 There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources clain that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. there is scientific evidence that Homo-Sapiens existed for ...
 and the prophet Muhammad saw said that the distance between me and Al Kiyamah is like distance between my two fingers.
 
 Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
 In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is said to have taken place. 
-
+</details>
 
 <details>
 	<summary>Early Life</summary>
@@ -620,7 +625,7 @@ Isaac, along with Ishmael, is highly important for Muslims for continuing to pre
 
 Isaac is mentioned seventeen times by name in the Quran, often with his father and his son, Jacob.[36] The Quran states that Abraham received "good tidings of Isaac, a prophet, of the righteous", and that God blessed them both (37: 112). In a fuller description, when angels came to Abraham to tell him of the future punishment to be imposed on Sodom and Gomorrah, his wife, Sarah, "laughed, and We gave her good tidings of Isaac, and after Isaac of (a grandson) Jacob" (11: 71–74); and it is further explained that this event will take place despite Abraham and Sarah's old age. Several verses speak of Isaac as a "gift" to Abraham (6: 84; 14: 49–50), and 24: 26–27 adds that God made "prophethood and the Book to be among his offspring", which has been interpreted to refer to Abraham's two prophetic sons, his prophetic grandson Jacob, and his prophetic great-grandson Joseph. In the Quran, it later narrates that Abraham also praised God for giving him Ishmael and Isaac in his old age (14: 39–41).
 
-Elsewhere in the Quran, Isaac is mentioned in lists: Joseph follows the religion of his forefathers Abraham, Isaac and Jacob (12: 38) and speaks of God's favor to them (12: 6); Jacob's sons all testify their faith and promise to worship the God that their forefathers, "Abraham, Ishmael and Isaac", worshiped (2: 127); and the Quran commands Muslims to believe in the revelations that were given to "Abraham, Ishmael, Isaac, Jacob and the Patriarchs" (2: 136; 3: 84). In the Quran's narrative of Abraham's near-sacrifice of his son (37: 102), the name of the son is not mentioned and debate has continued over the son's identity, though many feel that the identity is the least important element in a story which is given to show the courage that one develops through faith.[37]
+Elsewhere in the Quran, Isaac is mentioned in lists: Joseph follows the religion of his forefathers Abraham, Isaac and Jacob (12: 38) and speaks of God's favor to them (12: 6); Jacob's sons all testify their faith and promise to worship the God that their forefathers, "Abraham, Ishmael and Isaac", worshiped (2: 127); and the Quran commands Muslims to believe in the revelations that were given to "Abraham, Ishmael, Isaac, Jacob and the Patriarchs" (2: 136; 3: 84). In the Quran's narrative of Abraham's near-sacrifice of his son (37: 102), the name of the son is not mentioned and debate has continued over the son's identity, though many feel that the identity is the least important element in a story which is given to show the courage that one develops through faith.
 
 Quran
 The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jacob are mentioned as being bestowed upon Abraham as gifts of God, who then worshipped God only and were righteous leaders in the way of God:
@@ -628,10 +633,10 @@ The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jaco
 And We bestowed on him Isaac and, as an additional gift, (a grandson), Jacob, and We made righteous men of every one (of them).
 And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).
 
-— Quran, sura 21 (Al-Anbiya), ayah 72–73[38]
-And WE gave him the glad tidings of Isaac, a Prophet, and one of the righteous.
+— Quran, sura 21 (Al-Anbiya), ayah 72–73
+And We gave him the glad tidings of Isaac, a Prophet, and one of the righteous.
 
-— Quran, sura 37 (As-Saaffat), ayah 112[39]
+— Quran, sura 37 (As-Saaffat), ayah 112
 
 Isaaq and Rebecca a re parents of Jacob and Esau
 </details>
@@ -652,16 +657,16 @@ Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the 
 Abraham sacrificing his son, Ishmael; Abraham cast into fire by Nimrod
 The general narrative pertaining to Ishmael in Islamic literature describes the sacrifice either as a test or as part of a vow. Some versions tell of the devil trying to stop God's command from being obeyed by visiting Hagar, Ishmael, and Abraham. Every time the devil says Abraham is going to sacrifice Ishmael, each person answers that if God commanded it, they should obey. Eventually, Abraham tells Ishmael about the order and Ishmael is willing to be sacrificed and encourages Abraham to listen to God. Often, Ishmael is portrayed as telling Abraham some combination of instructions to bring his shirt back to Hagar, bind him tightly, sharpen the knife, and place him face down, all so that there will be no wavering in the resolve to obey God.
 
-As Abraham attempts to slay Ishmael, either the knife is turned over in his hand or copper appears on Ishmael to prevent the death and God tells Abraham that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm).[9] Since the sacrifice of a ram cannot be greater than that of Abraham's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ishmael) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Abraham's sacrifice and to remind themselves of self-abnegation in the way of Allah.[10] Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ishmael.[2][7]
+As Abraham attempts to slay Ishmael, either the knife is turned over in his hand or copper appears on Ishmael to prevent the death and God tells Abraham that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm).[9] Since the sacrifice of a ram cannot be greater than that of Abraham's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ishmael) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Abraham's sacrifice and to remind themselves of self-abnegation in the way of Allah.[10] Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ishmael.
 
-The actions of Ishmael in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Abraham talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ishmael makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ishmael is a model of surrendering one's will to God, an essential characteristic in Islam.[11]
+The actions of Ishmael in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Abraham talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ishmael makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ishmael is a model of surrendering one's will to God, an essential characteristic in Islam.
 
 Though it is generally believed by modern Muslims that Ishmael was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ishmael.[2]: 135  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.[2]: 144  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage.[8]: 87 Arguments by early Muslim scholars for Ishmael as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ishmael, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time.[7]: 88–90  In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ishmael in the Quran is that directly after the sacrifice narrative, Abraham is told of the coming of Isaac's birth, therefore, it must be Ishmael who was about to be sacrificed.[7]: 88  However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac.[2]: 135–136 [7]: 89  Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
 
 Construction of the Kaaba
-At some point, often believed to be after Hagar's death, Ishmael married a woman from the Jurhum, the tribe who settled in the area around Zamzam. Abraham visited Ishmael in Mecca and when he arrived at his home, Ishmael was not there. Instead Ishmael's wife greets Abraham, but she was not welcoming or generous to him. Abraham instructed her to tell Ishmael some version of the statement that he was not pleased with or to change "the threshold of his door." When Ishmael returns home and his wife told him that, he knows it is from his father and taking the advice, divorced the woman. He then married another woman from Jurhum. Abraham once again visited and was met by Ishmael's second wife, as Ishmael was out. This wife was very kind and provided food for him. Abraham instructed her to tell Ishmael some version of the statement that he was pleased with "the threshold of his door." When Ishmael arrived and his wife repeated Abraham's statement, Ishmael knew it was from his father and kept his wife.[2][7]
+At some point, often believed to be after Hagar's death, Ishmael married a woman from the Jurhum, the tribe who settled in the area around Zamzam. Abraham visited Ishmael in Mecca and when he arrived at his home, Ishmael was not there. Instead Ishmael's wife greets Abraham, but she was not welcoming or generous to him. Abraham instructed her to tell Ishmael some version of the statement that he was not pleased with or to change "the threshold of his door." When Ishmael returns home and his wife told him that, he knows it is from his father and taking the advice, divorced the woman. He then married another woman from Jurhum. Abraham once again visited and was met by Ishmael's second wife, as Ishmael was out. This wife was very kind and provided food for him. Abraham instructed her to tell Ishmael some version of the statement that he was pleased with "the threshold of his door." When Ishmael arrived and his wife repeated Abraham's statement, Ishmael knew it was from his father and kept his wife.
 
-There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Abraham build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Abraham to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ishmael assisted his father. Of those that say Ishmael took part in the construction, most describe Abraham visited Ishmael a third time in Mecca, during which they raised the Kaaba. Some say Ishmael looked for a final stone, but Abraham did not accept the one he brought back. Instead an angel had brought the Black Stone, which Abraham put into place. Ishmael was left at the Kaaba, in charge of its care and to teach others about the Hajj.[2][7] The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Abraham with the Hajj after Islam had developed to help remove its connection to early pagan rituals.[2]: 101 
+There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Abraham build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Abraham to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ishmael assisted his father. Of those that say Ishmael took part in the construction, most describe Abraham visited Ishmael a third time in Mecca, during which they raised the Kaaba. Some say Ishmael looked for a final stone, but Abraham did not accept the one he brought back. Instead an angel had brought the Black Stone, which Abraham put into place. Ishmael was left at the Kaaba, in charge of its care and to teach others about the Hajj. The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Abraham with the Hajj after Islam had developed to help remove its connection to early pagan rituals.[2]: 101 
 
 * Hajar and Zamzam
 	The story that an angel comes to comfort Hajar is also mentioned in the Bible. it also says that Ishmael will have so many descendants that it will be difficult to count.
@@ -1525,6 +1530,18 @@ Tribes of Arabia:
 	* Azd
 	* Kindah
 
+  Ancient Arabs: Add and Thamud.
+Yagrub's father was Kakhtan and believed to be  tehe starter of the Arab languange.
+Kakhtan was the son of SAm. and Sam is the son of Nuh. from SAm we get Saimtes.
+Most probably the son of Adnan lived at the time of Isa AS. 
+570 years between Isa and the prophet Muhammad.
+Jewish Calendar and Orthodox Chiristians believe that poeple have been around the Earth for around 6 thousand years. it is not islamic.
+There are some cave paintings that are 30thousand years old. These were not Neanthertals these were Homo-Sapiens.
+So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet SAW said that the time between now and the day is like his two fingers. And now it is 1443 year afterHijrah. So it gives possibility to extend the humanity timeline as long as science findings. WE don't have a set timeframe.
+ THe Quraish was the best and the Bani Hashim tribe was  the best most noble tribe.
+Mudr was the first to use camels into caravans.
+Kinanah was noble. People used to do Hajj to meet Kinana. He was a legendary Arab full of knowledge. from Kinana Allah chose Quraish. Onw person who combines all Quraish is Fahr. All promised Paradise are from Quraish. There are about 12 tribes ofQuraish. Khusay gathered Quraish reclaimed MEcca for QUraish and made the rules of  Kaaba and hospitality and storing of the key and water.  there was no ZAmzam at that time. Whne Khuzahah attacked Jurhum, people buried the well of Zamzam. for over 300 years peoplewereforcedto dig wells from other places. 
+Hashim extablished trading betwwen Basra and Yemen. HAshim became wealthy.he fed the pilgrims. The surah Quraish is about this. it wasnot allowed to rob Quraish caravans because they protected the Qaaba. One of wives of Hashim was from Yathrib. So the prophet SAW hab blood relations with the Ansar.  
 
 </details>
 <details>
@@ -1561,10 +1578,17 @@ One of Hashim's wives was from Yathrib.
 
 <details>
 <summary>Abd'al Muttalib</summary>
-
-his name was Shaybah. 
+His real name was Shaybah. 
 Muttalib younger brother of Hashim who took over the right of watering the pilgrims and levying the tax to feed them.
-Mutallib took Shaybah from Yathrib and brought him to Mecca. He rediscovered Zamzam
+Mutallib took Shaybah from Yathrib and brought him to Mecca. 
+
+Abdull Mutallib: 1. rediscovery of Zamzam. 2. His vow to sacrifice Abdallah. 3. Battle of the Elephant. Mutallib want to claim the Zamzam prestige on his family so he prays that if Allaha gives him 10 sons to protect him, he will sacrifice one of them for Allah. The tribes decide to go to the fortuneteller to decide the destiny of Zamzam but they get lost and without food they decide that everyone should dig their own graves. so while they dig Muttalib again finds water. So tribes decide that this is the sign and claim that Zamzam is his.
+Mutallib had 18 children. 12 sons.the priestess told hom to exchange Abdallahs life for 100 camels. 
+Abrahah decided to destroy the Qaaba. 8-20elephants. 
+People left the Qaaba. and prayed. 
+The elephants stopped from entering. Then came the birds with stones from Jahannam. and their skin dissolved.
+At that time Amina ra was pregnant by the prophet Muhammad SAW.
+
 </details>
 
 <details>
@@ -1628,20 +1652,158 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 
 ## 9.1. Prophet Muhammad saw 
 
-### Early Life
+#### Meccan Period
 
-* 570 the Prophet Muhammad saw is born
-* Childhood
-* Signs of Prophethood
-* Marriage to Khadeeja
+<details>
+<summary><b>570</b>: The Prophet Muhammad saw is born</summary>
+Aminah married AbdAllah they have spent only several days together then Abdallah had to leave with the caravan to Syria. He fell ill on the way and died.
+570 the prophet SAW was born - 8 June 632 CE
+There are different opinions on the exact date when the prophet Muhammad was born and festivals were introduced centuries after the prophet Muhammad SAW died. 
+If you really want to celebrate the prophet Muhammad's SAW birthday, yhou should fast on Mondays. Because that is what he would do.
+</details>
 
-### Meccan Period
+<details>
+<summary>Childhood</summary>
+it was a custom of that time to send children to be raised in the desert tribes. 
+When the prophet SAW was 4, Jibril came in the form of a man and opened up his chest and took his heart out and took out the black portion and said this is shaitan's portion in you.  It is said that shaitan pricks every child when they are born. 
+He became orphaned several times. His dad died, his mother died and his grandfather died.
+There's the whole science that studies the authenticity of Hadith. People study four years at the university to distinguish between authentic and non-authentic hadith.
+</details>
 
-* 610 First Surah
+<details>
+<summary>Signs of Prophethood</summary>
+There is a narration that Abi-Talib took the prophet SAW with him and the monk from the monastery told that this boy will be the prophet. This narration is not authentic and that story was most probably invented.
+The prophet Muhammad SAW was a shepherd.
+Solitude of shepherd gives opportunity to contemplate on the nature and teaches how to rule. Also, sheep shepherds are the most humble shepherds.
+</details>
+
+<details>
+<summary>Early Manhood</summary>
+
+Somebody from Kinana killed a man Khawasin (Kays A'glan) branch and they attacked people in Haram.
+(around 15) The prophet SAW participated in wars of Fijar. he was responsible for looking for arrows and bring them back. They reached a peace treaty.
+(around 20) The treaty of Mutayyabin. a person from Zubayd tribe 
+AzZubayr organized the pact
+Pact in the house of Abdulla ibn Judhan.
+They will side with the opressed regardless of to which tribe the opressor belongs.
+Treaty of No-Business.
+Muslims should have involvement in society, not only in problems of muslims but the problems of all the opressed. React to social problems. 
+He was the youngest participant of the pact.
+At the time of Jahilia they knew about the true religion of Ibrahim AS, yet they chose to diol worship.
+</details>
+
+<details>
+<summary>Marriage to Khadeeja</summary>
+
+Hadija was the richest woman in Mecca. She was married two times but her husbands died early.
+
+When the prophet Muhammad sww was 25.
+The prophet Muhammad was to shy to take his wage from Khadija's sister. 
+He took the caravan to Bosra outside Damascus. 
+some narrations say she was 40, ibn Iskhak reposrta that Khadija was 28.
+they had 6 children.
+Al Kasim died at 6-8
+Zaynab
+2
+Um Kulthum
+Fatima
+Abdallah died in infancy
+Then Allah sent the sura Kawsar
+
+</details>
+
+<details>
+<summary>Rebuilding of Kaaba</summary>
+
+Kaaba at that time was destroyed by flood 5 years before the prophecy.
+Ceasar of Rome sent supplies to build a church in Yemen but the ship almost sank was ended up in Judda. so Quraish bought the marble stones and wood and the craftsmen.
+They stopped building the Kaaba for 5 five days arguiing on who is gion to put the black stone in. until decided that the first person who enters the holy house will decide who will put the black stone. Everyone rejoiced when they saw Muhammad SWW, because he had the highest reputation among Meccans as the most just and truthful. 
+
+The Prophet Muhammad said them to bringa cloth and to put the stone on the cloth. Then, he told each representative of a tribe to hold the cloth and bring the stone to the Kaaba. The Prophet Muhammad then himself placed the stone to its place. Tribes rejoiced for handling this issue without bloodshed.
+
+They changed the Kaaba:
+1. They could not build the foundation as the original Kaaba which was a rectanlge.
+2. made it higher
+3. made the door higher
+4. made the waterspout
+the prophet saw I would rebuild it on the original pillar of Ibrahimif people werenot so new to islam. 
+Abdallah ibn Zubayr separated and made his own khaliphate. he rebuilt te Kaaba and followed the hadith.
+He was crucified in fromt of the Kaaba and that man destroyed it and rebuilt it.
+</details>
+
+<details>
+<summary>Adoption of Zayd ibn Haritha</summary>
+
+Zayd is from Kakhtani branch of Arabs, his mother and father were from different tribes. He was kidnapped and sold into slavery to get revenge on Zay's father's tribe. he was 7-8.
+They sold him for 400 dirhams to Hakim the nephew of Khadija. Zayd becomes Khadija's child. after marrying to the prophet Muhammad SAW she gives Zayd to the prophet SAW.
+
+Zayd's father is looking for his son. During Hajj season smo recognized Zayd and asked him questions and made sure he is Zayd. So father and uncle travel to Mecca and wanted to sell Zayd back.
+
+Zayd was about 25 at that time. He has been with the prophet SAW for at least 10 years. 
+So the prophet let Zayd choose if he want to go home with his father or stay with him.  Zayd immediately choses to stay. 
+
+The prophet SAW took Zayd to Qaaba and announced that from now on Zayd is a free man and he is the adopted son of Muhammad SAW. 
+
+Usama ibn Zayd was born in the house of the prophet Muhammad SAW.
+
+After freeing Zayd married Zaynab from Quraish.  Zayd has a blessing of being the only companion name mentioned in the Quran. Zayd was martyred  
+
+Some of he sahaba have said that if Zayd was alive when the prophet SAW died, he would have been the khalifa.
+
+</details>
+
+
+#### Iqra: First Revelation 
+
+<details>
+<summary><b>610</b>: First Surah</summary>
+
+the cave if you sit there you see the Kaaba. 
+before the revelation, he began to hear the rocks and stones say salam in his path.  he began having the dream about what would happen the next day. dreams lasted 6 full months. the prophet SAW cut himself from society and worship Allah. AS soon as he received the Revelation he never left the society.
+
+The revelation began on Monday one of the last 10 days of Ramada (Laylatul Qadr).
+Why is Jibreel scqeezing him? The guess is to indicate this is real and not a dream, indicating that the message will be heavy, and indicating about three traumatic experiences. 
+</details>
+
 * 612 starts to preach
-* 616 persecution of the first Muslims
-* 620 Arabs from Yathrib meet the prophet Mohammad saw and invite him
-* 622 Hijrah. together with 70 families the prophet Muhammad saw moves to Yathrib nd renames it to Medina. The beginning of the Muslim era.
+<details>
+<summary><b>610</b>: First Surah</summary>
+ 
+</details>
+
+<details>
+<summary><b>616</b>: Persecution of the first Muslims</summary>
+ 
+</details>
+
+<details>
+<summary><b>610</b>: Boycott</summary>
+ Amr ibn 'As came from Yemen to mecca, the prophet told him to go back and wait for his victory. then he comes to Medina.
+</details>
+
+
+<details>
+<summary>Isra 'Al-Miraj </summary>
+ 
+</details>
+
+
+#### Hijrah
+
+<details>
+<summary><b>622</b>: Arabs from Yathrib meet the prophet Mohammad saw and invite him</summary>
+ 
+</details>
+ 
+<details>
+<summary><b>621</b>:  70 families move to Yathrib  </summary>
+ 
+</details>
+<details>
+<summary><b>622</b>: Assasination Attempt and Hijra</summary>
+The beginning of the Muslim era. 
+and renames it to Medina.
+</details>
 
 ### Medina Period 🕌
 
@@ -1656,6 +1818,9 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 * Conquest of Khaybar oasis: Jews barricade themselves in a fort at Khaybar oasis and are allowed to remain living there if they pay the Muslims one third of their produce.
 * Umrah of the prophet Muhammad saw
 * 630 The Meccans violate the Treaty of Hudaybiyyah. Muslims march on Mecca with 10k army. Meccans recognize their defeat and open the gates.
+
+### Last Years of The Prophet Muhammad (sww)
+
 * "Farewell Hajj Pilgrimage": This is the only Hajj pilgrimage in which Muhammad participates.
 * 632 Death of the Prophet Muhammad saw.
 Abu Bakr is elected his khalifah (representative).
