@@ -40,6 +40,68 @@
   padding-right: 15px;
 }
 
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
 #  .navbar {
 #  	position:-webkit-sticky;
 #  	position: sticky;
@@ -1465,7 +1527,7 @@ Allah's Apostle said, "The Hour will not be established until the son of Mary (i
 </details>
 
 <details>
-<summary>Monotheistic Christianity before Nicean Creed</summary>
+<summary> Christianity before Nicean Creed</summary>
 
 There was a time when Christianity was very close to Islam.
 
@@ -1765,20 +1827,71 @@ The revelation began on Monday one of the last 10 days of Ramada (Laylatul Qadr)
 Why is Jibreel scqeezing him? The guess is to indicate this is real and not a dream, indicating that the message will be heavy, and indicating about three traumatic experiences. 
 </details>
 
-* 612 starts to preach
 <details>
-<summary><b>610</b>: First Surah</summary>
+<summary><b>612</b>: Prophet Muhammad sww starts to preach</summary>
  
+5 stages of da'wa:
+1. Private da'wa (3 years)
+2. Open preaching with the tongue without military confrontation (10 years) last 6 were very difficult
+3. Open da'wa with the tongue with physical fight only with one party (only QUraish)
+4. Open da'wa to all with 'izza. attack only if you need to defence (from treaty of Hudaybia until the conquest of Mecca)
+5. Open da'wa along with physical confrontation against anyone who opposes islam.
+After receiving a certain ayah, the prophet SAW gathered banu Hashim and made khutbah to them. Abu Lahab opposed saying that we have our fathers ways and who is this man to say the different.
+Then the prophet SAW climbed on top of Safa and made the message public. He asked do you trust me and they replied oh yes we havent heard from you any lie. and he said the message to the tribes.
+Abu Lahab threw sand in the direction of the prophet SWW. 
+Banu Hashim people started to press on Abu Talib to stop his preaching or give him to other tribes. They couldn't touch the prophet Muhammad SWW if Abu Talib doen't give permission. 
+Do what you will, my nephew, for Wallahi I will not come to you again to stop your preaching.
+All Quraish tribe people came to Abu Talib trying to exchange sons between tribes.
+It was the whole Quraish against Abu Talib but he protected the prophet SWW till the last day. However it is believed that he didn't accept islam.
+Abu Talib was one of the famous poets of Quraish.
+
 </details>
 
 <details>
 <summary><b>616</b>: Persecution of the first Muslims</summary>
- 
+
+The first person who believed in the Prophet Muhammad was Khadijah. After the prophet sww came home and asked to cover him, he told what happened to Khadijah. She believed that he saw the truth and said that Allah would not let you down.
+
+ ibn Masood was the first to recite the Quran besides the prophet SWW.
+abu Jahl, Abu Sufyan listened to recitation secretly in the morning near the house of the prophet SWW.
+the most famous poet of Quraish (Bani Maghzum) was Al Walid al Mughira. his vice wa abu Jahl. Al Walid heard the recitation and was mesmerized but Abu Jahl said that there will be no respect from his people until he says something bad about the recitation.
+Allah ST send ayahs about Al Walid that we gave him money and many sons
+he says there is special type of magic
+Three questions:
+1. about men in the cave
+2. about Dhul Karnain
+3. knowledge of the Ruh (no one knows the ruh and you have been given just a little of knowledge)
+Abu Jahl is firaun of my ummah. Abu Jahl tortured slaves and boycotted muslim businessmen. 
+Ammar, Sumayah, Bilal, Khabbab 
+Bilal didnt give up and refused to budge. He would say Ahadun Ahad. his master would pin him near the stone under the sun for the whole day.
+Khababb was a swordsman. his back was in briuses and showed his back to Umar ra.
+
+
 </details>
 
 <details>
 <summary><b>610</b>: Boycott</summary>
  Amr ibn 'As came from Yemen to mecca, the prophet told him to go back and wait for his victory. then he comes to Medina.
+
+Abu Dharr al-Ghifari came to the Prophet SWW and Abu Bakr showed him the house. The prophet Muhammad sww told him to go back to his tribe and preach the onennes of GOd and doing good deeds and wait until he hears about the victory of Muslims and until then don't tell about your religion here. Abu Dhar goes to Kaaba and proclaims that he is a muslim, then he gets savagely beaten. People stop only after they realize that they will get revenge from Al-Ghifari if he dies.
+Abu Dharr comes home and starts to preach. Afte Hijra he comes to Medina with a lot of followers from his tribe.
+
+a man put camel guts on the prophet SAW when he was praying and Fatima removed them, the prophet SAW made dua against 7 people including Abu Jahl untill their faces turn pale. Abdullah ibn Masood said that he saw all these seven people in the battle of Badr and all of them were dragged to the Pit.
+
+Why Allah ST allowed all these? All prophets and their followers suffered. Allah did not create us for a comfortable life. Your purpose is to earn Allah's mercy to get to Paradise. It is the wisdom of Allah to test us. 
+Did mankind think that Allah will leave them without being tested. without being tried.
+
+Khabbab asked the prophet SAW for how long we will endure this.
+There were muslims persecuted more than you. The prophet SAW said Allah is going to succeed this religion. A lady shepherd wil take her flock and she will be scared only Allah and wolves.
+
+house of Al Arkham. secret meeting place. near safa beacause many people go there and no suspision is raised. 
+
+At the 5th year of da'wa the prophet SAW said that there's a christian king in Abyssinia who is just and would let you worship Allah without hardship. najashi his name was Akhus smt.
+11men and 4 women emigrated. among them was Uthman with Ruqaya, Abdurahman ibn Awf, Abu Salamah, Um Salamah, 
+Christians dont have the law because they follow the version of Paul who said that Jesus AS came to abrogate the law. Jesus PBUH never ate pork and lived the life of a jew. 
+There were different opinions until Naysean Creed where Constantine decided that christians must believe in the trinity. Aries did not agree with that so Constantine ordered to execute him. he escaped to south
+all branches of christianity before the naysean creed disappeared.
+
 </details>
 
 
@@ -1798,6 +1911,15 @@ Why is Jibreel scqeezing him? The guess is to indicate this is real and not a dr
 <details>
 <summary><b>621</b>:  70 families move to Yathrib  </summary>
  
+
+Suhaib al-Rumi. He was taken as a slave by Byzantine soldiers as a young boy, and 20 ears he lived in Byzantine lands as a slave speaking Greek and forgot Arabic. He escaped from bondage and headed to Mecca. Abdullah ibm Judan took him as mawliya he engaged in trade and became rich. He was not tortuted very harshly. Before hijra to MEdina the Quraish tried to stop him but he threatened them with arrows. 
+
+You came to Mecca weak and poor and you have acquired what you have acquired.."
+
+"What would you say if I leave you my wealth?" interrupted Suhayb. "Would you get out of my way?" "Yes," they answered.
+
+Suhayb described the place in his house in Mecca where he had left the money, and they allowed him to go. When Suhayb reached Quba, just outside Medina, Muhammad saw him approaching and said, "Your transaction has been fruitful, O Abu Yahya. Your transaction has been fruitful." He repeated this three times. Suhayb's face beamed with happiness as he said: "By God, no one has come before me to you, Messenger of God, and only Jibril could have told you about this."
+
 </details>
 <details>
 <summary><b>622</b>: Assasination Attempt and Hijra</summary>
