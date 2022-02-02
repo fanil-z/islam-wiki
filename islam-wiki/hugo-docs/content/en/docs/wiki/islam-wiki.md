@@ -121,14 +121,16 @@ input:checked + .slider:before {
 <details>
 <summary>DISCLAIMER!</summary>
 	
-	بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem
-
-	First of all, we need to say Allahu 'Alim. Only God know the ultimate truth.
-	Sources of this guide: The Quran, authentic hadiths, The Bible (Old Testament)
-
-	Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus the core structure of this guide is based on stories in the Quran.
-
-	And when it comes to nature and cosmos questions, human mind is just to primitive to understand it.
+>سْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  -- Bismillahir Rahmanir Raheem
+>
+> In the name of God, The Most Merciful The Most Compassionate.
+>
+> First of all, we need to declare Allahu 'Alim. Only God know the ultimate truth.
+> Sources of this guide: The Quran, authentic hadiths, The Bible (Old Testament).
+>
+> Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on stories in the Quran.
+>
+>And when it comes to nature and cosmos questions, human mind is just too primitive to understand it.
 
 </details>
 
@@ -1442,21 +1444,21 @@ In a record by the Sunni exegete Tabari, before the last supper, the threat of d
 Other miracles
 Many stories and narratives have been developed over the years about Jesus, containing certain inherent lessons or providing meaning due to the lack of detail in the Quran regarding Jesus. Some of these narratives are similar in nature to the New Testament, while some portray Jesus in a very human manner.
 
-Besides some detailed summaries of miracles of Jesus mentioned by Muslim writers over the centuries, from adulthood (like walking on water – also found in the Gospel – and causing loaves of bread to come from the ground),[60] some other miracles from childhood include: explaining the Muslim creed fundamentals to a schoolmaster, revealing who the thieves were to a wealthy chief, filling empty jars of something to drink, providing food and wine for a tyrannical king while also proving to this king his power in raising a dead man from the dead, raising a child accidentally killed, and causing the garments from a single-colored vat to come out with various colors.[20]
+Besides some detailed summaries of miracles of Jesus mentioned by Muslim writers over the centuries, from adulthood (like walking on water – also found in the Gospel – and causing loaves of bread to come from the ground), some other miracles from childhood include: explaining the Muslim creed fundamentals to a schoolmaster, revealing who the thieves were to a wealthy chief, filling empty jars of something to drink, providing food and wine for a tyrannical king while also proving to this king his power in raising a dead man from the dead, raising a child accidentally killed, and causing the garments from a single-colored vat to come out with various colors.
 
 Healing a royal official's son
 Main article: Healing the royal official's son
-Al-Tabari (d. 923) reports a story of an adult Jesus' encounter with a certain king in the region and the healing of his son. The identity of the king is not mentioned while legend suggests Philip the Tetrarch. The corresponding Bible reference is "the royal official's son".[70]
+Al-Tabari (d. 923) reports a story of an adult Jesus' encounter with a certain king in the region and the healing of his son. The identity of the king is not mentioned while legend suggests Philip the Tetrarch. The corresponding Bible reference is "the royal official's son".
 
 Greed and truth-telling
 A legendary story of a miracle by a young Jesus, used as a hard-learned lesson popularly found in Middle Eastern lore according to professor Ayoub, has to do with a Jewish man and loaves of bread. Although carrying a polemic tone, the lesson centers on greed with truth-telling woven into the narration. It is a story found often in children's books.[71]
 
 Inherent wisdom
 See also: Logos (Islam) and Logos (Christianity)
-Another legendary miracle story is one regarding Jesus' childhood wisdom. This legend, reported through al-Tabari from ibn Ishaq, talks about Mary sending Jesus to a religious school and the teacher being astonished to find Jesus already knowing the information being taught / discussed.[20]
+Another legendary miracle story is one regarding Jesus' childhood wisdom. This legend, reported through al-Tabari from ibn Ishaq, talks about Mary sending Jesus to a religious school and the teacher being astonished to find Jesus already knowing the information being taught / discussed.
 
 Food in children's homes
-Another story from al-Tabari tells of a young Jesus playing with the youths of his village and telling them what food their parents were preparing for them at home.[20]
+Another story from al-Tabari tells of a young Jesus playing with the youths of his village and telling them what food their parents were preparing for them at home.
 
 According to the details of the narrative, some parents became annoyed and forbade their children to play with Jesus, suspecting he was a magician. As a result, the parents kept their children away from Jesus and gathered their children into a single house. One day, feeling lonely, Jesus went out looking for his friends, and coming upon this house he asked the parents where their children were. The parents lied, responding that the children were not there. After Jesus asks who, then, is in the house, the parents call Jesus a pig. Jesus then says "Let there be swine in this house", turning all the children into swine.[50]
 
@@ -1557,7 +1559,15 @@ First reason:
 	3. All books that didnot agree with the Nicean Creed started to be destroyed. Christians who shared the beliefs of Arius were declared heretics and prosecuted. 
 
 10 Resons why Jesus is not divine from Islamic perspective: https://www.youtube.com/watch?v=pCuxnu_IGUk
-will try to watch this: https://www.youtube.com/watch?v=Yte-ad6Y31s
+
+God is self-sufficient. Jesus ate, slept and prayed. 
+God is not born.
+Jesus and his followers went to Jewish temples and prayed the same way Moses and Ibrahim prayed.
+There are multiple times in the Gospels a statement that noone has seen God. even Jesus himself said I have never seen God.
+
+Jesus prayed prostating his face to the ground.
+
+In that time many good people are called son of God.
 
 </details>
 
@@ -1866,15 +1876,90 @@ Ammar, Sumayah, Bilal, Khabbab
 Bilal didnt give up and refused to budge. He would say Ahadun Ahad. his master would pin him near the stone under the sun for the whole day.
 Khababb was a swordsman. his back was in briuses and showed his back to Umar ra.
 
+</details>
+
+<details>
+<summary><b></b>Migrations to Abyssinia</summary>
+is tribe refused to give him protection, so Abubakr also decided to migrate. 
+ ibm Dagina saw hom migrating and said he will give his protection to Abubakr. he was a chieftan of a neighboring tribe. 
+
+Quraish allowed but said he cannot pray publicly. Abubakr extended his house and begins praying out loud. he actually made a first mesjit.
+
+people would gather around to listen to his recitation.
+Quraish said now he cant pray in his house too.
+Abubakr gave his protection back to Dagina and chose the protection of Allah.
+the migrants came back. 
+
+other Uthman was under protecion of al Walid and he returned it because he felt guilt wihle other muslims were prosecuted.
+
+Emigrants went back to Abyssinia. the Quraish went to najashi with presents and said he must give them the migrants. the Najashi said I will listen to their story. Jagfar and all people came and made his famous speech.
+
+Second wave of migration to Abyssinia around 100 people.
+
+Najashi asked to recite the Revelation. Jagfar recited surah Maryam. 
+Najashi was moved and said Im not going to hand these people.
+Amr ibm Aws said ask them about what they think about Jesus. Jagfar went to najashi again and said that JesusAS was a righteous prophet. It turned out that najashihasn't believed in trinity.  
+
+There is a narration that after migrating to Medina the prophet SAW wrote najashi inviting him to islam and najashi replied back saying I am a muslim and I believe in you and if you tell me I will come to MEdina and serve you. 
+
+When the najashi died, the prophet gathered people and they prayer janazah. it was the only time janazah praed without a body.
+
+Muslims remiained in Abyssinia 10-11 years. The prophet SAW told them to return only after Badr and some time. Allah knows best but there are reports that the prophet SAW had a backup plan if it doesn't work out in Medina.
+
+Umi Habiba's husband died and left alone and the prophet SAW proposed her. Najahsi himself gave the mahr.
+</details>
+
+<details>
+<summary><b></b>Conversion of Hamza and Umar</summary>
+
+Hamza converted to islam. one of strangest conversion stories. 
+
+Abu Jahl was cursing the prophet SAW and his fathers. and the woman of Banu Hashim got insulted and women came to Hamza and said what kind of uncle are you, your nephew is insluted and noone defends him. the whole Mecca saw it. Hamza marched to Abu Jahl and smacked him in the face. How dare you insult him I am also following his religion.
+
+Words just came out in anger. Hamza went home and made dua to guide him.
+
+Next morning he came to his nephew and they talked and Hamza converted. and the prophet SAW finally had support from senior of his tribe. and the Quraish had to turn down. 6th year of da'wa. Only after 3 days Umar converted.
+
+ibn Mas'ud said we were never able to pray in the Haram until Umar converted.
+the prophet SAW gave him a name al-Faruq after they for the first time went  they all together Haram to pray.
+
+Umar before islam liked to drink. the pubs were closed so he went at night to the Kaaba and he heard the prophet SAW praying in front of the Kaaba and heard the recitation.
+
+So he wanted to beat him but stopped and listened. surah alHaqqa. he was amazed. the meccan surahs are eloqient and powerful. he began to think where is this coming from. thatwas the first time. he went home. 
+
+Abu Jahl promises 100 camels for the one who gets rid of the prophet SAW. Umar decided to do it and took his sword. and Nu'ayn has just converted and asked where are you going so he said have you lost your mind. and if you want to know go fix your own family first. your sister and brother in law just accepted islam. so he marched to his sister house and heard the recitation of the Quran. 
+
+Khabbab was assigned to tech the Quran for Fatima ibn Khattab.
+
+He wanted to punch Said ibn Zays but punched his sister. so he calmed down and asked let me see what you are reading. Umar could read and write. Umar took ghusl and read Ta Ha. he asked wher is the prophet SAW. and he went to the house of al Arkham still had a sword. 
+Sahaba saw Umar and scared. Hamza said let him in .
+
+Umar said he came to convert and the prophet SAW said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
+He personally informed Abu Jahl. 
 
 </details>
+
 
 <details>
 <summary><b>610</b>: Boycott</summary>
  Amr ibn 'As came from Yemen to mecca, the prophet told him to go back and wait for his victory. then he comes to Medina.
 
 Abu Dharr al-Ghifari came to the Prophet SWW and Abu Bakr showed him the house. The prophet Muhammad sww told him to go back to his tribe and preach the onennes of GOd and doing good deeds and wait until he hears about the victory of Muslims and until then don't tell about your religion here. Abu Dhar goes to Kaaba and proclaims that he is a muslim, then he gets savagely beaten. People stop only after they realize that they will get revenge from Al-Ghifari if he dies.
+
 Abu Dharr comes home and starts to preach. Afte Hijra he comes to Medina with a lot of followers from his tribe.
+
+
+in the 7th year the Quraish gathered and decided to kill the prophet SAW. 
+Abu Talib didnot agree and the boycot started. all marriages with banuHashim were rejected, all business transactions ceized.
+
+Banu Hashim and Banu Muttalib went to the valley outside Mecca.
+the Quraish wrote the treaty and hanged it inside the Qaaba.
+
+Mut'wa would send food to the valley secretly. also Hakim ibn Hizam would send food.
+TDuring the Hajj season the prophet SAW would leave the valley and continue da'wa and tried to find new converts.
+
+Boycott lasted 2 or 3 years. 
+There was a severe famine and they realized that this is because of the dua of Muhammad SAW.
 
 a man put camel guts on the prophet SAW when he was praying and Fatima removed them, the prophet SAW made dua against 7 people including Abu Jahl untill their faces turn pale. Abdullah ibn Masood said that he saw all these seven people in the battle of Badr and all of them were dragged to the Pit.
 
@@ -1889,16 +1974,67 @@ house of Al Arkham. secret meeting place. near safa beacause many people go ther
 At the 5th year of da'wa the prophet SAW said that there's a christian king in Abyssinia who is just and would let you worship Allah without hardship. najashi his name was Akhus smt.
 11men and 4 women emigrated. among them was Uthman with Ruqaya, Abdurahman ibn Awf, Abu Salamah, Um Salamah, 
 Christians dont have the law because they follow the version of Paul who said that Jesus AS came to abrogate the law. Jesus PBUH never ate pork and lived the life of a jew. 
-There were different opinions until Naysean Creed where Constantine decided that christians must believe in the trinity. Aries did not agree with that so Constantine ordered to execute him. he escaped to south
-all branches of christianity before the naysean creed disappeared.
+There were different opinions until Naysean Creed where Constantine decided that christians must believe in the trinity. Aries did not agree with that so Constantine ordered to execute him. he escaped to south all branches of christianity before the naysean creed disappeared.
 
 </details>
-
 
 <details>
 <summary>Isra 'Al-Miraj </summary>
- 
+ isra means travel at night. Al isra- the night journey. Al miraj means the mechanism of rising high. 
+miraj is a personal gify to the prophet SAW from Allah ST.
+so many narrations about Isra and Miraj. almost half of the hadith from the meccan period are about isra and miraj  
+When isra ocurred? Most commentators say a year before Hijrah.
+Aisha narrated that Hadija dies before the salah became fard. that means that Miras happened within 1.5 years vefore HIjrah. 
+Jibreel came to the prophet SAW and took him to Kaaba. He prayed two raqah then Jibreel opened his chest and washed his heart in a golden bowl inside of which was Zamzam or emaan. probably this was done to prepare the prophet for the isra.
+Musa has the second largest ummah after the prophet Muhammad SAW
+only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad SAW
+
+Isa told this to the prophets.
+Dajjal will come, then Isa AS will come and Dajjal will melt. then people will come to their lands and then Wadjuj and Madjuj will come out and drink all the water. untill Isa AS wil make dua to kill them and they will all die. and the lands will be covered b their bodies. IsaAS will make another dua to get rid of the bodies and Allah will send rain and bodies will be washed away. At this time it will be like a pregnant woman ready to give birth. 
+Ibrahim AS said send my salam to your ummah. and tell them I have seem Jannah. its land is fertile but we must plant the plants ourselves every dhikr becomes a tree. in Jannah .
+Malik the guardian of hell never smiles even when said salam to the prophet SAW. Jibreel said Were he to have smiled to anybody that would have been you.
+The last two verses of surah Al Bakarah were given on the 7th heaven when the prophet SAW was there.
+The first thing Allah created is the Pen.
+Allah said 50 salah a day. Musa said the the prophet SAW go back to your Lord and ask to reduce the number of prayers. the prophet SAW went up and back 5 or 10 times until it was reduced to 5. So the Voice said it is decreed 5 salah but it will be rewarded with 50.
+the importance of salah.
+ fard 17
+sunna 12
+witr tahajjud: 13
+duha 8
+The prophet SAW prayed 50 raqa every day
+
+
+Sunna 
+- "2 rakats before Fajr"
+- "4 rakats before Zuhr and 2 after"
+- "2 rakats after Maghrib"
+- "2 rakats after Isha"[5]
+
+there are 5 layers of Qadr. daily and yearly Qadr may change.
+Celebration of the prophet's SAW birthday started 600 years after his death. many of scholars opposed it. 
+
 </details>
+
+<details>
+<summary>Death of Hadijah and Abu Talib </summary>
+ Abu Talib dies .
+
+Some people gathered and said we need to gather and stop the boycott. St the same time the prophet saw said Abu talib that the treaty has been eaten by termites. All except bismika.. 
+So they opposed Abu jahl
+
+Knowing the truth is not being a Muslim. Being a Muslim means submitting. This is taqwa. There is only one absolute wisdom, and that is the wisdom of Allah ST. And whatever happens we don't question the wisdom of Allah ST. This is what Shaytan did.
+
+Incident of Taif
+
+He SAW comes to tribe's chiefs and they reject his message. then he stays for several days there and preaches. chiefs of Taif send  rif-raffs to throw stones at him so that he goes away. and he SAW goes away under stones. Zayd is shielding him. 
+He makes dua telling that it is Allah's right but it would be easier for him than this hardship.  
+The prophet SAW performed tahajjud. 
+Jinn listened to the prayer and accepted islam. Laylatil jinn. 
+The sahabah thought that the prophet SAW was kidnapped and they were worried.
+He said: One of the callers of the jinn came to me so I went out to meet with them and recited the Quran.
+
+</details>
+
 
 
 #### Hijrah
