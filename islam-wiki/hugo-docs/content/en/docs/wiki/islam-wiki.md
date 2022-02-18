@@ -13,7 +13,7 @@
     #border-right: solid;
     border-right-color: #f4f4f4;
     border-right-width: 0.4px;
-    background-color: #edfbf0e3;
+    background-color: #4ba48b12;
 }
 
   .hljs {
@@ -22,7 +22,7 @@
 
   [data-dark-mode] .col-xl-3 {
     border-right-color: #424242;
-    background-color: #213f3e;
+    background-color: #2144433b;
 }
 
   blockquote {
@@ -38,6 +38,18 @@
   background-color: #213f3e;
   border-left: 4px solid green;
   padding-right: 15px;
+}
+
+h2, h3, h4, h5, .h2, .h3, .h4, .h5 {
+  color: #1d2d35;
+}
+
+[data-dark-mode] h2, h3, h4, h5, .h2, .h3, .h4, .h5 {
+  color: #4aa3a0;
+}
+
+[data-dark-mode] .btn.link {
+  color: #b35fff;
 }
 
 .switch {
@@ -125,12 +137,11 @@ input:checked + .slider:before {
 >
 > In the name of God, The Most Merciful The Most Compassionate.
 >
-> First of all, we need to declare Allahu 'Alim. Only God know the ultimate truth.
+> First of all, we need to declare Allahu alim. Only God know the ultimate truth.
 > Sources of this guide: The Quran, authentic hadiths, The Bible (Old Testament).
 >
 > Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on stories in the Quran.
 >
->And when it comes to nature and cosmos questions, human mind is just too primitive to understand it.
 
 </details>
 
@@ -142,27 +153,30 @@ At first, there was only Allah.
 <details>
 	<summary>First Creations: Throne, The Pen and The Tablet</summary>
 
+#### The Throne
+
 The first creation of Allah was the Throne (Al-'Arsh). It is considered to be the largest creation.
 The Quran mentions the throne some 25 times (33 times as Al-'Arsh). 'Ali ibn Abi Talib, said: "Allah created the Throne as an indication of His power, not for taking it as a place for Himself."
 
-‘Ubadah ibn al-Samit reported: The Prophet, peace and blessings be upon him, said, “Verily, the first to be created by Allah was the pen. 
+#### Al-Qalam (The Pen)
 
-Source: Sunan al-Tirmidhī 3319
+‘Ubadah ibn al-Samit reported: The Prophet, peace and blessings be upon him, said, “Verily, the first to be created by Allah was the pen." Sunan al-Tirmidhī 3319 
 
-Chapter 68 in the Quran is named ‘Al-Qalam’ (the pen). It opens up with the verse: ‘By the pen and what they inscribe.’
+    Chapter 68 in the Quran is named ‘Al-Qalam’ (the pen). It opens up with the verse: "By the pen and what they inscribe."
 
-In Chapter 96 of the Quran one finds another reference to the high value placed on the might of the pen; ‘Who taught by the pen. Taught mankind that which he knew not’ (96:4-5).
+    In Chapter 96 of the Quran one finds another reference to the high value placed on the might of the pen: "Who taught by the pen. Taught mankind that which he knew not" (96:4-5).
 
 Allah told it to write, so the Pen wrote all that will happen until the Final Hour.
 
-'Pen' isthe name of that thing by whose instrumentality Allah has caused the writing on the Tablet. Hence, Allah has ordained the Tablet to serve as an original record, through which the angels, peace be upon them, acquire the knowledge of what is going to happen concerning what is hidden and what is inspired.
+'Pen' is the name of that thing by whose instrumentality Allah has caused the writing on the Tablet. Hence, Allah has ordained the Tablet to serve as an original record, through which the angels, peace be upon them, acquire the knowledge of what is going to happen concerning what is hidden and what is inspired.
 
-Guarded (Preserved) Tablet
-The Preserved Tablet is the record in which Allaah The Almighty has recorded the fate of His creatures before He created them. In this regard, He Says (what means): 
+#### Guarded (Preserved) Tablet
+
+The Preserved Tablet is the record in which Allaah The Almighty has recorded the fate of His creatures before He created them. In this regard, the Quran says: 
 	
-	"Do you not know that Allaah knows what is in the heaven and earth? Indeed, that is in a Record." Quran 22: 70 
+    "Do you not know that Allaah knows what is in the heaven and earth? Indeed, that is in a Record." Quran 22: 70 
 
-In his interpretation of this verse, Ibn ‘Atiyyah  may  Allaah  have  mercy  upon  him said that the record in this verse refers to the Preserved Tablet. Allaah The Almighty also Says (what means): {No disaster strikes upon the earth or among yourselves except that it is in a Record before We bring it into being.} [Quran 57: 22]  The Maaliki scholar, Al-Qurtubi  may  Allaah  have  mercy  upon  him mentioned in his interpretation of this verse that the record mentioned here refers to the Preserved Tablet.  
+In his interpretation of this verse, Ibn ‘Atiyyah said that the record in this verse refers to the Preserved Tablet. Allaah The Almighty also Says (what means): {No disaster strikes upon the earth or among yourselves except that it is in a Record before We bring it into being.} [Quran 57: 22]  The Maaliki scholar, Al-Qurtubi  may  Allaah  have  mercy  upon  him mentioned in his interpretation of this verse that the record mentioned here refers to the Preserved Tablet.  
 
 </details>
 
@@ -171,9 +185,11 @@ In his interpretation of this verse, Ibn ‘Atiyyah  may  Allaah  have  mercy  u
 
 Allah created angels from nur (luminous light).
 
-One of the Islamic major characteristic is their lack of bodily desires; they never get tired, do not eat or drink, and have no anger. As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena. Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good. Belief in angels is one of the main articles of faith in Islam.
+One of the Islamic major characteristic of angels their lack of bodily desires; they never get tired, do not eat or drink, and have no anger. As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena. Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good. Belief in angels is one of the main articles of faith in Islam.
 
-**Jibril** or the Ruh (Gabriel) is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
+#### Jibril
+
+<span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
 
 Daniel saw Gabriel
 
@@ -181,36 +197,38 @@ Ezekiel saw Gabriel
 
 Gabriel came to Zakariyah and tells him that his prayers are heard and that they his wife will give birth to John.
 
-Jibril came to Maryam and told the good news that she will give birth to a child Jesus.
+Jibril came to Maryam and told the good news that she will give birth to a child Isa.
 
 Jibril had special relation with the prophet Muhammed (sww). In most cases he used to come to the prophet in a human form and give a Revelation or explain religious and worldly matters. Documented occasions when Jibril communicated with the prophet Muhammad:
 1. There is an authentic hadith that when the prophet Muhammad was 4-6 years old, Jibril came to him opened up his chest and cleaned his heart in Zamzam water.
 2. Close to the prophecy times, the prophet Muhammad starts to see a man in a dream who later turns out to be Jibril. 
 3. In the cave of the mount Hira, Jibril comes to the prophet Muhammad and says "Iqra!" ("Recite!"). After the prophet says that he does not know what to recite, Jibril huggs him tight and transfers the first surah of the Quran. the prophet Muhammad was so overwhelmed by this experience, that he hurries back home and asks Hadija to cover him with cloth.
 
-**Mikail** the archangel of mercy, is often depicted as providing nourishment for bodies and souls while also being responsible for bringing rain and thunder to Earth. Some scholars pointed out that Mikail is in charge of angels who carry the laws of nature.
+#### Other Angels
 
-**Israfil** (frequently associated with the Jewish and Christian angel Raphael), is the archangel who blows into the trumpet in the end time, therefore also associated with music in some traditions. Israfil is responsible for signaling the coming of Qiyamah (Judgment Day) by blowing a horn.
+<span style="color: yellow"><b>Mikail</b></span> the archangel of mercy, is often depicted as providing nourishment for bodies and souls while also being responsible for bringing rain and thunder to Earth. Some scholars pointed out that Mikail is in charge of angels who carry the laws of nature.
 
-**Azrail**  is the archangel of death. He and his subordinative angels are responsible for parting the soul from the body of the dead and will carry the believers to heaven (Illiyin) and the unbelievers to hell (Sijjin).
+<span style="color: purple"><b>Israfil</b></span> (frequently associated with the Jewish and Christian angel Raphael), is the archangel who is responsible for signaling the coming of Qiyamah (Judgment Day) by blowing a horn.
+
+<span style="color: blue"><b>Azrail</b></span> is the archangel of death. He and his subordinative angels are responsible for parting the soul from the body of the dead and will carry the believers to heaven (Illiyin) and the unbelievers to hell (Sijjin).
 
 Mentioned in Quran:
 * Nāzi'āt and Nāshiṭāt, helpers of Azrail who take the souls of the deceased.
-	* Nāzi'āt: they are responsible for taking out the souls of disbelievers painfully.
-	* Nāshiṭāt: they are responsible for taking out the souls of believers peacefully.
+	* **Nāzi'āt**: they are responsible for taking out the souls of disbelievers painfully.
+	* **Nāshiṭāt**: they are responsible for taking out the souls of believers peacefully.
 * Hafaza, (The Guardian angel):
-* Kiraman Katibin (Honourable Recorders), two of whom are charged to every human being; one writes down good deeds and another one writes down evil deeds. They are both described as 'Raqeebun 'Ateed' in the Qur'an.
-* Mu'aqqibat (The Protectors) who keep people from death until its decreed time and who bring down blessings.
+  * **Kiraman Katibin** (Honourable Recorders), two of whom are charged to every human being; one writes down good deeds and another one writes down evil deeds. They are both described as 'Raqeebun 'Ateed' in the Qur'an.
+  * **Mu'aqqibat** (The Protectors) who keep people from death until its decreed time and who bring down blessings.
 * Angels of Hell:
-	* Maalik, Chief of the angels who govern Jahannam (Hell).
+	* <span style="color: orange">Maalik</span>, Chief of the angels who govern Jahannam (Hell).
 	* Nineteen angels of hell, commanding the Zabaniyya, to torment sinful people in hell.
-	* Those angels who distribute provisions, rain, and other blessings by God's Command.
-	* Those angels who drive the clouds.
-	* Cherubim, who are close to God and request forgiveness for the sinners.
-	* Hamalat al-'Arsh, those who carry the 'Arsh (Throne of God), comparable to the Christian Seraph.
-	* Harut and Marut, often depicted as angels who taught the humans in Babylon magic; mentioned in Quran (2:102).
+* Those angels who distribute provisions, rain, and other blessings by God's Command.
+* Those angels who drive the clouds.
+* **Cherubim**, who are close to God and request forgiveness for the sinners.
+* **Hamalat al-'Arsh**, those who carry the 'Arsh (Throne of God), comparable to the Christian Seraph.
+* **Harut** and **Marut**, often depicted as angels who taught the humans in Babylon magic; mentioned in Quran (2:102).
 
-Also, there is a hadith about Munkar and Nakir, two angels questioning the dead.
+Also, there is a hadith about **Munkar** and **Nakir**, two angels that question the souls of people in the grave after they die.
 
 </details>
 
@@ -218,117 +236,71 @@ Also, there is a hadith about Munkar and Nakir, two angels questioning the dead.
 <details>
 	<summary>Creation of the Heavens and the Earth 🌍 </summary>
 
-In the Quran, the heavens and the earth were joined together as one "unit of creation", after which they were "cloven asunder". After the parting of both, they simultaneously came into their present shape after going through a phase when they were smoke-like. The Quran states that the process of creation took 6 youm(يوم). In the Quran, the word youm (often translated to "era") means day.
+The Qur'an says that the heavens and the earth were joined together as one "unit of creation", after which they were "cloven asunder".
 
-The Qur'an says that `the heavens and the earth were joined together as one unit, before We clove them asunder` (21:30). Following this big explosion 💥, Allah ```turned to the sky, and it had been (as) smoke. He said to it and to the earth: 'Come together, willingly or unwillingly.' They said: 'We come (together) in willing obedience'``` (41:11). Thus the elements and what was to become the planets and stars began to cool, come together, and form into shape, following the natural laws that Allah established in the universe.
+    The heavens and the earth were joined together as one unit, before We clove them asunder 
+    Quran (21:30)
 
-The Qur'an further states that Allah created the sun, the moon, and the planets, each with their own individual courses or orbits. "It is He Who created the night and the day, and the sun and the moon; all (the celestial bodies) swim along, each in its rounded course" (21:33).
+Following this big explosion 💥, the heavens and the earth came into their present shape after going through a phase when they were smoke-like.
+
+    Then He turned to the heaven while it was smoke. He said to the heaven and the earth: "Come (into being), willingly or unwillingly." They said: "We come willingly."
+    Quran 41:11 (Surah Fussilat)
+
+The Qur'an states that "Allah created the heavens and the earth, and all that is between them, in six youm(يوم))" (7:54). While on the surface this might seem similar to the account related in the Bible, there are some important distinctions.
+
+The verses that mention "six days" use the Arabic word "youm" (day). This word appears several other times in the Qur'an, each denoting a different measurement of time. In one case, the measure of a day is equated with 50,000 years (70:4), whereas another verse states that `a day in the sight of your Lord is like 1,000 years of your reckoning` (22:47). The word "youm" is thus understood, within the Qur'an, to be a long period of time -- an era or eon. Therefore, Muslims interpret the description of a "six day" creation as six distinct periods or eons. The length of these periods is not precisely defined, nor are the specific developments that took place during each period.
+
+Thus the elements and what was to become the planets and stars began to cool, come together, and form into shape, following the natural laws that Allah established in the universe.
+
+The Qur'an further states that Allah created the sun, the moon, and the planets, each with their own individual courses or orbits. 
+
+    "It is He Who created the night and the day, and the sun and the moon; all (the celestial bodies) swim along, each in its rounded course" (21:33).
 
 	"The heavens, We have built them with power. And verily, We are expanding it" (51:47)
 
 There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered.
 
-The Qur'an states that "Allah created the heavens and the earth, and all that is between them, in six days" (7:54). While on the surface this might seem similar to the account related in the Bible, there are some important distinctions.
-
-The verses that mention "six days" use the Arabic word "youm" (day). This word appears several other times in the Qur'an, each denoting a different measurement of time. In one case, the measure of a day is equated with 50,000 years (70:4), whereas another verse states that "a day in the sight of your Lord is like 1,000 years of your reckoning" (22:47). The word "youm" is thus understood, within the Qur'an, to be a long period of time -- an era or eon. Therefore, Muslims interpret the description of a "six day" creation as six distinct periods or eons. The length of these periods is not precisely defined, nor are the specific developments that took place during each period.
-
-</details>
-
-
-<details>
-	<summary> Creatures Living on Earth</summary>
-
-Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
-Creation of jinns from smokeless flame, the edge of the flame. 
-After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work.
-
-After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work. A distinct point is made to counter the Biblical idea of a day of rest: "We created the heavens and the earth and all that is between them in six days, nor did any sense of weariness touch Us" (50:38).
-
-Allah is never "done" with His work, because the process of creation is ongoing. Each new child who is born, every seed that sprouts into a sapling, every new species that appears on earth, is part of the ongoing process of Allah's creation. "He it is Who created the heavens and the earth in six days, then established Himself on the Throne. He knows what enters within the heart of the earth, and what comes forth out of it, what comes down from heaven, and what mounts up to it. And He is with you wherever you may be. And Allah sees well all that you do" (57:4).
-
 </details>
 
 <details>
-<summary>Era of Jinns</summary>
+  <summary>Scientific Side-Note</summary>
+  
+    13.8 billion years ago: the Universe started to expand.
+    4.56 billion years ago: the Earth appeared.
+    ??? billion years ago: the Moon appeared. 
+    3.5 billion years ago: Life on Earth began.
+    600 million years ago: Animals appeared.
+    ~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
+    Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
 
-Allah created jinns from smokeless fire🔥. 
+Before 19th centure there was a scientific consensus that the Universe 🌌 is static. But after Einstein's Theory of Relativity, science stated that the Universe is expanding. So, until 19XX science contradicted the Quran. 
+100 years ago, the world’s best scientific minds thought that the universe had always existed. Since it always existed, it didn’t need a Creator.
 
-Jinns are the only creatures besides human that have a free will and they will be judged according to their deeds.
-Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of jinn and he was allowed to be among the angels.
-The term jin occurs thirty nine times in the Qur’an. There is a whole sura called sura al-Jinn, which speaks clearly and
-explicitly about the jinn. They are a part of divine creation separate from humanity and the angels, but they share certain
-qualities with mankind, like intellect, discrimination and the capacity for freedom (Leaman, 2006).
-In the Qur’an, Allah mentions the word jin as jan,
-1 jinnah,
-2 and jin.
-3 The word of al-jan shows in plural meaning and
-indicates as a creature that is hidden from the insights, as mentioned in sura al-Hijr verse 27. This verse explains the jinn
-were created before the creation of mankind, and their origin is from smokeless fire. This fire was taken from the clean,
-pure, extremely hot and the most excellent (Ibn Kathir, 1999; al-Alusi, n.d)
+Einstein changed all that.
 
-Most of exegetes said Jann was the father of jinn as Adam was father to the mankind (Al-Razi, 1981). The jinn live
-in a world that cannot be seen with the senses. According to most of scholars, they eat, drink and procreate. Similar to
-humans, some are righteous while others are not.
+His ‘field equations’ suggested that the universe was expanding like a balloon. The mathematician and Belgian Priest, George Lemaître, realised that this expansion had to have started from somewhere. It must have come from an initial, dense point. This idea became known as the Big Bang. Today, it is the basis for understanding the origin of the universe.
 
-In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39 and khannas in sura al-Nas (The
-Mankind) verse 4 which both mean the jinn. Moreover, the exegetes noted the Qur’an has given a description and
-explanation about the jinn and their social condition. Al-Tabari (2001) for example in his commentary explains that human
-and jinn were created as creatures who have the obligation to surrender and worship God as the creator. Allah mentioned
-in sura al-Dhariyat (The Winnowing Winds) verse 56 that indicates the existence of the jinn which means:
-And I did not create the jinn and mankind except to worship Me.
-According to the majority of scholars the jinn are being obliged to follow the Islamic law that was revealed by Allah
-to His Messenger Muhammad (Al-Shibli, 1985). They are obliged as well as human in obeying of all commands and avoid
-the prohibitions (Bali, 1998, Al-Ashqar, 1999), as described in sura al-Rahman (The Beneficient) verse 13:
-So which of the favors of your Lord would you deny?
-According to al-Razi (1981) in his exegetical work the discussion appearing in this verse is addressed to the jinn
-and mankind. It means that the jinn are obliged to act in accordance with Allah’s orders and to perform worshipping like
-humans.
-From here, the jinn conditions as human beings, among them have accepted the revelation of the Prophet
-Muhammad (pbuh). They are part of the divine creation and have attitudes, namely intellect, ability to be free and
-independent. They have the power to choose between true and false, right and wrong as Allah said in sura al-Jinn
-verse11 below:
-And among us are the righteous, and among us are [others] not so; we were [of] divided ways. 
+What few people know however is that the Holy Quran described the Big Bang perfectly, 1400 years earlier.
 
-According to Arabic linguists there are different categories of jinn: (i) jinni, in general terms. (ii) Amir or dweller if the
-jinn lives in houses with people (iii) Arwah or spirits who interact with children. (iv) Shaytan or Satan if the jinn is wicked.
-(v) if he is worse than that, called marid or demon. (vi) Ifrit, if he is worse than that and strong (al-Shibli, 1985). In general,
-the pagan believe that jinn have hidden powers, giving some benefit and harassment. As Allah says in Sura Saba’ verse
-41:
-They will say, “Exalted are You! You, [O Allah], are our benefactor not them. Rather, they used to worship the jinn; most
-of them were believers in them.”
-Similarly in Sura al-Jinn verse 6, Allah explains that most pagan seek help and protection to jinn. In view of them
-there is collaboration between man and poets of jinn which they can produce beautiful poetry to listen to (Shihab, 2002)
+    "Do not the disbelievers see that the heavens and the earth were a closed-up mass (ratqan), then We opened them out? And We made from water every living thing. Will they not then believe?" 
+    Quran, 21:31
 
+The arabic word ratqan means a closed-up mass. It also means darkness. A dark, closed-up mass is a perfect description of what we know the universe looked like in its earliest moments. The heavens and the Earth were indeed opened out from this mass to produce the universe we see today.
 
-file:///C:/Users/Joelle%20van%20Dyne/Downloads/7599-Article%20Text-29415-1-10-20150904.pdf
+The verse further says that water is the basis of life. This is now an accepted scientific fact. When NASA look for planets that can bear life, they look for water.
 
+For many centuries the Quran contradicted the established opinion of scientists who thought that the universe was static. 
 
-Jinns were transgressing and were not treating animals well.
+Einstein’s equations tell us that the universe is expanding. This discovery surprised everyone.
 
-Angels and Iblis were send to annihilate many jinnns who were transgressing.
+For decades thereafter, scientists thought the universe exploded out of the Big Bang, and has been slowing down ever since. But they were wrong. The universe’s expansion has recently been speeding up. This mysterious re-expansion is driven by what we call dark energy. About 5 billion years ago, this mysterious anti-gravity began pushing the universe outwards once more.
 
-There is a special type of jinns - shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
+The Holy Quran describes this perfectly:
 
-The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation.[25][41][42] However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
+    "And We have built the heaven with might and We continue to expand it indeed."
+    Quran 51:48
 
-Jinn are mentioned approximately 29 times in the Quran. In Islamic tradition, Muhammad was sent as a prophet to both human and jinn communities, and that prophets and messengers were sent to both communities. Traditionally, the 72nd surah, Al-Jinn, named after them, is held to tell about the revelation to jinn and several stories mention one of Muhammad's followers accompanied him, witnessing the revelation to the jinn.
-
-In the story of Solomon they appear as nature spirits comparable to Talmudic shedim.Solomon was gifted by God to talk to animals and spirits. God granted him authority over the rebellious jinn and devils forcing them to build the First Temple. In other instances, the Quran tells about Pagan Arabs, calling jinn for help, instead of God. The Quran reduced the status of jinn from that of tutelary deities to that of minor spirits, usually paralleling humans.
-
-The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
-
-the Jinn were allowed to enter heavens to listen to angels. That stopeed when the Iqra came.
-
-</details>
-
-<details>
-	<summary>Scientific Side-Note</summary>
-	
-	13.8 billion years ago: the Universe started to expand. 
-	3.5 billion years ago: Life on Earth began.
-	600 million years ago: Animals appeared.
-	~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
-	Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
+This verse does not just tell us that the universe has expanded. The arabic ‘la-mūsiʿūna’ tells us that the universe is continuing to expand.
 
 * [Watch a good video](https://www.youtube.com/watch?v=xFXxJva_99c)
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
@@ -336,15 +308,97 @@ the Jinn were allowed to enter heavens to listen to angels. That stopeed when th
 how small  we are https://www.youtube.com/watch?v=Iy7NzjCmUf0
 </details>
 
+<details>
+	<summary> Creatures Living on Earth </summary>
 
+Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
+
+After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work. A distinct point is made to counter the Biblical idea of a day of rest: "We created the heavens and the earth and all that is between them in six youm, nor did any sense of weariness touch Us" (50:38).
+
+Allah is never "done" with His work, because the process of creation is ongoing. Each new child who is born, every seed that sprouts into a sapling, every new species that appears on earth, is part of the ongoing process of Allah's creation. 
+
+    "He it is Who created the heavens and the earth in six youm, then established Himself on the Throne. He knows what enters within the heart of the earth, and what comes forth out of it, what comes down from heaven, and what mounts up to it. And He is with you wherever you may be. And Allah sees well all that you do" (57:4).
+
+</details>
+
+<details>
+<summary>Era of Jinns</summary>
+
+Allah created jinns from smokeless fire🔥, the edge of the flame. 
+
+Jinns are the only creatures besides human beings that have a free will and they will be judged according to their deeds.
+
+Jinns have males and females, they have different religions, tribes, nations.
+
+Jinn are mentioned approximately 29 times in the Quran. In Islamic tradition, Muhammad was sent as a prophet to both human and jinn communities, and that prophets and messengers were sent to both communities. Traditionally, the 72nd surah, Al-Jinn, named after them, is held to tell about the revelation to jinn and several stories mention one of Muhammad's followers accompanied him, witnessing the revelation to the jinn.
+
+In the story of Solomon they appear as nature spirits comparable to Talmudic shedim. Solomon was gifted by God to talk to animals and spirits. God granted him authority over the rebellious jinn and devils forcing them to build the First Temple. In other instances, the Quran tells about Pagan Arabs, calling jinn for help, instead of God. The Quran reduced the status of jinn from that of tutelary deities to that of minor spirits, usually paralleling humans.
+
+the Jinn were allowed to enter heavens to listen to angels. That stopped when the Iqra came.
+
+Jinns lived on the Earth and they could go beyond the Earth. Iblis was the best of jinn and he was allowed to be among the angels.
+
+The term jin occurs thirty nine times in the Qur’an. There is a whole sura called sura al-Jinn, which speaks clearly and explicitly about the jinn. They are a part of divine creation separate from humanity and the angels, but they share certain qualities with mankind, like intellect, discrimination and the capacity for freedom.
+
+In the Qur’an, Allah mentions the word jin as jan, jinnah, and jin. The word of al-jan shows in plural meaning and indicates as a creature that is hidden from the insights, as mentioned in sura al-Hijr verse 27. This verse explains the jinn
+were created before the creation of mankind, and their origin is from smokeless fire. This fire was taken from the clean, pure, extremely hot and the most excellent (Ibn Kathir, 1999; al-Alusi, n.d)
+
+Most of exegetes said Jann was the father of jinn as Adam was father to the mankind (Al-Razi, 1981). The jinn live in a world that cannot be seen with the senses. According to most of scholars, they eat, drink and procreate. Similar to humans, some are righteous while others are not.
+
+In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39 and khannas in sura al-Nas (The Mankind) verse 4 which both mean the jinn. Moreover, the exegetes noted the Qur’an has given a description and explanation about the jinn and their social condition. Al-Tabari (2001) for example in his commentary explains that human and jinn were created as creatures who have the obligation to surrender and worship God as the creator. Allah mentioned in sura al-Dhariyat (The Winnowing Winds) verse 56 that indicates the existence of the jinn which means:
+
+    "And I did not create the jinn and mankind except to worship Me."
+    Quran (al-Dhariyat)
+
+According to the majority of scholars the jinn are being obliged to follow the Islamic law that was revealed by Allah to His Messenger Muhammad (Al-Shibli, 1985). They are obliged as well as human in obeying of all commands and avoid the prohibitions (Bali, 1998, Al-Ashqar, 1999), as described in sura al-Rahman (The Beneficient) verse 13:
+So which of the favors of your Lord would you deny?
+
+According to al-Razi (1981) in his exegetical work the discussion appearing in this verse is addressed to the jinn and mankind. It means that the jinn are obliged to act in accordance with Allah’s orders and to perform worshipping like humans.
+From here, the jinn conditions as human beings, among them have accepted the revelation of the Prophet Muhammad (pbuh). They are part of the divine creation and have attitudes, namely intellect, ability to be free and independent. They have the power to choose between true and false, right and wrong as Allah said in sura al-Jinn
+verse 11 below: `And among us are the righteous, and among us are [others] not so; we were [of] divided ways.`
+
+#### Classification of Jinn
+
+According to Arabic linguists there are different categories of jinn: 
+1. jinni, in general terms. 
+2. Amir or dweller if the jinn lives in houses with people 
+3. Arwah or spirits who interact with children. 
+4. Shaytan or Satan if the jinn is wicked.
+5. if he is worse than that, called marid or demon. 
+6. Ifrit, if he is worse than that and strong (al-Shibli, 1985). 
+
+In general, the pagan believe that jinn have hidden powers, giving some benefit and harassment. As Allah says in Sura Saba’ verse 41:
+
+    They will say, "Exalted are You! You, [O Allah], are our benefactor not them. Rather, they used to worship the jinn; most of them were believers in them."
+
+Similarly in Sura al-Jinn verse 6, Allah explains that most pagan seek help and protection to jinn. In view of them there is collaboration between man and poets of jinn which they can produce beautiful poetry to listen to (Shihab, 2002)
+
+file:///C:/Users/Joelle%20van%20Dyne/Downloads/7599-Article%20Text-29415-1-10-20150904.pdf
+
+There is a special type of jinns - shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
+
+#### Era of Jinn on Earth
+
+[Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
+Jinns were transgressing and were not treating animals well.
+
+Angels and Iblis were send to annihilate many jinns who were transgressing.
+
+The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
+
+
+</details>
 
 
 ## 1. Adam and Eve 
 *******************************************
 
-<details> <summary> Adam was created from clay.</summary>
+<details> <summary> Adam is created from clay</summary>
 
 According to Quranic creation narrative, God informed the angels, that He was going to create a khalifa (vicegerent) on earth. 
+
+    And mention [O Muhammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?" Allah said, "Indeed, I know that which you do not know." 
+    Quran (2:30)
   
 While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
 The Qur'an describes how Allah created Adam.
@@ -355,16 +409,19 @@ The Qur'an describes how Allah created Adam.
 	"He began the creation of man from clay, and made his progeny from a quintessence of fluid"
 	(Quran 32:7-8) 
 
-While the creation of Eve is not described in detail, the Qur'an does make it clear that a "mate" was created with Adam, from the same nature and soul. "It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her in love" (7:189). She is not mentioned by name in the Qur'an, but in Islamic tradition she is known as "Hawwa" (Eve).
+Allah breathed a soul into Adam and Adam sneezed and said "Alhamdulillah". 
 
-From these two individuals, generations of human beings have inhabited the earth. "Oh humankind! We created you from a single pair of a male and a female, and made you into nations and tribes, so that you may know each other (not that ye may despise each other). Verily the most honored among you in the sight of Allah is the who is the most righteous of you. And Allah has full knowledge and is well acquainted (with all things)" (49:13)
+Allah gave Adam knowledge and taught him names.
+Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allah told angels that He knows what they know not.
+
+There is a hadith that Allah showed Adam all of his descendands, and Adam pointed out to Davud and asked who he was. He also asked Allah to add Davud 40 years from Adam's life.
 
 </details>
 
 <details>
 	<summary>Iblis refused to bow down to Adam</summary>
 
-The Qur’an tells the story of Iblis several different times, each time offering different facets of the story. The version most relevant for our purposes, is in the seventh sura. God speaks first.
+The Qur’an tells the story of Iblis several different times, each time offering different facets of the story. The version most relevant for our purposes, is in the seventh sura.
 
 	We created you, We formed you; and then We commanded the angels, "bow down before Adam," and they bowed. But not Iblis; he refused to be one of those who bow.
 
@@ -382,6 +439,16 @@ The Qur’an tells the story of Iblis several different times, each time offerin
 	<summary>Creation of Hawwah (Eve)</summary>
 Adam’s spouse, although commonly referred to as Eve or Hawa, is not mentioned by name in the Quran despite being referred to in many places. The details regarding how Eve was created is not mentioned in the Quran. However, it is made evident that Eve was created from Adam. 
 
+While the creation of Eve is not described in detail, the Qur'an does make it clear that a "mate" was created with Adam, from the same nature and soul. 
+
+    It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her in love (7:189). 
+
+She is not mentioned by name in the Qur'an, but in Islamic tradition she is known as "Hawwa" (Eve).
+
+From these two individuals, generations of human beings have inhabited the earth. 
+
+    "Oh humankind! We created you from a single pair of a male and a female, and made you into nations and tribes, so that you may know each other (not that ye may despise each other). Verily the most honored among you in the sight of Allah is the who is the most righteous of you. And Allah has full knowledge and is well acquainted (with all things)" (49:13)
+
 	"O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women…." Quran [4:1]
 
 The hadith or traditions of Prophet Muhammad (pbuh) further reveal that Eve was created from Adam’s rib which was taken while he was asleep. The narrations that describe this story of the rib is often used to emphasize being gentle and kind to women. 
@@ -390,7 +457,8 @@ The hadith or traditions of Prophet Muhammad (pbuh) further reveal that Eve was 
 
 After Eve was created, the couple was given a place in heaven.
 
-	"And We said, ‘O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.’" Quran [2:35]
+	And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers." 
+    Quran [2:35]
 
 Eve was created to accompany Adam as his companion and life partner, and they were instructed to live together in tranquility. In heaven, Adam and Eve were free to eat and enjoy everything with the exception of one tree. 
 
@@ -400,15 +468,19 @@ The Quran does not describe what kind of tree it was, however, this prohibition 
 <details>
 	<summary>Adam and Eve: Eating from Forbidden Tree 🚻 🐍 🌳 🍎 </summary>
 
-Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live on the Earth.
+Satan tempted Adam and Eve by whispering. Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live on the Earth.
 
 In the Quran, the forbidden tree served as a test for Adam and Eve. Furthermore, God warned Adam and Eve that the devil was an enemy and that they should be on their guard. 
 
-	"So We said, ‘O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer.’" Quran [20:117]
+    So We said, "O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer." 
+    Quran [20:117]
 
 Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispering into their hearts. Claiming to be a sincere advisor, he planted in their minds ideas that would make the forbidden tree appealing. Thoughts of the tree preoccupied both Adam and Eve. Forgetting the warning, they gave in and erred.
 
-	"But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, ‘Your Lord did not forbid you this tree except that you become angels or become of the immortal.’ And he swore [by Allah ] to them, ‘Indeed, I am to you from among the sincere advisors.’ So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, ‘Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?’" Quran [7:20-22]
+    But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, "Your Lord did not forbid you this tree except that you become angels or become of the immortal." 
+    And he swore [by Allah ] to them, "Indeed, I am to you from among the sincere advisors." 
+    So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?" 
+    Quran [7:20-22]
 
 By forgetting God’s command, Adam and Eve bore equal responsibility for their error. This too was a test for Satan, who in fact, furthered his disobedience by exploiting mankind through their desires. 
 </details>
@@ -420,9 +492,12 @@ Through this test, God prepared Adam for his role on earth, as a caretaker and a
 
 After eating from the tree, Adam and Eve became ashamed and deeply regretted their actions. They acknowledged their errors and sought mercy, repenting sincerely [7:23].
 
+    "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers."
+    Quran 7:23
+
 The story of Adam and Eve in the Quran teaches the virtue of repentance and supplication. Adam and Eve recognized their errors and prayed for forgiveness. This, in turn, earned them Allah’s forgiveness and guidance.
 
-"Then his Lord chose him and turned to him in forgiveness and guided [him]." Quran [20:122]
+    "Then his Lord chose him and turned to him in forgiveness and guided [him]." Quran [20:122]
 
 </details>
 
@@ -435,11 +510,11 @@ In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and 
 </summary>
 In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. 
 
-“Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful.” [2:37]
+    “Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful.” [2:37]
 
 Despite being forgiven, Adam and Eve were no longer granted the comforts of paradise and would be sent to Earth. It is important to note that since Allah had mentioned Adam’s mission on Earth long before his test, Adam and Eve’s appointment to earth is not viewed as punishment, instead, it aligns with God’s Plan. The Quran describes the Earth to Adam and Eve as a place in which to reside and enjoy for a period of time, until the day they die and are resurrected (Quran 7:24-25). 
 
-“We said, ‘Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance – there will be no fear concerning them, nor will they grieve. And those who disbelieve and deny Our signs – those will be companions of the Fire; they will abide therein eternally.’” [2:38-39]
+    “We said, ‘Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance – there will be no fear concerning them, nor will they grieve. And those who disbelieve and deny Our signs – those will be companions of the Fire; they will abide therein eternally.’” [2:38-39]
 
 Furthermore, Adam is informed by God that he and his progeny will be sent guidance during their time on Earth. In contrast, Satan, unlike Adam, had not begged for forgiveness and had instead requested respite: a chance to mislead and reveal the inadequacy of mankind. God facilitated this request, but warned that Satan would be powerless over the believers. 
 
@@ -451,18 +526,48 @@ Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Ear
 *******************************************
 
 <details>
+  <summary><b>Children of Adam and Hawwah</b></summary>
+Adam and Eve were descended from Heaven and they began their life on earth. Allah had prepared them in many ways. Allah gave them the experience of struggling against whisperings and tricks of shaytan. He taugh Adam the names of certain things and instructed in its properties and usefulness. Adam took his position as a caretaker of the earth.
+
+Adam (as) was the first prophet of God, who was responsible for teaching his wife and children how to worship Allah (swt) and seek his forgiveness. Adam established the laws of God and set about trying to support his family and learning to subdue and care for the earth. His task was to raise children, cultivate, construct and populate. He was to raise children who would live according to God's instructions and care for and improve the earth.
+
+Quran and the hadith do not clarify the number of children of Adam and Hawwah.
+History books mention that they had 40 children. Ibn Al-Jawzi said that Hawwah gave birth to 20 twins, each time a boy and a girl.
+
+According to the Quran and Bible, lifespan of some prophets was much longer than of modern people. They lived for up to one thousand years. According to Genesis, adam died when he was 930.
+
+Quran says that the first place of worship was built in the current location of Kaaba. There is no information in the Quran or authentic hadith on who built the first House og God. Some commentators of the Quran say that it was built by angels, some that Adam was directed by skies to travel until he arrived at the deserts of Hijaz and he was guided to build a santuary there.
+
+    "The first sanctuary ever constructed for mankind was that at Bakkah (the old title of Makkah), a fortunate location and advice for the worlds".
+    Quran
+
+
+</details>
+
+<details>
 	<summary><b>Habyl and Qabyl</b></summary>
 
-Adam and Eve had many children. Habyl and Qabyl (Abel and Cain), both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat l-māidah). 
-According to the Quran and Bible, lifespan of some prophets was much longer than of modern people. They lived for up to one thousand years.
+Habyl and Qabyl (Abel and Cain). Cain tilted the land while Abel raised cattle.
+
+ both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat l-māidah). 
+
+Shaytan taught him how to kill.
+Cain regretted that he killed his brother and became of the regretful.
+Cain did not know what to do with his brother's corpse. Allah sent two ravens that began fighting, causing the death of one. The victorious bird used its beak and claws to dig a hole in the ground, wolled the victim bird into it and covered it with sand.
+
+    Then Allah sent a crow searching in the ground to show him how to hide the disgrace of his brother. He said: "O woe to me! HAve I failed to be like this crow and hide the body of my brother? And he became of the regretful."
+    Quran (5:31)
+
+This was the first murder and burial on earth by a man.
+
 </details>
 
 <details>
 	<summary><b>Seth</b></summary>
 
-Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel.
+Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel. Medieval historian and exegete al-Tabari and other scholars say that Seth buried Adam.
 
-The Islamic literature holds that Seth was born when Adam was past 100 and that Adam appointed Seth as guide to his people. The 11th-century Syrian historian and translator Al-Mubashshir ibn Fātik recorded the maxims and aphorisms of the ancient philosophers in his book Kitāb mukhtār al-ḥikam wa-maḥāsin al-kalim[16] and included a chapter on Seth. Within Islamic tradition Seth holds wisdom of several kinds; knowledge of time, prophecy of the future Great Flood, and inspiration on the methods of night prayer. Islam, Judaism and Christianity trace the genealogy of mankind back to Seth since Abel left no heirs and Cain's heirs, according to tradition, were destroyed by the Great Flood. Many traditional Islamic crafts are traced back to Seth, such as the making of horn combs
+The Islamic literature holds that Seth was born when Adam was past 100 and that Adam appointed Seth as guide to his people. The 11th-century Syrian historian and translator Al-Mubashshir ibn Fātik recorded the maxims and aphorisms of the ancient philosophers in his book Kitāb mukhtār al-ḥikam wa-maḥāsin al-kalim and included a chapter on Seth. Within Islamic tradition Seth holds wisdom of several kinds; knowledge of time, prophecy of the future Great Flood, and inspiration on the methods of night prayer. Islam, Judaism and Christianity trace the genealogy of mankind back to Seth since Abel left no heirs and Cain's heirs, according to tradition, were destroyed by the Great Flood. Many traditional Islamic crafts are traced back to Seth, such as the making of horn combs
 
 🎷 flute, music and dancing was invented. According to the Bible, Jubal the descendant of Cain invenved flute and music.
 </details>
@@ -471,7 +576,7 @@ The Islamic literature holds that Seth was born when Adam was past 100 and that 
 	<summary><b>Idris (Enoch)</b></summary>
 
 Idris was born when Adam as was alive. Idris is mentioned in the Quran that he was of high class and a prophet. 
-ibris was the first to write.
+idris was the first to write.
 
 Idris is mentioned twice in the Quran, where he is described as a wise man. In surah 19 of the Quran, Maryam, God says:
 
@@ -479,7 +584,7 @@ Idris is mentioned twice in the Quran, where he is described as a wise man. In s
 	And We raised him to a exalted place."
 	Quran 19:56–57
 
-	"And (remember) Isma'il, Idris, and Dhu al-Kifl,[19] all (men) of constancy and patience;
+	"And (remember) Isma'il, Idris, and Dhu al-Kifl, all (men) of constancy and patience;
 	We admitted them to Our mercy: for they were of the righteous ones."
 	Quran 21:85–86 (Yusuf Ali)
 
@@ -495,6 +600,8 @@ The commentator Ibn Ishaq narrated that he was the first man to write with a pen
 
 Early accounts of Idris' life attributed "thirty portions of revealed scripture" to him. Therefore, Idris was understood by many early commentators to be both a prophet as well as a messenger. Several modern commentators have linked this sentiment with Biblical apocrypha such as the Book of Enoch and the Second Book of Enoch.
 
+After Idris, his son and successor Mehthusaleh continued in Allah's path, calling His servants to him.
+
 In the Bible, Enoch receives visions of how the Earth will be destroyed in the End of Times and how people who did good will receive their reward and how people who did bad deeds will receive their punishment.
 
 </details>
@@ -502,14 +609,49 @@ In the Bible, Enoch receives visions of how the Earth will be destroyed in the E
 
 <details>
 <summary><b>How Idol Worshipping appeared</b></summary>
+
 There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
+
+    And they have said: "You shall not leave your gods: nor shall you leave Wadd, nor Suwa', nor Yaghuth, nor Ya'uq nor Nasr"(these were the names of their idols).
+    Quran 71:23
+
+Ibn Abbas said in his commentary of the above ayah: "These were idols of Prophet Nuh's nation which in time ended up among the Arabs... These idols were named after some righteous men among Nuh's people..." [Sahih Al-Bukhari]
+
+Long before the arrival of Prophet Nuh (pbuh) people used to practice Tawheed. They worshipeed none but Allah as taught by Prophet Adam (pbuh). Among them were some righteous men, who were well-known for their piety and devotion. When these righteous men died, shaitaan came to the people and inspired them to make statues of them. bearing their names. The intention was to remember their devotion to Allah and to encourage people to be more like them.
+
+People agreed to this seemingly noble idea. They placed the statues where those righteous people used to frequently meet. But they did not worship them.
+
+However, years later, after that generation died, people slowly forgot the purpose of those statues. Shaitaan now came to their descendants and told them that their predecessors used to worship these statues for rain and other blessings. Due to a lack of knowledge, they were fooled by Shaitaan into worshiping the idols, which then their descendants followed as well.
+
+Thus, Shaitaan introduced idol worship among the people of Nuh, peace be upon him. So strong was their belief in the idols that later when Prophet Nuh, peace be upon him, asked them to worship Allah alone, they would not listen.
+    
+    "They put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance."
+    Quran 71:7
+
+#### How Shaitaan Plans his Tricks
+
+Notice how Shaitaan did not simply suggest to the people to worship idols. He gradually and patiently poisoned their minds. A couple of generations later, Shirk seemed normal and even ‘sensible’ to them.
+
+Shaitaan has been using this trick for ages and continues to do so today. One has to only see the fitnah among people nowadays and compare it with a few decades ago. Consider homosexuality for example. It is prohibited by the major religions of the world. Until the 20th century, it was considered immoral and a punishable offence in the US.
+
+Now it has become so rampant that those who disapprove of it, let alone denounce it, are labeled as “intolerant and narrow-minded.” It is being promoted and celebrated widely to make it popular. Even the cartoons that children watch increasingly include homosexual references.
+
 </details>
 
 
-## 3. Noah and the Great Flood ⛴ 🕊 ⛰ 
+## 3. Nuh (Noah) and the Great Flood ⛴ 🕊 ⛰ 
 *************************************
 
-Nuh is the second most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him.
+<details>
+<summary>Short History of Nuh</summary>
+
+> **Nuh** sww is the second most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 
+> 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him. And after all these years he lost hope and made dua to Allah not to leave disbelievers on earth.
+> Allah told Nuh to build a huge arc, take onboard the believers and pairs of animals. Then the great flood began, water was coming both from rains and from the ground. All disbelievers drowned. Only believers on the Arc survived.
+> After the Flood, Nuh with the believers started life on earth anew.
+> Many ancient civilizations have stories of the Great Flood. There are many different variations but the main theme is the same: God sent the Flood to punish evil-doers, and those who were left alive started all over.
+
+</details>
 
 <details>
 	<summary><b>The Great Flood</b></summary>
@@ -556,7 +698,7 @@ Here the examples of all old nations among which existed the story of the great 
 Story of the great flood occurs in:
 the Mesopotamian flood stories, the Genesis flood narrative, Nuh (Noah) in Islam, manvantara-sandhya in Hinduism, the Gun-Yu in Chinese mythology, Deucalion and Pyrrha in Greek mythology, Bergelmir in Norse mythology, the arrival of the first inhabitants of Ireland with Cessair in Irish mythology, in parts of Polynesia such as Hawaii, the lore of the K'iche' and Maya peoples in Mesoamerica, the Lac Courte Oreilles Ojibwa tribe of Native Americans in North America, the Muisca and Cañari Confederation in South America, Africa, and some Aboriginal tribes in Australia.
 
-One example of a flood myth is the Epic of Gilgamesh. Many scholars believe that this account was copied from the Akkadian Atra-Hasis,[a] which dates to the 18th century BC.[3][b] In the Gilgamesh flood myth, the highest god, Enlil, decides to destroy the world with a flood because humans have become too noisy. The god Ea, who had created humans out of clay and divine blood, secretly warns the hero Utnapishtim of the impending flood and gives him detailed instructions for building a boat so that life may survive.[5][6] Both the Epic of Gilgamesh and Atra-Hasis are preceded by the similar Sumerian creation myth (c. 1600 BC)[7]—the oldest surviving example of such a flood-myth narrative, known from tablets found in the ruins of Nippur.
+One example of a flood myth is the Epic of Gilgamesh. Many scholars believe that this account was copied from the Akkadian Atra-Hasis, which dates to the 18th century BC. In the Gilgamesh flood myth, the highest god, Enlil, decides to destroy the world with a flood because humans have become too noisy. The god Ea, who had created humans out of clay and divine blood, secretly warns the hero Utnapishtim of the impending flood and gives him detailed instructions for building a boat so that life may survive. Both the Epic of Gilgamesh and Atra-Hasis are preceded by the similar Sumerian creation myth (c. 1600 BC)—the oldest surviving example of such a flood-myth narrative, known from tablets found in the ruins of Nippur.
 https://en.wikipedia.org/wiki/List_of_flood_myths 
 
 </details>
@@ -712,7 +854,15 @@ First son of Ibrahim.
 Ismael (Arabic: إسماعيل, romanized: ʾIsmāʿēl) is regarded as a prophet and messenger and the founder of Ishmaelites in Islam. He is the son of Ebrāhēm (Abraham), born to Hājar (Hagar). Ismael is also associated with Mecca and the construction of the Kaaba. Ismael is considered the ancestor to Muhammad.
 
 Ismael is the figure known as Ishmael in Judaism and Christianity. These sources include the Quran, Quranic commentary (tafsir), hadith, historiographic collections like that of Muhammad ibn Jarir al-Tabari, and Isra'iliyat (Islamic texts about Biblical or ancient Israelite figures that originate from Jewish or Christian sources).
-Ishmael and Hagar taken to Mecca by Abraham
+
+#### Ishmael and Hagar taken to Mecca by Abraham
+
+Ibrahim, Bibi Hagar and Ismail came across the Makkah Valley. Ibrahim left his wife and infant son near the mount that now covered the Sacred House, under the divine instruction, leaving them with a few dates and a jar of water.
+
+When Hagar ran out of food and water, she left the baby under the sheltered place and ran here and there in search of help or water. She ran toward the hilltop of Safa but didnot locate any sign of spring or habitation. Next, she ran to the neighboring hill, Marwah but again she found nothing.
+
+She ran between two hills seven times calling Allah for mercy. Them suddenly she noticed the noise and came back to her son Ishmael, she say an angel standing beside her baby. The angel was Jibreel, who was striking the ground with his wings so that the watter prattled forth.
+
 Ishmael and Hagar being taken to Mecca by Abraham in Islamic texts[4] is an important part in the story of Ishmael, as it brings the focus to Mecca and is the beginning of Mecca's sanctification as a holy area.[2]: 61  Islamic tradition says Abraham was ordered by God to take Hagar and Ishmael to Mecca, and later Abraham returned to Mecca to build the Kaaba.[5] In many of these accounts, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibral) guides them to the location of the Kaaba, at which point Abraham builds it and afterwards, leaves the other two there (other versions discussed below say the construction of the Kaaba occurred later and that Ishmael took part in it). Generally, it is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. Hagar and Ishmael then run out of water and Ishmael becomes extremely thirsty. Hagar is distressed and searches for water, running back and forth seven times between the hills of Al-Safa and Al-Marwah. Hagar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee.[6] When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam. At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history[7] and are recounted in Reuven Firestone's Journeys in Holy Lands.[2]
 
 Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries.[8]: 92–95  Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art."[8]: 92–93  Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ishmael over Isaac because he was the first child.
@@ -727,7 +877,8 @@ The actions of Ishmael in this narrative have led him to become a prominent mode
 
 Though it is generally believed by modern Muslims that Ishmael was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ishmael.[2]: 135  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.[2]: 144  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage.[8]: 87 Arguments by early Muslim scholars for Ishmael as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ishmael, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time.[7]: 88–90  In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ishmael in the Quran is that directly after the sacrifice narrative, Abraham is told of the coming of Isaac's birth, therefore, it must be Ishmael who was about to be sacrificed.[7]: 88  However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac.[2]: 135–136 [7]: 89  Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
 
-Construction of the Kaaba
+#### Construction of the Kaaba
+
 At some point, often believed to be after Hagar's death, Ishmael married a woman from the Jurhum, the tribe who settled in the area around Zamzam. Abraham visited Ishmael in Mecca and when he arrived at his home, Ishmael was not there. Instead Ishmael's wife greets Abraham, but she was not welcoming or generous to him. Abraham instructed her to tell Ishmael some version of the statement that he was not pleased with or to change "the threshold of his door." When Ishmael returns home and his wife told him that, he knows it is from his father and taking the advice, divorced the woman. He then married another woman from Jurhum. Abraham once again visited and was met by Ishmael's second wife, as Ishmael was out. This wife was very kind and provided food for him. Abraham instructed her to tell Ishmael some version of the statement that he was pleased with "the threshold of his door." When Ishmael arrived and his wife repeated Abraham's statement, Ishmael knew it was from his father and kept his wife.
 
 There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Abraham build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Abraham to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ishmael assisted his father. Of those that say Ishmael took part in the construction, most describe Abraham visited Ishmael a third time in Mecca, during which they raised the Kaaba. Some say Ishmael looked for a final stone, but Abraham did not accept the one he brought back. Instead an angel had brought the Black Stone, which Abraham put into place. Ishmael was left at the Kaaba, in charge of its care and to teach others about the Hajj. The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Abraham with the Hajj after Islam had developed to help remove its connection to early pagan rituals.[2]: 101 
@@ -743,7 +894,7 @@ There are many versions of the construction of the Kaaba that differ in fairly s
 
 
 <details>
-	<summary>Yaqub</summary>
+	<summary>Yaqub (Jacob)</summary>
 Jacob was later renamed to Israel.
 
 #### Yaqub in the Quran and Hadith
@@ -762,26 +913,26 @@ The biblical account of the life of Jacob is found in the Book of Genesis, chapt
 ##### Birth
 Jacob and his twin brother, Esau, were born to Isaac and Rebecca after 20 years of marriage, when Isaac was 60 years of age.[10] Rebecca was uncomfortable during her pregnancy and went to inquire of God why she was suffering. She received the prophecy that twins were fighting in her womb and would continue to fight all their lives, even after they became two separate nations. The prophecy also said that "the one people shall be stronger than the other people; and the elder shall serve the younger" (Genesis 25:25 KJV).
 
-When the time came for Rebecca to give birth, the firstborn, Esau, came out covered with red hair, as if he were wearing a hairy garment, and his heel was grasped by the hand of Jacob, the secondborn. According to Genesis 25, Isaac and Rebecca named the first son Hebrew: עשו, Esau.[11] The second son they named יעקב, Jacob (Ya'aqob or Ya'aqov, meaning "heel-catcher", "supplanter", "leg-puller", "he who follows upon the heels of one", from Hebrew: עקב, 'aqab or 'aqav, "seize by the heel", "circumvent", "restrain", a wordplay upon Hebrew: עקבה, 'iqqebah or 'iqqbah, "heel").[12]
+When the time came for Rebecca to give birth, the firstborn, Esau, came out covered with red hair, as if he were wearing a hairy garment, and his heel was grasped by the hand of Jacob, the secondborn. According to Genesis 25, Isaac and Rebecca named the first son Hebrew: Esau. The second son they named Jacob (Ya'aqob or Ya'aqov, meaning "heel-catcher", "supplanter", "leg-puller", "he who follows upon the heels of one").
 
-The boys displayed very different natures as they matured. "... and Esau was a cunning hunter, a man of the field; but Jacob was a simple man, dwelling in tents".[13] Moreover, the attitudes of their parents toward them also differed: "And Isaac loved Esau, because he did eat of his venison: but Rebecca loved Jacob."[
+The boys displayed very different natures as they matured. "... and Esau was a cunning hunter, a man of the field; but Jacob was a simple man, dwelling in tents". Moreover, the attitudes of their parents toward them also differed: "And Isaac loved Esau, because he did eat of his venison: but Rebecca loved Jacob."[
 
 ##### Blessing of Isaac
 As Isaac aged, he became blind and was uncertain when he would die, so he decided to bestow Esau's birthright upon him. He requested that Esau go out to the fields with his weapons (quiver and bow) to kill some venison. Isaac then requested that Esau make "savory meat" for him out of the venison, according to the way he enjoyed it the most, so that he could eat it and bless Esau.
 
 Rebecca overheard this conversation. It is suggested that she realized prophetically that Isaac's blessings would go to Jacob, since she was told before the twins' birth that the older son would serve the younger.
 
-The Bible tells the story of how Rebecca and JAcob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Ishak and Yaqub being prophets would not do so.
+The Bible tells the story of how Rebecca and Jфcob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Ishak and Yaqub being prophets would not do so.
 
 
 </details>
 
 <details>
 	<summary>Historicity</summary>
-Although archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE;[98], John J. Bimson wrote in 1980: "Since then ... there has been a strong reaction against the use of archaeological evidence in support of the biblical traditions, and Albright's comment could not be repeated with any truth today."[98] Nahum M. Sarna (1978) noted that an inability to date the narratives of the patriarchs does not necessarily invalidate their historicity,[98] a view supported by Bimson, who admitted that "Our knowledge of the centuries around 2000 BC is very small, and our ignorance very great."
+Although archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE;, John J. Bimson wrote in 1980: "Since then ... there has been a strong reaction against the use of archaeological evidence in support of the biblical traditions, and Albright's comment could not be repeated with any truth today."[98] Nahum M. Sarna (1978) noted that an inability to date the narratives of the patriarchs does not necessarily invalidate their historicity, a view supported by Bimson, who admitted that "Our knowledge of the centuries around 2000 BC is very small, and our ignorance very great."
 
 Historicity of the Egyptian episode
-According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan.[106] It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected.[106][107] The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty.[106] The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.[
+According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan. It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected. The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
 </details>
 
 
@@ -789,45 +940,45 @@ According to researches on the historicity of the Old Testament, the descent of 
 <details>
 	<summary>Yusuf</summary>
 
-Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Arabic: يوسف ٱبن يعقوب ٱبن إسحاق ٱبن إبراهيم) (Joseph, son of Jacob, son of Isaac, son of Abraham) is a prophet mentioned in the Quran,[1] and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom.[2] It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Joseph was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Joseph is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Qur'an and bears more details than the Biblical counterpart.[3]
+Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Arabic: يوسف ٱبن يعقوب ٱبن إسحاق ٱبن إبراهيم) (Joseph, son of Jacob, son of Isaac, son of Abraham) is a prophet mentioned in the Quran, and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom. It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Joseph was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Joseph is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Qur'an and bears more details than the Biblical counterpart.
 
-Yusuf is believed to have been the eleventh son of Yaqub (Arabic: يعقوب, Yaqub), and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Joseph."[4] The story begins with Joseph revealing a dream he had to his father, which Jacob recognizes.[5] In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
+Yusuf is believed to have been the eleventh son of Yaqub (Arabic: يعقوب, Yaqub), and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Joseph." The story begins with Joseph revealing a dream he had to his father, which Jacob recognizes. In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
 
-The story of Joseph in the Qurʾān is a continuous narrative. There are more than one hundred verses, and in totality they encompass many years and "present an amazing variety of sciences and characters in a tightly-knit plot, and offer a dramatic illustration of some of the fundamental themes of the Qurʾān."[7] The Qurʾān itself relates to the story's importance in the third verse: "and We narrate unto you aḥsanal-qaṣaṣ (Arabic: أحسن ٱلقصص, "best (or most beautiful) of stories")." Most scholars believe this is referring to Joseph's story, while others, including Ṭabari, argue it is a reference to the Qurʾān as a whole.[8] It asserts and documents the execution of God's rulings despite the challenge of human intervention ("And Allah hath full power and control over His affairs; but most among mankind know it not").[9]
+The story of Joseph in the Qurʾān is a continuous narrative. There are more than one hundred verses, and in totality they encompass many years and "present an amazing variety of sciences and characters in a tightly-knit plot, and offer a dramatic illustration of some of the fundamental themes of the Qurʾān." The Qurʾān itself relates to the story's importance in the third verse: "and We narrate unto you aḥsanal-qaṣaṣ (Arabic: أحسن ٱلقصص, "best (or most beautiful) of stories")." Most scholars believe this is referring to Joseph's story, while others, including Ṭabari, argue it is a reference to the Qurʾān as a whole. It asserts and documents the execution of God's rulings despite the challenge of human intervention ("And Allah hath full power and control over His affairs; but most among mankind know it not").
 
 This is what the story of Yūsuf confirms categorically, for it ends with comfort and marvels, which is described in the Qurʾān. Along with the story there is also some commentary from some leading scholars of Islam.
 
 #### Joseph before the dream
-Muhammad at-Ṭabari provides exquisite detail and commentary of this narrative in his chapter on Joseph relaying the opinions of well-known scholars. In Ṭabari's chapter, the physical beauty of Joseph and his mother Rahyl is introduced, in that they were said to have had "more beauty than any other human being."[10] His father, Jacob, had given him to his oldest sister to be raised. Ṭabari comments that there was no greater love than what Joseph's aunt felt for him as she had raised him as her own. And she was very reluctant to give him back to Jacob and kept him until her death. The reason, according to Ṭabari, that she was able to do this was because of a belt that had been passed to her from her father, Isaac. Ṭabari notes "if someone else acquired it by guile from the person who was supposed to have it, then he would become absolutely subject to the will of the rightful owner."[11] This is important because Joseph's aunt puts the belt on Joseph when Jacob is absent and then accuses Joseph of stealing it and he thus stays with her until her death. Jacob was very reluctant to give up Joseph and thus favors him when they are together. This is commentary but, as is the profession of commentators, this provides an interesting set up to Joseph's personal story and also lays a foundation for a future interaction with his brothers, particularly Benjamin.
+Muhammad at-Ṭabari provides exquisite detail and commentary of this narrative in his chapter on Joseph relaying the opinions of well-known scholars. In Ṭabari's chapter, the physical beauty of Joseph and his mother Rahyl is introduced, in that they were said to have had "more beauty than any other human being." His father, Jacob, had given him to his oldest sister to be raised. Ṭabari comments that there was no greater love than what Joseph's aunt felt for him as she had raised him as her own. And she was very reluctant to give him back to Jacob and kept him until her death. The reason, according to Ṭabari, that she was able to do this was because of a belt that had been passed to her from her father, Isaac. Ṭabari notes "if someone else acquired it by guile from the person who was supposed to have it, then he would become absolutely subject to the will of the rightful owner." This is important because Joseph's aunt puts the belt on Joseph when Jacob is absent and then accuses Joseph of stealing it and he thus stays with her until her death. Jacob was very reluctant to give up Joseph and thus favors him when they are together. This is commentary but, as is the profession of commentators, this provides an interesting set up to Joseph's personal story and also lays a foundation for a future interaction with his brothers, particularly Benjamin.
 
 #### The dream
 The story begins with a dream and ends with its interpretation. As the sun appeared over the horizon, bathing the earth in its morning glory, Joseph, son of Jacob awoke from his sleep, delighted by a pleasant dream he had. Filled with excitement he ran to his father and reported what he had seen.
 
 	Yusuf said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!
-	Qur'an 12:4[12]
+	Qur'an 12:4
 
-According to Ibn Kathir, Jacob knew that Joseph would someday become extremely important and would be in a high position, both in this world and the next—he recognized that the stars represented his brothers and the sun and moon represented himself and Joseph's mother, Rachel. Jacob advised Joseph to keep the dream to himself in order to protect him from the jealousy of his brothers, who were already unhappy about the love Jacob felt for Joseph.[13] Ya'qub foresaw that Yusuf would be one through whom the prophecy of his grandfather, Ibrahim (Abraham), would be fulfilled, in that his offspring would keep the light of Abraham's house alive and spread God's message to mankind. Abu Ya'ala interpreted Jacob's reaction as an understanding that the planets, sun and moon bowing to Joseph representing "something dispersed which God united."[13]
+According to Ibn Kathir, Jacob knew that Joseph would someday become extremely important and would be in a high position, both in this world and the next—he recognized that the stars represented his brothers and the sun and moon represented himself and Joseph's mother, Rachel. Jacob advised Joseph to keep the dream to himself in order to protect him from the jealousy of his brothers, who were already unhappy about the love Jacob felt for Joseph. Ya'qub foresaw that Yusuf would be one through whom the prophecy of his grandfather, Ibrahim (Abraham), would be fulfilled, in that his offspring would keep the light of Abraham's house alive and spread God's message to mankind. Abu Ya'ala interpreted Jacob's reaction as an understanding that the planets, sun and moon bowing to Joseph representing "something dispersed which God united."
 
-	Ya'qub told Yusuf: "My son, relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is a clear enemy to humanity. Thus your Lord has selected you and given you knowledge to interpret reports, and has perfected his blessing upon you and upon the family of Jacob just as he perfected it on your forefathers before: Ibrahim and Is-haq (Isaac). Your Lord is Knowing, Wise" (Qur'an, Surah 12 (Yusuf) Ayat 5-6).[14]
+	Ya'qub told Yusuf: "My son, relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is a clear enemy to humanity. Thus your Lord has selected you and given you knowledge to interpret reports, and has perfected his blessing upon you and upon the family of Jacob just as he perfected it on your forefathers before: Ibrahim and Is-haq (Isaac). Your Lord is Knowing, Wise" (Qur'an, Surah 12 (Yusuf) Ayat 5-6).
 
-Joseph did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Joseph and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.""[15]
+Joseph did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Joseph and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.""
 
 Joseph was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (Arabic: حديث, 'narration'):
 
 Narrated Abu Huraira:
 Some people asked the Prophet: "Who is the most honorable amongst the people?" He replied, "The most honorable among them is the one who is the most Allah-fearing." They said, "O Prophet of Allah! We do not ask about this." He said, "Then the most honorable person is Yusuf, Nabiyyullah (Arabic: نبي الله, Prophet of Allah), the son of a Nabiyyillah, the son of a Nabiyyillah, the son of Khalilillah (Arabic: خليل الله, "Friend of Allah")."
-— Sahih al-Bukhari collected by Muhammad al-Bukhari[16]
+— Sahih al-Bukhari collected by Muhammad al-Bukhari
 
 #### The plot against Joseph
 
 Selling Joseph as a slave. Painting in Takieh Moaven ol molk, Kermanshah, Iran
-The Qurʾān continues with Joseph's brothers plotting to kill him. It relates: "in Joseph and his brothers are signs for those who seek answers. When Joseph's brother said about him: "He is more loved by our father than we are, and we are a group. Our father is in clear error. Let us kill Joseph or cast him to the ground, so that the face of your father will be toward you, and after him you will be a community of the truthful."[17]
+The Qurʾān continues with Joseph's brothers plotting to kill him. It relates: "in Joseph and his brothers are signs for those who seek answers. When Joseph's brother said about him: "He is more loved by our father than we are, and we are a group. Our father is in clear error. Let us kill Joseph or cast him to the ground, so that the face of your father will be toward you, and after him you will be a community of the truthful."
 
-But one of the brothers argued against killing him and suggested they throw him into a well, said to be Jubb Yusif (Arabic: جب يوسف, "Well of Joseph"), so that a caravan might pick him up and take him into slavery. Mujahid, a scholar, says that it was Simeon and Suddi says it was Judah while Qatadah and Ibn Is-haq says that it was the eldest, Ruben.[18] Said one of them: "Slay not Joseph, but if ye must do something, throw him down to the bottom of the well: he will be picked up by some caravan of travellers."[19]
+But one of the brothers argued against killing him and suggested they throw him into a well, said to be Jubb Yusif (Arabic: جب يوسف, "Well of Joseph"), so that a caravan might pick him up and take him into slavery. Mujahid, a scholar, says that it was Simeon and Suddi says it was Judah while Qatadah and Ibn Is-haq says that it was the eldest, Ruben. Said one of them: "Slay not Joseph, but if ye must do something, throw him down to the bottom of the well: he will be picked up by some caravan of travellers."
 
-Killing Joseph because of jealousy would have been extreme, but scholars also suggested that Joseph was fairly young when he was thrown into the well, as young as twelve.[20] He would live to be 110[21] or 120.[20]
+Killing Joseph because of jealousy would have been extreme, but scholars also suggested that Joseph was fairly young when he was thrown into the well, as young as twelve. He would live to be 110 or 120.
 
-The brothers asked their father to let them take Joseph out to the desert to play and promised to watch him. Jacob, not thrilled with the idea knowing how much the brothers disliked Joseph, hesitated. Ṭabari comments that Jacobs's excuse was that a dhi'b (Arabic: ذئب, wolf) might hurt him.[22] But the brothers insisted. When they had Joseph alone they threw him into a well and left him there, They returned with a blood stained shirt and lied that he had been attacked by a wolf, but their father did not believe them, as he was a sincere man who loved his son.[22]
+The brothers asked their father to let them take Joseph out to the desert to play and promised to watch him. Jacob, not thrilled with the idea knowing how much the brothers disliked Joseph, hesitated. Ṭabari comments that Jacobs's excuse was that a dhi'b (Arabic: ذئب, wolf) might hurt him. But the brothers insisted. When they had Joseph alone they threw him into a well and left him there, They returned with a blood stained shirt and lied that he had been attacked by a wolf, but their father did not believe them, as he was a sincere man who loved his son.
 
 The Qur'an says:
 
@@ -839,59 +990,59 @@ The Qur'an says:
 	Then they came to their father in the early part of the night, weeping.
 	They said: "O our father! We went racing with one another, and left Joseph with our things; and the wolf devoured him.... But thou wilt never believe us even if we tell the truth."
 	They stained his shirt with false blood. He said: "Nay, but your minds have made up a tale (that may pass) with you, (for me) patience is most fitting: Against that which ye assert, it is Allah (alone) Whose help can be sought"...
-	Qur'an, Surah 12 (Yusuf) Ayat 11-18[23]
+	Qur'an, Surah 12 (Yusuf) Ayat 11-18
 
-Ṭabari comments that Judah stopped the brothers from causing more harm to Joseph, and that he would bring him food.[22] Ibn Kathir comments that Reuben suggested that they put him in the pit so that he might return later to bring him home. But when he returned, he found Joseph gone. "So he screamed and tore his clothes. He put blood on the coat of Joseph. When Jacob learned of this, he tore his clothes, wore a black cloak, and was sad for many days."[24] Ibn 'Abbas writes that the "reason for this trial of Jacob was that he had slaughtered a sheep while he was fasting. He asked a neighbor of his to eat it but he did not. So God tested him with the matter of Joseph."[25] The section that describes Joseph's revelation in the well is interpreted by Ibn 'Abbas: "When they were unaware" (12:15) means "you will tell them about what they did in a situation in which they will not recognize you."[26] This is yet more foreshadowing. A possible reason for his enslavement was that after Abraham had left Egypt he took slaves with him but "Abraham did not dismount for them (following barefoot). Therefore God revealed to him: "Since you did not alight for the slaves and those walking barefoot with you, I will punish you by selling one of your descendants into his country.""[27]
+Ṭabari comments that Judah stopped the brothers from causing more harm to Joseph, and that he would bring him food. Ibn Kathir comments that Reuben suggested that they put him in the pit so that he might return later to bring him home. But when he returned, he found Joseph gone. "So he screamed and tore his clothes. He put blood on the coat of Joseph. When Jacob learned of this, he tore his clothes, wore a black cloak, and was sad for many days." Ibn 'Abbas writes that the "reason for this trial of Jacob was that he had slaughtered a sheep while he was fasting. He asked a neighbor of his to eat it but he did not. So God tested him with the matter of Joseph." The section that describes Joseph's revelation in the well is interpreted by Ibn 'Abbas: "When they were unaware" (12:15) means "you will tell them about what they did in a situation in which they will not recognize you." This is yet more foreshadowing. A possible reason for his enslavement was that after Abraham had left Egypt he took slaves with him but "Abraham did not dismount for them (following barefoot). Therefore God revealed to him: "Since you did not alight for the slaves and those walking barefoot with you, I will punish you by selling one of your descendants into his country.
 
 #### God's plan to save Joseph
-A passing caravan took Joseph. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (Arabic: مصر, Egypt), to a rich man referred to as "Al-'Aziz" (Arabic: ٱلعزيز, "Great One", "Nobleman")[28] in the Qur'an, or Potiphar in the Bible.[29] ʿAzīz is also known as Qatafir or Qittin.[30] Joseph was taken into 'Aziz's home who told his wife to treat him well.
+A passing caravan took Joseph. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (Arabic: مصر, Egypt), to a rich man referred to as "Al-'Aziz" (Arabic: ٱلعزيز, "Great One", "Nobleman") in the Qur'an, or Potiphar in the Bible. ʿAzīz is also known as Qatafir or Qittin. Joseph was taken into 'Aziz's home who told his wife to treat him well.
 
 	Then there came a caravan of travellers: they sent their water-carrier (for water), and he let down his bucket (into the well)...He said: "Ah there! Good news! Here is a (fine) young man!" So they concealed him as a treasure. But Allah knoweth well all that they do.
 	The (Brethren) sold him for a miserable price, for a few dirhams counted out: in such low estimation did they hold him!
 	The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: maybe he will bring us much good, or we shall adopt him as a son." Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
 	When Joseph attained His full manhood, We gave him power and knowledge: thus do We reward those who do right.
-	Qur'an, Surah 12 (Yusuf) Ayat 19-22[31]
+	Qur'an, Surah 12 (Yusuf) Ayat 19-22
 
-This is the point of the story that many scholars of Islam report as being central (contrasting to other religious traditions) to Joseph's story. Under ʿAzīz Misr (Arabic: عزيز مصر, "The Dear One of Egypt"), Joseph moves to a high position in his household. Later, the brothers would come to Egypt but would not recognize Joseph but called him by the same title, "al-ʿAzīz."[32]
+This is the point of the story that many scholars of Islam report as being central (contrasting to other religious traditions) to Joseph's story. Under ʿAzīz Misr (Arabic: عزيز مصر, "The Dear One of Egypt"), Joseph moves to a high position in his household. Later, the brothers would come to Egypt but would not recognize Joseph but called him by the same title, "al-ʿAzīz."
 
-While working for 'Aziz, Joseph grew to be a man. He was constantly approached by the wife of 'Aziz (Imra'at al-'Aziz, presumably Zulayka or Zuleika) (variations include 'Zulaykhah' and 'Zulaikhah' as well) who intended to seduce him. Tabari and others are not reticent to point out that Joseph was mutually attracted to her. Ṭabari writes that the reason he did not succumb to her was because when they were alone the "figure of Jacob appeared to him, standing in the house and biting his fingers …" and warned Joseph not to become involved with her. Ṭabari, again, says "God turned him away from his desire for evil by giving him a sign that he should not do it."[33] It is also said that after the death of ʿAzīz, Joseph married Zolayḵā.[32]
+While working for 'Aziz, Joseph grew to be a man. He was constantly approached by the wife of 'Aziz (Imra'at al-'Aziz, presumably Zulayka or Zuleika) (variations include 'Zulaykhah' and 'Zulaikhah' as well) who intended to seduce him. Tabari and others are not reticent to point out that Joseph was mutually attracted to her. Ṭabari writes that the reason he did not succumb to her was because when they were alone the "figure of Jacob appeared to him, standing in the house and biting his fingers …" and warned Joseph not to become involved with her. Ṭabari, again, says "God turned him away from his desire for evil by giving him a sign that he should not do it." It is also said that after the death of ʿAzīz, Joseph married Zolayḵā.
 
 	But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: "Now come, thou (dear one)!" He said: "Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!"
 	And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
-	Qur'an, Surah 12 (Yusuf) Ayat 23-24[34]
+	Qur'an, Surah 12 (Yusuf) Ayat 23-24
 
-Zolayḵā is said to have then ripped the back of Joseph's shirt and they raced with one another to the door where her husband was waiting. At that point she attempted to blame Joseph and suggested that he had attacked her. However, Joseph said that it was Zolayḵā who had attempted to seduce him and his account is confirmed by one of the household. 'ʿAzīz believed Joseph and told his wife to beg forgiveness."[35] One member of the family, it is disputed who (perhaps a cousin) told ʿAzīz to check the shirt. If it was torn in the front than Joseph was guilty and his wife innocent but if it was torn in the back, Joseph was innocent and his wife guilty. It was torn in the back so ʿAzīz reprimands his wife for lying.[36]
+Zolayḵā is said to have then ripped the back of Joseph's shirt and they raced with one another to the door where her husband was waiting. At that point she attempted to blame Joseph and suggested that he had attacked her. However, Joseph said that it was Zolayḵā who had attempted to seduce him and his account is confirmed by one of the household. 'ʿAzīz believed Joseph and told his wife to beg forgiveness." One member of the family, it is disputed who (perhaps a cousin) told ʿAzīz to check the shirt. If it was torn in the front than Joseph was guilty and his wife innocent but if it was torn in the back, Joseph was innocent and his wife guilty. It was torn in the back so ʿAzīz reprimands his wife for lying.
 
-Zuleikha's circle of friends thought that she was becoming infatuated with Joseph and mocked her for being in love with a slave. She invited them to her home and gave them all apples, and knives to peel them with. She then had Joseph walk through and distract the women who cut themselves with the knives. Zuleikha then pointed out that she had to see Joseph every day.[36]
+Zuleikha's circle of friends thought that she was becoming infatuated with Joseph and mocked her for being in love with a slave. She invited them to her home and gave them all apples, and knives to peel them with. She then had Joseph walk through and distract the women who cut themselves with the knives. Zuleikha then pointed out that she had to see Joseph every day.
 
-Joseph prayed to God and said that he would prefer prison to the things that Zolayḵā and her friends wanted. According to Ṭabari, some time later, even though ʿAzīz knew that Joseph was innocent, he "grew disgusted with himself for having let Joseph go free … It seemed good to them to imprison him for a time."[37] It is possible that Zolayḵā had influence here, rebuking her husband for having her honor threatened.
+Joseph prayed to God and said that he would prefer prison to the things that Zolayḵā and her friends wanted. According to Ṭabari, some time later, even though ʿAzīz knew that Joseph was innocent, he "grew disgusted with himself for having let Joseph go free … It seemed good to them to imprison him for a time." It is possible that Zolayḵā had influence here, rebuking her husband for having her honor threatened.
 
-The account of Joseph and the wife of 'Aziz is called "Yusuf and Zulaikha," and has been told and retold countless times in many languages. The Qur'anic account differs from the Biblical version in which Potiphar believes his wife and throws Joseph into prison.[38]
+The account of Joseph and the wife of 'Aziz is called "Yusuf and Zulaikha," and has been told and retold countless times in many languages. The Qur'anic account differs from the Biblical version in which Potiphar believes his wife and throws Joseph into prison.
 
 #### Joseph interprets dreams
-This account refers to the interaction between Joseph and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Joseph refers to the Egyptian ruler as a malik (Arabic: ملك, 'king'), not a fir'aun (Arabic: فرعون, 'pharaoh'). After Joseph had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Joseph's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Qur'an or the Bible – and his family. Joseph asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Joseph reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Joseph then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.[39]
+This account refers to the interaction between Joseph and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Joseph refers to the Egyptian ruler as a malik (Arabic: ملك, 'king'), not a fir'aun (Arabic: فرعون, 'pharaoh'). After Joseph had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Joseph's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Qur'an or the Bible – and his family. Joseph asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Joseph reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Joseph then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.
 
-Joseph had asked the one whom he knew would be released (Ṭabari writes that his name was Nabu) to mention his case to the king. When asked about his time in prison, Ṭabari reports that Muhammad said: "If Joseph had not said that—meaning what he said (to Nabu)—he would not have stayed in prison as long as he did because he sought deliverance from someone other than God."[40]
+Joseph had asked the one whom he knew would be released (Ṭabari writes that his name was Nabu) to mention his case to the king. When asked about his time in prison, Ṭabari reports that Muhammad said: "If Joseph had not said that—meaning what he said (to Nabu)—he would not have stayed in prison as long as he did because he sought deliverance from someone other than God."
 
-The king had a dream of seven fat cows being eaten by seven skinny ones and seven ears of corn being replaced with shriveled ones, and he was terrified. None of his advisors could interpret it. When the servant who was released from prison heard about it, he remembered Joseph from prison and persuaded the king to send him to Joseph so that he could return with an interpretation. Joseph told the servant that Egypt would face seven years of prosperity and then suffer seven years of famine and that the king should prepare for it so as to avoid great suffering.[41]
+The king had a dream of seven fat cows being eaten by seven skinny ones and seven ears of corn being replaced with shriveled ones, and he was terrified. None of his advisors could interpret it. When the servant who was released from prison heard about it, he remembered Joseph from prison and persuaded the king to send him to Joseph so that he could return with an interpretation. Joseph told the servant that Egypt would face seven years of prosperity and then suffer seven years of famine and that the king should prepare for it so as to avoid great suffering.
 
-Scholars debate as to whether Joseph agreed to interpret the dream right away or if he declared that his name should be cleared in the house of ʿAzīz first. Ṭabari notes that when the messenger came to Joseph and invited him to come to the king, Joseph replied "Go back to your lord and ask him about the case of the women who cut their hands. My lord surely knows their guile."[42] Ibn Kathir agrees with Ṭabari saying that Joseph sought "restitution for this in order that ʿAzīz might know that he was not false to him during his absence" and that Zolayḵā eventually confessed that nothing happened between them.[43] Ṭabari inserts an interesting interaction between Joseph and the angel Gabriel in which Gabriel helps Joseph both gain his freedom and admit to his own desires.[40]
+Scholars debate as to whether Joseph agreed to interpret the dream right away or if he declared that his name should be cleared in the house of ʿAzīz first. Ṭabari notes that when the messenger came to Joseph and invited him to come to the king, Joseph replied "Go back to your lord and ask him about the case of the women who cut their hands. My lord surely knows their guile." Ibn Kathir agrees with Ṭabari saying that Joseph sought "restitution for this in order that ʿAzīz might know that he was not false to him during his absence" and that Zolayḵā eventually confessed that nothing happened between them. Ṭabari inserts an interesting interaction between Joseph and the angel Gabriel in which Gabriel helps Joseph both gain his freedom and admit to his own desires.
 
 Joseph said, "What you cultivate during the next seven years, when the time of harvest comes, leave the grains in their spikes, except for what you eat. After that, seven years of drought will come, which will consume most of what you stored for them. After that, a year will come that brings relief for the people, and they will, once again, press juice." (Qur'an, 12:47-49) Joseph was brought to king and interpreted the dream.
 
 When he became aware of Yusuf's innocence, the king said, "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted."" (Quran 12:54) Upon speaking with Yusuf, the king recognized his virtues, great ability, brilliance, good conduct and perfect mannerisms. Yusuf said, "Set me over the storehouses of the land; I will indeed guard them with full knowledge" (Quran 12:55). Thus Yusuf asked the king to appoint him as Minister of Finance.
 
 Use of "king" versus "pharaoh"
-In the Qur'an, the title of the Ruler of Egypt during the time of Joseph is specifically said to be "the King" (Arabic: al-Malik) whilst the Ruler of Egypt during the time of Moses is specifically said to be "Pharaoh" (Arabic: Firaun, though as a name without the definite article). This is interesting because according to historical sources, the title Pharaoh only began to be used to refer to the rulers of Egypt (starting with the rule of Thutmose III) in 1479 BCE - approximately 21 years after the prophet Joseph died.[44] But in the narration of Yusuf in the Bible, the titles King (Hebrew: Melekh) and Pharaoh are used interchangeably for the ruler of Egypt in Genesis chapters 39-41.[45]
+In the Qur'an, the title of the Ruler of Egypt during the time of Joseph is specifically said to be "the King" (Arabic: al-Malik) whilst the Ruler of Egypt during the time of Moses is specifically said to be "Pharaoh" (Arabic: Firaun, though as a name without the definite article). This is interesting because according to historical sources, the title Pharaoh only began to be used to refer to the rulers of Egypt (starting with the rule of Thutmose III) in 1479 BCE - approximately 21 years after the prophet Joseph died. But in the narration of Yusuf in the Bible, the titles King (Hebrew: Melekh) and Pharaoh are used interchangeably for the ruler of Egypt in Genesis chapters 39-41.
 
 	The Malik (of Egypt) said: "I do see (in a vision) seven fat kine, whom seven lean ones devour, and seven green ears of corn, and seven (others) withered. O ye chiefs! expound to me my vision, if it be that ye can interpret visions."
-	Qur'an, Surah 12 (Yusuf), Ayah 43,[46]
+	Qur'an, Surah 12 (Yusuf), Ayah 43
 
 	Then after them We sent Musa with Our Signs to Fir'aun and his chiefs, but they wrongfully rejected them. So see how was the end of al-Mufsidin (Arabic: ألمفسدين, "the Mischief-makers" or "the Corrupters").
-	Qur'an, Surah 7 (Al-Araf), Ayah 103 [47]
+	Qur'an, Surah 7 (Al-Araf), Ayah 103 
 
 	And the Malik said: "Bring him to me." But when the messenger came to him, He (Yusuf) said: "Return to your lord and ask him, 'What happened to the women who cut their hands? Surely, my Lord (Allah) is Well-Aware of their plot.
-	Qur'an, Surah 12 (Yusuf), Ayah 50,[48]
+	Qur'an, Surah 12 (Yusuf), Ayah 50
 
 	And Joseph's master took him, and put him into the prison, the place where the king's prisoners were bound; and he was there in the prison.
 	Genesis 39:20
@@ -903,22 +1054,22 @@ In the Qur'an, the title of the Ruler of Egypt during the time of Joseph is spec
 	Genesis 47:11
 
 #### The family reunion
-Joseph became extremely powerful. Ibn Kathir relates that the king of Egypt had faith in Joseph and that the people loved and revered him. It is said that Joseph was 30 when he was summoned to the king. "The king addressed him in 70 languages, and each time Joseph answered him in that language."[43] Ibn Is-haq comments, "the king of Egypt converted to Islam at the hands of Joseph."[41]
+Joseph became extremely powerful. Ibn Kathir relates that the king of Egypt had faith in Joseph and that the people loved and revered him. It is said that Joseph was 30 when he was summoned to the king. "The king addressed him in 70 languages, and each time Joseph answered him in that language." Ibn Is-haq comments, "the king of Egypt converted to Islam at the hands of Joseph."
 
-Joseph's brothers, in the meantime, had suffered while the people of Egypt prospered under Joseph's guidance. Jacob and his family were hungry and the brothers went to Egypt, unaware that Joseph was there and in such a high position.[49] Joseph gave them what they needed but questions them and they reveal that there were once twelve of them. They lie and say that the one most loved by their father, meaning Joseph, died in the desert. Joseph tells them to bring Benjamin, the youngest, to him. They return home to Jacob and persuade him to let Benjamin accompany them in order to secure food. Jacob insists that they bring Benjamin back—and this time the brothers are honest when they swear to it.[50] According to Ibn Kathir, Jacob ordered the brothers to use many gates when returning to Egypt because they were all handsome.[51] The Qurʾān itself elaborates that Jacob sensed Joseph.
+Joseph's brothers, in the meantime, had suffered while the people of Egypt prospered under Joseph's guidance. Jacob and his family were hungry and the brothers went to Egypt, unaware that Joseph was there and in such a high position. Joseph gave them what they needed but questions them and they reveal that there were once twelve of them. They lie and say that the one most loved by their father, meaning Joseph, died in the desert. Joseph tells them to bring Benjamin, the youngest, to him. They return home to Jacob and persuade him to let Benjamin accompany them in order to secure food. Jacob insists that they bring Benjamin back—and this time the brothers are honest when they swear to it. According to Ibn Kathir, Jacob ordered the brothers to use many gates when returning to Egypt because they were all handsome. The Qurʾān itself elaborates that Jacob sensed Joseph.
 
-When the brothers return with Benjamin, Joseph reveals himself to Benjamin. He then gives the brothers the supplies he promised but also put the king's cup into one of the bags. He then proceeds to accuse them of stealing, which the brothers deny. Joseph informs them that whoever it was who stole the cup will be enslaved to the owner and the brothers agree, not realizing the plot against them. Ṭabari reports that the cup was found in Benjamin's sack.[52]
+When the brothers return with Benjamin, Joseph reveals himself to Benjamin. He then gives the brothers the supplies he promised but also put the king's cup into one of the bags. He then proceeds to accuse them of stealing, which the brothers deny. Joseph informs them that whoever it was who stole the cup will be enslaved to the owner and the brothers agree, not realizing the plot against them. Ṭabari reports that the cup was found in Benjamin's sack.
 
-After much discussion and anger, the brothers try to get Benjamin released by offering themselves instead—for they must keep their promise to their father. Reuben stays behind with Benjamin in order to keep his promise to his father. When the other brothers inform Jacob of what has happened, Jacob does not believe them and becomes blind after crying much over the disappearance of his son. Forty years had passed since Joseph was taken from his father, and Jacob had held it in his heart. Jacob sends the brothers back to find out about Benjamin and Joseph. Upon their return Joseph reveals himself to his brothers and gives them one of his shirts to give to Jacob.[53]
+After much discussion and anger, the brothers try to get Benjamin released by offering themselves instead—for they must keep their promise to their father. Reuben stays behind with Benjamin in order to keep his promise to his father. When the other brothers inform Jacob of what has happened, Jacob does not believe them and becomes blind after crying much over the disappearance of his son. Forty years had passed since Joseph was taken from his father, and Jacob had held it in his heart. Jacob sends the brothers back to find out about Benjamin and Joseph. Upon their return Joseph reveals himself to his brothers and gives them one of his shirts to give to Jacob.
 
-When Jacob receives the shirt, this time as good news, Jacob lays it on his face and regains his vision. He says `Did I not tell you that I know from God what you do not know?` (12:96). Ṭabari says that this means that "from the truth of the interpretation of Joseph's dream in which he saw eleven planets and the sun and the moon bowing down to him, he knew that which they did not know."[54]
+When Jacob receives the shirt, this time as good news, Jacob lays it on his face and regains his vision. He says `Did I not tell you that I know from God what you do not know?` (12:96). Ṭabari says that this means that "from the truth of the interpretation of Joseph's dream in which he saw eleven planets and the sun and the moon bowing down to him, he knew that which they did not know."
 
-Joseph was reunited with his family, and his dream as a child came true as he saw his parents and eleven of his brothers prostrating before him in love, welcome and respect. Ibn Kathir mentions that his mother had already died but there are some who argue that she came back to life.[55] Ṭabari says that she was alive. Joseph eventually died in Egypt. Tradition holds that when Musa (Moses) left Egypt, he took Joseph's coffin with him so that he would be buried alongside his ancestors in Canaan.[55]
+Joseph was reunited with his family, and his dream as a child came true as he saw his parents and eleven of his brothers prostrating before him in love, welcome and respect. Ibn Kathir mentions that his mother had already died but there are some who argue that she came back to life.Ṭabari says that she was alive. Joseph eventually died in Egypt. Tradition holds that when Musa (Moses) left Egypt, he took Joseph's coffin with him so that he would be buried alongside his ancestors in Canaan.
 
 #### Death and burial
 It is hard to find sources that consistently agree on the actual dates of Joseph's life. Scholars tend to see the story as a way for the descendants of Abraham to find their way to Egypt. Joseph is the reason the Israelites move to Egypt, which then allows for the story of Moses and the Exodus from Egypt to take place.
 
-Historically, some Muslims also associated Joseph's Tomb with that of the biblical figure[citation needed]. In recent years however, they[by whom?] claim that an Islamic cleric, Sheikh Yussuf (Joseph) Dawiqat, was buried there two centuries ago.[56] According to Islamic tradition, the biblical Joseph is buried in Hebron, next to the Cave of the Patriarchs where a medieval structure known as Yussuf-Kalah, the "Castle of Joseph", is located.
+Historically, some Muslims also associated Joseph's Tomb with that of the biblical figure[citation needed]. In recent years however, they[by whom?] claim that an Islamic cleric, Sheikh Yussuf (Joseph) Dawiqat, was buried there two centuries ago. According to Islamic tradition, the biblical Joseph is buried in Hebron, next to the Cave of the Patriarchs where a medieval structure known as Yussuf-Kalah, the "Castle of Joseph", is located.
 
 </details>
 
@@ -928,7 +1079,7 @@ Historically, some Muslims also associated Joseph's Tomb with that of the biblic
 Ayyub came after Yusuf. The Quran describes Job as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Job never lost faith in God and forever called to God in prayer, asking Him to remove his affliction:
 And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." — Quran, sura 21 (The Prophets), ayah 83
 
-The narrative goes on to state that after many years of suffering, God ordered Job to "Strike with thy foot!".[6] At once, Job struck the ground with his foot and God caused a cool spring of water to gush forth from the Earth, from which Job could replenish himself. The Quran states that it was then that God removed his pain and suffering and He returned Job's family to him, blessed him with many generations of children and granted him great wealth. In addition to the brief descriptions of Job's narrative, the Quran further mentions Job twice in the lists of those whom God had given special guidance, wisdom and inspiration (IV: 163) and as one of the men who received authority, the gift of prophethood (VI:84).
+The narrative goes on to state that after many years of suffering, God ordered Job to "Strike with thy foot!". At once, Job struck the ground with his foot and God caused a cool spring of water to gush forth from the Earth, from which Job could replenish himself. The Quran states that it was then that God removed his pain and suffering and He returned Job's family to him, blessed him with many generations of children and granted him great wealth. In addition to the brief descriptions of Job's narrative, the Quran further mentions Job twice in the lists of those whom God had given special guidance, wisdom and inspiration (IV: 163) and as one of the men who received authority, the gift of prophethood (VI:84).
 
 After Satan has given up trying to turn Job away from the Lord, God removed Job's affliction and returned his family to him, doubling them in number. He returned Job's wealth and showered Job with gold. Once Job's wife had seen her husband restored to prosperity and health, she prayed thanks to God but then worried over the oath her husband had taken earlier, in which he had promised to beat her with a hundred strokes. Job was also deeply grieved over the oath he had taken, amidst his suffering. God, however, sent a revelation to Job, which told him to not beat his wife but to gently hit her with a bundle of soft grass.
 </details>
@@ -948,56 +1099,56 @@ The people taunted Shuʿayb and told him that, were it not for the prestigious f
 Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 <details>
 <summary><b>Musa (Moses) 🌿 🔥 </b></summary> 
-In Islam, Mūsā ben ʿEmrān[1] (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.[2][3]
+In Islam, Mūsā ben ʿEmrān[1] (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.
 
-According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of Muhammad, and Muslims consider many aspects of the two individuals' lives to be shared.[4] Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution—of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.[5]
+According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of Muhammad, and Muslims consider many aspects of the two individuals' lives to be shared. Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution—of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.
 
-Musa is also viewed as a very important figure in Islam due to his reception of revelations such as the Ten Commandments, which form part of the contents of the Torah and are central to the Abrahamic religions of Judaism and Christianity.[6][7] Consequently, Jews and Christians are designated as "People of the Book" for Muslims and are to be recognized with this special status wherever Islamic law is applied. According to Islamic tradition, Musa is one of the many prophets that meets Muhammad in the seven heavens following the latter's ascension from Jerusalem during the Miʿraj.[8] During the journey, Musa is said to have repeatedly sent Muhammad back to meet God and request a reduction in the number of required daily prayers—originally 50—until only the five obligatory prayers remained.[9][10] Musa is further revered in Islamic literature, which expands upon the incidents of his life and the miracles attributed to him in the Quran and hadith, such as his direct conversations with God.
+Musa is also viewed as a very important figure in Islam due to his reception of revelations such as the Ten Commandments, which form part of the contents of the Torah and are central to the Abrahamic religions of Judaism and Christianity. Consequently, Jews and Christians are designated as "People of the Book" for Muslims and are to be recognized with this special status wherever Islamic law is applied. According to Islamic tradition, Musa is one of the many prophets that meets Muhammad in the seven heavens following the latter's ascension from Jerusalem during the Miʿraj. During the journey, Musa is said to have repeatedly sent Muhammad back to meet God and request a reduction in the number of required daily prayers—originally 50—until only the five obligatory prayers remained. Musa is further revered in Islamic literature, which expands upon the incidents of his life and the miracles attributed to him in the Quran and hadith, such as his direct conversations with God.
 
 #### Childhood
-According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor.[11] Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Joseph). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. (Other stories says that the Pharaoh dreams of a little boy who catches the Pharaoh's crown and destroys it,[12] although there is no authentic Islamic reference to whether the dreams actually occurred.) When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring.[13] Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower.[14] Therefore, they suggest that male infants should be killed in one year but spared the next.[14] Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.[15]
+According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Joseph). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. (Other stories says that the Pharaoh dreams of a little boy who catches the Pharaoh's crown and destroys it, although there is no authentic Islamic reference to whether the dreams actually occurred.) When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
 
 #### On the Nile
 
 Asiya (depicted with long black tresses) and her servants, having finished bathing, find baby Musa in the Nile. Their clothes hang in the trees while the river waves and crests are done in the Chinese style. Illustration from the Persian Jami' al-tawarikh
-According to Islamic tradition, Jochebed, Musa's mother, suckles him secretly during this period. When they are in danger of being caught, God inspires her to put him in a wicker basket and set him adrift on the Nile.[16] She instructs her daughter to follow the course of the ark and report back to her. As her daughter follows the ark along the riverbank, Musa is discovered by the Pharaoh's wife, Asiya, who convinces the Pharaoh to adopt him.[17][18] When Asiya ordered wet nurses for Musa, Musa refuses to be breastfed. Islamic tradition states that this is because God forbids Musa from being fed by any wet nurse in order to reunite him with his mother.[19] His sister worries that Musa has not been fed for some time, so she appears to the Pharaoh and informs him that she knows someone who can feed him.[20] After being questioned, she is ordered to bring the woman being discussed.[20] The sister brings their mother, who feeds Musa, and thereafter, she is appointed as the wet nurse of Musa.[21]
+According to Islamic tradition, Jochebed, Musa's mother, suckles him secretly during this period. When they are in danger of being caught, God inspires her to put him in a wicker basket and set him adrift on the Nile. She instructs her daughter to follow the course of the ark and report back to her. As her daughter follows the ark along the riverbank, Musa is discovered by the Pharaoh's wife, Asiya, who convinces the Pharaoh to adopt him. When Asiya ordered wet nurses for Musa, Musa refuses to be breastfed. Islamic tradition states that this is because God forbids Musa from being fed by any wet nurse in order to reunite him with his mother. His sister worries that Musa has not been fed for some time, so she appears to the Pharaoh and informs him that she knows someone who can feed him. After being questioned, she is ordered to bring the woman being discussed.The sister brings their mother, who feeds Musa, and thereafter, she is appointed as the wet nurse of Musa.
 
 #### Test of prophecy
-According to Isra'iliyat hadith, when Musa is playing on the Pharaoh's lap in his childhood, he grabs the Pharaoh's beard and slaps him in the face. This action prompts the Pharaoh to consider Musa as the Israelite who would overthrow him, and the Pharaoh wants to kill Musa. The Pharaoh's wife persuades him not to kill him because he is an infant. Instead, he decides to test Musa.[22] Two plates are set before young Musa, one containing rubies and the other glowing coals.[22] Musa reaches out for the rubies, but the angel Gabriel directs his hand to the coals. Musa grabs a glowing coal and puts it in his mouth, burning his tongue.[23] After the incident, Musa suffers a speech defect, but is spared by the Pharaoh.[24][25]
+According to Isra'iliyat hadith, when Musa is playing on the Pharaoh's lap in his childhood, he grabs the Pharaoh's beard and slaps him in the face. This action prompts the Pharaoh to consider Musa as the Israelite who would overthrow him, and the Pharaoh wants to kill Musa. The Pharaoh's wife persuades him not to kill him because he is an infant. Instead, he decides to test Musa. Two plates are set before young Musa, one containing rubies and the other glowing coals. Musa reaches out for the rubies, but the angel Gabriel directs his hand to the coals. Musa grabs a glowing coal and puts it in his mouth, burning his tongue. After the incident, Musa suffers a speech defect, but is spared by the Pharaoh.
 
 #### Escape to Midian
 
 The Midian Mountains near Haql on the coast of the Gulf of Aqaba, which separates Midian in the northern part of the Arabian Peninsula and Ash-Shaam from the Sinai Peninsula in present-day Egypt
-After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute.[26][self-published source] Musa strikes the Egyptian in a state of anger, which results in his death.[27] Musa then repents to God, and the following day, he again comes across the same Israelite fighting with another Egyptian. The Israelite again asks Musa for help, and as Musa approaches the Israelite, he reminds Musa of his manslaughter and asks if Musa intended to kill the Egyptian. Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees to the desert after being alerted to his punishment.[13] According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well.[28] Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Shuaib, Musa waters their flocks for them.[28] The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters.[26] Musa consents and works for him for ten years.[26]
+After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute. Musa strikes the Egyptian in a state of anger, which results in his death. Musa then repents to God, and the following day, he again comes across the same Israelite fighting with another Egyptian. The Israelite again asks Musa for help, and as Musa approaches the Israelite, he reminds Musa of his manslaughter and asks if Musa intended to kill the Egyptian. Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees to the desert after being alerted to his punishment. According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well. Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Shuaib, Musa waters their flocks for them. The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
 
 ##### Preaching
 ###### Call to prophethood
 
 This is believed[by whom?] to be the Biblical Mount Sinai, where Musa first spoke to God.
-According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period. During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire for them. When Musa reaches the Valley of Tuwa, God calls out to him from the right side of the valley from a tree, on what is revered as Al-Buq‘ah Al-Mubārakah ("The Blessed Ground") in the Quran.[29] Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake, and later instructed to hold it.[30] The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light.[31] God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God.[31] Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.[28]
+According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period. During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire for them. When Musa reaches the Valley of Tuwa, God calls out to him from the right side of the valley from a tree, on what is revered as Al-Buq‘ah Al-Mubārakah ("The Blessed Ground") in the Quran. Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.
 
 The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) of ancient Egypt and to guide the Israelites, who were enslaved by the former. The Quran directly validates Musa and Harun as prophets chosen by God:
 
 	And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet. And We called him from the side of the mount at [his] right and brought him near, confiding [to him]. And We gave him out of Our mercy his brother Harun as a prophet.
-	Quran 19:51–53[32]
+	Quran 19:51–53
 
 ##### Arrival at Pharaoh's court
-When Musa and Harun arrive in the court of Pharaoh and proclaim their prophethood to the Pharaoh, the Pharaoh begins questioning Musa about the God he follows. The Quran narrates that Musa answers the Pharaoh by stating that he follows the God who gives everything its form and guides them.[33] The Pharaoh then inquires about the generations who passed before them, and Musa answers that knowledge of the previous generations is with God.[34] The Quran also mentions the Pharaoh questioning Musa: “And what is the Lord of the worlds?”[35] Musa replies that God is the lord of the heavens, the earth and what is between them. The Pharaoh then reminds Musa of his childhood with them and the killing of the man he has done.[36] Musa admits that he has committed the deed in ignorance, but insists that he is now forgiven and guided by God. Pharaoh accuses him of being mad and threatens to imprison him if he continues to proclaim that the Pharaoh is not the true god. Musa informs him that he has come with manifest signs from God.[37] When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent.[38] He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
+When Musa and Harun arrive in the court of Pharaoh and proclaim their prophethood to the Pharaoh, the Pharaoh begins questioning Musa about the God he follows. The Quran narrates that Musa answers the Pharaoh by stating that he follows the God who gives everything its form and guides them. The Pharaoh then inquires about the generations who passed before them, and Musa answers that knowledge of the previous generations is with God. The Quran also mentions the Pharaoh questioning Musa: “And what is the Lord of the worlds?” Musa replies that God is the lord of the heavens, the earth and what is between them. The Pharaoh then reminds Musa of his childhood with them and the killing of the man he has done. Musa admits that he has committed the deed in ignorance, but insists that he is now forgiven and guided by God. Pharaoh accuses him of being mad and threatens to imprison him if he continues to proclaim that the Pharaoh is not the true god. Musa informs him that he has come with manifest signs from God. When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent. He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
 
 ##### Confrontation with sorcerers
 
 Pharaoh watches a serpent devour a demon in the presence of Musa; from a manuscript of Qisas al-Anbiya, c. 1540.
-When the sorcerers come to the Pharaoh, he promises them that they would be among the honored among his assembly if they won. On the day of the festival of Egypt, Musa grants the sorcerers the chance to perform first and warned them that God would expose their tricks. The Quran states that the sorcerers bewitch the eyes of the observers and cause them terror.[39][self-published source] The summoned sorcerers throw their rods on the floor, and they appear to change into snakes by the effect of their magic. At first, Musa becomes concerned witnessing the tricks of the magicians, but is assured by God to not be worried. When Musa does the same his rod, the serpent devours all the sorcerers' snakes.[40] The sorcerers realize that they have witnessed a miracle. They proclaim belief in the message of Musa and fall onto their knees in prostration despite threats from the Pharaoh.[citation needed] The Pharaoh is enraged by this and accuses them of working under Musa. He warns them that if they insist in believing in Musa, he would cut their hands and feet on opposite sides, and crucify them on the trunks of palm trees for their betrayal of the Pharaoh. The magicians, however, remain steadfast to their newfound faith and are punished by Pharaoh.[41]
+When the sorcerers come to the Pharaoh, he promises them that they would be among the honored among his assembly if they won. On the day of the festival of Egypt, Musa grants the sorcerers the chance to perform first and warned them that God would expose their tricks. The Quran states that the sorcerers bewitch the eyes of the observers and cause them terror. The summoned sorcerers throw their rods on the floor, and they appear to change into snakes by the effect of their magic. At first, Musa becomes concerned witnessing the tricks of the magicians, but is assured by God to not be worried. When Musa does the same his rod, the serpent devours all the sorcerers' snakes. The sorcerers realize that they have witnessed a miracle. They proclaim belief in the message of Musa and fall onto their knees in prostration despite threats from the Pharaoh. The Pharaoh is enraged by this and accuses them of working under Musa. He warns them that if they insist in believing in Musa, he would cut their hands and feet on opposite sides, and crucify them on the trunks of palm trees for their betrayal of the Pharaoh. The magicians, however, remain steadfast to their newfound faith and are punished by Pharaoh.
 </details>
 <details>
 <summary><b>Exodus</b></summary>
 
 #### Exodus
 ##### Plagues of Egypt
-After losing against Musa, the Pharaoh continues to plan against Musa and the Israelites, ordering meetings with the ministers, princes and priests. According to the Quran, the Pharaoh is reported to have ordered his minister, Haman, to build a tower so that he "may look at the God of Musa".[42] Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt. The Quran states that God decrees punishments over him and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops,[43] pestilence of lice that makes their life miserable,[44] toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.[45]
+After losing against Musa, the Pharaoh continues to plan against Musa and the Israelites, ordering meetings with the ministers, princes and priests. According to the Quran, the Pharaoh is reported to have ordered his minister, Haman, to build a tower so that he "may look at the God of Musa". Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt. The Quran states that God decrees punishments over him and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops, pestilence of lice that makes their life miserable, toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.
 
 ##### Splitting of the sea
-Having escaped and now being pursued by the Egyptians, the Israelites stop when they reach the seafront. The Israelites exclaim to Musa that they would be overtaken by Pharaoh and his army. In response, God commands Musa to strike the Red Sea with his staff, instructing them not to fear being inundated or drowning in sea water. Upon striking the sea, Musa splits it into two parts, forming a path that allows the Israelites to pass through. The Pharaoh witnesses the sea splitting alongside his army, but as they also try to pass through, the sea closes in on them.[46][47] As he is about to die, Pharaoh proclaims belief in the God of Musa and the Israelites, but his belief is rejected by God.[48] The Quran states that the body of the Pharaoh is made a sign and warning for all future generations. As the Israelites continue their journey to the Promised Land, they come upon people who are worshipping idols. The Israelites request to have an idol to worship, but Musa refuses and states that the polytheists would be destroyed by God.[49] They are granted manna and quail as sustenance from God, but the Israelites ask Musa to pray to God for the earth to grow lentils, onions, herbs and cucumbers for their sustenance.[50] When they stop in their travel to the Promised Land due to lack of water, Musa is commanded by God to strike a stone, and upon its impact twelve springs came forth, each for a specific tribe of the Israelites.[51]
+Having escaped and now being pursued by the Egyptians, the Israelites stop when they reach the seafront. The Israelites exclaim to Musa that they would be overtaken by Pharaoh and his army. In response, God commands Musa to strike the Red Sea with his staff, instructing them not to fear being inundated or drowning in sea water. Upon striking the sea, Musa splits it into two parts, forming a path that allows the Israelites to pass through. The Pharaoh witnesses the sea splitting alongside his army, but as they also try to pass through, the sea closes in on them. As he is about to die, Pharaoh proclaims belief in the God of Musa and the Israelites, but his belief is rejected by God. The Quran states that the body of the Pharaoh is made a sign and warning for all future generations. As the Israelites continue their journey to the Promised Land, they come upon people who are worshipping idols. The Israelites request to have an idol to worship, but Musa refuses and states that the polytheists would be destroyed by God. They are granted manna and quail as sustenance from God, but the Israelites ask Musa to pray to God for the earth to grow lentils, onions, herbs and cucumbers for their sustenance. When they stop in their travel to the Promised Land due to lack of water, Musa is commanded by God to strike a stone, and upon its impact twelve springs came forth, each for a specific tribe of the Israelites.
 </details>
 
 <details>
@@ -1007,9 +1158,9 @@ Having escaped and now being pursued by the Egyptians, the Israelites stop when 
 ##### Revelation of the Torah
 
 The revelation of the Torah at Mount Sinai as depicted in Biblical illustrations
-After leaving Egypt, Musa leads the Israelites to Mount Sinai (Tur). Upon arrival, Musa leaves the people, instructing them that Harun is to be their leader during his absence. Musa is commanded by God to fast for thirty days and to then proceed to the valley of Tuwa for guidance. God orders Musa to fast again for ten days before returning. After completing his fasts, Musa returns to the spot where he had first received his miracles from God. He takes off his shoes as before and goes down into prostration. Musa prays to God for guidance and begs God to reveal himself to him.[52] It is narrated in the Quran that God tells him that it would not be possible for Musa to perceive God, but that He would reveal himself to the mountain, stating: "By no means canst thou see Me (direct); But look upon the mount; if it abide in its place, then shalt thou see Me." When God reveals himself to the mountain, it instantaneously turns into ashes, and Musa loses consciousness. When he recovers, he goes down in total submission and asks forgiveness of God.[53]
+After leaving Egypt, Musa leads the Israelites to Mount Sinai (Tur). Upon arrival, Musa leaves the people, instructing them that Harun is to be their leader during his absence. Musa is commanded by God to fast for thirty days and to then proceed to the valley of Tuwa for guidance. God orders Musa to fast again for ten days before returning. After completing his fasts, Musa returns to the spot where he had first received his miracles from God. He takes off his shoes as before and goes down into prostration. Musa prays to God for guidance and begs God to reveal himself to him. It is narrated in the Quran that God tells him that it would not be possible for Musa to perceive God, but that He would reveal himself to the mountain, stating: "By no means canst thou see Me (direct); But look upon the mount; if it abide in its place, then shalt thou see Me." When God reveals himself to the mountain, it instantaneously turns into ashes, and Musa loses consciousness. When he recovers, he goes down in total submission and asks forgiveness of God.
 
-Musa is then given the Ten Commandments by God as Guidance and as Mercy. Meanwhile, in his absence, a man named Samiri creates a Golden Calf, proclaiming it to be the God of Musa.[54] The people begin to worship it. Harun attempts to guide them away from the Golden Calf, but the Israelites refuse to do so until Musa returns. Musa, having thus received the scriptures for his people, is informed by God that the Israelites has been tested in his absence, and they have gone astray by worshiping the Golden Calf. Musa comes down from the mountain and returns to his people.[55] The Quran states that Musa, in his anger, grabs hold of Harun by his beard and admonishes him for doing nothing to stop them, but when Harun tells Musa of his fruitless attempt to stop them, Musa understands his helplessness, and they both pray to God for forgiveness. Musa then questions Samiri for creating the Golden Calf. Samiri replies that it had simply occurred to him, and he had done so.[56] Samiri is exiled, and the Golden Calf is burned to ashes, and the ashes are thrown into the sea. The wrong-doers who have worshipped the Calf are ordered to be punished for their crime.[57]
+Musa is then given the Ten Commandments by God as Guidance and as Mercy. Meanwhile, in his absence, a man named Samiri creates a Golden Calf, proclaiming it to be the God of Musa. The people begin to worship it. Harun attempts to guide them away from the Golden Calf, but the Israelites refuse to do so until Musa returns. Musa, having thus received the scriptures for his people, is informed by God that the Israelites has been tested in his absence, and they have gone astray by worshiping the Golden Calf. Musa comes down from the mountain and returns to his people. The Quran states that Musa, in his anger, grabs hold of Harun by his beard and admonishes him for doing nothing to stop them, but when Harun tells Musa of his fruitless attempt to stop them, Musa understands his helplessness, and they both pray to God for forgiveness. Musa then questions Samiri for creating the Golden Calf. Samiri replies that it had simply occurred to him, and he had done so. Samiri is exiled, and the Golden Calf is burned to ashes, and the ashes are thrown into the sea. The wrong-doers who have worshipped the Calf are ordered to be punished for their crime.
 
 Musa then chooses 70 elites from among the Israelites and orders them to pray for forgiveness. Shortly thereafter, the elders travel alongside Musa to witness the speech between Musa and God. Despite witnessing the speech between them, they refuse to believe until they see God with their own eyes, so as punishment, a thunderbolt kills them. Musa prays for their forgiveness, and they are resurrected. They return to camp and set up a tent dedicated to worshiping God, as Harun had taught them from the Torah. They resume their journey towards the Promised Land.
 
@@ -1932,9 +2083,12 @@ Abu Jahl promises 100 camels for the one who gets rid of the prophet SAW. Umar d
 Khabbab was assigned to tech the Quran for Fatima ibn Khattab.
 
 He wanted to punch Said ibn Zays but punched his sister. so he calmed down and asked let me see what you are reading. Umar could read and write. Umar took ghusl and read Ta Ha. he asked wher is the prophet SAW. and he went to the house of al Arkham still had a sword. 
+
+Khabbab ibn Al Aratt - swordsman whos back was burned and who helped to turn Umar. he said o Umar may you be the one who the prophet Muhammad sas prayed for.
+
 Sahaba saw Umar and scared. Hamza said let him in .
 
-Umar said he came to convert and the prophet SAW said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
+Umar said he came to convert and the prophet SWW said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
 He personally informed Abu Jahl. 
 
 </details>
@@ -2065,23 +2219,82 @@ and renames it to Medina.
 
 ### Medina Period 🕌
 
-* 624 ⚔️ Battle of Badr
-* 624 which year was the change of qiblah: "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). the prophet Muhammad was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
-* Battle of Porridge
-* 625 ⚔️ Battle of Uhud 
-* 627 ⚔️ Battle of Trench 
-* Massacre of men from Quraizah who supported Meccans at the battle of Uhud.
-* 628 attempt of Hajj. 
-	**Treaty of Hudaybiyyah**: A peace agreement is signed between Muhammad's Muslims and the people of Mecca.
-* Conquest of Khaybar oasis: Jews barricade themselves in a fort at Khaybar oasis and are allowed to remain living there if they pay the Muslims one third of their produce.
-* Umrah of the prophet Muhammad saw
-* 630 The Meccans violate the Treaty of Hudaybiyyah. Muslims march on Mecca with 10k army. Meccans recognize their defeat and open the gates.
+<details>
+<summary>Construction of the first mosque</summary>
+Bilal who was tortured by Meccans, who was draggen in chains along the streets of Mecca and who kept saying "Ahadun Ahad" (Allah the One) because he didnot know anything else about Islam. He was the first muathin. Prophet Muhammad sww assigned him to say adhan in the first mosque in Medina because he had a loud and beautiful voice.
+</details>
+
+<details>
+<summary>624 ⚔️ Battle of Badr</summary>
+</details>
+
+<details>
+<summary>624 Change of Qibla to Kaaba</summary>
+624 which year was the change of qiblah: 
+    
+    "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). 
+
+The prophet Muhammad sww was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
+</details>
+
+<details>
+<summary>625 ⚔️ Battle of Uhud</summary>
+</details>
+
+<details>
+<summary>627 ⚔️ Battle of Trench</summary>
+</details>
+
+<details>
+<summary>Treachery of Quraizah tribe </summary>
+Massacre of men from Quraizah who supported Meccans at the battle of Uhud.
+</details>
+
+<details>
+<summary>628 attempt of Hajj</summary>
+</details>
+
+<details>
+<summary>628 **Treaty of Hudaybiyyah**</summary>
+A peace agreement is signed between Muhammad's Muslims and the people of Mecca.
+</details>
+
+<details>
+<summary>Conquest of Khaybar oasis</summary>
+Jews barricade themselves in a fort at Khaybar oasis and are allowed to remain living there if they pay the Muslims one third of their produce.
+</details>
+
+<details>
+<summary>Umrah of the prophet Muhammad sww</summary>
+</details>
+
+<details>
+<summary>630 Mecca become Muslim</summary>
+The Meccans violate the Treaty of Hudaybiyyah
+Muslims march on Mecca with 10k army. Meccans recognize their defeat and open the gates.
+Abu Sufyan accepts Islam.
+Iqrimah ibn Abu Jahl flees. but later he comes to Medina to accept Islam from the hands of the prophet Muhammad sww.
+
+#### Destroying of Idols
+
+#### Bilal climbs on the roof of Kaaba and says adhan
+
+#### Khaled ibn al-Waleed destroys temples of Al-Uzza
+
+</details>
+
 
 ### Last Years of The Prophet Muhammad (sww)
 
-* "Farewell Hajj Pilgrimage": This is the only Hajj pilgrimage in which Muhammad participates.
-* 632 Death of the Prophet Muhammad saw.
+<details>
+<summary>Farewell Hajj Pilgrimage</summary>
+This is the only Hajj pilgrimage in which prophet Muhammad sww participates.
+</details>
+
+<details>
+<summary>632 Death of Prophet Muhammad sww</summary>
 Abu Bakr is elected his khalifah (representative).
+</details>
 
 ## 9.2 The Rashidun (Righteous Khalifs)
 *******************************************
@@ -2100,6 +2313,7 @@ Abu Bakr is elected his khalifah (representative).
 <summary>Umar ibn al-Khattab (634-644)</summary>
 
 * The Muslim armies conquer Iraq, Syria and Egypt.
+* Khaled ibn al-Waalid
 * 638 Muslims conquer Jerusalem, which becomes the third holiest city in the Islamic world after Mecca and Medina.
 * 641 Muslims control Syria, Palestine and Egypt. They have defeated the Persian Empire. The garrison towns of Kufah, Basrah, Fustat are built to house the Muslim troops.
 * 644 Khalif Umar is assassinated by a Persian prisoner of war. Uthman ibn Affan is elected the third caliph.
@@ -2150,10 +2364,19 @@ they did not have buildings, they did not even have a government. they were neve
 *******************************************
 
 Umayyad Dinasty Era 
- Muawiyyah
-	* Science and Medicine
+ Muawiyyah (661-680)
+	* Capital is moved from Medina to Damascus
+  * Death of Hasan ibn Ali in Medina
+  * Science and Medicine
+  <details>
+    <summary>Development</summary>
+I guess here we should write only about the science, medicine and development.
+  </details>
  Yazid I
-	* 680 Battle of Karbala. Murder of Huseyn and his family.
+	* Muawiyyah I dies
+  * 680-92 The Second fitnah
+  * 680 Battle of Karbala. Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
+  Murder of Huseyn and his family.
  Muawiya II
  Marwan I - cousin of Uthman
  Abd al-Malik
@@ -2274,9 +2497,11 @@ Allah says in the Quran that He has already gifted the prophet Muhammad Al Kawth
 
 People will hear Jahannah roar and it will have desire to take the sinners.
 
-People will have their good deeds on the right side and their bad deeds on the left side.
+People will have their good deeds on the right side and their bad deeds on the left side. 
 
-People will have pass through the Sirat bridge above Jahannam. and it will be easy to pass for good people and it will be difficult to pass for bad people and they will fall to Jahannam.
+It will be the time of Ultimate Justice. Allah's promise will be fulfilled for everyone.
+
+People will have pass through the Sirat bridge above Jahannam. and it will be easy to pass for good people and it will be difficult to pass for bad people and they will fall to Jahannam. Animals sacrificed in the name of Allah will assist people to pass the Sirat.
 
 The angel that guards the gates of Heaven will ask: "Who is there?". The prophet Muhammad will reply Muhammad. And malak will say that he is the one for whom the gates must be open. and he will be the first to enter Jannah.
 
