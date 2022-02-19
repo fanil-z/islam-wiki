@@ -377,6 +377,8 @@ file:///C:/Users/Joelle%20van%20Dyne/Downloads/7599-Article%20Text-29415-1-10-20
 
 There is a special type of jinns - shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
 
+The Messenger of Allah (blessings and peace of Allah be upon him) said: “Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’” End quote from Ta’weel Mukhtalaf al-Hadith (p. 200).
+
 #### Era of Jinn on Earth
 
 [Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
@@ -411,10 +413,19 @@ The Qur'an describes how Allah created Adam.
 
 Allah breathed a soul into Adam and Adam sneezed and said "Alhamdulillah". 
 
-Allah gave Adam knowledge and taught him names.
+Allah gave Adam knowledge and taught him names. One of the version of interpretation is that Adam was taught the names of animals and birds. The other version is that he was taught speech.
 Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allah told angels that He knows what they know not.
 
 There is a hadith that Allah showed Adam all of his descendands, and Adam pointed out to Davud and asked who he was. He also asked Allah to add Davud 40 years from Adam's life.
+
+And Allah made all children of Adam as souls to testify that their Lord is Allah.
+
+    And ˹remember˺ when your Lord brought forth from the loins of the children of Adam their descendants and had them testify regarding themselves. ˹Allah asked,˺ "Am I not your Lord?" They replied, "Yes, You are! We testify." ˹He cautioned,˺ "Now you have no right to say on Judgment Day, "We were of this unaware."
+    Quran, surah Al-A'raf (The Heights)
+
+It is the fitrah (natural inclination/sound human nature) which is instilled in our souls and hearts, that drives us to believe in Allah and long to know Him, may He be glorified. In fact, it reaches the level of urgency that pushes and compels us to acknowledge that the Creator, may He be glorified and exalted, is the only, perfect Lord Who bestows His blessings upon us and upon all other created beings.
+
+This spiritual and rational urge (to believe in Allah) is the strongest factor that prompts man to believe in Allah and affirm His Oneness, because it is usually stronger than any other impulses that may lead man to fall into ignorance and doubt. Often this urge (to believe) may overwhelm a person and make him realise the belief in divine Oneness (Tawheed) deep in his heart at times of crisis and calamity, even if the one who still has that sound natural inclination (fitrah) is pretending today to be an atheist. The call of Tawheed is still urging him from deep inside to believe, because of this natural inclination (fitrah) which is the first covenant taken from the sons of Adam.
 
 </details>
 
@@ -1211,6 +1222,34 @@ Khidr informs Musa that they are now to part ways as Musa has broken his promise
 
 ## 6. Jewish Kings and Prophets
 *******************************************
+<details>
+<summary><b>Shammil (Samuel) </b></summary>
+
+> Samuel (Shammil) is seen as a prophet and seer in the Islamic faith. The narrative of Samuel in Islam focuses specifically on his birth and the anointing of Talut. Other elements from his narrative are in accordance with the narratives of other Prophets of Israel, as exegesis recounts Samuel's preaching against idolatry. He is not mentioned by name in the Qur'an, but referred to as a "prophet" instead.
+
+In the Islamic narrative, the Israelites after Moses wanted a king to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth.[citation needed] But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
+
+Ibn Jarir reported that the condition of the Israelites deteriorated. They committed many sins and killed whom they wished of the prophets. Consequently Allah sent them tyrannous kings who ill-treated them and spilled their blood, and set their enemies from outside against them as well. They used to go to war, taking with them The Ark of the Covenant. They did this so that they would be victorious by its blessing, and it became a symbol of calm and a relic left behind by Moses's people. When they went to war with the people of Gaza and Askalon, they were defeated because the Ark of the Covenant was captured from them. When the king of the Israelites heard of this he died on the spot.
+
+The children of Israel remained like sheep without a shepherd until Almighty Allah sent them a prophet named Samuel (Shammil) . They asked him to appoint a king over them to lead them in a war against their enemies.
+
+According to Ibn Asaker, the Israelites believed their Ark of the Covenant to be very holy and an important symbol of their history. They carried the Ark even in battle and believed that, because of it, Allah would protect them from their enemies. This belief gave them peace of mind and great courage, and their enemies were terrified by it. Their enemies also believed that it was given special power by Allah. Gradually the Israelites started to ignore Allah's law; evil habits became part of their lives. Allah sent upon them an enemy, the Philistines, who defeated the Israelites, captured their Ark, drove them out of their homes, and took away their children to use or sell as slaves. Their power was broken. They separated from one another and were very disheartened.
+
+Then came Prophet Samuel among them to bring some relief. They asked the prophet's help in appointing a strong leader, a king under whose banner they could unite and fight the Philistines. Prophet Samuel, knowing their weakness, told them: "I fear that when the time comes to fight you may refuse." But they assured him that they had suffered eSamuel (Arabic: صموئيل, romanized: Samū'ēl) is seen as a prophet and seer in the Islamic faith. The narrative of Samuel in Islam focuses specifically on his birth and the anointing of Talut. Other elements from his narrative are in accordance with the narratives of other Prophets of Israel, as exegesis recounts Samuel's preaching against idolatry. He is not mentioned by name in the Qur'an, but referred to as a "prophet" instead.[34][35]
+
+In the Islamic narrative, the Israelites after Moses wanted a king to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth.[citation needed] But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.nough insults and were now ready to fight in the way of Allah, even if they lost their lives.
+
+Prophet Samuel prayed to Allah for guidance. Allah revealed to him that He had chosen one, Saul (Talut), to be their king. The prophet wanted to know how to recognize the future king. He was told that Saul would come to him by himself and that they should then hand over the control of the kingdom to him, for he would lead them in battle against the Phiistines.
+
+#### Saul is chosen to be the king of Israelites
+
+Saul was tall and sturdy, pious, and very intelligent. He lived and worked with his father on their farm. One day, several of their donkeys were lost. Accompanied by his servant, Saul went in search of them. They traveled for many days and were very tired. Saul said to his servant: "Let us rather go back, for I am sure that my father will be worried by now, and the other animals must also be cared for." His servant suggested that as they were already in the land of Samuel the prophet, they should go to him to inquire about the lost donkeys.
+
+Saul agreed, and they carried on. On their way, they asked directions from some maidens carrying water. They were told to go in the direction of the mountain. Here, a vast crowd was waiting for the Prophet Samuel. When Saul set eyes on him, he instantly recognized him as a prophet by his holy mien. Samuel also recognized Saul as the king that Allah had chosen for them. Saul greeted the prophet respectfully. When he asked about his missing donkeys, Samuel told him not to worry, his donkeys were already on their way to his father's farm.
+
+He then told Saul that Allah had chosen him as the king of the children of Israel. His duty would be to take charge of their affairs, to unite them under one banner, and to protect them from their enemies. If he carried out Allah's commands, he would be given victory. Saul was surprised by this sudden honor offered to him. It was also a heavy responsibility. He protested to the prophet that he was of the Children of Benjamin, the least famous of the tribes of Jacob; he did not know anything of leadership or kingship and had no wealth. Samuel told him that it was the will of Allah that he should be the king, that he should thank Allah for His favor and be strong in faith.
+
+</details>
 
 <details>
 <summary><b>Davud </b></summary>
@@ -1224,7 +1263,7 @@ David's narrative in the Quran, in many respects, parallels that given in the Bi
 
 Among the things taught to David was the ability to make armour (21:80, 34:10–11), a suggestion that David’s military exploits were the act of God. It is also important that the Quranic reference to David's "wisdom" was sometimes explained by the classical exegetes as the gift of prophecy.[7] The Quran also connects David and Jesus, by insisting that both cursed those Israelites who did not believe (5:78). Moreover, according to the Quran, David was given the ability to distinguish between truth and falsehood when dispensing justice (faṣl al-khiṭāb, 38:20). Furthermore, there is the allusion to a test David was put through, wherein he prayed and repented and God forgave him (38:24-5). Surat Sad (the 38th chapter of the Quran) is also called "the sūra of David"[8] Exegetes explain that since David prostrated when asking God to forgive him, Muhammad was ordered to imitate him and to perform a prostration when reading this chapter.[9]
 
-Religious significance
+### Religious significance
 David is one of the few Islamic Prophets who received Kingship as well. While other prophets preached during the reign of kings, David, in his time, was the king. Thus, he received an extremely large task, of making sure that the people of Israel were not only held in check spiritually but that the country itself remained strong as well. His place as both leader and prophet is revered by all Muslims as one of extremely high rank. The figure of David, together with that of his prophetic son, Solomon, are iconic of people who ruled justly over their land. God frequently mentions David's high rank as a prophet and messenger in the Quran. He is often mentioned alongside other prophets to emphasize how great he was. For example, God says:
 
 	And We gave him Isaac and Jacob and guided them, as We had guided Noah before them, and of his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus We reward those who are upright and do good.
