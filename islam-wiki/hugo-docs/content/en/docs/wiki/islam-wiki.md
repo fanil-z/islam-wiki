@@ -1735,8 +1735,77 @@ Allah's Apostle said, "The Hour will not be established until the son of Mary (i
 </details>
 
 <details>
-<summary>Apostoles and Paul</summary>
+<summary>Apostoles and [Paul]</summary>
  
+The disciples of Jesus are known in the Quran and the traditions of Prophet Muhammad, may the mercy and blessings of God be upon him, as Al-Hawariyoon.  This is an Arabic word meaning simply, the disciples of Jesus.  However, hawariyoon, like many words in the Arabic language, has specific and general meanings, and in some cases, particularly in Islamic words, there are layers of meanings.
+
+Hawari is derived from the root Arabic word hawr that means to whiten, to bleach, to purify, to clean, to change, to transform, to amend and to alter.  Hawari is a singular word and literally means, he who whitens clothes, he who has been appointed, chosen, and purified from all kinds of defects, and a companion or a helper.  The plural is hawariyoon.   
+
+Prophet Jesus’ companions were also known as apostles.  The words apostles or disciples were used to differentiate Jesus’ close companions from followers whose numbers were steadily growing.   Islamic scholars have pondered and discussed the reason for calling the disciples Al-Hawariyoon throughout Islamic history.  Renowned Islamic Quran scholar Ibn Kathir states that the disciples were so named because of their white clothes and he also mentions the meaning of a helper or supporter. 
+
+It is interesting to note that the majority of Jesus’ disciples were fishermen and their clothes would have been white due to their daily toil.  The whiteness could then be extrapolated to include the whitening of people’s hearts through the teachings of Prophet Jesus.   Other scholars have stated that hawari implies one who is capable of being a leader, and almost all scholars agree that a hawari is a sincere person or friend. 
+
+The scholars of Christianity and Islam agree that Prophet Jesus was surrounded by twelve supporters, who were his close friends, companions.   Quran has addressed Jesus’ companions as Al-Hawariyoon five times in four different verses.  The first time they are mentioned is in Chapter three of the Quran, entitled The Family of Imran.  This family includes many people well known to Christians including, Jesus and his mother Mary, and John, known as the Baptist.   
+
+At the time Jesus began his mission many Israelites were so far astray from the truth that Jesus considered it to be disbelief.  He called them back to the worship of the One True God, yet most of those around him rejected his call and failed to heed his message.  After revealing and clarifying that he is a Messenger from God, Jesus asks those listening to his message, who among them would be his helpers in God’s cause.
+
+"Then when Jesus came to know of their disbelief, he said, ‘Who will be my helpers in God’s cause?’ Al-Hawariyoon (the disciples) replied, ‘We are the helpers of God; we believe in God, so bear witness that we submit to God.’" (Quran 3:52)
+
+They continued to pledge their allegiance to God and His Messenger Jesus.
+
+    "‘Our Lord! We believe in what You have sent down and we follow the Messenger (Jesus); so write us down among those who bear witness (to the truth).’" 
+    Quran 3:53
+
+Then in another chapter God Himself reveals that He was responsible for the people who became the disciples of Jesus, Al-Hawariyoon.
+
+    "I (God) put it in the hearts of Al-Hawariyoon to believe in Me and My Messenger, they said: ‘We believe. And bear witness that we are submitted to God.’"
+    Quran 5:111
+
+The disciples were submitted to God; they followed the teachings of Jesus and were his companions and supporters.  They helped him call the Israelites back to the worship of One God.  Jesus never called himself God and the disciples were fully aware that they worshipped God and followed a man.  It is the man known as the apostle Paul who called people to worship Jesus.  It is wrong to assume that Paul was a disciple—he never met Jesus nor did he hear him speak or teach.   
+
+Paul was a Pharisee, a Jewish sect that Dictionary.com defines as strict in its observance of religious ceremonies and practices, and adherence to oral laws and traditions.  Remarkably the secondary definition is a sanctimonious, self-righteous, or hypocritical person.  Many thinkers and scholars believe that Paul almost singlehandedly destroyed the teachings of Jesus. 
+
+The scholars of Islam reflect that there are two reasons why Paul would have joined the disciples after Jesus’ death.  Either, in his role as a Pharisee, he was sent to undermine and sabotage the new movement, or the experience[1]  he had on the road to Damascus was a trick from Satan, designed to undermine and sabotage Jesus’ teachings.  Quran is silent about Paul and also does not mention or imply that any of Jesus’ companions, Al-Hawariyoon, ever betrayed him.
+
+Chapter five of the Quran is named The Table Spread with Food.  It refers to Al-Hawariyoon asking Jesus if God could send down a table spread with food.  What exactly they meant has been discussed often, and it seems most likely that they were asking Jesus either playfully or seriously if God would supply them with a feast rather than asking if He could do such a thing.  Jesus warned them not to speak so flippantly but nevertheless asked God to perform a miracle.
+
+    (Remember) when Al-Hawariyoon said, "O Jesus, son of Mary! Can your Lord send down to us a table spread with food from heaven?" Jesus replied, "Fear God, if you are indeed believers." They said: "We wish to eat thereof and to satisfy our hearts (to be stronger in Faith), and to know that you have indeed told us the truth and that we ourselves be its witnesses." Jesus, son of Mary, prayed, "O God, our Lord! Send us from the heaven a table spread with food that there may be for us—for the first and the last of us—a festival and a sign from You; and provide us sustenance, for You are the Best of sustainers." God answered, "I will send it down to you, but if any of you after that disbelieves, then I will punish him with a torment such as I have not inflicted on anyone among all humankind and jinn." 
+    Quran 5:112-115
+
+Among the reasons for their request was that the disciples wanted to be witnesses before all of humankind.   They wanted to spread the message of Jesus by proclaiming the miracles they witnessed with their own eyes.  The disciples followed the teaching of Jesus even after his death.  Unfortunately, over time, the true message of Jesus and the faith of the disciples was discarded and forgotten. 
+
+Islam holds the disciples of Jesus, Al-Hawariyoon, in high esteem.  Prophet Muhammad, may the mercy and blessings of God be upon him, mentions Jesus and his disciples in his traditions.  The Quran mentions their faith and their status as the helpers of Jesus, highlights their faith and sacrifice, and calls on the Companions of Prophet Muhammad to be like them.   
+
+"O believers! Be supporters of God, as when Jesus, son of Mary, asked the disciples, ‘Who are my supporters for God?’ The disciples replied, ‘We are supporters of God.’ Some of the Children of Israel believed and some disbelieved.  We then supported the believers against their enemies, so they prevailed." (Quran 61:14)
+
+This verse tells us that some of the Children of Israel heard Jesus’ message and believed him, while others disbelieved.  Six hundred years later some people believed Prophet Muhammad while others turned their back and actively fought against Islam.  Prophet Jesus and Prophet Muhammad both needed strong people around them.  They needed helpers; they needed trustworthy people with conviction of faith.  Al-Hawariyoon were the people of the inner circle, the ones Prophet Jesus could depend on, and the Companions were the ones who stood by and supported Prophet Muhammad.
+
+Prophet Muhammad said, "There is no Prophet who was sent by God to a nation before me except that he had hawariyoon and companions."[1]  During the campaign of al-Ahzab, the Prophet asked his Companions three times which of them would scout the disbeliever’s camp, and al-Zubayr volunteered each time.  The Prophet said, "Every Prophet has a disciple (hawari), and my disciple is al-Zubayr."[2]  This story reflects a narration in Ibn Kathir’s commentary on the above verse, Quran 61:14, in which a young disciple volunteered three times to take the place of Jesus when Jesus and Al-Hawariyoon knew that harassment and arrest were probable.
+
+Some groups of Prophet Muhammad’s Companions can be directly likened to the disciples of Jesus.  When the fledgling Muslim community migrated to Medina, they were met and taken in by the residents of Medina, who came to be known as the Helpers, or the Ansar.  They played a pivotal role in the establishment of the Islamic community.  They embraced the emigrants as if they were family; they shared their homes, their food, their businesses and their wealth—all for the sake of God, and out of respect for Prophet Muhammad and his message. 
+
+The leaders of the Children of Israel harassed Jesus and tried to make it very difficult for him to spread his message.   While his followers understood that he was calling them back to the teachings of the Torah, the Jewish government of the time accused him of blasphemy.  Jesus needed helpers to keep him safe, and he needed them to have a deep understanding of the message. 
+
+Some of the Companions of Prophet Muhammad were given glad tidings of Paradise long before their deaths.  They can also, in some respects, be compared to Al-Hawariyoon.
+
+God chose Prophet Muhammad as a mercy to humankind and thus to spread the message of Islam.   He also chose the people that would be close to him.  In part one we mentioned that God Himself chose Al-Hawariyoon.  He knew which people would be the best supporters of Prophet Jesus.  God also knew who the best supporters of Prophet Muhammad would be.  If we examine their lives, we will notice that there was something about the close Companions of Prophet Muhammad that made them different from all other men at the time, and this is why God chose them; they were trustworthy, honest and truthful men.  They were men with strong characters, and they shared all these qualities with their Prophet. 
+
+We are blessed to know a great deal about Prophet Muhammad’s Companions however we do not know as much about Al-Hawariyoon.  What we do know is limited to what is in the Quran and the traditions of Prophet Muhammad.  We do know that they possessed the same qualities as the Companions and were also chosen by God.   From the freely available Christian texts we can glean very little.  The Gospels can be interpreted in many ways and are colored by their contributors' and editors' reflections on events that had happened 60 or more years before they were written.   
+
+Peter (Cephas) the man formerly known as Simon was very close to Jesus.  Jesus changed his name; this was also one of Prophet Muhammad’s practices.  If the name of a Companion had a bad meaning or a meaning in conflict with Islamic principles, Prophet Muhammad gave that person a better name.  Jesus changed Simon’s name to one that was full of meaning.  Peter (Cephas) means stone or rock, and scholars of the Gospels generally agree that Peter was a man of strong, unmovable conviction.
+
+Prophet Muhammad mentions Jesus in some of his sayings and from his words we are able to deduce a little more about Jesus and his disciples.  Prophet Muhammad considered Jesus to be like a brother. 
+
+"Both in this world and in the Hereafter, I am the nearest of all people to Jesus, the son of Mary.  The Prophets are paternal brothers; their mothers are different, but their religion is one."[3]
+
+Both Prophet Muhammad and Prophet Jesus shared a mission and were both surrounded and protected by men who shared their devotion to God and His cause. 
+
+</details>
+<details>
+  <summary>The Return of Jesus</summary>
+Both Islam and Christianity expect the return of Jesus at the end of times, and both expect trials and tribulations to occur at the time.  Many of the themes of these trials are similar, but they are also very different in detail and definition.  Both religions expect the nation of believers to be the final victors, but the Christian believes that these are defined as the believers in the Gospel of the New Testament and in Christ as ‘the Savior’ and ‘the Incarnation’ of God, whilst the Muslim knows that it refers to those who believe in the pure monotheism entailed in submission to the One and Only True God.
+
+The return of Jesus is preceded in both religions by signs, again similar in general description, but subtly different in detail.  Both religions teach that the return of Jesus will be preceded by a great and powerful figure of falsehood and temptation, called the Maseeh ad-Dajjal (The False Messiah) by the Muslims and the Anti-Christ by the Christians.  Before this event other signs that agree with each other include a general increase in immorality and fornication, murder and crime, and general lawlessness, debauchery and falling away from religion and true knowledge.  Accompanying these signs of civil malaise will be internecine[1]  wars, and natural disasters following closely one upon the other.  The details and timings of these, however, are substantially different, even within particular faiths.  How the Christian faith regards the second coming depends on the doctrinal view held.  Four broad views are prominent: Historical and Dispensational Ante-millennialism, and Preterist Post and A-millennialism.
 </details>
 
 <details>
