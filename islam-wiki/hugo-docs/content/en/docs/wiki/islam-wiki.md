@@ -1236,7 +1236,8 @@ The children of Israel remained like sheep without a shepherd until Almighty All
 According to Ibn Asaker, the Israelites believed their Ark of the Covenant to be very holy and an important symbol of their history. They carried the Ark even in battle and believed that, because of it, Allah would protect them from their enemies. This belief gave them peace of mind and great courage, and their enemies were terrified by it. Their enemies also believed that it was given special power by Allah. Gradually the Israelites started to ignore Allah's law; evil habits became part of their lives. Allah sent upon them an enemy, the Philistines, who defeated the Israelites, captured their Ark, drove them out of their homes, and took away their children to use or sell as slaves. Their power was broken. They separated from one another and were very disheartened.
 
 Then came Prophet Samuel among them to bring some relief. They asked the prophet's help in appointing a strong leader, a king under whose banner they could unite and fight the Philistines. Prophet Samuel, knowing their weakness, told them: "I fear that when the time comes to fight you may refuse." But they assured him that they had suffered eSamuel (Arabic: صموئيل, romanized: Samū'ēl) is seen as a prophet and seer in the Islamic faith. The narrative of Samuel in Islam focuses specifically on his birth and the anointing of Talut. Other elements from his narrative are in accordance with the narratives of other Prophets of Israel, as exegesis recounts Samuel's preaching against idolatry. He is not mentioned by name in the Qur'an, but referred to as a "prophet" instead.
-
+
+
 In the Islamic narrative, the Israelites after Moses wanted a king to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth.[citation needed] But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.nough insults and were now ready to fight in the way of Allah, even if they lost their lives.
 
 Prophet Samuel prayed to Allah for guidance. Allah revealed to him that He had chosen one, Saul (Talut), to be their king. The prophet wanted to know how to recognize the future king. He was told that Saul would come to him by himself and that they should then hand over the control of the kingdom to him, for he would lead them in battle against the Phiistines.
@@ -1907,6 +1908,11 @@ Mudr was the first to use camels into caravans.
 Kinanah was noble. People used to do Hajj to meet Kinana. He was a legendary Arab full of knowledge. from Kinana Allah chose Quraish. Onw person who combines all Quraish is Fahr. All promised Paradise are from Quraish. There are about 12 tribes ofQuraish. Khusay gathered Quraish reclaimed MEcca for QUraish and made the rules of  Kaaba and hospitality and storing of the key and water.  there was no ZAmzam at that time. Whne Khuzahah attacked Jurhum, people buried the well of Zamzam. for over 300 years peoplewereforcedto dig wells from other places. 
 Hashim extablished trading betwwen Basra and Yemen. HAshim became wealthy.he fed the pilgrims. The surah Quraish is about this. it wasnot allowed to rob Quraish caravans because they protected the Qaaba. One of wives of Hashim was from Yathrib. So the prophet SAW hab blood relations with the Ansar.  
 
+#### Poetry
+Another thing to mention is that Arabia at that time was famous for its poetry. Poetry was part of their historical culture and a popular activity. Famous poets were respected and regarded. And they have perfected their art of poetry through generations and knew how to see good poetry from bad ones. The best poets used to write and recite about current or past events in form of witty metaphors, jokes and rhymes.
+
+This is also a very important part of Arabic culture because later when these people hear the Quran they are amazed by its beauty, even though it is not poetry.
+
 </details>
 <details>
 <summary>Jaahiliyah</summary>
@@ -2390,6 +2396,23 @@ The prophet Muhammad sww was calling himself the follower of the religion of Ibr
 <summary>Treachery of Quraizah tribe </summary>
 Massacre of men from Quraizah who supported Meccans at the battle of Uhud.
 </details>
+
+<details>
+<summary>Abu Dharr Al-Ghifari comes to Medina with all his tribe</summary>
+
+>Abu Dharr comes to the prophet Muhammad sww in early years of preaching in Mecca. The prophet Muhammad sww sends him back to his tribe to preach and wait for the news of the victory of Islam. 
+>One day a tribe of horses and camels rush to Medina and people are scared because they think an army is coming to attack muslims.
+>Abu Dharr says: "Oh Messenger of Allah, here is every single one of the Al Ghifarr." and the prophet Muhammad sww replies: "May Allah forgive the entirety of Ghifarr."
+
+As the hadith says: "If anybody wants to see the abstinent from the dunya of Eesa (as), then he shoul look at Abu Dharr al-Ghifari.
+
+He sends his brother to the messenger and his brother returns and says: I found a man who recites beautiful kalam and I don't think it's poetry, and I also saw that he teaches good things, good characteristics.
+
+Sl-Ghifar were known to be bandits who used to ride caravans.
+According to some narrations, Abu Dharr was the fifth person to embrase Islam.
+  
+</details>
+
 
 <details>
 <summary>628 attempt of Hajj</summary>
