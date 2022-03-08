@@ -704,9 +704,8 @@ After the flood, humankind started over and for some time they lived in tawhid.
 
 <details>
 <summary><b>Historic Side-Note </b></summary>
-Here the examples of all old nations among which existed the story of the great flood.
 
-Story of the great flood occurs in:
+Mention of the great flood occurs in stories of many old nations:
 the Mesopotamian flood stories, the Genesis flood narrative, Nuh (Noah) in Islam, manvantara-sandhya in Hinduism, the Gun-Yu in Chinese mythology, Deucalion and Pyrrha in Greek mythology, Bergelmir in Norse mythology, the arrival of the first inhabitants of Ireland with Cessair in Irish mythology, in parts of Polynesia such as Hawaii, the lore of the K'iche' and Maya peoples in Mesoamerica, the Lac Courte Oreilles Ojibwa tribe of Native Americans in North America, the Muisca and Cañari Confederation in South America, Africa, and some Aboriginal tribes in Australia.
 
 One example of a flood myth is the Epic of Gilgamesh. Many scholars believe that this account was copied from the Akkadian Atra-Hasis, which dates to the 18th century BC. In the Gilgamesh flood myth, the highest god, Enlil, decides to destroy the world with a flood because humans have become too noisy. The god Ea, who had created humans out of clay and divine blood, secretly warns the hero Utnapishtim of the impending flood and gives him detailed instructions for building a boat so that life may survive. Both the Epic of Gilgamesh and Atra-Hasis are preceded by the similar Sumerian creation myth (c. 1600 BC)—the oldest surviving example of such a flood-myth narrative, known from tablets found in the ruins of Nippur.
@@ -715,11 +714,44 @@ https://en.wikipedia.org/wiki/List_of_flood_myths
 </details>
 
 <details>
-<summary><b>Hud (Eber?) and people of 'Ad </b></summary>
-People of Aad were tall, strong and famous fro their craftsmanshift, especially in building construction. 
+<summary><b>Hud and people of 'Ad </b></summary>
+'Ad was an ancient Arab tribe. Hud is sometimes identified with Eber.
+People of Aad were tall, strong and famous for their craftsmanshift, especially in building construction.
 
-<p>at first Ad people worshipped only Allah but then they made idols from stones. and Allah sent them Hud. and they called him a fool and a liar and said tell Allah to send his punishment if you are truthfull. then a draught happened. the plants died but people continued to worship idols. 3 years was the draught. Allh told Hud to gather his followers and leave.
-and then a black cloud came. People of Aad thought that this cloud will bring them rain. The weather changed. the wind ripped their houses apart and destroyed their buildings. the storm did not stop until the entire region was reduced to ruins.</p>
+<p>At first, Ad people worshipped only Allah but then they made idols from stones. and Allah sent them their brother Hud. and they called their prophet a fool and a liar and said tell Allah to send his punishment if you are truthfull. Then a draught happened. Plants died but people continued to worship idols. The draught lasted 3 years. Allah told Hud to gather his followers and leave.
+And then a black cloud approached them. People of Aad thought that this cloud will bring them rain. The weather changed. The wind ripped their houses apart and destroyed their buildings. The storm did not stop until the entire region was reduced to ruins.
+
+    We sent to the people of 'Ad their brother Hud, who said: "O my people, worship God; you have no other god but He. (As for the idols,) you are only inventing lies.
+    O my people, I ask no recompense of you for it: My reward is with Him who created me. Will you not, therefore, understand?
+    O my people, beg your Lord to forgive you, and turn to Him in repentance. He will send down rain in torrents for you from the skies, and give you added strength. So do not turn away from Him as sinners."
+    They said: "O Hud, you have come to us with no proofs. We shall not abandon our gods because you say so, nor believe in you.
+    All we can say is that some of our gods have smitten you with evil." He replied:" I call God to witness, and you be witness too, that I am clear of what you associate (in your affairs)
+    Apart from Him. Contrive against me as much as you like, and give me no respite.
+    I place my trust in God who is my Lord and your Lord. There is no creature that moves on the earth who is not held by the forelock firmly by Him. Verily the way of my Lord is straight.
+    If you turn away, then (remember) I have delivered to you the message I was sent with. My Lord will put other people in your place, and you will not be able to prevail against Him. Indeed my Lord keeps a watch over all things."
+    Qur'an, sura 11 (Hud), ayah 50-57
+
+After Hud has been left alone by the people of ʿĀd for a long time. The majority of them, however, refused to pay any notice to his teachings and they kept ignoring and mocking all he said. As their aggression, arrogance and idolatry deepened, God, after plenty of warning, sent a thunderous storm to finish the wicked people of ʿĀd once and for all. The destruction of the ʿĀd is described in the Quran:[6]
+
+    So when they saw it as a cloud advancing towards their valleys, they said: "This is just a passing cloud that will bring us rain." "No. It is what you were trying to hasten: The wind which carries the grievous punishment!
+    It will destroy everything at the bidding of its Lord." So in the morning there was nothing but their empty dwellings to be seen. That is how We requite the sinners.
+    Qur'an, Surah 46 (Al-Ahqaf), ayah 24-25
+
+The King Saud University from The Kingdom of Saudi Arabia stated the interpretation from Al-Tabari of Quran 69:6–129 were narrated about the disaster which caused the extinction of ʿĀd.[23] Wahbah al-Zuhayli, Salih bin Abdullah al Humaid, Imam of Grand Mosque of Mecca, along with the officials of Ministry of Islamic Affairs, Dawah and Guidance also agreed the verse were speaking about the punishment from God towards ʿĀd peoples.[24]
+
+Meanwhile, another Quran verse that describe further the characteristic of winds that bear calamity were Adh-Dhariyat:
+
+    And in ‘Ad when We unleashed upon them a barren wind.
+    Qur'an Surah 51,(Adh-Dhariyat), ayah 41
+
+Exegesis experts translate the "al-Rih ul-Aqeem" (الريح العقيم) literally as "fruitless wind" or "barren wind", a winds that does not bring benefit or any positive reaction to any biological existences.[21] According to Arabic linguists and tafseer experts has examined the al Aqeem are in it literal form as "sterile" in this verse context, which correlate the antithesis of common characteristic of natural winds that usually benefitted the natural cycle or any biological progressions or reproductions whether for humans, animals, or plants.[21]
+
+In addition for its barren characteristic, another verse also described additional feature about the catastrophic tornado which decimated the 'Ad were Al-Qamar:
+
+    Surely We sent on them an evil omen (catastrophes), the wind (a furious very cold of harsh voice) that lasts throughout the day.
+    Qur'an Surah 54,(al-Qamar), ayah 19
+
+</p>
 </details>
 
 <details>
@@ -2341,13 +2373,16 @@ He said: One of the callers of the jinn came to me so I went out to meet with th
 #### Hijrah
 
 <details>
-<summary><b>622</b>: Arabs from Yathrib meet the prophet Mohammad saw and invite him</summary>
+<summary><b>622</b>: Arabs from Yathrib meet the prophet Mohammad saw and invite him to stay in their city.
+
+Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new.
+
+</summary>
  
 </details>
  
 <details>
 <summary><b>621</b>:  70 families move to Yathrib  </summary>
- 
 
 Suhaib al-Rumi. He was taken as a slave by Byzantine soldiers as a young boy, and 20 ears he lived in Byzantine lands as a slave speaking Greek and forgot Arabic. He escaped from bondage and headed to Mecca. Abdullah ibm Judan took him as mawliya he engaged in trade and became rich. He was not tortuted very harshly. Before hijra to MEdina the Quraish tried to stop him but he threatened them with arrows. 
 
@@ -2361,7 +2396,6 @@ Suhayb described the place in his house in Mecca where he had left the money, an
 <details>
 <summary><b>622</b>: Assasination Attempt and Hijra</summary>
 The beginning of the Muslim era. 
-and renames it to Medina.
 </details>
 
 ### Medina Period 🕌
