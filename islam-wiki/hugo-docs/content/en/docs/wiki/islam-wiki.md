@@ -402,7 +402,7 @@ According to Quranic creation narrative, God informed the angels, that He was go
     And mention [O Muhammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?" Allah said, "Indeed, I know that which you do not know." 
     Quran (2:30)
   
-While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
+While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes🐒. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
 The Qur'an describes how Allah created Adam.
 
 	"We created man from sounding clay, from mud moulded into shape..." 
@@ -411,12 +411,20 @@ The Qur'an describes how Allah created Adam.
 	"He began the creation of man from clay, and made his progeny from a quintessence of fluid"
 	(Quran 32:7-8) 
 
-Allah breathed a soul into Adam and Adam sneezed and said "Alhamdulillah". 
+
+There is a hadith from Abu Huraira 🐈: 
+
+    When Allah breathed a soul into Adam, Adam sneezed and said "Alhamdulillah!" (Praise to God!). Allah replied "Yarmukallah, o Adam (Let God give you of His Mercy!). Go to those angels that sit in the gathering and say to them "Assalamu Aleykum!" (Peace be upon you). Angels replied "Waaleykum Assalam wa Rahmatullah (And peace to you and mercy)!" 
+    When Adam returned to his Lord, He said: "Indeed, this will be your greeting, and greeting of your sons among each other".
+    The hadith further says that then Allah opened His hand and showed Adam all of his descendands, and Adam pointed out to Davud and asked who he was. He also asked Allah to add Davud 40 years from Adam's life.
+ 
+Затем Аллах обратился к Адаму, в то время как обе Руки Его были сжаты, и сказал: “Выбери из них какую пожелаешь”. Адам сказал: “Я выбрал правую Руку Господа моего”. Ведь обе Руки Аллаха правые, благие. Тогда Он распростёр Руку Свою, и в ней был Адам и все его потомство. Адам спросил: “О Господь, кто это такие?”, – “Это потомство твоё”, ответил ему Всевышний. У каждого человека между глаз был написан срок его жизни, и в среде их был мужчина, от которого исходило одно из самых сильных свечений, Адам спросил: “Кто этот человек?”, Аллах ответил ему: “Это твой сын Дауд и ему написано жить сорок лет”. Адам сказал: “О Господь, продли его жизнь”, Аллах сказал: “Такой срок Я ему предписал”, Адам вновь обратился: “О Господь, я дарю ему от своей жизни шестьдесят лет”, на что Аллах ответил: “Да будет по-твоему”. 
+Потом он был поселён в Раю на столько, на сколько пожелал Аллах, затем был изгнан из него, и всегда вёл для себя счёт (своих дней). Когда ангел смерти пришёл к нему, Адам сказал ему: “Ты поспешил, мне предписано тысячу лет ангел сказал: Да это так, но ты подарил своему сыну Дауду шестьдесят лет Отпирался Адам и потомки его отпираются, Адаму была внушена забывчивость и потомкам его внушена забывчивость. И с тех пор велено людям записывать договора и призывать свидетелей
+ 
+📚Шейх аль-Албани назвал хадис достоверным. См. Сахих аль-джами’ ас-сагъир 5209.
 
 Allah gave Adam knowledge and taught him names. One of the version of interpretation is that Adam was taught the names of animals and birds. The other version is that he was taught speech.
 Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allah told angels that He knows what they know not.
-
-There is a hadith that Allah showed Adam all of his descendands, and Adam pointed out to Davud and asked who he was. He also asked Allah to add Davud 40 years from Adam's life.
 
 And Allah made all children of Adam as souls to testify that their Lord is Allah.
 
@@ -737,14 +745,14 @@ After Hud has been left alone by the people of ʿĀd for a long time. The majori
     It will destroy everything at the bidding of its Lord." So in the morning there was nothing but their empty dwellings to be seen. That is how We requite the sinners.
     Qur'an, Surah 46 (Al-Ahqaf), ayah 24-25
 
-The King Saud University from The Kingdom of Saudi Arabia stated the interpretation from Al-Tabari of Quran 69:6–129 were narrated about the disaster which caused the extinction of ʿĀd.[23] Wahbah al-Zuhayli, Salih bin Abdullah al Humaid, Imam of Grand Mosque of Mecca, along with the officials of Ministry of Islamic Affairs, Dawah and Guidance also agreed the verse were speaking about the punishment from God towards ʿĀd peoples.[24]
+The King Saud University from The Kingdom of Saudi Arabia stated the interpretation from Al-Tabari of Quran 69:6–129 were narrated about the disaster which caused the extinction of ʿĀd. Wahbah al-Zuhayli, Salih bin Abdullah al Humaid, Imam of Grand Mosque of Mecca, along with the officials of Ministry of Islamic Affairs, Dawah and Guidance also agreed the verse were speaking about the punishment from God towards ʿĀd peoples.
 
 Meanwhile, another Quran verse that describe further the characteristic of winds that bear calamity were Adh-Dhariyat:
 
     And in ‘Ad when We unleashed upon them a barren wind.
     Qur'an Surah 51,(Adh-Dhariyat), ayah 41
 
-Exegesis experts translate the "al-Rih ul-Aqeem" (الريح العقيم) literally as "fruitless wind" or "barren wind", a winds that does not bring benefit or any positive reaction to any biological existences.[21] According to Arabic linguists and tafseer experts has examined the al Aqeem are in it literal form as "sterile" in this verse context, which correlate the antithesis of common characteristic of natural winds that usually benefitted the natural cycle or any biological progressions or reproductions whether for humans, animals, or plants.[21]
+Exegesis experts translate the "al-Rih ul-Aqeem" (الريح العقيم) literally as "fruitless wind" or "barren wind", a winds that does not bring benefit or any positive reaction to any biological existences. According to Arabic linguists and tafseer experts has examined the al Aqeem are in it literal form as "sterile" in this verse context, which correlate the antithesis of common characteristic of natural winds that usually benefitted the natural cycle or any biological progressions or reproductions whether for humans, animals, or plants.
 
 In addition for its barren characteristic, another verse also described additional feature about the catastrophic tornado which decimated the 'Ad were Al-Qamar:
 
@@ -760,32 +768,29 @@ In addition for its barren characteristic, another verse also described addition
 (Selah?)
 
 Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
-</details>
 
-<details>
-<summary><b>Open history of Thamud </b></summary>
-<p>
 According to the Quran, the city that Saleh was sent to was called al-Hijr, which corresponds to the Nabataean city of Hegra. The city rose to prominence around the first century AD as an important site in the regional caravan trade. Adjacent to the city were large, decorated rock-cut tombs used by members of various religious groups.
-</p><p>
+
 Saleh's life in his community had been so righteous that the people of Thamud virtually relied upon him for support. He was chosen by God as a Messenger and sent to preach against the selfishness of the wealthy and to condemn the practice of Shirk (Idolatry or Polytheism). Although Saleh preached the message for a sustained period of time, the people for Thamud refused to hear his warning and instead began to ask Saleh to perform a miracle for them. They said: "O Salih! Thou hast been of us! A centre of our hopes hitherto! Dost thou forbid us the worship of what our fathers worshiped? But we are really in suspicious (disquieting) doubt as to that to which thou invitest us."
-</p><p>
+
 Saleh reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Saleh's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
-</p><p>
+
 In response, God gave the Thamud a blessed she-camel, as both a means of sustenance and a test. The tribe was told to allow the camel to graze peacefully and avoid harming her. But in defiance of Saleh's warning, the people of the tribe hamstrung the camel. Saleh informed them that they had only three more days to live before the wrath of God descended upon them. The people of the city were remorseful, but their crime could not be undone, and all the disbelieving people in the city were killed in an earthquake. Al-Hijr was rendered uninhabited and remained in ruins for all time thereafter. Saleh himself and the few believers who followed him survived.
-</p><p>
+
 The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
-</p> </details>
+</details>
 
 ## 4. Ibrahim
 *******************************************
 
-
 <details>
-  <summary>History</summary>
+  <summary>Historical Side-Note</summary>
 There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources clain that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. there is scientific evidence that Homo-Sapiens existed for ...
 and the prophet Muhammad saw said that the distance between me and Al Kiyamah is like distance between my two fingers.
 
-Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
+Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). The ziggurat of Ur stand in the desert till this day.
+
+Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
 In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is said to have taken place. 
 </details>
 
@@ -855,7 +860,6 @@ Promised land of Canaan for Isaac
 promise of descendands 
 promisces of blessings for those who follow the covenenant
 
-
 </details>
 
 
@@ -866,9 +870,9 @@ promisces of blessings for those who follow the covenenant
 
 According to Bible: As had been prophesied in Mamre the previous year,[40] Sarah became pregnant and bore a son to Abraham, on the first anniversary of the covenant of circumcision. Abraham was "an hundred years old", when his son whom he named Isaac was born; and he circumcised him when he was eight days old.[41] For Sarah, the thought of giving birth and nursing a child, at such an old age, also brought her much laughter, as she declared, "God hath made me to laugh, so that all who hear will laugh with me."[42] Isaac continued to grow and on the day he was weaned, Abraham held a great feast to honor the occasion. During the celebration, however, Sarah found Ishmael mocking; an observation that would begin to clarify the birthright of Isaac.
 
-	Ishaq is the father of Yaqub and grandfather of Yusuf.
+Ishaq is the father of Yaqub and grandfather of Yusuf.
 
-	Islam considers Isaac (Arabic:اسحاق Ishaaq) a prophet of Islam, and describes him as the father of the Israelites and a righteous servant of God.
+Islam considers Isaac (Arabic:اسحاق Ishaaq) a prophet of Islam, and describes him as the father of the Israelites and a righteous servant of God.
 
 Isaac, along with Ishmael, is highly important for Muslims for continuing to preach the message of monotheism after his father Abraham. Among Isaac's children was the follow-up Israelite patriarch Jacob, who is also venerated as an Islamic prophet.
 
@@ -879,22 +883,21 @@ Elsewhere in the Quran, Isaac is mentioned in lists: Joseph follows the religion
 Quran
 The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jacob are mentioned as being bestowed upon Abraham as gifts of God, who then worshipped God only and were righteous leaders in the way of God:
 
-And We bestowed on him Isaac and, as an additional gift, (a grandson), Jacob, and We made righteous men of every one (of them).
-And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).
+    And We bestowed on him Isaac and, as an additional gift, (a grandson), Jacob, and We made righteous men of every one (of them).
+    And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).
+    Quran, sura 21 (Al-Anbiya), ayah 72–73
 
-— Quran, sura 21 (Al-Anbiya), ayah 72–73
-And We gave him the glad tidings of Isaac, a Prophet, and one of the righteous.
+    And We gave him the glad tidings of Isaac, a Prophet, and one of the righteous.
+    Quran, sura 37 (As-Saaffat), ayah 112
 
-— Quran, sura 37 (As-Saaffat), ayah 112
-
-Isaaq and Rebecca a re parents of Jacob and Esau
+Isaac and Rebecca are parents of Jacob and Esau.
 </details>
 <details>
 	<summary>Ismail (Ishmael) (beginning of Arabic people)</summary>
-name Yishmael means God will hear
+
 First son of Ibrahim.
 
-Ismael (Arabic: إسماعيل, romanized: ʾIsmāʿēl) is regarded as a prophet and messenger and the founder of Ishmaelites in Islam. He is the son of Ebrāhēm (Abraham), born to Hājar (Hagar). Ismael is also associated with Mecca and the construction of the Kaaba. Ismael is considered the ancestor to Muhammad.
+Ismael (Yishmael means "God will hear") is regarded as a prophet and messenger and the founder of Ishmaelites in Islam. He is the son of Ibrāhēm (Abraham), born to Hājar (Hagar). Ismael is also associated with Mecca and the construction of the Kaaba. Ismael is considered the ancestor to Muhammad.
 
 Ismael is the figure known as Ishmael in Judaism and Christianity. These sources include the Quran, Quranic commentary (tafsir), hadith, historiographic collections like that of Muhammad ibn Jarir al-Tabari, and Isra'iliyat (Islamic texts about Biblical or ancient Israelite figures that originate from Jewish or Christian sources).
 
@@ -906,15 +909,14 @@ When Hagar ran out of food and water, she left the baby under the sheltered plac
 
 She ran between two hills seven times calling Allah for mercy. Them suddenly she noticed the noise and came back to her son Ishmael, she say an angel standing beside her baby. The angel was Jibreel, who was striking the ground with his wings so that the watter prattled forth.
 
-Ishmael and Hagar being taken to Mecca by Abraham in Islamic texts[4] is an important part in the story of Ishmael, as it brings the focus to Mecca and is the beginning of Mecca's sanctification as a holy area.[2]: 61  Islamic tradition says Abraham was ordered by God to take Hagar and Ishmael to Mecca, and later Abraham returned to Mecca to build the Kaaba.[5] In many of these accounts, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibral) guides them to the location of the Kaaba, at which point Abraham builds it and afterwards, leaves the other two there (other versions discussed below say the construction of the Kaaba occurred later and that Ishmael took part in it). Generally, it is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. Hagar and Ishmael then run out of water and Ishmael becomes extremely thirsty. Hagar is distressed and searches for water, running back and forth seven times between the hills of Al-Safa and Al-Marwah. Hagar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee.[6] When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam. At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history[7] and are recounted in Reuven Firestone's Journeys in Holy Lands.[2]
+Ishmael and Hagar being taken to Mecca by Abraham in Islamic texts is an important part in the story of Ishmael, as it brings the focus to Mecca and is the beginning of Mecca's sanctification as a holy area.[2]: 61  Islamic tradition says Abraham was ordered by God to take Hagar and Ishmael to Mecca, and later Abraham returned to Mecca to build the Kaaba. In many of these accounts, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibral) guides them to the location of the Kaaba, at which point Abraham builds it and afterwards, leaves the other two there (other versions discussed below say the construction of the Kaaba occurred later and that Ishmael took part in it). Generally, it is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. Hagar and Ishmael then run out of water and Ishmael becomes extremely thirsty. Hagar is distressed and searches for water, running back and forth seven times between the hills of Al-Safa and Al-Marwah. Hagar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee. When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam. At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history and are recounted in Reuven Firestone's Journeys in Holy Lands.
 
 Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries.[8]: 92–95  Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art."[8]: 92–93  Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ishmael over Isaac because he was the first child.
-
 
 Abraham sacrificing his son, Ishmael; Abraham cast into fire by Nimrod
 The general narrative pertaining to Ishmael in Islamic literature describes the sacrifice either as a test or as part of a vow. Some versions tell of the devil trying to stop God's command from being obeyed by visiting Hagar, Ishmael, and Abraham. Every time the devil says Abraham is going to sacrifice Ishmael, each person answers that if God commanded it, they should obey. Eventually, Abraham tells Ishmael about the order and Ishmael is willing to be sacrificed and encourages Abraham to listen to God. Often, Ishmael is portrayed as telling Abraham some combination of instructions to bring his shirt back to Hagar, bind him tightly, sharpen the knife, and place him face down, all so that there will be no wavering in the resolve to obey God.
 
-As Abraham attempts to slay Ishmael, either the knife is turned over in his hand or copper appears on Ishmael to prevent the death and God tells Abraham that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm).[9] Since the sacrifice of a ram cannot be greater than that of Abraham's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ishmael) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Abraham's sacrifice and to remind themselves of self-abnegation in the way of Allah.[10] Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ishmael.
+As Abraham attempts to slay Ishmael, either the knife is turned over in his hand or copper appears on Ishmael to prevent the death and God tells Abraham that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm). Since the sacrifice of a ram cannot be greater than that of Abraham's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ishmael) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Abraham's sacrifice and to remind themselves of self-abnegation in the way of Allah. Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ishmael.
 
 The actions of Ishmael in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Abraham talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ishmael makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ishmael is a model of surrendering one's will to God, an essential characteristic in Islam.
 
