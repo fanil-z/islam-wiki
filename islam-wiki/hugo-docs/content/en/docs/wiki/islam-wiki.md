@@ -324,13 +324,65 @@ Allah is never "done" with His work, because the process of creation is ongoing.
 <details>
 <summary>Era of Jinns</summary>
 
+### Jinns
+
+Short version
+Jinn: Overview
+Iblis
+Era of Jinn on Earth
+Sulayman Having Power Over Jinn
+The Prophet Muhammad sww and Jinn
+Classification of Jinn
+Jinn in Christianity
+Ruqya (Exorcism)
+
 Allah created jinns from smokeless fire🔥, the edge of the flame. 
 
 Jinns are the only creatures besides human beings that have a free will and they will be judged according to their deeds.
 
-Jinns have males and females, they have different religions, tribes, nations.
+Jinn are mentioned approximately 29 times in the Quran.
 
-Jinn are mentioned approximately 29 times in the Quran. In Islamic tradition, Muhammad was sent as a prophet to both human and jinn communities, and that prophets and messengers were sent to both communities. Traditionally, the 72nd surah, Al-Jinn, named after them, is held to tell about the revelation to jinn and several stories mention one of Muhammad's followers accompanied him, witnessing the revelation to the jinn.
+ Surah Al Hijr verse 27 , Allah says:
+
+    "And the jinn We created before from scorching fire."
+
+It is also mentioned in Surah Rahman, verse 15 :
+
+    "And He created the jinn from a smokeless flame of fire."
+
+Holy Prophet (P.B.U.H) also said the same thing mentioned in the above verses that,
+
+> “The Angels were created from light and the Jinn from smokeless fire.” (Sahih Muslim)
+
+    "And I did not create the jinn and mankind except to worship Me."
+    Quran, Surah Al-Dhariyat ayah 56
+
+The above verse shows the same core purpose of life for both the humans and the jinn. Their purpose of life is not very different from the humans as they are ordered by Allah to do the same good deeds as humans do and they are supposed to obey and worship one and only God “Allah”. Like in humans there are two broader categories, Muslims and Non-Muslims, similarly in jinn there are the same two main divisions (the Muslims and Non-Muslims).
+
+Many Non-Muslims enter into the religion Islam despite of having a Non-Muslim background because of some influence towards the religion Islam. Same is the case with jinn; the Non-Muslim jinn can also turn Muslims if they get inspired by the religion Islam.
+
+At the time of Prophet Mohammad (P.B.U.H), a group of jinn were turned into Muslims when they heard the recitation of Holy Quran. At that time Allah revealed the following verses of Surah Jinn on Prophet Mohammad (P.B.U.H),
+
+    Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
+    Quran 72:1-2
+
+The lives of jinn are very similar to the humans, they eat, they drink, they marry, they have their children, and even they are instructed and guided the same way as humans. We can clearly understand this statement by the following verse of Surah Al-An’am.
+
+    "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?" They will say, "We bear witness against ourselves"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers. 
+    Quran [6:130]
+
+This verse shows that messengers were not only sent down to guide the humans but they were sent down to guide both the humans and jinn.
+
+Jinns have males and females, they have different religions, tribes, nations.
+The jinn live in the parallel world to the humans and since they live in the different dimension the flow of time there is different too. Hence, the life span of jinn is different and believed t obe much longer.
+
+There are believers and unbelievers both, in regard to this creature “jinn”. The unbelievers are called “Satan”. Iblis was the jin who turned into unbeliever when he was asked by Allah to prostrate in front of Adam (A.S) but he refused and he was cast out of heaven. Now, we call Iblis a Satan because he is an unbeliever. Jinn have the powers to see us but we (humans) cannot see them. The believers among the jinn try to take us on the wrong path and they try to take us away from the remembrance of Allah. Allah has already made us aware of this in the Surah Al-Araf, verse 27:
+
+    “O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe”.
+
+The above verse clearly states that jinn have the power to see humans and to take possessions on the humans. The only way to keep ourselves safe from the evil beings is to pray five times, to walk on the path which Allah and His messenger (P.B.U.H) has shown us, and to follow the teaching of Quran, Sunnah, and Hadith.
+
+In Islamic tradition, Muhammad was sent as a prophet to both human and jinn communities, and that prophets and messengers were sent to both communities. Traditionally, the 72nd surah, Al-Jinn, named after them, is held to tell about the revelation to jinn and several stories mention one of Muhammad's followers accompanied him, witnessing the revelation to the jinn.
 
 In the story of Solomon they appear as nature spirits comparable to Talmudic shedim. Solomon was gifted by God to talk to animals and spirits. God granted him authority over the rebellious jinn and devils forcing them to build the First Temple. In other instances, the Quran tells about Pagan Arabs, calling jinn for help, instead of God. The Quran reduced the status of jinn from that of tutelary deities to that of minor spirits, usually paralleling humans.
 
@@ -351,11 +403,35 @@ In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39
     Quran (al-Dhariyat)
 
 According to the majority of scholars the jinn are being obliged to follow the Islamic law that was revealed by Allah to His Messenger Muhammad (Al-Shibli, 1985). They are obliged as well as human in obeying of all commands and avoid the prohibitions (Bali, 1998, Al-Ashqar, 1999), as described in sura al-Rahman (The Beneficient) verse 13:
-So which of the favors of your Lord would you deny?
+    
+    So which of the favors of your Lord would you deny?
 
 According to al-Razi (1981) in his exegetical work the discussion appearing in this verse is addressed to the jinn and mankind. It means that the jinn are obliged to act in accordance with Allah’s orders and to perform worshipping like humans.
 From here, the jinn conditions as human beings, among them have accepted the revelation of the Prophet Muhammad (pbuh). They are part of the divine creation and have attitudes, namely intellect, ability to be free and independent. They have the power to choose between true and false, right and wrong as Allah said in sura al-Jinn
 verse 11 below: `And among us are the righteous, and among us are [others] not so; we were [of] divided ways.`
+
+#### Era of Jinn on Earth
+
+[Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
+Jinns were transgressing and were not treating animals well.
+
+Angels and Iblis were send to annihilate many jinns who were transgressing.
+
+The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
+
+There is a rule for the Jinn not to cross the barrier between their world and our world, and the tresspassers will be asked for it.
+
+Ifrit who brought Suleiman smo's throne.
+some were diving in the oceans, some building.
+the jinns don't know the unseen world. otherwise they would stop working immediately after Suleiman died.
+
+#### The Shaitan
+Iblis was amongst the best of jinn. some narrations say he worshipped Allah in all of the heavens and he was raised almost to the rank of angels. Then he came to Allah and asked to send him and some angels to punish the transgressing jinn who were living on the earth. So they started destroying the jinn that lived on earth only a scarce amount of them remained here and there. and Allah knew that Iblis wants his own kingdom for himself. so He created Adam to test Iblis, to reveal his intentions. And He asked angels and IBlis to bow before Adam which he disobeyed refused to do.  
+
+Surah 18:50
+Will you o human beings take him and his children as allies while he is your enemy.
+he has children. 
+he has waswasa to influence humans.
 
 #### Classification of Jinn
 
@@ -378,15 +454,6 @@ file:///C:/Users/Joelle%20van%20Dyne/Downloads/7599-Article%20Text-29415-1-10-20
 There is a special type of jinns - shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
 
 The Messenger of Allah (blessings and peace of Allah be upon him) said: “Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’” End quote from Ta’weel Mukhtalaf al-Hadith (p. 200).
-
-#### Era of Jinn on Earth
-
-[Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
-Jinns were transgressing and were not treating animals well.
-
-Angels and Iblis were send to annihilate many jinns who were transgressing.
-
-The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
 
 
 </details>
@@ -444,7 +511,7 @@ The Qur’an tells the story of Iblis several different times, each time offerin
 	God said: "Get down from here! Here is no place for your arrogance, Get out! You are the lowest of creatures!"
 	but Iblis said, "Give me respite until the day they are raised."
 	and God said, "You have respite."
-	And then Iblis said, "Because you have put me in the wrong, I shall lie in wait for them on Your straight path; I will assault them from the front and the back, from their right and their left; nor will you find that most of them are grateful."
+	And then Iblis said, "Because you have put me in the wrong, I shall lie in wait for them on Your straight path; I will come from in front of them and I will come from behind them, from their right and their left; nor will you find that most of them are grateful." escept for those of them who were righteous.
 	God said, "Get out! You are disgraced and expelled! I swear I shall fill Hell with you and all who follow you."
 
 </details>
@@ -2597,7 +2664,8 @@ I guess here we should write only about the science, medicine and development.
 
 ## 10. Later History
 
-### Crusades
+<details>
+  <summary><b>Crusades</b></summary> 
 Proto-Crusades
 
 SardiniaBarbastroMahdia
@@ -2610,21 +2678,60 @@ Aragonese Smyrniote Alexandrian Savoyard Barbary Nicopolis VarnaHoly Leagues
 Northern Crusades (1147–1410)
 
 Kalmar Wendish Swedish 1150 1249 1293 Livonian Prussian Lithuanian
+</details>
 
-### Golden Horde
+<details>
+  <summary><b>Golden Horde</b></summary> 
+### 
+</details>
+<details>
+  <summary><b>Ottoman Empire</b></summary> 
+### 
+</details>
 
-### Ottoman Empire
-
-## 11. Yawm Al Qiyamah
+## 11. Current State of the Islamic World
 *******************************************
+
+<details>
+  <summary><b>Islamic Countries</b></summary> 
+
+number of muslims
+dynamics of religions
+map
+the state of Islam in countries
+wars
+universities and charity projects
+ 
+</details>
+
+<details>
+  <summary><b>The World in General</b></summary> 
+
+Many scholars agree that we are living in the end times.
+The current state of morality and society development is somehow controversial. on the one hand we see technology development and how immense amount of knowledge becomes publiclly available for anyone who has Internet connection.
+The democracy is evolving, compared to the past, people are more able to give their voice and stand out for their rights. Living conditions in 21st century become so luxurious compared to what humanity had in the last century. If you think about it, even cities in the beginning of the 20th century didn't even have sewers. 
+1. Hovewer, there are so many countries who still strive for food and the rarest seem to care about it.
+US, EU and China are printing money trying to keep up the pace but this results in further impoverishment of less fortunate countries.
+2. And another downside is we see that in most countries government still didnot get rid of propaganda tactics through pro-gov media to manipulate minds.
+3. MTV, Hollywood, Instagram, Tik-Tok, homosexuality and pornography values. If you focus on this part of the side-effects of developed countries, without a doubt we are living in a new era of Jaahiliyah. 
+
+</details>
+
+
+## 12. Yawm Al Qiyamah
+*******************************************
+
+### 12.1 Major Signs of Al Kiyamah
+
+<details>
+  <summary><b>Overview</b></summary> 
 
 * The prophet Muhammad
 * bedouins building towers
-
-### 11.1 Major Signs of Al Kiyamah
-
 These signs are connected to each other. When one comes, the other one follows.
 There is a hadith that prophet Muhammad saw said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
+</details>
+
 
 <details>
 	<summary><b>Dajjal - the false Messiah or Anti-Christ</b></summary> 
@@ -2692,7 +2799,7 @@ The Beast will come out at that time. and it will leave marks on people as belie
 the fire will come out and it will spread.
 
 
-### 11.2 Al Qiyamah
+### 12.2 Al Qiyamah
 *******************************************
 <details>
 	<summary><b>What happens after</b></summary> 
@@ -2725,6 +2832,13 @@ There are several narrations that some of the people who ended up in Jahannam wi
 <summary>Unsorted drafts</summary>
 🌱🌴🌊🏜
 
+ALLAH TA’ALA SAYS: ‘SEARCH FOR ME AND YOU WILL FIND ME’
+
+Hafiz Ibn Kahtir (rahimahullah) has cited a narration in his Tafsir which has the mention of Allah Ta’ala saying :
+
+‘ O Son of Adam, I created you for my worship so do not be unmindful of this, I have taken responsibility of your sustenance so do not tire yourself so search for me you will definitely find me, for if you have found me, you have found every thing and if you lose me, everything has lost you and I should be the most beloved to you’
+
+(Tafsir Ibn Kathir, Surah, 51 verse, 60)
 
 حلال
 
