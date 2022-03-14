@@ -327,44 +327,8 @@ Allah is never "done" with His work, because the process of creation is ongoing.
 ### Jinns
 
 Short version
-Jinn: Overview
-Iblis
-Era of Jinn on Earth
-Sulayman Having Power Over Jinn
-The Prophet Muhammad sww and Jinn
-Classification of Jinn
-Jinn in Christianity
-Ruqya (Exorcism)
 
-Allah created jinns from smokeless fire🔥, the edge of the flame. 
-
-Jinns are the only creatures besides human beings that have a free will and they will be judged according to their deeds.
-
-Jinn are mentioned approximately 29 times in the Quran.
-
- Surah Al Hijr verse 27 , Allah says:
-
-    "And the jinn We created before from scorching fire."
-
-It is also mentioned in Surah Rahman, verse 15 :
-
-    "And He created the jinn from a smokeless flame of fire."
-
-Holy Prophet (P.B.U.H) also said the same thing mentioned in the above verses that,
-
-> “The Angels were created from light and the Jinn from smokeless fire.” (Sahih Muslim)
-
-    "And I did not create the jinn and mankind except to worship Me."
-    Quran, Surah Al-Dhariyat ayah 56
-
-The above verse shows the same core purpose of life for both the humans and the jinn. Their purpose of life is not very different from the humans as they are ordered by Allah to do the same good deeds as humans do and they are supposed to obey and worship one and only God “Allah”. Like in humans there are two broader categories, Muslims and Non-Muslims, similarly in jinn there are the same two main divisions (the Muslims and Non-Muslims).
-
-Many Non-Muslims enter into the religion Islam despite of having a Non-Muslim background because of some influence towards the religion Islam. Same is the case with jinn; the Non-Muslim jinn can also turn Muslims if they get inspired by the religion Islam.
-
-At the time of Prophet Mohammad (P.B.U.H), a group of jinn were turned into Muslims when they heard the recitation of Holy Quran. At that time Allah revealed the following verses of Surah Jinn on Prophet Mohammad (P.B.U.H),
-
-    Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
-    Quran 72:1-2
+Allah created jinns from smokeless fire🔥, the edge of the flame. Jinn live in the same earth as we do but they are hidden from our sight. Humans cannot see jinn, jinn can see humans but the cannot see angels.
 
 The lives of jinn are very similar to the humans, they eat, they drink, they marry, they have their children, and even they are instructed and guided the same way as humans. We can clearly understand this statement by the following verse of Surah Al-An’am.
 
@@ -376,7 +340,29 @@ This verse shows that messengers were not only sent down to guide the humans but
 Jinns have males and females, they have different religions, tribes, nations.
 The jinn live in the parallel world to the humans and since they live in the different dimension the flow of time there is different too. Hence, the life span of jinn is different and believed t obe much longer.
 
-There are believers and unbelievers both, in regard to this creature “jinn”. The unbelievers are called “Satan”. Iblis was the jin who turned into unbeliever when he was asked by Allah to prostrate in front of Adam (A.S) but he refused and he was cast out of heaven. Now, we call Iblis a Satan because he is an unbeliever. Jinn have the powers to see us but we (humans) cannot see them. The believers among the jinn try to take us on the wrong path and they try to take us away from the remembrance of Allah. Allah has already made us aware of this in the Surah Al-Araf, verse 27:
+Jinns are the only creatures besides human beings that have a free will and they will be judged according to their deeds.
+
+Jinn are mentioned approximately 29 times in the Quran.
+
+    "And I did not create the jinn and mankind except to worship Me."
+    Quran, Surah Al-Dhariyat ayah 56
+
+The above verse shows the same core purpose of life for both the humans and the jinn. Their purpose of life is not very different from the humans as they are ordered by Allah to do the same good deeds as humans do and they are supposed to obey and worship one and only God “Allah”. Like in humans there are two broader categories, Muslims and Non-Muslims, similarly in jinn there are the same two main divisions (the Muslims and Non-Muslims).
+
+At the time of Prophet Mohammad (P.B.U.H), a group of jinn were turned into Muslims when they heard the recitation of Holy Quran. At that time Allah revealed the following verses of Surah Jinn on Prophet Mohammad (P.B.U.H),
+
+    Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
+    Quran 72:1-2
+
+The jinn started living on the earth before humans and they didn't behave good and didn't treat the creatures on the earth in a good manner.
+
+ Satan or Iblis is one of the first jinns. He was the best among the jinn and he was even raised to the rank of angels. But there was evil in his heart and he wanted to rule his own kingdom. He asked Allah to send him and some angels to destroy the transgressing jinn on the earth and Allah gave the permission.
+
+ After the battle there were only a small amount of jinn left here and there.
+
+ Each person has a shaytan (or a bad jinn) assigned to follow him anywhere and miguide him and lead him astray so that he forgets about Allah, does not repent for his sins and eventually ends up in hell.
+
+ The unbelievers are called “Satan”. Iblis was the jin who turned into unbeliever when he was asked by Allah to prostrate in front of Adam (A.S) but he refused and he was cast out of heaven. Now, we call Iblis a Satan because he is an unbeliever. Jinn have the powers to see us but we (humans) cannot see them. The believers among the jinn try to take us on the wrong path and they try to take us away from the remembrance of Allah. Allah has already made us aware of this in the Surah Al-Araf, verse 27:
 
     “O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe”.
 
@@ -449,12 +435,9 @@ In general, the pagan believe that jinn have hidden powers, giving some benefit 
 
 Similarly in Sura al-Jinn verse 6, Allah explains that most pagan seek help and protection to jinn. In view of them there is collaboration between man and poets of jinn which they can produce beautiful poetry to listen to (Shihab, 2002)
 
-file:///C:/Users/Joelle%20van%20Dyne/Downloads/7599-Article%20Text-29415-1-10-20150904.pdf
-
 There is a special type of jinns - shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
 
 The Messenger of Allah (blessings and peace of Allah be upon him) said: “Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’” End quote from Ta’weel Mukhtalaf al-Hadith (p. 200).
-
 
 </details>
 
@@ -2437,12 +2420,10 @@ He said: One of the callers of the jinn came to me so I went out to meet with th
 #### Hijrah
 
 <details>
-<summary><b>622</b>: Arabs from Yathrib meet the prophet Mohammad saw and invite him to stay in their city.
-
-Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new.
-
+<summary><b>622</b>: Young pilgrims invite the prophet Muhammad to Yathrib.
 </summary>
- 
+Arabs from Yathrib meet the prophet Mohammad saw and invite him to stay in their city.
+Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new. 
 </details>
  
 <details>
@@ -2636,22 +2617,18 @@ they did not have buildings, they did not even have a government. they were neve
 
 </details> 
 
-
-
 ## 9.3 The Islamic Golden Age
 *******************************************
-
-Umayyad Dinasty Era 
- Muawiyyah (661-680)
-	* Capital is moved from Medina to Damascus
+  <details>
+    <summary>Umayyad Dinasty Era </summary>
+ 
+  Muawiyyah (661-680)
+  * Capital is moved from Medina to Damascus
   * Death of Hasan ibn Ali in Medina
   * Science and Medicine
-  <details>
-    <summary>Development</summary>
-I guess here we should write only about the science, medicine and development.
-  </details>
+ 
  Yazid I
-	* Muawiyyah I dies
+  * Muawiyyah I dies
   * 680-92 The Second fitnah
   * 680 Battle of Karbala. Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
   Murder of Huseyn and his family.
@@ -2661,6 +2638,12 @@ I guess here we should write only about the science, medicine and development.
  Somewher here Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations).
  his student ibn Hisham shortens his seerah.
 
+  </details>
+
+  <details>
+    <summary>Development</summary>
+I guess here we should write only about the science, medicine and development.
+  </details>
 
 ## 10. Later History
 
@@ -2832,137 +2815,11 @@ There are several narrations that some of the people who ended up in Jahannam wi
 <summary>Unsorted drafts</summary>
 🌱🌴🌊🏜
 
-ALLAH TA’ALA SAYS: ‘SEARCH FOR ME AND YOU WILL FIND ME’
-
-Hafiz Ibn Kahtir (rahimahullah) has cited a narration in his Tafsir which has the mention of Allah Ta’ala saying :
-
-‘ O Son of Adam, I created you for my worship so do not be unmindful of this, I have taken responsibility of your sustenance so do not tire yourself so search for me you will definitely find me, for if you have found me, you have found every thing and if you lose me, everything has lost you and I should be the most beloved to you’
-
-(Tafsir Ibn Kathir, Surah, 51 verse, 60)
-
-حلال
-
-https://emojipedia.org/ramadan/
-ancient civilizations
-http://www.essential-humanities.net/history-overview/world-history-timeline/
-
-EXPAND ALL skipping the first 5:
-https://stackoverflow.com/questions/43008609/expanding-all-details-tags
-
-
 Mesopotamia:
 	1. Ubaid period (6500-3800bc)
 	early village settlements. all population engaged in the production of food.
 	Eridu - the settlement name. 
 	the increasing food surplus allowed the creation of other professions like merchants, craftsmen, weavers, metallurges. the taxation and redistribution of food supply led to creation of governments. city of Uruq prospered.
 	Society hierarchy appeared. The high priest had leading role in a temple, keppers scribes administrators and priests and at the bottom were producers: farmers and fishermen. Cineaform writing appeared. 
-	2. 
-
-
-
-
-Prophet Muhammad (570-632)
-1. Abu Bakr 632-634
-2. Umar ibn al-Khattab 634-644
-3. Uthman ibn Affan 644-656
-4. Ali ibn Abi Talib 656-661
-Hasan
-Muawiya
-
-
-People
-Muhammad ibn Abdallah 
-Khadeeja 
-
-Abdullah ibn Mas'ud 
-
-Abu Dhar 
-
-Zaid ibn Al Haritha (if Zayd was alive probably he would be the first khalifa)
-
-Bilal 
-
-Khabbab ibn Al Aratt 
-
-Musab ibn Umair 
-
-Ammar ibn Yasir 
-
-Khaled ibn Whaledd 
-
-Amr ibn 'As
-
-Abdullah ibn Umar
-
-Abu Huraira
-
-Talha ibn Ubaydullah
-
-Salman al Farsi
-
-Saad ibn abi Waqqas
-
-Aisha
-
-Sumeyah
-
-Zayd ibn Phabit learned Hebrew in 15 days because the prophet Muhammad saw told him to do 
-so. Zayd is the one who compiled the Quran.
-
-Jagfar ibn Abu Talib
-
-Abdurahman ibn Awf
-
-Abbas
-
-ibn Abbas
-
-Hamzah
-
-Suraqa
-
-Abu Talib
-
-Zaid who wrote the first book of the Quran
-
-Al-Nuayman ibn Amr 
-
-
-Men of the Pit 
-Battle of Badr 
-
-Hadith 
-
-Prophets 
-Adam, Idris (Enoch), Nuh (Noah), Hud (Heber), Saleh (Methusaleh), Lut (Lot), Ibrahim (Abraham), Ismail (Ishmael), Ishaq (Isaac), Yaqub (Jacob), Yusuf (Joseph), Shu'aib (Jethro), Ayyub (Job), Dhulkifl (Ezekiel), Musa (Moses), Harun (Aaron), Dawud (David), Sulayman (Solomon), Ilyas (Elias), Alyasa (Elisha), Yunus (Jonah), Zakariya (Zachariah), Yahya (John the Baptist), Isa (Jesus) and Muhammad. 
-Dhul Karnain
-
-
-
-🌌
-Humans are created between angels and animals. Angels dont have their own desires they only worship Allah. and animals are living on their instincts and dont worship Allah as the angels so.
-and if human beings incline to instincts, they become worse than animals. and if they incline towards worshipping Allah, they become better than angels.
-Adam was the last of Allah's creations.
-
-
-about 70 years ago there was a consensus in the scientific world that the universe is eternal, which contradicts the Quran that says Allah started the universe. and after 20 years more cosmic data came and scientists accepted that the Big Bang Theory make more sense. 
-
-Arab people didn't even count the years. the calendar was adopted only during the reign of khalif Umar ibn Al Khattab.
-
-A good table of the prophets and nations: https://islam.fandom.com/wiki/Prophets_and_Messengers_of_Allah
-
-https://wikiislam.net/wiki/Main_Page
-
-
-The Beginning and the End series with Omar Suleiman: https://www.youtube.com/watch?v=gxR6Z2BCaEk&list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv&index=2
-
-
-Good history with TOC and good layout: https://www.al-islam.org/message-jafar-subhani/chapter-29-change-qiblah
-
-
-Google Cloud Storage may be cheap: https://cloud.google.com/products/calculator#id=403ea1fe-b607-45f1-a3c9-b28ec66b0551
-and 300 for free3339999
-
-
 
 </details>
