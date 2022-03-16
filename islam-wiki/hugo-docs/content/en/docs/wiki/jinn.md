@@ -20,6 +20,7 @@ Era of Jinn on Earth
 Sulayman Having Power Over Jinn
 The Prophet Muhammad sww and Jinn
 Classification of Jinn
+Jinn and Magic
 Jinn in Christianity
 Ruqya (Exorcism)
 
