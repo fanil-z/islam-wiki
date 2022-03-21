@@ -1,4 +1,4 @@
-# World History Map 🌍☪️
+# World History Map
 <style>
   code {
     white-space : pre-wrap !important;
@@ -52,82 +52,17 @@ h2, h3, h4, h5, .h2, .h3, .h4, .h5 {
   color: #b35fff;
 }
 
-.switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
-}
-
-/* Hide default HTML checkbox */
-.switch input {
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-/* The slider */
-.slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-input:checked + .slider {
-  background-color: #2196F3;
-}
-
-input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
-}
-
-input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
-}
-
-/* Rounded sliders */
-.slider.round {
-  border-radius: 34px;
-}
-
-.slider.round:before {
-  border-radius: 50%;
-}
-
-#  .navbar {
-#  	position:-webkit-sticky;
-#  	position: sticky;
-#  	top: 0;
+#.switch {
+#  position: relative;
+#  display: inline-block;
+#  width: 60px;
+#  height: 34px;
 #}
-#  .navbar-light .navbar-brand {
-#  	position:-webkit-sticky;
-#  	position: sticky;
-#  	top: 0;
-#}
+
 
 </style>
 
-<p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources.</i></p>
+<p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources</i> ☪️<i>.</i></p>
 
 
 <details>
@@ -142,16 +77,17 @@ input:checked + .slider:before {
 >
 > Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on stories in the Quran.
 >
+> Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
+>
 
 </details>
 
 ## 0. Before Creation of Humankind
 ***************************************
 
-At first, there was only Allah.
-
 <details>
 	<summary>First Creations: Throne, The Pen and The Tablet</summary>
+In the beginning, there was only Allah.
 
 #### The Throne
 
@@ -263,7 +199,7 @@ There has been some historical debate among Muslim scholars about the precise me
 </details>
 
 <details>
-  <summary>Scientific Side-Note</summary>
+  <summary>Big Bang Scientific Side-Note</summary>
   
     13.8 billion years ago: the Universe started to expand.
     4.56 billion years ago: the Earth appeared.
@@ -273,7 +209,7 @@ There has been some historical debate among Muslim scholars about the precise me
     ~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
     Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
 
-Before 19th centure there was a scientific consensus that the Universe 🌌 is static. But after Einstein's Theory of Relativity, science stated that the Universe is expanding. So, until 19XX science contradicted the Quran. 
+Before 19th century there was a scientific consensus that the Universe 🌌 is static. But after Einstein's Theory of Relativity, science stated that the Universe is expanding. So, until 19XX science contradicted the Quran. 
 100 years ago, the world’s best scientific minds thought that the universe had always existed. Since it always existed, it didn’t need a Creator.
 
 Einstein changed all that.
@@ -356,8 +292,6 @@ They have the power to choose between true and false, right and wrong as Allah s
     
     And among us are the righteous, and among us are [others] not so; we were [of] divided ways.
 
-
-
 #### War Between Jinn and Angels
 
 The jinn started living on the earth before humans and they didn't behave good and didn't treat the creatures on the earth in a good manner.
@@ -421,7 +355,6 @@ In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39
 Jinns were transgressing and were not treating animals well.
 
 Angels and Iblis were send to annihilate many jinns who were transgressing.
-
 
 
 Ifrit who brought Suleiman smo's throne.
@@ -499,7 +432,7 @@ This spiritual and rational urge (to believe in Allah) is the strongest factor t
 <details>
 	<summary>Iblis refused to bow down to Adam</summary>
 
-The Qur’an tells the story of Iblis several different times, each time offering different facets of the story. The version most relevant for our purposes, is in the seventh sura.
+Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted to reveal his dark thoughts, so He created Adam. The Qur’an tells the story of Iblis several different times, each time offering different facets of the story. The version most relevant for our purposes, is in the seventh sura.
 
 	We created you, We formed you; and then We commanded the angels, "bow down before Adam," and they bowed. But not Iblis; he refused to be one of those who bow.
 
@@ -544,7 +477,7 @@ The Quran does not describe what kind of tree it was, however, this prohibition 
 </details>
 
 <details>
-	<summary>Adam and Eve: Eating from Forbidden Tree 🚻 🐍 🌳 🍎 </summary>
+	<summary>Eating from Forbidden Tree 🚻 🐍 🌳 🍎 </summary>
 
 Satan tempted Adam and Eve by whispering. Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live on the Earth.
 
@@ -564,7 +497,7 @@ By forgetting God’s command, Adam and Eve bore equal responsibility for their 
 </details>
 
 <details>
-	<summary>Repentance of Adam and Eve and Allah's Forgiveness</summary>
+	<summary>Repentance of Adam and Eve </summary>
 
 Through this test, God prepared Adam for his role on earth, as a caretaker and a Prophet. This experience taught Adam firsthand that Satan was a deceptive enemy to mankind. 
 
@@ -581,11 +514,9 @@ The story of Adam and Eve in the Quran teaches the virtue of repentance and supp
 
 
 <details>
-	<summary><b>Adam and Eve are sent to Earth</b>
-
-In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. They were forgiven but sent to Earth.
- 
+	<summary>Adam and Eve are sent to Earth
 </summary>
+
 In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. 
 
     “Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful.” [2:37]
@@ -604,7 +535,7 @@ Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Ear
 *******************************************
 
 <details>
-  <summary><b>Children of Adam and Hawwah</b></summary>
+  <summary>Children of Adam and Hawwah</summary>
 Adam and Eve were descended from Heaven and they began their life on earth. Allah had prepared them in many ways. Allah gave them the experience of struggling against whisperings and tricks of shaytan. He taugh Adam the names of certain things and instructed in its properties and usefulness. Adam took his position as a caretaker of the earth.
 
 Adam (as) was the first prophet of God, who was responsible for teaching his wife and children how to worship Allah (swt) and seek his forgiveness. Adam established the laws of God and set about trying to support his family and learning to subdue and care for the earth. His task was to raise children, cultivate, construct and populate. He was to raise children who would live according to God's instructions and care for and improve the earth.
@@ -623,7 +554,7 @@ Quran says that the first place of worship was built in the current location of 
 </details>
 
 <details>
-	<summary><b>Habyl and Qabyl</b></summary>
+	<summary>Habyl and Qabyl</summary>
 
 Habyl and Qabyl (Abel and Cain). Cain tilted the land while Abel raised cattle.
 
@@ -641,7 +572,7 @@ This was the first murder and burial on earth by a man.
 </details>
 
 <details>
-	<summary><b>Seth</b></summary>
+	<summary>Sheeth (Seth)</summary>
 
 Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel. Medieval historian and exegete al-Tabari and other scholars say that Seth buried Adam.
 
@@ -651,7 +582,7 @@ The Islamic literature holds that Seth was born when Adam was past 100 and that 
 </details>
 
 <details>
-	<summary><b>Idris (Enoch)</b></summary>
+	<summary>Idris (Enoch)</summary>
 
 Idris was born when Adam as was alive. Idris is mentioned in the Quran that he was of high class and a prophet. 
 idris was the first to write.
@@ -686,7 +617,7 @@ In the Bible, Enoch receives visions of how the Earth will be destroyed in the E
 
 
 <details>
-<summary><b>How Idol Worshipping appeared</b></summary>
+<summary>How Idol Worshipping Appeared</summary>
 
 There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
 
@@ -717,7 +648,7 @@ Now it has become so rampant that those who disapprove of it, let alone denounce
 </details>
 
 
-## 3. Nuh (Noah) and the Great Flood ⛴ 🕊 ⛰ 
+## 3. Nuh (Noah) and Great Flood ⛴🕊⛰ 
 *************************************
 
 <details>
@@ -732,7 +663,9 @@ Now it has become so rampant that those who disapprove of it, let alone denounce
 </details>
 
 <details>
-	<summary><b>The Great Flood</b></summary>
+	<summary>The Great Flood</summary>
+
+### The Great Flood
 According to Islam, he was a prophet, sent to warn mankind of that region and his people to change their ways. He conveyed the message for over 950 years. Islamic literature recounts that in the Generations of Adam, many men and women continued to follow Adam's original teachings, worshiping God alone and remaining righteous. Among Adam's descendants there were many brave and pious men, greatly loved and revered by their respective communities. Exegesis goes on to narrate that, upon the death of these elders, people felt enormous grief and some felt prompted to make statues of these people in remembrance of them. Then gradually, through the generations many forgot what such statues were for and began to worship them, (as the Shaytan (Satan) slowly deceived each generation) along with many other idols. In order to guide the people, God appointed Noah with the duty of being the next prophet to humanity.
 
 #### Early preaching
@@ -770,7 +703,7 @@ After the flood, humankind started over and for some time they lived in tawhid.
 </details>
 
 <details>
-<summary><b>Historic Side-Note </b></summary>
+<summary>Historical Side-Note </summary>
 
 Mention of the great flood occurs in stories of many old nations:
 the Mesopotamian flood stories, the Genesis flood narrative, Nuh (Noah) in Islam, manvantara-sandhya in Hinduism, the Gun-Yu in Chinese mythology, Deucalion and Pyrrha in Greek mythology, Bergelmir in Norse mythology, the arrival of the first inhabitants of Ireland with Cessair in Irish mythology, in parts of Polynesia such as Hawaii, the lore of the K'iche' and Maya peoples in Mesoamerica, the Lac Courte Oreilles Ojibwa tribe of Native Americans in North America, the Muisca and Cañari Confederation in South America, Africa, and some Aboriginal tribes in Australia.
@@ -781,7 +714,10 @@ https://en.wikipedia.org/wiki/List_of_flood_myths
 </details>
 
 <details>
-<summary><b>Hud and people of 'Ad </b></summary>
+<summary>Hud and People of 'Ad </summary>
+
+### Hud and People of 'Ad 
+
 'Ad was an ancient Arab tribe. Hud is sometimes identified with Eber.
 People of Aad were tall, strong and famous for their craftsmanshift, especially in building construction.
 
@@ -822,8 +758,9 @@ In addition for its barren characteristic, another verse also described addition
 </details>
 
 <details>
-<summary><b>Saleh and people of Thamud 🐪</b></summary>
+<summary>Saleh and people of Thamud 🐪</summary>
 
+### Saleh and people of Thamud 🐪
 (Selah?)
 
 Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
@@ -839,7 +776,7 @@ In response, God gave the Thamud a blessed she-camel, as both a means of sustena
 The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
 </details>
 
-## 4. Ibrahim
+## 4. Ibrahim  (Abraham)
 *******************************************
 
 <details>
@@ -881,8 +818,9 @@ It was time for a religious festival, perhaps dedicated to Sin, for which they l
 </details>
 
 <details>
-	<summary>Soddom and Homorra (Story of Lut (Lot))</summary>
+	<summary>Story of Lut (Lot): Soddom and Homorra</summary>
 
+### Soddom and Homorra
 Lut (Arabic: لوط, romanized: Lūṭ), known as Lot in the Old Testament, is a prophet of God in the Quran. According to Islamic tradition, Lut was born to Haran and spent his younger years in Ur, later migrating to Canaan with his uncle Abraham. He was sent to the cities of Sodom and Gomorrah as a prophet, and was commanded to preach to their inhabitants on monotheism and the sinfulness of homosexuality and their lustful and violent acts.
 
 Though Lut was not born among the people he'd been sent to preach to, the people of Sodom are still regarded as his "brethren" in the Quran. Like the Biblical narrative, the Quran states that Lut's messages were ignored by the inhabitants of the cities, and Sodom and Gomorrah were subsequently destroyed. The destruction of the cities is traditionally presented as a warning against male rape and went on to be used as a warning against homosexual acts.
@@ -906,6 +844,7 @@ The angels then revealed their true identities to Lot and said to him, “We are
 <details>
 	<summary>The Covenant</summary>
 
+### The Covenant
 According to the Bible, God makes a covenant with Abraham and says that He will make Abraham a father of many nations. He gets old and still doesn't have children but doesn't lose his faith. Sarah wants to force the promise by giving Hagar to Abraham so that she can conceive a child. and she gives birth to Ismail.
 God says that the sign of the covenant is circumcision.
 When Abraham was around 100 years old, three angels come to Abraham and bring them the good news that Sarah will conveive a child. Sarah laughs because she is very old but angels tell her that this is the will of God. and Sarah gives birth to Ishaq.
@@ -921,10 +860,12 @@ promisces of blessings for those who follow the covenenant
 
 </details>
 
-
+#### Descendands of Ibrahim
 <details>
 	<summary>Iskhaq (Isaac) (beginning of Jewish people)</summary>
-	Covenant 
+
+#### Iskhaq (Isaac)
+  Covenant 
 	Second son of Ibrahim. his mother is Sarah.
 
 According to Bible: As had been prophesied in Mamre the previous year,[40] Sarah became pregnant and bore a son to Abraham, on the first anniversary of the covenant of circumcision. Abraham was "an hundred years old", when his son whom he named Isaac was born; and he circumcised him when he was eight days old.[41] For Sarah, the thought of giving birth and nursing a child, at such an old age, also brought her much laughter, as she declared, "God hath made me to laugh, so that all who hear will laugh with me."[42] Isaac continued to grow and on the day he was weaned, Abraham held a great feast to honor the occasion. During the celebration, however, Sarah found Ishmael mocking; an observation that would begin to clarify the birthright of Isaac.
@@ -954,6 +895,7 @@ Isaac and Rebecca are parents of Jacob and Esau.
 <details>
 	<summary>Ismail (Ishmael) (beginning of Arabic people)</summary>
 
+####Ismail (Ishmael)
 First son of Ibrahim.
 
 Ismael (Yishmael means "God will hear") is regarded as a prophet and messenger and the founder of Ishmaelites in Islam. He is the son of Ibrāhēm (Abraham), born to Hājar (Hagar). Ismael is also associated with Mecca and the construction of the Kaaba. Ismael is considered the ancestor to Muhammad.
@@ -1001,21 +943,23 @@ There are many versions of the construction of the Kaaba that differ in fairly s
 	<summary>Yaqub (Jacob)</summary>
 Jacob was later renamed to Israel.
 
+### Yaqub (Jacob)
+
 #### Yaqub in the Quran and Hadith
-Two further references to Isra'il (Arabic: إِسْرَآئِیل [ˈisraāˈiyl]; Classical/ Quranic Arabic: إِسْرَآءِیْل [ˈisraāãˈiyl]) are believed to be mention of Jacob. The Arabic form Ya'qūb (Arabic: يَعْقُوب, romanized: Yaʿqūb may be direct from the Hebrew or indirect through Syriac.[91]
+Two further references to Isra'il (Arabic: إِسْرَآئِیل [ˈisraāˈiyl]; Classical/ Quranic Arabic: إِسْرَآءِیْل [ˈisraāãˈiyl]) are believed to be mention of Jacob. The Arabic form Ya'qūb (Arabic: يَعْقُوب, romanized: Yaʿqūb may be direct from the Hebrew or indirect through Syriac.
 
-He is recognized in Islam as a prophet who received inspiration from God. He is acknowledged as a patriarch of Islam. Muslims believe that he preached the same monotheistic faith as his forefathers ʾIbrāhīm, ʾIsḥāq and Ismā'īl. Jacob is mentioned 16 times in the Quran.[92] In the majority of these references, Jacob is mentioned alongside fellow prophets and patriarchs as an ancient and pious prophet. According to the Quran, Jacob remained in the company of the elect throughout his life. (38:47) The Quran specifically mentions that Jacob was guided (6:84) and inspired (4:163) and was chosen to enforce the awareness of the Hereafter. (38:46) Jacob is described as a good-doer (21:72) and the Quran further makes it clear that God inspired Jacob to contribute towards purification and hold the contact prayer. (21:73) Jacob is further described as being resourceful and a possessor of great vision (38:45) and is further spoken of as being granted a "tongue [voice] of truthfulness to be heard." (19:50)
+He is recognized in Islam as a prophet who received inspiration from God. He is acknowledged as a patriarch of Islam. Muslims believe that he preached the same monotheistic faith as his forefathers ʾIbrāhīm, ʾIsḥāq and Ismā'īl. Jacob is mentioned 16 times in the Quran. In the majority of these references, Jacob is mentioned alongside fellow prophets and patriarchs as an ancient and pious prophet. According to the Quran, Jacob remained in the company of the elect throughout his life. (38:47) The Quran specifically mentions that Jacob was guided (6:84) and inspired (4:163) and was chosen to enforce the awareness of the Hereafter. (38:46) Jacob is described as a good-doer (21:72) and the Quran further makes it clear that God inspired Jacob to contribute towards purification and hold the contact prayer. (21:73) Jacob is further described as being resourceful and a possessor of great vision (38:45) and is further spoken of as being granted a "tongue [voice] of truthfulness to be heard." (19:50)
 
-Of the life of Jacob, the Quran narrates two especially important events. The first is the role he plays in the story of his son Joseph. The Quran narrates the story of Joseph in detail, and Jacob, being Joseph's father, is mentioned thrice and is referenced another 25 times.[92] In the narrative, Jacob does not trust some of his older sons (12: 11, 18, 23) because they do not respect him. (12: 8, 16–17) Jacob's prophetic nature is evident from his foreknowledge of Joseph's future greatness (12:6), his foreboding and response to the supposed death of Joseph (12: 13, 18) and in his response to the sons' plight in Egypt. (12: 83, 86–87, 96) Islamic literature fleshes out the narrative of Jacob, and mentions that his wives included Rachel.[93] Jacob is later mentioned in the Quran in the context of the promise bestowed to Zechariah, regarding the birth of John the Baptist. (19:6) Jacob's second mention is in the Quran's second chapter. As Jacob lay on his deathbed, he asked his 12 sons to testify their faith to him before he departed from this world to the next. (2:132) Each son testified in front of Jacob that they would promise to remain Muslim (in submission to God) until the day of their death, that is they would surrender their wholeselves to God alone and would worship only Him.
+Of the life of Jacob, the Quran narrates two especially important events. The first is the role he plays in the story of his son Joseph. The Quran narrates the story of Joseph in detail, and Jacob, being Joseph's father, is mentioned thrice and is referenced another 25 times. In the narrative, Jacob does not trust some of his older sons (12: 11, 18, 23) because they do not respect him. (12: 8, 16–17) Jacob's prophetic nature is evident from his foreknowledge of Joseph's future greatness (12:6), his foreboding and response to the supposed death of Joseph (12: 13, 18) and in his response to the sons' plight in Egypt. (12: 83, 86–87, 96) Islamic literature fleshes out the narrative of Jacob, and mentions that his wives included Rachel. Jacob is later mentioned in the Quran in the context of the promise bestowed to Zechariah, regarding the birth of John the Baptist. (19:6) Jacob's second mention is in the Quran's second chapter. As Jacob lay on his deathbed, he asked his 12 sons to testify their faith to him before he departed from this world to the next. (2:132) Each son testified in front of Jacob that they would promise to remain Muslim (in submission to God) until the day of their death, that is they would surrender their wholeselves to God alone and would worship only Him.
 
-In contrast to the Judeo-Christian view of Jacob, one main difference is that the story of Jacob's blessing, in which he deceives Isaac, is not accepted in Islam. The Quran makes it clear that Jacob was blessed by God as a prophet and, therefore, Muslims believe that his father, being a prophet as well, also knew of his son's greatness.[94] Jacob is also cited in the Hadith as an example of one who was patient and trusting in God in the face of suffering.
+In contrast to the Judeo-Christian view of Jacob, one main difference is that the story of Jacob's blessing, in which he deceives Isaac, is not accepted in Islam. The Quran makes it clear that Jacob was blessed by God as a prophet and, therefore, Muslims believe that his father, being a prophet as well, also knew of his son's greatness. Jacob is also cited in the Hadith as an example of one who was patient and trusting in God in the face of suffering.
 
 #### Yaqub in the Bible
 
 The biblical account of the life of Jacob is found in the Book of Genesis, chapters 25–50.
 
 ##### Birth
-Jacob and his twin brother, Esau, were born to Isaac and Rebecca after 20 years of marriage, when Isaac was 60 years of age.[10] Rebecca was uncomfortable during her pregnancy and went to inquire of God why she was suffering. She received the prophecy that twins were fighting in her womb and would continue to fight all their lives, even after they became two separate nations. The prophecy also said that "the one people shall be stronger than the other people; and the elder shall serve the younger" (Genesis 25:25 KJV).
+Jacob and his twin brother, Esau, were born to Isaac and Rebecca after 20 years of marriage, when Isaac was 60 years of age. Rebecca was uncomfortable during her pregnancy and went to inquire of God why she was suffering. She received the prophecy that twins were fighting in her womb and would continue to fight all their lives, even after they became two separate nations. The prophecy also said that "the one people shall be stronger than the other people; and the elder shall serve the younger" (Genesis 25:25 KJV).
 
 When the time came for Rebecca to give birth, the firstborn, Esau, came out covered with red hair, as if he were wearing a hairy garment, and his heel was grasped by the hand of Jacob, the secondborn. According to Genesis 25, Isaac and Rebecca named the first son Hebrew: Esau. The second son they named Jacob (Ya'aqob or Ya'aqov, meaning "heel-catcher", "supplanter", "leg-puller", "he who follows upon the heels of one").
 
@@ -1042,8 +986,9 @@ According to researches on the historicity of the Old Testament, the descent of 
 
 
 <details>
-	<summary>Yusuf</summary>
+	<summary>Yusuf (Joseph)</summary>
 
+### Yusuf (Joseph)
 Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Arabic: يوسف ٱبن يعقوب ٱبن إسحاق ٱبن إبراهيم) (Joseph, son of Jacob, son of Isaac, son of Abraham) is a prophet mentioned in the Quran, and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom. It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Joseph was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Joseph is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Qur'an and bears more details than the Biblical counterpart.
 
 Yusuf is believed to have been the eleventh son of Yaqub (Arabic: يعقوب, Yaqub), and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Joseph." The story begins with Joseph revealing a dream he had to his father, which Jacob recognizes. In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
@@ -1180,6 +1125,7 @@ Historically, some Muslims also associated Joseph's Tomb with that of the biblic
 <details>
 	<summary>Ayyub (Job)</summary>
 
+### Ayyub (Job)
 Ayyub came after Yusuf. The Quran describes Job as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Job never lost faith in God and forever called to God in prayer, asking Him to remove his affliction:
 And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." — Quran, sura 21 (The Prophets), ayah 83
 
@@ -1189,8 +1135,9 @@ After Satan has given up trying to turn Job away from the Lord, God removed Job'
 </details>
 
 <details>
-	<summary>Shu'ayb (Jethro?)</summary>
+	<summary>Shuayb (Jethro?)</summary>
 
+### Shuayb
 The Qur'an states that Shuaib was appointed by God to be a prophet to the people of Midian. The people of this land were said to be especially notorious for cheating others through dishonesty and for idolatry. Shuʿayb's prophecy mainly involved calling the Midianites to the correct path of God, and forbidding them to worship false gods.
 
 It is also said he told his people to stop being dishonest in their daily activities. Although he preached and prophesied for a sustained period of time, the majority of the people refused to listen to him. Shuayb, however, remained steadfast. He consistently preached powerfully against the wicked, telling them of the punishment that had befallen the sinful before them. Shuʿayb warned the people that their ignorance would lead to the destruction of Midian, giving historical examples of earlier prophets, including Noah, Hud, Saleh and Lot, all of whose people had been destroyed by God.
@@ -1200,10 +1147,9 @@ The people taunted Shuʿayb and told him that, were it not for the prestigious f
 
 ## 5. Musa and the Exodus
 *******************************************
-Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 <details>
-<summary><b>Musa (Moses) 🌿 🔥 </b></summary> 
-In Islam, Mūsā ben ʿEmrān[1] (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.
+<summary>Musa (Moses) 🌿🔥 </summary> 
+In Islam, Mūsā ben ʿEmrān (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.
 
 According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of Muhammad, and Muslims consider many aspects of the two individuals' lives to be shared. Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution—of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.
 
@@ -1257,6 +1203,7 @@ Having escaped and now being pursued by the Egyptians, the Israelites stop when 
 
 <details>
 <summary><b>The Torah </b></summary>
+Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 
 #### Years in the wilderness
 ##### Revelation of the Torah
@@ -1284,7 +1231,7 @@ Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrae
 
 
 <details>
-<summary><b>Meeting with Khidr </b></summary>
+<summary>Meeting with Khidr </summary>
 
 #### Meeting with Khidr
 One hadith recounts that when Musa is delivering an impressive sermon, an Israelite inquires if there were anyone more knowledgeable than him.[65] When Musa denies any such person exists, he receives a revelation from God, which admonishes Musa for not attributing absolute knowledge to God and informs Musa that there is someone named Khidr who is more knowledgeable than him.[65] Upon inquiry, God informs Musa that Khidr would be found at the junction of two seas. God instructs Musa to take a live fish and at the location where it would escape, Khidr would be found. Afterwards, Musa departs and travels alongside with a boy named Yusha (Yeshua bin Nun), until they stop near a rock where Musa rests. While Musa is asleep, the fish escapes from the basket. When Musa wakes up, they continue until they stop for eating. At that moment, Yusha remembers that the fish had slipped from the basket at the rock. He informs Musa about the fish, and Musa remembers God's statement, so they retrace their steps back to the rock. There they see Khidr. Musa approaches Khidr and greets him. Khidr instead asks Musa how people are greeted in their land. Musa introduces himself, and Khidr identifies him as the prophet of the Israelites. According to the Quran, Musa asks Khidr: "Shall I closely follow you on condition that you teach me of what you have been taught?" Khidr warns that he would not be able to remain patient and consents on the condition that Musa would not question his actions.
@@ -1295,8 +1242,9 @@ Khidr informs Musa that they are now to part ways as Musa has broken his promise
 </details>
 
 <details>
-<summary><b>Harun (Aaron) </b></summary>
+<summary>Harun (Aaron) </summary>
 
+###Harun (Aaron)
 	(Moses) said: "0 my Lord! Open for me my chest (grant me self-confidence, contentment, and boldness). And ease my task for me; and make loose the knot (the defect) from my tongue, (i.e. remove the incorrectness of my speech) that they understand my speech, and appoint for me a helper from my family, Aaron, my brother; increase my strength with him, and let him share my task (of conveying Allah's Message and Prophethood), that we may glorify You much, and remember You much, Verily! You are of us Ever a Well-Seer."
 
 	Allah said: "You are granted your request, 0 Moses! And indeed We conferred a favor on you another time (before). When We inspired your mother with that which We inspired, saying: 'Put him (the child) into the Tabut (a box or case or a chest) and put him into the river (Nile), then the river shall cast it up on the bank, and there, an enemy of Mine and an enemy of his shall take him.' And I endued you with love from Me, in order that you may be brought up under My Eye, when your sister went and said: 'Shall I show you one who will nurse him?' So We restored you to your mother, that she might cool her eyes and she should not grieve. Then you did kill a man, but We saved you from great distress and tried you with a heavy trial. Then you stayed a number of years with the people of Madyan (Midian). Then you came here according to the fixed term which I ordained (for you), 0 Moses!
@@ -1316,8 +1264,9 @@ Khidr informs Musa that they are now to part ways as Musa has broken his promise
 ## 6. Jewish Kings and Prophets
 *******************************************
 <details>
-<summary><b>Shammil (Samuel) </b></summary>
+<summary>Shammil (Samuel) </summary>
 
+### Shammil (Samuel)
 > Samuel (Shammil) is seen as a prophet and seer in the Islamic faith. The narrative of Samuel in Islam focuses specifically on his birth and the anointing of Talut. Other elements from his narrative are in accordance with the narratives of other Prophets of Israel, as exegesis recounts Samuel's preaching against idolatry. He is not mentioned by name in the Qur'an, but referred to as a "prophet" instead.
 
 In the Islamic narrative, the Israelites after Moses wanted a king to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth.[citation needed] But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
@@ -1346,7 +1295,9 @@ He then told Saul that Allah had chosen him as the king of the children of Israe
 </details>
 
 <details>
-<summary><b>Davud </b></summary>
+<summary>Davud </summary>
+
+### Davud (David)
 Dawud (Arabic: دَاوُوْد, romanized: Dāwūd [daːwuːd]), is a prophet and messenger of God (Allah) and is righteous, divinely-anointed monarch of the United Kingdom of Israel. Additionally, Muslims also honor David for having received the divine revelation of the Zabur (Psalms). Mentioned sixteen times in the Quran, David appears in the Islamic scripture as a link in the chain of prophets who preceded Muhammad. Although he is not usually considered one of the "law-giving" prophets (ulū al-ʿazm), "he is far from a marginal figure" in Islamic thought. In later Islamic traditions, he is praised for his rigor in prayer and fasting. He is also presented as the prototypical just ruler and as a symbol of God's authority on earth, having been at once a king and a prophet.
 
 David is particularly important to the religious architecture of Islamic Jerusalem. Dawud is known as biblical David who was, according to the Hebrew Bible, the second king of the United Kingdom of Israel and Judah, reigning c. 1010–970 BCE
@@ -1389,18 +1340,21 @@ philistines kill Saul. David becomes the king of Israel. David conquers Jerusale
 </details>
 
 <details>
-<summary><b>Sulayman (Solomon) </b></summary>
+<summary>Sulayman (Solomon) </summary>
+
+### Solomon Son of David
+
 Sulaimān ibn Dāwūd (Arabic: سُلَيْمَان بْن دَاوُوْد, Solomon son of David) was, according to the Quran, a malik (مَلِك, king) and Nabī (Prophet) of the Israelites. Islamic tradition generally holds that he was the third king of Jewish people, and a wise ruler for the nation.
 
 Islam views Solomon as one of the prophets of God, who was bestowed with many God-given gifts, including the ability to speak to animals and jinn. Supported by a magical ring given by God, he enslaved the devils (shayatin) and demons (div).
 
 Muslims further maintain that he remained faithful to the one and only God throughout his life; and reigned justly over the whole of the Israelites; was blessed with a level of kingship which was given to none after him and before him; and fulfilled all of his commandments, being promised nearness to God in Paradise at the end of his life. Arab historians regarded Solomon as one of the greatest rulers around the world.
 
-**Judgment on the field**
+#### Judgment on the field
 
 In the earliest narrative involving Solomon, the Quran (21:78) briefly alludes to a story that Solomon was in the company of his father, when two men came to ask David to judge between them regarding a ḥarth (حَرْث, field). Later Muslim commentators expanded on the allusion, including Al-Tabari, Baidawi, and Ibn Kathir. They said that the first of the two men said that he owned a vineyard of which he took great care the whole year through. But one day, when he was absent, the other man's sheep had strayed into the vineyard and devoured the grapes. He asked to be compensated for this damage.[9]: 62  Upon hearing the man's complaint, Solomon suggested that the owner of the sheep take the other man's vineyard to repair and cultivate until the vines returned to their former state, whereupon he should return it to its owner. At the same time, the owner of the vineyard would care for the sheep and benefit from their wool and milk until his land was returned to him, at which point he would return the sheep to their owner. Solomon's level of judgment, which the Quran says,[10] would characterize Solomon throughout his life. Ḥikmah (Wisdom), according to Muslim tradition, would always be associated with Solomon, who would later even be referred to as Sulaimān al-Ḥakīm (سُلَيْمَان ٱلْحَكِيْم, "Solomon the Wise"). This story is adapted in the Kebra Nagast, but as a dispute adjudicated by a son of Solomon's.
 
-**Solomon and the demons**
+#### Solomon and Demons
 
 The Queen of Sheba
 The Quran narrates that the wind was made subservient to Solomon, and he could control it at his own will, and that the jinn also came under Solomon's control. The jinn helped strengthen Solomon's reign. The devils (shayatin), and demons were forced building for him monuments. God also caused a miraculous ʿayn (عَيْن, 'fount' or 'spring') of molten qiṭr (قِطْر, 'brass' or 'copper') to flow for Solomon, to be used by the demons in their construction.
@@ -1411,22 +1365,22 @@ Allegorical, Solomon's loss to the demons, is a human losing its soul to demonic
 
 Unlike the Talmudic tradition, Solomon was unaware and never participated in idolatry. Further, the Quran rejects that Solomon was a magician: "(...) Solomon did not disbelieve, but the devils disbelieved, teaching men magic and (...)". (2:102)
 
-**Solomon and the ant** 🐜
+####Solomon and the Ant 🐜
 
 Solomon was even taught the languages of various animals, such as ants. The Quran recounts that, one day, Solomon and his army entered a wādin-naml (وَادِ ٱلْنَّمْل, valley of the ant). On seeing Solomon and his army, a namlah (نَمْلَة, female ant) warned all the others to `... get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it.` Immediately understanding what the ant said, Solomon, as always, prayed to God, thanking him for bestowing upon him such gifts and further avoided trampling over the ant colonies.[9]: 63 Solomon's wisdom, however, was yet another of the gifts he received from God, and Muslims maintain that Solomon never forgot his daily prayer, which was more important to him than any of his gifts.
 
 Exegetical literature emphasizes the ant's wisdom and explains the meaning behind Solomon's gift to control the wind. According to Siracü'l-Kulub, the ant asks Solomon if he knows why he is called "Solomon" (Süleyman). Solomon negates and the ant went on to explain: "Although your heart was sound (selim) and you know the circumstances of the next world, you have accepted a few pleassures of this world and have been deceived by its possesion and kingship; therefore you are called Solomon." Afterwards the ant asks Solomon, if he knows why God has subdued the wind for him. Once again, Solomon denies and the ant answers: "He has subdued the wind for a reason: that which you have accepted is nothing. Just as the wind passes, the world's wealth and kingship pass too." Scholars like Fakhr al-Din Razi and al-Qurtubi elevated the ant to the rank of an examplar for humans to follow.(p196)
 
-**Conquest of Saba'**
+#### Conquest of Saba'
 
 Ruins of the Barran Temple at Ma'rib, the former capital of Saba' in what is now Yemen
 Another important aspect of Solomon's kingship was the size of his army, which consisted of both men and jinn. Solomon would frequently assess his troops and warriors as well as the jinn and all the animals who worked under him. One day, when inspecting his troops, Solomon found the Hud-hud (هُدْهُد, Hoopoe) missing from the assembly. Shortly later, however, the Hud-hud arrived to Solomon's court, saying "I have compassed (territory) which thou hast not compassed, and I have come to thee from Saba' with tidings true."The Hud-hud further told Solomon that the people of Sheba worshiped the Sun, and that the woman who ruled the kingdom was highly intelligent and powerful. Solomon, who listened closely, chose to write a letter to the land of Sheba, through which he would try to convince the people of Sheba to cease in worshiping the Sun, and to come to the worship of God. Solomon ordered the Hud-hud to give the letter to the Queen of Sheba (Bilqis), and then to hide and observe her reaction.[9]: 64  The Hud-hud accepted Solomon's orders, and flew to give the letter to her. The Queen then called her ministers in the court and announced the letter of Solomon stating to the people of Sheba: "In the name of Allah the Compassionate the Merciful, Be you not exalted against me, but come to me as Muslimīn (مُسْلِمِيْن)." She asked for suggestions from her minister and administration stating that "O my people, I know that you all are powerful and brave warriors, and no one on the face of the Earth can defeat our army, but still I want your opinion." The people of the court replied: "You have all the power, and whatever order you deliver, you will find us obedient." Eventually, however, the Queen came to Solomon, announcing her submission to God.
 
-**Solomon and the ifrit**
+#### Solomon and The Ifrit
 
 During Bilqis' travel, Solomon asks his servants to deliver her throne to his court. An ifrit offers his service (Q27:38-40), but Solomon declines. Another man is endowed with this task instead, who prays to God for the throne. Afterwards, the prayer is answered and the throne appears thanks to God's power in Solomon's palace. When Bilqis arrives, Solomon asks if she can recognize her throne. She gives him an evasive answer, because she can not grasp the miracle performed here. Since this miracle was done by God (and not by the ifrit), she surrenders to the faith of Solomon. Solomon declined the ifrit's temptatious offer, because he wants to rely on God only and not on the demonic, this leading to his successful conversation of Bilqis.
 
-**Death**
+#### Death
 
 The Quran relates that Solomon died while he was leaning on his staff. Then a creature (an ant or a worm) gnaw at Solomon's staff, until his body collapsed.
 
@@ -1443,9 +1397,10 @@ Angels Harut and Marut taught magic in Babylon (between 1895BC and 539BC). it is
 </details>
 
 <details>
-<summary>Ilyas (Elija)</summary>
+<summary>Ilyas (Elijah)</summary>
 
-mentioned 4 times in the Quran. he was the one who perfected his character
+### Ilyas (Elijah)
+Mentioned 4 times in the Quran. he was the one who perfected his character
 After death of the prophet Suleyman as, his kingdom was divided into two: Israel(Samaria) and Judah(Jerusalem). They started to go astray. Allah sent Ilyas to Samaria because they started worshipping an idol. They sis not listen to Ilyas, so Allah sent a long-lasting draught. he challenged priests of the idol Ball.
 
 Ilyas is first mentioned as a prophet in Al-An'am 6:85.[14] He invited his people who lived in Baalbek to monotheism, obeying God and abandoning sins.[15] His main task was to prevent the idol-worshipping.[16] After he faced persistence of his people for many years, cursed them with drought and people were inflicted with starvation.[17] Ilyas' narrative in the Quran and later Muslim tradition resembles closely that in the Hebrew Bible and Muslim literature records Elijah's primary prophesying as taking place during the reign of Ahab and Jezebel as well as Ahaziah.[a] Ilyas' figure has been identified with a number of other prophets and saints, including Idris, which is believed by some scholars to have been another name for Ilyas,[20] and Khidr.[21] Islamic legend later developed the figure of Ilyas, greatly embellishing upon his attributes, and some apocryphal literature gave Ilyas the status of a half-human, half-angel.[22] Ilyas also appears in later works of literature, including the Hamzanama.[23]
@@ -1483,6 +1438,8 @@ Ilyas has been the subject of legends and folktales in Muslim culture, usually i
 
 <details>
 <summary>Alyasa (Elisha)</summary>
+
+### Alyasa (Elisha)
 Alyasa (Arabic: اليسع, romanized: Alyasā') is prophet and messenger of God (Allah) who was sent to guide the Children of Israel. In the Quran, Alyasa is mentioned twice as a prophet,[1] and is mentioned both times alongside fellow prophets.[2] He is honored by Muslims as the prophetic successor to Ilyas (Elijah). Islamic sources that identify Elisha with Khidr cite the strong relationship between Khidr and Ilyas in Islamic tradition.[3]
 
 The name of Alyasa is mentioned twice in Al-An'am 6:86 and Sad 38:48. In those verses, without mentioning anything about the personality or prophethood of Alyasa, he is mentioned as "graced" and "among the elect".[4] According to the Quran, Elisha is exalted "above the rest of creation" (Arabic: فَضَّلْنَا عَلَى ٱلْعَالَمِين, romanized: faḍḍalnā ʿala l-ʿālamīn(a)[4] and is "among the excellent" (Arabic: مِنَ ٱلْأَخْيَار, romanized: mina l-akhyār).[5] Alyasa is mentioned in Al-An'am 6:86 and Sad 38:48, along with Ismail:
@@ -1496,7 +1453,9 @@ The name of Alyasa is mentioned twice in Al-An'am 6:86 and Sad 38:48. In those v
  
 <details>
 <summary>Yunus Jonah 🐳 (8-9cen BCE)</summary>
- The companion of the fish 🐟.
+The companion of the fish 🐟.
+
+### Yunus and The Fish 🐳
 
 Yunus ibn Matta (Arabic: يُونُس ابن ماتا, romanized: Yūnus ibn Matta) is a prophet and messenger of God (Allah). Yunus is traditionally viewed as highly important in Islam as a prophet who was faithful to God and delivered His messages. Yunus is the only one of the Bible's Twelve Minor Prophets to be named in the Quran. The tenth chapter of the Quran is named after him.
 
@@ -1531,32 +1490,36 @@ The ninth-century Persian historian Al-Tabari records that, while Jonah was insi
 <details>
 <summary>Dhu al-Kifl </summary>
 (debated, Ezekiel, Budda or other)
-Dhu al-Kifl (Arabic: ذُو ٱلْكِفْل, ḏū ʾl-kīfl, literally "Possessor of the Kifl "; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-Kifl, or Zu l-Kifl) is an Islamic prophet. Although his identity is unknown, his identity has been theorised and identified as various Hebrew Bible prophets and other figures, most commonly Ezekiel and Gautama Buddha.[1][2][3][4] Dhu al-Kifl is believed to have been exalted by Allah to a high station in life and is chronicled in the Quran as a man of the "Company of the Good".[5] Although not much is known of Dhu al-Kifl from other historical sources, all the writings from classical commentators, such as Ibn Ishaq and Ibn Kathir, speak of Dhu al-Kifl as a prophetic, saintly man who remained faithful in daily prayer and worship.
+
+### Dhu al-Kifl
+Dhu al-Kifl (Arabic: ذُو ٱلْكِفْل, ḏū ʾl-kīfl, literally "Possessor of the Kifl "; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-Kifl, or Zu l-Kifl) is an Islamic prophet. Although his identity is unknown, his identity has been theorised and identified as various Hebrew Bible prophets and other figures, most commonly Ezekiel and Gautama Buddha. Dhu al-Kifl is believed to have been exalted by Allah to a high station in life and is chronicled in the Quran as a man of the "Company of the Good". Although not much is known of Dhu al-Kifl from other historical sources, all the writings from classical commentators, such as Ibn Ishaq and Ibn Kathir, speak of Dhu al-Kifl as a prophetic, saintly man who remained faithful in daily prayer and worship.
 
 Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
 
 And (remember) Isma'il, Idris, and Dhu al-Kifl, all (men) of constancy and patience.
 We admitted them to Our mercy: for they were of the righteous ones.
 
-— Quran, Surah Al-Anbiya (21), Ayahs 85–86[13]
+— Quran, Surah Al-Anbiya (21), Ayahs 85–86
 And commemorate Isma'il, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good.
 
-— Quran, Surah Sad (38), Ayah 48[14]
+— Quran, Surah Sad (38), Ayah 48
 In both cases, Dhu al-Kifl is mentioned in the context of a list of Qur'anic prophets, including many others not mentioned in the ayat quoted above.
 
 </details> 
 
 <details>
 <summary>Uzair</summary>
+
+###Uzair
 Uzair (Arabic: عزير, ʿUzayr) is a figure who is mentioned in the Quran, Surah At-Tawba, verse 9:30, which states that he was revered by the Jews as "the son of God". Uzair is most often identified with the biblical Ezra. Modern historians have described the reference as "enigmatic", since such views have not been found in Jewish sources. Islamic scholars have interpreted the Quranic reference in different ways, with some explaining that it alluded to a specific group of Jews.
 
 According to Ibn Kathir, Uzair lived between the times of King Solomon and the time of Zachariah, father of John the Baptist. Some Quranic commentators viewed Uzayr as a learned scholar who sought to teach the people the forgotten laws of God. He is sometimes identified as the protagonist in the Quranic story of the man who slept for a hundred years (2:259). Some Islamic scholars held Uzayr to be one of the prophets. Although there is a hadith that reports that God expunged Uzayr from the list of prophets because he refused to believe in qadar (predestination), but this hadith is considered da'if (weak) and is rejected by most Islamic scholars. Ibn Hazm, al-Samaw'al and other scholars put forth the view that Uzair (or one of his disciples) falsified the Torah, and this claim became a common theme in Islamic polemics against the Bible. Many aspects of later Islamic narratives show similarity to Vision of Ezra, an apocryphal text which seems to have been partially known to Muslim readers.
 
 The Jews call Uzair a son of Allah, and the Christians call the Christ a son of Allah. That is a saying from their mouth; (in this) they but imitate what the unbelievers of old used to say. May Allah destroy them: how they are deluded away from the Truth!(Quran 9:30)
 
-In February 624, when the qibla (direction of prayer) changed from Jerusalem to Mecca. Sallam ibn Mishkam, a Jew who lived in Medina and his friends asked Muhammad: “How can we follow you when you have abandoned our qibla and you do not allege that Uzair (Ezra) is the son of God?”[10]: 269  This verse is situated in a context of theological disputes with the Jewish community of Medina.[4] The Quran emphasizes the absolute divinity of God and warns against associating any being with him (shirk).[4] It further condemns Jewish and Christian leaders of the time for deceiving the masses into taking "their priests and their anchorites to be their lords in derogation of God".[4] In casting doubt on claims about the divine status of Uzayr and Christ, the Quran also instructs Muslims to reject such beliefs.[4] These arguments reflect the tensions between the new Muslim community and the more established Christian and Jewish communities of Arabia.
+In February 624, when the qibla (direction of prayer) changed from Jerusalem to Mecca. Sallam ibn Mishkam, a Jew who lived in Medina and his friends asked Muhammad: “How can we follow you when you have abandoned our qibla and you do not allege that Uzair (Ezra) is the son of God?”: 269  This verse is situated in a context of theological disputes with the Jewish community of Medina.[4] The Quran emphasizes the absolute divinity of God and warns against associating any being with him (shirk). It further condemns Jewish and Christian leaders of the time for deceiving the masses into taking "their priests and their anchorites to be their lords in derogation of God".[4] In casting doubt on claims about the divine status of Uzayr and Christ, the Quran also instructs Muslims to reject such beliefs. These arguments reflect the tensions between the new Muslim community and the more established Christian and Jewish communities of Arabia.
 
-In some Islamic texts, Ezra is identified as the person mentioned in Qur'an 2:259:[3]
+In some Islamic texts, Ezra is identified as the person mentioned in Qur'an 2:259
 
 Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall God bring it (ever) to life, after (this) its death?" but God caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that God hath power over all things." (Quran 2:259)
 
@@ -1568,25 +1531,23 @@ The modern Quranic exegesis of Abul Ala Maududi states:
 
 Uzair (Ezra) lived during the period around 450 B.C. The Jews regarded him with great reverence as the revivalist of their Scriptures which had been lost during their captivity in Babylon after the death of Prophet Solomon. So much so that they had lost all the knowledge of their Law, their traditions and of Hebrew, their national language. Then it was Ezra who re-wrote the Old Testament and revived the Law. That is why they used very exaggerated language in his reverence which misled some of the Jewish sects to make him 'the son of God'. The Qur'an, however, does not assert that all the Jews were unanimous in declaring Ezra as 'the son of God'. What it intends to say is that the perversion in the articles of faith of the Jews concerning Allah had degenerated to such an extent that there were some amongst them who considered Ezra as the son of God.
 
-According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a group of Jews who venerated Ezra as the son of God. According to Ali, Qastallani held that in the Kitan al-Nikah, that there was a party of Jews who held this belief.[
+According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a group of Jews who venerated Ezra as the son of God. According to Ali, Qastallani held that in the Kitan al-Nikah, that there was a party of Jews who held this belief.
 
 </details>
 
 ## 7. Isa (Jesus and Family of Imran)
 *******************************************
 <details>
-<summary>Wife of Imran (Joahim) makes dua</summary>
+<summary>Maryam (Virgin Mary) is born</summary>
+
+#### Wife of Imran (Joahim) makes dua
 The Family of Imran) is the third chapter (sūrah) of the Quran with two hundred verses (āyāt).
 
 Imran in Islam is regarded as the father of Mary. This chapter is named after the family of Imran, which includes Imran, Saint Anne (wife of Imran), Mary, and Jesus.
 
 His wife thought that he was going to give birth to a boy, but it was Mary.
 
-</details>
-
-<details>
-<summary>Maryam (Virgin Mary) is born</summary>
-
+#### Birth of Mary
  (Arabic: مريم بنت عمران, Maryam bint Imran) or Maryam, daughter of Imran, mother of Isa (Jesus), holds a singularly exalted place in Islam as the only woman named in the Quran, which refers to her seventy times and explicitly identifies her as the greatest of all women,[1][2][3] stating, with reference to the angelic salutation during the annunciation, "O Mary, God has chosen you, and purified you; He has chosen you above all the women of creation."[4] In the Quran, her story is related in three Meccan chapters (19, 21, 23) and four Medinan surahs (3, 4, 5, 66), and the nineteenth Surah titled Maryam, is named after her. The Quran refers to Mary more often than the Bible.
 
 According to the Quran, divine grace surrounded Mary from birth, and, as a young woman, she received a message from God through the archangel Gabriel that God had chosen her, purified her, and had preferred her above all "the women of the worlds."[7] This event, according to the same narrative, was followed by the annunciation of a child who was to be miraculously conceived by her through the intervention of the divine spirit while she was still virgin, whose name would be Jesus and who would be the "anointed one," the Promised Messiah. As such, orthodox Islamic belief "has upheld the tenet of the virgin birth of Jesus,"[7] and although the classical Islamic thinkers never dwelt on the question of the perpetual virginity of Mary at any great length,[7] it was generally agreed in traditional Islam that Mary remained a virgin throughout her life, with the Quran's mention of Mary's purification “from the touch of men” implying perpetual virginity in the minds of many of the most prominent Islamic fathers.
@@ -1611,6 +1572,7 @@ Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the 
 <details>
 <summary>Zakariyah</summary>
 
+### Zakariyah
 People drew lots to decide who is going to take care of Maryam and Zakariyah was chosen for this task.
 
 Quran mentions 
@@ -1620,13 +1582,14 @@ Quran mentions
 <details>
 <summary>Virgin Mary gives birth to Jesus</summary>
 
+### Virgin Mary gives birth to Jesus
 The virgin birth of Jesus is supremely important in Islam, as one of the most important miracles of God. The first explicit mention of an annunciation foreshadowing the birth of Jesus is in Quran 19:20 where Mary asks Gabriel (Jibril) how she will be able to conceive, when no man has touched her. Gabriel's reply assures Mary that for God all things are easy and that Jesus's virgin birth will be a sign for mankind. The birth is later referred in Quran 66:12, where the Quran states that Mary remained "pure", while God allowed a life to shape itself in Mary's womb. A third mention of the annunciation is in Q3:42–43, where Mary is also given the glad tidings that she has been chosen above all the women of creation.
 
 Commentators on the Quran remark on the last verse that Mary was as close to a perfect woman as there could be, and she was devoid of almost all failings.Although Islam honors numerous women, including Zipporah, Hagar, Sarah, Asiya, Khadijah, Fatimah, Ayesha, Hafsa many commentators followed this verse in the absolute sense, and agreed that Mary was the greatest woman of all time. Other commentators, however, while maintaining that Mary was the "queen of the saints", interpreted this verse to mean that Mary was the greatest woman of that time and that Fatimah, Khadijah and Asiya were equally great. According to exegesis and literature, Gabriel appeared to Mary, who was still young in age, in the form of a well-made man with a "shining face" and announced to her the birth of Jesus. After her immediate astonishment, she was reassured by the angel's answer that God has the power to do anything. The details of the conception are not discussed during these angelic visits, but elsewhere the Quran states (Quran 21:91) and 66:12) that God breathed "His Spirit" into Mary while she was chaste.
 Mary shaking the palm tree for dates, a legend derived from the Gospel of Pseudo-Matthew.
 According to the Quran, Mary was chosen twice by the Lord: "O Mary! Verily Allah has chosen you and puriﬁed you and chosen you above the women of the worlds" (Quran 3:42); and the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.[27]: 16 
 
-The Quran narrates the virgin birth of Jesus numerous times. In chapter 19 (Maryam), verses (ayat) 17–21, the annunciation is given, followed by the virgin birth in due course. In Islam, Jesus is called the "spirit of God" because he was through the action of the spirit, but that belief does not include the doctrine of his pre-existence, as it does in Christianity. Quran 3:47 also supports the virginity of Mary, revealing that "no man has touched [her]". Quran 66:12[33] states that Jesus was born when the spirit of God breathed upon Mary, whose body was chaste.
+The Quran narrates the virgin birth of Jesus numerous times. In chapter 19 (Maryam), verses (ayat) 17–21, the annunciation is given, followed by the virgin birth in due course. In Islam, Jesus is called the "spirit of God" because he was through the action of the spirit, but that belief does not include the doctrine of his pre-existence, as it does in Christianity. Quran 3:47 also supports the virginity of Mary, revealing that "no man has touched [her]". Quran 66:12 states that Jesus was born when the spirit of God breathed upon Mary, whose body was chaste.
 
 According to the Quran, the following conversation transpired between the angel Gabriel and Mary when he appeared to her in the form of a man:
 
@@ -1643,6 +1606,8 @@ The Fatimid Ismaili jurist Qadi al-Nu’man holds that the virgin birth of Jesus
 <summary>Yaḥyā ibn Zakarīyā** (John the Baptist)</summary>
 1 century BC
 
+### Yahya (John the Baptist)
+
 Yaḥyā ibn Zakarīyā (Arabic: يحيى ابن زكريا, literally Yahya/John, son of Zechariah), identified in English as John the Baptist, is considered in Islam a prophet and messenger of God (Allah) who was sent to guide the Children of Israel. He is believed by Muslims to have been a witness to the word of God who would herald the coming of Isa Masih (Jesus).
 
 Yahya is mentioned five times in the Quran.
@@ -1652,26 +1617,25 @@ Yahya is also honored highly in Sufism as well as Islamic mysticism, primarily b
 In the Quran, God frequently mentions Zakariya's continuous praying for the birth of a son. Zakariya's wife, was barren and therefore the birth of a child seemed impossible. As a gift from God, Zechariah was given a son by the name of Yaḥya, a name specially chosen for this child alone. In accordance with Zakariya's prayer, God made Yahya and Isa, who according to exegesis was born six months later, renew the message of God, which had been corrupted and distorted by the Israelites.
 
 The Quran claims that John the Baptist was the first to receive this name (Quran 19:7–10) but since the name Yoḥanan occurs many times before John the Baptist,this verse is referring either to Islamic scholar consensus that "Yaḥyā" is not the same name as "Yoḥanan" or to the Biblical account of the miraculous naming of John, which accounted that he was almost named "Zacharias" (Greek: Ζαχαρίας) after his father's name, as no one in the lineage of his father Zacharias (also known as Zechariah) had been named "John" ("Yohanan"/"Yoannes") before him. As the Quran says:
-"O Zakaryya, indeed We give you good tidings of a boy whose name will be Yahya, and whose we never before have created sameness for.
+    
+    "O Zakaryya, indeed We give you good tidings of a boy whose name will be Yahya, and whose we never before have created sameness for.
+    He said: "O my Lord! How shall I have a son, when my wife is barren and I have grown quite decrepit from old age?"
+    He said: "So (it will be) thy Lord saith, 'that is easy for Me: I did indeed create thee before, when thou hadst been nothing!'"
+    (Zakarya) said: "O my Lord! give me a Sign." "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three nights."
+    Quran, surah Maryam 19: 7–10
 
-He said: "O my Lord! How shall I have a son, when my wife is barren and I have grown quite decrepit from old age?"
-
-He said: "So (it will be) thy Lord saith, 'that is easy for Me: I did indeed create thee before, when thou hadst been nothing!'"
-
-(Zakarya) said: "O my Lord! give me a Sign." "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three nights."
-
-— Maryam 19: 7–10
-Prophethood
+#### Prophethood
 The Jordan River, where Yahya baptized Isa.
 Yahya was exhorted to hold fast to the scripture and was given wisdom by God while still a child. He was pure and devout, and walked well in the presence of God. He was dutiful towards his parents and he was not arrogant or rebellious. John's reading and understanding of the scriptures, when only a child, surpassed even that of the greatest scholars of the time. Muslim exegesis narrates that Isa sent Yahya out with twelve disciples, who preached the message before Jesus called his own disciples. The Quran says:
-"O Yaḥya! take hold of the Book with might": and We gave him Wisdom even as a youth,
 
-— Maryam, 19:12
+    "O Yaḥya! take hold of the Book with might": and We gave him Wisdom even as a youth,
+    Quran, surah Maryam, 19:12
+
 John was a classical prophet, who was exalted high by God for his bold denouncing of all things sinful. Furthermore, the Quran speaks of John's gentle piety and love and his humble attitude towards life, for which he was granted the purity of Life.
 
 According to Islamic tradition, Yahya used to go to the Haram esh-Sharif (Temple Mount) to deliver his sermons.
 
-Assassination
+####Assassination
 During the prophethood of Yahya, a conflict occurred between him and Herod Antipas, who wanted to divorce his first wife and take as wife his former sister-in-law. Yahya informed that the marriage might be incestuous, and did not approve of the marriage. After this, Herod Antipas had Yahya imprisoned. Yahya was then decapitated. Yahya's head is believed to be inside the Umayyad Mosque in Damascus.
 
 </details>
@@ -1679,6 +1643,8 @@ During the prophethood of Yahya, a conflict occurred between him and Herod Antip
 
 <details>
 <summary>Isa (Jesus of Nazareth)</summary>
+
+### Isa (Jesis of Nazareth)
 Isa ibn Maryam (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, lit. 'Jesus, son of Mary'), is the penultimate prophet and messenger of God (Allah) and the Messiah, who was sent to guide the Children of Israel with a revelation: Injīl (Arabic for "gospel").
 
 As in the Christian New Testament, the Quran (the central religious text of Islam) describes Jesus as al-Masīḥ (Arabic for messiah), born of a virgin, performing miracles, accompanied by disciples, rejected by the Jewish establishment, and being raised to heaven. The Quran firmly states that Jesus is not divine and he is not the Son of God. Also, the Quran differs from the New Testament in proclaiming that Jesus was neither crucified nor died on the cross.
@@ -1796,41 +1762,42 @@ The following are Hadith (narrations originating from the words of Muhammad), co
 
 It is narrated on the authority 'Abdullah b. Mas'ud that the Messenger of God observed: Never a Prophet had been sent before me by God towards his nation who had not among his people (his) disciples and companions who followed his ways and obeyed his command. Then there came after them their successors who said whatever they did not practise, and practised whatever they were not commanded to do. He who strove against them with his hand was a believer: he who strove against them with his tongue was a believer, and he who strove against them with his heart was a believer and beyond that there is no faith even to the extent of a mustard seed. Abu Rafi' said: I narrated this hadith to 'Abdullah b. 'Umar; he contradicted me. There happened to come 'Abdullah b. Mas'ud who stayed at Qanat, and 'Abdullah b 'Umar wanted me to accompany him for visiting him (as 'Abdullah b. Mas'ud was ailing), so I went along with him and as we sat (before him) I asked Ibn Mas'ud about this hadith. He narrated it in the same way as I narrated it to Ibn 'Umar. The same hadith has been transmitted by another chain of narrators on the authority of 'Abdullah b. Mas'ud who observed: Never was there one among the prophets who had had not disciples who followed his direction and followed his ways. The remaining part of the hadith is like that as narrated by Salih but the arrival of Ibn Mas'ud and the meeting of Ibn 'Umar with him is not mentioned.
 
-— Sahih Muslim[7]
+— Sahih Muslim
 Death
 Main article: Islamic view of Jesus' death
 The primary quranic verse dealing with the event of the crucifixion is Surah 4 Verse 157:
 
-That they said (in boast), "We killed the Messiah Jesus the son of Mary, the Messenger of The God'; but they killed him not, nor crucified him, but so it was made to appear to them, and those who differ therein are full of doubts, with no (certain) knowledge, but only conjecture to follow, for of a surety they killed him not.
+    That they said (in boast), "We killed the Messiah Jesus the son of Mary, the Messenger of The God'; but they killed him not, nor crucified him, but so it was made to appear to them, and those who differ therein are full of doubts, with no (certain) knowledge, but only conjecture to follow, for of a surety they killed him not.
 
 Most Islamic traditions categorically deny that Jesus physically died on the cross or otherwise. Most traditions instead teach substitution, or the idea that another person was crucified in Jesus' place. However, some modern Muslim scholars believe that Jesus did indeed die, and references to his survival are symbolic, not literal. This disagreement on the nature of Jesus' death is found within the Islamic canon itself, with the earliest Hadith quoting the companions of Muhammad saying that Jesus had died. Meanwhile, the majority of subsequent Hadith and Tafsir argue in favor of the opposite.
 
 Substitution
-It is unclear exactly where the substitutionist interpretation originated, but some scholars consider the theory originating among certain Gnostic groups of the second century.[35] Leirvik finds the Quran and Hadith to have been clearly influenced by the non-canonical ('heretical') Christianity that prevailed in the Arab peninsula and further in Abyssinia.[78]
+It is unclear exactly where the substitutionist interpretation originated, but some scholars consider the theory originating among certain Gnostic groups of the second century.[35] Leirvik finds the Quran and Hadith to have been clearly influenced by the non-canonical ('heretical') Christianity that prevailed in the Arab peninsula and further in Abyssinia.
 
 Muslim commentators have been unable to convincingly disprove the crucifixion. Rather, the problem has been compounded by adding the conclusion of their substitutionist theories. The problem has been one of understanding.
 
 If the substitutionist interpretation (Christ replaced on the cross) is taken as a valid reading of the Qur'anic text, the question arises of whether this idea is represented in Christian sources. According to Irenaeus' Adversus Haereses, the Egyptian Gnostic Christian Basilides (2nd century) held the view that Christ (the divine nous, intelligence) was not crucified, but was replaced by Simon of Cyrene. However, both Clement of Alexandria and Hippolytus denied that Basilides held this view. But the substitutionist idea in general form is quite clearly expressed in the Gnostic Nag Hammadi documents Apocalypse of Peter and The Second Treatise of the Great Seth.
 
-While most Western scholars, Jews, and Christians believe Jesus died, orthodox Muslim theology teaches he ascended to Heaven without being put on the cross and God transformed another person, Simon of Cyrene, to appear exactly like Jesus who was crucified instead of Jesus (cf. Irenaeus' description of the heresy of Basilides, Book I, ch. XXIV, 4.).[83]
+While most Western scholars, Jews, and Christians believe Jesus died, orthodox Muslim theology teaches he ascended to Heaven without being put on the cross and God transformed another person, Simon of Cyrene, to appear exactly like Jesus who was crucified instead of Jesus (cf. Irenaeus' description of the heresy of Basilides, Book I, ch. XXIV, 4.).
 
 Some disagreement and discord can be seen beginning with Ibn Ishaq's (d. 761) report of a brief accounting of events leading up to the crucifixion, firstly stating that Jesus was replaced by someone named Sergius, while secondly reporting an account of Jesus' tomb being located at Medina and thirdly citing the places in the Quran (3:55; 4:158) that God took Jesus up to himself.
 
-Michael Cook notes that denial that Jesus died follows the Christian heresy of Docetism, who were "disturbed by that God should have died", but that this concern conflicts with another Islamic doctrine, that Jesus was a man, not God.[84] Quranic commentators seem to have concluded the denial of the crucifixion of Jesus by following material interpreted in Tafsir that relied upon extra-biblical Judeo-Christian sources, with the earliest textual evidence having originated from a non-Muslim source; a misreading of the Christian writings of John of Damascus regarding the literal understandings of Docetism (exegetical doctrine describing spiritual and physical realities of Jesus as understood by men in logical terms) as opposed to their figurative explanations. John of Damascus highlighted the Quran's assertion that the Jews did not crucify Jesus being very different from saying that Jesus was not crucified, explaining that it is the varied Quranic exegetes in Tafsir, and not the Quran itself, that denies the crucifixion, further stating that the message in the 4:157 verse simply affirms the historicity of the event.
+Michael Cook notes that denial that Jesus died follows the Christian heresy of Docetism, who were "disturbed by that God should have died", but that this concern conflicts with another Islamic doctrine, that Jesus was a man, not God. Quranic commentators seem to have concluded the denial of the crucifixion of Jesus by following material interpreted in Tafsir that relied upon extra-biblical Judeo-Christian sources, with the earliest textual evidence having originated from a non-Muslim source; a misreading of the Christian writings of John of Damascus regarding the literal understandings of Docetism (exegetical doctrine describing spiritual and physical realities of Jesus as understood by men in logical terms) as opposed to their figurative explanations. John of Damascus highlighted the Quran's assertion that the Jews did not crucify Jesus being very different from saying that Jesus was not crucified, explaining that it is the varied Quranic exegetes in Tafsir, and not the Quran itself, that denies the crucifixion, further stating that the message in the 4:157 verse simply affirms the historicity of the event.
 
-Second coming
+#### Second coming
 See also: Second Coming § Islam, Islamic eschatology, and Hadith of Jesus praying behind Mahdi
 According to Islamic tradition which describes this graphically, Jesus' descent will be in the midst of wars fought by the Mahdi (lit. "the rightly guided one"), known in Islamic eschatology as the redeemer of Islam, against al-Masih ad-Dajjal (the Antichrist "false messiah") and his followers. Jesus will descend at the point of a white minaret, east of Damascus (believed to be the Minaret of Isa in the Umayyad Mosque), dressed in yellow robes—his head anointed. He will say prayer behind al-Mahdi then join him in his war against the Dajjal. Jesus, considered as a Muslim, will abide by the Islamic teachings. Eventually, Jesus will slay the Antichrist, and then everyone who is one of the People of the Book (ahl al-kitāb, referring to Jews and Christians) will believe in him. Thus, there will be one community, that of Islam.
 
 Sahih al-Bukhari, Volume 3, Book 43: Kitab-ul-Ilm (Book of Knowledge), Hâdith Number 656:
-Allah's Apostle said, "The Hour will not be established until the son of Mary (i.e. Jesus) descends amongst you as a just ruler, he will break the cross, kill the swine, and abolish the Jizya tax. Money will be in abundance so that nobody will accept it (as charitable gifts)."
-— Narrated by Abu Huraira 🐈
+>Allah's Apostle said, "The Hour will not be established until the son of Mary (i.e. Jesus) descends amongst you as a just ruler, he will break the cross, kill the swine, and abolish the Jizya tax. Money will be in abundance so that nobody will accept it (as charitable gifts)."
+>Narrated by Abu Huraira 🐈
 
 </details>
 
 <details>
 <summary>Apostoles and [Paul]</summary>
  
+### Apostoles and [Paul] 
 The disciples of Jesus are known in the Quran and the traditions of Prophet Muhammad, may the mercy and blessings of God be upon him, as Al-Hawariyoon.  This is an Arabic word meaning simply, the disciples of Jesus.  However, hawariyoon, like many words in the Arabic language, has specific and general meanings, and in some cases, particularly in Islamic words, there are layers of meanings.
 
 Hawari is derived from the root Arabic word hawr that means to whiten, to bleach, to purify, to clean, to change, to transform, to amend and to alter.  Hawari is a singular word and literally means, he who whitens clothes, he who has been appointed, chosen, and purified from all kinds of defects, and a companion or a helper.  The plural is hawariyoon.   
@@ -1876,7 +1843,7 @@ Islam holds the disciples of Jesus, Al-Hawariyoon, in high esteem.  Prophet Muha
 
 This verse tells us that some of the Children of Israel heard Jesus’ message and believed him, while others disbelieved.  Six hundred years later some people believed Prophet Muhammad while others turned their back and actively fought against Islam.  Prophet Jesus and Prophet Muhammad both needed strong people around them.  They needed helpers; they needed trustworthy people with conviction of faith.  Al-Hawariyoon were the people of the inner circle, the ones Prophet Jesus could depend on, and the Companions were the ones who stood by and supported Prophet Muhammad.
 
-Prophet Muhammad said, "There is no Prophet who was sent by God to a nation before me except that he had hawariyoon and companions." During the campaign of al-Ahzab, the Prophet asked his Companions three times which of them would scout the disbeliever’s camp, and al-Zubayr volunteered each time.  The Prophet said, "Every Prophet has a disciple (hawari), and my disciple is al-Zubayr." This story reflects a narration in Ibn Kathir’s commentary on the above verse, Quran 61:14, in which a young disciple volunteered three times to take the place of Jesus when Jesus and Al-Hawariyoon knew that harassment and arrest were probable.
+Prophet Muhammad said, "There is no Prophet who was sent by God to a nation before me except that he had hawariyoon and companions." During the campaign of al-Ahzab, the Prophet asked his Companions three times which of them would scout the disbeliever’s camp, and al-Zubayr volunteered each time.  The Prophet said, ~"Every Prophet has a disciple (hawari), and my disciple is al-Zubayr."~ This story reflects a narration in Ibn Kathir’s commentary on the above verse, Quran 61:14, in which a young disciple volunteered three times to take the place of Jesus when Jesus and Al-Hawariyoon knew that harassment and arrest were probable.
 
 Some groups of Prophet Muhammad’s Companions can be directly likened to the disciples of Jesus. When the fledgling Muslim community migrated to Medina, they were met and taken in by the residents of Medina, who came to be known as the Helpers, or the Ansar.  They played a pivotal role in the establishment of the Islamic community. They embraced the emigrants as if they were family; they shared their homes, their food, their businesses and their wealth—all for the sake of God, and out of respect for Prophet Muhammad and his message. 
 
@@ -1909,6 +1876,8 @@ Paul brought many innovations from Greek mythology, including the concept of "hu
 
 <details>
   <summary>The Return of Jesus</summary>
+
+### Return of Jesus
 Both Islam and Christianity expect the return of Jesus at the end of times, and both expect trials and tribulations to occur at the time.  Many of the themes of these trials are similar, but they are also very different in detail and definition.  Both religions expect the nation of believers to be the final victors, but the Christian believes that these are defined as the believers in the Gospel of the New Testament and in Christ as ‘the Savior’ and ‘the Incarnation’ of God, whilst the Muslim knows that it refers to those who believe in the pure monotheism entailed in submission to the One and Only True God.
 
 The return of Jesus is preceded in both religions by signs, again similar in general description, but subtly different in detail.  Both religions teach that the return of Jesus will be preceded by a great and powerful figure of falsehood and temptation, called the Maseeh ad-Dajjal (The False Messiah) by the Muslims and the Anti-Christ by the Christians.  Before this event other signs that agree with each other include a general increase in immorality and fornication, murder and crime, and general lawlessness, debauchery and falling away from religion and true knowledge.  Accompanying these signs of civil malaise will be internecine[1]  wars, and natural disasters following closely one upon the other.  The details and timings of these, however, are substantially different, even within particular faiths.  How the Christian faith regards the second coming depends on the doctrinal view held.  Four broad views are prominent: Historical and Dispensational Ante-millennialism, and Preterist Post and A-millennialism.
@@ -1917,6 +1886,7 @@ The return of Jesus is preceded in both religions by signs, again similar in gen
 <details>
 <summary> Christianity before Nicean Creed</summary>
 
+### Christianity before Nicean Creed
 There was a time when Christianity was very close to Islam.
 
 Constantine the founder of Constantinople (a.k.a. Istanbul). Constantine was the first emperor to stop the persecution of Christians and to legalize Christianity. and he accepted Christianity. So, the Roman Empire became Christian.
@@ -1963,6 +1933,8 @@ In that time many good people are called son of God.
 
 <details>
 <summary>Descendants of Ibrahim and Ismail</summary>
+
+### Descendants of Ibrahim and Ismail
 Hadith from Sahih Muslim:
 
 > Allah chose Kinanah from descendends of Ismail
@@ -2796,10 +2768,10 @@ The Beast will come out at that time. and it will leave marks on people as belie
 the fire will come out and it will spread.
 
 
-### 12.2 Al Qiyamah
+### 12.2 Al Qiyamah (The Hereafter)
 *******************************************
 <details>
-	<summary><b>What happens after</b></summary> 
+	<summary><b>What happens after The End</b></summary> 
 Allahu 'Alim.
 The Barzak.
 
