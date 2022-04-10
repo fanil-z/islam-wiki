@@ -18,7 +18,8 @@ Need to do
 2. Copy-paste topics.
 3. Fact-check and rewrite the topics. 
 4. Buy a hosting place.
-5. add some images or emoji
+5. Buy a domain.
+5. [DONE] add some images or emoji
 6. [DON-] write a disclaimer
 
 
@@ -27,14 +28,13 @@ Need to do
 * Need index-numbers and maybe certain div classes for titles and descriptions.
 * Send Feedback button
 * add favicon
-* add head menu with links
-* add custom css
+* [DONE] add head menu with links
+* [DONE] add custom css
 * find how to build a static website with config
 	seems like I need to upload it somewhere and fix the baseurl in config before it starts to work locally without serve.
-* find a way to deal with bootstrap CSS
+* [DONE] find a way to deal with bootstrap CSS
 * [DONE] deal with the TOC (how did I do that?)
 * [DONE] attach the upper panel (position: sticky)
-* transfer the history roadmap from /docs to the /wiki folder.
 * [DONE] expand all toggle (https://stackoverflow.com/questions/43008609/expanding-all-details-tags)
 	* Maybe also make this a switch-toggle instead of a button.
 * dark mode toggle slider: https://infomate.club/howtoberlin/
@@ -43,11 +43,14 @@ Need to do
 * add a timeline since Ibrahim. now there's no way I can hack bootstrap css on that level
 * [DONE] fix CSS for This-Page-TOC background and border in the bootstrap CSS.
 * add button to go up to the beginning: 
-* incorporate search in the current page: https://stackoverflow.com/questions/51988459/html-searching-on-the-same-page/51988637
+* [DONE] incorporate search in the current page: https://stackoverflow.com/questions/51988459/html-searching-on-the-same-page/51988637
 * put search button inside search field
 * Try GitLab Pages. Seems like it's free compared to GitHub Pages. (Free but you need to provide your CC data.)
 * Do Expand All when clicking a section in the TOC
 * [DONE] Create a mockup for timeline-helicopter view of the seerah of Prophet Muhammad sww.
+
+
+Dark mode switch: https://dev.to/ahmadbassamemran/awesome-animation-checkbox-css-toggle-day-night-mode-5dnm
 
 
 
@@ -74,6 +77,10 @@ border-image-source: linear-gradient(
   <span class="slider round"></span>
 </label>
 
+
+JS scripts are in single.html. Need to transform them to separate scripts in the js folder.
+
+Wnted to combin the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level higher content planning and too much overhead so I chose the simplest way.
 
 
 Sections
