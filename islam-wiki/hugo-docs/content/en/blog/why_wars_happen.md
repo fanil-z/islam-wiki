@@ -18,6 +18,11 @@
 3 layer: personal place and role
 4 layer: Islamic view which is the most important
 
+
+
+The very first question that comes to mind "How did that happen?" and "How come some people appear who want war?". 
+
+
 # First Layer
 
 On the surface layer, any war is bad because it causes death and destruction. Innocent civilian people also often suffer from the war directly or indirectly, they may be killed, robbed, their houses and belongings may be destroyed, they may have to leave their home for a safer place, etc.

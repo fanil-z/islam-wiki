@@ -1,6 +1,6 @@
 
 
-## Concept of Coding
+## Jinn (Longread)
 ==================
 <style>
   code {
@@ -23,6 +23,7 @@ Classification of Jinn
 Jinn and Magic
 Jinn in Christianity
 Ruqya (Exorcism)
+Some modern science opinions on spirits
 
 Allah created jinns from smokeless fire🔥, the edge of the flame. 
 

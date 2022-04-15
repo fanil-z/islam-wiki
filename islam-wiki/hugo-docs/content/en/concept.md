@@ -94,6 +94,7 @@ Sections
 6. [God's creation compared to computer programming]
 7. Maybe make the interactive chart of connections like in Infinite Jest.
 
+8. Interactive diagram of how persons good and bad deeds are collected by angels and sent to Jannah and Jahannam where they obtain some form.
 
 Custom Header
 ****************************

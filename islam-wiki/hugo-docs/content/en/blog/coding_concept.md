@@ -1,6 +1,6 @@
 
 
-## Concept of Coding
+## Concept of Coding (Longread)
 ==================
 <style>
   code {
@@ -9,6 +9,14 @@
   }
 </style>
 
+
+ALLAH TA’ALA SAYS: ‘SEARCH FOR ME AND YOU WILL FIND ME’
+
+Hafiz Ibn Kahtir (rahimahullah) has cited a narration in his Tafsir which has the mention of Allah Ta’ala saying :
+
+‘ O Son of Adam, I created you for my worship so do not be unmindful of this, I have taken responsibility of your sustenance so do not tire yourself so search for me you will definitely find me, for if you have found me, you have found every thing and if you lose me, everything has lost you and I should be the most beloved to you’
+
+(Tafsir Ibn Kathir, Surah, 51 verse, 60)
 
 
 Concept of evolution and creation as code.
@@ -58,3 +66,28 @@ you write a code on Python, Python itself is written on top of C++.
 and C++ is written on top of assembler or something like that and on the very bottom level it is just a huge bunch of 1s and 0s which are transferred into electric signals that go into physically tangible transistors our laptop CPUs and they make billions of switches and create some visual output on our displays.
 
 The Ultimate Coder must have abilities to code in different layers and dimensions and know how to connect these dimentions to build a full stack of the Universe. I may be coding not only the biological genome but also the meta matters like laws of physics, chemical reactions, code of time and all other things.
+
+
+
+
+Bismillahir Rahmanir Rahim.
+First of all, I want to say Allahu 'Alim. This is just theoritising.
+
+Kalam - logger
+
+Genes - the code
+
+Evolution - an AI model that learns and adapts. you don't want to just place a living creature to an alien environment. you want it to be able to learn and adapt to external circumstances. this is what AI modules do.
+
+and the important point here is that it is not that Allah cannot create the code which will be ideal in the first place. it is the most efficient way to create something. many engineering tasks are now taken over by AI because they do it quickly and they do it automatically.
+Also, it is the most efficient method to create something in the constantly-changing universe. Our Universe is expanding, thus the laws of physics are actually changing. even the Moon is getting further from Earth for couple centimeters each year. but humans appeared only 200K years ago and modern scince is too young so we don't really see and notice fundamentall changes in the laws of physics.
+and we are surely moving towards Yawm al-Kiyamah because that is what is said in the Quran. Allahu 'Alim.
+
+and the process of learning actually allows us to exist in this world. while this meta-AI is learning, the universe exists, and we are living only because of this process. If our bodies and us were created in an ideal state, there will not be any logical reason of all the things that happened since Satan refused to bow before Adam.
+
+
+and the main difference between human beings and animals is that animals are living only according to their physical body instincts. Humans also have their natural instincts, but they also have a free will.
+
+Aside from ideally knowing how the ode works, God knows all the other science involved. Physics, Mathematics, Chemistry.
+
+The whole process of scholars who are trying to make new inventions is merely a tiny attempt to decipher, reverse-engineer what Allah has already created.
