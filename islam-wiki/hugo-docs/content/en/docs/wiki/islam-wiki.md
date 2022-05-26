@@ -20,6 +20,8 @@ author: fanil
 >
 > Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
 > 
+> According to Islamic tradition, there every nation had its prophet and the total number of the prophets is 124000. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned because there was no authentic hadith about this particular prophet in Islamic tradition. 
+> 
 > Feel free to send feedback if you come across a part that contradicts the Quran or an authentic hadith.
 >
 
@@ -218,6 +220,39 @@ Hutama: According to some narrations, the deepest level of the Hells. It is for 
 
 
 ### Jannah -- The Heaven
+
+The Quran describes paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.[8]: 58  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).[8]: 59  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels.[8]: 62  Each person that goes to Jannah is greeted by angels from every gate with the words, "Peace be upon you, because ye have endured with patience; how excellent a reward is paradise!" (Q13:24) [10] Each person lives near to the Lord in a garden (3:15) of perpetual bliss (13:23). In paradise, people would have "whatever they wish for" (Q25:16).[8]: 65  In each garden is a mansion (9:72), a high throne (88:10–16) of dignity (52:20) in a grove of cool shade (36:56–57), an adorned couch (18:31), rows of cushions, rich carpets spread out, a cup (Q88:10–16) full of wine (52:23), and every meat (52:22) and fruit (Q36:56–57) that is like the food on Earth (Q2:25). Each person is adorned in golden and pearl bracelets (Q35:33) and green garments of fine silk and brocade (Q18:31).
+
+Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompanied by any children that did not go to Jahannam (Q52:21), and attended to by servant-boys with the spotless appearance similar to a protected pearls (Q52:24). The Believers Men will get untouched (Q55:56) virgin companions of equal age (56:35-38) and have large, beautiful eyes (37:48).
+
+Jannah is described as an eternal dwelling (Q3:136), with its supreme felicity and greatest bliss being God's good pleasure (Q9:72).[11]
+
+#### Layers of Jannah
+Firdaws – The Highest Gardens of Paradise (al-Kahf,[43] Al-Mu’minoon[44])
+Dār al-maqāmah – The Home (Fāṭir[45])
+Jannatul Aliyah (suras Haqqah, Ghashiyah)
+Dār al-salām – Home of Peace (Yūnus,[46] Al-An'am[47])
+Dār al-Ākhirah – The Home in the Hereafter (al-‘Ankabūt[48])
+al-Jannah – This is the most commonly used term in the Quran and Hadith. (al-Baqarah,[49] Āl ‘Imran,[50][51])
+Jannat al-ʿadn – Gardens of Everlasting Bliss (al-Tawbah:[52] 72, al-Ra‘d[53])
+Jannat al-Khuld – The Eternal Gardens (al-Furqān[54])
+Jannat al-Ma’wā – Garden of Abode (al-Najm[55])
+Jannat al-Na‘īm – The Gardens of Delight (al-Mā’idah,[56] Yūnus,[57] al-Ḥajj[58])
+Maq‘ad al-Ṣidq – Assembly of Truth (al-Qamar[59])
+al-Maqām al-Amīn – The House of Security (al-Dukhān[60])
+
+#### Doors of Jannah
+According to hadith, there are eight doors of Jannah. Their names are as following:
+
+Bāb al-Ṣalāh: For those who were punctual in prayer
+Bāb al-Jihād: For those who took part in jihad
+Bāb al-Ṣadaqah: For those who gave charity more often
+Bāb al-Rayyān: For those who fasted (siyam)
+Bāb al-Ḥajj: For those participated in the annual pilgrimage
+Bāb al-Kāẓimīn al-Ghayẓ wa-al-‘Āfīn ‘an al-Nās: For those who withheld their anger and forgave others
+Bāb al-Aymān: For those who by virtue of their faith are saved from reckoning and chastisement
+Bāb al-Dhikr: For those who showed zeal in remembering Allah
+
 
 </details>
 
@@ -1526,31 +1561,32 @@ Khidr informs Musa that they are now to part ways as Musa has broken his promise
 </details>
 
 
-## 6. Jewish Kings and Prophets
+# 6. Jewish Kings and Prophets
 *******************************************
 <details>
 <summary>
 
-## Shammil (Samuel) 
+## Shammil and Talut -- Samuel and King Saul
 
 </summary>
 
-> Samuel (Shammil) is seen as a prophet and seer in the Islamic faith. The narrative of Samuel in Islam focuses specifically on his birth and the anointing of Talut. Other elements from his narrative are in accordance with the narratives of other Prophets of Israel, as exegesis recounts Samuel's preaching against idolatry. He is not mentioned by name in the Qur'an, but referred to as a "prophet" instead.
+> Samuel (Shammil) is not mentioned by name in the Qur'an, but referred to as a "prophet". The narrative of Samuel in Islam focuses specifically on his birth and the appointing of Talut a king (traditionally identified as Saul).
+>
+> According to Islamic narrative, Israelites after Moses wanted a strong king to rule over their country and to lead them to victory. Allah sent prophet Shammil to help Israelites choose Saul as a king. Israelites mocked Saul but then agreed after seeing a sign from God. 
+>
+> Saul led them to a battle against Philistines and Goliath. Allah reavealed to Saul that Israelities must not drink from one particular river but a part of people drank from the river and were not allowed to fight in the name of Allah. Despite righteous Israelites were scarse in numbers, Allah granted them victory.
 
-In the Islamic narrative, the Israelites after Moses wanted a king to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth.[citation needed] But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
+In the Islamic narrative, the Israelites after Moses wanted a king to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth. But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
 
 Ibn Jarir reported that the condition of the Israelites deteriorated. They committed many sins and killed whom they wished of the prophets. Consequently Allah sent them tyrannous kings who ill-treated them and spilled their blood, and set their enemies from outside against them as well. They used to go to war, taking with them The Ark of the Covenant. They did this so that they would be victorious by its blessing, and it became a symbol of calm and a relic left behind by Moses's people. When they went to war with the people of Gaza and Askalon, they were defeated because the Ark of the Covenant was captured from them. When the king of the Israelites heard of this he died on the spot.
 
-The children of Israel remained like sheep without a shepherd until Almighty Allah sent them a prophet named Samuel (Shammil) . They asked him to appoint a king over them to lead them in a war against their enemies.
+The children of Israel remained like sheep without a shepherd until Almighty Allah sent them a prophet named Samuel (Shammil). They asked him to appoint a king over them to lead them in a war against their enemies.
 
 According to Ibn Asaker, the Israelites believed their Ark of the Covenant to be very holy and an important symbol of their history. They carried the Ark even in battle and believed that, because of it, Allah would protect them from their enemies. This belief gave them peace of mind and great courage, and their enemies were terrified by it. Their enemies also believed that it was given special power by Allah. Gradually the Israelites started to ignore Allah's law; evil habits became part of their lives. Allah sent upon them an enemy, the Philistines, who defeated the Israelites, captured their Ark, drove them out of their homes, and took away their children to use or sell as slaves. Their power was broken. They separated from one another and were very disheartened.
 
-Then came Prophet Samuel among them to bring some relief. They asked the prophet's help in appointing a strong leader, a king under whose banner they could unite and fight the Philistines. Prophet Samuel, knowing their weakness, told them: "I fear that when the time comes to fight you may refuse." But they assured him that they had suffered eSamuel (Arabic: صموئيل, romanized: Samū'ēl) is seen as a prophet and seer in the Islamic faith. The narrative of Samuel in Islam focuses specifically on his birth and the anointing of Talut. Other elements from his narrative are in accordance with the narratives of other Prophets of Israel, as exegesis recounts Samuel's preaching against idolatry. He is not mentioned by name in the Qur'an, but referred to as a "prophet" instead.
+Then came Prophet Samuel among them to bring some relief. They asked the prophet's help in appointing a strong leader, a king under whose banner they could unite and fight the Philistines. Prophet Samuel, knowing their weakness, told them: "I fear that when the time comes to fight you may refuse." But they assured him that they had suffered enough insults and were now ready to fight in the way of God, even if they lost their lives.
 
-
-In the Islamic narrative, the Israelites after Moses wanted a king to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth.[citation needed] But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.nough insults and were now ready to fight in the way of Allah, even if they lost their lives.
-
-Prophet Samuel prayed to Allah for guidance. Allah revealed to him that He had chosen one, Saul (Talut), to be their king. The prophet wanted to know how to recognize the future king. He was told that Saul would come to him by himself and that they should then hand over the control of the kingdom to him, for he would lead them in battle against the Phiistines.
+Prophet Samuel prayed to Allah for guidance. Allah revealed to him that He had chosen one, Saul (Talut), to be their king. The prophet wanted to know how to recognize the future king. He was told that Saul would come to him by himself and that they should then hand over the control of the kingdom to him, for he would lead them in battle against the Philistines.
 
 ### Saul is chosen to be the king of Israelites
 
@@ -1559,6 +1595,40 @@ Saul was tall and sturdy, pious, and very intelligent. He lived and worked with 
 Saul agreed, and they carried on. On their way, they asked directions from some maidens carrying water. They were told to go in the direction of the mountain. Here, a vast crowd was waiting for the Prophet Samuel. When Saul set eyes on him, he instantly recognized him as a prophet by his holy mien. Samuel also recognized Saul as the king that Allah had chosen for them. Saul greeted the prophet respectfully. When he asked about his missing donkeys, Samuel told him not to worry, his donkeys were already on their way to his father's farm.
 
 He then told Saul that Allah had chosen him as the king of the children of Israel. His duty would be to take charge of their affairs, to unite them under one banner, and to protect them from their enemies. If he carried out Allah's commands, he would be given victory. Saul was surprised by this sudden honor offered to him. It was also a heavy responsibility. He protested to the prophet that he was of the Children of Benjamin, the least famous of the tribes of Jacob; he did not know anything of leadership or kingship and had no wealth. Samuel told him that it was the will of Allah that he should be the king, that he should thank Allah for His favor and be strong in faith.
+
+### Battle against Goliath and Philistines
+
+Taking Saul by the hand, Samuel led him to the children of Israel, but they insisted on a direct sign from Allah. Prophet Samuel told them to go outside the city to see the sign, which they did. Allah revealed: 
+
+    "Have you not thought about the group of children of Israel after (the time of ) Moses? When they said to a Prophet of theirs: "Appoint for us a king and we will fight in Allah's Way."
+
+    He said: "Would you then refrain from fighting, if fighting was prescribed for you?"
+
+    They said: "Why should we not fight in Allah's Way while we have been driven out of our homes and our children (families have been taken as captives)?"
+
+    But when fighting was ordered for them, they turned away, all except a few of them. And Allah is All-Aware of the Zalimeen (polytheists, and wrongdoers).
+
+    And their Prophet (Samuel) said to them: "Indeed Allah has appointed Saul as a king over you."
+
+    They said: "How can he be a king over us when we are better fitted than him for the kingdom, and he has not been given enough wealth."
+
+    He said: "Verily, Allah has chosen him above you and has increased him abundantly in knowledge and stature. And Allah grants His Kingdom to whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower."
+
+    And their Prophet (Samuel) said to them: "Verily! The sign of His kingdom is that there shall come to you At Tabut (a wooden box), wherein is Sakinah (peace and reassurance) from your Lord and a remnant of that which Moses and Aaron left behind, carried by the angels. Verily, in this is a sign for you if you are indeed believers."
+
+    Then when Saul set out with the army, he said: "Verily! Allah will try you by a river. So whoever drinks thereof, he is not of me, and whoever tastes it not, he is of me, except him who takes thereof in the hollow of his hand."
+
+    Yet, they drank thereof, all, except a few of them. So when he had crossed it (the river), he and those who believed with him, they said: "We have no power on this day against Goliath and his hosts."
+
+    But those who knew with certainty that they were to meet their Lord, said: "How often a small group overcame a mighty host by Allah's Leave?" And Allah is with the patient.
+
+    And when they advanced to meet Goliath and his forces, they invoked. "Our Lord! Pour forth on us patience and make us victorious over the disbelieving people." (Ch 2:246-250)
+
+Saul set about organizing his army with strong faith and wisdom. He ordered that only men free from responsibilities should join. Those engaged in building homes, men who were about to be married and those occupied with business should not join.
+
+After establishing a well-trained army, he decided to put them to the test. He told them that along the route they would pass a river where they should drink enough water to quench their thirst but not more than that. To his disappointment, he discovered the majority of them drank more water than they should have. He discharged them for disobedience and kept only the few who had obeyed him, as they were the ones who proved their sincerity. This resulted in a split in the army, but he was not bothered. He believed in quality and not numbers; better a small band of true believers he could rely on than a huge army of unreliable men.
+
+Saul's men sighted the enemy on the other side of the river. Their opponents appeared physically strong and were armed with better weapons. They were led by the mighty warrior Goliath (Galut), known for his huge build and brute strength. A great number of Saul's men ran away on seeing this strong force. The small band that remained was willing to fight, whatever the outcome, for they had heard that there had been many incidents in the past in which Allah had caused a small force to defeat a larger one.
 
 </details>
 
@@ -1569,9 +1639,9 @@ He then told Saul that Allah had chosen him as the king of the children of Israe
 
 </summary>
 
-Dawud (Arabic: دَاوُوْد, romanized: Dāwūd [daːwuːd]), is a prophet and messenger of God (Allah) and is righteous, divinely-anointed monarch of the United Kingdom of Israel. Additionally, Muslims also honor David for having received the divine revelation of the Zabur (Psalms). Mentioned sixteen times in the Quran, David appears in the Islamic scripture as a link in the chain of prophets who preceded Muhammad. Although he is not usually considered one of the "law-giving" prophets (ulū al-ʿazm), "he is far from a marginal figure" in Islamic thought. In later Islamic traditions, he is praised for his rigor in prayer and fasting. He is also presented as the prototypical just ruler and as a symbol of God's authority on earth, having been at once a king and a prophet.
+Dawud is known as biblical David who was, according to the Hebrew Bible, the second king of the United Kingdom of Israel and Judah, reigning c. 1010–970 BCE.
 
-David is particularly important to the religious architecture of Islamic Jerusalem. Dawud is known as biblical David who was, according to the Hebrew Bible, the second king of the United Kingdom of Israel and Judah, reigning c. 1010–970 BCE
+Dawud (David), is a prophet and messenger of God and is righteous, divinely-anointed monarch of the United Kingdom of Israel. Additionally, Muslims honor David for having received the divine revelation of the Zabur (Psalms). Dawud is mentioned sixteen times in the Quran. Although he is not usually considered one of the "law-giving" prophets (ulū al-ʿazm), he is a significant figure in Islamic thought. In later Islamic traditions, he is praised for his rigor in prayer and fasting. He is also presented as the prototypical just ruler and as a symbol of God's authority on earth, having been at once a king and a prophet.
 
 ### Narrative in the Quran
 
@@ -1583,9 +1653,9 @@ David is particularly important to the religious architecture of Islamic Jerusal
 
 David's narrative in the Quran, in many respects, parallels that given in the Bible. He is named a prophet (nabī) and also a messenger (rasūl), David is included in lists of those who received revelation (waḥy; Q4:163) or guidance (hudā; 6:84) from God. In both lists his name appears next to that of his son Solomon. Elsewhere, the Quran explains that God gave to both of them the gifts of "sound judgment" (ḥukm; 21:79) and "knowledge" (ʿilm; 21:79; 27:15). 
 
-Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms" (Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr), presumably a reference to the Psalms or the Psalter (the term Zabūr is perhaps related to the Hebrew term mizmōr or Syriac mazmūrā, "psalm"). The mountains and the birds praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth. This role is also suggested by 2:251: "God gave him authority (mulk) and wisdom (ḥikmah) and taught him what He willed. If God did not drive back some people by others, the earth would become corrupt."
+Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms" (Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr), presumably a reference to the Psalms or the Psalter. The mountains and the birds praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth. This role is also suggested by 2:251: "God gave him authority (mulk) and wisdom (ḥikmah) and taught him what He willed. If God did not drive back some people by others, the earth would become corrupt."
 
-Among the things taught to David was the ability to make armour (21:80, 34:10–11), a suggestion that David’s military exploits were the act of God. It is also important that the Quranic reference to David's "wisdom" was sometimes explained by the classical exegetes as the gift of prophecy. The Quran also connects David and Jesus, by insisting that both cursed those Israelites who did not believe (5:78). Moreover, according to the Quran, David was given the ability to distinguish between truth and falsehood when dispensing justice (faṣl al-khiṭāb, 38:20). Furthermore, there is the allusion to a test David was put through, wherein he prayed and repented and God forgave him (38:24-5). Surat Sad (the 38th chapter of the Quran) is also called "the sūra of David" Exegetes explain that since David prostrated when asking God to forgive him, Muhammad was ordered to imitate him and to perform a prostration when reading this chapter.
+Among the things taught to David was the ability to make armour (21:80, 34:10–11), a suggestion that David’s military exploits were the act of God. It is also important that the Quranic reference to David's "wisdom" was sometimes explained by the classical exegetes as the gift of prophecy. The Quran also connects David and Jesus, by insisting that both cursed those Israelites who did not believe (5:78). Moreover, according to the Quran, David was given the ability to distinguish between truth and falsehood when dispensing justice (faṣl al-khiṭāb, 38:20). Furthermore, there is the allusion to a test David was put through, wherein he prayed and repented and God forgave him (38:24-5). Surah Sad (38th chapter of the Quran) is also called "the sūra of David". Exegetes explain that since David prostrated when asking God to forgive him, Muhammad was ordered to imitate him and to perform a prostration when reading this chapter.
 
 ### Religious significance
 David is one of the few Islamic Prophets who received Kingship as well. While other prophets preached during the reign of kings, David, in his time, was the king. Thus, he received an extremely large task, of making sure that the people of Israel were not only held in check spiritually but that the country itself remained strong as well. His place as both leader and prophet is revered by all Muslims as one of extremely high rank. The figure of David, together with that of his prophetic son, Solomon, are iconic of people who ruled justly over their land. God frequently mentions David's high rank as a prophet and messenger in the Quran. He is often mentioned alongside other prophets to emphasize how great he was. For example, God says:
@@ -1607,15 +1677,6 @@ The Zabur is the holy book attributed to David by God, just as Musa (Moses) rece
 
 The term Zabur is the Arabic equivalent of the Hebrew Zimra, meaning "song/music." It, along with Zamir ("song") and Mizmor ("Psalm"), is a derivative of Zamar, meaning "sing", "sing praise", "make music". Thus, David is also usually attributed the gifts of music and song.
 
-### David in the Bible
-
-This was after Samson.
-The current King Saul declared war on Philistine. David was a shepherd. 
-Saul hires David to play him music. Philistines send Goliaf with the army against israelites. David declares that he will beat the giant and kills the giant with one shot of his sling. 
-David was successful in the wars and his popularit grows. Saul grows jealous. David flees to Moab and then lives in caves of Ziph. Saul searches him to kill him. .
-Saul then ceases to kill David.
-philistines kill Saul. David becomes the king of Israel. David conquers Jerusalem. 
-
 </details>
 
 <details>
@@ -1625,39 +1686,61 @@ philistines kill Saul. David becomes the king of Israel. David conquers Jerusale
 
 </summary>
 
-Sulaimān ibn Dāwūd (Arabic: سُلَيْمَان بْن دَاوُوْد, Solomon son of David) was, according to the Quran, a malik (مَلِك, king) and Nabī (Prophet) of the Israelites. Islamic tradition generally holds that he was the third king of Jewish people, and a wise ruler for the nation.
+Sulaimān ibn Dāwūd (Solomon son of David) was, according to the Quran, a malik (king) and Nabī (Prophet) of the Israelites. Islamic tradition generally holds that he was the third king of Jewish people, and a wise ruler for the nation.
 
-Islam views Solomon as one of the prophets of God, who was bestowed with many God-given gifts, including the ability to speak to animals and jinn. Supported by a magical ring given by God, he enslaved the devils (shayatin) and demons (div).
+Islam views Solomon as one of the prophets of God, who was bestowed with many God-given gifts, including the ability to speak to animals and [jinn](#era-of-jinns-devils-or-spirits).
 
 Muslims further maintain that he remained faithful to the one and only God throughout his life; and reigned justly over the whole of the Israelites; was blessed with a level of kingship which was given to none after him and before him; and fulfilled all of his commandments, being promised nearness to God in Paradise at the end of his life. Arab historians regarded Solomon as one of the greatest rulers around the world.
 
+    And (We made subservient) to Sulayman, the wind blowing violent, pursuing its course by his command to the land which We had blessed and we are knower of all things: And of the rebellious people there were those who dived for him and did other work besides that; and we kept guard over them;
+
+    And Sulayman was Dawud’s heir, and he said, O men! we have been tangent the language of birds, and we have been given all things; most surely this is manifest grace. 
+    Quran 38:34-35
+
+Unlike the Talmudic tradition, Solomon was unaware and never participated in idolatry. And the Quran rejects that Solomon was a magician: "(...) Solomon did not disbelieve, but the devils disbelieved, teaching men magic and (...)". (2:102)
+
+
 ### Judgment on the field
 
-In the earliest narrative involving Solomon, the Quran (21:78) briefly alludes to a story that Solomon was in the company of his father, when two men came to ask David to judge between them regarding a ḥarth (حَرْث, field). Later Muslim commentators expanded on the allusion, including Al-Tabari, Baidawi, and Ibn Kathir. They said that the first of the two men said that he owned a vineyard of which he took great care the whole year through. But one day, when he was absent, the other man's sheep had strayed into the vineyard and devoured the grapes. He asked to be compensated for this damage.[9]: 62  Upon hearing the man's complaint, Solomon suggested that the owner of the sheep take the other man's vineyard to repair and cultivate until the vines returned to their former state, whereupon he should return it to its owner. At the same time, the owner of the vineyard would care for the sheep and benefit from their wool and milk until his land was returned to him, at which point he would return the sheep to their owner. Solomon's level of judgment, which the Quran says,[10] would characterize Solomon throughout his life. Ḥikmah (Wisdom), according to Muslim tradition, would always be associated with Solomon, who would later even be referred to as Sulaimān al-Ḥakīm (سُلَيْمَان ٱلْحَكِيْم, "Solomon the Wise"). This story is adapted in the Kebra Nagast, but as a dispute adjudicated by a son of Solomon's.
+In the earliest narrative involving Solomon, the Quran (21:78) briefly alludes to a story that Solomon was in the company of his father, when two men came to ask David to judge between them regarding a ḥarth (field). Later Muslim commentators expanded on the allusion, including Al-Tabari, Baidawi, and Ibn Kathir. They said that the first of the two men said that he owned a vineyard of which he took great care the whole year through. But one day, when he was absent, the other man's sheep had strayed into the vineyard and devoured the grapes. He asked to be compensated for this damage. Upon hearing the man's complaint, Solomon suggested that the owner of the sheep take the other man's vineyard to repair and cultivate until the vines returned to their former state, whereupon he should return it to its owner. At the same time, the owner of the vineyard would care for the sheep and benefit from their wool and milk until his land was returned to him, at which point he would return the sheep to their owner. 
+
+Solomon's level of judgment, which the Quran says, would characterize Solomon throughout his life. Ḥikmah (Wisdom), according to Muslim tradition, would always be associated with Solomon, who would later even be referred to as Sulaimān al-Ḥakīm ("Solomon the Wise").
 
 ### Solomon and Demons
 
-The Queen of Sheba
-The Quran narrates that the wind was made subservient to Solomon, and he could control it at his own will, and that the jinn also came under Solomon's control. The jinn helped strengthen Solomon's reign. The devils (shayatin), and demons were forced building for him monuments. God also caused a miraculous ʿayn (عَيْن, 'fount' or 'spring') of molten qiṭr (قِطْر, 'brass' or 'copper') to flow for Solomon, to be used by the demons in their construction.
+When David died, Solomon inherited his position as the prophetic king of the Israelites. He prayed to God to grant him a kingdom which would be unlike any after him. God accepted Solomon's prayer and gave him what he pleased.
 
-When David died, Solomon inherited his position as the prophetic king of the Israelites. Solomon once permitted a woman to build a statue of her father. Later, she began to worship the statue and Solomon was rebuked for tolerating idolatry in his kingdom. As a punishment, God enabled one of the enslaved demons to steal Solomon's ring and take over his kingdom (Surah 38:34). He later repents his sin and gains control over the demons again, focusing on building the temple again. He prayed to God to grant him a kingdom which would be unlike any after him. God accepted Solomon's prayer and gave him what he pleased.
+The Quran narrates that the wind was made subservient to Solomon, and he could control it at his own will, and that the jinn also came under Solomon's control. The jinn helped strengthen Solomon's reign. The devils (shayatin), and demons were forced to build for him monuments. God also caused a miraculous ʿayn (عَيْن, 'fount' or 'spring') of molten qiṭr (قِطْر, 'brass' or 'copper') to flow for Solomon, to be used by the demons in their construction.
 
-Allegorical, Solomon's loss to the demons, is a human losing its soul to demonic passion. Attar of Nishapur writes: "If you bind the div (demon), you will set out for the royal pavilion with Solomon" and "You have no command over your self's kingdom, for in your case the div is in the place of Solomon".
+    And (we made) the wind (subservient) to Sulayman, which made a month’s journey in the morning and a month’s journey in the evening and we made a fountain of molten copper to flow out for him; and of the jinn there were those who worked before him by the command of his Lord; and who ever turned aside from Our Command from among them, We made him taste of the punishment of burning. They made for him what he pleased of fortresses and usages, and bowls (large) as watering troughs and cooking pots that will not move from their place; give thanks, O family of Dawud! and very few of My Servants are grateful.
 
-Unlike the Talmudic tradition, Solomon was unaware and never participated in idolatry. Further, the Quran rejects that Solomon was a magician: "(...) Solomon did not disbelieve, but the devils disbelieved, teaching men magic and (...)". (2:102)
+    And certainly We tried Sulayman and we put on his throne a (mere) body, so he turned (to Allah). He said, My Lord! do Thou forgive me and grant me a kingdom which is not fit for (being inherited by) anyone after me; surely Thou art the great Giver. Then We made the wind subservient to him; it made his command to run gently wherever he desired, And the Shaitans, every builder and liver, And others fettered in chains, This is Our free gift, therefore give freely or with hold, with out reckoning.
+    Quran, Surah 38
 
 ### Solomon and the Ant 🐜
 
-Solomon was even taught the languages of various animals, such as ants. The Quran recounts that, one day, Solomon and his army entered a wādin-naml (وَادِ ٱلْنَّمْل, valley of the ant). On seeing Solomon and his army, a namlah (نَمْلَة, female ant) warned all the others to `... get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it.` Immediately understanding what the ant said, Solomon, as always, prayed to God, thanking him for bestowing upon him such gifts and further avoided trampling over the ant colonies.[9]: 63 Solomon's wisdom, however, was yet another of the gifts he received from God, and Muslims maintain that Solomon never forgot his daily prayer, which was more important to him than any of his gifts.
+Solomon was even taught the languages of various animals, such as ants. The Quran recounts that, one day, Solomon and his army entered a wādin-naml (valley of the ant). On seeing Solomon and his army, a namlah (female ant) warned all the others to `... get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it.` Immediately understanding what the ant said, Solomon, as always, prayed to God, thanking him for bestowing upon him such gifts and further avoided trampling over the ant colonies. Solomon's wisdom, however, was yet another of the gifts he received from God, and Muslims maintain that Solomon never forgot his daily prayer, which was more important to him than any of his gifts.
 
-Exegetical literature emphasizes the ant's wisdom and explains the meaning behind Solomon's gift to control the wind. According to Siracü'l-Kulub, the ant asks Solomon if he knows why he is called "Solomon" (Süleyman). Solomon negates and the ant went on to explain: "Although your heart was sound (selim) and you know the circumstances of the next world, you have accepted a few pleassures of this world and have been deceived by its possesion and kingship; therefore you are called Solomon." Afterwards the ant asks Solomon, if he knows why God has subdued the wind for him. Once again, Solomon denies and the ant answers: "He has subdued the wind for a reason: that which you have accepted is nothing. Just as the wind passes, the world's wealth and kingship pass too." Scholars like Fakhr al-Din Razi and al-Qurtubi elevated the ant to the rank of an examplar for humans to follow.(p196)
+    At length, when they came to a (lowly) valley of ants, one of the ants said: "O ye ants, get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it."
+    
+    So he smiled, amused at her speech; and he said: "O my Lord! so order me that I may be grateful for Thy favours, which thou hast bestowed on me and on my parents, and that I may work the righteousness that will please Thee: And admit me, by Thy Grace, to the ranks of Thy righteous Servants."
+    Quran 27:18-19
+
+Exegetical literature emphasizes the ant's wisdom and explains the meaning behind Solomon's gift to control the wind. According to Siracü'l-Kulub, the ant asks Solomon if he knows why he is called "Solomon" (Süleyman). Solomon negates and the ant went on to explain: "Although your heart was sound (selim) and you know the circumstances of the next world, you have accepted a few pleassures of this world and have been deceived by its possesion and kingship; therefore you are called Solomon." Afterwards the ant asks Solomon, if he knows why God has subdued the wind for him. Once again, Solomon denies and the ant answers: "He has subdued the wind for a reason: that which you have accepted is nothing. Just as the wind passes, the world's wealth and kingship pass too." Scholars like Fakhr al-Din Razi and al-Qurtubi elevated the ant to the rank of an examplar for humans to follow.
 
 ### Conquest of Saba'
 
-Ruins of the Barran Temple at Ma'rib, the former capital of Saba' in what is now Yemen
-Another important aspect of Solomon's kingship was the size of his army, which consisted of both men and jinn. Solomon would frequently assess his troops and warriors as well as the jinn and all the animals who worked under him. One day, when inspecting his troops, Solomon found the Hud-hud (هُدْهُد, Hoopoe) missing from the assembly. Shortly later, however, the Hud-hud arrived to Solomon's court, saying "I have compassed (territory) which thou hast not compassed, and I have come to thee from Saba' with tidings true."The Hud-hud further told Solomon that the people of Sheba worshiped the Sun, and that the woman who ruled the kingdom was highly intelligent and powerful. Solomon, who listened closely, chose to write a letter to the land of Sheba, through which he would try to convince the people of Sheba to cease in worshiping the Sun, and to come to the worship of God. Solomon ordered the Hud-hud to give the letter to the Queen of Sheba (Bilqis), and then to hide and observe her reaction.[9]: 64  The Hud-hud accepted Solomon's orders, and flew to give the letter to her. The Queen then called her ministers in the court and announced the letter of Solomon stating to the people of Sheba: "In the name of Allah the Compassionate the Merciful, Be you not exalted against me, but come to me as Muslimīn (مُسْلِمِيْن)." She asked for suggestions from her minister and administration stating that "O my people, I know that you all are powerful and brave warriors, and no one on the face of the Earth can defeat our army, but still I want your opinion." The people of the court replied: "You have all the power, and whatever order you deliver, you will find us obedient." Eventually, however, the Queen came to Solomon, announcing her submission to God.
+_Ruins of the Barran Temple at Ma'rib, the former capital of Saba' in what is now Yemen._
 
-### Solomon and The Ifrit
+Another important aspect of Solomon's kingship was the size of his army, which consisted of both men and jinn. Solomon would frequently assess his troops and warriors as well as the jinn and all the animals who worked under him. One day, when inspecting his troops, Solomon found the Hud-hud (Hoopoe) missing from the assembly. Shortly later, however, the Hud-hud arrived to Solomon's court, saying:
+
+    "I have compassed (territory) which thou hast not compassed, and I have come to thee from Saba' with tidings true." 
+
+The Hud-hud further told Solomon that the people of Sheba worshiped the Sun, and that the woman who ruled the kingdom was highly intelligent and powerful. Solomon, who listened closely, chose to write a letter to the land of Sheba, through which he would try to convince the people of Sheba to cease in worshiping the Sun, and to come to the worship of God. Solomon ordered the Hud-hud to give the letter to the Queen of Sheba (Bilqis), and then to hide and observe her reaction. The Hud-hud accepted Solomon's orders, and flew to give the letter to her. The Queen then called her ministers in the court and announced the letter of Solomon stating to the people of Sheba: "In the name of Allah the Compassionate the Merciful, Be you not exalted against me, but come to me as Muslimīn (submitter)." She asked for suggestions from her minister and administration stating:
+
+    "O my people, I know that you all are powerful and brave warriors, and no one on the face of the Earth can defeat our army, but still I want your opinion." The people of the court replied: "You have all the power, and whatever order you deliver, you will find us obedient." 
+
+Eventually, however, the Queen came to Solomon, announcing her submission to God.
 
 During Bilqis' travel, Solomon asks his servants to deliver her throne to his court. An ifrit offers his service (Q27:38-40), but Solomon declines. Another man is endowed with this task instead, who prays to God for the throne. Afterwards, the prayer is answered and the throne appears thanks to God's power in Solomon's palace. When Bilqis arrives, Solomon asks if she can recognize her throne. She gives him an evasive answer, because she can not grasp the miracle performed here. Since this miracle was done by God (and not by the ifrit), she surrenders to the faith of Solomon. Solomon declined the ifrit's temptatious offer, because he wants to rely on God only and not on the demonic, this leading to his successful conversation of Bilqis.
 
@@ -1670,11 +1753,8 @@ The Quran relates that Solomon died while he was leaning on his staff. Then a cr
 
 As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them.
 
-They realized the truth only when God sent a creature to crawl out of the ground and gnaw at Solomon's staff, until his body collapsed. This verse is understood to teach the audience that jinn do not know the unseen (Al-Ghaib), since if they had known the unseen, they would not have stayed in the service of Solomon.[28]
+The jinn realized the truth only when God sent a creature to crawl out of the ground and gnaw at Solomon's staff, until his body collapsed. This verse is understood to teach the audience that jinn do not know the unseen (Al-Ghaib), since if they had known the unseen, they would not have stayed in the service of Solomon.
 
-The temple built by jinns 🏛️
-
-Angels Harut and Marut taught magic in Babylon (between 1895BC and 539BC). it is mentioned in the Quran.
 </details>
 
 <details>
@@ -1727,7 +1807,7 @@ Ilyas has been the subject of legends and folktales in Muslim culture, usually i
 
 </summary>
 
-Alyasa is prophet and messenger of God (Allah) who was sent to guide the Children of Israel. In the Quran, Alyasa is mentioned twice as a prophet, and is mentioned both times alongside fellow prophets. He is honored by Muslims as the prophetic successor to Ilyas (Elijah). Islamic sources that identify Elisha with Khidr cite the strong relationship between Khidr and Ilyas in Islamic tradition.
+Alyasa is a prophet and messenger of God (Allah) who was sent to guide the Children of Israel. In the Quran, Alyasa is mentioned twice as a prophet, and is mentioned both times alongside fellow prophets. He is honored by Muslims as the prophetic successor to Ilyas (Elijah). Islamic sources that identify Elisha with Khidr cite the strong relationship between Khidr and Ilyas in Islamic tradition.
 
 The name of Alyasa is mentioned twice in Al-An'am 6:86 and Sad 38:48. In those verses, without mentioning anything about the personality or prophethood of Alyasa, he is mentioned as "graced" and "among the elect". According to the Quran, Elisha is exalted "above the rest of creation" (Arabic: "among the excellent". Alyasa is mentioned in Al-An'am 6:86 and Sad 38:48, along with Ismail:
 
@@ -1882,9 +1962,39 @@ Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the 
 
 </summary>
 
-People drew lots to decide who is going to take care of Maryam and Zakariyah was chosen for this task.
+Zakariya was a righteous priest and prophet of God whose office was in the Second Temple in Jerusalem. He would frequently be in charge of managing the services of the temple and he would always remain steadfast in prayer to God.
 
-Quran mentions 
+#### Praying for a son
+
+As he reached his old age, Zakariya began to worry over who would continue the legacy of preaching the message of God after his death and who would carry on the daily services of the temple after him. Zakariya started to pray to God for a son. The praying for the birth of an offspring was not merely out of the desire for a child. He prayed both for himself and for the public – they needed a messenger, a man of God who would work in the service of the Lord after Zakariya. Zakariya had character and virtue and he wanted to transfer this to his spiritual heir as his most precious possession. His dream was to restore the household to the posterity of the Patriarch Jacob, and to make sure the message of God was renewed for Israel. As the Qur'an recounts:
+
+    A mention of the mercy of your Lord to His servant Zakariya. When he cried unto his Lord a cry in secret, saying: My Lord! Lo! the bones of me wax feeble and my head is shining with grey hair, and I have never been unblest in prayer to Thee, my Lord. Lo! I fear my kinsfolk after me, since my wife is barren. Oh, give me from Thy presence a successor who shall inherit of me and inherit (also) of the house of Jacob. And make him, my Lord, acceptable (unto Thee). 
+    Quran 19:4–6
+
+#### Fathering Yahya
+
+As a gift from God, Zakariya was given a son named Yaḥyá (Arabic: يحيى, identified with John the Baptist), a name specially chosen for this child alone. Muslim tradition narrates that Zakariya was ninety-two years old[3] when he was told of John's birth.
+
+In accordance with Zakariya's prayer, God made John (Yahya) renew the message of God, which had been corrupted and lost by the Israelites.[4] As the Qur'an says:
+
+    O Zachariah! Lo! We bring thee tidings of a son whose name is John; we have given the same name to none before (him). He said: My Lord! How can I have a son when my wife is barren and I have reached infirm old age? He said: So shall it be, your Lord says: It is easy to Me, and indeed I created you before, when you were nothing. He said: My Lord! give me a sign. He said: Your sign is that you will not be able to speak to the people three nights while in sound health.
+    Quran 19:7–10
+
+#### Guardian of Maryam
+
+According to the Qur'an, Zakariya was the guardian of Maryam . The Qur'an states:
+
+    (Remember) when the wife of 'Imran said: My Lord! I have vowed unto Thee that which is in my belly as a consecrated (offering). Accept it from me. Lo! Thou, only Thou, art the Hearer, the Knower! And when she was delivered she said: My Lord! Lo! I am delivered of a female - Allah knew best of what she was delivered - the male is not as the female; and lo! I have named her Mary, and lo! I crave Thy protection for her and for her offspring from Satan the outcast. And her Lord accepted her with full acceptance and vouchsafed to her a goodly growth; and made Zachariah her guardian. Whenever Zachariah went into the sanctuary where she was, he found that she had food. He said: O Mary! Whence cometh unto thee this (food)? She answered: It is from Allah. Allah giveth without stint to whom He will.
+    Quran 3:35–37
+
+Muslim theology maintains that Zakariya, along with John the Baptist and Jesus, ushered in a new era of prophets – all of whom came from the priestly descent of Amram (Imran), the father of the prophet Aaron. The fact that, of all the priests, it was Zakariya who was given the duty of keeping care of Mary (Maryam) shows his status as a pious man. Zakariya is frequently praised in the Qur'an as a prophet of God and righteous man. One such appraisal is in sura al-An'am:
+
+    "And Zakariya and Yahya and Isa and Eliyas. Each one was of the righteous."
+    Quran 6:85
+
+Qur'an translator Abdullah Yusuf Ali offers commentary on this one line – suggesting that these particular prophets make a spiritual connection with one another. He points out that Yahya was a relative of Isa, while Eliyas was one who was present at the Transfiguration of Isa[6] on the Mount, as mentioned in the New Testament. Zakariya meanwhile, through marriage, was the uncle of Isa and his son Yayha was referred to as Eliyas in the New Testament.
+
+People drew lots to decide who is going to take care of Maryam and Zakariyah was chosen for this task.
 
 </details>
 
@@ -1917,12 +2027,12 @@ The Fatimid Ismaili jurist Qadi al-Nu’man holds that the virgin birth of Jesus
 <details>
 <summary>
 
-## Yaḥyā ibn Zakarīyā** (John the Baptist)
+## Yahya ibn Zakarīyā** (John the Baptist)
 
 </summary>
 1 century BC
 
-Yaḥyā ibn Zakarīyā (Arabic: يحيى ابن زكريا, literally Yahya/John, son of Zechariah), identified in English as John the Baptist, is considered in Islam a prophet and messenger of God (Allah) who was sent to guide the Children of Israel. He is believed by Muslims to have been a witness to the word of God who would herald the coming of Isa Masih (Jesus).
+Yahya ibn Zakariya (John, son of Zechariah), identified in English as John the Baptist, is considered in Islam a prophet and messenger of God (Allah) who was sent to guide the Children of Israel. He is believed by Muslims to have been a witness to the word of God who would herald the coming of Isa Masih (Jesus).
 
 Yahya is mentioned five times in the Quran.
 
@@ -1998,34 +2108,32 @@ A second early high image of Jesus is an end-time figure. This concept arises mo
 
 A third and distinctive image is of Jesus representing an ascetic figure – a prophet of the heart. Although the Quran refers to the 'gospel' of Jesus, those specific teachings of his are not mentioned in the Quran or later religious texts. They are largely absent. The Sufi tradition is where Jesus became revered, acknowledged as a spiritual teacher with a distinctive voice from other prophets, including Muhammad. Sufism tends to explore the dimensions of union with God through many approaches, including asceticism, poetry, philosophy, speculative suggestion, and mystical methods. Although Sufism to the Western mind may seem to share similar origins or elements of Neoplatonism, Gnosticism, and Buddhism, the ideology is distinctly Islamic since they adhere to the words of the Quran and pursue imitation of Muhammad as the perfect man.
 
-Miracles
-Main article: Miracles of Jesus
-See also: Infancy Gospel of Thomas
+### Miracles
+
 The Quran attributes at least six miracles to Jesus, with many more being added over the centuries by writers and historians. Miracles were attributed to Jesus as signs of his prophethood and his authority, according to educator and professor Ishaq Musa Al-Husayni (d. 1990), an author most known for Mudhakkirat Dajaja (Memoirs of a Hen) (Cairo: Dar al-Maarif, 1943; 2nd ed. 1967). In Christ in the Quran and Modern Arabic Literature (1960), Al-Husayni said it is noteworthy Muhammad attributes no miracles to himself.
 
 These six miracles in the Quran are without detail unlike the Gospel and their non-canonical Gnostic sources, which include details and mention other attributed miracles. Over the centuries, these six miracle narratives have been elaborated through Hadith and poetry, with religious writings including some of the other miracles mentioned in the Gospel, non-canonical sources, and from lore.
 
-Speaking from the cradle
+### Speaking from the cradle
 Speaking from the cradle is mentioned in three places in the Quran: al-Imran (3) 41, 46, al-Maida (5) 109–110 and Maryam (19) 29–30. Part of the narrative has the infant Jesus defending his mother Mary from the accusation of having given birth without a known husband. Early Islam was unclear about Joseph and his role.Thus these Gnostic gospel influence is claimed as to say Quran may not be divine by opponents. Jesus speaks as the angel Gabriel had mentioned at the annunciation: Jesus proclaims he is a servant of God, has been given a book, is a prophet, is blessed wherever he will go, blesses the day he was born, the day he will die, and the day he is raised alive.
 
 Although this particular narrative is not found in the Bible, the theme of speaking from the cradle is found in the non-canonical pre-Islamic Syriac Infancy Gospel. That source has Jesus declaring himself the Son of God, the Word, and affirming what the angel Gabriel had previously announced to Mary as detailed in the Gospel.
 
-Creating birds from clay
+### Creating birds from clay
 The miracle story of creating birds from clay and breathing life into them when a child is mentioned in al-Imran (3) 43, 49 and al-Maida (5) 109–110. Although this miracle is also not mentioned the canonical Gospel, the same narrative is found in at least two pre-Islamic sources: the Infancy Gospel of Thomas and the Jewish Toledot Yeshu, with few variant details between the Quran and these two sources.
 
-Healing the blind and the lepers
+### Healing the blind and the lepers
 See also: Healing the two blind men in Galilee and Cleansing ten lepers
 Similar to the New Testament, the Quran mentions Jesus healing the blind and the lepers in al-Imran (3) 49. Muslim scholar and judge al-Baydawi (d. 1286) wrote how it was recorded that many thousands of people came to Jesus to be healed and that Jesus healed these diseases through prayer only. Medieval scholar al-Tha'labi wrote about how these two particular diseases were beyond medical help, and Jesus' miracles were meant to be witnessed by others as clear signs of his message.
 
-Raising the dead
+### Raising the dead
 Jesus is believed to have raised people from the dead, as mentioned in al-Imran (3) 49. Although no detail is given as to who was raised or the circumstance, at least three people are mentioned in detail in the Gospel (a daughter of Jairus, a widow's son at Nain, and Lazarus).
 
 Prescience
 Jesus was able to predict, or had foreknowledge, of what was hidden or unknown to others. One example is Jesus would answer correctly any and every question anyone asked him. Another example is Jesus knew what people had just eaten, as well as what they had stored in their homes.
 
 Table of food from heaven
-Main article: Feeding the multitude
-See also: Last Supper
+
 In the fifth chapter of the Quran, al-Ma'ida (5) 112–115, a narration mentions the disciples of Jesus requesting a table laden with food, and for it to be a special day of commemoration for them in the future. This may be a possible reference to the Eucharist according to professor of Islamic and Arabic studies W. Montgomery Watt (d. 2006). According to professor of comparative religions Geoffrey Parrinder (d. 2005), it is unclear if this story parallels the Gospel's Last Supper or the feeding the multitude, but may be tied to the Arabic word ʿīd (Muslim festival):
 
 One time the disciples said, O Jesus, son of Mary, can your Lord send down for us a table from heaven? He said, Fear God if you are believers. They said We want to eat of it, and that our hearts may be at peace, and we may know you have spoken truthfully and be among the witnesses to it. Jesus, son of Mary, said, O God our Lord send down upon us a table from heaven, to be for us a festival, for the first of us and the last of us, and a sign from you: and give provision (of food) to us, for you are the best of providers. God said I am sending it down for you.
@@ -2123,7 +2231,7 @@ The disciples of Jesus are known in the Quran and the traditions of Prophet Muha
 
 Hawari is derived from the root Arabic word hawr that means to whiten, to bleach, to purify, to clean, to change, to transform, to amend and to alter.  Hawari is a singular word and literally means, he who whitens clothes, he who has been appointed, chosen, and purified from all kinds of defects, and a companion or a helper.  The plural is hawariyoon.   
 
-Prophet Jesus’ companions were also known as apostles.  The words apostles or disciples were used to differentiate Jesus’ close companions from followers whose numbers were steadily growing.   Islamic scholars have pondered and discussed the reason for calling the disciples Al-Hawariyoon throughout Islamic history.  Renowned Islamic Quran scholar Ibn Kathir states that the disciples were so named because of their white clothes and he also mentions the meaning of a helper or supporter. 
+Prophet Jesus’ companions were also known as apostles.  The words apostles or disciples were used to differentiate Jesus’ close companions from followers whose numbers were steadily growing. Islamic scholars have pondered and discussed the reason for calling the disciples Al-Hawariyoon throughout Islamic history.  Renowned Islamic Quran scholar Ibn Kathir states that the disciples were so named because of their white clothes and he also mentions the meaning of a helper or supporter. 
 
 It is interesting to note that the majority of Jesus’ disciples were fishermen and their clothes would have been white due to their daily toil. The whiteness could then be extrapolated to include the whitening of people’s hearts through the teachings of Prophet Jesus. Other scholars have stated that hawari implies one who is capable of being a leader, and almost all scholars agree that a hawari is a sincere person or friend. 
 
@@ -2194,8 +2302,8 @@ Both Prophet Muhammad and Prophet Jesus shared a mission and were both surrounde
 </summary>
 
 Paul is viewed in Islam in a very negative way because he corrupted original teachings of Jesus.
-Paul never met Jesus in person.
-Paul brought many innovations from Greek mythology, including the concept of "human sacrifice" and "died for your sins". Not only he went astray from the straight path but he also led many people to the wrong path.
+
+Paul never met Jesus in person. Paul brought many innovations from Greek mythology, including the concept of "human sacrifice" and "died for your sins". Not only he went astray from the straight path but he also led many people to the wrong path.
 
 </details>
 
@@ -2269,7 +2377,7 @@ In that time many good people are called son of God.
 
 </summary>
 
-Hadith from Sahih Muslim:
+Hadith from Sahih Muslim, the prophet Muhammad sww said:
 
 > Allah chose Kinanah from descendends of Ismail
 > He chose Quraish from Kinanah
@@ -2294,8 +2402,8 @@ Tribes of Arabia:
 	* Azd
 	* Kindah
 
-  Ancient Arabs: Add and Thamud.
-Yagrub's father was Kakhtan and believed to be  tehe starter of the Arab languange.
+### Ancient Arabs: Add and Thamud.
+Yagrub's father was Kakhtan and believed to be the starter of the Arab languange.
 Kakhtan was the son of SAm. and Sam is the son of Nuh. from SAm we get Saimtes.
 Most probably the son of Adnan lived at the time of Isa AS. 
 570 years between Isa and the prophet Muhammad.
@@ -2320,11 +2428,14 @@ This is also a very important part of Arabic culture because later when these pe
 
 </summary>
 
-After introducing idols, Jews ceased to visit the temple of Abraham. Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. 
+- Idols around the Kaaba
+- A tribe that buried newborn girls alive
+
+Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. Later on, people brought many other idols to Kaaba.
+
+After introducing idols, Jews ceased to visit the temple of Abraham. 
 
 </details>
-
-
 
 <details>
 <summary>
@@ -2440,7 +2551,19 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 # 9. History of Islam
 *******************************************
 
-# 9.1. Prophet Muhammad saw 
+# 9.1. Prophet Muhammad SAW 
+
+<details>
+  <summary>Short Summary</summary>
+Muḥammad ibn Abd Allah (570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. Muslims believe that the Quran, the central religious text of Islam, was revealed to Muhammad by God, and that Muhammad was sent to restore Islam, which they believe did not originate with Muhammad but is the true unaltered original monotheistic faith of Adam, Abraham, Moses, Jesus, and other prophets. The religious, social, and political tenets that Muhammad established with the Quran became the foundation of Islam and the Muslim world.
+
+Born about the year 53 BH (570 CE) into a respected Qurayshi family of Mecca, Muhammad earned the title "al-Amin" (اَلْأَمِينُ, meaning "the Trustworthy"). At the age of 40 in 11 BH (610 CE), Muhammad is said to have received his first verbal revelation in the cave called Hira, which was the beginning of the descent of the Quran that continued up to the end of his life; and Muslims hold that Muhammad was asked by God to preach the oneness of God in order to stamp out idolatry, a practice overtly present in pre-Islamic Arabia. Because of persecution of the newly converted Muslims, upon the invitation of a delegation from Medina (then known as Yathrib), Muhammad and his followers migrated to Medina in 1 AH (622 CE), an event known as the Hijrah. A turning point in Muhammad's life, this Hegira also marks the beginning of the Islamic calendar. In Medina, Muhammad sketched out the Constitution of Medina specifying the rights of and relations among the various existing communities there, formed an independent community, and managed to establish the first Islamic state. Despite the ongoing hostility of the Meccans, Muhammad, along with his followers, took control of Mecca in 630, and ordered the destruction of all pagan idols. In his later years in Medina, Muhammad unified the different tribes of Arabia under Islam and carried out social and religious reforms. By the time he died in about 11 AH (632 CE), almost all the tribes of the Arabian Peninsula had converted to Islam.
+
+Muslims often refer to Muhammad as Prophet Muhammad, or just "The Prophet" or "The Messenger", and regard him as the greatest of all Prophets. He is seen by the Muslims as a possessor of all virtues. As an act of respect, Muslims follow the name of Muhammad by the Arabic benediction sallallahu 'alayhi wa sallam, (meaning Peace be upon him), sometimes abbreviated as "SAW" or "PBUH".
+
+Prophet Muhammad is a role model for all Muslims.
+
+</details>
 
 ### Meccan Period
 
@@ -2450,10 +2573,9 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 ## **570**: The Prophet Muhammad saw is born
 
 </summary>
-Aminah married AbdAllah they have spent only several days together then Abdallah had to leave with the caravan to Syria. He fell ill on the way and died.
-570 the prophet SAW was born - 8 June 632 CE
-There are different opinions on the exact date when the prophet Muhammad was born and festivals were introduced centuries after the prophet Muhammad SAW died. 
-If you really want to celebrate the prophet Muhammad's SAW birthday, yhou should fast on Mondays. Because that is what he would do.
+
+Muhammad, the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wife Aminah, was born in 570 CE, in the city of Mecca in the Arabian Peninsula. He was a member of the family of Banu Hashim, a respected branch of the prestigious and influential Quraysh tribe.
+
 </details>
 
 <details>
@@ -2463,19 +2585,25 @@ If you really want to celebrate the prophet Muhammad's SAW birthday, yhou should
 
 </summary>
 
+Muhammad was orphaned when young. Some months before the birth of Muhammad, his father died near Medina on a mercantile expedition to Syria. When Muhammad was six, he accompanied his mother Amina on her visit to Medina, probably to visit her late husband's tomb. While returning to Mecca, Amina died at a desolate place called Abwa, about half-way to Mecca, and was buried there. Muhammad was now taken in by his paternal grandfather Abd al-Muttalib, who himself died when Muhammad was eight, leaving him in the care of his uncle Abu Talib. In Islamic tradition, Muhammad's being orphaned at an early age has been seen as a part of divine plan to enable him to "develop early the qualities of self-reliance, reflection, and steadfastness". Muslim scholar Muhammad Ali sees the tale of Muhammad as a spiritual parallel to the life of Moses, considering many aspects of their lives to be shared. The Quran said about Moses: "I cast (the garment of love) over thee from Me, so that thou might be reared under My eye. ... We saved thee from all grief, although We tried thee with various trials. ... O Moses, I have chosen thee for Mine Own service" (20:39-41). Taking into account the idea of this spiritual parallelism, together with other aspects of Muhammad's early life, it has been suggested that it was God under Whose direct care Muhammad was raised and prepared for the responsibility that was to be conferred upon him. Islamic scholar Tariq Ramadan argued that Muhammad's orphan state made him dependent on God and close to the destitute – an "initiatory state for the future Messenger of God".
+
 ### Foster Mother
 
 It was a custom of that time in Arabia to send children to be raised in the desert tribes. Women from rural areas would come to cities to take babies for breastfeeding and care. 
-The prophet Muhammad was taken by Halimah
+The prophet Muhammad was taken by Halimah.
+According to Arab custom, after his birth, infant Muhammad was sent to Banu Sa'ad clan, a neighboring Bedouin tribe, so that he could acquire the pure speech and free manners of the desert. There, Muhammad spent the first five years of his life with his foster-mother Halima. Islamic tradition holds that during this period, God sent two angels who opened his chest, took out the heart, and removed a blood-clot from it. It was then washed with Zamzam water.
+
 
 ### Angel Jibril Occasion
 
 When the prophet SAW was 4, Jibril came in the form of a man and opened up his chest and took his heart out and took out the black portion and said this is shaitan's portion in you.  It is said that shaitan pricks every child when they are born. 
 His foster brothers ran to Halima and told that some man killed Muhammad but they found a the future prophet safe but shocked. 
 
+
+
 ### Death of Aminah
 
-After this occasion, Halimah returned 4-year old Muhammad to his mother Aminah. Aminah died 
+After this occasion, Halimah returned 4-year old Muhammad to his mother Aminah. Aminah died soon. Abd al Mutallib took his grandchild Muhammad under his care.
 
 
 ### Life with Abd al-Mutallib
@@ -2513,7 +2641,9 @@ They will side with the opressed regardless of to which tribe the opressor belon
 Treaty of No-Business.
 Muslims should have involvement in society, not only in problems of muslims but the problems of all the opressed. React to social problems. 
 He was the youngest participant of the pact.
-At the time of Jahilia they knew about the true religion of Ibrahim AS, yet they chose to diol worship.
+Between 580 CE and 590 CE, Mecca experienced a bloody feud between Quraysh and Bani Hawazin that lasted for four years, before a truce was reached. After the truce, an alliance named Hilf al-Fudul (The Pact of the Virtuous)[44] was formed to check further violence and injustice; and to stand on the side of the oppressed, an oath was taken by the descendants of Hashim and the kindred families, where Muhammad was also a member.[42] In later days of his life, Muhammad is reported to have said about this pact, "I witnessed a confederacy in the house of 'Abdullah bin Jada'an. It was more appealing to me than herds of cattle. Even now in the period of Islam I would respond positively to attending such a meeting if I were invited."
+
+At the time of Jahilia they knew about the true religion of Ibrahim AS, yet they chose to idol worship.
 </details>
 
 <details>
@@ -2597,12 +2727,30 @@ Some of he sahaba have said that if Zayd was alive when the prophet SAW died, he
 ## **610**: First Surah of The Quran
 
 </summary>
-
-the cave if you sit there you see the Kaaba. 
+ 
 before the revelation, he began to hear the rocks and stones say salam in his path.  he began having the dream about what would happen the next day. dreams lasted 6 full months. the prophet SAW cut himself from society and worship Allah. AS soon as he received the Revelation he never left the society.
 
-The revelation began on Monday one of the last 10 days of Ramada (Laylatul Qadr).
-Why is Jibreel scqeezing him? The guess is to indicate this is real and not a dream, indicating that the message will be heavy, and indicating about three traumatic experiences. 
+When Muhammad SAW was nearly 40, he used to spend many hours alone in prayer and contemplating over the aspects of creation. He was concerned with the ignorance of divine guidance (Jahiliyyah), social unrest, injustice, widespread discrimination (particularly against women), fighting among tribes and abuse of tribal authorities prevalent in pre-Islamic Arabia. The moral degeneration of his fellow people, and his own quest for a true religion further lent fuel to this, with the result that he now began to withdraw periodically to a cave named Mount Hira, three miles north of Mecca, for contemplation and reflection. In the cave if you sit there you see the Kaaba. Islamic tradition holds that Muhammad during this period began to have dreams replete with spiritual significance which were fulfilled according to their true import; and this was the commencement of his divine revelation.
+
+According to Muslim tradition, during one such occasion in the cave while he was in contemplation, the angel Gabriel appeared before him in the year AD 610 and said, "Read", upon which he replied, "I am unable to read". Thereupon the angel caught hold of him and embraced him heavily. This happened two more times after which the angel commanded Muhammad to recite the following verses:
+
+"Read! in the name of your Lord who created
+Man from a clinging substance.
+Read: Your Lord is most Generous,–
+He who taught by the pen–
+Taught man that which he knew not."
+
+The revelation began on Monday one of the last 10 days of Ramadan (Laylatul Qadr).
+
+Perplexed by this new experience, Muhammad made his way to home where he was consoled by his wife Khadijah, who also took him to her Nestorian cousin Waraqah ibn Nawfal. Waraqah was a Christian. Islamic tradition holds that Waraqah, upon hearing the description, testified to Muhammad's prophethood, and convinced Muhammad that the revelation was from God. Waraqah said: "O my nephew! What did you see?" When Muhammad told him what had happened to him, Waraqah replied: "This is Namus (meaning Gabriel) that Allah sent to Moses. I wish I were younger. I wish I could live up to the time when your people would turn you out." Muhammad asked: "Will they drive me out?" Waraqah answered in the affirmative and said: "Anyone who came with something similar to what you have brought was treated with hostility; and if I should be alive until that day, then I would support you strongly." A few days later Waraqah died.
+
+The initial revelation was followed by a pause and a second encounter with Gabriel when Muhammad heard a voice from the sky and saw the same angel "sitting between the sky and the earth" and the revelations resumed with the first verses of chapter 74.
+
+At-Tabari and Ibn Hisham reported that Muhammad left the cave of Hira after being surprised by the revelation, but later on, returned to the cave and continued his solitude, though subsequently he returned to Mecca. Tabari and Ibn Ishaq write that Muhammad told Zubayr:
+
+"when I was midway on the mountain, I heard a voice from heaven saying "O Muhammad! you are the apostle of Allah and I am Gabriel." I raised my head towards heaven to see who was speaking, and Gabriel in the form of a man with feet astride the horizon, saying, "O Muhammad! you are the apostle of Allah and I am Gabriel." I stood gazing at him moving neither forward nor backward, then I began to turn my face away from him, but towards whatever region of the sky I looked, I saw him as before."
+
+Biographers disagree about the period of time between Muhammad's first and second experiences of revelation. Ibn Ishaq writes that three years elapsed from the time that Muhammad received the first revelation until he started to preach publicly. Bukhari takes chapter 74 as the second revelation however chapter 68 has strong claims to be the second revelation. 
 </details>
 
 <details>
@@ -2855,18 +3003,57 @@ Suhayb described the place in his house in Mecca where he had left the money, an
 </details>
 <details>
 <summary><b>622</b>: Assasination Attempt and Hijra</summary>
-The beginning of the Muslim era. 
+
+Muslims believe Muhammad waited until he received divine direction to depart from Mecca. In anticipation of receiving this direction, Muhammad began making preparations and informed Abu Bakr. On the night of his departure, Muhammad's house was besieged by men of the Quraysh, who had seen large numbers of the Muslims leave the city and had planned to kill him as soon as he left. Muhammad, who was renowned for his trustworthiness, owned various properties of members the Quraysh entrusted to him and he asked Ali to stay behind to return them and to fulfill his obligations on his behalf. Muhammad asked Ali to wear his cloak and to lie down on his bed assuring him of God's protection. Ali had worn Muhammad's cloak, leading the assassins to think Muhammad had not yet departed. Ali risked his life by staying in Mecca but ultimately survived the plot. He would later leave for Medina with his mother, Fatima bint Asad, Muhammed's daughters Fatimah and Umm Kulthum, as well as two other women, Muhammad's wife Sawda and wetnurse Umm Ayman.
+
+Muhammad and Abu Bakr left the city and took shelter in a cave atop the Thawr mountain south of Mecca before continuing their journey to elude the Quraysh party pursuing them led by Suraqa bin Malik. They stayed in the cave for three days before resuming their journey. During the journey, whenever Suraqa neared Muhammad and Abu Bakr, Suraqa's horse stumbled until he finally gave up on the desire of capturing Muhammad. Muhammad and Abu Bakr turned to the Red Sea, following the coastline up to Medina, arriving at Quba'. He stopped at Quba' and established a mosque there. He waited there for fourteen days for Ali and his family to join him. Thereafter he continued to Medina, participated in their first Friday prayer on the way. Upon reaching the city, they were greeted cordially by its people.
+
+Because of assassination attempts from the Quraysh, and prospect of success in Yathrib, a city 320 km (200 mi) north of Mecca, Muhammad emigrated there in 622 CE. According to Muslim tradition, after receiving divine direction to depart Mecca, Muhammad began taking preparation and informed Abu Bakr of his plan. On the night of his departure, Muhammad's house was besieged by men of the Quraysh who planned to kill him in the morning. At the time, Muhammad possessed various properties of the Quraysh given to him in trust; so he handed them over to 'Ali and directed him to return them to their owners. It is said that when Muhammad emerged from his house, he recited the ninth verse of surah Ya Sin of the Quran and threw a handful of dust at the direction of the besiegers, rendering the besiegers unable to see him. After eight days' journey, Muhammad entered the outskirts of Medina on 28 June 622,[95] but did not enter the city directly. He stopped at a place called Quba', a place some miles from the main city, and established a mosque there. On 2 July 622, he entered the city. Yathrib was soon renamed Madinat an-Nabi (Arabic: مَدينة النّبي, literally "City of the Prophet"), but an-Nabi was soon dropped, so its name is "Medina", meaning "the city".
+
+At the time of the rule of the second righteous khalif Umar ibn Al Khattab, the year of Hijrah was established as the beginning of the Muslim era and as the first year of the Islamic calendar. 
+
 </details>
 
 ### Medina Period 🕌
 
 <details>
-<summary>Construction of the first mosque</summary>
-Bilal who was tortured by Meccans, who was draggen in chains along the streets of Mecca and who kept saying "Ahadun Ahad" (Allah the One) because he didnot know anything else about Islam. He was the first muathin. Prophet Muhammad sww assigned him to say adhan in the first mosque in Medina because he had a loud and beautiful voice.
+<summary>Construction of first mosques</summary>
+The oldest mosque ever built was the Masjid al-Quba. Quba used to be a village not far from Medina.It was built right after hijra, which is the emigration of the Prophet Muhammad and his followers to the city of Medina in 622 CE. The Prophet and his companions helped building it.
+
+Al-Masjid an-Nabawi, known in English as The Prophet's Mosque, is a mosque built by the Islamic prophet Muhammad in the city of Medina in the Al Madinah Province of Saudi Arabia. It was the second mosque built by Muhammad in Medina, after Masjid Quba', and is the second largest mosque and second holiest site in Islam, both titles ranking after the Masjid al-Haram in Mecca
+
+The mosque was built by Muhammad in 622 CE (1 AH) after his arrival in Medina. Riding a camel called Qaswa, he arrived at the place where this mosque was built, which was being used as a burial ground. Refusing to accept the land as a gift from the two orphans, Sahl and Suhayl, who owned the land, he bought the land which was paid for by Abu Ayyub al-Ansari and it took seven months to complete the construction of the mosque. It measured 30.5 m × 35.62 m (100.1 ft × 116.9 ft). The roof which was supported by palm trunks was made of beaten clay and palm leaves. It was at a height of 3.60 m (11.8 ft). The three doors of the mosque were the "Gate of Mercy" (باب الرحمة Bab ar-Rahmah) to the south, "Gate of Gabriel" (باب جبريل Bab Jibril) to the west and "Gate of Women" (باب النساء Bab Nisa) to the east. At this time point in the history of the Mosque, the qiblah wall was facing north to Jerusalem, and al-Suffah was along the northern wall.
+
+As there was no definite arrangement for calling people to prayer, Bilal ibn Ribah was appointed to call people in a loud voice at each prayer time, a system later replaced by Adhan believed to be informed to Abdullah ibn Zayd in his dream, and liked and introduced by Muhammad.
+Bilal who was tortured by Meccans, who was dragged in chains along the streets of Mecca and who kept saying "Ahadun Ahad" (Allah the One) because he didnot know anything else about Islam. He was the first to say athan and the first muathin in the an-Nabawi mosque. Prophet Muhammad SAW assigned him to say adhan in the first mosque in Medina because he had a loud and beautiful voice.
 </details>
 
 <details>
 <summary>624 ⚔️ Battle of Badr</summary>
+
+Causes of and preparation for fighting
+Following the emigration, the Meccans seized the properties of the Muslim emigrants in Mecca. The Quraysh leaders of Mecca persecuted the newly converted Muslims there, and they migrated to Medina to avoid persecution, abandoning their properties. Muhammad and the Muslims found themselves in a more precarious situation in Medina than in Mecca. Besides the ultimatum of the Quraysh they had to confront the designs of the hypocrites, and had to be wary of the pagans and Jews also. The trading caravans of Quraysh, whose usual route was from Mecca to Syria, used to set the neighboring tribes of Medina against the Muslims, which posed a great danger to the security of Muslims of Medina given that war was common at that time. In view of all this, the Quran granted permission to the persecuted Muslims to defend themselves: 
+
+    "Permission to fight is granted to those against whom war is made, because they have been wronged, and God indeed has the power to help them. They are those who have been driven out of their homes unjustly only because they affirmed: "Our Lord is God"" (Quran 22:39-40). 
+
+The Quran further justifies taking defensive measures by stating that 
+
+    "And if God had not repelled some men by others, the earth would have been corrupted. But God is a Lord of Kindness to (His) creatures" (Quran 2:251). 
+
+According to Quranic description, war is an abnormal and unenviable way which, when inevitable, should be limited to minimal casualty, and free from any kind of transgression on the part of the believers. In this regard, the Quran says, "Fight in the cause of God with those who fight you, but do not transgress limits; for God loveth not transgressors" (2:190), and "And fight them on until there is no more tumult or oppression, and there prevail justice and faith in God; but if they cease, let there be no hostility except to those who practice oppression" (2:193).
+
+Thus, to ensure the security of the Ansars and Muhajirun of Medina, Muhammad resorted to the following measures:
+
+Visiting the neighboring tribes to enter into non-aggression treaty with them to secure Medina from their attacks.
+Blocking or intercepting the trading caravans of the Quraysh to compel them into a compromise with the Muslims. As these trading enterprises were the main strength of the Quraysh, Muhammad employed this strategy to reduce their strength.
+
+Sending small scouting parties to gather intelligence about Quraysh movement, and also to facilitate the evacuation of those Muslims who were still suffering in Mecca and could not migrate to Medina because of their poverty or any other reason. It is in this connection that the following verse of the Quran was revealed: 
+
+    And why should you not fight in the cause of God and for those who, being weak, are ill-treated (and oppressed)? Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from Thee one who will protect; and raise for us from Thee one who will help!" Quran 4:75
+
+A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammad took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
+
+The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
 </details>
 
 <details>
@@ -3095,6 +3282,8 @@ Kalmar Wendish Swedish 1150 1249 1293 Livonian Prussian Lithuanian
 
 This must be derived into a separate article. 
 
+https://www.islamawareness.net  countries here
+
 https://www.nationsonline.org/oneworld/muslim-countries.htm
 https://en.wikipedia.org/wiki/Islam_by_country
 https://www.pewresearch.org/religion/chart/interactive-data-table-world-muslim-population-by-country/
@@ -3307,6 +3496,10 @@ In another version, eight angels who carry the Throne of Allah die before the An
 The first resurrected creatures will the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
 The second blow will signal the resurrection from the dead all creatures that were once alive.
 
+The Judgement will not start for a long time, maybe thousands of years. People will worry about their deeds all the time. and they will come to prophets asking them to intercede in front of Allah to start the Jidgement because they can no longer wait. They will come to Adam, but Adam will say "Nafsi, nafsi", meaning that he is worried about himself because he disobeyed Allah and ate from the Tree and Allah is so angry at this point as He has never been before.
+Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, nafsi.
+And finally they will come to the prophet Muhammad saw begging him to ask Allah to start the Judgement. and the prophet Muhammad saw will say "This is a job for me".
+
 
 ### The Judgement
 
@@ -3333,6 +3526,22 @@ The angel that guards the gates of Heaven will ask: "Who is there?". The prophet
 
 There are several narrations that some of the people who ended up in Jahannam will be allowed to enter Jannah after some time passes and their sins are burned. They will be placed into the river of Jannah where they will regain their shape and start living in Jannah.
 
+The Mizan. the Scale
+
+Абу аз-Зубайр передал, что он слышал, как Джабиру ибн ‘Абдуллаху задали вопрос о смысле аята, в котором говорится, что каждый человек неизбежно подойдёт к Аду ("И нет среди вас такого, кто не подойдёт к Аду, и Господом твоим это решено окончательно (19:71)"), и Джабир сказал: 
+ 
+«В День воскресения мы явимся к месту сбора и займём место на холме выше других людей. Членов разных религиозных общин одного за другим будут призывать их идолы и то, чему они поклонялись, а после этого к нам явится Господь наш и спросит: "Кого вы ждёте?" Люди станут говорить: "Мы ждём нашего Господа", и Он скажет: "Я — Господь ваш". Люди станут говорить: "Откройся, чтобы мы посмотрели на Тебя". Тогда Он предстанет перед ними, смеясь, а потом поведёт их, и они последуют за Ним. Он дарует свет каждому человеку из их числа, будь то лицемер или верующий, и все они последуют за этим светом, а на воздвигнутом над Геенной мосту будут находиться крюки и колючки, которые станут хватать тех, кого пожелает Аллах Всевышний. Через некоторое время свет лицемеров будет погашен, после чего верующие спасутся. Первой спасётся группа численностью в семьдесят тысяч человек, лицо каждого из которых будет подобно луне в полнолуние, и ни у кого из них не потребуют отчёта. За ними последуют люди, лица которых будут светиться, как небесные звёзды, и это продолжится до тех пор, пока не будет позволено заступаться за грешников. И люди будут заступаться за них, пока из Огня не выйдет каждый человек, который говорил "Нет бога, кроме Аллаха" и в сердце которого было благо(вера) весом хотя бы с ячменное зерно. А потом этих людей поместят перед Раем, обитатели которого станут брызгать на них водой, и те начнут прорастать, как прорастает то, что приносит с собой поток, а следы, что оставит на них Огонь, исчезнут. После этого каждый из них будет обращаться к Аллаху с просьбами, пока каждому не будет даровано нечто, равное всему миру дольнему, и ещё десять подобий этого мира». 
+ 
+
+Sirat bridge over Jahannam
+and the Prophet Muhammad is waiting on the other side of Sirat with a cup from his fountain.
+Whoever drinks from Kawthar will not feel thirst ever again.
+Then bridge of Qantarah to allow people complete their arguments. People will forgive each other. this will cause the delay because they didn forgive them in dunya.
+
+And we removed every grudge from their hearts. They will be brothers, reclining on thrones that Day, looking at one another.
+Quran 15:47
+
+
 </details>
 
 
@@ -3348,5 +3557,19 @@ Mesopotamia:
 	Society hierarchy appeared. The high priest had leading role in a temple, keppers scribes administrators and priests and at the bottom were producers: farmers and fishermen. Cineaform writing appeared. 
 
 There's the whole science that studies the authenticity of Hadith. People study four years at the university to distinguish between authentic and non-authentic hadith.
+
+### David in the Bible
+
+This was after Samson.
+The current King Saul declared war on Philistine. David was a shepherd. 
+Saul hires David to play him music. Philistines send Goliaf with the army against israelites. David declares that he will beat the giant and kills the giant with one shot of his sling. 
+David was successful in the wars and his popularit grows. Saul grows jealous. David flees to Moab and then lives in caves of Ziph. Saul searches him to kill him. .
+Saul then ceases to kill David.
+philistines kill Saul. David becomes the king of Israel. David conquers Jerusalem. 
+
+
+The temple built by jinns 🏛️
+
+Angels Harut and Marut taught magic in Babylon (between 1895BC and 539BC). it is mentioned in the Quran.
 
 </details>

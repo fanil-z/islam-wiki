@@ -18,6 +18,8 @@ Hafiz Ibn Kahtir (rahimahullah) has cited a narration in his Tafsir which has th
 
 (Tafsir Ibn Kathir, Surah, 51 verse, 60)
 
+First of all, Allahu 'alim.
+
 
 Concept of evolution and creation as code.
 
@@ -91,3 +93,17 @@ and the main difference between human beings and animals is that animals are liv
 Aside from ideally knowing how the ode works, God knows all the other science involved. Physics, Mathematics, Chemistry.
 
 The whole process of scholars who are trying to make new inventions is merely a tiny attempt to decipher, reverse-engineer what Allah has already created.
+
+when people say nature created animals and plants, it does not state that God does not exist. If you try to dig deeper in what is the nature or "mother nature" as some people call in their understanding, then you would find out that it is the combination of laws of physics, chemistry, genetics, etc combined together that acts as a unified intelligent entity that manages the development of the earth, clouds, plants, techtonic plates and the animal world. In other words, it is some sort of an AI. and if you theorize about how God would manage things and look for some examples in the Quran, you can derive the following things:
+
+1. Allah does not do everything Himself but He delegates. We have many examples of this in the Quran:
+	1. Allah created the Pen that documented everything that is going to happen. He didn't write it Himself but He created some tool, some program that calculated all possibilities and wrote them down.
+	2. Allah created angels that to perform a lot of tasks.
+		- Gabriel
+		- Israfil - the angel of death
+
+Considering this, we can derive that most of the tasks are not done by God directly but by using angels or special tools dedicated for these tasks. Thus, the same thing is with animals and plants. For God, who is The Most Wise and the Best of Planners, it would be easy to create a super AI that would gradually shape the Earth and facilitate it's habitants. 
+
+There is also an interesting side note. Science does not know what is the souls. It does not yet has any proofs that soul exists. This also might be the part where this strong AI ("nature") meets other tools of God as angels. It is said that angels are the ones who carry the souls of humans to their bodies.
+
+Let's consider a simple example. A father bought his son a cool bicycle. The son was very happy and immediately went outside and had a good ride with his friends. So, after the son goes home who is he going to thank? The bicycle for being a great riding tool or the father who gave him the bicycle? It is obvious that there is no logic to thank the bicycle as it is a non-living thing that has no emotions and that cannot understand human speech. The first thing that comes to mind that the father will be the one receiving gratitude. We can also assume that the boy may think of people who created the bicycle in a factory. Also, he can consider God who created this whole world, and the nature and his parents and made it happen that the bicycle factory was build and he got the bike. We must always be grateful to the proxies but we must also be always grateful to the initial source of everything that happened, which is God.

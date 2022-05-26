@@ -36,7 +36,7 @@ Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 > [at-Tirmidhi, abu Dawud and An-Nasa'i]
 > 
 
-### Concept
+### Physical essense of sin
 
 Partly From the narration of Malik ibn Dinar and hiw daughter who hushed away the dragon that was chasing her father. we can derive that good deeds and sins of people are some physical entities. Somehow these entities are combined for your punishment or your blessing in the hereafter.
 
@@ -44,6 +44,26 @@ for example, there is also a hadith that says each dhikr is a real seed of your 
 
 Every person is only getting the result of what he has done in this dunya. His own punishment is build from his sins which with the design of Allah obtained a certain form in Jahannam. Jahannam is designed in a way that collects all your sins and 
 
+The law of energy conservation. When you push a button the button pushes you. 
+Allahu 'Alim, we will now know the true nature of sin until the Day of Judgement but we can try to extrapolate the law of physics to matters such as injustice, good and corruption. The laws of physics, maths and everything that happens in nature is architected and  programmed by Allah.
+So the theory is that when a man creates a tiniest injustice, some law of this universe creates some kind of energy or entity that opposes this injustice. And this little portion of justice is stored in some storing place which our human eyes cannot see and mind cannot comprehend. And Allah is the Bestower of Ultimate Justice, and the man who transgressed can get this justice during his lifetime on Earth 🌎 , in this case if he gets the full punishment in this dunya, then he is not punished for this sin in the hereafter because there is no this entity or substance left that can be used as a fuel for his misdeed.
+This also would explain the statement from the Quran that says whatever good a human earns is from Allah, and whatever bad a human earns is from the human himself.
+Let's emphasize this: The default state of this world is a just world. So in theory, if a man disturbs this scale of justice, then the scale shakes and and creates an opposing power. But if a man does not transgress and does not create injustice, then in theory a man doesn't get a special reward for it, except for the fact that he will not the punishment for the transgression. We can derive this from the law of preserving energy. You can say that living in a just world is enough of a reward itself and it's true but the world is not just and probably will never be until the Day of Recompence. So let's say there is an ultimately good human being who never in his life committed sin and injustice, then he will not be able to get his recompence in this dunya because the world is unjust and corrupt. But Allah is ar Rahman ar Rahim, and He created a system where each attempt of staying in being just and good (aka staying in the default state) is recorded so that this human can get a reward for following the rules of Allah.
+There is also another matter that must be contemplated. We talked about a human making some action. But this dies not Cover the whole scope of human interaction with this dunya. A human not only can interfere entities but some other human beings or animals, bacteria, natural elements can affect him as well swindling the scale of justice to one or the other direction. So someone can create injustice upon a man. And even this man is not guilty, some injustice will timely be bestowed upon him. 
+This would explain the authentic hadith that people on the Day of Judgement will run to one another gathering good deeds of one another. Somehow these entities would start be become visible to us and we will be able to distinguish them and take from each other.
+
+
+This is the explanation of the statement that people go to Jahannam because of sins that that have committed but he enters Jannah only because of the Mercy of Allah. According to this system, it seems like there shouldn't be any reward for being good because it is the default state of the universe. But Allah gives us the reward out of his Mercy.
+
+
+consider bad politic leader and how their opposition appears.
+
+"[So it was], until when Our command came and the oven overflowed, We said, "Load upon the ship of each [creature] two mates and your family, except those about whom the word has preceded, and [include] whoever has believed." But none had believed with him, except a few."
+(QS. Hud 11: Verse 40)
+
+I don't know the exact meaning in Arabic but I would like to pay attention to the phrase "and the oven overflowed". This is an example of what is happening when the amount of sins grows too large. and only Allah knows how much is too much.
+
+This closely intersects with another topic I wanted to analyze as a longread, which is why wars happen. 
 
 ### Reality of Jahannam
 
