@@ -2555,14 +2555,18 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 
 <details>
   <summary>Short Summary</summary>
-Muḥammad ibn Abd Allah (570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. Muslims believe that the Quran, the central religious text of Islam, was revealed to Muhammad by God, and that Muhammad was sent to restore Islam, which they believe did not originate with Muhammad but is the true unaltered original monotheistic faith of Adam, Abraham, Moses, Jesus, and other prophets. The religious, social, and political tenets that Muhammad established with the Quran became the foundation of Islam and the Muslim world.
+Muḥammad ibn Abd Allah (570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. Muslims believe that the Quran, the central religious text of Islam, was revealed to Muhammad ﷺ    by God, and that Muhammad was sent to restore Islam, which did not originate with Muhammad but is the true unaltered original monotheistic faith of Adam, Abraham, Moses, Jesus, and other prophets. The religious, social, and political tenets that Muhammad ﷺ   established with the Quran became the foundation of Islam and the Muslim world.
 
-Born about the year 53 BH (570 CE) into a respected Qurayshi family of Mecca, Muhammad earned the title "al-Amin" (اَلْأَمِينُ, meaning "the Trustworthy"). At the age of 40 in 11 BH (610 CE), Muhammad is said to have received his first verbal revelation in the cave called Hira, which was the beginning of the descent of the Quran that continued up to the end of his life; and Muslims hold that Muhammad was asked by God to preach the oneness of God in order to stamp out idolatry, a practice overtly present in pre-Islamic Arabia. Because of persecution of the newly converted Muslims, upon the invitation of a delegation from Medina (then known as Yathrib), Muhammad and his followers migrated to Medina in 1 AH (622 CE), an event known as the Hijrah. A turning point in Muhammad's life, this Hegira also marks the beginning of the Islamic calendar. In Medina, Muhammad sketched out the Constitution of Medina specifying the rights of and relations among the various existing communities there, formed an independent community, and managed to establish the first Islamic state. Despite the ongoing hostility of the Meccans, Muhammad, along with his followers, took control of Mecca in 630, and ordered the destruction of all pagan idols. In his later years in Medina, Muhammad unified the different tribes of Arabia under Islam and carried out social and religious reforms. By the time he died in about 11 AH (632 CE), almost all the tribes of the Arabian Peninsula had converted to Islam.
+Muhammadﷺ   earned the title "al-Amin" (اَلْأَمِينُ, meaning "the Trustworthy"). At the age of 40 in 11 BH (610 CE), he have received his first verbal revelation in the cave called Hira, which was the beginning of the descent of the Quran that continued up to the end of his life. The Qur’an was revealed to the Prophetﷺ    progressively according to the circumstances of the time over a period of 23 years. Muhammad ﷺ   was asked by God to preach the oneness of God in order to stamp out idolatry, a practice overtly present in pre-Islamic Arabia. Because of persecution of the newly converted Muslims, upon the invitation of a delegation from Medina (then known as Yathrib), Muhammad ﷺ   and his followers migrated to Medina in 1 AH (622 CE), an event known as the Hijrah. A turning point in Muhammad'sﷺ    life, this Hegira also marks the beginning of the Islamic calendar. In Medina, Muhammadﷺ   sketched out the Constitution of Medina specifying the rights of and relations among the various existing communities there, formed an independent community, and managed to establish the first Islamic state. Despite the ongoing hostility of the Meccans, Muhammadﷺ  , along with his followers, took control of Mecca in 630, and ordered the destruction of all pagan idols. In his later years in Medina, Muhammadﷺ   unified the different tribes of Arabia under Islam and carried out social and religious reforms. By the time he died in about 11 AH (632 CE), almost all the tribes of the Arabian Peninsula had converted to Islam.
 
 Muslims often refer to Muhammad as Prophet Muhammad, or just "The Prophet" or "The Messenger", and regard him as the greatest of all Prophets. He is seen by the Muslims as a possessor of all virtues. As an act of respect, Muslims follow the name of Muhammad by the Arabic benediction  ﷺ   sallallahu 'alayhi wa sallam, (meaning Peace be upon him), sometimes abbreviated as "SAW" or "PBUH".
 
-Prophet Muhammad is a role model for all Muslims.
+Muhammadﷺ   is regarded as the final messenger and prophet by all the main branches of Islam who was sent by God to guide humanity to the right way (Quran 7:157). The Quran uses the designation Khatam an-Nabiyyin 33:40 (Arabic: خاتم النبين) which is translated as Seal of the Prophets. The title is generally regarded by Muslims as meaning that Muhammadﷺ   is the last in the series of prophets beginning with Adam. The belief that a new prophet cannot arise after Muhammad is shared by both Sunni and Shi'i Muslims. Believing Muhammadﷺ   is the last prophet is a fundamental belief in Islamic theology.
 
+Prophet Muhammadﷺ   is a role model for all Muslims. 
+Prophet Muhammadﷺ   was the possessor of moral virtues at the highest level, and was a man of moral excellence. He represented the 'prototype of human perfection' and was the best among God's creations. The 68:4 verse of the Quran says: 'And you [Muhammad] are surely on exalted quality of character'. Consequently, to the Muslims, his life and character are an excellent example to be emulated both at social and spiritual levels. The virtues that characterize him are modesty and humility, forgiveness and generosity, honesty, justice, patience, and, self-denial.
+
+According to biographers, Prophet Muhammadﷺ   lived a simple and austere life often characterized by poverty. He was more bashful than a maiden, and was rare to laugh in a loud voice; rather, he preferred soft smiling. Ja'far al-Sadiq, a descendant of Muhammad and an acclaimed scholar, narrated that Muhammad was never seen stretching his legs in a gathering with his companions and when he would shake hands, he would not pull his hand away first. It is said that during the conquest of Mecca, when Muhammad was entering into the city riding on a camel, his head lowered, in gratitude to God, to the extent that it almost touched the back of the camel. He never took revenge from anyone for his personal cause. He maintained honesty and justice in his deeds.
 </details>
 
 ### Meccan Period
@@ -2574,7 +2578,7 @@ Prophet Muhammad is a role model for all Muslims.
 
 </summary>
 
-Muhammad, the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wife Aminah, was born in 570 CE, in the city of Mecca in the Arabian Peninsula. He was a member of the family of Banu Hashim, a respected branch of the prestigious and influential Quraysh tribe.
+Muhammad, the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wife Aminah, was born in 570 CE, in the city of Mecca in the Arabian Peninsula. He was a member of the family of Banu Hashim, a respected branch of the prestigious and influential Quraysh tribe. Their ancestry reached the Prophet Ismael son of the Prophet Abraham, peace be upon them.
 
 </details>
 
@@ -2585,32 +2589,37 @@ Muhammad, the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wife Amin
 
 </summary>
 
-Muhammad was orphaned when young. Some months before the birth of Muhammad, his father died near Medina on a mercantile expedition to Syria. When Muhammad was six, he accompanied his mother Amina on her visit to Medina, probably to visit her late husband's tomb. While returning to Mecca, Amina died at a desolate place called Abwa, about half-way to Mecca, and was buried there. Muhammad was now taken in by his paternal grandfather Abd al-Muttalib, who himself died when Muhammad was eight, leaving him in the care of his uncle Abu Talib. In Islamic tradition, Muhammad's being orphaned at an early age has been seen as a part of divine plan to enable him to "develop early the qualities of self-reliance, reflection, and steadfastness". Muslim scholar Muhammad Ali sees the tale of Muhammad as a spiritual parallel to the life of Moses, considering many aspects of their lives to be shared. The Quran said about Moses: "I cast (the garment of love) over thee from Me, so that thou might be reared under My eye. ... We saved thee from all grief, although We tried thee with various trials. ... O Moses, I have chosen thee for Mine Own service" (20:39-41). Taking into account the idea of this spiritual parallelism, together with other aspects of Muhammad's early life, it has been suggested that it was God under Whose direct care Muhammad was raised and prepared for the responsibility that was to be conferred upon him. Islamic scholar Tariq Ramadan argued that Muhammad's orphan state made him dependent on God and close to the destitute – an "initiatory state for the future Messenger of God".
+Muhammad was orphaned when young. Some months before the birth of Muhammad, his father died near Medina on a mercantile expedition to Syria. When Muhammad was six, he accompanied his mother Amina on her visit to Medina, probably to visit her late husband's tomb. While returning to Mecca, Amina died at a desolate place called Abwa, about half-way to Mecca, and was buried there. Muhammad was now taken in by his paternal grandfather Abd al-Muttalib, who himself died when Muhammad was eight, leaving him in the care of his uncle Abu Talib. In Islamic tradition, Muhammad's being orphaned at an early age has been seen as a part of divine plan to enable him to "develop early the qualities of self-reliance, reflection, and steadfastness". Muslim scholar Muhammad Ali sees the tale of Muhammad as a spiritual parallel to the life of Moses, considering many aspects of their lives to be shared. The Quran said about Moses: 
+
+    "I cast (the garment of love) over thee from Me, so that thou might be reared under My eye. ... We saved thee from all grief, although We tried thee with various trials. ... O Moses, I have chosen thee for Mine Own service"
+    Quran 20:39-41
+
+Taking into account the idea of this spiritual parallelism, together with other aspects of Muhammad's early life, it has been suggested that it was God under Whose direct care Muhammad was raised and prepared for the responsibility that was to be conferred upon him. Islamic scholar Tariq Ramadan argued that Muhammad's orphan state made him dependent on God and close to the destitute – an "initiatory state for the future Messenger of God".
 
 ### Foster Mother
 
 It was a custom of that time in Arabia to send children to be raised in the desert tribes. Women from rural areas would come to cities to take babies for breastfeeding and care. 
-The prophet Muhammad was taken by Halimah.
-According to Arab custom, after his birth, infant Muhammad was sent to Banu Sa'ad clan, a neighboring Bedouin tribe, so that he could acquire the pure speech and free manners of the desert. There, Muhammad spent the first five years of his life with his foster-mother Halima. Islamic tradition holds that during this period, God sent two angels who opened his chest, took out the heart, and removed a blood-clot from it. It was then washed with Zamzam water.
+
+According to Arab custom, after his birth, infant Muhammad was sent to Banu Sa'ad clan, a neighboring Bedouin tribe, so that he could acquire the pure speech and free manners of the desert. There, Muhammad spent the first five years of his life with his foster-mother Halima.
 
 
 ### Angel Jibril Occasion
 
-When the prophet  ﷺ    was 4, Jibril came in the form of a man and opened up his chest and took his heart out and took out the black portion and said this is shaitan's portion in you.  It is said that shaitan pricks every child when they are born. 
-His foster brothers ran to Halima and told that some man killed Muhammad but they found a the future prophet safe but shocked. 
-
-
+When the prophet  ﷺ    was 4, Jibril came in the form of a man and opened up his chest and took his heart out and took out the black portion and said this is shaitan's portion in you.
 
 ### Death of Aminah
 
 After this occasion, Halimah returned 4-year old Muhammad to his mother Aminah. Aminah died soon. Abd al Mutallib took his grandchild Muhammad under his care.
 
-
 ### Life with Abd al-Mutallib
+
+Muhammad was not even seven years old when his mother died. After his mother’s death, his grandfather Abdul-Muttalib assumed his guardianship. Because of his knowledge of the status of the child and his faith in him, Abdul-Muttalib treated Muhammad with more care and attention than his other children.
+A group of the Medlaj Clan came to Mecca and when they saw Muhammad they said to his grandfather: ‘Take good care of him for we have never seen another of his station.’ Abdul-Muttalib told this to Abu Talib in his will and asked him to heed what they had said and take care of him. Muhammad was eight when his grandfather died, and he was taken into the care of his uncle Abu Talib.
 
 ### Death of Abd al-Mutallib
 
 He became orphaned several times. His dad died, his mother died and his grandfather died.
+Abu Talib, chief of the Bani-Hashim clan within the Quraysh3 then became the guardian of Muhammad from his eighth year. Abu Talib went on to protect and serve the Messenger of Allah, defending him and honoring him throughout the testing times of his Prophethood, until the last breath of his life.
 
 </details>
 
@@ -2620,9 +2629,7 @@ He became orphaned several times. His dad died, his mother died and his grandfat
 ## Signs of Prophethood
 
 </summary>
-There is a narration that Abi-Talib took the prophet  ﷺ    with him and the monk from the monastery told that this boy will be the prophet. This narration is not authentic and that story was most probably invented.
-The prophet Muhammad  ﷺ    was a shepherd.
-Solitude of shepherd gives opportunity to contemplate on the nature and teaches how to rule. Also, sheep shepherds are the most humble shepherds.
+
 </details>
 
 <details>
@@ -2631,6 +2638,10 @@ Solitude of shepherd gives opportunity to contemplate on the nature and teaches 
 ## Early Manhood
 
 </summary>
+
+Muhammad grew up to become a fine young man. He became known for his excellent manners, and because of the honesty in his conduct and dealings he was referred to as al- Sadiq (The Truthful One) and al-Amin (The Trustworthy One).
+
+The prophet Muhammad  ﷺ    was a shepherd and worked for his uncle Abu Talib.
 
 Somebody from Kinana killed a man Khawasin (Kays A'glan) branch and they attacked people in Haram.
 (around 15) The prophet  ﷺ    participated in wars of Fijar. he was responsible for looking for arrows and bring them back. They reached a peace treaty.
@@ -2641,7 +2652,7 @@ They will side with the opressed regardless of to which tribe the opressor belon
 Treaty of No-Business.
 Muslims should have involvement in society, not only in problems of muslims but the problems of all the opressed. React to social problems. 
 He was the youngest participant of the pact.
-Between 580 CE and 590 CE, Mecca experienced a bloody feud between Quraysh and Bani Hawazin that lasted for four years, before a truce was reached. After the truce, an alliance named Hilf al-Fudul (The Pact of the Virtuous)[44] was formed to check further violence and injustice; and to stand on the side of the oppressed, an oath was taken by the descendants of Hashim and the kindred families, where Muhammad was also a member.[42] In later days of his life, Muhammad is reported to have said about this pact, "I witnessed a confederacy in the house of 'Abdullah bin Jada'an. It was more appealing to me than herds of cattle. Even now in the period of Islam I would respond positively to attending such a meeting if I were invited."
+Between 580 CE and 590 CE, Mecca experienced a bloody feud between Quraysh and Bani Hawazin that lasted for four years, before a truce was reached. After the truce, an alliance named Hilf al-Fudul (The Pact of the Virtuous) was formed to check further violence and injustice; and to stand on the side of the oppressed, an oath was taken by the descendants of Hashim and the kindred families, where Muhammad was also a member. In later days of his life, Muhammad is reported to have said about this pact, "I witnessed a confederacy in the house of 'Abdullah bin Jada'an. It was more appealing to me than herds of cattle. Even now in the period of Islam I would respond positively to attending such a meeting if I were invited."
 
 At the time of Jahilia they knew about the true religion of Ibrahim AS, yet they chose to idol worship.
 </details>
@@ -2655,14 +2666,13 @@ At the time of Jahilia they knew about the true religion of Ibrahim AS, yet they
 
 Hadija was the richest woman in Mecca. She was married two times but her husbands died early.
 
-When the prophet Muhammad  ﷺ    was 25.
+When the prophet Muhammadﷺ   was 25.
 The prophet Muhammad was to shy to take his wage from Khadija's sister. 
 He took the caravan to Bosra outside Damascus. 
 some narrations say she was 40, ibn Iskhak reposrta that Khadija was 28.
 they had 6 children.
 Al Kasim died at 6-8
 Zaynab
-2
 Um Kulthum
 Fatima
 Abdallah died in infancy
@@ -2679,7 +2689,7 @@ Then Allah sent the sura Kawsar
 
 Kaaba at that time was destroyed by flood 5 years before the prophecy.
 Ceasar of Rome sent supplies to build a church in Yemen but the ship almost sank was ended up in Judda. so Quraish bought the marble stones and wood and the craftsmen.
-They stopped building the Kaaba for 5 five days arguiing on who is gion to put the black stone in. until decided that the first person who enters the holy house will decide who will put the black stone. Everyone rejoiced when they  ﷺ    Muhammad  ﷺ   , because he had the highest reputation among Meccans as the most just and truthful. 
+They stopped building the Kaaba for 5 five days arguiing on who is gion to put the black stone in. until decided that the first person who enters the holy house will decide who will put the black stone. Everyone rejoiced when they saw Muhammadﷺ  , because he had the highest reputation among Meccans as the most just and truthful. 
 
 The Prophet Muhammad said them to bringa cloth and to put the stone on the cloth. Then, he told each representative of a tribe to hold the cloth and bring the stone to the Kaaba. The Prophet Muhammad then himself placed the stone to its place. Tribes rejoiced for handling this issue without bloodshed.
 
@@ -2728,7 +2738,7 @@ Some of he sahaba have said that if Zayd was alive when the prophet  ﷺ    died
 
 </summary>
  
-before the revelation, he began to hear the rocks and stones say salam in his path.  he began having the dream about what would happen the next day. dreams lasted 6 full months. the prophet  ﷺ    cut himself from society and worship Allah. AS soon as he received the Revelation he never left the society.
+Before the first revelation, Muhammadﷺ   began to hear the rocks and stones say salam in his path.  he began having the dream about what would happen the next day. dreams lasted 6 full months. the prophet  ﷺ    cut himself from society and worship Allah. AS soon as he received the Revelation he never left the society.
 
 When Muhammad  ﷺ    was nearly 40, he used to spend many hours alone in prayer and contemplating over the aspects of creation. He was concerned with the ignorance of divine guidance (Jahiliyyah), social unrest, injustice, widespread discrimination (particularly against women), fighting among tribes and abuse of tribal authorities prevalent in pre-Islamic Arabia. The moral degeneration of his fellow people, and his own quest for a true religion further lent fuel to this, with the result that he now began to withdraw periodically to a cave named Mount Hira, three miles north of Mecca, for contemplation and reflection. In the cave if you sit there you see the Kaaba. Islamic tradition holds that Muhammad during this period began to have dreams replete with spiritual significance which were fulfilled according to their true import; and this was the commencement of his divine revelation.
 
@@ -2763,13 +2773,13 @@ Biographers disagree about the period of time between Muhammad's first and secon
 5 stages of da'wa:
 1. Private da'wa (3 years)
 2. Open preaching with the tongue without military confrontation (10 years) last 6 were very difficult
-3. Open da'wa with the tongue with physical fight only with one party (only QUraish)
+3. Open da'wa with the tongue with physical fight only with one party (only Quraish)
 4. Open da'wa to all with 'izza. attack only if you need to defence (from treaty of Hudaybia until the conquest of Mecca)
 5. Open da'wa along with physical confrontation against anyone who opposes islam.
 After receiving a certain ayah, the prophet  ﷺ    gathered banu Hashim and made khutbah to them. Abu Lahab opposed saying that we have our fathers ways and who is this man to say the different.
 Then the prophet  ﷺ    climbed on top of Safa and made the message public. He asked do you trust me and they replied oh yes we havent heard from you any lie. and he said the message to the tribes.
 Abu Lahab threw sand in the direction of the prophet  ﷺ   . 
-Banu Hashim people started to press on Abu Talib to stop his preaching or give him to other tribes. They couldn't touch the prophet Muhammad  ﷺ    if Abu Talib doen't give permission. 
+Banu Hashim people started to press on Abu Talib to stop his preaching or give him to other tribes. They couldn't touch the prophet Muhammad  ﷺ    if Abu Talib doesn't give the permission. 
 Do what you will, my nephew, for Wallahi I will not come to you again to stop your preaching.
 All Quraish tribe people came to Abu Talib trying to exchange sons between tribes.
 It was the whole Quraish against Abu Talib but he protected the prophet  ﷺ    till the last day. However it is believed that he didn't accept islam.
@@ -2881,9 +2891,28 @@ He personally informed Abu Jahl.
 ## **610**: Boycott of Muslims
 
 </summary>
- Amr ibn 'As came from Yemen to mecca, the prophet told him to go back and wait for his victory. then he comes to Medina.
+Then the Quraysh plotted amongst themselves about the companions of the Messenger of Allah who had entered Islam with him from amongst their tribes. Each tribe pounced upon any of its own who were Muslims, tormented them and forced them out from their religion.
 
-Abu Dharr al-Ghifari came to the Prophet  ﷺ    and Abu Bakr showed him the house. The prophet Muhammad  ﷺ    told him to go back to his tribe and preach the onennes of GOd and doing good deeds and wait until he hears about the victory of Muslims and until then don't tell about your religion here. Abu Dhar goes to Kaaba and proclaims that he is a muslim, then he gets savagely beaten. People stop only after they realize that they will get revenge from Al-Ghifari if he dies.
+Abu Talib protected the Messenger of Allah, and seeing what the Quraysh were doing to the sons of Hashim and Abdul-Muttalib, he called upon them to protect the Messenger of Allah just as he was protecting him. So they gathered with him and stood up with him, except for Abu Talib's brother Abu Lahab and his sons who had assisted the Quraysh against the Prophet.
+
+Then the Quraysh openly decided to kill the Messenger of Allah. When this news reached Abu Talib he gathered the sons of Hashim and Abdul-Muttalib and took the Messenger of Allah to his quarter and protected him from those who sought to kill him.
+
+The Quraysh imposed total and complete embargo against the Prophet and his followers in all its forms; social, economic, political, etc. No citizen of Mecca was allowed to buy from or sell to them, no one was allowed to marry anyone of them, or even befriend or socialize with them, not even help them. Nor would a peace settlement be accepted from them ever, nor they would be shown any mercy until they had handed over the Messenger of Allah to be killed.
+
+The Quraysh agreed to draw up a document to this effect, and one of them wrote this document in his own hand, which subsequently was afflicted by paralysis, and then they hung the document inside the Kabah.
+
+The Prophet and many of his followers, and members of the Hashim clan withdrew to Abu Talib and entered the Abu Talib’s Quarter known as Sheb Abu Talib, which had become their virtual open-top prison. Their condition deteriorated as time went by, and although some friends of sympathizers managed to smuggle in some help to the Muslims, but this was few and far between. There they remained in the quarter for three years until they were exhausted. The voices of the children could be heard from the quarter crying of hunger.
+
+The Quraysh also increased the pressure on those who had entered Islam but had not entered the quarter. The trials became grave and the Muslims were severely shaken. It is reported that Ali son of Abu Talib used to secretly leave the quarter in disguise and fetch foodstuff to the besieged, carrying it into the quarter on his back.
+
+Some people gathered and said we need to gather and stop the boycott. At the same time the prophet  ﷺ    said Abu talib that the treaty has been eaten by termites. All except bismika.. 
+So they opposed Abu Jahl
+
+The clan of Hashim then felt safe enough to emerge from their quarter and once more mingle with the people. This was in the tenth year of the noble prophethood, circa 620 CE.
+
+At this time, Amr ibn 'As came from Yemen to mecca, the prophet told him to go back and wait for his victory. then he comes to Medina.
+
+Also, Abu Dharr al-Ghifari came to the Prophet  ﷺ  . Abu Bakr showed him the house. The prophet Muhammad  ﷺ    told him to go back to his tribe and preach the onennes of GOd and doing good deeds and wait until he hears about the victory of Muslims and until then don't tell about your religion here. Abu Dhar goes to Kaaba and proclaims that he is a muslim, then he gets savagely beaten. People stop only after they realize that they will get revenge from Al-Ghifari if he dies.
 
 Abu Dharr comes home and starts to preach. Afte Hijra he comes to Medina with a lot of followers from his tribe.
 
@@ -2922,12 +2951,28 @@ There were different opinions until Naysean Creed where Constantine decided that
 ## Isra 'Al-Miraj 
 
 </summary>
+
+The events of Isra and Miʿraj are mentioned briefly in the Quran and then further expanded and interpreted within the hadith.
+
  isra means travel at night. Al isra- the night journey. Al miraj means the mechanism of rising high. 
-miraj is a personal gify to the prophet  ﷺ    from Allah ST.
+miraj is a personal gift to the prophet  ﷺ    from Allah ST.
 so many narrations about Isra and Miraj. almost half of the hadith from the meccan period are about isra and miraj  
 When isra ocurred? Most commentators say a year before Hijrah.
-Aisha narrated that Hadija dies before the salah became fard. that means that Miras happened within 1.5 years vefore HIjrah. 
-Jibreel came to the prophet  ﷺ    and took him to Kaaba. He prayed two raqah then Jibreel opened his chest and washed his heart in a golden bowl inside of which was Zamzam or emaan. probably this was done to prepare the prophet for the isra.
+Aisha narrated that Hadija dies before the salah became fard. that means that Miraj happened within 1.5 years vefore HIjrah. 
+
+Isra and Mi'raj, a supernatural journey to Jerusalem (Isra) and ascension to the Seven Heavens (Mi'raj), said to have been accomplished in one night along with the angel Gabriel. Muhammad is said to have toured heaven and hell, and spoken with earlier prophets, including Adam, Ibrahim, Musa, and Isa. Ibn Ishaq, author of first biography of Muhammad, presents this event as a spiritual experience while later historians like al-Tabari and Ibn Kathir present it as a physical journey. Some western scholars of Islam hold that the oldest Muslim tradition identified as a journey traveled through the heavens from the sacred enclosure at Mecca to the Bayt al-Ma'mur (a celestial recreation of the Kaaba); others identify it as Muhammad's journey from Mecca to the Bayt al-Maqdis in Jerusalem.[
+
+Within the Quran, chapter (surah) 17 al-Isra, was named after the Isra', and the first verse contains a brief description. There is also some information in a later verse, and some scholars say a verse in surah an-Najm also holds information on the Isra and Miʿraj.
+
+    Glory to Him who made His servant travel by night from the sacred place of worship to the furthest place of worship, whose surroundings We have blessed, to show him some of Our signs. He alone is the All Hearing, the All Seeing.
+    Remember when We said to you that your Lord encompasses mankind in His knowledge. Nor did We make the vision We showed you except as a test to people, as also the accursed tree in the Quran.
+    Quran 17:60
+
+
+His sight never wavered, nor was it too bold.
+and he saw some of the greatest signs of his Lord.[Quran 53:13–18
+
+Jibreel came to the prophetﷺ    and took him to Kaaba. He prayed two raqah then Jibreel opened his chest and washed his heart in a golden bowl inside of which was Zamzam or emaan. probably this was done to prepare the prophet for the isra.
 Musa has the second largest ummah after the prophet Muhammad  ﷺ   
 only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad  ﷺ   
 
@@ -2959,12 +3004,16 @@ Celebration of the prophet's  ﷺ    birthday started 600 years after his death.
 
 <details>
 <summary>Death of Hadijah and Abu Talib </summary>
- Abu Talib dies .
 
-Some people gathered and said we need to gather and stop the boycott. St the same time the prophet  ﷺ    said Abu talib that the treaty has been eaten by termites. All except bismika.. 
-So they opposed Abu jahl
+It was less than six months after the end of this trial when Abu Talib passed away. Then the Prophet's wife Lady Khadijah also died only three days after Abu Talib according to some accounts. The Messenger of Allah was very saddened and named this year the 'Year of Sorrow'.
 
-Knowing the truth is not being a Muslim. Being a Muslim means submitting. This is taqwa. There is only one absolute wisdom, and that is the wisdom of Allah ST. And whatever happens we don't question the wisdom of Allah ST. This is what Shaytan did.
+The loss of Abu Talib and Lady Khadijah dealt a severe blow to the Prophet at a time when he needed these two most. The death of Abu Talib cleared the last hurdle for the Quraysh, and if the presence of Abu Talib imposed certain limits and drew some red lines for the Quraysh that they could not cross, now his death left them free to do to the Prophet what was the unthinkable while Abu Talib was alive.
+
+With the death of Abu Talib, the trials meted out by his tribe to the Messenger of Allah grew more barbaric and audacious. Once when the Prophet was praying by the Kabah, one of the idolaters approached and violently tried to strangle him.
+
+The Quraysh encouraged the foolish to throw dirt on the Prophet's face and head. They used to throw filth, blood and thorns at his door. Ummayah ibn Khalaf used to insult the Prophet until his face became red but still the Prophet would not say anything to him. When a fool threw the dirt in the face of the Messenger of Allah, he entered his house with the dirt still on his head. Fatimah began to clean the dirt from his head. She was crying and the Messenger of Allah saying: “Do not cry my daughter, for Allah will protect your father.”He also said: “The Quraysh could not harm me until Abu Talib died.”
+
+Two of the most committed defenders of Muhammad's message, his wife Khadija and his uncle Abu Talib, died. With the death of Abu Talib, the leadership of the clan of Banu Hashim was passed to another uncle of Muhammad, Abu Lahab, an inveterate enemy of Muhammad and Islam. Abu Lahab soon withdrew the clan's protection from Muhammad, placing Muhammad in mortal danger since the withdrawal of clan protection implied that the blood revenge for his killing would not be exacted. Muhammad then tried to find a protector for himself in another important Arabian city close to Mecca, Ta'if, but his effort failed as he was pelted with stones in the city.
 
 Incident of Taif
 
@@ -2984,6 +3033,11 @@ He said: One of the callers of the jinn came to me so I went out to meet with th
 <details>
 <summary><b>622</b>: Young pilgrims invite the prophet Muhammad ﷺ   to Yathrib.
 </summary>
+
+</br>
+
+Since the Quraysh gave little weight to Muhammad's message, Muhammad took to spreading his message to the merchants and pilgrims that frequented Mecca. After several unsuccessful negotiations, he found hope with some men from Medina. The Arab population of Yathrib were somewhat familiar with monotheism because a Jewish community existed in that city. Muhammad met with a few members of the two tribes of Medina, the Aws and Khazraj, twice, at a hill known as al-'Aqabah near Mina, where they pledged their allegiance to Muhammad and agreed to protect Muhammad if he were to migrated to Medina. Following the pledges at al-'Aqabah, Muhammad encouraged his followers to emigrate to Medina. The Quraysh attempted to stop the Muslims from emigrating to the city, however, almost all Muslims managed to leave.
+
 Arabs from Yathrib meet the prophet Mohammad  ﷺ    and invite him to stay in their city.
 Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new. 
 </details>
@@ -3078,6 +3132,7 @@ The prophet Muhammad  ﷺ    was calling himself the follower of the religion of
 
 <details>
 <summary>625 ⚔️ Battle of Uhud</summary>
+
 The Battle of Uhud (غَزْوَة أُحُد,) was fought on Saturday, 23 March 625 AD (7 Shawwal, 3 AH), in the valley north of Mount Uhud. The Qurayshi Meccans, led by Abu Sufyan ibn Harb, commanded an army of 3,000 men toward Muhammad's stronghold in Medina. The battle was the only battle throughout the Muslim–Quraysh War in which the Muslims did not manage to defeat their enemy and it came just a year after the Battle of Badr.
 
 Abu Sufyan became the de facto leader of the Quraish after the death of Amr ibn Hishām at Badr nine months prior. Wanting to avenge the Meccan's losses at the Battle of Badr, he marched upon Medina from Makkah on 10 December 624 AD with a force three times stronger than that of the Meccans at Badr. Another reason for the battle was to protect the trade route of Abu Sufyan's caravans. The Battle of Uhud was the second military encounter between the Meccans and the Muslims and the first one in which the Muslims were on the defensive side. The Muslims readied for war soon afterward and the two armies fought in the valley below the northern face of Mount Uhud.
@@ -3150,7 +3205,8 @@ A verse of the Quran was revealed about the treaty, which means, "Verily we have
 
 <details>
 <summary>628-629 Sending letters, Khaybar</summary>
-Around the end of the 6 AH and the beginning of the 7 AH (628 CE), Muhammad ﷺ   sent letters to various heads of state asking them to accept Islam and to worship only one God.[135] Notable among them were Heraclius, the emperor of Byzantium; Khosrau II, the emperor of Persia; the Negus of Ethiopia; Muqawqis, the ruler of Egypt; Harith Gassani, the governor of Syria; and Munzir ibn Sawa, the ruler of Bahrain. In the 6 AH, Khalid ibn al-Walid accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
+
+Around the end of the 6 AH and the beginning of the 7 AH (628 CE), Muhammad ﷺ   sent letters to various heads of state asking them to accept Islam and to worship only one God. Notable among them were Heraclius, the emperor of Byzantium; Khosrau II, the emperor of Persia; the Negus of Ethiopia; Muqawqis, the ruler of Egypt; Harith Gassani, the governor of Syria; and Munzir ibn Sawa, the ruler of Bahrain. In the 6 AH, Khalid ibn al-Walid accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
 </details>
 
 <details>
@@ -3159,7 +3215,12 @@ Around the end of the 6 AH and the beginning of the 7 AH (628 CE), Muhammad ﷺ 
 
 <details>
 <summary>630 Mecca becomes Muslim</summary>
-In 629 CE, The Banu Bakr tribe, an ally of Quraysh, attacked the Muslims' ally tribe Banu Khuza'a, and killed several of them. The Quraysh openly helped Banu Bakr in their attack, which in return, violated the terms of the Treaty of Hudaybiyyah. Of the three options now advanced by Muhammad, they decided to cancel the Treaty of Hudaybiyyah. Muhammad started taking preparation for Mecca campaign. On 29 November 629 (6th of Ramadan, 8 AH), Muhammad set out with 10,000 companions, and stopped at a nearby place from Mecca called Marr-uz-Zahran. When Meccan leader Abu Sufyan came to gather intelligence, he was detected and arrested by the guards. Umar ibn al-Khattab wanted the execution of Abu Sufyan for his past offenses, but Muhammad spared his life after he converted to Islam. On 11 December 629 (18th of Ramadan, 8 AH), he entered Mecca almost unresisted, and declared a general amnesty for all those who had committed offences against Islam and himself. He then destroyed the idols – placed in and around the Kaaba – reciting the Quranic verse: "Say, the truth has arrived, and falsehood perished. Verily, the falsehood is bound to perish" (Quran 17:81). William Muir comments, "The magnanimity with which Muhammad treated a people who had so long hated and rejected him is worthy of all admiration."
+
+In 629 CE, The Banu Bakr tribe, an ally of Quraysh, attacked the Muslims' ally tribe Banu Khuza'a, and killed several of them. The Quraysh openly helped Banu Bakr in their attack, which in return, violated the terms of the Treaty of Hudaybiyyah. Of the three options now advanced by Muhammad, they decided to cancel the Treaty of Hudaybiyyah. Muhammad started taking preparation for Mecca campaign. 
+
+On 29 November 629 (6th of Ramadan, 8 AH), Muhammad set out with 10,000 companions, and stopped at a nearby place from Mecca called Marr-uz-Zahran. When Meccan leader Abu Sufyan came to gather intelligence, he was detected and arrested by the guards. Umar ibn al-Khattab wanted the execution of Abu Sufyan for his past offenses, but Muhammad spared his life after he converted to Islam. On 11 December 629 (18th of Ramadan, 8 AH), he entered Mecca almost unresisted, and declared a general amnesty for all those who had committed offences against Islam and himself. 
+
+He then destroyed the idols – placed in and around the Kaaba – reciting the Quranic verse: "Say, the truth has arrived, and falsehood perished. Verily, the falsehood is bound to perish" (Quran 17:81). William Muir comments, "The magnanimity with which Muhammad treated a people who had so long hated and rejected him is worthy of all admiration."
 
 
 ### Destroying of Idols
@@ -3177,19 +3238,27 @@ In 629 CE, The Banu Bakr tribe, an ally of Quraysh, attacked the Muslims' ally t
 Soon after the Mecca conquest, the Banu Hawazin tribe together with the Banu Thaqif tribe gathered a large army, under the leadership of Malik Ibn 'Awf, to attack the Muslims. At this, the Muslim force, which included the newly converts of Mecca, went forward under the leadership of Muhammad, and the two armies met at the valley of Hunayn. Though at first disarrayed at the sudden attack of Hawazin, the Muslim force recollected mainly at the effort of Muhammad, and ultimately defeated the Hawazin. The latter was pursued at various directions. After Malik bin 'Awf along with his men took shelter in the fort of Ta'if, the Muslim army besieged it which however yielded no significant result, compelling them to return Medina. Meanwhile, some newly converts from the Hawazin tribe came to Muhammad and made a plea to release their women and children who had been captivated from the battlefield of Hunayn. Their request was granted by the Muslims.
 
 After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy of the Muslims was somewhat established throughout the Arabian peninsula.Various tribes started to send their representatives to express their loyalty to Muhammad. In the year 9 AH (630 CE), Zakat – which is the obligatory charity in Islam – was introduced and was accepted by most of the people. A few tribes initially refused to pay it, but gradually accepted.
+
 </details>
 
 
-### Last Years of The Prophet Muhammad  ﷺ  
+### Last Years of The Prophet Muhammadﷺ  
 
 <details>
 <summary>Farewell Hajj Pilgrimage</summary>
-This is the only Hajj pilgrimage in which prophet Muhammad  ﷺ    participates.
+
+This is the only Hajj pilgrimage in which prophet Muhammadﷺ    participates.
+
+In 631 CE, during the Hajj season, Muhammad appointed Abu Bakr to lead 300 Muslims to the pilgrimage in Mecca. As per old custom, many pagans from other parts of Arabia came to Mecca to perform pilgrimage in pre-Islamic manner. Ali, at the direction of Muhammad, delivered a sermon stipulating the new rites of Hajj and abrogating the pagan rites. He especially declared that no unbeliever, pagan, and naked man would be allowed to circumambulate the Kaaba from the next year. After this declaration was made, a vast number of people of Bahrain, Yemen, and Yamama, who included both the pagans and the people of the book, gradually embraced Islam. 
+
+Next year, In 632 CE, Muhammad performed hajj and taught Muslims first-hand the various rites of Hajj. On the 9th of Dhu al-Hijjah, from Mount Arafat, he delivered his Farewell Sermon in which he abolished old blood feuds and disputes based on the former tribal system, repudiated racial discrimination, and advised people to "be good to women". According to Sunni tafsir, the following Quranic verse was delivered during this event: "Today I have perfected your religion, and completed my favours for you and chosen Islam as a religion for you" (Quran 5:3).
 </details>
 
 <details>
-<summary>632 Death of Prophet Muhammad  ﷺ   </summary>
-Abu Bakr is elected his khalifah (representative).
+<summary>632 Death of Prophet Muhammadﷺ   </summary>
+
+Soon after his return from the pilgrimage, Muhammad fell ill and suffered for several days with fever, head pain, and weakness. He was confined to bed by Abu Bakr. During his illness, he appointed Abu Bakr to lead the prayers in the mosque. He ordered to donate the last remaining coins in his house as charity. He died on June 8 632, in Medina, at the age of 62 or 63, in the house of his wife Aisha.
+
 </details>
 
 # 9.2 The Rashidun (Righteous Khalifs)
@@ -3198,11 +3267,28 @@ Abu Bakr is elected his khalifah (representative).
 <details>
 <summary>Abu Bakr (632-634)</summary>
 
-* The wars of riddah against tribes who secede from the confederacy. Abu Bakr manages to subdue the revolt and unite the tribes of Arabia.
-* Umar and Abu Bakr tell Zayd to compile and write The Quran because many khafiz die in one of the battles of riddah.
-* Story of how Abu Bakr died
+After Prophet Muhammadﷺ   died, Abu Bakr is elected as his khalifah (representative).
+
+Abu Bakr (أبو بكر,, 573 – 23 August 634) was the founder and first caliph of the Rashidun Caliphate ruling from June 632 until his death. He was the most prominent companion, closest advisor and a father-in-law of the Islamic prophet Muhammad (c. 570–632).
+
+Abu Bakr was born in 573 CE to Abu Quhafa and Umm Khayr. He belonged to the tribe of Banu Taym. In the Age of Ignorance, he was a monotheist and condemned idol-worshipping. As a wealthy trader, Abu Bakr used to free slaves. Following his conversion to Islam in 610, Abu Bakr served as a close aide to Muhammad, who bestowed on him the title al-Siddiq ('the Truthful'). The former took part in almost all battles under the Islamic prophet. He extensively contributed his wealth in support of Muhammad's work and also accompanied Muhammad, on his migration to Medina. By the invitations of Abu Bakr, many prominent Sahabis became Muslims. He remained the closest advisor to Muhammad, being present at almost all his military conflicts. In the absence of Muhammad, Abu Bakr led the prayers and expeditions.
+
+After Muhammad's death in 632, Abu Bakr succeeded the leadership of the Muslim community as the caliph. His election was opposed by a large number of rebellious tribal leaders, who had apostatized from Islam. Abu Bakr's commanders kept the rebels in check and subsequently defeated them in the Ridda Wars, as a result of which he was able to consolidate and expand the rule of the nascent caliphate over the entire Arabia. Abu Bakr ordered the initial incursions into the neighboring Byzantium and Sasanian Empire, initiating the Muslim conquests of Levant and Persia respectively. Apart from politics, Abu Bakr is also credited for the compilation of the Quran, of which he had a personal caliphal codex. Abu Bakr nominated his principal adviser Umar (r. 634–644) as his successor before dying in August 634. Along with Muhammad, Abu Bakr is buried in the Green Dome at the Al-Masjid an-Nabawi in Medina, the second holiest site in Islam.
+
+Though the period of his caliphate was short, it included successful invasions of the two most powerful empires of the time, a remarkable achievement in its own right. He set in motion a historical trajectory that in a few decades would lead to one of the largest empires in history. His victory over the local rebel Arab forces is a significant part of Islamic history. Abu Bakr is widely honored among Muslims.
+
+Abu Bakr is amongst the only few companions of Muhammad to be referred to in the Quran, being called the al-Sahib ('the Companion') of Muhammad in the ninth chapter at-Tawba. In this same verse, Abu Bakr is also mentioned as the Second of the Two (thānīya ithnayn), which later became an honorific for the caliph. These two verses are related to Abu Bakr's three-day refuge with Muhammad in the Cave of Thawr, an event for which Abu Bakr received the Persian epithet yār-i-ghār meaning the "Friend of the Cave". 
+
+The Sunni Muslims consider Abu Bakr a 'rightly-guided' (rashid) and the most superior caliph. Abu Bakr is also believed to be the 'Greatest of the Truthful' (Siddīq Akbar), a rank which comes after the prophets. Purported hadiths related about Abu Bakr include Muhammad's testifying of Abu Bakr for paradise. Moreover, Muhammad appointing Abu Bakr to lead the prayers during his last days is associated to justify Abu Bakr's later ascension to the caliphate as they display the regard with which Muhammad held the former. Abu Bakr is regarded among the best of Muhammad's followers. Muhammad reportedly said: "If the faith of Abu Bakr was weighed against the faith of the people of the earth, the faith of Abu Bakr would outweigh the others." Abu Bakr used to solve disputes by looking at the Quran and Sunnah. He was also the most knowledgeable Sahabi regarding the genealogy of Arabs.
+
+Abu Bakr's first address as caliph:
+
+    I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth is loyalty and disregard for truth is treachery. The weak amongst you shall be strong with me until I have secured his rights, if God wills; and the strong amongst you shall be weak with me until I have wrested from him the rights of others, if God wills. Obey me so long as I obey God and His Messenger. But if I disobey God and His Messenger, you owe me no obedience. Arise for your prayer, God have mercy upon you.
 
 ### Riddah Wars
+
+> The wars of riddah against tribes who secede from the confederacy. Abu Bakr manages to subdue the revolt and unite the tribes of Arabia.
+
 The wars against apostasy were fought for the cause of the poor and to restore their right to benefit from Zakat that was made compulsory by God on the wealth of the rich, and these wars took place when some people tried to rob the poor of their rights.  
 
 After the death of the Prophet (peace be upon him), some Arab tribes declined to pay Zakat by saying: “We used to give Zakat to Muhammad. But now Muhammad is no more, and hence we are not obliged to give Zakat.” Some of them renounced Islam while others did not but refused to pay Zakat. Some senior companions of the Prophet (pbuh), including Umar Bin Khattab, were against being tough on this matter so as not to cause Islamic society to disintegrate and lose its strength. But the Caliph Abu Bakr was firm and tough on this issue. He considered those who refused to pay Zakat as apostates, and in this respect, there was a famous saying of Abu Bakr: “By Allah, if they withhold the rope of a camel they used to give in Zakat to Allah’s Messenger, I will fight them for it.”
@@ -3217,6 +3303,18 @@ Accordingly, he mobilized an army under the command of Khaled Bin Al-Waleed who 
 
 As we know, Zakat is the third pillar of Islam. The Qur’an mentions it on several occasions together with performing obligatory prayer. A Hadith, reported by Ibn Umar from the Prophet (pbuh), says: “I was ordered to fight the people until they say there is no God but Allah and Muhammad is the messenger of Allah, as well as to perform prayer and give Zakat.” – Bukhari and Muslim.   
 
+## Preservation of The Quran
+
+> Umar and Abu Bakr told Zayd to compile and write The Quran because many khafiz die in one of the battles of riddah.
+
+Abu Bakr was instrumental in preserving the Quran in written form. After the Battle of Yamama in 632, numerous memorizers of the Quran had been killed. Umar fearing that the Quran may become lost or corrupted, Umar requested that Abu Bakr authorise the compilation and preservation of the scriptures in written format. The caliph was initially hesitant, being quoted as saying, "How can we do that which the Messenger of Allah, may Allah bless and keep him, did not himself do?" He eventually relented, however, and appointed Zayd ibn Thabit, who had previously served as one of the scribes of Muhammad, for the task of gathering the scattered verses. 
+
+The fragments were recovered from every quarter, including from the ribs of palm branches, scraps of leather, stone tablets and "from the hearts of men". The collected work was transcribed onto sheets and compiled in the sequence that had been instructed by Muhammad, as opposed to the order in which they had been revealed. The complete work was then verified through comparison with Quran memorisers. 
+
+The finished codex, termed the Mus'haf, was presented to Abu Bakr, who prior to his death, bequeathed it to his successor Umar. Upon Umar's own death, the Mus'haf was left to his daughter Hafsa, who had been one of the wives of Muhammad. It was this volume, borrowed from Hafsa, which formed the basis of Uthman's legendary prototype, which became the definitive text of the Quran. All later editions are derived from this original.
+
+* Story of how Abu Bakr died
+
 </details>
 
 
@@ -3228,6 +3326,14 @@ As we know, Zakat is the third pillar of Islam. The Qur’an mentions it on seve
 * 638 Muslims conquer Jerusalem, which becomes the third holiest city in the Islamic world after Mecca and Medina.
 * 641 Muslims control Syria, Palestine and Egypt. They have defeated the Persian Empire. The garrison towns of Kufah, Basrah, Fustat are built to house the Muslim troops.
 * 644 Khalif Umar is assassinated by a Persian prisoner of war. Uthman ibn Affan is elected the third caliph.
+
+Umar ibn al-Khaṭṭāb (عمر بن الخطاب, also spelled Omar, c. 583/584 – 644) was the second Rashidun caliph, ruling from August 634 until his assassination in 644. He succeeded Abu Bakr (r. 632–634) as the second caliph of the Rashidun Caliphate on 23 August 634. Umar was a senior companion and father-in-law of the Islamic prophet Muhammad. He was also an expert Muslim jurist known for his pious and just nature, which earned him the epithet al-Farooq ("the one who distinguishes (between right and wrong)").
+
+Umar initially opposed Muhammad, his distant Qurayshite kinsman and later son-in-law. Following his conversion to Islam in 616, he became the first Muslim to openly pray at the Kaaba. Umar participated in almost all battles and expeditions under Muhammad, who bestowed the title al-Faruq ('the Distinguisher') upon Umar, for his judgements. After Muhammad's death in June 632, Umar pledged allegiance to Abu Bakr (r. 632–634) as the first caliph and served as the closest adviser to the latter until August 634, when the dying Abu Bakr nominated Umar as his successor.
+
+Under Umar, the caliphate expanded at an unprecedented rate, ruling the Sasanian Empire and more than two-thirds of the Byzantine Empire. His attacks against the Sasanian Empire resulted in the conquest of Persia in less than two years (642–644). According to Jewish tradition, Umar set aside the Christian ban on Jews and allowed them into Jerusalem and to worship. Umar was assassinated by the Persian slave Abu Lu'lu'a Firuz in 644.
+
+Umar is generally viewed by historians to be one of the most powerful and influential Muslim caliphs in history. He is revered in the Sunni Islamic tradition as a great just ruler and paragon of Islamic virtues, and some hadiths identify him as the second greatest of the Sahabah after Abu Bakr.
 
 </details>
 
@@ -3262,10 +3368,11 @@ As we know, Zakat is the third pillar of Islam. The Qur’an mentions it on seve
 </details> 
 
 <details>
-<summary>Miracle of the Early Islamic Expansion</summary>
+<summary>Miracle of Early Islamic Expansion</summary>
 
-Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad  ﷺ    died, Arabs conquered both of these empires.
-they did not have buildings, they did not even have a government. they were never united. by modern historic scholars considers this as the same if modern Escimoes conquerred Russia and USA.
+Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammadﷺ   died, Arabs conquered both of these empires.
+
+They did not have buildings, they did not even have a government. They were never united. by modern historic scholars considers this as the same if modern Escimoes conquerred Russia and USA.
 
 </details> 
 
@@ -3283,12 +3390,12 @@ they did not have buildings, they did not even have a government. they were neve
   * Muawiyyah I dies
   * 680-92 The Second fitnah
   * 680 Battle of Karbala. Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
-  Murder of Huseyn and his family.
- Muawiya II
- Marwan I - cousin of Uthman
- Abd al-Malik
- Somewher here Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations).
- his student ibn Hisham shortens his seerah.
+  * Murder of Huseyn and his family.
+  * Muawiya II
+  * Marwan I - cousin of Uthman
+  * Abd al-Malik
+  * Somewher here Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations).
+  * his student ibn Hisham shortens his seerah.
 
   </details>
 
@@ -3623,5 +3730,10 @@ The temple built by jinns 🏛️
 Angels Harut and Marut taught magic in Babylon (between 1895BC and 539BC). it is mentioned in the Quran.
 
 Iqrimah ibn Abu Jahl flees. but later he comes to Medina to accept Islam from the hands of the prophet Muhammad  ﷺ   .
+
+His Prophetic mission began on the 27th day of the month of Rajab, in the year 610 CE, when he received the first divine revelation. Then the Qur’an was revealed to the Prophet progressively according to the circumstances of the time over a period of 23 years.
+
+There is a narration that Abi-Talib took the prophet  ﷺ    with him and the monk from the monastery told that this boy will be the prophet. This narration is not authentic and that story was most probably invented.
+Solitude of shepherd gives opportunity to contemplate on the nature and teaches how to rule. Also, sheep shepherds are the most humble shepherds.
 
 </details>

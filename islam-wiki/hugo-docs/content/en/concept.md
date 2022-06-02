@@ -4,6 +4,17 @@ Concept
 	* A short title or a name: short description of the period.
 	* :doc:`Islam Chronology <../chronology_main>`
 
+
+
+## Description
+
+When I only started learning about Biblical and Islamic prophets, I had a hard time trying to figure out the historical order of the stories from ancient books. I had questions like  
+
+The main idea was to gather stories of all prophets mentioned in the Quran and hadith in one page and sort them according a history timeline. 
+
+gathered from various web resources and my notes on Yasir Qadhi's lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info (actually lot of it) is taken from Wikipedia, which is always helpful and well-structured. I tried to remove the parts about prophets that are not mentioned in The Quran or authentic hadiths. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state.
+
+
 Need to do
 ===========
 ## STAGE 1. World History Map (General) 
@@ -17,7 +28,7 @@ Need to do
 		* A bad thing about choosing a custom theme is that it may end up not supporting some of the functions that you need and you will learn about it very late in the game and it will be too troublesome to change to some other theme. Also, hugo has documentation, but the themes which in most cases have a bunch of their own code and functions have a very general-level docuentation. I guess mostly because the themes were created by volunteering front-end developers and not by technical writers. that's why these things are smart and dynamic but without instructions.
 2. Copy-paste topics.
 3. Fact-check and rewrite the topics. 
-4. Buy a hosting place.
+4. - Buy a hosting place. Just upload to Render.
 5. Buy a domain.
 5. [DONE] add some images or emoji
 6. [DON-] write a disclaimer
@@ -45,7 +56,7 @@ Need to do
 * add button to go up to the beginning: 
 * [DONE] incorporate search in the current page: https://stackoverflow.com/questions/51988459/html-searching-on-the-same-page/51988637
 * put search button inside search field
-* Try GitLab Pages. Seems like it's free compared to GitHub Pages. (Free but you need to provide your CC data.)
+* -- Try GitLab Pages. Seems like it's free compared to GitHub Pages. (Free but you need to provide your CC data.)
 * Do Expand All when clicking a section in the TOC
 * [DONE] Create a mockup for timeline-helicopter view of the seerah of Prophet Muhammad sww.
 
@@ -64,9 +75,8 @@ Dark mode switch: https://dev.to/ahmadbassamemran/awesome-animation-checkbox-css
 * **expand all** script is in layout/docs/single.html
 * the menu, buttons, Expand All in the layout/partials/header/header.html
 * To fix CSS, use files from the /scss/common directory.
-seems like my sense of beauty is falling behind my willingness to fix all CSS issues.
+seems like my sense of beauty is inevitably falling behind my willingness to fix all CSS issues.
 
-so, I did some calculations and if I have 1000views in a month for 30 years, I will need to start to pay for GCS.
 
 
 border-image-source: linear-gradient(
@@ -80,7 +90,7 @@ border-image-source: linear-gradient(
 
 JS scripts are in single.html. Need to transform them to separate scripts in the js folder.
 
-Wnted to combin the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level higher content planning and too much overhead so I chose the simplest way.
+Wanted to combin the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level higher content planning and too much overhead so I chose the simplest way.
 
 
 Sections
@@ -120,14 +130,8 @@ Nice to Have
 ****************************
 
 
+## Hosting
 
+Deploy your static site easily on Render.
 
-Example
-.. _chronology_main:
-Section to cross-reference
---------------------------
-This is the text of the section.
-It refers to the section itself, see :ref:`chronology_main`.
-:doc:`Islam Chronology <../chronology_main>` 
-
-Bismilah
+Just Link GitLab or GitHub repository, and let it build your website and serve it on a global CDN. The best thing is that static sites are free on Render with no additional cost of up to 100 GB bandwidth a month.
