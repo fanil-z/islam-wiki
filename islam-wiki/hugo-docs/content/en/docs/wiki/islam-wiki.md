@@ -2660,13 +2660,16 @@ At the time of Jahilia they knew about the true religion of Ibrahim AS, yet they
 <details>
 <summary>
 
-## Marriage to Khadeeja
+## Marriage to Khadeeja 
 
 </summary>
 
-Hadija was the richest woman in Mecca. She was married two times but her husbands died early.
+Hadija bint Khuwaylid was the richest woman in Mecca. She was married two times but her husbands died early.
 
-When the prophet Muhammadﷺ   was 25.
+Muhammad صلى الله عليه وسلم had no particular job at his early youth, but it was reported that he worked as a shepherd for Bani Saa‘d and in Mecca. At the age of 25, he went to Syria as a merchant for Khadijah bint Khuwaylid. Ibn Ishaq reported that Khadijah was a business-woman of great honour and fortune. She used to employ men to do her business for a certain percentage of the profits. The Quraysh were mostly tradespeople, so when Khadijah was informed of Muhammad, his truthful words, great honesty and kind manners, she sent for him. She offered him money to go to Syria and do her business, and she would give him a higher rate than the others. She would also send her hireling, Maysarah, with him. He agreed and went with her servant to Syria for trade.
+
+When he returned, Khadijah noticed, in her money, more profits and blessings than she used to. Her hireling also told her of Muhammad’s good manners, honesty, deep thought, sincerity and faith. All these impressed Khadijah and she realised that she had fallen in love with Muhammad and wished to marry him. Many prominent men had asked for her hand in marriage but she always spurned their advances. She disclosed her wish to her friend Nafisah bint Maniya, who immediately went to Muhammad and broke the good news to him. He agreed and requested his uncles to go to Khadijah’s uncle and talk on this issue. Subsequently, they were married. The marriage contract was witnessed by Bani Hashim and the heads of Mudar. Muhammad gave Khadijah twenty camels as the dower. Muhammad صلى الله عليه وسلم did not get married to anyone until she was passed away.
+
 The prophet Muhammad was to shy to take his wage from Khadija's sister. 
 He took the caravan to Bosra outside Damascus. 
 some narrations say she was 40, ibn Iskhak reposrta that Khadija was 28.
@@ -3053,6 +3056,8 @@ You came to Mecca weak and poor and you have acquired what you have acquired.."
 
 Suhayb described the place in his house in Mecca where he had left the money, and they allowed him to go. When Suhayb reached Quba, just outside Medina, Muhammad  ﷺ    him approaching and said, "Your transaction has been fruitful, O Abu Yahya. Your transaction has been fruitful." He repeated this three times. Suhayb's face beamed with happiness as he said: "By God, no one has come before me to you, Messenger of God, and only Jibril could have told you about this."
 
+In 622 CE, due to the safety offered by Yathrib (later renamed Medīnat an-Nabī, or simply Medina), Muhammad ordered his followers to migrate to Medina. Most Muslims migrated at night fearing Quraish resistance, but Umar is reported to have left openly during the day saying: "Any one who wants to make his wife a widow and his children orphans should come and meet me there behind that cliff." Umar migrated to Medina accompanied by his cousin and brother-in-law Saeed ibn Zaid.
+
 </details>
 <details>
 <summary><b>622</b>: Assasination Attempt and Hijra</summary>
@@ -3314,6 +3319,11 @@ The fragments were recovered from every quarter, including from the ribs of palm
 The finished codex, termed the Mus'haf, was presented to Abu Bakr, who prior to his death, bequeathed it to his successor Umar. Upon Umar's own death, the Mus'haf was left to his daughter Hafsa, who had been one of the wives of Muhammad. It was this volume, borrowed from Hafsa, which formed the basis of Uthman's legendary prototype, which became the definitive text of the Quran. All later editions are derived from this original.
 
 * Story of how Abu Bakr died
+Abu Bakr appointed Umar as his successor before dying in 634 CE. Due to his strict and autocratic nature, Umar was not a very popular figure among the notables of Medina and members of Majlis al Shura; accordingly, high-ranking companions of Abu Bakr attempted to discourage him from naming Umar. Nevertheless, Abu Bakr decided to make Umar his successor. Umar was well known for his extraordinary willpower, intelligence, political astuteness, impartiality, justice, and care for the poor. Abu Bakr is reported to have said to the high-ranking advisers:
+
+His (Umar's) strictness was there because of my softness when the weight of Caliphate will be over his shoulders he will remain no longer strict. If I will be asked by God to whom I have appointed my successor, I will tell him that I have appointed the best man among your men.
+
+Abu Bakr was aware of Umar's power and ability to succeed him. His was perhaps one of the smoothest transitions of power from one authority to another in the Muslim lands. Before his death, Abu Bakr called Uthman to write his will in which he declared Umar his successor. In his will he instructed Umar to continue the conquests on Iraqi and Syrian fronts.
 
 </details>
 
@@ -3334,6 +3344,119 @@ Umar initially opposed Muhammad, his distant Qurayshite kinsman and later son-in
 Under Umar, the caliphate expanded at an unprecedented rate, ruling the Sasanian Empire and more than two-thirds of the Byzantine Empire. His attacks against the Sasanian Empire resulted in the conquest of Persia in less than two years (642–644). According to Jewish tradition, Umar set aside the Christian ban on Jews and allowed them into Jerusalem and to worship. Umar was assassinated by the Persian slave Abu Lu'lu'a Firuz in 644.
 
 Umar is generally viewed by historians to be one of the most powerful and influential Muslim caliphs in history. He is revered in the Sunni Islamic tradition as a great just ruler and paragon of Islamic virtues, and some hadiths identify him as the second greatest of the Sahabah after Abu Bakr.
+
+#### Initial challenges
+
+Even though almost all of the Muslims had given their pledge of loyalty to Umar, he was feared more than loved. According to Muhammad Husayn Haykal, the first challenge for Umar was to win over his subjects and the members of Majlis al Shura.
+
+Umar was a gifted orator, and he used his ability to improve his reputation among the people.
+
+Muhammad Husayn Haykal wrote that Umar's stress was on the well-being of the poor and underprivileged. In addition to this, Umar, in order to improve his reputation and relation with the Banu Hashim, the tribe of Ali, delivered to the latter his disputed estates in Khaybar. He followed Abu Bakr's decision over the disputed land of Fidak, continuing to treat it as state property. In the Ridda wars, thousands of prisoners from rebel and apostate tribes were taken away as slaves during the expeditions. Umar ordered a general amnesty for the prisoners, and their immediate emancipation. This made Umar quite popular among the Bedouin tribes. With the necessary public support on his side, Umar took the bold decision of recalling Khalid ibn Walid from supreme command on the Roman front.
+
+#### Political and Civil Administration
+
+The government of Umar was a unitary government, where the sovereign political authority was the caliph. The empire of Umar was divided into provinces and some autonomous territories, e.g., Azerbaijan and Armenia, that had accepted the suzerainty of the caliphate. The provinces were administered by the provincial governors or Wali, personally and fastidiously selected by Umar. Provinces were further divided into about 100 districts. Each district or main city was under the charge of a junior governor or Amir, usually appointed by Umar himself, but occasionally also appointed by the provincial governor. Other officers at the provincial level were:
+* Katib, the Chief Secretary.
+* Katib-ud-Diwan, the Military Secretary.
+* Sahib-ul-Kharaj, the Revenue Collector.
+* Sahib-ul-Ahdath, the Police chief.
+* Sahib-Bait-ul-Mal, the Treasury Officer.
+* Qadi, the Chief Judge.
+
+In some districts there were separate military officers, though the Wali was, in most cases, the Commander-in-chief of the army quartered in the province.
+
+Every appointment was made in writing. At the time of appointment an instrument of instructions was issued with a view to regulating the Wali's conduct. On assuming office, the Wali was required to assemble the people in the main mosque, and read the instrument of instructions before them.
+
+Umar's general instructions to his officers were:
+
+>Remember, I have not appointed you as commanders and tyrants over the people. I have sent you as leaders instead, so that the people may follow your example. Give the Muslims their rights and do not beat them lest they become abused. Do not praise them unduly, lest they fall into the error of conceit. Do not keep your doors shut in their faces, lest the more powerful of them eat up the weaker ones. And do not behave as if you were superior to them, for that is tyranny over them.
+
+Various other strict codes of conduct were to be obeyed by the governors and state officials. The principal officers were required to travel to Mecca on the occasion of the Hajj, during which people were free to present any complaint against them. In order to minimize the chances of corruption, Umar made it a point to pay high salaries to the staff. Provincial governors received as much as five to seven thousand dirham annually besides their shares of the spoils of war (if they were also the commander in chief of the army of their sector). Under Umar the empire was divided into the following provinces:
+* Mecca (Arabia)
+* Medina (Arabia)
+* Basra (Iraq)
+* Kufa (Iraq)
+* Jazira, in the upper reaches of the Tigris and Euphrates
+* Syria
+* Iliyā' (إلياء) (Palestine)
+* Ramlah (Palestine)
+* Upper Egypt
+* Lower Egypt
+* Khorasan (Persia)
+* Azerbaijan (Persia)
+* Fars (Persia)
+
+Umar was first to establish a special department for the investigation of complaints against the officers of the State. This department acted as the Administrative court, where the legal proceedings were personally led by Umar. The department was under the charge of Muhammad ibn Maslamah, one of Umar's most trusted men. In important cases Muhammad ibn Maslamah was deputed by Umar to proceed to the spot, investigate the charge and take action. Sometimes an Inquiry Commission was constituted to investigate the charge. On occasion, the officers against whom complaints were received were summoned to Medina, and charged in Umar's administrative court. Umar was known for this intelligence service through which he made his officials accountable. This service was also said to have inspired fear in his subjects.
+
+Umar was a pioneer in some affairs:
+* Umar was the first to introduce the public ministry system, where the records of officials and soldiers were kept. He also kept a record system for messages he sent to Governors and heads of state.
+* He was the first to appoint police forces to keep civil order.
+* He was the first to discipline the people when they became disordered.
+* Another important aspect of Umar's rule was that he forbade any of his governors and agents from engaging in any sort of business dealings whilst in a position of power. An agent of Umar by the name of Al Harith ibn K'ab ibn Wahb was once found to have extra money beyond his salary and Umar enquired about his wealth. Al Harith replied that he had some money and he engaged in trade with it. Umar said: By Allah, we did not send you to engage in trade! and he took from him the profits he had made.
+
+#### Canals
+
+Since Medina, with a rapidly growing population, was at risk of recurring famines when crops were lacking, Umar sought to facilitate the import of grain. He ordered the building of a canal connecting the Nile to the Red Sea and an improvement of port infrastructure on the Arabian coast. When Basra was established during Umar's rule, he started building a nine-mile canal from the Tigris to the new city for irrigation and drinking water. Al-Tabari reports that Utba ibn Ghazwan built the first canal from the Tigris River to the site of Basra when the city was in the planning stage. After the city was built, Umar appointed Abu Musa Ashaari (17-29/638 – 650) as its first governor. He began building two important canals, the al-Ubulla and the Ma'qil, linking Basra with the Tigris River. These two canals were the basis for the agricultural development for the whole Basra region and used for drinking water. Umar also adopted a policy of assigning barren lands to those who undertook to cultivate them. This policy continued during the Umayyad period and resulted in the cultivation of large areas of barren lands through the construction of irrigation canals by the state and by individuals.
+
+#### Reforms
+
+Under Umar's leadership, the empire expanded; accordingly, he began to build a political structure that would hold together the vast territory. He undertook many administrative reforms and closely oversaw public policy, establishing an advanced administration for the newly conquered lands, including several new ministries and bureaucracies, and ordered a census of all the Muslim territories. During his rule, the garrison cities (amsar) of Basra and Kufa were founded or expanded. In 638, he extended and renovated the Masjid al-Haram (Grand Mosque) in Mecca and al-Masjid al-Nabawi (Mosque of the Prophet) in Medina.
+
+Umar also ordered the expulsion to Syria and Iraq of the Christian and Jewish communities of Najran and Khaybar. He also permitted Jewish families to resettle in Jerusalem, which had previously been barred from all Jews. He issued orders that these Christians and Jews should be treated well and allotted them the equivalent amount of land in their new settlements. Umar also forbade non-Muslims from residing in the Hejaz for longer than three days. He was first to establish the army as a state department.
+
+Umar was founder of Fiqh, or Islamic jurisprudence. He is regarded by Sunni Muslims as one of the greatest Faqih, and, as such, he started the process of codifying Islamic Law.
+
+In 641, he established Bayt al-mal, a financial institution and started annual allowances for the Muslims. As a leader, Umar was known for his simple, austere lifestyle. Rather than adopt the pomp and display affected by the rulers of the time, he continued to live much as he had when Muslims were poor and persecuted. 
+
+#### Establishment of Islamic Calendar
+
+In 638, the fourth year of Umar as caliph and the seventeenth year since the Hijra, he decreed that the Islamic calendar should be counted from the year of the Hijra of Muhammad from Mecca to Medina.
+
+#### Visit to Jerusalem in 637 CE
+
+Umar's caliphate is notable for its vast conquests, aided by brilliant field commanders, he was able to incorporate present day Iraq, Iran, Azerbaijan, Armenia, Georgia, Syria, Jordan, Palestine, Lebanon, Egypt, and part of Afghanistan, Turkmenistan and south western Pakistan into the Caliphate. During his reign, the Byzantines lost more than three fourths of their territory and in Persia, the Sassanid Empire ceased to exist.
+
+Historians estimate more than 4,050 cities were conquered during the reign of Umar
+
+Prior to his death in 644, Umar had ceased all military expeditions apparently to consolidate his rule in recently conquered Roman Egypt and the newly conquered Sassanid Empire (642–644). At his death in November 644, his rule extended from present day Libya in the west to the Indus river in the east and the Oxus river in the north.
+
+#### Great famine
+
+In 638 CE, Arabia fell into severe drought followed by a famine. Soon after, the reserves of food at Medina began to run out. Umar ordered caravans of supplies from Syria and Iraq, and personally supervised their distribution. His actions saved countless lives throughout Arabia. The first governor to respond was Abu Ubaidah ibn al-Jarrah, the governor of Syria and supreme commander of the Rashidun army.
+
+Later, Abu Ubaidah paid a personal visit to Medina and acted as an officer of disaster management, which was headed personally by Umar. For internally displaced people, Umar hosted a dinner every night at Medina.
+
+#### Great plague
+
+While famine was ending in Arabia, many districts in Syria and Palestine were devastated by plague. While Umar was on his way to visit Syria, at Elat, he was received by Abu Ubaidah ibn al-Jarrah, governor of Syria, who informed him about the plague and its intensity, and suggested that Umar go back to Medina. Umar tried to persuade Abu Ubaidah to come with him to Medina, but he declined to leave his troops in that critical situation. Abu Ubaidah died in 639 of the plague, which also cost the lives of 25,000 Muslims in Syria. After the plague had weakened, in late 639, Umar visited Syria for political and administrative re-organization, as most of the veteran commanders and governors had died of the plague.
+
+#### Welfare state
+
+To be close to the poor, Umar lived in a simple mud hut without doors and walked the streets every evening. After consulting with the poor, Umar established the first welfare state, Bayt al-mal.The Bayt al-mal aided the Muslim and non-Muslim poor, needy, elderly, orphans, widows, and the disabled. The Bayt al-mal ran for hundreds of years, from the Rashidun Caliphate in the 7th century through the Umayyad period (661–750) and well into the Abbasid era. Umar also introduced a child benefit and pensions for the children and the elderly.
+
+#### Free trade
+
+Local populations of Jews and Christians, persecuted as religious minorities and taxed heavily to finance the Byzantine–Sassanid Wars, often aided Muslims to take over their lands from the Byzantines and Persians, resulting in exceptionally speedy conquests. As new areas were attached to the Caliphate, they also benefited from free trade, while trading with other areas in the Caliphate (to encourage commerce, in Islam trade is not taxed, but wealth is subject to the zakat). Since the so-called Constitution of Medina, drafted by Muhammad, the Jews and the Christians continued to use their own laws in the Caliphate and had their own judges.
+
+#### Assassination
+
+In 644, Umar was assassinated by a Persian slave named Abu Lu'lu'a Firuz. His motivation for the assassination is not clear. One possible explanation was that it was done in response to the Muslim conquest of Persia. The assassination was planned several months earlier. In October 644, Umar undertook a Hajj to Mecca, during which the assassins pronounced Umar's imminent death that year, and the massive crowd of the congregation was used by the conspirators as a veil to hide themselves.
+
+On 31 October 644, Abu Lu'lu'a attacked Umar while he was leading the morning prayers, stabbing him six times in the belly and finally in the navel, that proved fatal.
+
+Umar died of the wounds three days later on Wednesday 3 November 644 (26 Dhu al-Hijjah 23 AH).
+
+He was buried at the Green Dome in al-Masjid al-Nabawi alongside Muhammad and caliph Abu Bakr by the permission of Aisha.
+
+#### Selecting Next Caliph
+
+On his deathbed, Umar vacillated on his succession. Umar finally appointed a committee of six persons to choose a caliph from amongst them: Abdur Rahman bin Awf, Saad ibn Abi Waqqas, Talha ibn Ubaidullah, Uthman ibn Affan, Ali ibn Abi Talib and Zubayr ibn al-Awwam.
+
+All six are among the ten to whom Paradise was promised according to a hadith. The only one out of the 'famous ten' left out of the committee who was still alive at the time was Saeed ibn Zaid, the cousin and brother-in-law of Umar. He was excluded on the basis of being related by blood and of the same tribe as Umar. Umar had a policy of not appointing anyone related to him to a position of authority even if they were qualified by his standards.
+
+Umar appointed a band of fifty armed soldiers to protect the house where the meeting was proceeding. Until the appointment of the next caliph, Umar appointed a notable Sahabi and mawla, Suhayb ar-Rumi (Suhayb the Roman), as a caretaker caliph. While the meeting for selection of a caliph was proceeding, Abdulrahman ibn Abu Bakr and Abdur Rahman bin Awf revealed that they saw the dagger used by Abu Lu'lu'a, the assassin of Umar. A night before Umar's assassination, reported Abdur Rahman bin Awf, he saw Hurmuzan, Jafina and Abu Lu'lu'a, while they were suspiciously discussing something. Surprised by his presence, the dagger fell; it was the same two-sided dagger used in the assassination. Abdulrahman ibn Abu Bakr, son of the late caliph Abu Bakr, confirmed that, a few days before Umar's assassination, he saw this dagger in Hurmuzan's possession. After this revelation, it seemed clear that it had been planned by the Persians residing in Medina.
+
+Umar died on 3 November 644; on 7 November Uthman succeeded him as caliph. 
 
 </details>
 
