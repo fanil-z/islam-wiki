@@ -298,7 +298,7 @@ There has been some historical debate among Muslim scholars about the precise me
   
     13.8 billion years ago: the Universe started to expand.
     4.56 billion years ago: the Earth appeared.
-    ??? billion years ago: the Moon appeared. 
+    ??? billion years ago: the Moon 🌙 appeared. 
     3.5 billion years ago: Life on Earth began.
     600 million years ago: Animals appeared.
     ~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
@@ -1064,7 +1064,7 @@ When Ibrahim was young he used to laugh whenever he saw them entering the temple
 
 </summary>
 
-One night, Abraham went up to the mountain, leaned against a rock, and looked up to the sky. He saw a shining star and said to himself, "Could this be my Lord?" But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon rising in splendor and said, "Could this be my Lord?" but the moon also set. At daybreak, he saw the sun rising and said, "Could this be my Lord? This is the biggest and brightest!" But when the sun also set he said, "O my people! I am free from all that you join as partners with Allah! I have turned my face towards Allah who created the heavens and the earth and never shall I associate partners with Allah. Our Lord is the creator of the heavens and the earth and everything in between. He has the power to make the stars rise and set." After this declaration, Abraham then heard Allah calling him, "O Abraham " Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!"Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
+One night, Abraham went up to the mountain, leaned against a rock, and looked up to the sky. He saw a shining star and said to himself, "Could this be my Lord?" But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon 🌙 rising in splendor and said, "Could this be my Lord?" but the moon also set. At daybreak, he saw the sun rising and said, "Could this be my Lord? This is the biggest and brightest!" But when the sun also set he said, "O my people! I am free from all that you join as partners with Allah! I have turned my face towards Allah who created the heavens and the earth and never shall I associate partners with Allah. Our Lord is the creator of the heavens and the earth and everything in between. He has the power to make the stars rise and set." After this declaration, Abraham then heard Allah calling him, "O Abraham " Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!"Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
 
 </details>
 <details>
@@ -1576,7 +1576,7 @@ Khidr informs Musa that they are now to part ways as Musa has broken his promise
 >
 > Saul led them to a battle against Philistines and Goliath. Allah reavealed to Saul that Israelities must not drink from one particular river but a part of people drank from the river and were not allowed to fight in the name of Allah. Despite righteous Israelites were scarse in numbers, Allah granted them victory.
 
-In the Islamic narrative, the Israelites after Moses wanted a king to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth. But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
+In the Islamic narrative, the Israelites after Moses wanted a king 👑 to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth. But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
 
 Ibn Jarir reported that the condition of the Israelites deteriorated. They committed many sins and killed whom they wished of the prophets. Consequently Allah sent them tyrannous kings who ill-treated them and spilled their blood, and set their enemies from outside against them as well. They used to go to war, taking with them The Ark of the Covenant. They did this so that they would be victorious by its blessing, and it became a symbol of calm and a relic left behind by Moses's people. When they went to war with the people of Gaza and Askalon, they were defeated because the Ark of the Covenant was captured from them. When the king of the Israelites heard of this he died on the spot.
 
@@ -1588,7 +1588,7 @@ Then came Prophet Samuel among them to bring some relief. They asked the prophet
 
 Prophet Samuel prayed to Allah for guidance. Allah revealed to him that He had chosen one, Saul (Talut), to be their king. The prophet wanted to know how to recognize the future king. He was told that Saul would come to him by himself and that they should then hand over the control of the kingdom to him, for he would lead them in battle against the Philistines.
 
-### Saul is chosen to be the king of Israelites
+### Saul is chosen to be the king of Israelites 👑
 
 Saul was tall and sturdy, pious, and very intelligent. He lived and worked with his father on their farm. One day, several of their donkeys were lost. Accompanied by his servant, Saul went in search of them. They traveled for many days and were very tired. Saul said to his servant: "Let us rather go back, for I am sure that my father will be worried by now, and the other animals must also be cared for." His servant suggested that as they were already in the land of Samuel the prophet, they should go to him to inquire about the lost donkeys.
 
@@ -1641,7 +1641,7 @@ Saul's men sighted the enemy on the other side of the river. Their opponents app
 
 Dawud is known as biblical David who was, according to the Hebrew Bible, the second king of the United Kingdom of Israel and Judah, reigning c. 1010–970 BCE.
 
-Dawud (David), is a prophet and messenger of God and is righteous, divinely-anointed monarch of the United Kingdom of Israel. Additionally, Muslims honor David for having received the divine revelation of the Zabur (Psalms). Dawud is mentioned sixteen times in the Quran. Although he is not usually considered one of the "law-giving" prophets (ulū al-ʿazm), he is a significant figure in Islamic thought. In later Islamic traditions, he is praised for his rigor in prayer and fasting. He is also presented as the prototypical just ruler and as a symbol of God's authority on earth, having been at once a king and a prophet.
+Dawud (David), is a prophet and messenger of God and is righteous, divinely-anointed monarch of the United Kingdom of Israel. Additionally, Muslims honor David for having received the divine revelation of the Zabur (Psalms). Dawud is mentioned sixteen times in the Quran. Although he is not usually considered one of the "law-giving" prophets (ulū al-ʿazm), he is a significant figure in Islamic thought. In later Islamic traditions, he is praised for his rigor in prayer and fasting. He is also presented as the prototypical just ruler and as a symbol of God's authority on earth, having been at once a king 👑 and a prophet.
 
 ### Narrative in the Quran
 
@@ -1686,7 +1686,7 @@ The term Zabur is the Arabic equivalent of the Hebrew Zimra, meaning "song/music
 
 </summary>
 
-Sulaimān ibn Dāwūd (Solomon son of David) was, according to the Quran, a malik (king) and Nabī (Prophet) of the Israelites. Islamic tradition generally holds that he was the third king of Jewish people, and a wise ruler for the nation.
+Sulaimān ibn Dāwūd (Solomon son of David) was, according to the Quran, a malik (king) and Nabī (Prophet) of the Israelites. Islamic tradition generally holds that he was the third king 👑 of Jewish people, and a wise ruler for the nation.
 
 Islam views Solomon as one of the prophets of God, who was bestowed with many God-given gifts, including the ability to speak to animals and [jinn](#era-of-jinns-devils-or-spirits).
 
@@ -2732,7 +2732,7 @@ Some of he sahaba have said that if Zayd was alive when the prophet  ﷺ    died
 </details>
 
 
-### Iqra: First Revelation 
+### Iqra: First Revelation ☪
 
 <details>
 <summary>
@@ -3269,6 +3269,10 @@ Soon after his return from the pilgrimage, Muhammad fell ill and suffered for se
 # 9.2 The Rashidun (Righteous Khalifs)
 *******************************************
 
+<!--![image](./img/early_islamic_expansion.png)-->
+
+<img src="/img/early_islamic_expansion.png" alt="Early Expansion">
+
 <details>
 <summary>Abu Bakr (632-634)</summary>
 
@@ -3414,11 +3418,26 @@ In 638, the fourth year of Umar as caliph and the seventeenth year since the Hij
 
 #### Visit to Jerusalem in 637 CE
 
+#### Conquests
+
 Umar's caliphate is notable for its vast conquests, aided by brilliant field commanders, he was able to incorporate present day Iraq, Iran, Azerbaijan, Armenia, Georgia, Syria, Jordan, Palestine, Lebanon, Egypt, and part of Afghanistan, Turkmenistan and south western Pakistan into the Caliphate. During his reign, the Byzantines lost more than three fourths of their territory and in Persia, the Sassanid Empire ceased to exist.
 
 Historians estimate more than 4,050 cities were conquered during the reign of Umar
 
 Prior to his death in 644, Umar had ceased all military expeditions apparently to consolidate his rule in recently conquered Roman Egypt and the newly conquered Sassanid Empire (642–644). At his death in November 644, his rule extended from present day Libya in the west to the Indus river in the east and the Oxus river in the north.
+
+<details>
+  <summary>Khalid ibn al-Walid</summary>
+
+Khalid ibn al-Walid ibn al-Mughira al-Makhzumi (خالد بن الوليد بن المغيرة المخزومي, ; died 642) was an Arab Muslim commander in the service of the Islamic prophet Muhammad and the Rashidun caliphs Abu Bakr (r. 632–634) and Umar (r. 634–644). He played the leading military role in the Ridda wars against rebel tribes in Arabia in 632–633, the initial campaigns in Sasanian Iraq in 633–634 and the conquest of Byzantine Syria in 634–638.
+
+A horseman of the Quraysh tribe's aristocratic clan, the Makhzum, which ardently opposed Muhammad, Khalid played the instrumental role in defeating the Muslims at the Battle of Uhud in 625. Following his conversion to Islam in 627 or 629, he was made a commander by Muhammad, who bestowed on him the title Sayf Allah ('the Sword of God'). Khalid coordinated the safe withdrawal of Muslim troops during the abortive expedition to Mu'ta against the Arab allies of the Byzantines in 629 and led the Bedouin contingents of the Muslim army during the capture of Mecca and the Battle of Hunayn in c. 630. After Muhammad's death, Khalid was appointed to suppress or subjugate Arab tribes in Najd and the Yamama (both regions in central Arabia) opposed to the nascent Muslim state, defeating the rebel leaders Tulayha at the Battle of Buzakha in 632 and Musaylima at the Battle of Aqraba in 633.
+
+Khalid subsequently moved against the largely Christian Arab tribes and the Sasanian Persian garrisons of the Euphrates valley in Iraq. He was reassigned by Abu Bakr to command the Muslim armies in Syria and he led his men there on an unconventional march across a long, waterless stretch of the Syrian Desert, boosting his reputation as a military strategist. As a result of decisive victories against the Byzantines at Ajnadayn (634), Fahl (634 or 635), Damascus (634–635) and Yarmouk (636), the Muslims under Khalid conquered most of Syria. He was afterward demoted from the high command by Umar. Khalid continued service as the key lieutenant of his successor Abu Ubayda ibn al-Jarrah in the sieges of Homs and Aleppo and the Battle of Qinnasrin, all in 637–638, which collectively precipitated the retreat from Syria of imperial Byzantine troops under Emperor Heraclius. Umar dismissed Khalid from his governorship of Qinnasrin afterward and he died in Medina or Homs in 642.
+
+Khalid is generally considered by historians to be one of early Islam's most seasoned and accomplished generals and he is commemorated throughout the Arab world. The Islamic tradition credits Khalid for his battlefield tactics and effective leadership of the early Muslim conquests, but accuses him of illicitly executing Arab tribesmen who had accepted Islam, namely members of the Banu Jadhima during the lifetime of Muhammad and Malik ibn Nuwayra during the Ridda wars, and moral and fiscal misconduct in Syria. His military fame disturbed some of the pious early Muslims, including Umar, who feared it could develop into a personality cult.
+
+</details>
 
 #### Great famine
 
@@ -3467,7 +3486,52 @@ Umar died on 3 November 644; on 7 November Uthman succeeded him as caliph.
 
 * 644-650 Muslims conquer Cyprus, Tripoli in North Africa and establish Muslim rule in Afghanistan and Sind.
 * 650 Uthman orders the establishment of one "true" Quran while destroying the others.
-* 656 Caliph Umar is assassinated by malcontent Muslims soldiers, who acclaim Ali ibn Abu Talib as the new caliph, but not all accept Ali's rule.
+* 656 Caliph Uthman is assassinated by malcontent Muslims soldiers, who acclaim Ali ibn Abu Talib as the new caliph, but not all accept Ali's rule.
+
+Uthman (Arabic: عثمان, romanized: ʿUthmān; c. 576 or 579 – June 656), also spelled Osman, was the third Rashidun caliph, ruling from November 644 until his assassination. He ruled for twelve years, the longest of all Rashidun caliphs, and during his reign, the Rashidun Caliphate reached its greatest extent. He is known for having ordered the compilation of the first standard version of the Quran.
+
+Belonging to the Quraysh's aristocratic Umayyad clan, Uthman was an affluent merchant of Taif. Following his conversion to Islam in 611, he became a prominent companion of the Islamic prophet Muhammad. In 615, Uthman married Muhammad's daughter Ruqayya and following her death, to another of Muhammad's daughter Umm Kulthum. His wives having been daughters of Muhammad earned him the honorific title Dhū al-Nurayn ('Possessor of the Two Lights'). Though Uthman didn't participate in the early Muslim battles, he extensively contributed his wealth in support of the Muslims. After Muhammad's death in 632, Uthman served as a close aide to the first and second caliphs Abu Bakr (r. 632–634) and Umar (r. 634–644) respectively. On his deathbed, Umar formed a six-member committee, including Uthman, to chose the next caliph amongst themselves which eventually elected Uthman.
+
+Uthman continued his predecessor's policies of centralization and expansion, but notably initiated a relatively new tax policy, and also assigned his Umayyad kinsman to prominent roles. Under Uthman, the caliphate concluded its conquest of Persia, and also continued successful expansions into Byzantine territories. He was the first caliph to institute an integrated Muslim navy. Though Uthman was highly successful in expanding the caliphate, his nepotistic policies received him vehement opposition from numerous Muslims. In June 656, a group of Egyptian rebels besieged Uthman's house, and assassinated the caliph. The caliph was buried at a local Jewish cemetery, which was later extended to al-Baqi. His assassination marked the start of the First Muslim Civil War, as Uthman's brother-in-law Ali (r. 656–661) was elected the fourth caliph.
+
+Uthman is viewed by historians to be one of the most successful caliphs. From an expansionist perspective, he is regarded as skilled in conflict management, as is evident from how he dealt with the heated and troubled early Muslim conquered territories. In Sunni Islam, Uthman is considered a devout and pious caliph, and also viewed as the third most righteous companion of Muhammad.
+
+#### Election
+
+In 644, the second caliph Umar was brutally wounded by the Persian slave Abu Lu'lu'a Firuz. Umar, on his deathbed, formed a committee (shūra) of six people to choose the next caliph from amongst themselves. The committee included Uthman, his brother-in-law Ali, childhood friend Abd al-Rahman ibn Awf, and three of Muhammad's other prominent companions Talha ibn Ubayd Allah, Zubayr ibn al-Awwam and Sa'd ibn Abi Waqqas. Umar commanded that, after his death, the committee should reach a final decision within three days, and the next caliph should take the oath of office on the fourth day.
+
+On 6 November 644, the process took place, in which Talha was absent. Uthman and Ali voted for each other, Zubayr favored the former, and Sa'd supported the latter.  Following Abd al-Rahman's decision, the committee officially chose Uthman the third caliph and pledged their allegiance (ba'yah).
+
+#### Compilation of the Quran
+
+In about 650 CE, Uthman began noticing slight differences in pronunciation of the Quran as Islam expanded beyond the Arabian Peninsula into Persia, the Levant, and North Africa. In order to preserve the sanctity of the text, he ordered a committee headed by Zayd ibn Thabit to use caliph Abu Bakr's copy and prepare a standard copy of the Qur'an. Thus, within 20 years of Muhammad's death, the Quran was committed to written form. That text became the model from which copies were made and promulgated throughout the urban centers of the Muslim world, and other versions are believed to have been destroyed.
+
+#### Economic and social administration
+
+Uthman was a shrewd businessman and a successful trader from his youth, which contributed greatly to the Rashidun Empire. Umar had established a public allowance and, on assuming office, Uthman increased it by about 25%. Umar had placed a ban on the sale of lands and the purchase of agricultural lands in conquered territories. Uthman withdrew these restrictions, in view of the fact that the trade could not flourish. Uthman also permitted people to draw loans from the public treasury. Under Umar, it had been laid down as a policy that the lands in conquered territories were not to be distributed among the combatants, but were to remain the property of the previous owners. The army felt dissatisfied at this decision, but Umar suppressed the opposition with a strong hand. Uthman followed the policy devised by Umar and there were more conquests, and the revenues from land increased considerably.
+
+Umar had been very strict in the use of money from the public treasury—indeed, apart from the meagre allowance that had been sanctioned in his favour, Umar took no money from the treasury. He did not receive any gifts, nor did he allow any of his family members to accept any gifts from any quarter. During the time of Uthman, these restrictions were relaxed. Although Uthman still drew no personal allowance from the treasury, nor did he receive a salary, as he was a wealthy man with sufficient resources of his own, but, unlike Umar, Uthman accepted gifts and allowed his family members to do likewise from certain quarters. Uthman honestly expressed that he had the right to utilize the public funds according to his best judgment, and no one criticized him for that. The economic reforms introduced by Uthman had far-reaching effects; Muslims, as well as non-Muslims of the Rashidun Empire, enjoyed an economically prosperous life during his reign.
+
+#### Military expansion
+
+Further information: Military campaigns under Caliph Uthman
+During his rule, Uthman's military-style was more autonomically in nature as he delegated much military authority to his trusted kinsmen of the Umayyad clan. Uthman appointed these Umayyad governors as the administers of each province. This strategy of Uthman was an effective method of rule as this much independent policy allowed more expansion, enlarging the caliphate's territories.
+
+Muawiyah I had been appointed the governor of Syria by Umar in 639 to stop Byzantine attacks from the sea during the Arab-Byzantine Wars. He succeeded his elder brother Yazid ibn Abi Sufyan, who died in a plague, along with Abu Ubaidah ibn al-Jarrah, the governor before him, and 25,000 other people. Now under Uthman's rule in 649, Muawiyah was allowed to set up a navy, manned by Monophysitic Christians, Copts, and Jacobite Syrian Christian sailors and Muslim troops, which defeated the Byzantine navy at the Battle of the Masts in 655, opening up the Mediterranean.
+
+In 651, (31 AH), Uthman sent Abdullah ibn Zubayr and Abdullah ibn Saad to reconquer the Maghreb, where he met the army of Gregory the Patrician, Exarch of Africa and relative of Heraclius, which is recorded to have numbered between 120,000 and 200,000 soldiers, Although another estimate was recorded, Gregory's army was put at 20,000. The opposing forces clashed at Sabuthilag (or Sufetula), which became the name of this battle. Records from al-Bidayah wal Nihayah state that Abdullah's troops were completely surrounded by Gregory's army. However, Abdullah ibn Zubayr spotted Gregory in his chariot and asked Abdullah ibn Sa'd to lead a small detachment to intercept him. The interception was successful, and Gregory was slain by Zubayr's ambush party. Consequently, the morale of Byzantine army started crumbling and soon they were routed.
+
+Some Muslim sources claim that after the conquest of northern Africa was completed by Muhammad ibn Jarir al-Tabari, Abdullah ibn Sa'd continued to Spain. Spain had first been invaded some sixty years earlier during the caliphate of Uthman. Other prominent Muslim historians, like Ibn Kathir, have quoted the same narration. In the description of this campaign, two of Abdullah ibn Saad's generals, Abdullah ibn Nafiah ibn Husain, and Abdullah ibn Nafi' ibn Abdul Qais, were ordered to invade the coastal areas of Spain by sea, aided by a Berber force. They succeeded in conquering the coastal areas of Al-Andalus. It is not known where the Muslim force landed, what resistance they met, and what parts of Spain they actually conquered. However, it is clear that the Muslims did conquer some portion of Spain during the caliphate of Uthman, presumably establishing colonies on its coast. On this occasion, Uthman is reported to have addressed a letter to the invading force:
+
+Constantinople will be conquered from the side of Al-Andalus. Thus, if you conquer it, you will have the honor of taking the first step towards the conquest of Constantinople. You will have your reward in this behalf both in this world and the next.
+
+Although raids by Berbers and Muslims were conducted against the Visigothic Kingdom in Spain during the late 7th century, there is no evidence that Spain was invaded nor that parts of it were conquered or settled by Muslims prior to the 711 campaign by Tariq.
+
+Abdullah ibn Saad also achieved success in the Caliphate's first decisive naval battle against the Byzantine Empire, the Battle of the Masts.
+
+To the east, Ahnaf ibn Qais, chief of Banu Tamim and a veteran commander who conquered Shustar earlier, launched a series of further military expansions by further mauling Yazdegerd III near Oxus River in Turkmenistan and later crushing a military coalition of Sassanid loyalists and Hephthalite Empire in the Siege of Herat. Later, the governor of Basra, Abdullah ibn Aamir also led a number of successful campaigns, ranging from the suppression of revolts in Fars, Kerman, Sistan, and Khorasan, to the opening of new fronts for conquest in Transoxiana and Afghanistan.
+
+In the next year, AD 652, Futh Al-Buldan of Baladhuri writes that Balochistan was re-conquered during the campaign against the revolt in Kermān, under the command of Majasha ibn Mas'ud. It was the first time that western Balochistan had come directly under the laws of the Caliphate and it paid an agricultural tribute. The military campaigns under Uthman's rule were generally successful, except for a few in the kingdom of Nubia, on the lower Nile.
 
 </details>
 
@@ -3721,6 +3785,8 @@ There is a hadith that prophet Muhammad  ﷺ    said, If you encounter the begin
 
 better to make it in the part 2. First, just the timeline.
 
+after Isa some time will pass and no believer will be left on Earth. The Quran will be lifted.
+
 https://www.youtube.com/watch?v=NrfWxzjXEyw
 
 </details>
@@ -3845,7 +3911,7 @@ The current King Saul declared war on Philistine. David was a shepherd.
 Saul hires David to play him music. Philistines send Goliaf with the army against israelites. David declares that he will beat the giant and kills the giant with one shot of his sling. 
 David was successful in the wars and his popularit grows. Saul grows jealous. David flees to Moab and then lives in caves of Ziph. Saul searches him to kill him. .
 Saul then ceases to kill David.
-philistines kill Saul. David becomes the king of Israel. David conquers Jerusalem. 
+philistines kill Saul. David becomes the king 👑 of Israel. David conquers Jerusalem. 
 
 
 The temple built by jinns 🏛️

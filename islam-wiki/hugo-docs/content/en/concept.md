@@ -4,16 +4,47 @@ Concept
 	* A short title or a name: short description of the period.
 	* :doc:`Islam Chronology <../chronology_main>`
 
-
+>npm run build /production 
+>npm run start /local serve
 
 ## Description
 
-When I only started learning about Biblical and Islamic prophets, I had a hard time trying to figure out the historical order of the stories from ancient books. I had questions like  
 
-The main idea was to gather stories of all prophets mentioned in the Quran and hadith in one page and sort them according a history timeline. 
+In my current workplace, I heard about a static HTML generator Hugo. 
+
+It's open source, flexible, has a large number of themes including themes for user manuals and API references.
+While trying to tune the CSS, it made me kind of start loving front-end and I learned how to implement the dark mode along the way.
+
+I started wrapping up my notes about Islam to a static website.
+When I only started learning about Biblical and Islamic prophets, I had a hard time trying to figure out the historical order of the stories from ancient books. I had nub questions like 'Was Solomon before Exodus with Moses?' or 'When Soddom and Gomorra happened?'. That's why the main idea was to gather stories of all prophets mentioned in the Quran and hadith in one page and sort them according a historical timeline. 
+
+1. Markdown: the content is written in Markdown files + with some HTML additions.
+2. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
+3. Hugo: a static web-site generator builds a static HTML/CSS/JS website using MD files as a source.
+	- Hyas: I used Hyas to have a good-looking, neat layout. 
+		- Hyas depends on Node.js. I installed it on my laptop.
+		  Node.js is easy to install on Linux and probably Mac. On Windows, you will also need Chocolatey.
+	- Doks theme
+		- CSS: The theme is cool but I needed to adjust is to my purposes. So, I added the custom CSS file (~150 lines).
+		- JS: added buttons for sending feedback, expanding details elements, in-page search and dark mode switch toggle.
+		- Hugo is super-flexible and has a large amount of useful features but at the beginning it was hard to navigate through all the functionality and figure out which exactly config files I had to change. Hugo documentation is helpful here.
+4. Render or Netlify: static web-files are hosted in Render. up to 100GB is free.
+Generated website is uploaded to a production GitLab repo; Render checks if there is an update in the repo and automatically updates the content.
+5. I bought a domain here:
+6. Scripting. Wrote a basic bash script that pushed latest changes in the source, triggers Hugo to generate the website and pushes to production. Yes, I test on production.
+
+Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup.
 
 gathered from various web resources and my notes on Yasir Qadhi's lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info (actually lot of it) is taken from Wikipedia, which is always helpful and well-structured. I tried to remove the parts about prophets that are not mentioned in The Quran or authentic hadiths. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state.
 
+Probably I won't be able to finish the web layout if the content was not about Islam.
+
+
+Mediawiki is a great invention that led to so many further projects and it is really cool but I personally think that it is too complicated. After realizing that you can do so many things without a web server but just with HTML, CSS and Javascript, I really started to like the simplicity of what's happening behind the building and hosting process.
+Well, maybe the fact that I know very little about building a web server plays an significant role here as well.
+
+
+https://miro.com/app/board/o9J_kqBzhXk=/
 
 Need to do
 ===========
