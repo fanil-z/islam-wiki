@@ -3269,9 +3269,14 @@ Soon after his return from the pilgrimage, Muhammad fell ill and suffered for se
 # 9.2 The Rashidun (Righteous Khalifs)
 *******************************************
 
-<!--![image](./img/early_islamic_expansion.png)-->
+<!--![image](./img/early_islamic_expansion.png)
 
-<img src="/img/early_islamic_expansion.png" alt="Early Expansion">
+{{ $asset := resources.Get "early_islamic_expansion.png" }}
+{{ $img := $asset.Fit "600x400" }}
+<figure class="image is-3by2">
+  <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
+</figure>-->
+<img src="/early_islamic_expansion.png" alt="Early Expansion">
 
 <details>
 <summary>Abu Bakr (632-634)</summary>
@@ -3514,16 +3519,13 @@ Umar had been very strict in the use of money from the public treasury—indeed,
 
 #### Military expansion
 
-Further information: Military campaigns under Caliph Uthman
 During his rule, Uthman's military-style was more autonomically in nature as he delegated much military authority to his trusted kinsmen of the Umayyad clan. Uthman appointed these Umayyad governors as the administers of each province. This strategy of Uthman was an effective method of rule as this much independent policy allowed more expansion, enlarging the caliphate's territories.
 
 Muawiyah I had been appointed the governor of Syria by Umar in 639 to stop Byzantine attacks from the sea during the Arab-Byzantine Wars. He succeeded his elder brother Yazid ibn Abi Sufyan, who died in a plague, along with Abu Ubaidah ibn al-Jarrah, the governor before him, and 25,000 other people. Now under Uthman's rule in 649, Muawiyah was allowed to set up a navy, manned by Monophysitic Christians, Copts, and Jacobite Syrian Christian sailors and Muslim troops, which defeated the Byzantine navy at the Battle of the Masts in 655, opening up the Mediterranean.
 
 In 651, (31 AH), Uthman sent Abdullah ibn Zubayr and Abdullah ibn Saad to reconquer the Maghreb, where he met the army of Gregory the Patrician, Exarch of Africa and relative of Heraclius, which is recorded to have numbered between 120,000 and 200,000 soldiers, Although another estimate was recorded, Gregory's army was put at 20,000. The opposing forces clashed at Sabuthilag (or Sufetula), which became the name of this battle. Records from al-Bidayah wal Nihayah state that Abdullah's troops were completely surrounded by Gregory's army. However, Abdullah ibn Zubayr spotted Gregory in his chariot and asked Abdullah ibn Sa'd to lead a small detachment to intercept him. The interception was successful, and Gregory was slain by Zubayr's ambush party. Consequently, the morale of Byzantine army started crumbling and soon they were routed.
 
-Some Muslim sources claim that after the conquest of northern Africa was completed by Muhammad ibn Jarir al-Tabari, Abdullah ibn Sa'd continued to Spain. Spain had first been invaded some sixty years earlier during the caliphate of Uthman. Other prominent Muslim historians, like Ibn Kathir, have quoted the same narration. In the description of this campaign, two of Abdullah ibn Saad's generals, Abdullah ibn Nafiah ibn Husain, and Abdullah ibn Nafi' ibn Abdul Qais, were ordered to invade the coastal areas of Spain by sea, aided by a Berber force. They succeeded in conquering the coastal areas of Al-Andalus. It is not known where the Muslim force landed, what resistance they met, and what parts of Spain they actually conquered. However, it is clear that the Muslims did conquer some portion of Spain during the caliphate of Uthman, presumably establishing colonies on its coast. On this occasion, Uthman is reported to have addressed a letter to the invading force:
-
-Constantinople will be conquered from the side of Al-Andalus. Thus, if you conquer it, you will have the honor of taking the first step towards the conquest of Constantinople. You will have your reward in this behalf both in this world and the next.
+Some Muslim sources claim that after the conquest of northern Africa was completed by Muhammad ibn Jarir al-Tabari, Abdullah ibn Sa'd continued to Spain. Spain had first been invaded some sixty years earlier during the caliphate of Uthman. Other prominent Muslim historians, like Ibn Kathir, have quoted the same narration. In the description of this campaign, two of Abdullah ibn Saad's generals, Abdullah ibn Nafiah ibn Husain, and Abdullah ibn Nafi' ibn Abdul Qais, were ordered to invade the coastal areas of Spain by sea, aided by a Berber force. They succeeded in conquering the coastal areas of Al-Andalus. It is not known where the Muslim force landed, what resistance they met, and what parts of Spain they actually conquered. However, it is clear that the Muslims did conquer some portion of Spain during the caliphate of Uthman, presumably establishing colonies on its coast. 
 
 Although raids by Berbers and Muslims were conducted against the Visigothic Kingdom in Spain during the late 7th century, there is no evidence that Spain was invaded nor that parts of it were conquered or settled by Muslims prior to the 711 campaign by Tariq.
 
@@ -3532,6 +3534,24 @@ Abdullah ibn Saad also achieved success in the Caliphate's first decisive naval 
 To the east, Ahnaf ibn Qais, chief of Banu Tamim and a veteran commander who conquered Shustar earlier, launched a series of further military expansions by further mauling Yazdegerd III near Oxus River in Turkmenistan and later crushing a military coalition of Sassanid loyalists and Hephthalite Empire in the Siege of Herat. Later, the governor of Basra, Abdullah ibn Aamir also led a number of successful campaigns, ranging from the suppression of revolts in Fars, Kerman, Sistan, and Khorasan, to the opening of new fronts for conquest in Transoxiana and Afghanistan.
 
 In the next year, AD 652, Futh Al-Buldan of Baladhuri writes that Balochistan was re-conquered during the campaign against the revolt in Kermān, under the command of Majasha ibn Mas'ud. It was the first time that western Balochistan had come directly under the laws of the Caliphate and it paid an agricultural tribute. The military campaigns under Uthman's rule were generally successful, except for a few in the kingdom of Nubia, on the lower Nile.
+
+#### Armed revolt against Uthman
+
+The politics of Egypt played the major role in the revolt against the caliphate. The Governor of Egypt under Uthman, Abd Allah ibn Sa'd was criticized by Egyptians for heavy-handed governing and tax policies. After demands from the Egyptians, Uthman dismissed Abd Allah ibn S'ad as Egypt's governor and replaced him with Muhammad ibn Abi Bakr.
+
+After getting the post, while Ibn Abi Bakr and his supporters were on their way to Egypt, they came across the Caliph's envoy. The rebels searched for the envoy's personal belongings and founded a letter purportedly written by Uthman, which was to be sent to Abd Allah ibn Sa'd. In the letter, Uthman purportedly ordered death punishment for Ibn Abi Bakr and his supporters. Enraged by the letter, Ibn Abi Bakr and his supporters, then set off to Medina to threaten the caliph. After the rebels arrived, Ali saw the letter and had a conversation with Uthman, who claimed to have been unaware of the letter.[66] Historians have suggested that the letter may have been authored by Marwan ibn al-Hakam without Uthman's knowledge.
+
+From Egypt, Kufa, and Basra, contingents of about 1,000 people apiece were sent to Medina, each with instructions to assassinate Uthman and overthrow the government. Representatives of the Egyptian contingent waited on Ali, and offered him the Caliphate, but he turned them down. Representatives of the contingent from Kufa waited on Al-Zubayr, and those from Basra waited on Talha, each offering them their allegiance as the next Caliph, but both were similarly turned down.
+
+The rebels realized that the people in Mecca supported Uthman and were not inclined to listen to them. Before returning to Syria, the governor Muawiyah, Uthman's cousin, suggested that Uthman should come with him to Syria as the atmosphere there was peaceful. Uthman rejected his offer, saying that he didn't want to leave the city of Muhammad (Medina). Muawiyah then suggested that he be allowed to send a strong force from Syria to Medina to guard Uthman against any possible attempt by rebels to harm him. Uthman rejected it too, saying that the Syrian forces in Medina would be an incitement to civil war, and he could not be party to such a move.
+
+#### Siege and Assassination of Uthman
+
+The early stage of the siege of Uthman's house was not severe, but, as the days passed, the rebels intensified the pressure against Uthman. With the departure of the pilgrims from Medina to Mecca, the rebel position was strengthened further, and as a consequence the crisis deepened. The rebels understood that, after the Hajj, the Muslims, gathered at Mecca from all parts of the Muslim world, might march to Medina to relieve Uthman. They therefore decided to take action against Uthman before the pilgrimage was over. During the siege, Uthman was asked by his supporters, who outnumbered the rebels, to let them fight, but Uthman refused, in an effort to avoid bloodshed among Muslims. Unfortunately for Uthman, violence still occurred. The gates of the house of Uthman were shut and guarded by the renowned warrior Abd Allah ibn al-Zubayr, along with Ali's sons, Hasan ibn Ali and Husain ibn Ali.
+
+The rebels besieged Uthman and prevented him from getting water. After Ali was informed about this, he sent three waterskins brimming with water, which reached the thirsty caliph.
+
+In June 656, a group of rebels climbed from the back of Uthman's house, crept inside, unbeknownst to the gate guards. While Uthman was reading the Quran, the rebels plunged into the caliph's room and struck blows at his head, from which Uthman subsequently died at around the age of 77 or 80 years old.
 
 </details>
 
@@ -3546,6 +3566,15 @@ In the next year, AD 652, Futh Al-Buldan of Baladhuri writes that Balochistan wa
 * The Kharajites secede from Ali's camp.
 * 661 Ali is murdered by a Kharajite extremist.
 * Ali's supporters claim his son Hasan as the next caliph.	
+
+Ali ibn Abi Talib (علي بن أبي طالب, ; 600 – 28 January 661) was the fourth Rashidun caliph, reigning from 656 until his assassination in 661. He was a cousin, son-in-law and companion of the Islamic prophet Muhammad. Ali is one of the central figures in Shia Islam as the first Shia Imam and in Sunni Islam as the fourth of the "rightly guided" (rāshidūn) caliphs (name used for the first four successors to Muhammad). He was the son of Abu Talib and Fatimah bint Asad, the husband of Fatima, and the father of Hasan, Husayn, Zaynab, and Umm Kulthum.
+
+As a child, Muhammad took care of him. After Muhammad's invitation of his close relatives, Ali became one of the first believers in Islam at the age of about 9 to 11. He then publicly accepted his invitation on Yawm al-Inzar and Muhammad called him his brother, guardian and successor. He helped Muhammad emigrate on the night of Laylat al-Mabit, by sleeping in his place. After migrating to Medina and establishing a brotherhood pact between the Muslims, Muhammad chose him as his brother. In Medina, he was the flag bearer in most of the wars and became famous for his bravery.
+
+The issue of his right in the post-Muhammad caliphate caused a major rift between Muslims and divided them into Shia and Sunni groups. On his return from the Farewell Pilgrimage, at Ghadir Khumm, Muhammad uttered the phrase, "Whoever I am his Mawla, this Ali is his Mawla." But the meaning of Mawla was disputed by Shias and Sunnis. On this basis, the Shias believe in the establishment of the Imamate and caliphate regarding Ali, and the Sunnis interpret the word as friendship and love. While Ali was preparing Muhammad's body for burial, a group of Muslims met at Saqifah and pledged allegiance to Abu Bakr. Ali pledged allegiance to Abu Bakr, after six months, but did not take part in the wars and political activity, except for the election of the third caliph Uthman. However, he advised the three caliphs in religious, judicial, and political matters whenever they wanted.
+
+After Uthman was killed, Ali was elected as the next Caliph, which coincided with the first civil wars between Muslims. Ali faced two separate opposition forces: a group led by Aisha, Talha, and Zubayr in Mecca, who wanted to convene a council to determine the caliphate; and another group led by Mu'awiya in the Levant, who demanded revenge for Uthman's blood. He defeated the first group in the Battle of the Camel; but in the end, the Battle of Siffin with Mu'awiya was militarily ineffective, and led to an arbitration which ended politically against him. Then, in the year 38 AH (658-659), he fought with the Kharijites - who considered Ali's acceptance of arbitration as heresy, and revolted against him - in Nahrawan and defeated them. Ali was eventually killed in the mosque of Kufa by the sword of one of the Kharijites, Ibn Muljam Moradi, and was buried outside the city of Kufa. Later his shrine and the city of Najaf were built around his tomb. Despite the impact of religious differences on Muslim historiography, sources agree that Ali strictly observed religious duties and avoided worldly possessions. Some writers accused him of a lack of political skill and flexibility. According to Wilferd Madelung, Ali did not want to involve himself in the game of political deception which deprived him of success in life, but, in the eyes of his admirers, he became an example of the piety of the primary un-corrupted Islam, as well as the chivalry of pre-Islamic Arabia. Several books are dedicated to the hadiths, sermons, and prayers narrated by him.
+
 
 </details>
 
@@ -3668,7 +3697,7 @@ other African countries
 
 EU:
 France 6%
-Germany 5% (Turkish mosques, Akhmadiyah)
+Germany 5% (Turkish mosques, Akhmadiyah, Pakistani mosque)
 
 
 Only 0.8% in USA. but many islamic universities and wordly-famous sheikhs are there. 
@@ -3815,6 +3844,9 @@ On the other hand, a Hadeeth reads: “Then the Trumpet will be blown, and no on
     
     "The Hour will occur while two men spreading a garment in front of them but they will not be able to sell it, nor fold it up; and the Hour will be established when a man has milked his she-camel and has taken away the milk but he will not be able to drink it; and the Hour will be established before a man repairing a tank (for his livestock) is able to water (his animals) in it; and the Hour will be established when a person has raised a morsel (of food) to his mouth but will not be able to eat it."
 
+Wuran says that the veil will be removed and people will be able to see the unseen.
+sky will be opened.
+
 
 #### The Earth is destroyed
 After the first blow the Destruction of everything on the Earth will start.
@@ -3823,9 +3855,11 @@ After the first blow the Destruction of everything on the Earth will start.
 
 When the destruction begins, every living thin on Earth dies. Animals, people, jinn, even the angels. 
 
+There is a narration that after the trumpet is blown, Iblis goes from one side of the Earth to another trying to escape death. But the Angel of Death somes to him and he dies.
+
 #### Only Allah Remains
 There is a hadith:
-The prophet ( ﷺ   ) said after the horn is blown and the only ones that stand are the ones that your Lord willed, Allah SWT will have in front of Him Jibreel, Israfeel, Mikail, and angel of death. Those who apportion the command of Allah and Allah asks the angel of death who remain and he says O Allah Your Noble Face, your servant me, your servant Mikail, your servant Israfeel, and your servant Jibreel, Allah says take the soul of Mikail.
+The prophet (ﷺ   ) said after the horn is blown and the only ones that stand are the ones that your Lord willed, Allah SWT will have in front of Him Jibreel, Israfeel, Mikail, and angel of death. Those who apportion the command of Allah and Allah asks the angel of death who remain and he says O Allah Your Noble Face, your servant me, your servant Mikail, your servant Israfeel, and your servant Jibreel, Allah says take the soul of Mikail.
 
 Then Allah says who remain he Azrail said O Allah You, me, Jibreel and Israfeel. And Allah says take the soul of Israfeel and Israfeel's soul is taken and Allah says who remain O Allah Your Noble Face, me and Jibreel.And Allah says take the soul of Jibreel.
 
