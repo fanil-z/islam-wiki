@@ -22,7 +22,7 @@ author: fanil
 > 
 > According to Islamic tradition, there every nation had its prophet and the total number of the prophets is 124000. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned because there was no authentic hadith about this particular prophet in Islamic tradition. 
 > 
-> Feel free to send feedback if you come across a part that contradicts the Quran or an authentic hadith.
+> Feel free to send feedback if you come across a part that contradicts the Quran or an authentic hadith or if the order is incorrect.
 >
 
 </details>
@@ -2085,16 +2085,15 @@ In Islam, Jesus is believed to have been the precursor to the Islamic prophet Mu
 ###Birth narratives
 
 According to the Quran, the pains of labor took Mary to the trunk of a palm tree.
-The Islamic faith echoed some strands within the Christian tradition that Mary (or Maryam) was a literal virgin when Jesus was conceived. The most detailed account of the annunciation and birth of Jesus is provided in Surah 3 (Al Imran) and 19 (Maryam) of the Quran where the story is narrated that God (Allah) sent an angel to announce that Maryam could shortly expect to bear a son, despite being a virgin.[36]
+The Islamic faith echoed some strands within the Christian tradition that Mary (or Maryam) was a literal virgin when Jesus was conceived. The most detailed account of the annunciation and birth of Jesus is provided in Surah 3 (Al Imran) and 19 (Maryam) of the Quran where the story is narrated that God (Allah) sent an angel to announce that Maryam could shortly expect to bear a son, despite being a virgin.
 
-Some academics have noted that the account in Surah 19 is particularly close to that in the Christian Gospel of Luke.[38] The Annunciation to Mary is mentioned twice in the Quran and in both instances Mary/ Maryam is told that she was chosen by God to deliver a son. In the first instance, the bearer of the news (who is believed by most Muslims to be the archangel Gabriel), delivered the news in (Q3:42-47) as he takes the form of a man (Q19:16-22). The details of the conception are not discussed but when Mary asks how she can bear a son in view of her chastity she is told that God creates what he wills and that these things are easy for God. The Quran (Q21:91 and Q66:12) says that God blew through his angel into Mary and she, although being chaste, bore Jesus without any father.
+Some academics have noted that the account in Surah 19 is particularly close to that in the Christian Gospel of Luke. The Annunciation to Mary is mentioned twice in the Quran and in both instances Mary/ Maryam is told that she was chosen by God to deliver a son. In the first instance, the bearer of the news (who is believed by most Muslims to be the archangel Gabriel), delivered the news in (Q3:42-47) as he takes the form of a man (Q19:16-22). The details of the conception are not discussed but when Mary asks how she can bear a son in view of her chastity she is told that God creates what he wills and that these things are easy for God. The Quran (Q21:91 and Q66:12) says that God blew through his angel into Mary and she, although being chaste, bore Jesus without any father.
 
 The account of the birth of Jesus follows the Quran's narrative, adding that the birth occurred in Bethlehem beside a palm tree with a manger.
 
 ###Childhood
-Main article: Finding in the Temple
-See also: Flight into Egypt and Infancy Gospel of Thomas
-The Quran does not include the tradition of the Flight into Egypt, though sūra XXIII, 50 could conceivably allude to it: "And we made the son of Maryam and his mother a sign; and we made them abide in an elevated place, full of quiet and watered with springs." However, narratives similar to the narrative found in the Gospels and non-canonical sources circulated in later Islamic tradition, with some details and elaborations being added over the centuries by Islamic writers and historians. Some narratives have Jesus and family staying in Egypt up to 12 years.[20] Many moral stories and miraculous events of Jesus' youth are mentioned in Qisas al-anbiya (Stories of the Prophets), books composed over the centuries about pre-Islamic prophets and heroes.
+
+The Quran does not include the tradition of the Flight into Egypt, though sūra XXIII, 50 could conceivably allude to it: "And we made the son of Maryam and his mother a sign; and we made them abide in an elevated place, full of quiet and watered with springs." However, narratives similar to the narrative found in the Gospels and non-canonical sources circulated in later Islamic tradition, with some details and elaborations being added over the centuries by Islamic writers and historians. Some narratives have Jesus and family staying in Egypt up to 12 years. Many moral stories and miraculous events of Jesus' youth are mentioned in Qisas al-anbiya (Stories of the Prophets), books composed over the centuries about pre-Islamic prophets and heroes.
 
 Adulthood
 
@@ -2115,6 +2114,7 @@ The Quran attributes at least six miracles to Jesus, with many more being added 
 These six miracles in the Quran are without detail unlike the Gospel and their non-canonical Gnostic sources, which include details and mention other attributed miracles. Over the centuries, these six miracle narratives have been elaborated through Hadith and poetry, with religious writings including some of the other miracles mentioned in the Gospel, non-canonical sources, and from lore.
 
 ### Speaking from the cradle
+
 Speaking from the cradle is mentioned in three places in the Quran: al-Imran (3) 41, 46, al-Maida (5) 109–110 and Maryam (19) 29–30. Part of the narrative has the infant Jesus defending his mother Mary from the accusation of having given birth without a known husband. Early Islam was unclear about Joseph and his role.Thus these Gnostic gospel influence is claimed as to say Quran may not be divine by opponents. Jesus speaks as the angel Gabriel had mentioned at the annunciation: Jesus proclaims he is a servant of God, has been given a book, is a prophet, is blessed wherever he will go, blesses the day he was born, the day he will die, and the day he is raised alive.
 
 Although this particular narrative is not found in the Bible, the theme of speaking from the cradle is found in the non-canonical pre-Islamic Syriac Infancy Gospel. That source has Jesus declaring himself the Son of God, the Word, and affirming what the angel Gabriel had previously announced to Mary as detailed in the Gospel.
@@ -2174,23 +2174,28 @@ Islam rejects Paul's theology of justification before God by faith alone as held
 In the Qur'an
 The following is a list of all the Qur'anic references to the disciples of Jesus:
 
-    But when Jesus felt [persistence in] disbelief from them, he said, "Who are my supporters for [the cause of] Allah?" The disciples said, "We are supporters for Allah. We have believed in Allah and testify that we are Muslims [submitting to Him]. (52) Our Lord, we have believed in what You revealed and have followed the messenger [i.e., Jesus], so register us among the witnesses [to truth]."(53)
+    But when Jesus felt [persistence in] disbelief from them, he said, "Who are my supporters for [the cause of] Allah?" The disciples said, "We are supporters for Allah. We have believed in Allah and testify that we are Muslims [submitting to Him].
+    Our Lord, we have believed in what You revealed and have followed the messenger [i.e., Jesus], so register us among the witnesses [to truth]."
     Qur'an 3:52-53
 
-    And [remember] when I inspired to the disciples, "Believe in Me and in My messenger [i.e., Jesus]." They said, "We have believed, so bear witness that indeed we are Muslims [in submission to Allah]."(111) [And remember] when the disciples said, "O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?" [Jesus] said, "Fear Allah, if you should be believers."(112) They said, "We wish to eat from it and let our hearts be reassured and know that you have been truthful to us and be among its witnesses."(113) Said Jesus, the son of Mary, "O Allah, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers."(114) Allah said, "Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds."(115)
+    And [remember] when I inspired to the disciples, "Believe in Me and in My messenger [i.e., Jesus]." They said, "We have believed, so bear witness that indeed we are Muslims [in submission to Allah]."
+    [And remember] when the disciples said, "O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?" [Jesus] said, "Fear Allah, if you should be believers."
+    They said, "We wish to eat from it and let our hearts be reassured and know that you have been truthful to us and be among its witnesses."
+    Said Jesus, the son of Mary, "O Allah, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers."
+    Allah said, "Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds."
     Quran 5:111-115
 
     O you who have believed, be supporters of Allah, as when Jesus, the son of Mary, said to the disciples, "Who are my supporters for Allah?" The disciples said, "We are supporters of Allah." And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant.
     Quran 61:14
 
 In Hadith
-The following are Hadith (narrations originating from the words of Muhammad), collected by Muslim ibn al-Hajjaj Nishapuri, which indirectly emphasize Islamic beliefs concerning the disciples of Jesus:[6]
+The following are Hadith (narrations originating from the words of Muhammad), collected by Muslim ibn al-Hajjaj Nishapuri, which indirectly emphasize Islamic beliefs concerning the disciples of Jesus:
 
 It is narrated on the authority 'Abdullah b. Mas'ud that the Messenger of God observed: Never a Prophet had been sent before me by God towards his nation who had not among his people (his) disciples and companions who followed his ways and obeyed his command. Then there came after them their successors who said whatever they did not practise, and practised whatever they were not commanded to do. He who strove against them with his hand was a believer: he who strove against them with his tongue was a believer, and he who strove against them with his heart was a believer and beyond that there is no faith even to the extent of a mustard seed. Abu Rafi' said: I narrated this hadith to 'Abdullah b. 'Umar; he contradicted me. There happened to come 'Abdullah b. Mas'ud who stayed at Qanat, and 'Abdullah b 'Umar wanted me to accompany him for visiting him (as 'Abdullah b. Mas'ud was ailing), so I went along with him and as we sat (before him) I asked Ibn Mas'ud about this hadith. He narrated it in the same way as I narrated it to Ibn 'Umar. The same hadith has been transmitted by another chain of narrators on the authority of 'Abdullah b. Mas'ud who observed: Never was there one among the prophets who had had not disciples who followed his direction and followed his ways. The remaining part of the hadith is like that as narrated by Salih but the arrival of Ibn Mas'ud and the meeting of Ibn 'Umar with him is not mentioned.
 
 — Sahih Muslim
 Death
-Main article: Islamic view of Jesus' death
+
 The primary quranic verse dealing with the event of the crucifixion is Surah 4 Verse 157:
 
     That they said (in boast), "We killed the Messiah Jesus the son of Mary, the Messenger of The God'; but they killed him not, nor crucified him, but so it was made to appear to them, and those who differ therein are full of doubts, with no (certain) knowledge, but only conjecture to follow, for of a surety they killed him not.
@@ -2322,7 +2327,7 @@ The return of Jesus is preceded in both religions by signs, again similar in gen
 <details>
 <summary> 
 
-## Christianity before Nicean Creed
+## <b>325</b>: Christianity before Nicean Creed 
 
 </summary>
 
@@ -2548,10 +2553,10 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 
 </details>
 
-# 9. History of Islam
+# 9. History of Islam ☪
 *******************************************
 
-# 9.1. Prophet Muhammad ﷺ   
+# 9.1. Prophet Muhammadﷺ   
 
 <details>
   <summary>Short Summary</summary>
@@ -2732,7 +2737,7 @@ Some of he sahaba have said that if Zayd was alive when the prophet  ﷺ    died
 </details>
 
 
-### Iqra: First Revelation ☪
+### Iqra: First Revelation 📗
 
 <details>
 <summary>
@@ -2951,7 +2956,7 @@ There were different opinions until Naysean Creed where Constantine decided that
 <details>
 <summary>
 
-## Isra 'Al-Miraj 
+## Isra 'Al-Miraj ✨
 
 </summary>
 
@@ -3006,7 +3011,11 @@ Celebration of the prophet's  ﷺ    birthday started 600 years after his death.
 </details>
 
 <details>
-<summary>Death of Hadijah and Abu Talib </summary>
+<summary>
+
+## Death of Hadijah and Abu Talib 
+
+</summary>
 
 It was less than six months after the end of this trial when Abu Talib passed away. Then the Prophet's wife Lady Khadijah also died only three days after Abu Talib according to some accounts. The Messenger of Allah was very saddened and named this year the 'Year of Sorrow'.
 
@@ -3034,7 +3043,10 @@ He said: One of the callers of the jinn came to me so I went out to meet with th
 ### Hijrah
 
 <details>
-<summary><b>622</b>: Young pilgrims invite the prophet Muhammad ﷺ   to Yathrib.
+<summary>
+
+## <b>622</b>: Young pilgrims invite the prophet Muhammad ﷺ   to Yathrib.
+
 </summary>
 
 </br>
@@ -3046,7 +3058,11 @@ Yathrib at that time have just started recovering after interglabe wars. Many co
 </details>
  
 <details>
-<summary><b>621</b>:  70 families move to Yathrib  </summary>
+<summary>
+
+## <b>621</b>:  70 families move to Yathrib  
+
+</summary>
 
 Suhaib al-Rumi. He was taken as a slave by Byzantine soldiers as a young boy, and 20 ears he lived in Byzantine lands as a slave speaking Greek and forgot Arabic. He escaped from bondage and headed to Mecca. Abdullah ibm Judan took him as mawliya he engaged in trade and became rich. He was not tortuted very harshly. Before hijra to MEdina the Quraish tried to stop him but he threatened them with arrows. 
 
@@ -3060,13 +3076,17 @@ In 622 CE, due to the safety offered by Yathrib (later renamed Medīnat an-Nabī
 
 </details>
 <details>
-<summary><b>622</b>: Assasination Attempt and Hijra</summary>
+<summary>
+
+##<b>622</b>: Assasination Attempt and Hijra
+
+</summary>
 
 Muslims believe Muhammad waited until he received divine direction to depart from Mecca. In anticipation of receiving this direction, Muhammad began making preparations and informed Abu Bakr. On the night of his departure, Muhammad's house was besieged by men of the Quraysh, who had seen large numbers of the Muslims leave the city and had planned to kill him as soon as he left. Muhammad, who was renowned for his trustworthiness, owned various properties of members the Quraysh entrusted to him and he asked Ali to stay behind to return them and to fulfill his obligations on his behalf. Muhammad asked Ali to wear his cloak and to lie down on his bed assuring him of God's protection. Ali had worn Muhammad's cloak, leading the assassins to think Muhammad had not yet departed. Ali risked his life by staying in Mecca but ultimately survived the plot. He would later leave for Medina with his mother, Fatima bint Asad, Muhammed's daughters Fatimah and Umm Kulthum, as well as two other women, Muhammad's wife Sawda and wetnurse Umm Ayman.
 
 Muhammad and Abu Bakr left the city and took shelter in a cave atop the Thawr mountain south of Mecca before continuing their journey to elude the Quraysh party pursuing them led by Suraqa bin Malik. They stayed in the cave for three days before resuming their journey. During the journey, whenever Suraqa neared Muhammad and Abu Bakr, Suraqa's horse stumbled until he finally gave up on the desire of capturing Muhammad. Muhammad and Abu Bakr turned to the Red Sea, following the coastline up to Medina, arriving at Quba'. He stopped at Quba' and established a mosque there. He waited there for fourteen days for Ali and his family to join him. Thereafter he continued to Medina, participated in their first Friday prayer on the way. Upon reaching the city, they were greeted cordially by its people.
 
-Because of assassination attempts from the Quraysh, and prospect of success in Yathrib, a city 320 km (200 mi) north of Mecca, Muhammad emigrated there in 622 CE. According to Muslim tradition, after receiving divine direction to depart Mecca, Muhammad began taking preparation and informed Abu Bakr of his plan. On the night of his departure, Muhammad's house was besieged by men of the Quraysh who planned to kill him in the morning. At the time, Muhammad possessed various properties of the Quraysh given to him in trust; so he handed them over to 'Ali and directed him to return them to their owners. It is said that when Muhammad emerged from his house, he recited the ninth verse of surah Ya Sin of the Quran and threw a handful of dust at the direction of the besiegers, rendering the besiegers unable to see him. After eight days' journey, Muhammad entered the outskirts of Medina on 28 June 622,[95] but did not enter the city directly. He stopped at a place called Quba', a place some miles from the main city, and established a mosque there. On 2 July 622, he entered the city. Yathrib was soon renamed Madinat an-Nabi (Arabic: مَدينة النّبي, literally "City of the Prophet"), but an-Nabi was soon dropped, so its name is "Medina", meaning "the city".
+Because of assassination attempts from the Quraysh, and prospect of success in Yathrib, a city 320 km (200 mi) north of Mecca, Muhammad emigrated there in 622 CE. According to Muslim tradition, after receiving divine direction to depart Mecca, Muhammad began taking preparation and informed Abu Bakr of his plan. On the night of his departure, Muhammad's house was besieged by men of the Quraysh who planned to kill him in the morning. At the time, Muhammad possessed various properties of the Quraysh given to him in trust; so he handed them over to 'Ali and directed him to return them to their owners. It is said that when Muhammad emerged from his house, he recited the ninth verse of surah Ya Sin of the Quran and threw a handful of dust at the direction of the besiegers, rendering the besiegers unable to see him. After eight days' journey, Muhammad entered the outskirts of Medina on 28 June 622, but did not enter the city directly. He stopped at a place called Quba', a place some miles from the main city, and established a mosque there. On 2 July 622, he entered the city. Yathrib was soon renamed Madinat an-Nabi (Arabic: مَدينة النّبي, literally "City of the Prophet"), but an-Nabi was soon dropped, so its name is "Medina", meaning "the city".
 
 At the time of the rule of the second righteous khalif Umar ibn Al Khattab, the year of Hijrah was established as the beginning of the Muslim era and as the first year of the Islamic calendar. 
 
@@ -3075,7 +3095,11 @@ At the time of the rule of the second righteous khalif Umar ibn Al Khattab, the 
 ### Medina Period 🕌
 
 <details>
-  <summary>Constitution of Medina</summary>
+  <summary>
+
+## Constitution of Medina
+
+</summary>
 
 After the arrival of Muhammad in Medina, its people could be divided into four groups:
 - The Muslims: emigrants from Mecca and Ansars of Medina.
@@ -3087,7 +3111,11 @@ In order to establish peaceful coexistence among this heterogeneous population, 
 </details>
 
 <details>
-<summary>Construction of first mosques</summary>
+<summary>
+
+## Construction of first mosques
+
+</summary>
 The oldest mosque ever built was the Masjid al-Quba. Quba used to be a village not far from Medina.It was built right after hijra, which is the emigration of the Prophet Muhammad and his followers to the city of Medina in 622 CE. The Prophet and his companions helped building it.
 
 Al-Masjid an-Nabawi, known in English as The Prophet's Mosque, is a mosque built by the Islamic prophet Muhammad in the city of Medina in the Al Madinah Province of Saudi Arabia. It was the second mosque built by Muhammad in Medina, after Masjid Quba', and is the second largest mosque and second holiest site in Islam, both titles ranking after the Masjid al-Haram in Mecca
@@ -3099,7 +3127,11 @@ Bilal who was tortured by Meccans, who was dragged in chains along the streets o
 </details>
 
 <details>
-<summary>624 ⚔️ Battle of Badr</summary>
+<summary>
+
+## <b>624</b> ⚔️ Battle of Badr
+
+</summary>
 
 Causes of and preparation for fighting
 Following the emigration, the Meccans seized the properties of the Muslim emigrants in Mecca. The Quraysh leaders of Mecca persecuted the newly converted Muslims there, and they migrated to Medina to avoid persecution, abandoning their properties. Muhammad and the Muslims found themselves in a more precarious situation in Medina than in Mecca. Besides the ultimatum of the Quraysh they had to confront the designs of the hypocrites, and had to be wary of the pagans and Jews also. The trading caravans of Quraysh, whose usual route was from Mecca to Syria, used to set the neighboring tribes of Medina against the Muslims, which posed a great danger to the security of Muslims of Medina given that war was common at that time. In view of all this, the Quran granted permission to the persecuted Muslims to defend themselves: 
@@ -3127,8 +3159,11 @@ The Quraysh with all its leading personalities except Abu Lahab marched with a h
 </details>
 
 <details>
-<summary>624 Change of Qibla to Kaaba</summary>
-624 which year was the change of qiblah: 
+<summary>
+
+## 624 Change of Qibla to Kaaba
+
+</summary>
     
     "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). 
 
@@ -3136,7 +3171,11 @@ The prophet Muhammad  ﷺ    was calling himself the follower of the religion of
 </details>
 
 <details>
-<summary>625 ⚔️ Battle of Uhud</summary>
+<summary>
+
+## 625 ⚔️ Battle of Uhud
+
+</summary>
 
 The Battle of Uhud (غَزْوَة أُحُد,) was fought on Saturday, 23 March 625 AD (7 Shawwal, 3 AH), in the valley north of Mount Uhud. The Qurayshi Meccans, led by Abu Sufyan ibn Harb, commanded an army of 3,000 men toward Muhammad's stronghold in Medina. The battle was the only battle throughout the Muslim–Quraysh War in which the Muslims did not manage to defeat their enemy and it came just a year after the Battle of Badr.
 
@@ -3147,7 +3186,11 @@ Although outnumbered, the Muslims gained the early initiative and forced the Mec
 </details>
 
 <details>
-<summary>627 ⚔️ Battle of Trench</summary>
+<summary>
+
+## <b>627</b> ⚔️ Battle of Trench
+
+</summary>
 
 The Battle of the Trench (Ghazwat al-Khandaq), also known as the Battle of Khandaq (معركة الخندق, ) and the Battle of the Confederates, was a 27-day-long defense by Muslims of Yathrib (now Medina) from Arab and Jewish tribes. The strength of the confederate armies is estimated at around 10,000 men with six hundred horses and some camels, while the Medinan defenders numbered 3,000.
 
@@ -3165,11 +3208,15 @@ Following the retreat of the Confederate army, the Banu Qurayza neighborhoods we
 </details>
 
 <details>
-<summary>Abu Dharr Al-Ghifari comes to Medina with all his tribe</summary>
+<summary>
 
->Abu Dharr comes to the prophet Muhammad  ﷺ    in early years of preaching in Mecca. The prophet Muhammad  ﷺ    sends him back to his tribe to preach and wait for the news of the victory of Islam. 
+## Abu Dharr Al-Ghifari comes to Medina with all his tribe
+
+</summary>
+
+>Abu Dharr comes to the prophet Muhammadﷺ    in early years of preaching in Mecca. The prophet Muhammadﷺ    sends him back to his tribe to preach and wait for the news of the victory of Islam. 
 >One day a tribe of horses and camels rush to Medina and people are scared because they think an army is coming to attack muslims.
->Abu Dharr says: "Oh Messenger of Allah, here is every single one of the Al Ghifarr." and the prophet Muhammad  ﷺ    replies: "May Allah forgive the entirety of Ghifarr."
+>Abu Dharr says: "Oh Messenger of Allah, here is every single one of the Al Ghifarr." and the prophet Muhammadﷺ    replies: "May Allah forgive the entirety of Ghifarr."
 
 As the hadith says: "If anybody wants to see the abstinent from the dunya of Eesa (as), then he shoul look at Abu Dharr al-Ghifari.
 
@@ -3181,7 +3228,11 @@ According to some narrations, Abu Dharr was the fifth person to embrase Islam.
 </details>
 
 <details>
-<summary>628 Treaty of Hudaybiyyah</summary>
+<summary>
+
+## <b>628</b>: Treaty of Hudaybiyyah
+
+</summary>
 
 A peace agreement is signed between Muhammad's Muslims and the people of Mecca.
 
@@ -3209,17 +3260,29 @@ A verse of the Quran was revealed about the treaty, which means, "Verily we have
 </details>
 
 <details>
-<summary>628-629 Sending letters, Khaybar</summary>
+<summary>
+
+## <b>628-629</b>: Letters to Kings, Conquest of Khaybar
+
+</summary>
 
 Around the end of the 6 AH and the beginning of the 7 AH (628 CE), Muhammad ﷺ   sent letters to various heads of state asking them to accept Islam and to worship only one God. Notable among them were Heraclius, the emperor of Byzantium; Khosrau II, the emperor of Persia; the Negus of Ethiopia; Muqawqis, the ruler of Egypt; Harith Gassani, the governor of Syria; and Munzir ibn Sawa, the ruler of Bahrain. In the 6 AH, Khalid ibn al-Walid accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
 </details>
 
 <details>
-<summary>Umrah of the prophet Muhammad ﷺ   </summary>
+<summary>
+
+## Umrah of the prophet Muhammadﷺ   
+
+</summary>
 </details>
 
 <details>
-<summary>630 Mecca becomes Muslim</summary>
+<summary>
+
+## **630**: Mecca becomes Muslim
+
+</summary>
 
 In 629 CE, The Banu Bakr tribe, an ally of Quraysh, attacked the Muslims' ally tribe Banu Khuza'a, and killed several of them. The Quraysh openly helped Banu Bakr in their attack, which in return, violated the terms of the Treaty of Hudaybiyyah. Of the three options now advanced by Muhammad, they decided to cancel the Treaty of Hudaybiyyah. Muhammad started taking preparation for Mecca campaign. 
 
@@ -3237,7 +3300,10 @@ He then destroyed the idols – placed in and around the Kaaba – reciting the 
 
 </details>
 
-<details><summary>Conquest of Arabia 
+<details><summary>
+
+## Conquest of Arabia 
+
 </summary>
 
 Soon after the Mecca conquest, the Banu Hawazin tribe together with the Banu Thaqif tribe gathered a large army, under the leadership of Malik Ibn 'Awf, to attack the Muslims. At this, the Muslim force, which included the newly converts of Mecca, went forward under the leadership of Muhammad, and the two armies met at the valley of Hunayn. Though at first disarrayed at the sudden attack of Hawazin, the Muslim force recollected mainly at the effort of Muhammad, and ultimately defeated the Hawazin. The latter was pursued at various directions. After Malik bin 'Awf along with his men took shelter in the fort of Ta'if, the Muslim army besieged it which however yielded no significant result, compelling them to return Medina. Meanwhile, some newly converts from the Hawazin tribe came to Muhammad and made a plea to release their women and children who had been captivated from the battlefield of Hunayn. Their request was granted by the Muslims.
@@ -3250,7 +3316,11 @@ After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy 
 ### Last Years of The Prophet Muhammadﷺ  
 
 <details>
-<summary>Farewell Hajj Pilgrimage</summary>
+<summary>
+
+## **632**: Farewell Hajj Pilgrimage
+
+</summary>
 
 This is the only Hajj pilgrimage in which prophet Muhammadﷺ    participates.
 
@@ -3260,7 +3330,11 @@ Next year, In 632 CE, Muhammad performed hajj and taught Muslims first-hand the 
 </details>
 
 <details>
-<summary>632 Death of Prophet Muhammadﷺ   </summary>
+<summary>
+
+## **632**: Death of Prophet Muhammadﷺ   
+
+</summary>
 
 Soon after his return from the pilgrimage, Muhammad fell ill and suffered for several days with fever, head pain, and weakness. He was confined to bed by Abu Bakr. During his illness, he appointed Abu Bakr to lead the prayers in the mosque. He ordered to donate the last remaining coins in his house as charity. He died on June 8 632, in Medina, at the age of 62 or 63, in the house of his wife Aisha.
 
@@ -3279,7 +3353,11 @@ Soon after his return from the pilgrimage, Muhammad fell ill and suffered for se
 <img src="/early_islamic_expansion.png" alt="Early Expansion"> -->
 
 <details>
-<summary>Abu Bakr (632-634)</summary>
+<summary>
+
+## **632-634**: Abu Bakr 
+
+</summary>
 
 After Prophet Muhammadﷺ   died, Abu Bakr is elected as his khalifah (representative).
 
@@ -3338,7 +3416,11 @@ Abu Bakr was aware of Umar's power and ability to succeed him. His was perhaps o
 
 
 <details>
-<summary>Umar ibn al-Khattab (634-644)</summary>
+<summary>
+
+## **634-644**: Umar ibn al-Khattab
+
+</summary>
 
 * The Muslim armies conquer Iraq, Syria and Egypt.
 * Khaled ibn al-Waalid
@@ -3432,7 +3514,11 @@ Historians estimate more than 4,050 cities were conquered during the reign of Um
 Prior to his death in 644, Umar had ceased all military expeditions apparently to consolidate his rule in recently conquered Roman Egypt and the newly conquered Sassanid Empire (642–644). At his death in November 644, his rule extended from present day Libya in the west to the Indus river in the east and the Oxus river in the north.
 
 <details>
-  <summary>Khalid ibn al-Walid</summary>
+  <summary>
+
+### Khalid ibn al-Walid
+
+</summary>
 
 Khalid ibn al-Walid ibn al-Mughira al-Makhzumi (خالد بن الوليد بن المغيرة المخزومي, ; died 642) was an Arab Muslim commander in the service of the Islamic prophet Muhammad and the Rashidun caliphs Abu Bakr (r. 632–634) and Umar (r. 634–644). He played the leading military role in the Ridda wars against rebel tribes in Arabia in 632–633, the initial campaigns in Sasanian Iraq in 633–634 and the conquest of Byzantine Syria in 634–638.
 
@@ -3485,9 +3571,12 @@ Umar died on 3 November 644; on 7 November Uthman succeeded him as caliph.
 </details>
 
 
-
 <details>
-<summary>Uthman ibn Affan (644-656)</summary>
+<summary>
+
+## **644-656**: Uthman ibn Affan
+
+</summary>
 
 * 644-650 Muslims conquer Cyprus, Tripoli in North Africa and establish Muslim rule in Afghanistan and Sind.
 * 650 Uthman orders the establishment of one "true" Quran while destroying the others.
@@ -3555,9 +3644,12 @@ In June 656, a group of rebels climbed from the back of Uthman's house, crept in
 
 </details>
 
-
 <details>
-<summary>Ali ibn Abi Talib</summary>
+<summary>
+
+## **656-661**: Ali ibn Abi Talib
+
+</summary>
 
 * 656-660 The first fitnah. civil war ensues.
 * 656 The Battle of the Camel. Aisha, Talhah and Zubayr with the army meet Ali for not avenging Uthman's murder. They are defeated by Ali's partisans.
@@ -3590,44 +3682,144 @@ Ali opposed a centralized control over provincial revenues, favoring an equal di
 
 According to Heck, Ali also forbade Muslim fighters from looting and instead distributed the taxes as salaries among the warriors, in equal proportions. This might have been the first subject of the dispute between Ali and the group that later constituted the Kharijites. Since the majority of Ali's subjects were nomads and peasants, he was concerned with agriculture. In particular, he instructed his top general, Malik al-Ashtar, to pay more attention to land development than short-term taxation.
 
+#### Battle of the Camel
+
+
 </details>
 
 <details>
-<summary>Hasan</summary>
+<summary>
+
+## **661**: Hasan ibn Ali
+
+</summary>
+
+Hasan ibn Ali (حسن ابن علي, ; 625 – 2 April 670) was the eldest son of Ali and Fatima and a grandson of the Islamic prophet Muhammad. He briefly ruled as caliph from January 661 until August 661. He is considered the second Shia Imam, succeeding Ali and preceding his brother, Husayn. In Sunni Islam, Hasan is considered one of the greatest sahaba and part of Muhammad's family. Part of the ahl al-bayt and the ahl al-kisa, he participated in the event of Mubahala. Muhammad described Hasan and Husayn as "the masters of youth in Paradise".
+
+During the caliphate of Ali (r. 656–661), Hasan accompanied him in the military campaigns of the First Muslim Civil War. After Ali's assassination in 661, Hasan was subsequently acknowledged caliph in Kufa. His sovereignty was unrecognized by Syria's governor Mu'awiya I (r. 661–680), who led an army into Kufa to press the former for abdication. In response, Hasan sent a vanguard under Ubayd Allah ibn al-Abbas to block Mu'awiya's advance until he arrived with the main army. Meanwhile, Hasan was severely wounded in an abortive assassination attempt made by the Kharijites, a faction opposed to both Ali and Mu'awiya. This attack demoralized Hasan's army, and many deserted. On the other hand, Ubayd Allah and most of his troops defected after Mu'awiya bribed him. In August 661 (Rabi al-Thani 41 AH), Hasan signed a peace treaty with Mu'awiya on the basis that the latter should rule in compliance with the Quran and the sunna, a council appointed his successor, and his supporters received amnesty. Hasan retired from politics and abdicated in Medina where he eventually died either by a long-term illness or poisoning at the instigation of Mu'awiya, who wanted to install his son Yazid (r. 680–683), as his successor.
+
+Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying that he had intended to surrender from the beginning and fought half-heartedly. His supporters maintain that Hasan's abdication was inevitable after his soldiers mutinied, and he was motivated by the desire for unity and peace in the Muslim community; Muhammad reportedly predicted that Hasan would make peace among the Muslims. Another Sunni hadith (also attributed to Muhammad) predicted that the prophetic succession would endure for thirty years, which may have been interpreted by at least some early Sunni scholars as evidence that Hasan's caliphate was rightly-guided (rāshid).
 
 </details> 
 
 <details>
-<summary>Miracle of Early Islamic Expansion</summary>
+<summary>
+
+## Miracle of Early Islamic Expansion
+
+</summary>
 
 Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammadﷺ   died, Arabs conquered both of these empires.
 
-They did not have buildings, they did not even have a government. They were never united. by modern historic scholars considers this as the same if modern Escimoes conquerred Russia and USA.
+They did not have buildings, they did not even have a government. They were never united. by modern historic scholars considers this as the same if Escimoes of 2000's conquerred Russia and USA.
 
 </details> 
 
-# 9.3 The Islamic Golden Age
+# 9.3 Fitnah (Civil Conflict) and years before Golden Age
 *******************************************
-  <details>
-    <summary>Umayyad Dinasty Era </summary>
+<details>
+    <summary>
+
+## Umayyad Dinasty Era 
+
+</summary>
  
-  Muawiyyah (661-680)
+  661-680 Khalifate of Muawiyyah
   * Capital is moved from Medina to Damascus
   * Death of Hasan ibn Ali in Medina
-  * Science and Medicine
- 
+  * Development of Science and Medicine
+  </details>
  Yazid I
   * Muawiyyah I dies
   * 680-92 The Second fitnah
-  * 680 Battle of Karbala. Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
+
+<details>
+<summary>
+
+## 680 Battle of Karbala
+
+</summary>
+
+Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
+</details>
+
   * Murder of Huseyn and his family.
+
+<details>
+<summary>
+
+## Division of Muslims to Sunni and Shia
+
+</summary>
+</details>
+  
+<details>
+<summary>
+
+## **680**: Abu Huraira 🐈 dies (603-680)
+
+</summary>
+
+Abdur-Rahman ibn Sakhr Al-Dawsri Al-Zahrani (عبد الرحمن بن صخر الدوسري‎; c. 603 – 680), better known as Abu Hurayrah 🐈 (or Hurairah 🐈; Arabic: أبو هريرة, translates to the father of the kitten 🐈), was one of the companions of Islamic prophet Muhammad and, according to Sunni Islam, the most prolific narrator of hadith.
+
+He was known by the kunyah Abu Hurayrah 🐈 "Father of a Kitten", in reference to his attachment to cats 🐈🐈, and he was a member of Suffah. Later during caliphate era, Abu Hurairah 🐈 served as Ulama teacher, governor, soldier, and Hadith auditor. Among his other epithets is ذو الوينسين or "Possessor of the Two Elbows", as his own narrations claim Prophet Muhammad praised him for his sturdy elbows and righteous character.
+
+    "I was called Abu Hurairah 🐈 because I would tend to the goats of my family, and one day I found a stray kitten 🐈 which I placed in my sleeve. When I returned to my people they heard the kitten purr 🐈 in my sleeve and they asked, "What is that, O 'Abd Shams?" I replied, "A kitten I found 🐈." "So you are Abu Hurairah 🐈 (Father of cats 🐈)," they responded and the name stuck thereafter."
+
+Abu Hurairah 🐈 acknowledged by Muslim scholars for his extraordinary photographic memory which allowed him to memorize massive numbers of over 5,000 hadiths which later produced more than 500,000 chain narrations, or Isnad which make Abu Hurairah 🐈 an exemplar role model for Hadith studies scholars. It is said by Abu Hurairah 🐈 himself the only one who surpassed him regarding hadith were Abd Allah ibn Amr ibn al-As, another companion who serve as writer assistant of Muhammad and author of "Al-Sahifah al-Sadiqah", the first Hadith book in history.
+
+Abu Hurairah 🐈 hadiths has been used by most, if not all scholars of Islam across the ages for Islamic learning about Aqidah, Islamic eschatology, Tafsir, Fiqh, Biographical evaluation, Prophetic biography, and Fatwa verdicts.
+
+According to al-Dhahabi, Abu Hurairah 🐈 hailed from the Arab tribe of Zahran of the prominent clan of Banu Daws and was born in the region of Al-Baha which was in Asir at that time. It is unclear as to what his real name is, the most popular opinion being that it was 'Abd al-Raḥmān ibn Ṣakhr (عبد الرحمن بن صخر).
+
+#### Life as Muslim
+
+Abu Hurairah 🐈 embraced Islam through Tufayl ibn Amr, the chieftain of his tribe, as Tufayl had returned to his village after meeting Muhammad and became a Muslim in the early years of his mission. Abu Hurairah was one of the first to respond to his call, unlike the majority of Tufayl's tribesmen, who embraced Islam later. Abu Hurairah 🐈 accompanied Tufayl to Mecca to meet Muhammad who renamed him Abd al-Rahman ("servant of the Merciful") from Abd al Sham, or some said Abd al Ghanm.
+
+During his early years embracing Islam in Medina, Abu Hurairah 🐈 became disciple of Suffah. Abu Hurayrah 🐈 spent 2 years 3 months approximately in the company of Muhammad and went on expeditions and journeys with him. However, according to Safiur Rahman Mubarakpuri in his The Sealed Nectar, the Dhat ar-Riqa' campaign took place after the fall of Khaybar and not as part of the invasion of the Najd. This is supported by the fact that Abu Hurairah 🐈 and Abu Musa al-Ash'ari witnessed the battle as Abu Hurairah embraced Islam only some days before Khaybar, and Abu Musa Al-Ash'ari came back from Abyssinia and joined Muhammad at Khaybar. The rules relating to the prayer of fear which Muhammad observed at Dhat Ar-Riqa' campaign, were revealed at the Invasion of the 'Asfan and this, scholars such as al-Dhahabi, has recorded the invasion were took place after the Battle of the Trench, which nodded by Mubarakpuri. Nevertheless, consensus of Muslim historians has placed that Abu Hurairah 🐈 came into historical record after the battle of khaybar. Then he afterwards participated in battle of Mu'tah, conquest of Mecca, battle of Hunayn, and Expedition of Tabuk.
+
+Abu Hurairah 🐈 were recorded has participated during the Expedition of Dhat al-Riqa'which took place in the Najd, a large area of tableland in the Arabian Peninsula in Rabi' al-Thani or Jumada al-awwal, 4 AH (or the beginning of 5 AH), as Muhammad received the news that certain tribes of the Ghatafan were assembling at Dhat al-Riqa' with suspicious purposes. The Muslim fighters penetrated deep into their land until they reached a spot called Nakhla, where they came across some bedouins of Ghatafan.
+
+Later, Abu Hurairah 🐈 were sent as Muezzin to al-Ala al-Hadhrami. And Muhammad entrusted him with some works such as preserving Ramadan zakat funds.
+
+
+</details>
+
   * Muawiya II
   * Marwan I - cousin of Uthman
-  * Abd al-Malik
-  * Somewher here Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations).
-  * his student ibn Hisham shortens his seerah.
+  * 685-705: Khalifate of Abd al-Malik, who manages to restore Umayyad rule. 
+  * 691: The Dome of the Rock is completed in Jerusalem. Building of the Al-Aqsa mosque.
+  * 705-715: Khalifate of al-Walid
+  * 717-720: Khalifate of Umar II
+  * 720-724: Khalifate of Yazid II
+  * 724-743: Khalifate of Hisham I
+  * 642-728: Hasan al-Basri, hadith scholar, religious reformer and ascetic.
+  * 
+<details>
+<summary>
 
-  </details>
+## **732**: Abu Hanifa pioneers the study of fiqh
+
+</summary>
+
+Abū Ḥanīfa al-Nuʿmān ibn Thābit b. Zūṭā ibn Marzubān ( أبو حنيفة نعمان بن ثابت بن زوطا بن مرزبان; c. 699 – 767 CE), known as Abū Ḥanīfa for short, or reverently as Imam Abū Ḥanīfa by Sunni Muslims, was an 8th-century Sunni Muslim theologian and jurist of Persian origin, who became the eponymous founder of the Hanafi school of Sunni jurisprudence, which has remained the most widely practiced law school in the Sunni tradition, predominates in Central Asia, Afghanistan, Persia (until the 16th century), Balkans, Russia, Chechnya, Pakistan, Bangladesh, Muslims in India, Turkey, and some parts of the Arab world.
+
+Some followers call him al-Imām al-Aʿẓam ("The Greatest Imam") and Sirāj al-aʾimma ("The Lamp of the Imams") in Sunni Islam.
+
+Born to a Muslim family in Kufa, Abu Hanifa is known to have travelled to the Hejaz region of Arabia in his youth, where he studied in Mecca and Medina. As his career as a theologian and jurist progressed, Abu Hanifa became known for favoring the use of reason in his legal rulings (faqīh dhū raʾy) and even in his theology. Abu Hanifa's theological school is claimed to be what would later develop into the Maturidi school of Sunni theology.
+</details>
+
+<details>
+<summary>
+
+## **732**: Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations)
+
+</summary>
+</details>
+  * Muhammad ibn Iskhak's student ibn Hisham shortens the seerah of the prophet Muhammad.
+
+# 9.4 The Islamic Golden Age
+*******************************************
 
   <details>
     <summary>Development</summary>

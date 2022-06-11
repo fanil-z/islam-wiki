@@ -10,18 +10,27 @@ Concept
 ## Description
 
 
-In my current workplace, I heard about a static HTML generator Hugo. 
+Hello everyone and assalamu aleikum,
+
+In my current workplace, I learned about a static HTML generator Hugo. 
 
 It's open source, flexible, has a large number of themes including themes for user manuals and API references.
-While trying to tune the CSS, it made me kind of start loving front-end and I learned how to implement the dark mode along the way.
 
-I started wrapping up my notes about Islam to a static website.
-When I only started learning about Biblical and Islamic prophets, I had a hard time trying to figure out the historical order of the stories from ancient books. I had nub questions like 'Was Solomon before Exodus with Moses?' or 'When Soddom and Gomorra happened?'. That's why the main idea was to gather stories of all prophets mentioned in the Quran and hadith in one page and sort them according a historical timeline. 
+In order to get some Hugo and CSS practice, I started wrapping up my notes about Islam into a static website and got carried away.
+When I only started learning about Biblical and Islamic prophets, I had a hard time trying to figure out the historical order of the stories from ancient books. After several years of googling nub questions like 'Was Solomon before Moses?' or 'When Soddom and Gomorra happened?' my notes and tables started to grow. That's why the main idea was to gather stories of all prophets mentioned in the Quran and hadith in one page and sort them according to a historical timeline.
+Another aspect that always bothers me in large documentation samples is that it is not so easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of history TOC can actually kind of give you a short description of what happened. Trying to combine the helicopter view and large portions of text, I've used the standard <details><sumamry> tags so that the details about a historic event appears when you click on the topic.
+
+
+
+
+While trying to tune the CSS, it made me kind of start loving front-end and I learned how to implement the dark mode along the way.
+There are still tonnes of bugs and I quickly realized that my sense of beauty is not enough to fix all CSS issues.
+
 
 1. Markdown: the content is written in Markdown files + with some HTML additions.
 2. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
 3. Hugo: a static web-site generator builds a static HTML/CSS/JS website using MD files as a source.
-	- Hyas: I used Hyas to have a good-looking, neat layout. 
+	- Hyas: I used Hyas to have a good-looking, neat bootstrap layout. 
 		- Hyas depends on Node.js. I installed it on my laptop.
 		  Node.js is easy to install on Linux and probably Mac. On Windows, you will also need Chocolatey.
 	- Doks theme
@@ -30,18 +39,25 @@ When I only started learning about Biblical and Islamic prophets, I had a hard t
 		- Hugo is super-flexible and has a large amount of useful features but at the beginning it was hard to navigate through all the functionality and figure out which exactly config files I had to change. Hugo documentation is helpful here.
 4. Render or Netlify: static web-files are hosted in Render. up to 100GB is free.
 Generated website is uploaded to a production GitLab repo; Render checks if there is an update in the repo and automatically updates the content.
-5. I bought a domain here:
+5. I bought the domain here:
 6. Scripting. Wrote a basic bash script that pushed latest changes in the source, triggers Hugo to generate the website and pushes to production. Yes, I test on production.
 
-Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup.
+Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup. I wouldn't recommend Hyas/Doks, there are much simpler themes of Hugo that can be configured in 5 min.
 
-gathered from various web resources and my notes on Yasir Qadhi's lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info (actually lot of it) is taken from Wikipedia, which is always helpful and well-structured. I tried to remove the parts about prophets that are not mentioned in The Quran or authentic hadiths. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state.
+gathered from various web resources:
+Islam: A Short History by Karen Armstrong who is a famous historian and a Christian nun.
+my notes on Yasir Qadhi's lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info (actually lot of it) is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them a little, remove the parts that are not mentioned in The Quran or authentic hadiths. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state.
 
-Probably I won't be able to finish the web layout if the content was not about Islam.
+Please use the Send feedback button if the order is not correct or if you find something conradicting the Quran or authentic hadith.
 
+Probably I won't be able to finish the whole thing if the content was not about Islam that is exciting to explore. However the most painful part was to gather information on the First Fitnah and how the era of righteous khalifs came to an end after assassination of Ali. Even though the Golden Age of Islam starts right after, for me it is the saddest periods of Islamic history, when we can say that the original ummah of the Prophet Muhammad ceased to exist. May Allah forgive us and guide us to the right path.
 
-Mediawiki is a great invention that led to so many further projects and it is really cool but I personally think that it is too complicated. After realizing that you can do so many things without a web server but just with HTML, CSS and Javascript, I really started to like the simplicity of what's happening behind the building and hosting process.
-Well, maybe the fact that I know very little about building a web server plays an significant role here as well.
+I also had to spend additional time adding a cat 🐈 every time the name of noble Abu Huraira comes up because, verily, Abu Huraira that stands for "Father of a kitten" in Arabic truly deserves it.
+
+Mediawiki is a great invention that led to so many further projects and it is really cool but I personally think that it is too complicated. After realizing that you can do so many things without a web server but just with HTML, CSS and JavaScript, I really started to like the simplicity of what's happening behind the building and hosting process.
+Well, maybe the fact that I know very little about building a web server plays a significant role here as well.
+
+I really need to finish the Eschatonian part, for now it's hard to figure out the order of events in the signs of Day of Judgement and Al Qiyamah itself.
 
 
 https://miro.com/app/board/o9J_kqBzhXk=/
