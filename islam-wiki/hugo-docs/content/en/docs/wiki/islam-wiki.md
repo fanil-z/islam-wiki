@@ -3787,13 +3787,15 @@ Later, Abu Hurairah 🐈 were sent as Muezzin to al-Ala al-Hadhrami. And Muhamma
 
   * Muawiya II
   * Marwan I - cousin of Uthman
-  * 685-705: Khalifate of Abd al-Malik, who manages to restore Umayyad rule. 
+  * 685-705: Califate of Abd al-Malik, who manages to restore Umayyad rule. 
   * 691: The Dome of the Rock is completed in Jerusalem. Building of the Al-Aqsa mosque.
-  * 705-715: Khalifate of al-Walid
-  * 717-720: Khalifate of Umar II
-  * 720-724: Khalifate of Yazid II
-  * 724-743: Khalifate of Hisham I
+  * 705-715: Califate of al-Walid
+  * 717-720: Califate of Umar II
+  * 720-724: Califate of Yazid II
+  * 724-743: Califate of Hisham I
   * 642-728: Hasan al-Basri, hadith scholar, religious reformer and ascetic.
+  * 762 The foundation of Baghdad, which becomes the new Abbasid capital.
+  * 775-785: Califate of al-Maghdi. He encourages the development of fiqh, acknowledge the piety of the religious movement.
   * 
 <details>
 <summary>
@@ -3821,10 +3823,48 @@ Born to a Muslim family in Kufa, Abu Hanifa is known to have travelled to the He
 # 9.4 The Islamic Golden Age
 *******************************************
 
+<details>
+    <summary>Caliphate of Harun al-Rushdi</summary>
+A great cultural renaissance in Baghdad and other cities of the empire. Besides patronizing scholarship, science and arts, the caliph also encourages the study of fiqh and the anthologization of ahadith which will enable the formation of a coherent body of Islamic law (Shariah).  
+</details>
+
   <details>
-    <summary>Development</summary>
-I guess here we should write only about the science, medicine and development.
-  </details>
+    <summary>795: imam Al-Malik ibn Anas</summary>
+death of Malik ibn Anas, founder of the Maliki school of jurisprudence.  </details>
+
+<details>
+    <summary>Imam Al-Shafi'i (767-820)</summary>
+
+Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī ( أَبُو عَبْدِ ٱللهِ مُحَمَّدُ بْنُ إِدْرِيسَ ٱلشَّافِعِيُّ, 767–19 January 820 CE) was an Arab Muslim theologian, writer, and scholar, who was the first contributor of the principles of Islamic jurisprudence (Uṣūl al-fiqh). Often referred to as 'Shaykh al-Islām', al-Shāfi‘ī was one of the four great Sunni Imams, whose legacy on juridical matters and teaching eventually led to the formation of Shafi'i school of fiqh (or Madh'hab). He was the most prominent student of Imam Malik ibn Anas, and he also served as the Governor of Najar. Born in Gaza in Palestine (Jund Filastin), he also lived in Mecca and Medina in the Hejaz, Yemen, Egypt, and Baghdad in Iraq.
+
+</details>
+
+
+<details>
+    <summary>death of Rabiah</summary>
+first great woman mystic  </details>
+
+<details>
+    <summary>death of Ahmad ibn Hanbal</summary>
+a hero of the ahl al-hadith
+Hanbali school
+</details>
+
+
+  <details>
+    <summary>al-Tabari (839-923)</summary>
+Muhammad ibn Jarir ibn Yazid (Arabic: محمد ابن جرير ابن يزيد, romanized: Muḥammad ibn Jarīr ibn Yazīd; c. 839–923), more commonly known as al-Tabari (Arabic: الطبري, romanized: al-Ṭabarī), or alternatively as Abu Jafar (Arabic: أبو جعفر, romanized: Abū Jaʿfar), was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Qur'anic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine."
+
+His most influential and best known works are his Qur'anic commentary, known in Arabic as Tafsir al-Tabari, and his historical chronicle History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk), often referred to Tarikh al-Tabari.
+
+Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed his own interpretation of Islamic jurisprudence. His understanding of fiqh was both sophisticated and remarkably fluid and, as such, he continued to develop his ideas and thoughts on juristic matters right to the end of his life. Al-Tabari's school of thought (madhhab) flourished among Sunni ulama for two centuries after his death, before it eventually became extinct. It was usually designated by the name Jariri. </details>
+
+
+<details>
+    <summary>ibn Sina</summary>
+
+</details>
+
 
 # 10. Later History of Islamic Countries
 
@@ -3844,13 +3884,28 @@ Northern Crusades (1147–1410)
 Kalmar Wendish Swedish 1150 1249 1293 Livonian Prussian Lithuanian
 </details>
 
+972: fatimids build the madrasah of al-Azhar in Cairo
+
+990-1118 The Seljuk Empire
+
+<details>
+  <summary>1058-1111 Al-Ghazali</summary> 
+was a Persian polymath. He is known as one of the most prominent and influential philosophers, theologians, jurists, logicians and mystics of Islam.
+
+He is considered to be the 5th century's Mujaddid, a renewer of the faith, who, according to the prophetic hadith, appears once every 100 years to restore the faith of the Islamic Community. His works were so highly acclaimed by his contemporaries that al-Ghazali was awarded the honorific title "Proof of Islam" (Ḥujjat al-Islām).
+
+Al-Ghazali believed that the Islamic spiritual tradition had become moribund and that the spiritual sciences taught by the first generation of Muslims had been forgotten. This belief led him to write his magnum opus entitled Iḥyā’ ‘ulūm ad-dīn ("The Revival of the Religious Sciences"). Among his other works, the Tahāfut al-Falāsifa ("Incoherence of the Philosophers") is a landmark in the history of philosophy, as it advances the critique of Aristotelian science developed later in 14th-century Europe. 
+</details>
+
 <details>
   <summary><b>Golden Horde</b></summary> 
 ### 
 </details>
 <details>
   <summary><b>Ottoman Empire</b></summary> 
-### 
+
+Conquest of Constantinople
+
 </details>
 
 # 11. Current State of the Islamic World
@@ -4032,12 +4087,26 @@ https://www.youtube.com/watch?v=NrfWxzjXEyw
 <details>
 	<summary><b>What happens after The End</b></summary> 
 Allahu 'Alim.
+</details>
 
+<details>
+  <summary>
+    
 ### Barzakh
+
+  </summary> 
+
 
 People who died they end up in the Barzak. It is the world of souls where they wait for their resurrection and the Final Judjement.
 
+</details>
+
+<details>
+  <summary>
+    
 ### Israfil Blows the Trumpet the first time (Destruction)
+
+  </summary> 
 
 The Akhirat will start after Israfil blows the trumpet for the first time.
 There is a hadith that prophet Muhammad said, How can I ever relax when I know that Israfil is already holding the trumped in his mouth and looking at the Throne of Allah waiting for the signal to blow it.
@@ -4053,8 +4122,16 @@ On the other hand, a Hadeeth reads: “Then the Trumpet will be blown, and no on
 Wuran says that the veil will be removed and people will be able to see the unseen.
 sky will be opened.
 
+</details>
+
+
+<details>
+  <summary>
 
 #### The Earth is destroyed
+
+  </summary> 
+
 After the first blow the Destruction of everything on the Earth will start.
 
 #### Every Living Creature Dies
@@ -4075,9 +4152,15 @@ And then Allah SWT says Every single soul perishes. And only the Noble Face of Y
 
 Where are the ones with pride, the one with glory? 
 
-In another version, eight angels who carry the Throne of Allah die before the Angel of
+In another version, eight angels who carry the Throne of Allah die before the Angel of</details>
+
+
+<details>
+  <summary>
 
 ### Second blow of the trumpet (Resurrection of the Dead)
+
+  </summary> 
 
 The first resurrected creatures will the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
 The second blow will signal the resurrection from the dead all creatures that were once alive.
@@ -4085,9 +4168,17 @@ The second blow will signal the resurrection from the dead all creatures that we
 The Judgement will not start for a long time, maybe thousands of years. People will worry about their deeds all the time. and they will come to prophets asking them to intercede in front of Allah to start the Jidgement because they can no longer wait. They will come to Adam, but Adam will say "Nafsi, nafsi", meaning that he is worried about himself because he disobeyed Allah and ate from the Tree and Allah is so angry at this point as He has never been before.
 Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, nafsi.
 And finally they will come to the prophet Muhammad  ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad  ﷺ    will say "This is a job for me".
+</details>
 
+
+
+
+<details>
+  <summary>
 
 ### The Judgement
+
+</summary> 
 
 The Judgement will not begin until thousands of years people will wait. 
 
@@ -4125,10 +4216,9 @@ Whoever drinks from Kawthar will not feel thirst ever again.
 Then bridge of Qantarah to allow people complete their arguments. People will forgive each other. this will cause the delay because they didn forgive them in dunya.
 
 And we removed every grudge from their hearts. They will be brothers, reclining on thrones that Day, looking at one another.
-Quran 15:47
+Quran 15:47</details>
 
 
-</details>
 
 
 <details>
@@ -4164,5 +4254,7 @@ His Prophetic mission began on the 27th day of the month of Rajab, in the year 6
 
 There is a narration that Abi-Talib took the prophet  ﷺ    with him and the monk from the monastery told that this boy will be the prophet. This narration is not authentic and that story was most probably invented.
 Solitude of shepherd gives opportunity to contemplate on the nature and teaches how to rule. Also, sheep shepherds are the most humble shepherds.
+
+According to the Bible lifespan of people before THe Great Flood was much longer than after the flood.
 
 </details>
