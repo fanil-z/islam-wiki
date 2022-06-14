@@ -3866,14 +3866,92 @@ Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed h
 </details>
 
 
+Yaqub ibn Ishaq al-Kindi, the first of the Muslim Faylasuf
+
+historian Abu Jafar al-Tabari
+
+Hasan al Ashari
+
+Ibn Hazm, poet, vizier, theologian
+
+Abu Nasr al-Farabi, Faylasuf and court musician in Aleppo
+
+972: fatimids build the madrasah of al-Azhar in Cairo
+
+1037 death of Faylasuf ibn Sina (Avicenna)
+
+990-1118 The Seljuk Empire
+
+990 The Seljuk Turkish family from Central Asia convert to Islam.
+
+1065-1067 The Nizamiyyah madrasah is built in Baghdad
+
+<details>
+  <summary>1058-1111 Al-Ghazali</summary> 
+was a Persian polymath. He is known as one of the most prominent and influential philosophers, theologians, jurists, logicians and mystics of Islam.
+
+He is considered to be the 5th century's Mujaddid, a renewer of the faith, who, according to the prophetic hadith, appears once every 100 years to restore the faith of the Islamic Community. His works were so highly acclaimed by his contemporaries that al-Ghazali was awarded the honorific title "Proof of Islam" (Ḥujjat al-Islām).
+
+Al-Ghazali believed that the Islamic spiritual tradition had become moribund and that the spiritual sciences taught by the first generation of Muslims had been forgotten. This belief led him to write his magnum opus entitled Iḥyā’ ‘ulūm ad-dīn ("The Revival of the Religious Sciences"). Among his other works, the Tahāfut al-Falāsifa ("Incoherence of the Philosophers") is a landmark in the history of philosophy, as it advances the critique of Aristotelian science developed later in 14th-century Europe. 
+</details>
+
 # 10. Later History of Islamic Countries
 
 <details>
   <summary><b>Crusades</b></summary> 
 Proto-Crusades
 
+1095 Pope Urban II preaches the First Crusade
+
+1099 Crusaders conquer Jerusalem
+     Crusaders establish four Crusader states in Palestine, Anatolia and Syria
+
+1187 Saladin defeats the Crusaders and restores Jerusalem to Islam
+
+1198 Fylasuf ibn Rushd
+
+1205-87 Sultanate of Delhi
+
+1220-31 First Mongol raids with immense destruction of cities
+
+The Golden Horde mongols rule the lands north of Caspian and Black Sea and convert to Islam
+
+1240 Sufi philosopher Muid ad-Din Al-Arabi
+
+1258 Mongols destroy Baghdad
+
+1273 Jalal al-Din Rumi in Anatolia, founder of Whirling Dervishes
+
+1288 Uthman, a ghazi, on the Byzantine frontier, founds the Ottoman dynasty in Anatolia
+
+1328 Ahmad ibn Taymiyyah in Damascus
+
+1334-53 Yusuf, king of Granada in Spain, builds Alhambra
+
+1406 Faylasuf and historian ibn Khaldun
+
+1453 Mehmed II conquers Constantinople, henceforth known as Istanbul, and makes it the capital of the Ottoman Empire
+
+1492 The Muslim Kingdom of Granada is conquered by the Catholic monarchs
+
+1502-24 Ismail conquers Iran and establishes Shiism as the official religion
+
+1517 Ottomans conquer Egypt and Syria from the Mamluks
+
+1520-66 Suleiman "the Magnificent" ecpands the Ottoman Empire and develops its distinctive institutions.
+
+1529 The Ottomans besiege Vienna
+
+1552 The Russians conquer Kazan and Volzhsk Bulgaria
+
+1556 The Russians conquer Astrakhan
+
+
+
 SardiniaBarbastroMahdia
 In the Holy Land (1095–1291)
+
+
 
 First 1101 Norwegian Venetian 1129 Second Third 1197 Fourth Fifth Sixth Barons' Seventh 1267 Eighth Lord Edward's
 Later Crusades (post-1291)
@@ -3884,18 +3962,9 @@ Northern Crusades (1147–1410)
 Kalmar Wendish Swedish 1150 1249 1293 Livonian Prussian Lithuanian
 </details>
 
-972: fatimids build the madrasah of al-Azhar in Cairo
 
-990-1118 The Seljuk Empire
 
-<details>
-  <summary>1058-1111 Al-Ghazali</summary> 
-was a Persian polymath. He is known as one of the most prominent and influential philosophers, theologians, jurists, logicians and mystics of Islam.
 
-He is considered to be the 5th century's Mujaddid, a renewer of the faith, who, according to the prophetic hadith, appears once every 100 years to restore the faith of the Islamic Community. His works were so highly acclaimed by his contemporaries that al-Ghazali was awarded the honorific title "Proof of Islam" (Ḥujjat al-Islām).
-
-Al-Ghazali believed that the Islamic spiritual tradition had become moribund and that the spiritual sciences taught by the first generation of Muslims had been forgotten. This belief led him to write his magnum opus entitled Iḥyā’ ‘ulūm ad-dīn ("The Revival of the Religious Sciences"). Among his other works, the Tahāfut al-Falāsifa ("Incoherence of the Philosophers") is a landmark in the history of philosophy, as it advances the critique of Aristotelian science developed later in 14th-century Europe. 
-</details>
 
 <details>
   <summary><b>Golden Horde</b></summary> 
