@@ -171,11 +171,9 @@ Also, there is a hadith about **Munkar** and **Nakir**, two angels that question
 Jannah (Heaven) and Hell (Jahannam) were created before its future habitats. This means Hell and Heaven already exist now.
 
 According to the Quran and ahadith, Jahannam seem to be a living creature that breathes, roars and has a natural desire to punish the transgressors and disbelievers.
-
  
 Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 "Paradise and Hell have already been created. They will never come to an end or cease to exist. Allah (swt) created Paradise and Hell before the rest of creation, and He (swt) created inhabitants for each of them. Whoever He (swt) wishes (will enter) Paradise by His grace and mercy, and whoever He (swt) wishes (will enter Hell) as a result of His (swt) justice. Every person will behave according to that for which he was created, and his destiny will be that for which he was created; good deeds and evil deeds are foreordained for all men".
-
 
 >
 >Abu Hurairah [ra] narrated that the Messenger of Allah [ ﷺ   ] said:
@@ -198,7 +196,6 @@ Partly From the narration of Malik ibn Dinar and hiw daughter who hushed away th
 for example, there is also a hadith that says each dhikr is a real seed of your tree in Jannah. 
 
 Every person is only getting the result of what he has done in this dunya. His own punishment is build from his sins which with the design of Allah obtained a certain form in Jahannam. Jahannam is designed in a way that collects all your sins and 
-
 
 ### Reality of Jahannam
 
@@ -225,34 +222,31 @@ The Quran describes paradise as a garden with flowing water, rising from springs
 
 Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompanied by any children that did not go to Jahannam (Q52:21), and attended to by servant-boys with the spotless appearance similar to a protected pearls (Q52:24). The Believers Men will get untouched (Q55:56) virgin companions of equal age (56:35-38) and have large, beautiful eyes (37:48).
 
-Jannah is described as an eternal dwelling (Q3:136), with its supreme felicity and greatest bliss being God's good pleasure (Q9:72).[11]
+Jannah is described as an eternal dwelling (Q3:136), with its supreme felicity and greatest bliss being God's good pleasure (Q9:72).
 
 #### Layers of Jannah
-Firdaws – The Highest Gardens of Paradise (al-Kahf,[43] Al-Mu’minoon[44])
-Dār al-maqāmah – The Home (Fāṭir[45])
-Jannatul Aliyah (suras Haqqah, Ghashiyah)
-Dār al-salām – Home of Peace (Yūnus,[46] Al-An'am[47])
-Dār al-Ākhirah – The Home in the Hereafter (al-‘Ankabūt[48])
-al-Jannah – This is the most commonly used term in the Quran and Hadith. (al-Baqarah,[49] Āl ‘Imran,[50][51])
-Jannat al-ʿadn – Gardens of Everlasting Bliss (al-Tawbah:[52] 72, al-Ra‘d[53])
-Jannat al-Khuld – The Eternal Gardens (al-Furqān[54])
-Jannat al-Ma’wā – Garden of Abode (al-Najm[55])
-Jannat al-Na‘īm – The Gardens of Delight (al-Mā’idah,[56] Yūnus,[57] al-Ḥajj[58])
-Maq‘ad al-Ṣidq – Assembly of Truth (al-Qamar[59])
-al-Maqām al-Amīn – The House of Security (al-Dukhān[60])
+* Firdaws – The Highest Gardens of Paradise (al-Kahf, Al-Mu’minoon)
+* Jannatul Aliyah (suras Haqqah, Ghashiyah)
+* Dār al-salām – Home of Peace (Yūnus, Al-An'am)
+* Dār al-Ākhirah – The Home in the Hereafter (al-‘Ankabūt)
+* al-Jannah – This is the most commonly used term in the Quran and Hadith. (al-Baqarah, Āl ‘Imran,)
+* Jannat al-ʿadn – Gardens of Everlasting Bliss (al-Tawbah, al-Ra‘d)
+* Jannat al-Khuld – The Eternal Gardens (al-Furqān)
+* Jannat al-Ma’wā – Garden of Abode (al-Najm)
+* Jannat al-Na‘īm – The Gardens of Delight (al-Mā’idah, Yūnus, al-Ḥajj)
+* Maq‘ad al-Ṣidq – Assembly of Truth (al-Qamar)
+* al-Maqām al-Amīn – The House of Security (al-Dukhān)
 
 #### Doors of Jannah
 According to hadith, there are eight doors of Jannah. Their names are as following:
-
-Bāb al-Ṣalāh: For those who were punctual in prayer
-Bāb al-Jihād: For those who took part in jihad
-Bāb al-Ṣadaqah: For those who gave charity more often
-Bāb al-Rayyān: For those who fasted (siyam)
-Bāb al-Ḥajj: For those participated in the annual pilgrimage
-Bāb al-Kāẓimīn al-Ghayẓ wa-al-‘Āfīn ‘an al-Nās: For those who withheld their anger and forgave others
-Bāb al-Aymān: For those who by virtue of their faith are saved from reckoning and chastisement
-Bāb al-Dhikr: For those who showed zeal in remembering Allah
-
+* Bāb al-Ṣalāh: For those who were punctual in prayer
+* Bāb al-Jihād: For those who took part in jihad
+* Bāb al-Ṣadaqah: For those who gave charity more often
+* Bāb al-Rayyān: For those who fasted (siyam)
+* Bāb al-Ḥajj: For those participated in the annual pilgrimage
+* Bāb al-Kāẓimīn al-Ghayẓ wa-al-‘Āfīn ‘an al-Nās: For those who withheld their anger and forgave others
+* Bāb al-Aymān: For those who by virtue of their faith are saved from reckoning and chastisement
+* Bāb al-Dhikr: For those who showed zeal in remembering Allah
 
 </details>
 
@@ -298,11 +292,12 @@ There has been some historical debate among Muslim scholars about the precise me
   
     13.8 billion years ago: the Universe started to expand.
     4.56 billion years ago: the Earth appeared.
-    ??? billion years ago: the Moon 🌙 appeared. 
+    4.51 billion years ago: the Moon 🌙 appeared. 
     3.5 billion years ago: Life on Earth began.
     600 million years ago: Animals appeared.
+    245-66 million years ago: 🦖 🦕​ Dinosaurs!!
     ~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
-    Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. and after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
+    Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. And after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
 
 Before 19th century there was a scientific consensus that the Universe 🌌 is static. But after Einstein's Theory of Relativity, science stated that the Universe is expanding. So, until 19XX science contradicted the Quran. 
 100 years ago, the world’s best scientific minds thought that the universe had always existed. Since it always existed, it didn’t need a Creator.
@@ -368,11 +363,11 @@ Allah is never "done" with His work, because the process of creation is ongoing.
 > The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
 > Jinn can be bad and they also can be good jinn who are righteous and who worship God alone.
 
-There is a rule for the Jinn not to cross the barrier between their world and our world, and the tresspassers will be asked for it.
+There is a rule for the jinn not to cross the barrier between their world and human world, and the tresspassers will be asked for it.
 
 ### Who are the Jinn?
 
-Allah created jinns from smokeless fire🔥, the edge of the flame. Jinn live in the same earth as we do but they are hidden from our sight. Humans cannot see jinn, jinn can see humans but the cannot see angels.
+Allah created jinns from smokeless fire 🔥, the edge of the flame. Jinn live in the same earth as we do but they are hidden from our sight. Humans cannot see jinn, jinn can see humans but they cannot see angels.
 
 The lives of jinn are very similar to the humans, they eat, they drink, they marry, they have their children, and even they are instructed and guided the same way as humans. We can clearly understand this statement by the following verse of Surah Al-An’am.
 
@@ -392,31 +387,34 @@ Jinn are mentioned approximately 29 times in the Quran.
     Quran, Surah Al-Dhariyat ayah 56
 
 The above verse shows the same core purpose of life for both the humans and the jinn. Their purpose of life is not very different from the humans as they are ordered by Allah to do the same good deeds as humans do and they are supposed to obey and worship one and only God “Allah”. Like in humans there are two broader categories, Muslims and Non-Muslims, similarly in jinn there are the same two main divisions (the Muslims and Non-Muslims).
+
 They have the power to choose between true and false, right and wrong as Allah said in sura al-Jinn verse 11: 
     
     And among us are the righteous, and among us are [others] not so; we were [of] divided ways.
     Quran, Surah Al-Jinn 72:11
 
-
 ### War Between Jinn and Angels
 
 The jinn started living on the earth before humans and they didn't behave good and didn't treat the creatures on the earth in a good manner.
 
- Satan or Iblis is one of the first jinns. He was the best among the jinn and he was even raised to the rank of angels. But there was evil in his heart and he wanted to rule his own kingdom. He asked Allah to send him and some angels to destroy the transgressing jinn on the earth and Allah gave the permission.
+Satan or Iblis is one of the first jinns. He was the best among the jinn and he was even raised to the rank of angels. But there was evil in his heart and he wanted to rule his own kingdom. He asked Allah to send him and some angels to destroy the transgressing jinn on the earth and Allah gave the permission.
 
 After the battle there were only a small amount of jinn left here and there.
 
 ### Disobedience of Iblis (Satan)
 
 Iblis wanted his own Kingdom, and Allah wanted to test him.
-Allah said that He will create a new creation - Adam - and make him the khalifa on earth. Allah told angels and Iblis to prostrate before Adam. Iblis refused to prostrate because of his arrogance. So Allah banished Iblis from heaven but Iblis asked for respite until humans are resurrected and he was granted respite.
-Satan disobeyed God and promised that he will leave humankind astray. 
+
+Allah said that He will create a new creation -- Adam -- and make him the khalifa on earth. Allah told angels and Iblis to prostrate before Adam. Iblis refused to prostrate because of his arrogance. So Allah banished Iblis from heaven but Iblis asked for respite until humans are resurrected and he was granted respite.
+
+Satan disobeyed God and promised that he will lead humankind astray. 
     
     I will come from in front of them and I will come from behind them, from their right and their left; nor will you find that most of them are grateful." except for those of them who were righteous.
 
 ### Shaytan are Enemies to Humans
 
-Iblis tricked Adam and Eve and managed to get them out of Heaven. He made himself many followers among jinn. So they all started leading descendands of Adam astray. Until the Day of Resurrection. 
+Iblis tricked Adam and Eve and managed to get them out of Heaven. He made himself many followers among jinn. So they all started leading descendands of Adam astray. Until the Day of Resurrection.
+
 Each person has a shaytan (or a bad jinn) assigned to follow him anywhere and misguide him and lead him astray so that he forgets about Allah, does not repent for his sins and eventually ends up in hell.
 
 Allah has already made us aware of this in the Surah Al-Araf, verse 27:
@@ -427,7 +425,7 @@ The above verse clearly states that jinn have the power to see humans and to tak
 
 There is a special type of jinns - shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
 
-The Messenger of Allah (blessings and peace of Allah be upon him) said: “Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’” End quote from Ta’weel Mukhtalaf al-Hadith (p. 200).
+The Messenger of Allah (blessings and peace of Allah be upon him) said: “Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’” End quote from Ta’weel Mukhtalaf al-Hadith.
 
 ### Suleyman (Solomon) Had Power Over Jinn
 
@@ -455,12 +453,6 @@ At the time of Prophet Mohammad (P.B.U.H), a group of jinn were turned into Musl
     Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
     Quran 72:1-2
 
-
-
-
-
-
-
 In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39 and khannas in sura al-Nas (The Mankind) verse 4 which both mean the jinn.
 
 ### Era of Jinn on Earth
@@ -470,18 +462,18 @@ Jinns were transgressing and were not treating animals well.
 
 Angels and Iblis were send to annihilate many jinns who were transgressing.
 
-
 Ifrit who brought Suleiman smo's throne.
 some were diving in the oceans, some building.
 the jinns don't know the unseen world. otherwise they would stop working immediately after Suleiman died.
 
 ### The Shaitan
 Iblis was amongst the best of jinn. some narrations say he worshipped Allah in all of the heavens and he was raised almost to the rank of angels. Then he came to Allah and asked to send him and some angels to punish the transgressing jinn who were living on the earth. So they started destroying the jinn that lived on earth only a scarce amount of them remained here and there. and Allah knew that Iblis wants his own kingdom for himself. so He created Adam to test Iblis, to reveal his intentions. And He asked angels and IBlis to bow before Adam which he disobeyed refused to do.  
+      
+    "Will you o human beings take him and his children as allies while he is your enemy."
+    Surah 18:50
 
-Surah 18:50
-Will you o human beings take him and his children as allies while he is your enemy.
-he has children. 
-he has waswasa to influence humans.
+Shaitan has children. 
+Shaitan uses waswasa to influence humans. And the waswasa does not work on devout worshippers of Allah.
 
 ### Classification of Jinn
 
@@ -708,6 +700,7 @@ Habyl and Qabyl (Abel and Cain). Cain tilted the land while Abel raised cattle.
 
 Shaytan taught him how to kill.
 Cain regretted that he killed his brother and became of the regretful.
+
 Cain did not know what to do with his brother's corpse. Allah sent two ravens that began fighting, causing the death of one. The victorious bird used its beak and claws to dig a hole in the ground, wolled the victim bird into it and covered it with sand.
 
     Then Allah sent a crow searching in the ground to show him how to hide the disgrace of his brother. He said: "O woe to me! HAve I failed to be like this crow and hide the body of my brother? And he became of the regretful."
@@ -3756,7 +3749,7 @@ Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Hu
 <details>
 <summary>
 
-## **680**: Abu Huraira 🐈 dies (603-680)
+## **680**: Abu Huraira 🐈 (603-680)
 
 </summary>
 
@@ -3830,7 +3823,8 @@ A great cultural renaissance in Baghdad and other cities of the empire. Besides 
 
   <details>
     <summary>795: imam Al-Malik ibn Anas</summary>
-death of Malik ibn Anas, founder of the Maliki school of jurisprudence.  </details>
+death of Malik ibn Anas, founder of the Maliki school of jurisprudence.  
+</details>
 
 <details>
     <summary>Imam Al-Shafi'i (767-820)</summary>
@@ -3847,7 +3841,7 @@ first great woman mystic  </details>
 <details>
     <summary>death of Ahmad ibn Hanbal</summary>
 a hero of the ahl al-hadith
-Hanbali school
+founder of Hanbali school
 </details>
 
 
@@ -3864,7 +3858,6 @@ Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed h
     <summary>ibn Sina</summary>
 
 </details>
-
 
 Yaqub ibn Ishaq al-Kindi, the first of the Muslim Faylasuf
 
@@ -3887,8 +3880,8 @@ Abu Nasr al-Farabi, Faylasuf and court musician in Aleppo
 1065-1067 The Nizamiyyah madrasah is built in Baghdad
 
 <details>
-  <summary>1058-1111 Al-Ghazali</summary> 
-was a Persian polymath. He is known as one of the most prominent and influential philosophers, theologians, jurists, logicians and mystics of Islam.
+  <summary>1058-1111 Imam Al-Ghazali</summary> 
+Al-Ghazali was a Persian polymath. He is known as one of the most prominent and influential philosophers, theologians, jurists, logicians and mystics of Islam.
 
 He is considered to be the 5th century's Mujaddid, a renewer of the faith, who, according to the prophetic hadith, appears once every 100 years to restore the faith of the Islamic Community. His works were so highly acclaimed by his contemporaries that al-Ghazali was awarded the honorific title "Proof of Islam" (Ḥujjat al-Islām).
 
@@ -3896,10 +3889,6 @@ Al-Ghazali believed that the Islamic spiritual tradition had become moribund and
 </details>
 
 # 10. Later History of Islamic Countries
-
-<details>
-  <summary><b>Crusades</b></summary> 
-Proto-Crusades
 
 1095 Pope Urban II preaches the First Crusade
 
@@ -3946,36 +3935,6 @@ The Golden Horde mongols rule the lands north of Caspian and Black Sea and conve
 
 1556 The Russians conquer Astrakhan
 
-
-
-SardiniaBarbastroMahdia
-In the Holy Land (1095–1291)
-
-
-
-First 1101 Norwegian Venetian 1129 Second Third 1197 Fourth Fifth Sixth Barons' Seventh 1267 Eighth Lord Edward's
-Later Crusades (post-1291)
-
-Aragonese Smyrniote Alexandrian Savoyard Barbary Nicopolis VarnaHoly Leagues
-Northern Crusades (1147–1410)
-
-Kalmar Wendish Swedish 1150 1249 1293 Livonian Prussian Lithuanian
-</details>
-
-
-
-
-
-<details>
-  <summary><b>Golden Horde</b></summary> 
-### 
-</details>
-<details>
-  <summary><b>Ottoman Empire</b></summary> 
-
-Conquest of Constantinople
-
-</details>
 
 # 11. Current State of the Islamic World
 *******************************************
@@ -4238,7 +4197,6 @@ The Judgement will not start for a long time, maybe thousands of years. People w
 Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, nafsi.
 And finally they will come to the prophet Muhammad  ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad  ﷺ    will say "This is a job for me".
 </details>
-
 
 
 

@@ -59,6 +59,7 @@ Well, maybe the fact that I know very little about building a web server plays a
 
 I really need to finish the Eschatonian part, for now it's hard to figure out the order of events in the signs of Day of Judgement and Al Qiyamah itself.
 
+The main page markdown file is 5000 lines. Islam teaches to finish what you started, so I tried to spend on this at least 10 minutes a day. Slowly it got into shape, Alhamdulillah. but there are still many bugs left.S
 
 https://miro.com/app/board/o9J_kqBzhXk=/
 
