@@ -684,7 +684,6 @@ Quran says that the first place of worship was built in the current location of 
     "The first sanctuary ever constructed for mankind was that at Bakkah (the old title of Makkah), a fortunate location and advice for the worlds".
     Quran
 
-
 </details>
 
 <details>
@@ -3046,8 +3045,10 @@ He said: One of the callers of the jinn came to me so I went out to meet with th
 
 Since the Quraysh gave little weight to Muhammad's message, Muhammad took to spreading his message to the merchants and pilgrims that frequented Mecca. After several unsuccessful negotiations, he found hope with some men from Medina. The Arab population of Yathrib were somewhat familiar with monotheism because a Jewish community existed in that city. Muhammad met with a few members of the two tribes of Medina, the Aws and Khazraj, twice, at a hill known as al-'Aqabah near Mina, where they pledged their allegiance to Muhammad and agreed to protect Muhammad if he were to migrated to Medina. Following the pledges at al-'Aqabah, Muhammad encouraged his followers to emigrate to Medina. The Quraysh attempted to stop the Muslims from emigrating to the city, however, almost all Muslims managed to leave.
 
-Arabs from Yathrib meet the prophet Mohammad  ﷺ    and invite him to stay in their city.
-Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new. 
+Arabs from Yathrib meet the prophet Muhammadﷺ   and invite him to stay in their city.
+
+Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new.
+
 </details>
  
 <details>
@@ -3063,7 +3064,7 @@ You came to Mecca weak and poor and you have acquired what you have acquired.."
 
 "What would you say if I leave you my wealth?" interrupted Suhayb. "Would you get out of my way?" "Yes," they answered.
 
-Suhayb described the place in his house in Mecca where he had left the money, and they allowed him to go. When Suhayb reached Quba, just outside Medina, Muhammad  ﷺ    him approaching and said, "Your transaction has been fruitful, O Abu Yahya. Your transaction has been fruitful." He repeated this three times. Suhayb's face beamed with happiness as he said: "By God, no one has come before me to you, Messenger of God, and only Jibril could have told you about this."
+Suhayb described the place in his house in Mecca where he had left the money, and they allowed him to go. When Suhayb reached Quba, just outside Medina, Muhammadﷺ    him approaching and said, "Your transaction has been fruitful, O Abu Yahya. Your transaction has been fruitful." He repeated this three times. Suhayb's face beamed with happiness as he said: "By God, no one has come before me to you, Messenger of God, and only Jibril could have told you about this."
 
 In 622 CE, due to the safety offered by Yathrib (later renamed Medīnat an-Nabī, or simply Medina), Muhammad ordered his followers to migrate to Medina. Most Muslims migrated at night fearing Quraish resistance, but Umar is reported to have left openly during the day saying: "Any one who wants to make his wife a widow and his children orphans should come and meet me there behind that cliff." Umar migrated to Medina accompanied by his cousin and brother-in-law Saeed ibn Zaid.
 
@@ -3101,6 +3102,7 @@ After the arrival of Muhammad in Medina, its people could be divided into four g
 - The Jews; they were huge in number and formed an important community there.
 
 In order to establish peaceful coexistence among this heterogeneous population, Muhammad invited the leading personalities of all the communities to reach a formal agreement which would provide a harmony among the communities and security to the city of Medina, and finally drew up the Constitution of Medina, also known as the Medina Charter, which formed "a kind of alliance or federation" among the prevailing communities. It specified the mutual rights and obligations of the Muslims and Jews of Medina, and prohibited any alliance with the outside enemies. It also declared that any dispute would be referred to Muhammad for settlement.
+
 </details>
 
 <details>
@@ -3115,8 +3117,10 @@ Al-Masjid an-Nabawi, known in English as The Prophet's Mosque, is a mosque built
 
 The mosque was built by Muhammad in 622 CE (1 AH) after his arrival in Medina. Riding a camel called Qaswa, he arrived at the place where this mosque was built, which was being used as a burial ground. Refusing to accept the land as a gift from the two orphans, Sahl and Suhayl, who owned the land, he bought the land which was paid for by Abu Ayyub al-Ansari and it took seven months to complete the construction of the mosque. It measured 30.5 m × 35.62 m (100.1 ft × 116.9 ft). The roof which was supported by palm trunks was made of beaten clay and palm leaves. It was at a height of 3.60 m (11.8 ft). The three doors of the mosque were the "Gate of Mercy" (باب الرحمة Bab ar-Rahmah) to the south, "Gate of Gabriel" (باب جبريل Bab Jibril) to the west and "Gate of Women" (باب النساء Bab Nisa) to the east. At this time point in the history of the Mosque, the qiblah wall was facing north to Jerusalem, and al-Suffah was along the northern wall.
 
-As there was no definite arrangement for calling people to prayer, Bilal ibn Ribah was appointed to call people in a loud voice at each prayer time, a system later replaced by Adhan believed to be informed to Abdullah ibn Zayd in his dream, and liked and introduced by Muhammad.
-Bilal who was tortured by Meccans, who was dragged in chains along the streets of Mecca and who kept saying "Ahadun Ahad" (Allah the One) because he didnot know anything else about Islam. He was the first to say athan and the first muathin in the an-Nabawi mosque. Prophet Muhammad  ﷺ    assigned him to say adhan in the first mosque in Medina because he had a loud and beautiful voice.
+As there was no definite arrangement for calling people to prayer, Bilal ibn Ribah was appointed to call people in a loud voice at each prayer time, a system later replaced by Adhan believed to be informed to Abdullah ibn Zayd in his dream, and liked and introduced by Muhammadﷺ  .
+
+Bilal who was tortured by Meccans, who was dragged in chains along the streets of Mecca and who kept saying "Ahadun Ahad" (Allah the One) because he didnot know anything else about Islam. He was the first to say athan and the first muathin in the an-Nabawi mosque. Prophet Muhammadﷺ   assigned him to say adhan in the first mosque in Medina because he had a loud and beautiful voice.
+
 </details>
 
 <details>
@@ -3146,9 +3150,10 @@ Sending small scouting parties to gather intelligence about Quraysh movement, an
 
     And why should you not fight in the cause of God and for those who, being weak, are ill-treated (and oppressed)? Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from Thee one who will protect; and raise for us from Thee one who will help!" Quran 4:75
 
-A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammad took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
+A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammadﷺ   took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
 
 The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
+
 </details>
 
 <details>
@@ -3160,7 +3165,7 @@ The Quraysh with all its leading personalities except Abu Lahab marched with a h
     
     "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). 
 
-The prophet Muhammad  ﷺ    was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
+The prophet Muhammadﷺ   was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
 </details>
 
 <details>
@@ -3188,6 +3193,7 @@ Although outnumbered, the Muslims gained the early initiative and forced the Mec
 The Battle of the Trench (Ghazwat al-Khandaq), also known as the Battle of Khandaq (معركة الخندق, ) and the Battle of the Confederates, was a 27-day-long defense by Muslims of Yathrib (now Medina) from Arab and Jewish tribes. The strength of the confederate armies is estimated at around 10,000 men with six hundred horses and some camels, while the Medinan defenders numbered 3,000.
 
 The reason for this battle was to save Medina from attack, after Banu Nazir and Banu Qurayzah tribes formed an alliance with the Quraysh to attack him as revenge for expelling them from Medina during the Invasion of Banu Qaynuqa and Invasion of Banu Nadir.
+
 the outnumbered Muslims opted to engage in a defensive battle by digging deep trenches to act as a barrier along the northern front. The tactic of a defensive trench was introduced by Salman the Persian. Every capable Muslim in Medina including Muhammad contributed to digging the massive trench in six days. The ditch was dug on the northern side only, as the rest of Medina was surrounded by rocky mountains and trees, impenetrable to large armies (especially cavalry). The digging of the ditch coincided with a near-famine in Medina. Women and children were moved to the inner city. The Medinans harvested all their crops early, so the Confederate armies would have to rely on their own food reserves.
 
 The largely outnumbered defenders of Medina, mainly Muslims led by the Islamic prophet Muhammad, dug a trench, which, together with Medina's natural fortifications, rendered the confederacy's cavalry (consisting of horses and camels) useless, locking the two sides in a stalemate. Hoping to make several attacks at once, the confederates persuaded the Muslim-allied Medinan Jews, Banu Qurayza, to attack the city from the south. However, Muhammad's diplomacy derailed the negotiations, and broke up the confederacy against him. The well-organized defenders, the sinking of confederate morale, and poor weather conditions caused the siege to end in a fiasco.
@@ -3207,9 +3213,9 @@ Following the retreat of the Confederate army, the Banu Qurayza neighborhoods we
 
 </summary>
 
->Abu Dharr comes to the prophet Muhammadﷺ    in early years of preaching in Mecca. The prophet Muhammadﷺ    sends him back to his tribe to preach and wait for the news of the victory of Islam. 
+>Abu Dharr comes to the prophet Muhammadﷺ   in early years of preaching in Mecca. The prophet Muhammadﷺ   sends him back to his tribe to preach and wait for the news of the victory of Islam. 
 >One day a tribe of horses and camels rush to Medina and people are scared because they think an army is coming to attack muslims.
->Abu Dharr says: "Oh Messenger of Allah, here is every single one of the Al Ghifarr." and the prophet Muhammadﷺ    replies: "May Allah forgive the entirety of Ghifarr."
+>Abu Dharr says: "Oh Messenger of Allah, here is every single one of the Al Ghifarr." and the prophet Muhammadﷺ   replies: "May Allah forgive the entirety of Ghifarr."
 
 As the hadith says: "If anybody wants to see the abstinent from the dunya of Eesa (as), then he shoul look at Abu Dharr al-Ghifari.
 
@@ -3233,22 +3239,21 @@ Muhammad had a premonition that he entered Mecca and did tawaf around the Ka'bah
 
 Muhammad and his followers camped outside of Mecca, and Muhammad met with Meccan emissaries who wished to prevent the pilgrims' entry into Mecca. After negotiations, the two parties decided to resolve the matter through diplomacy rather than warfare, and a treaty was drawn up.
 
-Conditional points of the treaty
+#### Conditional points of the treaty
 After a long discussion, both parties agreed with some conditional points, such as:
+* The Messenger of Allah will have to return to Medina instead of having entered Mecca that year. The Muslim shall perform their pilgrimage in the upcoming year and they would stay in peace at Mecca for three days including the years onward with no arms except sheathed swords.
+* There will be a truce between both parties for ten years, whereby during this period all the people may enjoy safety and harmony.
+* Whoever wishes to enter into a covenant with the Prophet will be allowed to do so, and whoever wishes to enter into a covenant with the Quraish will be allowed to do so. Whoever enters into any one of the parties will be considered part of that party.  Likewise, any sort of aggression against them will be considered aggression against that party.
+* Whoever flees to Muhammad from Mecca without the permission of his guardians will be sent back to the Quraysh, but whoever comes to the Quraysh from the Muslims will not be sent back to the Muslims. The writer of the treaty was Ali Ibn Abi Talib.
 
-The Messenger of Allah will have to return to Medina instead of having entered Mecca that year. The Muslim shall perform their pilgrimage in the upcoming year and they would stay in peace at Mecca for three days including the years onward with no arms except sheathed swords.
-
-There will be a truce between both parties for ten years, whereby during this period all the people may enjoy safety and harmony.
-
-Whoever wishes to enter into a covenant with the Prophet will be allowed to do so, and whoever wishes to enter into a covenant with the Quraish will be allowed to do so. Whoever enters into any one of the parties will be considered part of that party.  Likewise, any sort of aggression against them will be considered aggression against that party.
-
-Whoever flees to Muhammad from Mecca without the permission of his guardians will be sent back to the Quraysh, but whoever comes to the Quraysh from the Muslims will not be sent back to the Muslims. The writer of the treaty was Ali Ibn Abi Talib.
-
-The Treaty is very important in Islam, as it was an indirect recognition of the Islamic state in Medina. The treaty also allowed the Muslims who were still in Mecca to practice Islam publicly. Further, as there was no longer a constant struggle between the Muslims and the polytheists, many people saw Islam in a new light, which led to many more people accepting Islam.[citation needed] In addition, the Treaty of Hudaybiyyah paved the way for the conquering of other tribes, through the use of treaties with the Muslims. The treaty also serves as an example that Islam was not merely spread with the sword as Muhammad had an army that could have attacked Mecca, but Muhammad chose to make a peace treaty. After the polytheists broke the treaty, he marched on Makkah and conquered the polytheists.[citation needed]
+The Treaty is very important in Islam, as it was an indirect recognition of the Islamic state in Medina. The treaty also allowed the Muslims who were still in Mecca to practice Islam publicly. Further, as there was no longer a constant struggle between the Muslims and the polytheists, many people saw Islam in a new light, which led to many more people accepting Islam.[citation needed] In addition, the Treaty of Hudaybiyyah paved the way for the conquering of other tribes, through the use of treaties with the Muslims. The treaty also serves as an example that Islam was not merely spread with the sword as Muhammad had an army that could have attacked Mecca, but Muhammad chose to make a peace treaty. After the polytheists broke the treaty, he marched on Makkah and conquered the polytheists.
 
 The oath that Muhammad took "under the tree" at al-Hudaybiyyah made him a true ruler over parts of western Arabia. In early Islamic Egypt, having a forefather who had "pledged allegiance under the tree" conferred considerable social prestige.
 
-A verse of the Quran was revealed about the treaty, which means, "Verily we have granted thee a manifest victory" (Quran 48:1).
+A verse of the Quran was revealed about the treaty, which means:
+
+    "Verily we have granted thee a manifest victory"
+    Quran 48:1
 
 </details>
 
@@ -3259,7 +3264,9 @@ A verse of the Quran was revealed about the treaty, which means, "Verily we have
 
 </summary>
 
-Around the end of the 6 AH and the beginning of the 7 AH (628 CE), Muhammad ﷺ   sent letters to various heads of state asking them to accept Islam and to worship only one God. Notable among them were Heraclius, the emperor of Byzantium; Khosrau II, the emperor of Persia; the Negus of Ethiopia; Muqawqis, the ruler of Egypt; Harith Gassani, the governor of Syria; and Munzir ibn Sawa, the ruler of Bahrain. In the 6 AH, Khalid ibn al-Walid accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
+Around the end of the 6 AH and the beginning of the 7 AH (628 CE), Muhammadﷺ   sent letters to various heads of state asking them to accept Islam and to worship only one God. Notable among them were Heraclius, the emperor of Byzantium; Khosrau II, the emperor of Persia; the Negus of Ethiopia; Muqawqis, the ruler of Egypt; Harith Gassani, the governor of Syria; and Munzir ibn Sawa, the ruler of Bahrain.
+
+In the 6 AH, Khalid ibn al-Walid accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
 </details>
 
 <details>
@@ -3284,7 +3291,7 @@ On 29 November 629 (6th of Ramadan, 8 AH), Muhammad set out with 10,000 companio
 He then destroyed the idols – placed in and around the Kaaba – reciting the Quranic verse: "Say, the truth has arrived, and falsehood perished. Verily, the falsehood is bound to perish" (Quran 17:81). William Muir comments, "The magnanimity with which Muhammad treated a people who had so long hated and rejected him is worthy of all admiration."
 
 
-### Destroying of Idols
+### Destroying idols in Kaaba
 
 ### Bilal climbs up the roof of Kaaba and says the adhan
 
@@ -3306,7 +3313,7 @@ After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy 
 </details>
 
 
-### Last Years of The Prophet Muhammadﷺ  
+### Last Years of The Prophet Muhammad ﷺ  
 
 <details>
 <summary>
@@ -3315,7 +3322,7 @@ After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy 
 
 </summary>
 
-This is the only Hajj pilgrimage in which prophet Muhammadﷺ    participates.
+This is the only Hajj pilgrimage in which prophet Muhammadﷺ   articipates.
 
 In 631 CE, during the Hajj season, Muhammad appointed Abu Bakr to lead 300 Muslims to the pilgrimage in Mecca. As per old custom, many pagans from other parts of Arabia came to Mecca to perform pilgrimage in pre-Islamic manner. Ali, at the direction of Muhammad, delivered a sermon stipulating the new rites of Hajj and abrogating the pagan rites. He especially declared that no unbeliever, pagan, and naked man would be allowed to circumambulate the Kaaba from the next year. After this declaration was made, a vast number of people of Bahrain, Yemen, and Yamama, who included both the pagans and the people of the book, gradually embraced Islam. 
 
@@ -3666,7 +3673,6 @@ When Uthman was killed in 656 CE by rebels from Egypt, Kufa and Basra, the poten
 
 The caliphate was offered to Ali and he accepted the position after a few days. According to Madelung, many of Muhammad's companions expressed the wish to pledge allegiance to him after the assassination of Uthman. At first, Ali declined. It has been suggested that the assassination of Uthman created an atmosphere of tumult and panic. This atmosphere might have compelled Ali into accepting the caliphate to prevent further chaos.
 
-
 #### Ruling style
 
 By virtue of his kinship with Muhammad and his profound knowledge of Islam's roots, Ali laid claim to the religious authority to interpret the Quran and Sunnah to meet the needs of a rapidly-changing caliphate.
@@ -3689,7 +3695,7 @@ According to Heck, Ali also forbade Muslim fighters from looting and instead dis
 
 Hasan ibn Ali (حسن ابن علي, ; 625 – 2 April 670) was the eldest son of Ali and Fatima and a grandson of the Islamic prophet Muhammad. He briefly ruled as caliph from January 661 until August 661. He is considered the second Shia Imam, succeeding Ali and preceding his brother, Husayn. In Sunni Islam, Hasan is considered one of the greatest sahaba and part of Muhammad's family. Part of the ahl al-bayt and the ahl al-kisa, he participated in the event of Mubahala. Muhammad described Hasan and Husayn as "the masters of youth in Paradise".
 
-During the caliphate of Ali (r. 656–661), Hasan accompanied him in the military campaigns of the First Muslim Civil War. After Ali's assassination in 661, Hasan was subsequently acknowledged caliph in Kufa. His sovereignty was unrecognized by Syria's governor Mu'awiya I (r. 661–680), who led an army into Kufa to press the former for abdication. In response, Hasan sent a vanguard under Ubayd Allah ibn al-Abbas to block Mu'awiya's advance until he arrived with the main army. Meanwhile, Hasan was severely wounded in an abortive assassination attempt made by the Kharijites, a faction opposed to both Ali and Mu'awiya. This attack demoralized Hasan's army, and many deserted. On the other hand, Ubayd Allah and most of his troops defected after Mu'awiya bribed him. In August 661 (Rabi al-Thani 41 AH), Hasan signed a peace treaty with Mu'awiya on the basis that the latter should rule in compliance with the Quran and the sunna, a council appointed his successor, and his supporters received amnesty. Hasan retired from politics and abdicated in Medina where he eventually died either by a long-term illness or poisoning at the instigation of Mu'awiya, who wanted to install his son Yazid (r. 680–683), as his successor.
+During the caliphate of Ali (r. 656 – 661), Hasan accompanied him in the military campaigns of the First Muslim Civil War. After Ali's assassination in 661, Hasan was subsequently acknowledged caliph in Kufa. His sovereignty was unrecognized by Syria's governor Mu'awiya I (r. 661 – 680), who led an army into Kufa to press the former for abdication. In response, Hasan sent a vanguard under Ubayd Allah ibn al-Abbas to block Mu'awiya's advance until he arrived with the main army. Meanwhile, Hasan was severely wounded in an abortive assassination attempt made by the Kharijites, a faction opposed to both Ali and Mu'awiya. This attack demoralized Hasan's army, and many deserted. On the other hand, Ubayd Allah and most of his troops defected after Mu'awiya bribed him. In August 661 (Rabi al-Thani 41 AH), Hasan signed a peace treaty with Mu'awiya on the basis that the latter should rule in compliance with the Quran and the sunna, a council appointed his successor, and his supporters received amnesty. Hasan retired from politics and abdicated in Medina where he eventually died either by a long-term illness or poisoning at the instigation of Mu'awiya, who wanted to install his son Yazid (r. 680–683), as his successor.
 
 Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying that he had intended to surrender from the beginning and fought half-heartedly. His supporters maintain that Hasan's abdication was inevitable after his soldiers mutinied, and he was motivated by the desire for unity and peace in the Muslim community; Muhammad reportedly predicted that Hasan would make peace among the Muslims. Another Sunni hadith (also attributed to Muhammad) predicted that the prophetic succession would endure for thirty years, which may have been interpreted by at least some early Sunni scholars as evidence that Hasan's caliphate was rightly-guided (rāshid).
 
@@ -3717,7 +3723,7 @@ They did not have buildings, they did not even have a government. They were neve
 
 </summary>
  
-  661-680 Khalifate of Muawiyyah
+  661 - 680 Khalifate of Muawiyyah
   * Capital is moved from Medina to Damascus
   * Death of Hasan ibn Ali in Medina
   * Development of Science and Medicine
@@ -3749,7 +3755,7 @@ Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Hu
 <details>
 <summary>
 
-## **680**: Abu Huraira 🐈 (603-680)
+## **603 - 680**: Abu Huraira 🐈 (603 - 680)
 
 </summary>
 
@@ -3779,17 +3785,18 @@ Later, Abu Hurairah 🐈 were sent as Muezzin to al-Ala al-Hadhrami. And Muhamma
 </details>
 
   * Muawiya II
-  * Marwan I - cousin of Uthman
-  * 685-705: Califate of Abd al-Malik, who manages to restore Umayyad rule. 
+  * Marwan I -- cousin of Uthman
+  * 685 - 705: Califate of Abd al-Malik, who manages to restore Umayyad rule. 
   * 691: The Dome of the Rock is completed in Jerusalem. Building of the Al-Aqsa mosque.
-  * 705-715: Califate of al-Walid
-  * 717-720: Califate of Umar II
-  * 720-724: Califate of Yazid II
-  * 724-743: Califate of Hisham I
-  * 642-728: Hasan al-Basri, hadith scholar, religious reformer and ascetic.
+  * 705 - 715: Califate of al-Walid
+  * 717 - 720: Califate of Umar II
+  * 720 - 724: Califate of Yazid II
+  * 724 - 743: Califate of Hisham I
+  * 642 - 728: Hasan al-Basri, hadith scholar, religious reformer and ascetic.
   * 762 The foundation of Baghdad, which becomes the new Abbasid capital.
-  * 775-785: Califate of al-Maghdi. He encourages the development of fiqh, acknowledge the piety of the religious movement.
-  * 
+  * 775 - 785: Califate of al-Maghdi. He encourages the development of fiqh, acknowledge the piety of the religious movement.
+
+
 <details>
 <summary>
 
@@ -3802,6 +3809,7 @@ Abū Ḥanīfa al-Nuʿmān ibn Thābit b. Zūṭā ibn Marzubān ( أبو حني
 Some followers call him al-Imām al-Aʿẓam ("The Greatest Imam") and Sirāj al-aʾimma ("The Lamp of the Imams") in Sunni Islam.
 
 Born to a Muslim family in Kufa, Abu Hanifa is known to have travelled to the Hejaz region of Arabia in his youth, where he studied in Mecca and Medina. As his career as a theologian and jurist progressed, Abu Hanifa became known for favoring the use of reason in his legal rulings (faqīh dhū raʾy) and even in his theology. Abu Hanifa's theological school is claimed to be what would later develop into the Maturidi school of Sunni theology.
+
 </details>
 
 <details>
@@ -3811,7 +3819,14 @@ Born to a Muslim family in Kufa, Abu Hanifa is known to have travelled to the He
 
 </summary>
 </details>
-  * Muhammad ibn Iskhak's student ibn Hisham shortens the seerah of the prophet Muhammad.
+
+<details>
+<summary>
+
+## Ibn Hisham (Muhammad ibn Iskhak's student) shortens the seerah of the prophet Muhammad.
+
+</summary>
+</details>
 
 # 9.4 The Islamic Golden Age
 *******************************************
@@ -3822,12 +3837,12 @@ A great cultural renaissance in Baghdad and other cities of the empire. Besides 
 </details>
 
   <details>
-    <summary>795: imam Al-Malik ibn Anas</summary>
-death of Malik ibn Anas, founder of the Maliki school of jurisprudence.  
+    <summary>711 - 795: imam Al-Malik ibn Anas</summary>
+Malik ibn Anas, founder of the Maliki school of jurisprudence.  
 </details>
 
 <details>
-    <summary>Imam Al-Shafi'i (767-820)</summary>
+    <summary>Imam Al-Shafi'i (767 - 820)</summary>
 
 Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī ( أَبُو عَبْدِ ٱللهِ مُحَمَّدُ بْنُ إِدْرِيسَ ٱلشَّافِعِيُّ, 767–19 January 820 CE) was an Arab Muslim theologian, writer, and scholar, who was the first contributor of the principles of Islamic jurisprudence (Uṣūl al-fiqh). Often referred to as 'Shaykh al-Islām', al-Shāfi‘ī was one of the four great Sunni Imams, whose legacy on juridical matters and teaching eventually led to the formation of Shafi'i school of fiqh (or Madh'hab). He was the most prominent student of Imam Malik ibn Anas, and he also served as the Governor of Najar. Born in Gaza in Palestine (Jund Filastin), he also lived in Mecca and Medina in the Hejaz, Yemen, Egypt, and Baghdad in Iraq.
 
@@ -3835,49 +3850,73 @@ Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī ( أَبُو عَبْدِ �
 
 
 <details>
-    <summary>death of Rabiah</summary>
+    <summary> Rabiah</summary>
 first great woman mystic  </details>
 
 <details>
-    <summary>death of Ahmad ibn Hanbal</summary>
+    <summary>780 - 855: Ahmad ibn Hanbal</summary>
 a hero of the ahl al-hadith
-founder of Hanbali school
+Ahmad ibn Hanbal was a Muslim jurist, theologian, ascetic, hadith traditionist, and founder of the Hanbali school of Sunni jurisprudence — one of the four major orthodox legal schools of Sunni Islam.
 </details>
 
 
   <details>
-    <summary>al-Tabari (839-923)</summary>
+    <summary>al-Tabari (839 - 923)</summary>
 Muhammad ibn Jarir ibn Yazid (Arabic: محمد ابن جرير ابن يزيد, romanized: Muḥammad ibn Jarīr ibn Yazīd; c. 839–923), more commonly known as al-Tabari (Arabic: الطبري, romanized: al-Ṭabarī), or alternatively as Abu Jafar (Arabic: أبو جعفر, romanized: Abū Jaʿfar), was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Qur'anic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine."
 
 His most influential and best known works are his Qur'anic commentary, known in Arabic as Tafsir al-Tabari, and his historical chronicle History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk), often referred to Tarikh al-Tabari.
 
 Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed his own interpretation of Islamic jurisprudence. His understanding of fiqh was both sophisticated and remarkably fluid and, as such, he continued to develop his ideas and thoughts on juristic matters right to the end of his life. Al-Tabari's school of thought (madhhab) flourished among Sunni ulama for two centuries after his death, before it eventually became extinct. It was usually designated by the name Jariri. </details>
 
-
 <details>
-    <summary>ibn Sina</summary>
+    <summary>Yaqub ibn Ishaq al-Kindi, the first of the Muslim Faylasuf</summary>
 
 </details>
 
-Yaqub ibn Ishaq al-Kindi, the first of the Muslim Faylasuf
+<details>
+    <summary>historian Abu Jafar al-Tabari</summary>
 
-historian Abu Jafar al-Tabari
+</details>
 
-Hasan al Ashari
+<details>
+    <summary>Hasan al Ashari</summary>
 
-Ibn Hazm, poet, vizier, theologian
+</details>
 
-Abu Nasr al-Farabi, Faylasuf and court musician in Aleppo
+<details>
+    <summary>Ibn Hazm, poet, vizier, theologian</summary>
 
-972: fatimids build the madrasah of al-Azhar in Cairo
+</details>
 
-1037 death of Faylasuf ibn Sina (Avicenna)
+<details>
+    <summary>Abu Nasr al-Farabi</summary>
+Faylasuf and court musician in Aleppo
+</details>
 
-990-1118 The Seljuk Empire
+<details>
+    <summary>972: Fatimids build the madrasah of al-Azhar in Cairo</summary>
 
-990 The Seljuk Turkish family from Central Asia convert to Islam.
+</details>
 
-1065-1067 The Nizamiyyah madrasah is built in Baghdad
+<details>
+    <summary>1037 ibn Sina (Avicenna)</summary>
+
+</details>
+
+<details>
+    <summary>990 - 1118 The Seljuk Empire</summary>
+
+</details>
+
+<details>
+    <summary>990 The Seljuk Turkish family from Central Asia convert to Islam </summary>
+
+</details>
+
+<details>
+    <summary>1065 - 1067 The Nizamiyyah madrasah is built in Baghdad</summary>
+
+</details>
 
 <details>
   <summary>1058-1111 Imam Al-Ghazali</summary> 
@@ -4120,7 +4159,7 @@ Allahu 'Alim.
 <details>
   <summary>
     
-### Barzakh
+## Barzakh
 
   </summary> 
 
@@ -4132,7 +4171,7 @@ People who died they end up in the Barzak. It is the world of souls where they w
 <details>
   <summary>
     
-### Israfil Blows the Trumpet the first time (Destruction)
+## Israfil Blows the Trumpet the first time (Destruction)
 
   </summary> 
 
@@ -4156,7 +4195,7 @@ sky will be opened.
 <details>
   <summary>
 
-#### The Earth is destroyed
+## The Earth is destroyed
 
   </summary> 
 
@@ -4186,7 +4225,7 @@ In another version, eight angels who carry the Throne of Allah die before the An
 <details>
   <summary>
 
-### Second blow of the trumpet (Resurrection of the Dead)
+## Second blow of the trumpet (Resurrection of the Dead)
 
   </summary> 
 
@@ -4203,7 +4242,7 @@ And finally they will come to the prophet Muhammad  ﷺ    begging him to ask Al
 <details>
   <summary>
 
-### The Judgement
+## The Judgement
 
 </summary> 
 
