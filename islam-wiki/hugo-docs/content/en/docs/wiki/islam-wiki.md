@@ -11,18 +11,23 @@ author: fanil
 <summary style="color: #878686fc; font-size: 14px;">DISCLAIMER!</summary>
 	
 >
-> This guide is compiled from various sources and there may be minor discrepancies and incorrect details. The main purpose of the guide was to combine an overview of the whole timeline of the world as of we know today according to Islamic sources. 
-> Sources of this guide: The Quran, authentic hadiths, The Bible (Old Testament), some opinions of great islamic scholars of the past. Some parts are derived from youtube lectures of sheikhs of our time without providing the original source.
+> Assalamu Aleikum (Peace be upon you), 
 >
-> Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran.
+> This guide is compiled from various sources and there may be minor discrepancies and incorrect details. The main purpose of the guide was to combine an overview of the whole timeline of the world as of we know today according to Islamic sources. 
+>
+> Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources including Wikipedia.
+>
+> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Arstrong "Isam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time without providing the original source.
 >
 > Allahu alim. Only God know the ultimate truth.
 >
 > Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
 > 
-> According to Islamic tradition, there every nation had its prophet and the total number of the prophets is 124000. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned because there was no authentic hadith about this particular prophet in Islamic tradition. 
+> According to Islamic tradition, there every nation had its prophet and the total number of the prophets is 124000. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned if there was no authentic hadith about this particular prophet in Islamic tradition. 
 > 
-> Feel free to send feedback if you come across a part that contradicts the Quran or an authentic hadith or if the order is incorrect.
+> Please feel free to send feedback if you come across a part that contradicts the Quran or an authentic hadith or if the timeline order is incorrect. 
+>
+> May Allah guide us all to the right path.
 >
 
 </details>
@@ -2552,7 +2557,7 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 
 <details>
   <summary>Short Summary</summary>
-Muḥammad ibn Abd Allah (570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. Muslims believe that the Quran, the central religious text of Islam, was revealed to Muhammad ﷺ    by God, and that Muhammad was sent to restore Islam, which did not originate with Muhammad but is the true unaltered original monotheistic faith of Adam, Abraham, Moses, Jesus, and other prophets. The religious, social, and political tenets that Muhammad ﷺ   established with the Quran became the foundation of Islam and the Muslim world.
+Muḥammad ibn Abd Allah (570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. Muslims believe that the Quran, the central religious text of Islam, was revealed to Muhammadﷺ    by God, and that Muhammad was sent to restore Islam, which did not originate with Muhammad but is the true unaltered original monotheistic faith of Adam, Abraham, Moses, Jesus, and other prophets. The religious, social, and political tenets that Muhammad ﷺ   established with the Quran became the foundation of Islam and the Muslim world.
 
 Muhammadﷺ   earned the title "al-Amin" (اَلْأَمِينُ, meaning "the Trustworthy"). At the age of 40 in 11 BH (610 CE), he have received his first verbal revelation in the cave called Hira, which was the beginning of the descent of the Quran that continued up to the end of his life. The Qur’an was revealed to the Prophetﷺ    progressively according to the circumstances of the time over a period of 23 years. Muhammad ﷺ   was asked by God to preach the oneness of God in order to stamp out idolatry, a practice overtly present in pre-Islamic Arabia. Because of persecution of the newly converted Muslims, upon the invitation of a delegation from Medina (then known as Yathrib), Muhammad ﷺ   and his followers migrated to Medina in 1 AH (622 CE), an event known as the Hijrah. A turning point in Muhammad'sﷺ    life, this Hegira also marks the beginning of the Islamic calendar. In Medina, Muhammadﷺ   sketched out the Constitution of Medina specifying the rights of and relations among the various existing communities there, formed an independent community, and managed to establish the first Islamic state. Despite the ongoing hostility of the Meccans, Muhammadﷺ  , along with his followers, took control of Mecca in 630, and ordered the destruction of all pagan idols. In his later years in Medina, Muhammadﷺ   unified the different tribes of Arabia under Islam and carried out social and religious reforms. By the time he died in about 11 AH (632 CE), almost all the tribes of the Arabian Peninsula had converted to Islam.
 
@@ -3838,7 +3843,26 @@ A great cultural renaissance in Baghdad and other cities of the empire. Besides 
 
   <details>
     <summary>711 - 795: imam Al-Malik ibn Anas</summary>
-Malik ibn Anas, founder of the Maliki school of jurisprudence.  
+Malik ibn Anas, founder of the Maliki school of jurisprudence.
+
+Reverently known as al-Imām Mālik (ٱلْإِمَام مَالِك) by Sunni Muslims, was an Arab Muslim jurist, theologian, and hadith traditionist. 
+His grandfather Malik ibn Abi Amir was a student of the second Caliph of Islam Umar and was one of those involved in the collection of the parchments upon which Quranic texts were originally written when those were collected during the Caliph Uthman era. 
+
+Born in the city of Medina, Malik rose to become the premier scholar of prophetic traditions in his day, which he sought to apply to "the whole legal life" in order to create a systematic method of Muslim jurisprudence which would only further expand with the passage of time. Referred to as the "Imam of Medina" by his contemporaries, Malik's views in matters of jurisprudence were highly cherished both in his own life and afterwards, and he became the founder of one of the four schools of Sunni law, the Maliki, which became the normative rite for the Sunni practice of much of North Africa, Al-Andalus (until expulsion of Muslims), a vast portion of Egypt, and some parts of Syria, Yemen, Sudan, Iraq, and Khorasan, and the prominent Sufi orders, including the Shadiliyya and the Tijaniyyah.
+
+Perhaps Malik's most famous accomplishment in the annals of Islamic history is, however, his compilation of the Muwatta, one of the oldest and most revered Sunni hadith collections and one of "the earliest surviving Muslim law-book[s]," in which Malik attempted to "give a survey of law and justice; ritual and practice of religion according to the consensus of Islam in Medina, according to the sunna usual in Medina; and to create a theoretical standard for matters which were not settled from the point of view of consensus and sunna." Composed in the early days of the Abbasid caliphate, during which time there was a burgeoning "recognition and appreciation of the canon law" of the ruling party, Malik's work aimed to trace out a "smoothed path" (which is what al-muwaṭṭaʾ literally means) through "the farreaching differences of opinion even on the most elementary questions." Hailed as "the soundest book on earth after the Quran" by al-Shafi'i, the compilation of the Muwatta led to Malik being bestowed with such reverential epithets as "Shaykh of Islam", "Proof of the Community", "Imam of the Abode of Emigration", and "Knowledgeable Scholar of Medina" in later Sunni tradition.
+
+Throughout Islamic history, Malik has been venerated as an exemplary figure in all the traditional schools of Sunni thought, both by the exoteric ulema and by the mystics, with the latter often designating him as a saint in their hagiographies. Malik's most notable student, Al-Shafi'i (who would himself become the founder of another of the four orthodox legal schools of Sunni law) later said of his teacher: "No one constitutes as great a favor to me in the Religion of God as Malik ... when the scholars of knowledge are mentioned, Malik is the guiding star."
+
+
+### Golden Chain of Narration
+
+Malik's chain of narrators was considered the most authentic and called Silsilat al-Dhahab or "The Golden Chain of Narrators" by notable hadith scholars including Muhammad al-Bukhari. The 'Golden Chain' of narration (i.e., that considered by the scholars of Hadith to be the most authentic) consists of Malik, who narrated from Nafi‘ Mawla ibn ‘Umar, who narrated from Ibn Umar, who narrated from Muhammad.
+
+### Mention in hadith
+
+Muhammad reportedly said in a hadith authenticated by Muhammad ibn Isa at-Tirmidhi: "Very soon will people beat the flanks of camels in search of knowledge, and they shall find no-one more knowledgeable than the knowledgeable scholar of Madina." Qadi Ayyad, Al-Dhahabi and others relate from Sufyan ibn Uyaynah, ‘Abd ar-Razzaq as-San‘ani, Ibn Mahdi, Yahya ibn Ma'in, Dhu’ayb ibn Imama, Ibn al-Madini, and others that they considered that scholar to be Malik ibn Anas.
+
 </details>
 
 <details>
