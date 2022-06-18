@@ -54,12 +54,13 @@ Probably I won't be able to finish the whole thing if the content was not about 
 
 I also had to spend additional time adding a cat 🐈 every time the name of noble Abu Huraira comes up because, verily, Abu Huraira that stands for "Father of a kitten" in Arabic truly deserves it.
 
-Mediawiki is a great invention that led to so many further projects and it is really cool but I personally think that it is too complicated. After realizing that you can do so many things without a web server but just with HTML, CSS and JavaScript, I really started to like the simplicity of what's happening behind the building and hosting process.
+After realizing that you can do so many things without a web server but just with HTML, CSS and JavaScript, I really started to like the simplicity of what's happening behind the building and hosting process.
 Well, maybe the fact that I know very little about building a web server plays a significant role here as well.
 
 I really need to finish the Eschatonian part, for now it's hard to figure out the order of events in the signs of Day of Judgement and Al Qiyamah itself.
 
-The main page markdown file is 5000 lines. Islam teaches to finish what you started, so I tried to spend on this at least 10 minutes a day. Slowly it got into shape, Alhamdulillah. but there are still many bugs left.S
+The main page markdown file is 5000 lines. Islam teaches to finish what you started, so I tried to spend on this at least 10 minutes a day. Slowly it got into shape, Alhamdulillah. I had some good time trying to gather particles of an endless puzzle.
+but there are still many bugs left.S
 
 https://miro.com/app/board/o9J_kqBzhXk=/
 

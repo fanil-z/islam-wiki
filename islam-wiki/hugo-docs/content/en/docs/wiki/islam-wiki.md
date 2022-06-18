@@ -3837,6 +3837,17 @@ Born to a Muslim family in Kufa, Abu Hanifa is known to have travelled to the He
 *******************************************
 
 <details>
+  <summary> Islamic Golden Age Briefly</summary>
+
+The Islamic Golden Age was a period of cultural, economic, and scientific flourishing in the history of Islam, traditionally dated from the 8th century to the 14th century. This period is traditionally understood to have begun during the reign of the Abbasid caliph Harun al-Rashid (786 to 809) with the inauguration of the House of Wisdom in Baghdad, the world's largest city by then, where Muslim scholars and polymaths from various parts of the world with different cultural backgrounds were mandated to gather and translate all of the known world's classical knowledge into Aramaic and Arabic.
+
+The period is traditionally said to have ended with the collapse of the Abbasid caliphate due to Mongol invasions and the Siege of Baghdad in 1258. A few scholars date the end of the golden age around 1350 linking with the Timurid Renaissance, while several modern historians and scholars place the end of the Islamic Golden Age as late as the end of 15th to 16th centuries meeting with the Islamic gunpowder empires.
+
+</details>
+
+
+
+<details>
     <summary>Caliphate of Harun al-Rushdi</summary>
 A great cultural renaissance in Baghdad and other cities of the empire. Besides patronizing scholarship, science and arts, the caliph also encourages the study of fiqh and the anthologization of ahadith which will enable the formation of a coherent body of Islamic law (Shariah).  
 </details>
@@ -3862,6 +3873,16 @@ Malik's chain of narrators was considered the most authentic and called Silsilat
 ### Mention in hadith
 
 Muhammad reportedly said in a hadith authenticated by Muhammad ibn Isa at-Tirmidhi: "Very soon will people beat the flanks of camels in search of knowledge, and they shall find no-one more knowledgeable than the knowledgeable scholar of Madina." Qadi Ayyad, Al-Dhahabi and others relate from Sufyan ibn Uyaynah, ‘Abd ar-Razzaq as-San‘ani, Ibn Mahdi, Yahya ibn Ma'in, Dhu’ayb ibn Imama, Ibn al-Madini, and others that they considered that scholar to be Malik ibn Anas.
+
+### Mysticism
+
+On the basis of several early traditions, it is evident that Malik held the early Sufis and their practices in high regard. It is related, moreover, that Malik was a strong proponent of combining the "inward science" ('ilm al-bātin) of mystical knowledge with the "outward science" of jurisprudence. For example, the famous twelfth-century Maliki jurist and judge Qadi Iyad, later venerated as a saint throughout the Iberian Peninsula, narrated a tradition in which a man asked Malik "about something in the inward science," to which Malik replied: "Truly none knows the inward science except those who know the outward science! When he knows the outward science and puts it into practice, God shall open for him the inward science - and that will not take place except by the opening of his heart and its enlightenment." In other similar traditions, it is related that Malik said: "He who practices Sufism (tasawwuf) without learning Sacred Law corrupts his faith (tazandaqa), while he who learns Sacred Law without practicing Sufism corrupts himself (tafassaqa). Only he who combines the two proves true (tahaqqaqa)."
+
+### Sunnah of Muhammad
+Malik considered following the sunnah of Muhammad to be of capital importance for every Muslim. It is reported that he said: "The sunnah is Noah's Ark. Whoever boards it is saved, and whoever remains away from it perishes."
+
+### "I do not know"
+Malik is famous for declaring: "The shield of the 'alim is: 'I do not know.' If he neglects it, he will receive a mortal blow." Elsewhere, a certain Khālid ibn Khidāsh related: "I travelled all the way from Iraq to see Mālik about forty questions. He did not answer me except on five. Then he said: ʿIbn ʿIjlān used to say: If the 'alim bypasses 'I do not know,' he will receive a mortal blow." Likewise, al-Haytham ibn Jamīl said: "I saw Mālik ibn Anas being asked forty-eight questions, and he replied to thirty-two of them: 'I do not know.'" Later on, Malik's disciple, Ibn Wahb, related: "I heard ʿAbd Allāh ibn Yazīd ibn Hurmuz say: 'The 'ulema must instill in those who sit with him the phrase 'I do not know' until it becomes a foundational principle (asl) before them and they seek refuge in it from danger."
 
 </details>
 
@@ -3923,7 +3944,52 @@ Faylasuf and court musician in Aleppo
 </details>
 
 <details>
-    <summary>1037 ibn Sina (Avicenna)</summary>
+    <summary>980 - 1037 ibn Sina (Avicenna)</summary>
+
+Ibn Sina (Persian: ابن سینا; 980 – June 1037 CE), commonly known in the West as Avicenna (/ˌævɪˈsɛnə, ˌɑːvɪ-/), was a Persian polymath who is regarded as one of the most significant physicians, astronomers, philosophers, and writers of the Islamic Golden Age, and the father of early modern medicine.Sajjad H. Rizvi has called Avicenna "arguably the most influential philosopher of the pre-modern era". He was a Muslim Peripatetic philosopher influenced by Greek Aristotelian philosophy. Of the 450 works he is believed to have written, around 240 have survived, including 150 on philosophy and 40 on medicine.
+
+His most famous works are The Book of Healing, a philosophical and scientific encyclopedia, and The Canon of Medicine, a medical encyclopedia which became a standard medical text at many medieval universities and remained in use as late as 1650. Besides philosophy and medicine, Avicenna's corpus includes writings on astronomy, alchemy, geography and geology, psychology, Islamic theology, logic, mathematics, physics, and works of poetry.
+
+
+Avicenna wrote extensively on early Islamic philosophy, especially the subjects logic, ethics and metaphysics, including treatises named Logic and Metaphysics. Most of his works were written in Arabic—then the language of science in the Middle East—and some in Persian. Of linguistic significance even to this day are a few books that he wrote in nearly pure Persian language (particularly the Danishnamah-yi 'Ala', Philosophy for Ala' ad-Dawla'). Avicenna's commentaries on Aristotle often criticized the philosopher,[citation needed] encouraging a lively debate in the spirit of ijtihad.
+
+Avicenna's Neoplatonic scheme of "emanations" became fundamental in the Kalam (school of theological discourse) in the 12th century.
+
+His Book of Healing became available in Europe in partial Latin translation some fifty years after its composition, under the title Sufficientia, and some authors have identified a "Latin Avicennism" as flourishing for some time, paralleling the more influential Latin Averroism, but suppressed by the Parisian decrees of 1210 and 1215.
+
+Avicenna's psychology and theory of knowledge influenced William of Auvergne, Bishop of Paris and Albertus Magnus, while his metaphysics influenced the thought of Thomas Aquinas.
+
+### Argument for God's existence
+
+Avicenna made an argument for the existence of God which would be known as the "Proof of the Truthful" (Arabic: burhan al-siddiqin). Avicenna argued that there must be a "necessary existent" (Arabic: wajib al-wujud), an entity that cannot not exist and through a series of arguments, he identified it with the Islamic conception of God. Present-day historian of philosophy Peter Adamson called this argument one of the most influential medieval arguments for God's existence, and Avicenna's biggest contribution to the history of philosophy.
+
+### Theology
+
+Avicenna was a devout Muslim and sought to reconcile rational philosophy with Islamic theology. His aim was to prove the existence of God and His creation of the world scientifically and through reason and logic. Avicenna's views on Islamic theology (and philosophy) were enormously influential, forming part of the core of the curriculum at Islamic religious schools until the 19th century. Avicenna wrote a number of short treatises dealing with Islamic theology. These included treatises on the prophets (whom he viewed as "inspired philosophers"), and also on various scientific and philosophical interpretations of the Quran, such as how Quranic cosmology corresponds to his own philosophical system. In general these treatises linked his philosophical writings to Islamic religious ideas; for example, the body's afterlife.
+
+There are occasional brief hints and allusions in his longer works, however, that Avicenna considered philosophy as the only sensible way to distinguish real prophecy from illusion. He did not state this more clearly because of the political implications of such a theory, if prophecy could be questioned, and also because most of the time he was writing shorter works which concentrated on explaining his theories on philosophy and theology clearly, without digressing to consider epistemological matters which could only be properly considered by other philosophers.
+
+Later interpretations of Avicenna's philosophy split into three different schools; those (such as al-Tusi) who continued to apply his philosophy as a system to interpret later political events and scientific advances; those (such as al-Razi) who considered Avicenna's theological works in isolation from his wider philosophical concerns; and those (such as al-Ghazali) who selectively used parts of his philosophy to support their own attempts to gain greater spiritual insights through a variety of mystical means. It was the theological interpretation championed by those such as al-Razi which eventually came to predominate in the madrasahs.
+
+Avicenna memorized the Quran by the age of ten, and as an adult, he wrote five treatises commenting on suras from the Quran. One of these texts included the Proof of Prophecies, in which he comments on several Quranic verses and holds the Quran in high esteem. Avicenna argued that the Islamic prophets should be considered higher than philosophers.
+
+Avicenna is generally understood to have been aligned with the Sunni Hanafi school of thought. Avicenna studied Hanafi law, many of his notable teachers were Hanafi jurists, and he served under the Hanafi court of Ali ibn Mamun. Avicenna said at an early age that he remained "unconvinced" by Ismaili missionary attempts to convert him.
+
+### The Canon of Medicine
+
+Avicenna authored a five-volume medical encyclopedia: The Canon of Medicine (Al-Qanun fi't-Tibb). It was used as the standard medical textbook in the Islamic world and Europe up to the 18th century. The Canon still plays an important role in Unani medicine.
+
+### Liber Primus Naturalium
+
+Avicenna considered whether events like rare diseases or disorders have natural causes. He used the example of polydactyly to explain his perception that causal reasons exist for all medical events. This view of medical phenomena anticipated developments in the Enlightenment by seven centuries.
+
+### The Book of Healing
+
+The Book of Healing (also known as The Cure or Assepha) is a scientific and philosophical encyclopedia written by Abu Ali ibn Sīna (aka Avicenna) from medieval Persia, near Bukhara in Maverounnahr. He most likely began to compose the book in 1014, completed it around 1020, and published it in 1027.
+
+This work is Ibn Sina's major work on science and philosophy, and is intended to "cure" or "heal" ignorance of the soul. Thus, despite its title, it is not concerned with medicine.
+
+The book is divided into four parts: logic, natural sciences, mathematics (a quadrivium of arithmetic, geometry, astronomy), and metaphysics. It was influenced by ancient Greek philosophers such as Aristotle; Hellenistic thinkers such as Ptolemy; and earlier Persian/Muslim scientists and philosophers, such as Al-Kindi (Alkindus), Al-Farabi (Alfarabi), and Al-Bīrūnī.
 
 </details>
 
