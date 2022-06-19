@@ -144,7 +144,7 @@ Jibril had special relation with the prophet Muhammed ( ﷺ   ). In most cases h
 
 <span style="color: purple"><b>Israfil</b></span> (frequently associated with the Jewish and Christian angel Raphael), is the archangel who is responsible for signaling the coming of Qiyamah (Judgment Day) by blowing a horn.
 
-<span style="color: blue"><b>Azrail</b></span> is the archangel of death. He and his subordinative angels are responsible for parting the soul from the body of the dead and will carry the believers to heaven (Illiyin) and the unbelievers to hell (Sijjin).
+<span style="color: blue"><b>Azrail</b></span> is the archangel of death. He and his subordinative angels are responsible for parting the soul from the body of the dead and will carry the believers to Barzakh.
 
 Mentioned in Quran:
 * Nāzi'āt and Nāshiṭāt, helpers of Azrail who take the souls of the deceased.
@@ -196,7 +196,7 @@ Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 
 ### Concept
 
-Partly From the narration of Malik ibn Dinar and hiw daughter who hushed away the dragon that was chasing her father. we can derive that good deeds and sins of people are some physical entities. Somehow these entities are combined for your punishment or your blessing in the hereafter.
+Partly From the narration of Malik ibn Dinar and his daughter who hushed away the dragon that was chasing her father. we can derive that good deeds and sins of people are some physical entities in another dimension. Somehow these entities are combined for your punishment or your blessing in the hereafter.
 
 for example, there is also a hadith that says each dhikr is a real seed of your tree in Jannah. 
 
@@ -2703,9 +2703,10 @@ They changed the Kaaba:
 2. made it higher
 3. made the door higher
 4. made the waterspout
-the prophet  ﷺ    I would rebuild it on the original pillar of Ibrahimif people werenot so new to islam. 
+
+the prophet ﷺ    I would rebuild it on the original pillar of Ibrahim if people werenot so new to islam. 
 Abdallah ibn Zubayr separated and made his own khaliphate. he rebuilt te Kaaba and followed the hadith.
-He was crucified in fromt of the Kaaba and that man destroyed it and rebuilt it.
+He was crucified in front of the Kaaba and that man destroyed it and rebuilt it.
 </details>
 
 <details>
@@ -3843,6 +3844,19 @@ The Islamic Golden Age was a period of cultural, economic, and scientific flouri
 
 The period is traditionally said to have ended with the collapse of the Abbasid caliphate due to Mongol invasions and the Siege of Baghdad in 1258. A few scholars date the end of the golden age around 1350 linking with the Timurid Renaissance, while several modern historians and scholars place the end of the Islamic Golden Age as late as the end of 15th to 16th centuries meeting with the Islamic gunpowder empires.
 
+Peoplee who played a vast role in shaping of sciences during the Islamic Golden Age:
+* Al-Zahrawi
+* Abbas ibn Firnas
+* Al-Biruni
+* Avicenna
+* Averroes
+* Ibn al-Nafis
+* ibn Musa al-Khwarizmi
+* Alhazen
+* Ibn Khaldun
+
+paper production from China, translation of Ancient Greek philosophers' works and other, House of Wisdom in Baghdad,  
+
 </details>
 
 
@@ -3891,6 +3905,73 @@ Malik is famous for declaring: "The shield of the 'alim is: 'I do not know.' If 
 
 Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī ( أَبُو عَبْدِ ٱللهِ مُحَمَّدُ بْنُ إِدْرِيسَ ٱلشَّافِعِيُّ, 767–19 January 820 CE) was an Arab Muslim theologian, writer, and scholar, who was the first contributor of the principles of Islamic jurisprudence (Uṣūl al-fiqh). Often referred to as 'Shaykh al-Islām', al-Shāfi‘ī was one of the four great Sunni Imams, whose legacy on juridical matters and teaching eventually led to the formation of Shafi'i school of fiqh (or Madh'hab). He was the most prominent student of Imam Malik ibn Anas, and he also served as the Governor of Najar. Born in Gaza in Palestine (Jund Filastin), he also lived in Mecca and Medina in the Hejaz, Yemen, Egypt, and Baghdad in Iraq.
 
+### Early life
+
+Al-Shafi'i was born in Gaza by the town of Asqalan in 150 AH (767 CE). His father died in Ash-Sham while he was still a child. Fearing the waste of his sharīf lineage, his mother decided to move to Mecca when he was about two years old. Furthermore, his maternal family roots were from Yemen, and there were more members of his family in Mecca, where his mother believed he would better be taken care of. Little is known about al-Shāfi‘ī's early life in Mecca, except that he was brought up in poor circumstances and that from his youth he was devoted to learning. An account states that his mother could not afford to buy his paper, so he would write his lessons on bones, particularly shoulder-bones. He studied under Muslim ibn Khalid az-Zanji, the Mufti of Mecca then, who is thus considered to be the first teacher of Imam al-Shāfi‘ī. By the age of seven, al-Shāfi‘ī had memorised the Qur’an. At ten, he had committed Imam Malik's Muwatta' to heart, at which time his teacher would deputise him to teach in his absence. Al-Shāfi‘ī was authorised to issue fatwas at the age of fifteen.
+
+### Apprenticeship under Imam Mālik
+
+Al-Shāfi‘ī moved to Al-Medinah in a desire for further legal training, as was the tradition of acquiring knowledge. Accounts differ on the age in which he set out to Medina; an account placed his age at thirteen, while another stated that he was in his twenties. There, he was taught for many years by the famous Imam Malik ibn Anas, who was impressed with his memory, knowledge and intelligence. By the time of Imam Mālik's death in 179 AH (795 CE), al-Shāfi‘ī had already gained a reputation as a brilliant jurist. Even though he would later disagree with some of the views of Imam Mālik, al-Shāfi‘ī accorded the deepest respect to him by always referring to him as "the Teacher".
+
+### Yemeni Fitna
+At the age of thirty, al-Shāfi‘ī was appointed as the ‘Abbasid governor in the Yemeni city of Najran. He proved to be a just administrator but soon became entangled with factional jealousies. In 803 CE, al-Shāfi‘ī was accused of aiding the 'Alids in a revolt, and was thus summoned in chains with a number of 'Alids to the Caliph Harun ar-Rashid at Raqqa. Whilst other conspirators were put to death, al-Shafi'i's own eloquent defence convinced the Caliph to dismiss the charge. Other accounts state that the famous Hanafi jurist, Muḥammad ibn al-Ḥasan al-Shaybānī, was present at the court and defended al-Shāfi‘ī as a well-known student of the sacred law. What was certain was that the incident brought al-Shāfi‘ī in close contact with al-Shaybānī, who would soon become his teacher. It was also postulated that this unfortunate incident impelled him to devote the rest of his career to legal studies, never again to seek government service.
+
+### Apprenticeship under Al-Shaybānī, and exposure to Hanafī Jurists
+
+Al-Shāfi'ī travelled to Baghdad to study with Abu Hanifah's acolyte al-Shaybānī and others. It was here that he developed his first madh'hab, influenced by the teachings of both Imam Abu Hanifa and Imam Malik.
+
+It was here that al-Shāfi'ī actively participated in legal arguments with the Hanafī jurists, strenuously defending the Mālikī school of thought. Some authorities stress the difficulties encountered by him in his arguments. Al-Shāfi'ī eventually left Baghdad for Mecca in 804 CE, possibly because of complaints by Hanafī followers to al-Shaybānī that al-Shafi'i had become somewhat critical of al-Shaybānī's position during their disputes. As a result, al-Shāfi'ī reportedly participated in a debate with al-Shaybānī over their differences, though who won the debate is disputed.
+
+In Mecca, al-Shāfi'ī began to lecture at the Sacred Mosque, leaving a deep impression on many students of law, including the famous Hanbali jurist, Ahmad Ibn Hanbal. Al-Shāfi'ī's legal reasoning began to mature, as he started to appreciate the strength in the legal reasoning of the Hanafī jurists, and became aware of the weaknesses inherent in both the Mālikī and Hanafī schools of thought.
+
+### Departure to Baghdad and Egypt
+
+Al-Shāfi'ī eventually returned to Baghdad in 810 CE. By this time, his stature as a jurist had grown sufficiently to permit him to establish an independent line of legal speculation. Caliph al-Ma'mun is said to have offered al-Shāfi'ī a position as a judge, but he declined the offer.
+
+### Connection with the family of Muhammad
+
+In 814 CE, al-Shāfi'ī decided to leave Baghdad for Egypt. The precise reasons for his departure from Iraq are uncertain, but it was in Egypt that he would meet another tutor, Sayyida Nafisa bint Al-Hasan, who would also financially support his studies, and where he would dictate his life's works to students. Several of his leading disciples would write down what al-Shāfi'ī said, who would then have them read it back aloud so that corrections could be made. Al-Shāfi'ī biographers all agree that the legacy of works under his name are the result of those sessions with his disciples.
+
+Nafisa was a descendant of Muhammad, through his grandson Hasan ibn Ali, who married another descendant of Muhammad, that is Ishaq al-Mu'tamin, the son of the Imam Ja'far al-Sadiq, who was reportedly a teacher of ash-Shafi'i's teacher Malik ibn Anas and Abu Hanifah. Thus all of the four great Imams of Sunni Fiqh (Abu Hanifah, Malik, his student Ash-Shafi'i, and his student Ibn Hanbal) are connected to Imam Ja'far from the Bayt (Household) of Muhammad, whether directly or indirectly.
+
+
+### Legacy
+
+#### Islam, Fiqh, Sunnah
+
+Al-Shāfi'ī is credited with creating the essentials of the science of fiqh (the system of Islamic jurisprudence). He designated the four principles/sources/components of fiqh, which in order of importance are:
+
+1. The Qur’an.
+2. Hadith. i.e collections of the words, actions, and silent approval of Muhammad. (Together with the Qur'an these make up "revealed sources".).
+3. Ijma. i.e. the consensus of the (pure traditional) Muslim community.  consensus or agreement of the Islamic community on a point of Islamic law.
+4. Qiyas. i.e. the method of analogy. Qiyas (Arabic: قياس) is the process of deductive analogy in which the teachings of the hadith are compared and contrasted with those of the Quran, in order to apply a known injunction (nass) to a new circumstance and create a new injunction. 
+
+With this systematisation of shari'a, he provided a legacy of unity for all Muslims and forestalled the development of independent, regionally based legal systems. The four Sunni legal schools or madhhabs keep their traditions within the framework that Shafi'i established. One of the schools – Shafi'i fiqh – is named for Al-Shāfi‘ī. It is followed in many different places in the Islamic world: Indonesia, Malaysia, Egypt, Ethiopia, Somalia, Yemen , west of Iran,as well as Sri Lanka and southern parts of India, especially in the Malabar coast of North Kerala and Canara region of Karnataka.
+
+Al-Shāfi‘ī emphasised the final authority of a hadith of Muhammad so that even the Qur'an was "to be interpreted in the light of traditions (i.e. hadith), and not vice versa." While traditionally the Quran is considered above the Sunna in authority, Al-Shafi'i "forcefully argued" that the sunna stands "on equal footing with the Quran", (according to scholar Daniel Brown) for – as Al-Shafi'i put it – "the command of the Prophet is the command of Almighty Allah ."
+
+Al-Shāfi‘ī "insists time after time that nothing can override the authority of the Prophet, even if it be attested only by an isolate tradition, and that every well-authenticated tradition going back to the Prophet has precedence over the opinions of his Companions, their Successors, and later authorities."
+
+The focus by the Muslim community on ahadith of Muhammad and disinterest in ahadith of Muhammad's companions (whose ahadith were commonly used before Al-Shāfi‘ī since most of whom survived him and spread his teachings after his death) is thought (by scholar Joseph Schacht) to reflect the success of Al-Shāfi‘ī's doctrine.
+
+Al-Shāfi‘ī influence was such that he changed the use of the term Sunnah, "until it invariably meant only the Sunnah of the Prophet" (according to John Burton this was his "principle achievement"). While earlier, sunnah had been used to refer to tribal manners and customs, (and while Al-Shāfi‘ī distinguished between the non-authoritative "sunnah of the Muslims" that was followed in practice, and the "sunnah of the Prophet" that Muslims should follow), sunnah came to mean the Sunnah of Muhammad.
+
+In the Islamic sciences, Burton credits him with "the imposition of a formal theoretical distinction" between `the Sunnah of the Prophet` and the Quran, "especially where the two fundamental sources appeared to clash".
+
+#### Kalam
+
+Al-Shafi'i was part of those early traditionalist theologians who strongly opposed Kalam and criticised the speculative theologians for abandoning the Qur'an and Sunnah through their adoption of Kalam.
+
+#### Books
+
+He authored more than 100 books. But most them have not reached us. The extant works of his which are accessible today are:
+* Al-Risala – The best-known book by al-Shafi'i in which he examined principles of jurisprudence. The book has been translated into English.
+* Kitab al-Umm – his main surviving text on Shafi'i fiqh
+* Musnad al-Shafi'i (on hadith) – it is available with arrangement, Arabic 'Tartib', by Ahmad ibn Abd ar-Rahman al-Banna
+* Ikhtilaf al Hadith
+* Al sunan al Ma’thour
+* Jma’ al ilm
+
 </details>
 
 
@@ -3929,8 +4010,8 @@ Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed h
 </details>
 
 <details>
-    <summary>Ibn Hazm, poet, vizier, theologian</summary>
-
+    <summary>Ibn Hazm</summary>
+poet, vizier, theologian
 </details>
 
 <details>
@@ -3949,7 +4030,6 @@ Faylasuf and court musician in Aleppo
 Ibn Sina (Persian: ابن سینا; 980 – June 1037 CE), commonly known in the West as Avicenna (/ˌævɪˈsɛnə, ˌɑːvɪ-/), was a Persian polymath who is regarded as one of the most significant physicians, astronomers, philosophers, and writers of the Islamic Golden Age, and the father of early modern medicine.Sajjad H. Rizvi has called Avicenna "arguably the most influential philosopher of the pre-modern era". He was a Muslim Peripatetic philosopher influenced by Greek Aristotelian philosophy. Of the 450 works he is believed to have written, around 240 have survived, including 150 on philosophy and 40 on medicine.
 
 His most famous works are The Book of Healing, a philosophical and scientific encyclopedia, and The Canon of Medicine, a medical encyclopedia which became a standard medical text at many medieval universities and remained in use as late as 1650. Besides philosophy and medicine, Avicenna's corpus includes writings on astronomy, alchemy, geography and geology, psychology, Islamic theology, logic, mathematics, physics, and works of poetry.
-
 
 Avicenna wrote extensively on early Islamic philosophy, especially the subjects logic, ethics and metaphysics, including treatises named Logic and Metaphysics. Most of his works were written in Arabic—then the language of science in the Middle East—and some in Persian. Of linguistic significance even to this day are a few books that he wrote in nearly pure Persian language (particularly the Danishnamah-yi 'Ala', Philosophy for Ala' ad-Dawla'). Avicenna's commentaries on Aristotle often criticized the philosopher,[citation needed] encouraging a lively debate in the spirit of ijtihad.
 
@@ -3990,6 +4070,45 @@ The Book of Healing (also known as The Cure or Assepha) is a scientific and phil
 This work is Ibn Sina's major work on science and philosophy, and is intended to "cure" or "heal" ignorance of the soul. Thus, despite its title, it is not concerned with medicine.
 
 The book is divided into four parts: logic, natural sciences, mathematics (a quadrivium of arithmetic, geometry, astronomy), and metaphysics. It was influenced by ancient Greek philosophers such as Aristotle; Hellenistic thinkers such as Ptolemy; and earlier Persian/Muslim scientists and philosophers, such as Al-Kindi (Alkindus), Al-Farabi (Alfarabi), and Al-Bīrūnī.
+
+### Astronomy and astrology
+
+Skull of Avicenna, found in 1950 during construction of the new mausoleum
+Avicenna wrote an attack on astrology titled Resāla fī ebṭāl aḥkām al-nojūm, in which he cited passages from the Quran to dispute the power of astrology to foretell the future. He believed that each planet had some influence on the earth, but argued against astrologers being able to determine the exact effects.
+
+Avicenna's astronomical writings had some influence on later writers, although in general his work could be considered less developed than Alhazen or Al-Biruni. One important feature of his writing is that he considers mathematical astronomy as a separate discipline to astrology. He criticized Aristotle's view of the stars receiving their light from the Sun, stating that the stars are self-luminous, and believed that the planets are also self-luminous. He claimed to have observed Venus as a spot on the Sun. This is possible, as there was a transit on 24 May 1032, but Avicenna did not give the date of his observation, and modern scholars have questioned whether he could have observed the transit from his location at that time; he may have mistaken a sunspot for Venus. He used his transit observation to help establish that Venus was, at least sometimes, below the Sun in Ptolemaic cosmology, i.e. the sphere of Venus comes before the sphere of the Sun when moving out from the Earth in the prevailing geocentric model.
+
+He also wrote the Summary of the Almagest, (based on Ptolemy's Almagest), with an appended treatise "to bring that which is stated in the Almagest and what is understood from Natural Science into conformity". For example, Avicenna considers the motion of the solar apogee, which Ptolemy had taken to be fixed.
+
+### Chemistry
+
+Avicenna was first to derive the attar of flowers from distillation and used steam distillation to produce essential oils such as rose essence, which he used as aromatherapeutic treatments for heart conditions.
+
+Unlike al-Razi, Avicenna explicitly disputed the theory of the transmutation of substances commonly believed by alchemists:
+
+> Those of the chemical craft know well that no change can be effected in the different species of substances, though they can produce the appearance of such change.
+
+Four works on alchemy attributed to Avicenna were translated into Latin as:
+* Liber Aboali Abincine de Anima in arte Alchemiae
+* Declaratio Lapis physici Avicennae filio sui Aboali
+* Avicennae de congelatione et conglutinatione lapidum
+* Avicennae ad Hasan Regem epistola de Re recta
+
+Liber Aboali Abincine de Anima in arte Alchemiae was the most influential, having influenced later medieval chemists and alchemists such as Vincent of Beauvais.
+
+### Legacy
+#### Classical Islamic civilization
+
+Robert Wisnovsky, a scholar of Avicenna attached to McGill University, says that "Avicenna was the central figure in the long history of the rational sciences in Islam, particularly in the fields of metaphysics, logic and medicine" but that his works didn't only have an influence in these "secular" fields of knowledge alone, as "these works, or portions of them, were read, taught, copied, commented upon, quoted, paraphrased and cited by thousands of post-Avicennian scholars—not only philosophers, logicians, physicians and specialists in the mathematical or exact sciences, but also by those who specialized in the disciplines of ʿilm al-kalām (rational theology, but understood to include natural philosophy, epistemology and philosophy of mind) and usūl al-fiqh (jurisprudence, but understood to include philosophy of law, dialectic, and philosophy of language)."
+
+#### Middle Ages and Renaissance
+
+Inside view of the Avicenna Mausoleum, designed by Hooshang Seyhoun in 1945–1950
+As early as the 14th century when Dante Alighieri depicted him in Limbo alongside the virtuous non-Christian thinkers in his Divine Comedy such as Virgil, Averroes, Homer, Horace, Ovid, Lucan, Socrates, Plato and Saladin. Avicenna has been recognized by both East and West as one of the great figures in intellectual history. Johannes Kepler cites Avicenna's opinion when discussing the causes of planetary motions in Chapter 2 of Astronomia Nova 
+
+George Sarton, the author of The History of Science, described Avicenna as "one of the greatest thinkers and medical scholars in history" and called him "the most famous scientist of Islam and one of the most famous of all races, places, and times". He was one of the Islamic world's leading writers in the field of medicine.
+
+Along with Rhazes, Abulcasis, Ibn al-Nafis and al-Ibadi, Avicenna is considered an important compiler of early Muslim medicine. He is remembered in the Western history of medicine as a major historical figure who made important contributions to medicine and the European Renaissance. His medical texts were unusual in that where controversy existed between Galen and Aristotle's views on medical matters (such as anatomy), he preferred to side with Aristotle, where necessary updating Aristotle's position to take into account post-Aristotelian advances in anatomical knowledge. Aristotle's dominant intellectual influence among medieval European scholars meant that Avicenna's linking of Galen's medical writings with Aristotle's philosophical writings in the Canon of Medicine (along with its comprehensive and logical organisation of knowledge) significantly increased Avicenna's importance in medieval Europe in comparison to other Islamic writers on medicine. His influence following translation of the Canon was such that from the early fourteenth to the mid-sixteenth centuries he was ranked with Hippocrates and Galen as one of the acknowledged authorities, princeps medicorum ("prince of physicians").
 
 </details>
 
@@ -4253,8 +4372,76 @@ Allahu 'Alim.
 
   </summary> 
 
+Before talking about the Hereafter, we must contemplate on what happens after a person dies.
 
-People who died they end up in the Barzak. It is the world of souls where they wait for their resurrection and the Final Judjement.
+Barzakh (برزخ,  "limbo, barrier, partition" is an Arabic word meaning "obstacle", "hindrance", "separation", or "barrier") in Islam designates a place separating the living from the hereafter or a phase/"stage" between an individual's death and their resurrection in "the Hereafter".
+
+[What exactly happens during and after death? 
+1. Azrail comes to a person to take lead his soul to Barzak.
+2. Until a person is buried and mourners go home, the angels come? Somehow physically it is in the same place as the grave only in a different dimension?]
+
+Souls also leave the body during our sleep.
+
+    It is Allah Who takes away the souls at the time of their death, and those that die not during their sleep. He keeps those (souls) for which He has ordained death and sends the rest for a term appointed. Verily, in this are signs for a people who think deeply”
+    az-Zumar 39:42
+
+In the name of Allah, The Almighty Creator, Owner of Life and Death.
+
+Holy Quran - As-Sajda 32:11
+
+(Muhammad), say “The angel of death, who is appointed over everyone of you, will cause you to die and to your Lord you will all return”
+
+In Islam, when someone is about to die then few things will happen:
+
+Few moments before death, the person would start to see what is usually unseen for the human eyes (God describe this as the eyes being unveiled to finally see the truth)
+The Angel of Death will come to the person but how the look of the Angel of Death depends on the state of the person (which means how the Angel will appear is determined by the deeds of the person: Good deeds or bad deeds)
+When a good person dies (a person who did good deeds): The Angel of Death will appear as a bright entity, very bright light, beautiful face, clean, with hundreds of other angels behind him gathering, holding perfumes from Paradise, greeting the human being with peace (Salam). The angel will then take the soul out of the dying person’s softly as a drop of water.
+When an evil person dies (a person who committed sins, bad deed): The Angel of Death will appear as a very terrifying entity, his look will be so terrifying that the person would not bare to look at him. To the extend his soul would want to run away hiding from the Angel of Death. The Angel will not great such person with Salam (peace), The Angel will violently tear away the soul from his body, so violent that the person would feel terrifying pain as if he would feel sharp rose thorns ripping him apart from the inside out. That’s how violent the Angel will rip apart the soul of the person who committed evil.
+Holy Quran - An-Naazi’aat 79:1
+
+By the angels who violently tear-out the souls of the disbelievers from their bodies.
+
+Holy Quran - An-Naazi’aat 79:2
+
+By the angels who gently release the souls of the believers.
+
+———————————————-
+
+This is the reason why in Islam, we are all encouraged to do goodness because no body knows when we are going to die. We are encouraged to do good deeds because if we die when we are doing good, then we will have a peaceful death, the angels will welcome you, and God will be pleased with you that you died right just after doing good.
+
+Islam teaches us to constantly be prepared for death for death can come at any moment, it can come today, tomorrow, in one month, in months, in years, we do not know. SO we always must be prepared for it.
+
+Every person will feel the agony of death or what we call the intoxication of death. This means that before dying, the body will feel what is coming, the body will feel death is approaching, it’s a feel no one can describe, except that God mentioned that death comes with an agony and that everyone will feel it.
+
+Holy Quran - Qaaf 50:18
+
+The human being will certainly experience the agony of death.
+
+Holy Quran - Qaaf 50:22
+
+(HE will be told), “You were completely heedless of this day. We have removed the veil from your eyes and your vision will now be sharp and strong”
+
+The veil that hides the world of the unseen will be removed moments before death, so that the dying person would be aware of what is going and so that the dying person would start seeing the Angel of Death with his own eyes.
+
+Holy Quran - Al-Furqaan 25:21
+
+On the day when the criminals see the angels, there will, certainly, be no rejoicing for them. rather, they will plead to the angels, “Please keep away from us (do not drive us into hell)”
+
+The verse above is a confirmation that on the moment of death, the human being will see the angels, before the soul will be taken out of the body
+
+This video will give you a clear explanation of Death in Islam and what would happen. I love this series provided by Sheikh Bilal Asad. (Start at 19:50)
+
+People who die end up in the Barzak. It is the world of souls where they wait for their resurrection and the Final Judjement.
+
+After a person is buries, two angels come to the died person and ask questions.  Munkar and Nakir (منكر ونكير) (English translation: "The Denied and The Denier") are angels who test the faith of the dead in their graves. The questioning will begin when the funeral and burial is over. Nakir and Munkar prop the deceased soul upright in the grave and ask three questions:
+
+1. Who is your Lord?
+2. What is your religion?
+3. Who is your prophet?
+
+A righteous believer will respond correctly, saying that their Lord is Allah, that Muhammad is their prophet and that their religion is Islam. If the deceased answers correctly, the time spent awaiting the resurrection is pleasant and may enter heaven. Those who do not answer as described above are chastised until the day of judgment. There is belief that the fire of hell can already be seen in Barzakh, and that the spiritual pain caused by this can lead to purification of the soul.
+
+Muslims believe that a person will correctly answer the questions not by remembering the answers before death but by their iman (faith) and deeds such as salat (prayer) and shahadah (the Islamic profession of faith).
 
 </details>
 
@@ -4270,13 +4457,16 @@ There is a hadith that prophet Muhammad said, How can I ever relax when I know t
 
 There is a hadith that says the Trumped or the Horn will not be blown until there is no one left in this dunya who says La ilaha illallah. So before the beginning of the Hereafter, Allah will send a warm wind to this world, which will take away the souls of the believers.
 
-Therefore, the people who will be then alive on the face of the earth will hear this blow that will cause the end of the world, and all of a sudden they will be struck insensible and will fall dead to an extent that none of them will be able to make a will. Allaah Says (what means): {They do not await except one blast, which will seize them while they are disputing. And they will not be able [to give] any instruction, nor to their people can they return.}[Quran 36:49-50]
+Therefore, the people who will be then alive on the face of the earth will hear this blow that will cause the end of the world, and all of a sudden they will be struck insensible and will fall dead to an extent that none of them will be able to make a will. Allaah Says (what means): 
+    
+    They do not await except one blast, which will seize them while they are disputing. And they will not be able [to give] any instruction, nor to their people can they return.
+    Quran 36:49-50
 
 On the other hand, a Hadeeth reads: “Then the Trumpet will be blown, and no one hears it except that he will bend his neck to one side (in an attempt to listen to it) and raise it from the other side.” Then he [the Prophet  sallallaahu  alayhi  wa  sallam ( may  Allaah exalt his mention )] said: "And the first to hear it (the Trumpet) will be a man who is busy in repairing the tank meant for supplying water to his camels. He [the Prophet  sallallaahu  alayhi  wa  sallam ( may  Allaah exalt his mention )] said: "He will fall dead and the people will also fall dead." Moreover, the Prophet  sallallaahu  alayhi  wa  sallam ( may  Allaah exalt his mention ) told us about the speed of the death of the people when the Hour will take place, as he said: 
     
     "The Hour will occur while two men spreading a garment in front of them but they will not be able to sell it, nor fold it up; and the Hour will be established when a man has milked his she-camel and has taken away the milk but he will not be able to drink it; and the Hour will be established before a man repairing a tank (for his livestock) is able to water (his animals) in it; and the Hour will be established when a person has raised a morsel (of food) to his mouth but will not be able to eat it."
 
-Wuran says that the veil will be removed and people will be able to see the unseen.
+Quran says that the veil will be removed and people will be able to see the unseen.
 sky will be opened.
 
 </details>
