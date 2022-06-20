@@ -4368,22 +4368,43 @@ Allahu 'Alim.
 <details>
   <summary>
     
-## Barzakh
+## Death. What happens when people die
 
   </summary> 
 
 Before talking about the Hereafter, we must contemplate on what happens after a person dies.
 
-Barzakh (برزخ,  "limbo, barrier, partition" is an Arabic word meaning "obstacle", "hindrance", "separation", or "barrier") in Islam designates a place separating the living from the hereafter or a phase/"stage" between an individual's death and their resurrection in "the Hereafter".
+People who die end up in the Barzak. It is the world of souls where they wait for their resurrection and the Final Judjement. Barzakh (برزخ,  "limbo, barrier, partition" is an Arabic word meaning "obstacle", "hindrance", "separation", or "barrier") in Islam designates a place separating the living from the hereafter or a phase/"stage" between an individual's death and their resurrection in "the Hereafter".
 
-[What exactly happens during and after death? 
-1. Azrail comes to a person to take lead his soul to Barzak.
-2. Until a person is buried and mourners go home, the angels come? Somehow physically it is in the same place as the grave only in a different dimension?]
+What happens during and after death? 
+1. At the moment of death, the veil is removed from a person and this person starts to see the unseen.
+2. Two angels come to the person and separate his soul from the body. The appearence of the angels is different: for good people, the angels descent with bright faces; for bad people, the angels have a scary appearence.
+3. Angels take the soul of a person to Heavens, where he is dressed up and fragnanced according to his deeds.
+4. Soul is sent back to earth to the person's body.
+5. In the grave, two angels Munkar and Nakir with unknown appearence come to the soul and ask the soul who is his Lord, who is the man that was sent to you and what is your religion.
+6. Soul is asked to look to the left, where he sees Hell and frightened. If the person was a believer and done good deeds, angels say that Allah saves you from torment because you were a believer. Then the souls is asked to look to the right where he sees the Heaven. When he sees the Heaven, he asks God to end this world so that he can come to Jannah right now.
+7. (The souls is put to sleep? or also souls can communicate with each other.)
+
+The Unseen World Becomes Visible at Death
+
+فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُ‌كَ الْيَوْمَ حَدِيدٌ (Now We have removed your veil from you; so your sight today is sharp...50:22). There is a difference of opinion regarding the addressees of this verse. The preferred opinion is that Allah addresses mankind in general. This includes the believers, the unbelievers, the pious and the wicked. Ibn Jarir, Ibn Kathir and others have adopted this interpretation. The analogy drawn here is that this world is like the dream-world and the Hereafter is like the state of wakefulness. When man is in the dream-world, his eyes are closed and cannot perceive by his physical organs of sight the stark realities of the next world. When the physical organs of sight close, his dream-world ends and the state of wakefulness begins, and he is able to discern the stark realities of the Hereafter. Therefore, scholars have formulated the following aphorism:
+
+النَّاسُ نِیَامُ فَاذِا مَاتُوا اِنتَبَھُوا
+
+"People are sleeping in this world; when they die, they will wake up.
 
 Souls also leave the body during our sleep.
 
     It is Allah Who takes away the souls at the time of their death, and those that die not during their sleep. He keeps those (souls) for which He has ordained death and sends the rest for a term appointed. Verily, in this are signs for a people who think deeply”
     az-Zumar 39:42
+
+Al-Bara’ ibn ‘Azib reported: The Prophet, peace and blessings be upon him, said, “Verily, when the believer is ready to depart the world and is facing the Hereafter, angels from heaven descend with bright faces, as if their faces were the sun, with them are the shrouds and perfumes of Paradise, until they sit from him a distance as far as the eye can see. Then, the angel of death, upon him be peace, comes until he sits by his head and he says: O pure soul, come out to the forgiveness of Allah and His pleasure! He takes it out like a drop from a water-skin and holds it, never to leave his hand for the blink of an eye until he places it in that shroud and perfume. The scent coming from it is more pleasant than any musk you would find on the face of the earth. He ascends and passes by no gathering of angels but that they say: What a pure spirit! They say he is this person, son of this person, calling him by the best names by which he was known in the world, until he stops at the lowest heaven and seeks entry and it will be opened for him. The company of each heaven bring him closer to the heaven following it until he stops at the seventh heaven. Allah Almighty will say: Write the record of My servant in the righteous register and return him to the earth, for from it I created them, to it I return them, and from it I will take them out once again. His spirit will be returned to his body and two angels will come to sit by him, saying to him: Who is your Lord? He will say: My Lord is Allah. They will say: What is your religion? He will say: My religion is Islam. They will say: Who is this man sent you? He will say: He is the Messenger of Allah, peace and blessings be upon him. They will say: How did you know? He will say: I read the Book of Allah, had faith in it, and believed in it. A heavenly announcement will be made: My servant has spoken the truth! Spread out carpets for him in Paradise, clothe him for Paradise, and open a gate for him to Paradise! Its comforts and fragrances will come to him and his grave will become spacious as far as his eye can see. A handsome man, with fine clothes and wonderful fragrance, will come and say: Glad tidings of what pleases you, for this was your Day you were promised! He will say: Who are you with such a handsome face? He will say: I am your righteous deeds! He will say: O Lord, begin the Hour that I may return to my family and property!”
+
+The Prophet continued, “Verily, when the unbeliever is ready to depart the world and is facing the Hereafter, angels descend from heaven with darkened faces and with them sack-cloth. They will sit away from his as far as the eye can see. Then, the angel of death approaches until he sits by his head and he says: O filthy soul, come out to the displeasure of Allah and His wrath! He will be separated from his body like the tearing of skewers from wet wool and he holds it in his hand, never to leave it for the blink of an eye, until he places it in this sack-cloth. The scent coming from it is like the most foul corpse found upon the face of the earth. They will ascend with him and not pass by a gathering of angels but that they say: What a filthy spirit! They say he is this person, son of this person, calling him by the ugliest names by which he was known in the world, until he stops at the lowest heaven. They will request it to be opened for him but it will not open.” Then, the Prophet recited the verse, “The gates of heaven will never open for them, nor will they enter Paradise, until the camel goes through the eye of the needle,” (7:40). The Prophet said, “Allah Almighty will say: Write his record in the wicked register in the lowest earth. His spirit will be thrown down,” then the Prophet recited the verse, “It is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place,” (22:31). The Prophet said, “His spirit will return to his body and two angels will come to sit by him, saying to him: Who is your Lord? He will say: Uh, uh, I do not know! They will say: What is your religion? He will say: Uh, uh, I do not know! They will say: Who is this man sent to you? He will say: Uh, uh, I do not know! A heavenly announcement will be made: He has lied! Spread carpets for him in Hellfire and open a gate for him to Hellfire! Its heat and its flames will approach him, and he will be squeezed in his grave until his ribs press together. An ugly man, with hideous clothing and a foul stench, will approach him and say: Glad tidings of what despairs you, for this is your Day you were promised! He will say: Who are with your evil face? He will say: I am your wicked deeds! He will say: O Lord, do not begin the Hour!”
+
+Source: Musnad Aḥmad 18534
+
+Grade: Sahih (authentic) according to Al-Arna’ut
 
 In the name of Allah, The Almighty Creator, Owner of Life and Death.
 
@@ -4431,8 +4452,6 @@ The verse above is a confirmation that on the moment of death, the human being w
 
 This video will give you a clear explanation of Death in Islam and what would happen. I love this series provided by Sheikh Bilal Asad. (Start at 19:50)
 
-People who die end up in the Barzak. It is the world of souls where they wait for their resurrection and the Final Judjement.
-
 After a person is buries, two angels come to the died person and ask questions.  Munkar and Nakir (منكر ونكير) (English translation: "The Denied and The Denier") are angels who test the faith of the dead in their graves. The questioning will begin when the funeral and burial is over. Nakir and Munkar prop the deceased soul upright in the grave and ask three questions:
 
 1. Who is your Lord?
@@ -4451,6 +4470,8 @@ Muslims believe that a person will correctly answer the questions not by remembe
 ## Israfil Blows the Trumpet the first time (Destruction)
 
   </summary> 
+
+Only Allah knows when the Hour comes. And at some point in time, the last hour will come.
 
 The Akhirat will start after Israfil blows the trumpet for the first time.
 There is a hadith that prophet Muhammad said, How can I ever relax when I know that Israfil is already holding the trumped in his mouth and looking at the Throne of Allah waiting for the signal to blow it.
