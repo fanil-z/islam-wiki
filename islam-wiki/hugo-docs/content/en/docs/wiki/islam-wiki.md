@@ -4247,13 +4247,21 @@ universities and charity projects
 <details>
   <summary><b>The World in General</b></summary> 
 
-Many scholars agree that we are living in the end times.
-The current state of morality and society development is somehow controversial. on the one hand we see technology development and how immense amount of knowledge becomes publiclly available for anyone who has Internet connection.
-The democracy is evolving, compared to the past, people are more able to give their voice and stand out for their rights. Living conditions in 21st century become so luxurious compared to what humanity had in the last century. If you think about it, even cities in the beginning of the 20th century didn't even have sewers. 
-1. Hovewer, there are so many countries who still strive for food and the rarest seem to care about it.
-US, EU and China are printing money trying to keep up the pace but this results in further impoverishment of less fortunate countries.
-2. And another downside is we see that in most countries government still didnot get rid of propaganda tactics through pro-gov media to manipulate minds.
-3. MTV, Hollywood, Instagram, Tik-Tok, homosexuality and pornography values. If you focus on this part of the side-effects of developed countries, without a doubt we are living in a new era of Jaahiliyah. 
+In Islam, the arrival of Judgement Day is prophesied in various ḥadīth collections to be preceded by "signs" or portents of its arrival. These signs tend to fall into disruptions in the order of human morality (music, wine drinking, usury, fornication, homosexuality, and disobedience by wives, senseless murders, lying and cheating, disinterest in and ignorance of religion) and the natural world (frequent unexpected deaths, excessive lightning, destructive rainfall, terrible drought, a huge cloud of smoke, the opening up of huge cracks in the earth -- khasf -- to swallow masses of people alive, the sun rising in the west, poisonous winds that kill all the faithful);
+include the appearance of wicked forces such as the AntiChrist figure al-Dajjāl, Gog and Magog, and Sufyani. but also savior(s) the Mahdi and Jesus, who along with divine intervention, will restore order and crush the
+The signs may be divided into "minor" signs (these happen first), or "major" signs. (scholars agree there are ten of these but not what they are). They may also be divided into signs that have already happened, are currently happening, or have yet to happen.
+
+Savior and evil-doing figures that appear in the major signs include:
+
+Al-Masih ad-Dajjal (Arabic: المسيح الدجّال, romanized: al-Masīḥ ad-Dajjāl, lit. 'Deceitful Messiah'), is blind in one eye, and will deceive starving masses -- especially the Jews -- by performing miracles. He will raise an army that will kill and conquer, and corner his nemesis, the Mahdi, along with a small army of Muslim fighters in Jerusalem. Jesus will descend from heaven just in time to kill him and defeat his army.
+
+The Mahdi (Arabic: ٱلْمَهْدِيّ, romanized: al-mahdīy), i.e. the "Rightly Guided One", is a messianic figure descended from Muhammad through Ali, who (with the help of Jesus) will defeat the Dajjal, reestablish Islamic law, rid the world of bid'a (religious innovation), and fill it with justice;
+
+Jesus (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, romanized: ʿĪsā ibn Maryam, lit. 'Isa, son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
+
+Gog and Magog (Arabic: يأجوج ومأجوج) are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one")[37] who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
+
+The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
 
 </details>
 
@@ -4288,6 +4296,11 @@ Gabriel had such strong impact on Daniel that he had to recover several days.
 <details>
 	<summary>Gog and Magog (Yadjuj and Madjuj)</summary> 
 
+Two chapters of the Quran, Al Kahf and Al-Anbiya, discuss Gog and Magog. In the Quran Yajuj and Majuj (Gog and Magog) are suppressed by Dhul-Qarnayn "the two-horned one." Dhul-Qarnayn, having journeyed to the ends of the world, meets "a people who scarcely understood a word" who seek his help in building a barrier that will separate them from the people of Yajuj and Majuj who "do great mischief on earth". He agrees to build it for them, but warns that when the time comes (Last Age), Allah will remove the barrier.
+
+According to Sahih Muslim, the Prophet said:
+>Then a people whom Allah had protected from him (dajjal) would come to Isa, son of Maryam, and he would wipe their faces and would inform them of their ranks in Paradise and it would be under such conditions that Allah would reveal to Isa (alaihis salam) these words: I have brought forth from amongst My servants such people against whom none would be able to fight; you take these people safely to Tur, and then Allah would send Gog and Magog and they would swarm down from every slope. The first of them would pass the lake of Tiberias and drink out of it. And when the last of them would pass, he would say: There was once water there.
+
 </details>
 
 <details>
@@ -4297,7 +4310,7 @@ Gabriel had such strong impact on Daniel that he had to recover several days.
 
 <details>
 	<summary>A fire would come out of Yemen</summary> 
-The fire will make people 
+The fire will make people run towards the place of Judgement 
 </details>
 
 <details>
@@ -4330,6 +4343,14 @@ and since then, the repentance will not be anymore accepted.
 <details>
 	<summary>The Beast appears on the Earth</summary> 
 The Beast will come out at that time. and it will leave marks on people as believer or non-believer.
+
+The Beast of the Earth (Arabic: دَابَّة الأَرْض, romanized: Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Qur'an mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
+
+    And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
+    Quran 27:82
+
+Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
+
 </details>
 
 <details>
@@ -4533,9 +4554,14 @@ In another version, eight angels who carry the Throne of Allah die before the An
 The first resurrected creatures will the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
 The second blow will signal the resurrection from the dead all creatures that were once alive.
 
+After the final signs of The Hour -- the defeat of the Sufyani; the end of the just reign of the Madhi and/or Jesus; the rising of the sun from the west; the peaceful death all believers from inhalation of a lethal breeze -- a trumpet will blast signaling the destruction of earth (Q.69:13–16); a second blast will signal the death of any being still living (except God).
+
+The dead will then be resurrected and Afterlife commence with yet another trumpet blast, (different sources give different numbers of trumpet blasts) The first to arise will be Muhammad, followed by the other members of the Muslim community. with all gathering at the place of assembly [al-maḥshar]. In between resurrection and the actual judgement will be an agonizing wait (Q.21:103, Q.37:20) for the unbelievers.
+
 The Judgement will not start for a long time, maybe thousands of years. People will worry about their deeds all the time. and they will come to prophets asking them to intercede in front of Allah to start the Jidgement because they can no longer wait. They will come to Adam, but Adam will say "Nafsi, nafsi", meaning that he is worried about himself because he disobeyed Allah and ate from the Tree and Allah is so angry at this point as He has never been before.
 Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, nafsi.
-And finally they will come to the prophet Muhammad  ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad  ﷺ    will say "This is a job for me".
+And finally they will come to the prophet Muhammad ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad ﷺ    will say "This is a job for me".
+
 </details>
 
 
@@ -4572,12 +4598,21 @@ There are several narrations that some of the people who ended up in Jahannam wi
 
 The Mizan. the Scale
 
+Separation of the righteous and the damned
+At divine judgment, the resurrected will stand in a grand assembly, each person's Book of Deeds -- where "every small and great thing is recorded" -- will be read, and ultimate judgment made. The resurrected will then walk over the bridge of As-Sirāt, those judged worthy for the Garden continuing to their heavenly abode, those damned to The Fire, falling off the bridge into the pit of Jahannam. There will also be a punishment of the grave (for those who disbelieved) between death and the resurrection.
+
+Not everyone consigned to hell will remain there, as it is believed by both scholars and lay Muslims that "all but the mushrikun, those who have committed the worst sin of impugning the tawḥīd of God, have the possibility of being saved;" and God's intercession to save sinners from hellfire is a "major theme" in popular Islamic stories about Judgement Day.
+
 Абу аз-Зубайр передал, что он слышал, как Джабиру ибн ‘Абдуллаху задали вопрос о смысле аята, в котором говорится, что каждый человек неизбежно подойдёт к Аду ("И нет среди вас такого, кто не подойдёт к Аду, и Господом твоим это решено окончательно (19:71)"), и Джабир сказал: 
  
 «В День воскресения мы явимся к месту сбора и займём место на холме выше других людей. Членов разных религиозных общин одного за другим будут призывать их идолы и то, чему они поклонялись, а после этого к нам явится Господь наш и спросит: "Кого вы ждёте?" Люди станут говорить: "Мы ждём нашего Господа", и Он скажет: "Я — Господь ваш". Люди станут говорить: "Откройся, чтобы мы посмотрели на Тебя". Тогда Он предстанет перед ними, смеясь, а потом поведёт их, и они последуют за Ним. Он дарует свет каждому человеку из их числа, будь то лицемер или верующий, и все они последуют за этим светом, а на воздвигнутом над Геенной мосту будут находиться крюки и колючки, которые станут хватать тех, кого пожелает Аллах Всевышний. Через некоторое время свет лицемеров будет погашен, после чего верующие спасутся. Первой спасётся группа численностью в семьдесят тысяч человек, лицо каждого из которых будет подобно луне в полнолуние, и ни у кого из них не потребуют отчёта. За ними последуют люди, лица которых будут светиться, как небесные звёзды, и это продолжится до тех пор, пока не будет позволено заступаться за грешников. И люди будут заступаться за них, пока из Огня не выйдет каждый человек, который говорил "Нет бога, кроме Аллаха" и в сердце которого было благо(вера) весом хотя бы с ячменное зерно. А потом этих людей поместят перед Раем, обитатели которого станут брызгать на них водой, и те начнут прорастать, как прорастает то, что приносит с собой поток, а следы, что оставит на них Огонь, исчезнут. После этого каждый из них будет обращаться к Аллаху с просьбами, пока каждому не будет даровано нечто, равное всему миру дольнему, и ещё десять подобий этого мира». 
  
 
-Sirat bridge over Jahannam
+
+
+### Sirat bridge over Jahannam
+
+People will need to cross the bridge that lays above Jahannam.
 and the Prophet Muhammad is waiting on the other side of Sirat with a cup from his fountain.
 Whoever drinks from Kawthar will not feel thirst ever again.
 Then bridge of Qantarah to allow people complete their arguments. People will forgive each other. this will cause the delay because they didn forgive them in dunya.
@@ -4586,7 +4621,14 @@ And we removed every grudge from their hearts. They will be brothers, reclining 
 Quran 15:47</details>
 
 
+<details>
+<summary>Al Ar'af</summary>
 
+There will be a barrier [ḥijāb] between Paradise and Hell. And on the heights [al-aʿrāf] of that barrier˺ will be people who will recognize ˹the residents of˺ both by their appearance. They will call out to the residents of Paradise, "Peace be upon you!" They will have not yet entered Paradise, but eagerly hope to (Q.7:46).
+
+As for who the inhabitants of the inhabits al-aʿrāf are, the "majority of exegetes" support the theory that they are persons whose actions balance in terms of merit and demerit -- whose good deeds keep them from the Fire and whose evil deeds keep them from the Garden. They will be the last to enter the Garden, at the mercy of their Lord.
+
+</details>
 
 <details>
 <summary>Unsorted drafts</summary>
