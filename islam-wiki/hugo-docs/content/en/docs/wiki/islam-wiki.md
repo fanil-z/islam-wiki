@@ -529,7 +529,7 @@ There is a hadith from Abu Huraira 🐈:
     When Allah breathed a soul into Adam, Adam sneezed and said "Alhamdulillah!" (Praise to God!). Allah replied "Yarmukallah, o Adam (Let God give you of His Mercy!). Go to those angels that sit in the gathering and say to them "Assalamu Aleykum!" (Peace be upon you). Angels replied "Waaleykum Assalam wa Rahmatullah (And peace to you and mercy)!" 
     When Adam returned to his Lord, He said: "Indeed, this will be your greeting, and greeting of your sons among each other".
     The hadith further says that then Allah opened His hand and showed Adam all of his descendands. Each person had his life expectancy written on his forehead. Adam saw a man whose light was one of the brightest and he asked "Who is this man?". Allah replied "This is Dawud (David) and he is prescribed to live 40 years". Adam said "Oh my Lord, extend his life", Allah replied "This is the term I prescribed him". Adam asked again "Oh my Lord, I give him 60 of my years" for which Allah replied "Let it be your way".
-Sheikh Al-Albani called this hadith authentic.
+    Sheikh Al-Albani called this hadith authentic.
 
 Allah gave Adam knowledge and taught him names. One of the version of interpretation is that Adam was taught the names of animals and birds. The other version is that he was taught speech.
 Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allah told angels that He knows what they know not.
@@ -776,7 +776,7 @@ In the Bible, Enoch receives visions of how the Earth will be destroyed in the E
 
 </summary>
 
-There was a time of righteous people. they lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. they made statues of these noble men to remind people of their piety and nobility, but some generations later, people started worshiping these statues.
+There was a time of righteous people. They lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. They made statues of these noble men to remind people of their piety and nobility, but some generations later, some people started worshiping these statues.
 
     And they have said: "You shall not leave your gods: nor shall you leave Wadd, nor Suwa', nor Yaghuth, nor Ya'uq nor Nasr"(these were the names of their idols).
     Quran 71:23
@@ -840,7 +840,9 @@ According to Islamic belief, Noah began preaching to his people both verbally an
 
     "O my people, worship Allah; you have no deity other than Him. Indeed, I fear for you the punishment of a tremendous Day!"
 
-Early on, a few were moved by Noah's words but the powerful and wealthy members of the tribe refused to hear his call. The unbelievers at the time were impelled to rebel by various evil motives. Firstly, they were extremely envious and jealous of men superior to them in any way. Secondly, the people were ignorant of the weak and lowly, who were frequently superior intellectually, morally and spiritually. As a result of their ignorance, they were arrogant and mocked all who they felt were inferior to them. Saying "Are we to believe you, when those who follow you are the most abject of people?" Noah responded: "Their judgment rests only with my Lord, if you could perceive." When Noah preached the faith of God to them, all they did was revile the messenger, abuse the message and call the whole warning a lie. He then went on to explain the Message in greater depth, ensuring them that it was not a message of destruction but it was a message with the mercy from God, and that their acts would lead to destruction if they did not accept the faith. He questioned them, asking why they would not accept what would benefit them in the near future. Noah went onto further, and told his community that he asked of no reward from them, telling them his only reward would be from God. But his people threatened him with being stoned.
+Early on, a few were moved by Noah's words but the powerful and wealthy members of the tribe refused to hear his call. The unbelievers at the time were impelled to rebel by various evil motives. Firstly, they were extremely envious and jealous of men superior to them in any way. Secondly, the people were ignorant of the weak and lowly, who were frequently superior intellectually, morally and spiritually. 
+
+As a result of their ignorance, they were arrogant and mocked all who they felt were inferior to them. Saying "Are we to believe you, when those who follow you are the most abject of people?" Noah responded: "Their judgment rests only with my Lord, if you could perceive." When Noah preached the faith of God to them, all they did was revile the messenger, abuse the message and call the whole warning a lie. He then went on to explain the Message in greater depth, ensuring them that it was not a message of destruction but it was a message with the mercy from God, and that their acts would lead to destruction if they did not accept the faith. He questioned them, asking why they would not accept what would benefit them in the near future. Noah went onto further, and told his community that he asked of no reward from them, telling them his only reward would be from God. But his people threatened him with being stoned.
 
 ### Accusation
 
@@ -853,7 +855,7 @@ The Quran states that Noah prayed to God, telling him that his preaching only ma
     He said, "My Lord! Verily, I have called my people day and night. But my calls only made them run farther away. And verily, every time i called unto them than You might forgive them, they thrust their fingers into their ears, covered themselves with garments, and persisted (in their refusal), and magnified themselves in pride. Then verily, I called to them openly (aloud). Then verily, I proclaimed to them in public, and I have appealed to them in private."
     Quran, Surah Nuh (71:5-9)
 
-And Noah prayed to Got not to leave disbelievers on earth. 
+And Noah prayed to God not to leave disbelievers on earth. 
 
     Noah had prayed, "My Lord! Do not leave a single disbeliever on earth.
     For if You spare ˹any of˺ them, they will certainly mislead Your servants, and give birth only to ˹wicked˺ sinners, staunch disbelievers.
@@ -945,9 +947,32 @@ Mention of the great flood occurs in stories of many old nations:
 the Mesopotamian flood stories, the Genesis flood narrative, Nuh (Noah) in Islam, manvantara-sandhya in Hinduism, the Gun-Yu in Chinese mythology, Deucalion and Pyrrha in Greek mythology, Bergelmir in Norse mythology, the arrival of the first inhabitants of Ireland with Cessair in Irish mythology, in parts of Polynesia such as Hawaii, the lore of the K'iche' and Maya peoples in Mesoamerica, the Lac Courte Oreilles Ojibwa tribe of Native Americans in North America, the Muisca and Cañari Confederation in South America, Africa, and some Aboriginal tribes in Australia.
 
 One example of a flood myth is the Epic of Gilgamesh. Many scholars believe that this account was copied from the Akkadian Atra-Hasis, which dates to the 18th century BC. In the Gilgamesh flood myth, the highest god, Enlil, decides to destroy the world with a flood because humans have become too noisy. The god Ea, who had created humans out of clay and divine blood, secretly warns the hero Utnapishtim of the impending flood and gives him detailed instructions for building a boat so that life may survive. Both the Epic of Gilgamesh and Atra-Hasis are preceded by the similar Sumerian creation myth (c. 1600 BC)—the oldest surviving example of such a flood-myth narrative, known from tablets found in the ruins of Nippur.
-https://en.wikipedia.org/wiki/List_of_flood_myths 
+Additional sources:
+* [List of Flood myths](https://en.wikipedia.org/wiki/List_of_flood_myths) 
+* [Comparison of Biblical and Quranic narration about the Flood](https://bora.uib.no/bora-xmlui/bitstream/handle/1956/15470/152883485.pdf)
 
-Also here is a link to comparison of Biblical and Quranic narration about the Flood: https://bora.uib.no/bora-xmlui/bitstream/handle/1956/15470/152883485.pdf
+</details>
+
+<details>
+<summary>
+
+## Saleh and people of Thamud 🐪
+
+</summary>
+
+Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
+
+According to the Quran, the city that Saleh was sent to was called al-Hijr, which corresponds to the Nabataean city of Hegra. The city rose to prominence around the first century AD as an important site in the regional caravan trade. Adjacent to the city were large, decorated rock-cut tombs used by members of various religious groups.
+
+Saleh's life in his community had been so righteous that the people of Thamud virtually relied upon him for support. He was chosen by God as a Messenger and sent to preach against the selfishness of the wealthy and to condemn the practice of Shirk (Idolatry or Polytheism). Although Saleh preached the message for a sustained period of time, the people for Thamud refused to hear his warning and instead began to ask Saleh to perform a miracle for them. They said: "O Salih! Thou hast been of us! A centre of our hopes hitherto! Dost thou forbid us the worship of what our fathers worshiped? But we are really in suspicious (disquieting) doubt as to that to which thou invitest us."
+
+Saleh reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Saleh's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
+
+In response, God gave the Thamud a blessed she-camel, as both a means of sustenance and a test. The tribe was told to allow the camel to graze peacefully and avoid harming her. But in defiance of Saleh's warning, the people of the tribe hamstrung the camel. Saleh informed them that they had only three more days to live before the wrath of God descended upon them. The people of the city were remorseful, but their crime could not be undone, and all the disbelieving people in the city were killed in an earthquake. Al-Hijr was rendered uninhabited and remained in ruins for all time thereafter. Saleh himself and the few believers who followed him survived.
+
+The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
+
+Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized: Šélaḥ), Salah or Sala (Greek: Σαλά – Salá) or Shelah is an ancestor of the Ishmaelites and Israelites according to the Table of Nations in Genesis 10. He is thus one of the table's “seventy names.” He is also mentioned in Genesis 11:12–15, 1 Chronicles 1:18–24, and Luke 3:35-36. In the ancestral line from Noah to Abraham, he is the son of Arpachshad (in the Masoretic Text and Samaritan Pentateuch[1]) or Cainan (in the Septuagint ) and the father of Eber. The name Eber for his son is the original eponym of the Hebrew people, from the root ‘abar (עבר‎, עָבַר), “to cross over.”
 
 </details>
 
@@ -958,19 +983,23 @@ Also here is a link to comparison of Biblical and Quranic narration about the Fl
 
 </summary>
 
-'Ad was an ancient Arab tribe. Hud is sometimes identified with Eber.
-People of Aad were tall, strong and famous for their craftsmanshift, especially in building construction.
+'Ad was an ancient Arab tribe. Hud is sometimes identified with Eber. People of Aad were tall, strong and famous for their craftsmanshift, especially in building construction.
 
-<p>At first, Ad people worshipped only Allah but then they made idols from stones. and Allah sent them their brother Hud. and they called their prophet a fool and a liar and said tell Allah to send his punishment if you are truthfull. Then a draught happened. Plants died but people continued to worship idols. The draught lasted 3 years. Allah told Hud to gather his followers and leave.
+At first, Ad people worshipped only Allah but then they made idols from stones. and Allah sent them their brother Hud. and they called their prophet a fool and a liar and said tell Allah to send his punishment if you are truthfull. Then a draught happened. Plants died but people continued to worship idols. The draught lasted 3 years. Allah told Hud to gather his followers and leave.
+
 And then a black cloud approached them. People of Aad thought that this cloud will bring them rain. The weather changed. The wind ripped their houses apart and destroyed their buildings. The storm did not stop until the entire region was reduced to ruins.
 
     We sent to the people of 'Ad their brother Hud, who said: "O my people, worship God; you have no other god but He. (As for the idols,) you are only inventing lies.
+
     O my people, I ask no recompense of you for it: My reward is with Him who created me. Will you not, therefore, understand?
     O my people, beg your Lord to forgive you, and turn to Him in repentance. He will send down rain in torrents for you from the skies, and give you added strength. So do not turn away from Him as sinners."
+     
     They said: "O Hud, you have come to us with no proofs. We shall not abandon our gods because you say so, nor believe in you.
     All we can say is that some of our gods have smitten you with evil." He replied:" I call God to witness, and you be witness too, that I am clear of what you associate (in your affairs)
+
     Apart from Him. Contrive against me as much as you like, and give me no respite.
     I place my trust in God who is my Lord and your Lord. There is no creature that moves on the earth who is not held by the forelock firmly by Him. Verily the way of my Lord is straight.
+
     If you turn away, then (remember) I have delivered to you the message I was sent with. My Lord will put other people in your place, and you will not be able to prevail against Him. Indeed my Lord keeps a watch over all things."
     Qur'an, sura 11 (Hud), ayah 50-57
 
@@ -994,28 +1023,6 @@ In addition for its barren characteristic, another verse also described addition
     Surely We sent on them an evil omen (catastrophes), the wind (a furious very cold of harsh voice) that lasts throughout the day.
     Qur'an Surah 54,(al-Qamar), ayah 19
 
-</p>
-</details>
-
-<details>
-<summary>
-
-## Saleh and people of Thamud 🐪
-
-</summary>
-(Selah?)
-
-Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
-
-According to the Quran, the city that Saleh was sent to was called al-Hijr, which corresponds to the Nabataean city of Hegra. The city rose to prominence around the first century AD as an important site in the regional caravan trade. Adjacent to the city were large, decorated rock-cut tombs used by members of various religious groups.
-
-Saleh's life in his community had been so righteous that the people of Thamud virtually relied upon him for support. He was chosen by God as a Messenger and sent to preach against the selfishness of the wealthy and to condemn the practice of Shirk (Idolatry or Polytheism). Although Saleh preached the message for a sustained period of time, the people for Thamud refused to hear his warning and instead began to ask Saleh to perform a miracle for them. They said: "O Salih! Thou hast been of us! A centre of our hopes hitherto! Dost thou forbid us the worship of what our fathers worshiped? But we are really in suspicious (disquieting) doubt as to that to which thou invitest us."
-
-Saleh reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Saleh's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
-
-In response, God gave the Thamud a blessed she-camel, as both a means of sustenance and a test. The tribe was told to allow the camel to graze peacefully and avoid harming her. But in defiance of Saleh's warning, the people of the tribe hamstrung the camel. Saleh informed them that they had only three more days to live before the wrath of God descended upon them. The people of the city were remorseful, but their crime could not be undone, and all the disbelieving people in the city were killed in an earthquake. Al-Hijr was rendered uninhabited and remained in ruins for all time thereafter. Saleh himself and the few believers who followed him survived.
-
-The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
 </details>
 
 # 4. Ibrahim  (Abraham)
@@ -1028,8 +1035,9 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 
 </summary>
 
-There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources clain that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. there is scientific evidence that Homo-Sapiens existed for ...
-and the prophet Muhammad  ﷺ    said that the distance between me and Al Kiyamah is like distance between my two fingers.
+There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources claim that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. There is scientific evidence that Homo-Sapiens existed for several hundred thousand years. And there is no contradiction to the Quran because there is no certain timeline given in The Book. Also, the prophet Muhammad ﷺ    said that the distance between me and Al Kiyamah is like distance between my two fingers.
+
+The best answer to this issue is Allahu 'Alim, God knows best.
 
 Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). The ziggurat of Ur stand in the desert till this day.
 
@@ -1244,13 +1252,12 @@ The Bible tells the story of how Rebecca and Jфcob deceived blind Isaac to get 
 <details>
 	<summary>
 
-## Historicity
+## Side-Note
 
 </summary>
-Although archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE;, John J. Bimson wrote in 1980: "Since then ... there has been a strong reaction against the use of archaeological evidence in support of the biblical traditions, and Albright's comment could not be repeated with any truth today."[98] Nahum M. Sarna (1978) noted that an inability to date the narratives of the patriarchs does not necessarily invalidate their historicity, a view supported by Bimson, who admitted that "Our knowledge of the centuries around 2000 BC is very small, and our ignorance very great."
 
-Historicity of the Egyptian episode
-According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan. It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected. The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
+Although archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE;, John J. Bimson wrote in 1980: "Since then ... there has been a strong reaction against the use of archaeological evidence in support of the biblical traditions, and Albright's comment could not be repeated with any truth today." Nahum M. Sarna (1978) noted that an inability to date the narratives of the patriarchs does not necessarily invalidate their historicity, a view supported by Bimson, who admitted that "Our knowledge of the centuries around 2000 BC is very small, and our ignorance very great."
+
 </details>
 
 
@@ -1444,21 +1451,21 @@ According to Islamic tradition, Musa was born into a family of Israelites living
 
 ### On the Nile
 
-Asiya (depicted with long black tresses) and her servants, having finished bathing, find baby Musa in the Nile. Their clothes hang in the trees while the river waves and crests are done in the Chinese style. Illustration from the Persian Jami' al-tawarikh
 According to Islamic tradition, Jochebed, Musa's mother, suckles him secretly during this period. When they are in danger of being caught, God inspires her to put him in a wicker basket and set him adrift on the Nile. She instructs her daughter to follow the course of the ark and report back to her. As her daughter follows the ark along the riverbank, Musa is discovered by the Pharaoh's wife, Asiya, who convinces the Pharaoh to adopt him. When Asiya ordered wet nurses for Musa, Musa refuses to be breastfed. Islamic tradition states that this is because God forbids Musa from being fed by any wet nurse in order to reunite him with his mother. His sister worries that Musa has not been fed for some time, so she appears to the Pharaoh and informs him that she knows someone who can feed him. After being questioned, she is ordered to bring the woman being discussed.The sister brings their mother, who feeds Musa, and thereafter, she is appointed as the wet nurse of Musa.
 
 ### Test of prophecy
+
 According to Isra'iliyat hadith, when Musa is playing on the Pharaoh's lap in his childhood, he grabs the Pharaoh's beard and slaps him in the face. This action prompts the Pharaoh to consider Musa as the Israelite who would overthrow him, and the Pharaoh wants to kill Musa. The Pharaoh's wife persuades him not to kill him because he is an infant. Instead, he decides to test Musa. Two plates are set before young Musa, one containing rubies and the other glowing coals. Musa reaches out for the rubies, but the angel Gabriel directs his hand to the coals. Musa grabs a glowing coal and puts it in his mouth, burning his tongue. After the incident, Musa suffers a speech defect, but is spared by the Pharaoh.
 
 ### Escape to Midian
 
-The Midian Mountains near Haql on the coast of the Gulf of Aqaba, which separates Midian in the northern part of the Arabian Peninsula and Ash-Shaam from the Sinai Peninsula in present-day Egypt
-After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute. Musa strikes the Egyptian in a state of anger, which results in his death. Musa then repents to God, and the following day, he again comes across the same Israelite fighting with another Egyptian. The Israelite again asks Musa for help, and as Musa approaches the Israelite, he reminds Musa of his manslaughter and asks if Musa intended to kill the Egyptian. Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees to the desert after being alerted to his punishment. According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well. Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Shuaib, Musa waters their flocks for them. The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
+After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute. Musa strikes the Egyptian in a state of anger, which results in his death. Musa then repents to God, and the following day, he again comes across the same Israelite fighting with another Egyptian. The Israelite again asks Musa for help, and as Musa approaches the Israelite, he reminds Musa of his manslaughter and asks if Musa intended to kill the Egyptian. 
+
+Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees to the desert after being alerted to his punishment. According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well. Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Shuaib, Musa waters their flocks for them. The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
 
 ### Preaching
 #### Call to prophethood
 
-This is believed[by whom?] to be the Biblical Mount Sinai, where Musa first spoke to God.
 According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period. During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire for them. When Musa reaches the Valley of Tuwa, God calls out to him from the right side of the valley from a tree, on what is revered as Al-Buq‘ah Al-Mubārakah ("The Blessed Ground") in the Quran. Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.
 
 The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) of ancient Egypt and to guide the Israelites, who were enslaved by the former. The Quran directly validates Musa and Harun as prophets chosen by God:
@@ -1467,13 +1474,18 @@ The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) o
 	Quran 19:51–53
 
 #### Arrival at Pharaoh's court
-When Musa and Harun arrive in the court of Pharaoh and proclaim their prophethood to the Pharaoh, the Pharaoh begins questioning Musa about the God he follows. The Quran narrates that Musa answers the Pharaoh by stating that he follows the God who gives everything its form and guides them. The Pharaoh then inquires about the generations who passed before them, and Musa answers that knowledge of the previous generations is with God. The Quran also mentions the Pharaoh questioning Musa: “And what is the Lord of the worlds?” Musa replies that God is the lord of the heavens, the earth and what is between them. The Pharaoh then reminds Musa of his childhood with them and the killing of the man he has done. Musa admits that he has committed the deed in ignorance, but insists that he is now forgiven and guided by God. Pharaoh accuses him of being mad and threatens to imprison him if he continues to proclaim that the Pharaoh is not the true god. Musa informs him that he has come with manifest signs from God. When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent. He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
+
+When Musa and Harun arrive in the court of Pharaoh and proclaim their prophethood to the Pharaoh, the Pharaoh begins questioning Musa about the God he follows. The Quran narrates that Musa answers the Pharaoh by stating that he follows the God who gives everything its form and guides them. The Pharaoh then inquires about the generations who passed before them, and Musa answers that knowledge of the previous generations is with God. 
+
+The Quran also mentions the Pharaoh questioning Musa: “And what is the Lord of the worlds?” Musa replies that God is the lord of the heavens, the earth and what is between them. The Pharaoh then reminds Musa of his childhood with them and the killing of the man he has done. Musa admits that he has committed the deed in ignorance, but insists that he is now forgiven and guided by God. Pharaoh accuses him of being mad and threatens to imprison him if he continues to proclaim that the Pharaoh is not the true god. Musa informs him that he has come with manifest signs from God. When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent. He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
 
 #### Confrontation with sorcerers
 
 Pharaoh watches a serpent devour a demon in the presence of Musa; from a manuscript of Qisas al-Anbiya, c. 1540.
+
 When the sorcerers come to the Pharaoh, he promises them that they would be among the honored among his assembly if they won. On the day of the festival of Egypt, Musa grants the sorcerers the chance to perform first and warned them that God would expose their tricks. The Quran states that the sorcerers bewitch the eyes of the observers and cause them terror. The summoned sorcerers throw their rods on the floor, and they appear to change into snakes by the effect of their magic. At first, Musa becomes concerned witnessing the tricks of the magicians, but is assured by God to not be worried. When Musa does the same his rod, the serpent devours all the sorcerers' snakes. The sorcerers realize that they have witnessed a miracle. They proclaim belief in the message of Musa and fall onto their knees in prostration despite threats from the Pharaoh. The Pharaoh is enraged by this and accuses them of working under Musa. He warns them that if they insist in believing in Musa, he would cut their hands and feet on opposite sides, and crucify them on the trunks of palm trees for their betrayal of the Pharaoh. The magicians, however, remain steadfast to their newfound faith and are punished by Pharaoh.
 </details>
+
 <details>
 <summary>
 
@@ -1482,10 +1494,16 @@ When the sorcerers come to the Pharaoh, he promises them that they would be amon
 </summary>
 
 ### Plagues of Egypt
-After losing against Musa, the Pharaoh continues to plan against Musa and the Israelites, ordering meetings with the ministers, princes and priests. According to the Quran, the Pharaoh is reported to have ordered his minister, Haman, to build a tower so that he "may look at the God of Musa". Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt. The Quran states that God decrees punishments over him and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops, pestilence of lice that makes their life miserable, toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.
+After losing against Musa, the Pharaoh continues to plan against Musa and the Israelites, ordering meetings with the ministers, princes and priests. According to the Quran, the Pharaoh is reported to have ordered his minister, Haman, to build a tower so that he "may look at the God of Musa". Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt.
+
+ The Quran states that God decrees punishments over him and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops, pestilence of lice that makes their life miserable, toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.
 
 ### Splitting of the sea
-Having escaped and now being pursued by the Egyptians, the Israelites stop when they reach the seafront. The Israelites exclaim to Musa that they would be overtaken by Pharaoh and his army. In response, God commands Musa to strike the Red Sea with his staff, instructing them not to fear being inundated or drowning in sea water. Upon striking the sea, Musa splits it into two parts, forming a path that allows the Israelites to pass through. The Pharaoh witnesses the sea splitting alongside his army, but as they also try to pass through, the sea closes in on them. As he is about to die, Pharaoh proclaims belief in the God of Musa and the Israelites, but his belief is rejected by God. The Quran states that the body of the Pharaoh is made a sign and warning for all future generations. As the Israelites continue their journey to the Promised Land, they come upon people who are worshipping idols. The Israelites request to have an idol to worship, but Musa refuses and states that the polytheists would be destroyed by God. They are granted manna and quail as sustenance from God, but the Israelites ask Musa to pray to God for the earth to grow lentils, onions, herbs and cucumbers for their sustenance. When they stop in their travel to the Promised Land due to lack of water, Musa is commanded by God to strike a stone, and upon its impact twelve springs came forth, each for a specific tribe of the Israelites.
+
+Having escaped and now being pursued by the Egyptians, the Israelites stop when they reach the seafront. The Israelites exclaim to Musa that they would be overtaken by Pharaoh and his army. In response, God commands Musa to strike the Red Sea with his staff, instructing them not to fear being inundated or drowning in sea water. Upon striking the sea, Musa splits it into two parts, forming a path that allows the Israelites to pass through. The Pharaoh witnesses the sea splitting alongside his army, but as they also try to pass through, the sea closes in on them. As he is about to die, Pharaoh proclaims belief in the God of Musa and the Israelites, but his belief is rejected by God. The Quran states that the body of the Pharaoh is made a sign and warning for all future generations. 
+
+As the Israelites continue their journey to the Promised Land, they come upon people who are worshipping idols. The Israelites request to have an idol to worship, but Musa refuses and states that the polytheists would be destroyed by God. They are granted manna and quail as sustenance from God, but the Israelites ask Musa to pray to God for the earth to grow lentils, onions, herbs and cucumbers for their sustenance. When they stop in their travel to the Promised Land due to lack of water, Musa is commanded by God to strike a stone, and upon its impact twelve springs came forth, each for a specific tribe of the Israelites.
+
 </details>
 
 <details>
@@ -1528,7 +1546,7 @@ Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrae
 
 </summary>
 
-One hadith recounts that when Musa is delivering an impressive sermon, an Israelite inquires if there were anyone more knowledgeable than him.[65] When Musa denies any such person exists, he receives a revelation from God, which admonishes Musa for not attributing absolute knowledge to God and informs Musa that there is someone named Khidr who is more knowledgeable than him.[65] Upon inquiry, God informs Musa that Khidr would be found at the junction of two seas. God instructs Musa to take a live fish and at the location where it would escape, Khidr would be found. Afterwards, Musa departs and travels alongside with a boy named Yusha (Yeshua bin Nun), until they stop near a rock where Musa rests. While Musa is asleep, the fish escapes from the basket. When Musa wakes up, they continue until they stop for eating. At that moment, Yusha remembers that the fish had slipped from the basket at the rock. He informs Musa about the fish, and Musa remembers God's statement, so they retrace their steps back to the rock. There they see Khidr. Musa approaches Khidr and greets him. Khidr instead asks Musa how people are greeted in their land. Musa introduces himself, and Khidr identifies him as the prophet of the Israelites. According to the Quran, Musa asks Khidr: "Shall I closely follow you on condition that you teach me of what you have been taught?" Khidr warns that he would not be able to remain patient and consents on the condition that Musa would not question his actions.
+One hadith recounts that when Musa is delivering an impressive sermon, an Israelite inquires if there were anyone more knowledgeable than him. When Musa denies any such person exists, he receives a revelation from God, which admonishes Musa for not attributing absolute knowledge to God and informs Musa that there is someone named Khidr who is more knowledgeable than him. Upon inquiry, God informs Musa that Khidr would be found at the junction of two seas. God instructs Musa to take a live fish and at the location where it would escape, Khidr would be found. Afterwards, Musa departs and travels alongside with a boy named Yusha (Yeshua bin Nun), until they stop near a rock where Musa rests. While Musa is asleep, the fish escapes from the basket. When Musa wakes up, they continue until they stop for eating. At that moment, Yusha remembers that the fish had slipped from the basket at the rock. He informs Musa about the fish, and Musa remembers God's statement, so they retrace their steps back to the rock. There they see Khidr. Musa approaches Khidr and greets him. Khidr instead asks Musa how people are greeted in their land. Musa introduces himself, and Khidr identifies him as the prophet of the Israelites. According to the Quran, Musa asks Khidr: "Shall I closely follow you on condition that you teach me of what you have been taught?" Khidr warns that he would not be able to remain patient and consents on the condition that Musa would not question his actions.
 
 They walk on the seashore and pass by a ship. The crew of the ship recognize Khidr and offer them to board their ship free of charge. When they are on the boat, Khidr takes an adze and pulls up a plank. When Musa notices what Khidr is doing, he is astonished and stops him. Musa reminds Khidr that the crew has taken them aboard for free. Khidr admonishes Musa for forgetting his promise of not asking. Musa states that he has forgotten and asks to be forgiven. When they leave the seashore, they pass by a boy playing with others. Khidr takes hold of the boy's head and kills him. Musa is again astonished by this action and questions Khidr regarding what he had done. Khidr admonishes Musa again for not keeping his promise, and Musa apologizes and asks Khidr to leave him if he again questions Khidr. Both of them travel on until they happened upon a village. They ask the villagers for food, but the inhabitants refuse to entertain them as guests. They see therein a wall which is about to collapse, and Khidr repairs the wall. Musa asks Khidr why he had repaired the wall when the inhabitants refuse to entertain them as guests and give them food. Musa states that Khidr could have taken wages for his work.
 
@@ -1557,6 +1575,13 @@ Khidr informs Musa that they are now to part ways as Musa has broken his promise
 
 </details>
 
+<details><summary>
+  
+## Side-Note
+
+</summary>
+According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan. It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected. The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
+</details>
 
 # 6. Jewish Kings and Prophets
 *******************************************
@@ -4606,8 +4631,6 @@ Not everyone consigned to hell will remain there, as it is believed by both scho
 Абу аз-Зубайр передал, что он слышал, как Джабиру ибн ‘Абдуллаху задали вопрос о смысле аята, в котором говорится, что каждый человек неизбежно подойдёт к Аду ("И нет среди вас такого, кто не подойдёт к Аду, и Господом твоим это решено окончательно (19:71)"), и Джабир сказал: 
  
 «В День воскресения мы явимся к месту сбора и займём место на холме выше других людей. Членов разных религиозных общин одного за другим будут призывать их идолы и то, чему они поклонялись, а после этого к нам явится Господь наш и спросит: "Кого вы ждёте?" Люди станут говорить: "Мы ждём нашего Господа", и Он скажет: "Я — Господь ваш". Люди станут говорить: "Откройся, чтобы мы посмотрели на Тебя". Тогда Он предстанет перед ними, смеясь, а потом поведёт их, и они последуют за Ним. Он дарует свет каждому человеку из их числа, будь то лицемер или верующий, и все они последуют за этим светом, а на воздвигнутом над Геенной мосту будут находиться крюки и колючки, которые станут хватать тех, кого пожелает Аллах Всевышний. Через некоторое время свет лицемеров будет погашен, после чего верующие спасутся. Первой спасётся группа численностью в семьдесят тысяч человек, лицо каждого из которых будет подобно луне в полнолуние, и ни у кого из них не потребуют отчёта. За ними последуют люди, лица которых будут светиться, как небесные звёзды, и это продолжится до тех пор, пока не будет позволено заступаться за грешников. И люди будут заступаться за них, пока из Огня не выйдет каждый человек, который говорил "Нет бога, кроме Аллаха" и в сердце которого было благо(вера) весом хотя бы с ячменное зерно. А потом этих людей поместят перед Раем, обитатели которого станут брызгать на них водой, и те начнут прорастать, как прорастает то, что приносит с собой поток, а следы, что оставит на них Огонь, исчезнут. После этого каждый из них будет обращаться к Аллаху с просьбами, пока каждому не будет даровано нечто, равное всему миру дольнему, и ещё десять подобий этого мира». 
- 
-
 
 
 ### Sirat bridge over Jahannam
@@ -4617,8 +4640,10 @@ and the Prophet Muhammad is waiting on the other side of Sirat with a cup from h
 Whoever drinks from Kawthar will not feel thirst ever again.
 Then bridge of Qantarah to allow people complete their arguments. People will forgive each other. this will cause the delay because they didn forgive them in dunya.
 
-And we removed every grudge from their hearts. They will be brothers, reclining on thrones that Day, looking at one another.
-Quran 15:47</details>
+    And we removed every grudge from their hearts. They will be brothers, reclining on thrones that Day, looking at one another.
+    Quran 15:47
+
+</details>
 
 
 <details>
