@@ -61,6 +61,8 @@ I really need to finish the Eschatonian part, for now it's hard to figure out th
 
 The main page markdown file is 5000 lines. Islam teaches to finish what you started, so I tried to spend on this at least 10 minutes a day. Slowly it got into shape, Alhamdulillah. I had some good time trying to gather particles of an endless puzzle.
 but there are still many bugs left.S
+I have many doubts like was Thamud earlier than 'Ad or vice versa.
+
 
 https://miro.com/app/board/o9J_kqBzhXk=/
 

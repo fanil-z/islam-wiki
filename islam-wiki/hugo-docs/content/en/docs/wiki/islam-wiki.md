@@ -106,7 +106,12 @@ The Preserved Tablet is the record in which Allaah The Almighty has recorded the
 	
     "Do you not know that Allaah knows what is in the heaven and earth? Indeed, that is in a Record." Quran 22: 70 
 
-In his interpretation of this verse, Ibn ‘Atiyyah said that the record in this verse refers to the Preserved Tablet. Allaah The Almighty also Says (what means): {No disaster strikes upon the earth or among yourselves except that it is in a Record before We bring it into being.} [Quran 57: 22]  The Maaliki scholar, Al-Qurtubi  may  Allaah  have  mercy  upon  him mentioned in his interpretation of this verse that the record mentioned here refers to the Preserved Tablet.  
+In his interpretation of this verse, Ibn ‘Atiyyah said that the record in this verse refers to the Preserved Tablet. Allaah The Almighty also Says (what means): 
+    
+    No disaster strikes upon the earth or among yourselves except that it is in a Record before We bring it into being.
+    Quran 57: 22
+
+The Maaliki scholar, Al-Qurtubi, may Allaah have mercy upon him, mentioned in his interpretation of this verse that the record mentioned here refers to the Preserved Tablet.  
 
 </details>
 
@@ -125,15 +130,15 @@ One of the Islamic major characteristic of angels their lack of bodily desires; 
 
 <span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
 
-Daniel saw Gabriel
+Daniel saw Gabriel.
 
-Ezekiel saw Gabriel
+Ezekiel saw Gabriel.
 
 Gabriel came to Zakariyah and tells him that his prayers are heard and that they his wife will give birth to John.
 
 Jibril came to Maryam and told the good news that she will give birth to a child Isa.
 
-Jibril had special relation with the prophet Muhammed ( ﷺ   ). In most cases he used to come to the prophet in a human form and give a Revelation or explain religious and worldly matters. Documented occasions when Jibril communicated with the prophet Muhammad:
+Jibril had special relation with the prophet Muhammad (ﷺ   ). In most cases he used to come to the prophet in a human form and give a Revelation or explain religious and worldly matters. Documented occasions when Jibril communicated with the prophet Muhammad:
 1. There is an authentic hadith that when the prophet Muhammad was 4-6 years old, Jibril came to him opened up his chest and cleaned his heart in Zamzam water.
 2. Close to the prophecy times, the prophet Muhammad starts to see a man in a dream who later turns out to be Jibril. 
 3. In the cave of the mount Hira, Jibril comes to the prophet Muhammad and says "Iqra!" ("Recite!"). After the prophet says that he does not know what to recite, Jibril huggs him tight and transfers the first surah of the Quran. the prophet Muhammad was so overwhelmed by this experience, that he hurries back home and asks Hadija to cover him with cloth.
@@ -162,7 +167,7 @@ Mentioned in Quran:
 * **Hamalat al-'Arsh**, those who carry the 'Arsh (Throne of God), comparable to the Christian Seraph.
 * **Harut** and **Marut**, often depicted as angels who taught the humans in Babylon magic; mentioned in Quran (2:102).
 
-Also, there is a hadith about **Munkar** and **Nakir**, two angels that question the souls of people in the grave after they die.
+Also, there is a hadith about **Munkar** and **Nakir**, two angels that question the souls of people in the grave after they die. For details, see [#barzakh](#barzakh).
 
 </details>
 
@@ -181,7 +186,7 @@ Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 "Paradise and Hell have already been created. They will never come to an end or cease to exist. Allah (swt) created Paradise and Hell before the rest of creation, and He (swt) created inhabitants for each of them. Whoever He (swt) wishes (will enter) Paradise by His grace and mercy, and whoever He (swt) wishes (will enter Hell) as a result of His (swt) justice. Every person will behave according to that for which he was created, and his destiny will be that for which he was created; good deeds and evil deeds are foreordained for all men".
 
 >
->Abu Hurairah [ra] narrated that the Messenger of Allah [ ﷺ   ] said:
+>Abu Hurairah [ra] narrated that the Messenger of Allah [ﷺ   ] said:
 >"When Allah created Jannah and Hellfire, He sent Gabriel to Jannah, saying, ‘look at it and at what I have prepared therein for its inhabitants.’ 
 >
 >So Gabriel went to it and looked at it and at what Allah had prepared therein for its inhabitants. Then Gabriel returned to Allah and said, ‘By Your glory, no one hears of it without entering it.’ 
@@ -947,6 +952,8 @@ Mention of the great flood occurs in stories of many old nations:
 the Mesopotamian flood stories, the Genesis flood narrative, Nuh (Noah) in Islam, manvantara-sandhya in Hinduism, the Gun-Yu in Chinese mythology, Deucalion and Pyrrha in Greek mythology, Bergelmir in Norse mythology, the arrival of the first inhabitants of Ireland with Cessair in Irish mythology, in parts of Polynesia such as Hawaii, the lore of the K'iche' and Maya peoples in Mesoamerica, the Lac Courte Oreilles Ojibwa tribe of Native Americans in North America, the Muisca and Cañari Confederation in South America, Africa, and some Aboriginal tribes in Australia.
 
 One example of a flood myth is the Epic of Gilgamesh. Many scholars believe that this account was copied from the Akkadian Atra-Hasis, which dates to the 18th century BC. In the Gilgamesh flood myth, the highest god, Enlil, decides to destroy the world with a flood because humans have become too noisy. The god Ea, who had created humans out of clay and divine blood, secretly warns the hero Utnapishtim of the impending flood and gives him detailed instructions for building a boat so that life may survive. Both the Epic of Gilgamesh and Atra-Hasis are preceded by the similar Sumerian creation myth (c. 1600 BC)—the oldest surviving example of such a flood-myth narrative, known from tablets found in the ruins of Nippur.
+
+
 Additional sources:
 * [List of Flood myths](https://en.wikipedia.org/wiki/List_of_flood_myths) 
 * [Comparison of Biblical and Quranic narration about the Flood](https://bora.uib.no/bora-xmlui/bitstream/handle/1956/15470/152883485.pdf)
@@ -1045,6 +1052,7 @@ Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
 In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is said to have taken place. 
 </details>
 
+
 <details>
 	<summary>
 
@@ -1100,13 +1108,13 @@ Lut is referenced a relatively large number of times in the Quran. Many of these
 
 The Quran states that Lut was a nephew of Abraham who had been sent to the twin cities of Sodom and Gomorrah as a prophet after migrating to Canaan, but he was rejected by the cities' inhabitants. One day, a group of angels visited Abraham as guests in the guise of handsome men in order to inform him of the fact that his wife Sarah was pregnant with Isaac. While there, they also told him that they had been sent by God to the "guilty people" of Lut to destroy them with "a shower of stones of clay".[16] Lut and those who believed in him, were to be spared, but his wife was to die in the destruction, with the angels stating that "she is of those who lag behind". The Quran also draws upon Lot's wife as an "example for the unbelievers" as she was married to a righteous man but refused to believe in his message and was thus condemned to Hell.
 
-The people of the twin cities transgressed against the bounds of God. According to the Quran, their sins included inhospitality and robbery  they hated strangers and robbed travellers, apart from other abuses and rape. It was their sin of sexual misconduct as well which was seen as particularly egregious, with Lut strongly chiding them for approaching men with sexual desire instead of women. Lut told and tried to help them to abandon their sinful ways, but they ridiculed him[20] and threatened to evict him from the cities. Lut prayed to God and begged to be saved from the consequences of their sinful acts.
+The people of the twin cities transgressed against the bounds of God. According to the Quran, their sins included inhospitality and robbery  they hated strangers and robbed travellers, apart from other abuses and rape. It was their sin of sexual misconduct as well which was seen as particularly egregious, with Lut strongly chiding them for approaching men with sexual desire instead of women. Lut told and tried to help them to abandon their sinful ways, but they ridiculed him and threatened to evict him from the cities. Lut prayed to God and begged to be saved from the consequences of their sinful acts.
 
 Then three angels, disguised as handsome males, came to Lut as guests. He grieved the men, as he felt powerlessness to protect them from the people of the cities. The cities' residents becoming aware of the visitors demanded that Lot surrender his guests to them. Distressed and fearful that they would incur the wrath of God, suggested rather lawful marriage to his daughters as pious and purer alternatives to their unlawful wishes, and perhaps as a source of guidance. But they were unrelenting and replied "thou knowest we have no need of thy daughters: indeed thou knowest quite well what we desire!", referring to his male guests.
 
 The exegetes Ibn Kathir, Qurtubi and Tabari do not read 'daughters' to mean Lot's literal daughters. They argue that since a prophet is like a father to his nation, Lot was directing the evildoers to turn away from their sins and engage in healthy and pious relationships with the daughters of the nation, i.e. women in general.
 
-The angels then revealed their true identities to Lot and said to him, “We are (here) to deliver thee and thy following, except thy wife: she is of those who lag behind." They advised Lot to leave the cities during the night, telling him not to look back. Keeping his faith in God, Lot left the cities in the darkness of night, bringing with him his followers and believing family members. Finally, morning came, and the Decree of God passed whereupon the Quran reads, “We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-“[32] And thus was sealed the fate of the twin cities, falling into destruction and despair and marking the end of the civilisations of Sodom and Gomorrah.
+The angels then revealed their true identities to Lot and said to him, “We are (here) to deliver thee and thy following, except thy wife: she is of those who lag behind." They advised Lot to leave the cities during the night, telling him not to look back. Keeping his faith in God, Lot left the cities in the darkness of night, bringing with him his followers and believing family members. Finally, morning came, and the Decree of God passed whereupon the Quran reads, “We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-“ And thus was sealed the fate of the twin cities, falling into destruction and despair and marking the end of the civilisations of Sodom and Gomorrah.
 
 </details>
 
@@ -1128,7 +1136,7 @@ Ibrahim waits patiently.
 
 Promised land of Canaan for Isaac
 promise of descendands 
-promisces of blessings for those who follow the covenenant
+promises of blessings for those who follow the Сovenenant
 
 </details>
 
@@ -1136,19 +1144,19 @@ promisces of blessings for those who follow the covenenant
 <details>
 	<summary>Iskhaq (Isaac): Beginning of Jewish people</summary>
 
-### Iskhaq (Isaac)
-  Covenant 
-	Second son of Ibrahim. his mother is Sarah.
+### Iskhaq (Isaac) 
 
-According to Bible: As had been prophesied in Mamre the previous year,[40] Sarah became pregnant and bore a son to Abraham, on the first anniversary of the covenant of circumcision. Abraham was "an hundred years old", when his son whom he named Isaac was born; and he circumcised him when he was eight days old.[41] For Sarah, the thought of giving birth and nursing a child, at such an old age, also brought her much laughter, as she declared, "God hath made me to laugh, so that all who hear will laugh with me."[42] Isaac continued to grow and on the day he was weaned, Abraham held a great feast to honor the occasion. During the celebration, however, Sarah found Ishmael mocking; an observation that would begin to clarify the birthright of Isaac.
+Second son of Ibrahim. his mother is Sarah.
 
-Ishaq is the father of Yaqub and grandfather of Yusuf.
+According to Bible: As had been prophesied in Mamre the previous year, Sarah became pregnant and bore a son to Abraham, on the first anniversary of the covenant of circumcision. Abraham was "an hundred years old", when his son whom he named Isaac was born; and he circumcised him when he was eight days old. For Sarah, the thought of giving birth and nursing a child, at such an old age, also brought her much laughter, as she declared, "God hath made me to laugh, so that all who hear will laugh with me." Isaac continued to grow and on the day he was weaned, Abraham held a great feast to honor the occasion. During the celebration, however, Sarah found Ishmael mocking; an observation that would begin to clarify the birthright of Isaac.
+
+Ishaq is the father of Yaqub (Jacob) and grandfather of Yusuf (Joseph). Ishaq and Rebecca are parents of Jacob and Esau.
 
 Islam considers Isaac (Arabic:اسحاق Ishaaq) a prophet of Islam, and describes him as the father of the Israelites and a righteous servant of God.
 
 Isaac, along with Ishmael, is highly important for Muslims for continuing to preach the message of monotheism after his father Abraham. Among Isaac's children was the follow-up Israelite patriarch Jacob, who is also venerated as an Islamic prophet.
 
-Isaac is mentioned seventeen times by name in the Quran, often with his father and his son, Jacob.[36] The Quran states that Abraham received "good tidings of Isaac, a prophet, of the righteous", and that God blessed them both (37: 112). In a fuller description, when angels came to Abraham to tell him of the future punishment to be imposed on Sodom and Gomorrah, his wife, Sarah, "laughed, and We gave her good tidings of Isaac, and after Isaac of (a grandson) Jacob" (11: 71–74); and it is further explained that this event will take place despite Abraham and Sarah's old age. Several verses speak of Isaac as a "gift" to Abraham (6: 84; 14: 49–50), and 24: 26–27 adds that God made "prophethood and the Book to be among his offspring", which has been interpreted to refer to Abraham's two prophetic sons, his prophetic grandson Jacob, and his prophetic great-grandson Joseph. In the Quran, it later narrates that Abraham also praised God for giving him Ishmael and Isaac in his old age (14: 39–41).
+Isaac is mentioned seventeen times by name in the Quran, often with his father and his son, Jacob. The Quran states that Abraham received "good tidings of Isaac, a prophet, of the righteous", and that God blessed them both (37: 112). In a fuller description, when angels came to Abraham to tell him of the future punishment to be imposed on Sodom and Gomorrah, his wife, Sarah, "laughed, and We gave her good tidings of Isaac, and after Isaac of (a grandson) Jacob" (11: 71–74); and it is further explained that this event will take place despite Abraham and Sarah's old age. Several verses speak of Isaac as a "gift" to Abraham (6: 84; 14: 49–50), and 24: 26–27 adds that God made "prophethood and the Book to be among his offspring", which has been interpreted to refer to Abraham's two prophetic sons, his prophetic grandson Jacob, and his prophetic great-grandson Joseph. In the Quran, it later narrates that Abraham also praised God for giving him Ishmael and Isaac in his old age (14: 39–41).
 
 Elsewhere in the Quran, Isaac is mentioned in lists: Joseph follows the religion of his forefathers Abraham, Isaac and Jacob (12: 38) and speaks of God's favor to them (12: 6); Jacob's sons all testify their faith and promise to worship the God that their forefathers, "Abraham, Ishmael and Isaac", worshiped (2: 127); and the Quran commands Muslims to believe in the revelations that were given to "Abraham, Ishmael, Isaac, Jacob and the Patriarchs" (2: 136; 3: 84). In the Quran's narrative of Abraham's near-sacrifice of his son (37: 102), the name of the son is not mentioned and debate has continued over the son's identity, though many feel that the identity is the least important element in a story which is given to show the courage that one develops through faith.
 
@@ -1162,7 +1170,7 @@ The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jaco
     And We gave him the glad tidings of Isaac, a Prophet, and one of the righteous.
     Quran, sura 37 (As-Saaffat), ayah 112
 
-Isaac and Rebecca are parents of Jacob and Esau.
+
 </details>
 <details>
 	<summary>Ismail (Ishmael): Beginning of Arab people</summary>
@@ -1182,9 +1190,9 @@ When Hagar ran out of food and water, she left the baby under the sheltered plac
 
 She ran between two hills seven times calling Allah for mercy. Them suddenly she noticed the noise and came back to her son Ishmael, she say an angel standing beside her baby. The angel was Jibreel, who was striking the ground with his wings so that the watter prattled forth.
 
-Ishmael and Hagar being taken to Mecca by Abraham in Islamic texts is an important part in the story of Ishmael, as it brings the focus to Mecca and is the beginning of Mecca's sanctification as a holy area.[2]: 61  Islamic tradition says Abraham was ordered by God to take Hagar and Ishmael to Mecca, and later Abraham returned to Mecca to build the Kaaba. In many of these accounts, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibral) guides them to the location of the Kaaba, at which point Abraham builds it and afterwards, leaves the other two there (other versions discussed below say the construction of the Kaaba occurred later and that Ishmael took part in it). Generally, it is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. Hagar and Ishmael then run out of water and Ishmael becomes extremely thirsty. Hagar is distressed and searches for water, running back and forth seven times between the hills of Al-Safa and Al-Marwah. Hagar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee. When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam. At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history and are recounted in Reuven Firestone's Journeys in Holy Lands.
+Ishmael and Hagar being taken to Mecca by Abraham in Islamic texts is an important part in the story of Ishmael, as it brings the focus to Mecca and is the beginning of Mecca's sanctification as a holy area.  Islamic tradition says Abraham was ordered by God to take Hagar and Ishmael to Mecca, and later Abraham returned to Mecca to build the Kaaba. In many of these accounts, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibral) guides them to the location of the Kaaba, at which point Abraham builds it and afterwards, leaves the other two there (other versions discussed below say the construction of the Kaaba occurred later and that Ishmael took part in it). Generally, it is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. Hagar and Ishmael then run out of water and Ishmael becomes extremely thirsty. Hagar is distressed and searches for water, running back and forth seven times between the hills of Al-Safa and Al-Marwah. Hagar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee. When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam. At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history and are recounted in Reuven Firestone's Journeys in Holy Lands.
 
-Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries.[8]: 92–95  Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art."[8]: 92–93  Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ishmael over Isaac because he was the first child.
+Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries. Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art." Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ishmael over Isaac because he was the first child.
 
 Abraham sacrificing his son, Ishmael; Abraham cast into fire by Nimrod
 The general narrative pertaining to Ishmael in Islamic literature describes the sacrifice either as a test or as part of a vow. Some versions tell of the devil trying to stop God's command from being obeyed by visiting Hagar, Ishmael, and Abraham. Every time the devil says Abraham is going to sacrifice Ishmael, each person answers that if God commanded it, they should obey. Eventually, Abraham tells Ishmael about the order and Ishmael is willing to be sacrificed and encourages Abraham to listen to God. Often, Ishmael is portrayed as telling Abraham some combination of instructions to bring his shirt back to Hagar, bind him tightly, sharpen the knife, and place him face down, all so that there will be no wavering in the resolve to obey God.
@@ -1193,13 +1201,13 @@ As Abraham attempts to slay Ishmael, either the knife is turned over in his hand
 
 The actions of Ishmael in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Abraham talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ishmael makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ishmael is a model of surrendering one's will to God, an essential characteristic in Islam.
 
-Though it is generally believed by modern Muslims that Ishmael was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ishmael.[2]: 135  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.[2]: 144  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage.[8]: 87 Arguments by early Muslim scholars for Ishmael as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ishmael, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time.[7]: 88–90  In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ishmael in the Quran is that directly after the sacrifice narrative, Abraham is told of the coming of Isaac's birth, therefore, it must be Ishmael who was about to be sacrificed.[7]: 88  However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac.[2]: 135–136 [7]: 89  Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
+Though it is generally believed by modern Muslims that Ishmael was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ishmael.  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage. Arguments by early Muslim scholars for Ishmael as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ishmael, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time. In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ishmael in the Quran is that directly after the sacrifice narrative, Abraham is told of the coming of Isaac's birth, therefore, it must be Ishmael who was about to be sacrificed. However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac. Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
 
 ### Construction of the Kaaba
 
 At some point, often believed to be after Hagar's death, Ishmael married a woman from the Jurhum, the tribe who settled in the area around Zamzam. Abraham visited Ishmael in Mecca and when he arrived at his home, Ishmael was not there. Instead Ishmael's wife greets Abraham, but she was not welcoming or generous to him. Abraham instructed her to tell Ishmael some version of the statement that he was not pleased with or to change "the threshold of his door." When Ishmael returns home and his wife told him that, he knows it is from his father and taking the advice, divorced the woman. He then married another woman from Jurhum. Abraham once again visited and was met by Ishmael's second wife, as Ishmael was out. This wife was very kind and provided food for him. Abraham instructed her to tell Ishmael some version of the statement that he was pleased with "the threshold of his door." When Ishmael arrived and his wife repeated Abraham's statement, Ishmael knew it was from his father and kept his wife.
 
-There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Abraham build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Abraham to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ishmael assisted his father. Of those that say Ishmael took part in the construction, most describe Abraham visited Ishmael a third time in Mecca, during which they raised the Kaaba. Some say Ishmael looked for a final stone, but Abraham did not accept the one he brought back. Instead an angel had brought the Black Stone, which Abraham put into place. Ishmael was left at the Kaaba, in charge of its care and to teach others about the Hajj. The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Abraham with the Hajj after Islam had developed to help remove its connection to early pagan rituals.[2]: 101 
+There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Abraham build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Abraham to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ishmael assisted his father. Of those that say Ishmael took part in the construction, most describe Abraham visited Ishmael a third time in Mecca, during which they raised the Kaaba. Some say Ishmael looked for a final stone, but Abraham did not accept the one he brought back. Instead an angel had brought the Black Stone, which Abraham put into place. Ishmael was left at the Kaaba, in charge of its care and to teach others about the Hajj. The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Abraham with the Hajj after Islam had developed to help remove its connection to early pagan rituals.
 
 * Hajar and Zamzam
 	The story that an angel comes to comfort Hajar is also mentioned in the Bible. it also says that Ishmael will have so many descendants that it will be difficult to count.
@@ -1237,14 +1245,14 @@ Jacob and his twin brother, Esau, were born to Isaac and Rebecca after 20 years 
 
 When the time came for Rebecca to give birth, the firstborn, Esau, came out covered with red hair, as if he were wearing a hairy garment, and his heel was grasped by the hand of Jacob, the secondborn. According to Genesis 25, Isaac and Rebecca named the first son Hebrew: Esau. The second son they named Jacob (Ya'aqob or Ya'aqov, meaning "heel-catcher", "supplanter", "leg-puller", "he who follows upon the heels of one").
 
-The boys displayed very different natures as they matured. "... and Esau was a cunning hunter, a man of the field; but Jacob was a simple man, dwelling in tents". Moreover, the attitudes of their parents toward them also differed: "And Isaac loved Esau, because he did eat of his venison: but Rebecca loved Jacob."[
+The boys displayed very different natures as they matured. "... and Esau was a cunning hunter, a man of the field; but Jacob was a simple man, dwelling in tents". Moreover, the attitudes of their parents toward them also differed: "And Isaac loved Esau, because he did eat of his venison: but Rebecca loved Jacob."
 
 #### Blessing of Isaac
 As Isaac aged, he became blind and was uncertain when he would die, so he decided to bestow Esau's birthright upon him. He requested that Esau go out to the fields with his weapons (quiver and bow) to kill some venison. Isaac then requested that Esau make "savory meat" for him out of the venison, according to the way he enjoyed it the most, so that he could eat it and bless Esau.
 
 Rebecca overheard this conversation. It is suggested that she realized prophetically that Isaac's blessings would go to Jacob, since she was told before the twins' birth that the older son would serve the younger.
 
-The Bible tells the story of how Rebecca and Jфcob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Ishak and Yaqub being prophets would not do so.
+The Bible tells the story of how Rebecca and Jacob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Ishak and Yaqub being prophets would not do so.
 
 
 </details>
@@ -1259,8 +1267,6 @@ The Bible tells the story of how Rebecca and Jфcob deceived blind Isaac to get 
 Although archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE;, John J. Bimson wrote in 1980: "Since then ... there has been a strong reaction against the use of archaeological evidence in support of the biblical traditions, and Albright's comment could not be repeated with any truth today." Nahum M. Sarna (1978) noted that an inability to date the narratives of the patriarchs does not necessarily invalidate their historicity, a view supported by Bimson, who admitted that "Our knowledge of the centuries around 2000 BC is very small, and our ignorance very great."
 
 </details>
-
-
 
 <details>
 	<summary>
@@ -1290,7 +1296,7 @@ According to Ibn Kathir, Jacob knew that Joseph would someday become extremely i
 
 	Ya'qub told Yusuf: "My son, relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is a clear enemy to humanity. Thus your Lord has selected you and given you knowledge to interpret reports, and has perfected his blessing upon you and upon the family of Jacob just as he perfected it on your forefathers before: Ibrahim and Is-haq (Isaac). Your Lord is Knowing, Wise" (Qur'an, Surah 12 (Yusuf) Ayat 5-6).
 
-Joseph did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Joseph and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.""
+Joseph did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Joseph and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.
 
 Joseph was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (Arabic: حديث, 'narration'):
 
@@ -1361,7 +1367,7 @@ Joseph said, "What you cultivate during the next seven years, when the time of h
 
 When he became aware of Yusuf's innocence, the king said, "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted."" (Quran 12:54) Upon speaking with Yusuf, the king recognized his virtues, great ability, brilliance, good conduct and perfect mannerisms. Yusuf said, "Set me over the storehouses of the land; I will indeed guard them with full knowledge" (Quran 12:55). Thus Yusuf asked the king to appoint him as Minister of Finance.
 
-Use of "king" versus "pharaoh"
+### Use of "king" versus "pharaoh"
 In the Qur'an, the title of the Ruler of Egypt during the time of Joseph is specifically said to be "the King" (Arabic: al-Malik) whilst the Ruler of Egypt during the time of Moses is specifically said to be "Pharaoh" (Arabic: Firaun, though as a name without the definite article). This is interesting because according to historical sources, the title Pharaoh only began to be used to refer to the rulers of Egypt (starting with the rule of Thutmose III) in 1479 BCE - approximately 21 years after the prophet Joseph died. But in the narration of Yusuf in the Bible, the titles King (Hebrew: Melekh) and Pharaoh are used interchangeably for the ruler of Egypt in Genesis chapters 39-41.
 
 	The Malik (of Egypt) said: "I do see (in a vision) seven fat kine, whom seven lean ones devour, and seven green ears of corn, and seven (others) withered. O ye chiefs! expound to me my vision, if it be that ye can interpret visions."
@@ -1383,6 +1389,7 @@ In the Qur'an, the title of the Ruler of Egypt during the time of Joseph is spec
 	Genesis 47:11
 
 ### The Family Reunion
+
 Joseph became extremely powerful. Ibn Kathir relates that the king of Egypt had faith in Joseph and that the people loved and revered him. It is said that Joseph was 30 when he was summoned to the king. "The king addressed him in 70 languages, and each time Joseph answered him in that language." Ibn Is-haq comments, "the king of Egypt converted to Islam at the hands of Joseph."
 
 Joseph's brothers, in the meantime, had suffered while the people of Egypt prospered under Joseph's guidance. Jacob and his family were hungry and the brothers went to Egypt, unaware that Joseph was there and in such a high position. Joseph gave them what they needed but questions them and they reveal that there were once twelve of them. They lie and say that the one most loved by their father, meaning Joseph, died in the desert. Joseph tells them to bring Benjamin, the youngest, to him. They return home to Jacob and persuade him to let Benjamin accompany them in order to secure food. Jacob insists that they bring Benjamin back—and this time the brothers are honest when they swear to it. According to Ibn Kathir, Jacob ordered the brothers to use many gates when returning to Egypt because they were all handsome. The Qurʾān itself elaborates that Jacob sensed Joseph.
@@ -1396,6 +1403,7 @@ When Jacob receives the shirt, this time as good news, Jacob lays it on his face
 Joseph was reunited with his family, and his dream as a child came true as he saw his parents and eleven of his brothers prostrating before him in love, welcome and respect. Ibn Kathir mentions that his mother had already died but there are some who argue that she came back to life.Ṭabari says that she was alive. Joseph eventually died in Egypt. Tradition holds that when Musa (Moses) left Egypt, he took Joseph's coffin with him so that he would be buried alongside his ancestors in Canaan.
 
 ### Death and burial
+
 It is hard to find sources that consistently agree on the actual dates of Joseph's life. Scholars tend to see the story as a way for the descendants of Abraham to find their way to Egypt. Joseph is the reason the Israelites move to Egypt, which then allows for the story of Moses and the Exodus from Egypt to take place.
 
 Historically, some Muslims also associated Joseph's Tomb with that of the biblical figure[citation needed]. In recent years however, they[by whom?] claim that an Islamic cleric, Sheikh Yussuf (Joseph) Dawiqat, was buried there two centuries ago. According to Islamic tradition, the biblical Joseph is buried in Hebron, next to the Cave of the Patriarchs where a medieval structure known as Yussuf-Kalah, the "Castle of Joseph", is located.
@@ -1409,8 +1417,10 @@ Historically, some Muslims also associated Joseph's Tomb with that of the biblic
 
 </summary>
 
-Ayyub came after Yusuf. The Quran describes Job as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Job never lost faith in God and forever called to God in prayer, asking Him to remove his affliction:
-And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." — Quran, sura 21 (The Prophets), ayah 83
+Ayyub (Job) came after Yusuf. The Quran describes Job as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Job never lost faith in God and forever called to God in prayer, asking Him to remove his affliction:
+
+    And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." 
+    Quran, sura 21 (The Prophets), ayah 83
 
 The narrative goes on to state that after many years of suffering, God ordered Job to "Strike with thy foot!". At once, Job struck the ground with his foot and God caused a cool spring of water to gush forth from the Earth, from which Job could replenish himself. The Quran states that it was then that God removed his pain and suffering and He returned Job's family to him, blessed him with many generations of children and granted him great wealth. In addition to the brief descriptions of Job's narrative, the Quran further mentions Job twice in the lists of those whom God had given special guidance, wisdom and inspiration (IV: 163) and as one of the men who received authority, the gift of prophethood (VI:84).
 
@@ -4007,7 +4017,43 @@ first great woman mystic  </details>
 <details>
     <summary>780 - 855: Ahmad ibn Hanbal</summary>
 a hero of the ahl al-hadith
+
 Ahmad ibn Hanbal was a Muslim jurist, theologian, ascetic, hadith traditionist, and founder of the Hanbali school of Sunni jurisprudence — one of the four major orthodox legal schools of Sunni Islam.
+
+A highly influential and active scholar during his lifetime, Ibn Hanbal went on to become "one of the most venerated" intellectual figures in Islamic history, who has had a "profound influence affecting almost every area of" the traditionalist perspective within Sunni Islam. One of the foremost classical proponents of relying on scriptural sources as the basis for Sunni Islamic law and way of life, Ibn Hanbal compiled one of the most important Sunni hadith collections, the Musnad, which has continued to exercise considerable influence in the field of hadith studies up to the present time.
+
+Having studied fiqh and hadith under many teachers during his youth, Ibn Hanbal became famous in his later life for the crucial role he played in the Mihna, the inquisition instituted by the Abbasid Caliph al-Ma'mun towards the end of his reign, in which the ruler gave official state support to the Muʿtazilite dogma of the Quran being created, a view that contradicted the orthodox doctrine of the Quran being the eternal, uncreated Word of God. Suffering physical persecution under the caliph for his unflinching adherence to the traditional doctrine, Ibn Hanbal's fortitude in this particular event only bolstered his "resounding reputation" in the annals of Sunni history.
+
+### Education and work
+
+Imam Ahmad studied extensively in Baghdad, and later traveled to further his education. He started learning jurisprudence (Fiqh) under the celebrated Hanafi judge, Abu Yusuf, the renowned student and companion of Imaam Abu Hanifah. After finishing his studies with Abu Yusuf, ibn Hanbal began traveling through Iraq, Syria, and Arabia to collect hadiths, or traditions of the Prophet Muhammad. Ibn al-Jawzi states that Imam Ahmad had 414 Hadith masters whom he narrated from. With this knowledge, he became a leading authority on the hadith, leaving an immense encyclopedia of hadith, Musnad Ahmad ibn Hanbal. After several years of travel, he returned to Baghdad to study Islamic law under Al-Shafi'i.
+
+Ahmad became a mufti in his old age, and founded the Hanbali madhab, or school of Islamic law, which is now most dominant in Saudi Arabia, Qatar, and the United Arab Emirates. Unlike the other three schools of Islamic jurisprudence (Hanafi, Maliki, and Shafi), the Hanbali madhab remained largely traditionalist or Athari in theology.
+
+In addition to his scholastic enterprises, ibn Hanbal was a soldier on the Islamic frontiers (Ribat) and made Hajj five times in his life, twice on foot.
+
+### The Mihna
+
+Ibn Hanbal was known to have been called before the Inquisition or Mihna of the Abbasid Caliph Al-Ma'mun. Al-Ma'mun wanted to assert the religious authority of the Caliph by pressuring scholars to adopt the Mu'tazila view that the Qur'an was created rather than uncreated. According to Sunni tradition, ibn Hanbal was among the scholars to resist the Caliph's interference and the Mu'tazili doctrine of a created Qur'an—although some Orientalist sources raise a question on whether or not he remained steadfast. Ibn Hanbal's stand against the inquisition by the Mu'tazila (who had been the ruling authority at the time) led to the Hanbali school establishing itself firmly as not only a school of fiqh (legal jurisprudence), but of theology as well.
+
+Due to his refusal to accept Mu'tazilite authority, ibn Hanbal was imprisoned in Baghdad throughout the reign of al-Ma'mun. In an incident during the rule of al-Ma'mun's successor, al-Mu'tasim, ibn Hanbal was flogged to unconsciousness. However, this caused upheaval in Baghdad and al-Mu'tasim was forced to release ibn Hanbal. After al-Mu’tasim's death, al-Wathiq became caliph and continued his predecessor's policies of Mu'tazilite enforcement and in this pursuit, he banished ibn Hanbal from Baghdad. It was only after al-Wathiq's death and the ascent of his brother al-Mutawakkil, who was much friendlier to the more traditional Sunni beliefs, that ibn Hanbal was welcomed back to Baghdad.
+
+
+### Theology
+
+Ibn Hanbal's principal doctrine is what later came to be known as "traditionalist thought," which emphasized the acceptance of only the Quran and hadith as the foundations of orthodox belief. He did, however, believe that it was only a select few who were properly authorized to interpret the sacred texts.
+
+#### The Quran
+
+One of Ibn Hanbal's most famous contributions to Sunni thought was the considerable role he played in bolstering the orthodox doctrine of the Quran being the "uncreated Word of God" (kalām Allāh g̲h̲ayr mak̲h̲lūḳ). By "Quran," Ibn Hanbal understood "not just an abstract idea but the Quran with its letters, words, expressions, and ideas—the Quran in all its living reality, whose nature in itself," according to Ibn Hanbal, eluded human comprehension.
+
+#### Taqlid
+
+Ahmad ibn Hanbal favoured Ijtihad and rejected Taqlid; the practise of blind adherence to madhabs (legal schools). Ahmad ibn Hanbal's staunch condemnation of Taqlid is reported in Hanbali Qadi 'Abd al-Rahman ibn Hassan's treatise (1196-1285 A.H / 1782-1868 C.E) Fath al-Majeed. Comparing Taqlid to Shirk (polytheism), ibn Hanbal states:
+
+"I am amazed at those people who know that a Sanad (i.e. Chain of Transmission) is authentic and yet, in spite of this, they follow the opinion of Sufyan, for Allah (Glorified beHe), says: {And let those who oppose the Messenger's commandment (i.e. his Sunnah - legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them}. (An-Nur: 63) Do you know what that Fitnah is? That Fitnah is Shirk (polytheism). Maybe the rejection of some of his words would cause one to doubt and deviate in his heart and thereby be destroyed."
+
+
 </details>
 
 
