@@ -4645,8 +4645,6 @@ And finally they will come to the prophet Muhammad ﷺ    begging him to ask All
 
 </details>
 
-
-
 <details>
   <summary>
 
@@ -4656,12 +4654,11 @@ And finally they will come to the prophet Muhammad ﷺ    begging him to ask All
 
 <img src="/Ibn_arabi_judgement_day.png" alt="Early Expansion"> 
 
-
 Diagram of the "Plain of Assembly" (Ard al-Hashr) on the Day of Judgment, from an autograph manuscript of Futuhat al-Makkiyya written by the Sufi mystic and Muslim philosopher Ibn Arabi, ca. 1238.
 
 The Judgement will not begin until thousands of years people will wait. 
 
-The prophet ( ﷺ   ) said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
+The prophet (ﷺ   ) said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
 
 When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this " I swear by Allah Jibreel never  ﷺ    Allah before that Day.
 
