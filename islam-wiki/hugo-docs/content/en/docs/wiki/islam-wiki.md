@@ -4194,76 +4194,259 @@ Along with Rhazes, Abulcasis, Ibn al-Nafis and al-Ibadi, Avicenna is considered 
 </details>
 
 <details>
-    <summary>990 - 1118 The Seljuk Empire</summary>
+    <summary>
+
+## 922 - Volga Bulgaria adopts Islams
+
+</summary>
 
 </details>
 
 <details>
-    <summary>990 The Seljuk Turkish family from Central Asia convert to Islam </summary>
+    <summary>
+
+## 990 - 1118 The Seljuk Empire
+
+</summary>
 
 </details>
 
 <details>
-    <summary>1065 - 1067 The Nizamiyyah madrasah is built in Baghdad</summary>
+    <summary>
+
+## 990: The Seljuk Turkish family from Central Asia convert to Islam 
+
+</summary>
 
 </details>
 
 <details>
-  <summary>1058-1111 Imam Al-Ghazali</summary> 
+    <summary>
+
+## 1065 - 1067: The Nizamiyyah madrasah is built in Baghdad
+
+</summary>
+
+Nizam al-Mulk (Persian: نظام‌الملک, lit. 'Order of the Realm') was a Persian scholar, political philosopher and vizier of the Seljuk Empire. Rising from a lowly position, he was the de facto ruler of the empire for 20 years after the assassination of sultan Alp Arslan in 1072, serving as the archetypal "good vizier" of Islamic history.
+
+One of his most important legacies was founding madrasa in cities throughout the Seljuk Empire. These were called nezamiyehs after him. He wrote Siyasatnama (Book of Government), a political treatise that uses historical examples to discuss justice, effective rule, and the role of government in Islamic society.
+
+</details>
+
+<details>
+  <summary>
+
+## 1058-1111 Imam Al-Ghazali
+
+</summary> 
 Al-Ghazali was a Persian polymath. He is known as one of the most prominent and influential philosophers, theologians, jurists, logicians and mystics of Islam.
 
 He is considered to be the 5th century's Mujaddid, a renewer of the faith, who, according to the prophetic hadith, appears once every 100 years to restore the faith of the Islamic Community. His works were so highly acclaimed by his contemporaries that al-Ghazali was awarded the honorific title "Proof of Islam" (Ḥujjat al-Islām).
 
 Al-Ghazali believed that the Islamic spiritual tradition had become moribund and that the spiritual sciences taught by the first generation of Muslims had been forgotten. This belief led him to write his magnum opus entitled Iḥyā’ ‘ulūm ad-dīn ("The Revival of the Religious Sciences"). Among his other works, the Tahāfut al-Falāsifa ("Incoherence of the Philosophers") is a landmark in the history of philosophy, as it advances the critique of Aristotelian science developed later in 14th-century Europe. 
+
+### Teachings
+
+Al-Ghazali's contemporary and first biographer, 'Abd al-Ghafir al-Farisi, records merely that al-Ghazali began to receive instruction in fiqh (Islamic jurisprudence) from Ahmad al-Radhakani, a local teacher and Abu ali Farmadi, a Naqshbandi sufi from Tus.  He later studied under al-Juwayni, the distinguished jurist and theologian and "the most outstanding Muslim scholar of his time," in Nishapur, perhaps after a period of study in Gurgan. After al-Juwayni's death in 1085, al-Ghazali departed from Nishapur and joined the court of Nizam al-Mulk, the powerful vizier of the Seljuq empire, which was likely centered in Isfahan. After bestowing upon him the titles of "Brilliance of the Religion" and "Eminence among the Religious Leaders," Nizam al-Mulk advanced al-Ghazali in July 1091 to the "most prestigious and most challenging" professorial position at the time: the Nizamiyya madrasa in Baghdad.
+
+He underwent a spiritual crisis in 1095, likely suffering from clinical hysteria, abandoned his career and left Baghdad on the pretext of going on pilgrimage to Mecca. Making arrangements for his family, he disposed of his wealth and adopted an ascetic lifestyle. According to biographer Duncan B. Macdonald, the purpose of abstaining from scholastic work was to confront the spiritual experience and more ordinary understanding of "the Word and the Traditions." After some time in Damascus and Jerusalem, with a visit to Medina and Mecca in 1096, he returned to Tus to spend the next several years in 'uzla (seclusion). The seclusion consisted in abstaining from teaching at state-sponsored institutions, but he continued to publish, receive visitors and teach in the zawiya (private madrasa) and khanqah (Sufi lodge) that he had built.
+
+Fakhr al-Mulk, grand vizier to Ahmad Sanjar, pressed al-Ghazali to return to the Nizamiyya in Nishapur. Al-Ghazali reluctantly capitulated in 1106, fearing rightly that he and his teachings would meet with resistance and controversy. He later returned to Tus and declined an invitation in 1110 from the grand vizier of the Seljuq Sultan Muhammad I to return to Baghdad.
+
+### School Affiliaations
+
+Al-Ghazali contributed significantly to the development of a systematic view of Sufism and its integration and acceptance in mainstream Islam. As a scholar of Sunni Islam, he belonged to the Shafi'i school of Islamic jurisprudence and to the Asharite school of theology. Al-Ghazali received many titles such as Sharaf-ul-Aʾimma (شرف الأئمة), Zayn-ud-dīn (زين الدين) and Ḥujjat-ul-Islām (حجة الإسلام).
+
+He is viewed as the key member of the influential Asharite school of early Muslim philosophy and the most important refuter of the Mutazilites. However, he chose a slightly different position in comparison with the Asharites. His beliefs and thoughts differ in some aspects from the orthodox Asharite school.
+
+### Works
+
+A total of about 70 works can be attributed to Al-Ghazali. He is also known to have written a fatwa against the Taifa kings of Al Andalus, declaring them to be unprincipled, not fit to rule and that they should be removed from power. This fatwa was used by Yusuf ibn Tashfin to justify his conquest of al-Andalus 
+
+### Incoherence of the Philosophers
+His 11th century book titled The Incoherence of the Philosophers marks a major turn in Islamic epistemology. The encounter with skepticism led al-Ghazali to investigate a form of theological occasionalism, or the belief that all causal events and interactions are not the product of material conjunctions but rather the immediate and present will of God.
+
+In the next century, Averroes drafted a lengthy rebuttal of al-Ghazali's Incoherence entitled The Incoherence of the Incoherence; however, the epistemological course of Islamic thought had already been set. Al-Ghazali gave as an example of the illusion of independent laws of cause the fact that cotton burns when coming into contact with fire. While it might seem as though a natural law was at work, it happened each and every time only because God willed it to happen—the event was "a direct product of divine intervention as any more attention grabbing miracle". Averroes, by contrast insisted while God created the natural law, humans "could more usefully say that fire caused cotton to burn—because creation had a pattern that they could discern."
+
+The Incoherence also marked a turning point in Islamic philosophy in its vehement rejections of Aristotle and Plato. The book took aim at the falasifa, a loosely defined group of Islamic philosophers from the 8th through the 11th centuries (most notable among them Avicenna and Al-Farabi) who drew intellectually upon the Ancient Greeks.
+
+### The Revival of Religious Sciences (Ihya' Ulum al-Din)
+
+Another of al-Ghazali's major works is Ihya' Ulum al-Din or Ihya'u Ulumiddin (The Revival of Religious Sciences). It covers almost all fields of Islamic sciences: fiqh (Islamic jurisprudence), kalam (theology) and sufism.[citation needed]
+
+It contains four major sections: Acts of worship (Rub' al-'ibadat), Norms of Daily Life (Rub' al-'adatat), The ways to Perdition (Rub' al-muhlikat) and The Ways to Salvation (Rub' al-munjiyat). The Ihya became the most frequently recited Islamic text after the Qur'an and the hadith. Its great achievement was to bring orthodox Sunni theology and Sufi mysticism together in a useful, comprehensive guide to every aspect of Muslim life and death. The book was well received by Islamic scholars such as Nawawi who stated that: "Were the books of Islam all to be lost, excepting only the Ihya', it would suffice to replace them all."
+
 </details>
 
 # 10. Later History of Islamic Countries
+
+<details>
+<summary>
+
+## 1095 - 1099: Crusader conquer Jerusalem, establish states in Palestine, Anatolia and Syria
+
+</summary>
 
 1095 Pope Urban II preaches the First Crusade
 
 1099 Crusaders conquer Jerusalem
      Crusaders establish four Crusader states in Palestine, Anatolia and Syria
 
-1187 Saladin defeats the Crusaders and restores Jerusalem to Islam
+</details>
 
-1198 Fylasuf ibn Rushd
+<details>
+<summary>
 
-1205-87 Sultanate of Delhi
+## 1187: Saladin defeats the Crusaders and restores Jerusalem to Islam
 
-1220-31 First Mongol raids with immense destruction of cities
+</summary>
+</details>
 
-The Golden Horde mongols rule the lands north of Caspian and Black Sea and convert to Islam
+<details>
+<summary>
 
-1240 Sufi philosopher Muid ad-Din Al-Arabi
+## 1198: Fylasuf ibn Rushd
 
-1258 Mongols destroy Baghdad
+</summary>
+</details>
 
-1273 Jalal al-Din Rumi in Anatolia, founder of Whirling Dervishes
+<details>
+<summary>
 
-1288 Uthman, a ghazi, on the Byzantine frontier, founds the Ottoman dynasty in Anatolia
+## 1205-87: Sultanate of Delhi
 
-1328 Ahmad ibn Taymiyyah in Damascus
+</summary>
+</details>
 
-1334-53 Yusuf, king of Granada in Spain, builds Alhambra
+<details>
+<summary>
 
-1406 Faylasuf and historian ibn Khaldun
+## 1220-31: First Mongol raids with immense destruction of cities
 
-1453 Mehmed II conquers Constantinople, henceforth known as Istanbul, and makes it the capital of the Ottoman Empire
+</summary>
+The Golden Horde mongols rule the lands north of Caspian and Black Sea and then convert to Islam.
+</details>
 
-1492 The Muslim Kingdom of Granada is conquered by the Catholic monarchs
+<details>
+<summary>
 
-1502-24 Ismail conquers Iran and establishes Shiism as the official religion
+## 1240: Sufi philosopher Muid ad-Din Al-Arabi
 
-1517 Ottomans conquer Egypt and Syria from the Mamluks
+</summary>
+</details>
 
-1520-66 Suleiman "the Magnificent" ecpands the Ottoman Empire and develops its distinctive institutions.
+<details>
+<summary>
 
-1529 The Ottomans besiege Vienna
+## 1258: Mongols destroy Baghdad
 
-1552 The Russians conquer Kazan and Volzhsk Bulgaria
+</summary>
+</details>
 
-1556 The Russians conquer Astrakhan
+<details>
+<summary>
 
+## 1273: Jalal al-Din Rumi in Anatolia, founder of Whirling Dervishes
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+## 1288: Osman, a ghazi, on the Byzantine frontier, founds the Ottoman dynasty in Anatolia
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+## 1328: Ahmad ibn Taymiyyah in Damascus
+
+</summary>
+</details>
+
+<details>
+<summary>
+  
+## 1334-53: Yusuf, king of Granada in Spain, builds Alhambra
+
+</summary>
+</details>
+
+<details>
+<summary>
+  
+## 1406: Faylasuf and historian ibn Khaldun
+
+</summary>
+</details>
+
+<details>
+<summary>
+  
+## 1453: Mehmed II conquers Constantinople, henceforth known as Istanbul
+
+</summary>
+1453: Mehmed II conquers Constantinople, henceforth known as Istanbul, and makes it the capital of the Ottoman Empire
+</details>
+
+<details>
+<summary>
+  
+## 1492: The Muslim Kingdom of Granada is conquered by the Catholics
+
+</summary>
+</details>
+
+<details>
+<summary>
+ 
+## 1502-24: Ismail conquers Iran and establishes Shiism as the official religion
+
+</summary>
+</details>
+
+<details>
+<summary>
+  
+## 1517: Ottomans conquer Egypt and Syria from the Mamluks
+
+</summary>
+</details>
+
+<details>
+<summary>
+  
+## 1520-66: Suleiman "the Magnificent" expands the Ottoman Empire and develops its distinctive institutions
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+## 1529: The Ottomans besiege Vienna
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+## 1552: The Russians conquer Kazan and Volzhsk Bulgaria
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+## 1556: The Russians conquer Astrakhan
+
+</summary>
+</details>
 
 # 11. Current State of the Islamic World
 *******************************************
