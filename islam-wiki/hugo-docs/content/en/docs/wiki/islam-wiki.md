@@ -130,6 +130,12 @@ One of the Islamic major characteristic of angels their lack of bodily desires; 
 
 <span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
 
+Muslims also revere Gabriel for a number of events predating what they regard as the first revelation, narrated in the Quran. Muslims believe that Gabriel was the angel who informed Zachariah (Zakariyyā) of John's birth, as well as Mary (Maryam) of the future nativity of Jesus; and that Gabriel was one of three angels who had earlier informed Abraham (ʾIbrāhīm) of the birth of Isaac (ʾIsḥāq). Gabriel also makes a famous appearance in the Hadith of Gabriel, in which he questions Muhammad on the core tenets of Islam.
+
+Gabriel in Islam also believed the one who deliver punishment from God to the Sodomite by leveling the entire Sodom city with a tip of his wing.[49] According to a Hadith narrated by Abu Dharr al-Ghifari which compiled by al-Hakim al-Tirmidhi, Gabriel has an ability to regulate Feeling or Perception of human, particularly a feel of happiness or sadness.
+
+Accordingly, in Islam, Gabriel is believed to have helped Muhammad overcome his adversaries significantly during the Battle of Badr
+
 Daniel saw Gabriel.
 
 Ezekiel saw Gabriel.
@@ -2353,7 +2359,7 @@ Paul never met Jesus in person. Paul brought many innovations from Greek mytholo
 
 Both Islam and Christianity expect the return of Jesus at the end of times, and both expect trials and tribulations to occur at the time.  Many of the themes of these trials are similar, but they are also very different in detail and definition.  Both religions expect the nation of believers to be the final victors, but the Christian believes that these are defined as the believers in the Gospel of the New Testament and in Christ as ‘the Savior’ and ‘the Incarnation’ of God, whilst the Muslim knows that it refers to those who believe in the pure monotheism entailed in submission to the One and Only True God.
 
-The return of Jesus is preceded in both religions by signs, again similar in general description, but subtly different in detail.  Both religions teach that the return of Jesus will be preceded by a great and powerful figure of falsehood and temptation, called the Maseeh ad-Dajjal (The False Messiah) by the Muslims and the Anti-Christ by the Christians.  Before this event other signs that agree with each other include a general increase in immorality and fornication, murder and crime, and general lawlessness, debauchery and falling away from religion and true knowledge.  Accompanying these signs of civil malaise will be internecine[1]  wars, and natural disasters following closely one upon the other.  The details and timings of these, however, are substantially different, even within particular faiths.  How the Christian faith regards the second coming depends on the doctrinal view held.  Four broad views are prominent: Historical and Dispensational Ante-millennialism, and Preterist Post and A-millennialism.
+The return of Jesus is preceded in both religions by signs, again similar in general description, but subtly different in detail.  Both religions teach that the return of Jesus will be preceded by a great and powerful figure of falsehood and temptation, called the Maseeh ad-Dajjal (The False Messiah) by the Muslims and the Anti-Christ by the Christians.  Before this event other signs that agree with each other include a general increase in immorality and fornication, murder and crime, and general lawlessness, debauchery and falling away from religion and true knowledge.  Accompanying these signs of civil malaise will be internecine  wars, and natural disasters following closely one upon the other.  The details and timings of these, however, are substantially different, even within particular faiths.  How the Christian faith regards the second coming depends on the doctrinal view held.  Four broad views are prominent: Historical and Dispensational Ante-millennialism, and Preterist Post and A-millennialism.
 </details>
 
 <details>
@@ -2423,21 +2429,23 @@ Hadith from Sahih Muslim, the prophet Muhammad  ﷺ    said:
 
 Kinanah he was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
 
+<img src="/pre-islamic-arabia.PNG" alt="Early Expansion"> 
+
 Tribes of Arabia:
-	* Ghifar
-	* Ghatafan
-	* Hanifa
-	* Quraish. Clans of Quraish:
-		* Banu Makhzum
-		* Banu Hashim
-		* Banu Zuhra
-		* Banu Nawfal
-		* Banu Abd Shams
-		* Banu Adi ...
-	* Hawazin
-	* Ka'b
-	* Azd
-	* Kindah
+* Ghifar
+* Ghatafan
+* Hanifa
+* Quraish. Clans of Quraish:
+	* Banu Makhzum
+	* Banu Hashim
+	* Banu Zuhra
+	* Banu Nawfal
+	* Banu Abd Shams
+	* Banu Adi ...
+* Hawazin
+* Ka'b
+* Azd
+* Kindah
 
 ### Ancient Arabs: Add and Thamud.
 Yagrub's father was Kakhtan and believed to be the starter of the Arab languange.
@@ -3390,8 +3398,10 @@ Soon after his return from the pilgrimage, Muhammad fell ill and suffered for se
 {{ $img := $asset.Fit "600x400" }}
 <figure class="image is-3by2">
   <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
-</figure>
-<img src="/early_islamic_expansion.png" alt="Early Expansion"> -->
+</figure>-->
+
+
+<img src="/early_islamic_expansion.png" alt="Early Expansion"> 
 
 <details>
 <summary>
@@ -4330,7 +4340,7 @@ The Mahdi (Arabic: ٱلْمَهْدِيّ, romanized: al-mahdīy), i.e. the "Rig
 
 Jesus (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, romanized: ʿĪsā ibn Maryam, lit. 'Isa, son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
 
-Gog and Magog (Arabic: يأجوج ومأجوج) are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one")[37] who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
+Gog and Magog (Arabic: يأجوج ومأجوج) are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
 
 The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
 
@@ -4643,6 +4653,11 @@ And finally they will come to the prophet Muhammad ﷺ    begging him to ask All
 ## The Judgement
 
 </summary> 
+
+<img src="/Ibn_arabi_judgement_day.png" alt="Early Expansion"> 
+
+
+Diagram of the "Plain of Assembly" (Ard al-Hashr) on the Day of Judgment, from an autograph manuscript of Futuhat al-Makkiyya written by the Sufi mystic and Muslim philosopher Ibn Arabi, ca. 1238.
 
 The Judgement will not begin until thousands of years people will wait. 
 
