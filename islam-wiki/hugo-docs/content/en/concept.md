@@ -63,6 +63,13 @@ The main page markdown file is 5000 lines. Islam teaches to finish what you star
 but there are still many bugs left.S
 I have many doubts like was Thamud earlier than 'Ad or vice versa.
 
+hugo is a good choice if you want to implement docs-as-code approach and if the documentation team is ready to work with markdown instead of some traditional XML editor.
+I've been editing raw markdown files for a while until I found about https://github.com/marktext/marktext which is open source and really nice.
+
+https://github.com/mundimark/awesome-markdown-editors
+
+90k words, 6000 paragraphs.
+My Ghostwriter editor says the reading time of the whole thing is 6 hours. I wonder how much time I've spent there.
 
 https://miro.com/app/board/o9J_kqBzhXk=/
 
