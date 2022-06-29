@@ -9,6 +9,8 @@ author: fanil
 <p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources</i> ☪️<i>.</i></p>-->
 
 <p style="text-align: right;">Time to read: 6 hours 25 minutes</p>
+<p style="text-align: right;">Time to read: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}</p>
+
 <details>
 <summary style="color: #878686fc; font-size: 14px;">DISCLAIMER!</summary>
 
@@ -4157,6 +4159,24 @@ Faylasuf and court musician in Aleppo
 
 <details>
     <summary>972: Fatimids build the madrasah of al-Azhar in Cairo</summary>
+
+The Al-Azhar University (جامعة الأزهر (الشريف), , "the University of (the honorable) Al-Azhar") is a public university in Cairo, Egypt. Associated with Al-Azhar Mosque in Islamic Cairo, it is Egypt's oldest degree-granting university – and the world's second oldest degree granting university – and is renowned as the most prestigious university for Islamic learning. In addition to higher education, Al-Azhar oversees a national network of schools with approximately two million students. As of 1996, over 4,000 teaching institutes in Egypt were affiliated with the university.
+
+Founded in 970 or 972 by the Fatimid Caliphate as a centre of Islamic learning, its students studied the Qur'an and Islamic law in detail, along with logic, grammar, rhetoric, and how to calculate the phases of the moon. Today it is the chief centre of Arabic literature and Islamic learning in the world. In 1961 additional non-religious subjects were added to its curriculum.
+
+Its library is considered second in importance in Egypt only to the Egyptian National Library and Archives. In May 2005, Al-Azhar in partnership with a Dubai information technology enterprise, IT Education Project (ITEP) launched the H.H. Mohammed bin Rashid Al Maktoum project to preserve Al Azhar scripts and publish them online (the "Al-Azhar Online Project") to eventually publish online access to the library's entire rare manuscripts collection, comprising about seven million pages of material.
+
+### Beginnings under the Fatimids
+
+Al-Azhar is one of the relics of the Isma'ili Shi'a Fatimid dynasty, which claimed descent from Fatimah, daughter of Muhammad and wife of Ali son-in-law and cousin of Muhammad. Fatimah was called al-Zahra (the luminous), and the institution was named in her honor. It was founded as a mosque by the Fatimid commander Jawhar al-Siqilli at the orders of the Caliph and Imam Al-Mu'izz li-Din Allah as he founded the city for Cairo. It was begun (probably on Saturday) in Jumada al-Awwal in the year AH 359 (March/April 970 CE). Its building was completed on the 9th of Ramadan in the year AH 361 (24 June 972 CE). Both Caliph al-Aziz Billah and Caliph Al-Hakim bi-Amr Allah added to its premises. It was further repaired, renovated and extended by al-Mustansir Billah and al-Hafiz li-Din Allah. The Fatimid caliphs always encouraged scholars and jurists to have their study-circles and gatherings in this mosque and thus it was turned into a madrasa which has the claim to be considered as the oldest such institution still functioning.
+
+Studies began at Al-Azhar in the month of Ramadan, 975. According to Syed Farid Alatas, the Jami'ah had faculties in Islamic law and jurisprudence, Arabic grammar, Islamic astronomy, Islamic philosophy, and logic. The Fatimids gave attention to the philosophical studies at the time when rulers in other countries declared those who were engaged in philosophical pursuits as apostates and heretics. Greek thought found a warm reception with the Fatimids who expanded the boundaries of such studies. They paid much attention to philosophy and gave support to everyone who was known for being engaged in the study of any branch of philosophy. The Fatimid Caliph invited many scholars from nearby countries and paid much attention to college books on various branches of knowledge and in gathering the finest writing on various subjects and this in order to encourage scholars and to uphold the cause of knowledge. These books were destroyed by Saladin.
+
+### Saladin
+
+In the 12th century, following the overthrow of the Isma'ili Fatimid dynasty, Saladin (the founder of the Sunni Ayyubid Dynasty) converted Al-Azhar to a Shafi'ite Sunni center of learning. Therefore, the Encyclopaedia of Islam (Leiden, 1936, 3rd vol., p. 353) writes that, "He had all the treasures of the palace, including the books, sold over a period of ten years. Many were burned, thrown into the Nile, or thrown into a great heap, which was covered with sand, so that a regular "hill of books" was formed and the soldiers used to sole their shoes with the fine bindings. The number of books said to have disposed of varies from 120,000 to 2,000,000." Abd-el-latif delivered lectures on Islamic medicine at Al-Azhar, while according to legend the Jewish philosopher Maimonides delivered lectures on medicine and astronomy there during the time of Saladin though no historical proof has corroborated this.
+
+Saladin introduced the college system in Egypt, which was also adopted in Al-Azhar. Under this system, the college was a separate institution within the mosque compound, with its own classrooms, dormitories and a library.
 
 </details>
 
