@@ -4654,10 +4654,86 @@ The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocen
 
 *******************************************
 
-### 12.1 Major Signs of Al Kiyamah
+### 12.1 Minor Signs of The Day of Judgement
+
+<details>
+  <summary>Minor Signs</summary>
+
+* The prophet Muhammad
+* bedouins building towers
+  These signs are connected to each other. When one comes, the other one follows.
+  There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
+
+better to make it in the part 2. First, just the timeline.
+
+after Isa some time will pass and no believer will be left on Earth. The Quran will be lifted.
+
+https://www.youtube.com/watch?v=NrfWxzjXEyw
+
+Events that have already taken place
+* Splitting of the moon (Sahih Bukhari, Book 56: 830)
+* A form of death, which will kill thousands of Muslims (Sahih Bukhari, Vol 4: book 53: 401)
+* A major fighting in Madinah (understood to be the battle of al-Harrah during the caliphate of Yazid)
+* The Muslim conquest of Jerusalem (Sahih Bukhari, Vol 4: book 53: 401)
+* The Muslim conquest of Constantinople (Sahih Muslim, book 41: 6924)
+* Two large groups of Muslims will fight in a war (Sahih Bukhari, Vol 9: book 88: 237)
+* A war between the Muslims and a reddish people with small eyes, wearing sandals made of hair ( Sahih Bukhari, Vol 4: book 52: 179)
+* A peace agreement between the Muslims and non-Muslims from the yellow race (understood to be the Chinese, Mongols etc.)
+30 impostors will appear, each thinking he is a prophet (Sahih Bukhari, Vol 9: book 88: 237)
+
+Events that are happening at present:
+* Naked, destitute, barefoot shepherds will compete in building tall buildings (Sahih Bukhari, Vol 1: book 2: 47)
+* The slave-woman will give birth to her master or mistress (Sahih Bukhari, Vol 6: book 60: 300)
+* A trial (fitnah) which will enter every Arab household (Sahih Bukhari, Vol 4: book 53: 401)
+* Knowledge will be taken away (by the death of people of knowledge), and ignorance will prevail (Sahih Bukhari, Vol 1: book 3: 80)
+Wine (intoxicants, alcohol) will be drunk in great quantities (Sahih Bukhari, Vol 1: book 3: 80)
+* Zina will become widespread (Sahih Bukhari, Vol 1: book 3: 80)
+* Earthquakes will increase (Sahih Bukhari, Vol 2: book 17: 146)
+* Time will pass more quickly (Sahih Bukhari, Vol 2: book 17: 146)
+* Tribulations (fitana) will prevail (Sahih Bukhari, Vol 2: book 17: 146)
+* Bloodshed will increase (Sahih Bukhari, Vol 2: book 17: 146)
+* A man will pass by the grave of another and wish he was in the latter’s place (Sahih Bukhari, Vol 9: book 88: 237)
+* Trustworthiness will be lost, i.e. when authority is given to those who do not deserve it (Sahih Bukhari, Vol 1: book 3: 56)
+* People will gather for prayer, but will be unable to find an imam to lead them (Sunan Abu Dawud, Book 2: 0581)
+
+Events that are yet to happen:
+* The number of men will decrease, whilst the number of women will increase, until for every man there are 50 women (Sahih Bukhari, Vol 1: book 3: 81)
+* The Euphrates will reveal a treasure of gold, and many will die fighting over it, each one hoping to be the one who gains the treasure (Sahih Muslim, Book 041: 6918)
+* The Romans (Europeans) will come to a place called A’maq or Wabiq, and an army of the best people will go forth from Madinah to face them (Sahih Muslim, Book 041: 6924)
+* The Muslim conquest of Rome (Sahih Muslim, Book 041: 6721)
+* The Mahdi (guided one) will appear, and be the Imam of the Muslims (Sunan Abu Dawud, Book 36: 4272)
+* Jesus Christ will descend in Damascus, and pray behind the Mahdi (Sahih Bukhari, Vol 3: book 43: 656)
+* Jesus will break the cross and kill the swine, i.e. destroy the false Christianity (Sahih Bukhari, Vol 3: book 43: 656)
+* The Antichrist (al-masih al-dajjal, the false christ) will appear, with all his tools of deception, and be an immense trial. He will be followed by 70,000 Jews from Isfahan (Sahih Muslim, Book 041: 7034)
+* The appearance of Ya’juj and Ma’juj (Gog and Magog), and the associated tribulations ) (Sahih Muslim, Book 041: 6931)
+* The emergence of the Beast from the Earth, carrying the Staff of Moses and the Seal of Solomon, who will speak to the people, telling them they did not believe with certainty in the Divine Signs ) (Sahih Muslim, Book 041: 6931)
+* A major war between the Muslims (including Jews and Christians who truly believe in Jesus after his return) led by the Imam Mahdi, and the Jews plus other non-Muslims led by the Antichrist (Sahih Bukhari, Vol 4: book 52: 177)
+* Jesus will kill the Antichrist at the gate of Ludd (Lod in present-day Israel, site of an airport and a major Israeli military base) (Sahih Muslim, Book 041: 7015)
+* A time of great peace and serenity during and after the remaining lifetime of Jesus (Sahih Bukhari, Vol 3: book 43: 656)
+* Arabia will become a land of gardens and rivers (Sahih Muslim, Book 005: 2208)
+* Society will then decay (Sunan Abu Dawud, Book 14: 2529)
+* The buttocks of the women of the tribe of Daws will again sway in circumambulation (tawaf) around the idol Dhul-Khulsah (Sahih Bukhari, Vol 9: book 88: 232)
+* A great fire in the Hijaz, seen by the inhabitants of Busra (Sahih Bukhari, Vol 9: book 88: 232)
+* Three major armies will sink into the earth: one in the east, one in the west, one in Arabia (Sahih Muslim, Book 041: 6931)
+* An Abyssinian leader with thin shins will destroy the Ka’bah (Sahih Muslim, Book 041: 6951)
+* The huge cloud of smoke (Sahih Muslim, Book 041: 6931)
+* The sun will rise from the west (its place of setting) (Sahih Bukhari, Vol 6: book 60: 159)
+* A gentle wind which will take the souls of the believers (Sahih Muslim, Book 041: 7015)
+* There is no-one left on the earth saying, "Allah, Allah" or "There is no god except Allah." (Sahih Muslim, Book 001: 0273)
+* Eventually, the Day of Judgment is established upon the worst of the people, who copulate like donkeys in public (Sahih Muslim, Book 041: 7015)
+* The blowing in the Trumpet by the Angel Israfil, upon which everyone will faint except as Allah wills (Sahih Muslim, Book 041: 7023)
+* The second blowing in the Trumpet, upon which everyone will be resurrected (Sahih Muslim, Book 041: 7023)
+
+</details>
+
+### 12.2 Major Signs of Al Kiyamah
 
 <details>
   <summary>Overview</summary>
+
+According to the Prophet (PBUH), there are 10 major signs that will precede the last Hour and will announce of the finality of the Day of Reckoning. These 10 signs are explained in the following hadith:
+
+Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with him) said: The Prophet (peace and blessings of Allaah be upon him) came out to us when we were discussing. He said: “What are you discussing?” They said: “We are talking about the Hour.” He said: “It will never begin until you see ten signs before it.” He mentioned the smoke, the Dajjaal, the Beast, the rising of the sun from its place of setting, the descent of ‘Eesa ibn Maryam (peace and blessings of Allaah be upon him), Ya’jooj and Ma’jooj, and three landslides, one in the east, one in the west and one in the Arabian Peninsula, and the last of that is a fire which will emerge from Yemen and drive the people to their place of gathering (Sahih Muslim, Book 041: 6931)
 
 </details>
 
@@ -4743,24 +4819,6 @@ Some ahadith say that the Beast will be one of the first major signs of the Last
   <summary>the fire will come out and it will spread.
 </summary> 
 The fire will come out and it will spread, making people come to the destination where the Judgement will take place.
-
-</details>
-
-### 12.2 Minor Signs of The Day of Judgement
-
-<details>
-  <summary>Minor Signs</summary>
-
-* The prophet Muhammad
-* bedouins building towers
-  These signs are connected to each other. When one comes, the other one follows.
-  There is a hadith that prophet Muhammad  ﷺ    said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
-
-better to make it in the part 2. First, just the timeline.
-
-after Isa some time will pass and no believer will be left on Earth. The Quran will be lifted.
-
-https://www.youtube.com/watch?v=NrfWxzjXEyw
 
 </details>
 
