@@ -4,7 +4,7 @@ author: fanil
 
 ---
 
-<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline</b></p>
+<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline According to Islamic Sources</b></p>
 <!--
 <p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources</i> ☪️<i>.</i></p>-->
 
@@ -22,7 +22,7 @@ author: fanil
 > 
 > Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Arstrong "Isam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time without providing the original source.
 > 
-> Allahu alim. Only God know the ultimate truth.
+> Allahu Alim. Only God knows the ultimate truth.
 > 
 > Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
 > 
@@ -33,17 +33,6 @@ author: fanil
 > May Allah guide us all to the right path.
 
 </details>
-
-<!--
-<style>
-
-details > summary {
-  list-style: none;
-}
-details > summary::-webkit-details-marker {
-  display: none;
-}
-</style> -->
 
 <p style="display:block; margin: 5px; font-size: 16px"><b>Table of Contents</b>:</p>
 <div class="toc">
@@ -80,10 +69,20 @@ details > summary::-webkit-details-marker {
 <details>
     <summary>
 
+## In the beginning, there was only Allah.
+
+</summary>
+
+</details>
+
+# PROOFREADINGPROOFREADINPROOFREADINGPROOFREADINGPROOFREADING
+
+<details>
+    <summary>
+
 ## First Creations: Throne, The Pen and The Tablet
 
 </summary>
-In the beginning, there was only Allah.
 
 ### The Throne
 
@@ -4739,6 +4738,7 @@ Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with
 
 <details>
     <summary>Dajjal - the false Messiah or Anti-Christ</summary> 
+
 One of Dajjal's eyes will be like a bad grape.
 one third of the earth for one year the rain will stop. on the second year 2/3 will be rainless.
 Dajjal will pretent that he can resurrect people from the dead but it will be jinns who will imitate people's parents.
@@ -5043,16 +5043,16 @@ The angel that guards the gates of Heaven will ask: "Who is there?". The prophet
 
 There are several narrations that some of the people who ended up in Jahannam will be allowed to enter Jannah after some time passes and their sins are burned. They will be placed into the river of Jannah where they will regain their shape and start living in Jannah.
 
-The Mizan. the Scale
+#### The Mizan. the Scale
 
 Separation of the righteous and the damned
 At divine judgment, the resurrected will stand in a grand assembly, each person's Book of Deeds -- where "every small and great thing is recorded" -- will be read, and ultimate judgment made. The resurrected will then walk over the bridge of As-Sirāt, those judged worthy for the Garden continuing to their heavenly abode, those damned to The Fire, falling off the bridge into the pit of Jahannam. There will also be a punishment of the grave (for those who disbelieved) between death and the resurrection.
 
 Not everyone consigned to hell will remain there, as it is believed by both scholars and lay Muslims that "all but the mushrikun, those who have committed the worst sin of impugning the tawḥīd of God, have the possibility of being saved;" and God's intercession to save sinners from hellfire is a "major theme" in popular Islamic stories about Judgement Day.
 
-Абу аз-Зубайр передал, что он слышал, как Джабиру ибн ‘Абдуллаху задали вопрос о смысле аята, в котором говорится, что каждый человек неизбежно подойдёт к Аду ("И нет среди вас такого, кто не подойдёт к Аду, и Господом твоим это решено окончательно (19:71)"), и Джабир сказал: 
+Narrated Abu Huraira:
 
-«В День воскресения мы явимся к месту сбора и займём место на холме выше других людей. Членов разных религиозных общин одного за другим будут призывать их идолы и то, чему они поклонялись, а после этого к нам явится Господь наш и спросит: "Кого вы ждёте?" Люди станут говорить: "Мы ждём нашего Господа", и Он скажет: "Я — Господь ваш". Люди станут говорить: "Откройся, чтобы мы посмотрели на Тебя". Тогда Он предстанет перед ними, смеясь, а потом поведёт их, и они последуют за Ним. Он дарует свет каждому человеку из их числа, будь то лицемер или верующий, и все они последуют за этим светом, а на воздвигнутом над Геенной мосту будут находиться крюки и колючки, которые станут хватать тех, кого пожелает Аллах Всевышний. Через некоторое время свет лицемеров будет погашен, после чего верующие спасутся. Первой спасётся группа численностью в семьдесят тысяч человек, лицо каждого из которых будет подобно луне в полнолуние, и ни у кого из них не потребуют отчёта. За ними последуют люди, лица которых будут светиться, как небесные звёзды, и это продолжится до тех пор, пока не будет позволено заступаться за грешников. И люди будут заступаться за них, пока из Огня не выйдет каждый человек, который говорил "Нет бога, кроме Аллаха" и в сердце которого было благо(вера) весом хотя бы с ячменное зерно. А потом этих людей поместят перед Раем, обитатели которого станут брызгать на них водой, и те начнут прорастать, как прорастает то, что приносит с собой поток, а следы, что оставит на них Огонь, исчезнут. После этого каждый из них будет обращаться к Аллаху с просьбами, пока каждому не будет даровано нечто, равное всему миру дольнему, и ещё десять подобий этого мира». 
+The people said, "O Allah's Messenger (ﷺ)! Shall we see our Lord on the Day of Resurrection?" He replied, "Do you have any doubt in seeing the full moon on a clear (not cloudy) night?" They replied, "No, O Allah's Messenger (ﷺ)!" He said, "Do you have any doubt in seeing the sun when there are no clouds?" They replied in the negative. He said, "You will see Allah (your Lord) in the same way. On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities; and only this nation (Muslims) will be left with its hypocrites. Allah will come to them and say, 'I am Your Lord.' They will say, 'We shall stay in this place till our Lord comes to us and when our Lord will come, we will recognize Him. Then Allah will come to them again and say, 'I am your Lord.' They will say, 'You are our Lord.' Allah will call them, and As-Sirat (a bridge) will be laid across Hell and I (Muhammad) shall be the first amongst the Apostles to cross it with my followers. Nobody except the Apostles will then be able to speak and they will be saying then, 'O Allah! Save us. O Allah Save us.' There will be hooks like the thorns of Sa'dan in Hell. Have you seen the thorns of Sa'dan ?" The people said, "Yes." He said, "These hooks will be like the thorns of Sa'dan but nobody except Allah knows their greatness in size and these will entangle the people according to their deeds; some of them will fall and stay in Hell forever; others will receive punishment (torn into small pieces) and will get out of Hell, till when Allah intends mercy on whomever He likes amongst the people of Hell, He will order the angels to take out of Hell those who worshipped none but Him alone. The angels will take them out by recognizing them from the traces of prostrations, for Allah has forbidden the (Hell) fire to eat away those traces. So they will come out of the Fire, it will eat away from the whole of the human body except the marks of the prostrations. At that time they will come out of the Fire as mere skeletons. The Water of Life will be poured on them and as a result they will grow like the seeds growing on the bank of flowing water. Then when Allah had finished from the Judgments amongst his creations, one man will be left between Hell and Paradise and he will be the last man from the people of Hell to enter paradise. He will be facing Hell, and will say, 'O Allah! Turn my face from the fire as its wind has dried me and its steam has burnt me.' Allah will ask him, "Will you ask for anything more in case this favor is granted to you?' He will say, "No by Your (Honor) Power!" And he will give to his Lord (Allah) what he will of the pledges and the covenants. Allah will then turn his face from the Fire. When he will face Paradise and will see its charm, he will remain quiet as long as Allah will. He then will say, 'O my Lord! Let me go to the gate of Paradise.' Allah will ask him, 'Didn't you give pledges and make covenants (to the effect) that you would not ask for anything more than what you requested at first?' He will say, 'O my Lord! Do not make me the most wretched, amongst Your creatures.' Allah will say, 'If this request is granted, will you then ask for anything else?' He will say, 'No! By Your Power! I shall not ask for anything else.' Then he will give to his Lord what He will of the pledges and the covenants. Allah will then let him go to the gate of Paradise. On reaching then and seeing its life, charm, and pleasure, he will remain quiet as long as Allah wills and then will say, 'O my Lord ! Let me enter Paradise.' Allah will say, May Allah be merciful unto you, O son of Adam! How treacherous you are! Haven't you made covenants and given pledges that you will not ask for anything more that what you have been given?' He will say, 'O my Lord! Do not make me the most wretched amongst Your creatures.' So Allah will laugh and allow him to enter Paradise and will ask him to request as much as he likes. He will do so till all his desires have been fulfilled . Then Allah will say, 'Request more of such and such things.' Allah will remind him and when all his desires and wishes; have been fulfilled, Allah will say "All this is granted to you and a similar amount besides." Abu Said Al-Khudri, said to Abu Huraira, 'Allah's Messenger (ﷺ) said, "Allah said, 'That is for you and ten times more like it.' "Abu Huraira said, "I do not remember from Allah's Messenger (ﷺ) except (his saying), 'All this is granted to you and a similar amount besides." Abu Said said, "I heard him saying, 'That is for you and ten times more the like of it." 
 
 ### Sirat bridge over Jahannam
 
@@ -5072,6 +5072,21 @@ Then bridge of Qantarah to allow people complete their arguments. People will fo
 There will be a barrier [ḥijāb] between Paradise and Hell. And on the heights [al-aʿrāf] of that barrier˺ will be people who will recognize ˹the residents of˺ both by their appearance. They will call out to the residents of Paradise, "Peace be upon you!" They will have not yet entered Paradise, but eagerly hope to (Q.7:46).
 
 As for who the inhabitants of the inhabits al-aʿrāf are, the "majority of exegetes" support the theory that they are persons whose actions balance in terms of merit and demerit -- whose good deeds keep them from the Fire and whose evil deeds keep them from the Garden. They will be the last to enter the Garden, at the mercy of their Lord.
+
+</details>
+
+<details>
+  <summary>Opening the Gates of Paradise</summary>
+
+In the hadith about intercession that the Prophet (blessings and peace of Allah be upon him) said: “I will come to the gate of Paradise on the Day of Resurrection and will ask for it to be opened. The keeper will say: ‘Who are you?’ I will say, ‘Muhammad.’ He will say: ‘I was commanded not to open it for anyone before you.” Narrated by Muslim (197)
+
+Another report in the Sahihayn is in different words,“The first group to enter Paradise will be glittering like the moon (as it appears) on a full moon night. Those to follow them will be like the most shiny star in the sky. They will not spit therein, nor blow their noses, nor attend a nature’s call. Their combs will be of gold and silver, and sweat of misk. Their incense of pearls, and aloe wood used for fire. Their spouses will be wide-eyed Houries. All of them on one nature, on the face of their father Adam, sixty feet (tall) in the heaven.”
+
+There are a few other reports about those who will enter first through the gates of Paradise. The following is in the Sahihayn: Abu Hurayrah reported the Prophet as having (once) said, “Seventy-thousand of my Ummah will enter Paradise, their faces shining as bright as the moon on a full moon night.” Abu Hurayrah said, “At that `Ukk asha got up lifting a shroud on him and said, ‘Messenger of Allah. Supplicate to Allah that He place me as one of them.‘ He said, ‘O Allah, make him one of them.‘ Then another man of the Ansar stood up and said, ‘Messenger of Allah. Supplicate to Allah that He place me as one of them.’ He replied, ‘`Ukk asha overtook you therewith.” According to another report (of Bukhari and Muslim), the Prophet (saws) said,“Surely, seventy thousand of my followers, or seven hundred thousand, the first of whom will not enter Paradise until the last of them enters. Their faces shining bright like the moon on a full-moon night.”
+
+According to another tradition recorded by Tirmidhi, the Prophet said,“My Lord has promised me that He will admit seventy thousand of my followers into Paradise, without they undergoing any reckoning or any punishment, along with another seventy thousand and (over and above them) three handfuls from the Handfuls of my Lord” (Ibn Kathir).
+
+The above report was declared Hasan Gharib by Tirmidhi. However, after mentioning the above in his “Fath”, Ibn Hajr quoted another hadith on the above topic from Ibn Hibb an and Tab arani, which he declared trustworthy. It says,“Then every thousand will intercede for seventy thousand. Thereafter, my Lord will usher in three handfuls of His two Handfuls.” When Umar said “Allah is the Greatest” the Prophet added, “The seventy thousand will be allowed to intercede for their fathers, mothers and family members, and I hope that the handfuls will be from the lowest of my followers.”
 
 </details>
 
@@ -5101,7 +5116,7 @@ The temple built by jinns 🏛️
 
 Angels Harut and Marut taught magic in Babylon (between 1895BC and 539BC). it is mentioned in the Quran.
 
-Iqrimah ibn Abu Jahl flees. but later he comes to Medina to accept Islam from the hands of the prophet Muhammad  ﷺ   .
+Iqrimah ibn Abu Jahl flees. but later he comes to Medina to accept Islam from the hands of the prophet Muhammad ﷺ   .
 
 His Prophetic mission began on the 27th day of the month of Rajab, in the year 610 CE, when he received the first divine revelation. Then the Qur’an was revealed to the Prophet progressively according to the circumstances of the time over a period of 23 years.
 
@@ -5109,5 +5124,16 @@ There is a narration that Abi-Talib took the prophet  ﷺ    with him and the mo
 Solitude of shepherd gives opportunity to contemplate on the nature and teaches how to rule. Also, sheep shepherds are the most humble shepherds.
 
 According to the Bible lifespan of people before THe Great Flood was much longer than after the flood.
+
+<!--
+<style>
+
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+</style> -->
 
 </details>
