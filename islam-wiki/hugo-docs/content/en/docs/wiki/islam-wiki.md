@@ -2314,7 +2314,7 @@ Sahih al-Bukhari, Volume 3, Book 43: Kitab-ul-Ilm (Book of Knowledge), Hâdith N
 <details>
 <summary>
 
-## Apostoles and [Paul]
+## Apostoles and Paul
 
 </summary>
 
@@ -2399,15 +2399,38 @@ Paul never met Jesus in person. Paul brought many innovations from Greek mytholo
 </details>
 
 <details>
-  <summary>
+<summary>
 
-## The Return of Jesus
+## Sleepers in the Cave
 
 </summary>
 
-Both Islam and Christianity expect the return of Jesus at the end of times, and both expect trials and tribulations to occur at the time.  Many of the themes of these trials are similar, but they are also very different in detail and definition.  Both religions expect the nation of believers to be the final victors, but the Christian believes that these are defined as the believers in the Gospel of the New Testament and in Christ as ‘the Savior’ and ‘the Incarnation’ of God, whilst the Muslim knows that it refers to those who believe in the pure monotheism entailed in submission to the One and Only True God.
+The story of the Companions of the Cave ( أصحاب الکهف, ) is referred to in Quran 18:9-26. Several righteous people and one dog hid inside the cave outside the city of Ephesus around AD 250 to escape one of the Roman persecutions of Christians and emerged some 300 years later.
 
-The return of Jesus is preceded in both religions by signs, again similar in general description, but subtly different in detail.  Both religions teach that the return of Jesus will be preceded by a great and powerful figure of falsehood and temptation, called the Maseeh ad-Dajjal (The False Messiah) by the Muslims and the Anti-Christ by the Christians.  Before this event other signs that agree with each other include a general increase in immorality and fornication, murder and crime, and general lawlessness, debauchery and falling away from religion and true knowledge.  Accompanying these signs of civil malaise will be internecine  wars, and natural disasters following closely one upon the other.  The details and timings of these, however, are substantially different, even within particular faiths.  How the Christian faith regards the second coming depends on the doctrinal view held.  Four broad views are prominent: Historical and Dispensational Ante-millennialism, and Preterist Post and A-millennialism.
+The precise number of the sleepers is not stated. The Quran furthermore points to the fact that people, shortly after the incident emerged, started to make "idle guesses" as to how many people were in the cave. To this the Quran asserts that: "My Sustainer knows best how many they were".
+
+Similarly, regarding the exact period of time the people stayed in the cave, the Quran, after asserting the guesswork of the people that "they remained in the cave for 300 years and nine added", resolves that "God knows best how long they remained [there]." The Quran says the sleepers included a dog, who sat at the entrance of the cave (verse 18). 
+
+## Christian Interpretation
+
+The story says that during the persecutions by the Roman emperor Decius, around AD 250, seven young men were accused of following Christianity. They were given some time to recant their faith, but they refused to bow to Roman idols. Instead they chose to give their worldly goods to the poor and retire to a mountain cave to pray, where they fell asleep. The Emperor, seeing that their attitude towards paganism had not improved, ordered the mouth of the cave to be sealed.
+
+Decius died in 251, and many years passed during which Christianity went from being persecuted to being the state religion of the Roman Empire. At some later time—usually given as during the reign of Theodosius II (408–450)—in AD 447 when heated discussions were taking place between various schools of Christianity about the resurrection of the body in the day of judgement and life after death, a landowner decided to open up the sealed mouth of the cave, thinking to use it as a cattle pen. He opened it and found the sleepers inside. They awoke, imagining that they had slept but one day, and sent one of their number to Ephesus to buy food, with instructions to be careful.
+
+Upon arriving in the city, this person was astounded to find buildings with crosses attached; the townspeople for their part were astounded to find a man trying to spend old coins from the reign of Decius. The bishop was summoned to interview the sleepers; they told him their miracle story, and died praising God.
+
+</details>
+
+<details>
+  <summary>
+
+## When will Jesus return?
+
+</summary>
+
+Both Islam and Christianity expect the return of Jesus at the end of times, and both expect trials and tribulations to occur at the time. Many of the themes of these trials are similar, but they are also very different in detail and definition. Both religions expect the nation of believers to be the final victors, but the Christian believes that these are defined as the believers in the Gospel of the New Testament and in Christ as ‘the Savior’ and ‘the Incarnation’ of God, whilst the Muslim knows that it refers to those who believe in the pure monotheism entailed in submission to the One and Only True God.
+
+The return of Jesus is preceded in both religions by signs, again similar in general description, but subtly different in detail. Both religions teach that the return of Jesus will be preceded by a great and powerful figure of falsehood and temptation, called the Maseeh ad-Dajjal (The False Messiah) by the Muslims and the Anti-Christ by the Christians. Before this event other signs that agree with each other include a general increase in immorality and fornication, murder and crime, and general lawlessness, debauchery and falling away from religion and true knowledge. Accompanying these signs of civil malaise will be internecine wars, and natural disasters following closely one upon the other.  The details and timings of these, however, are substantially different, even within particular faiths. How the Christian faith regards the second coming depends on the doctrinal view held. Four broad views are prominent: Historical and Dispensational Ante-millennialism, and Preterist Post and A-millennialism.
 
 </details>
 
@@ -2496,16 +2519,18 @@ Tribes of Arabia:
 * Azd
 * Kindah
 
-### Ancient Arabs: Add and Thamud.
+### Ancient Arabs: 'Ad and Thamud
 
 Yagrub's father was Kakhtan and believed to be the starter of the Arab languange.
 Kakhtan was the son of SAm. and Sam is the son of Nuh. from SAm we get Saimtes.
 Most probably the son of Adnan lived at the time of Isa AS. 
 570 years between Isa and the prophet Muhammad.
-Jewish Calendar and Orthodox Chiristians believe that poeple have been around the Earth for around 6 thousand years. it is not islamic.
+Jewish Calendar and Orthodox Chiristians believe that people have been around the Earth for around 6 thousand years. It is not the islamic view.
 There are some cave paintings that are 30thousand years old. These were not Neanthertals these were Homo-Sapiens.
-So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet  ﷺ    said that the time between now and the day is like his two fingers. And now it is 1443 year afterHijrah. So it gives possibility to extend the humanity timeline as long as science findings. WE don't have a set timeframe.
+So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet ﷺ    said that the time between now and the day is like his two fingers. And now it is 1443 year afterHijrah. So it gives possibility to extend the humanity timeline as long as science findings. WE don't have a set timeframe.
+
  THe Quraish was the best and the Bani Hashim tribe was  the best most noble tribe.
+
 Mudr was the first to use camels into caravans.
 Kinanah was noble. People used to do Hajj to meet Kinana. He was a legendary Arab full of knowledge. from Kinana Allah chose Quraish. Onw person who combines all Quraish is Fahr. All promised Paradise are from Quraish. There are about 12 tribes ofQuraish. Khusay gathered Quraish reclaimed MEcca for QUraish and made the rules of  Kaaba and hospitality and storing of the key and water.  there was no ZAmzam at that time. Whne Khuzahah attacked Jurhum, people buried the well of Zamzam. for over 300 years peoplewereforcedto dig wells from other places. 
 Hashim extablished trading betwwen Basra and Yemen. HAshim became wealthy.he fed the pilgrims. The surah Quraish is about this. it wasnot allowed to rob Quraish caravans because they protected the Qaaba. One of wives of Hashim was from Yathrib. So the prophet  ﷺ    hab blood relations with the Ansar.  
