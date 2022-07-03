@@ -3944,6 +3944,44 @@ Some followers call him al-Imām al-Aʿẓam ("The Greatest Imam") and Sirāj al
 
 Born to a Muslim family in Kufa, Abu Hanifa is known to have travelled to the Hejaz region of Arabia in his youth, where he studied in Mecca and Medina. As his career as a theologian and jurist progressed, Abu Hanifa became known for favoring the use of reason in his legal rulings (faqīh dhū raʾy) and even in his theology. Abu Hanifa's theological school is claimed to be what would later develop into the Maturidi school of Sunni theology.
 
+### Early life and scholarship
+
+There is scant biographical information about Abu Hanifa. It is generally known that he worked a producer and seller of "khazz", a type of silk clothing material. He attended lectures on jurisprudence by the Kufan scholar Hammad ibn Abi Sulayman (d. 737). He also possibly learnt jurisprudence (fiqh) by the Meccan scholar Ata ibn Abi Rabah (d. c. 733) while on Hajj. According to the historian Joseph Schacht, other scholars Abu Hanifa is held to have learned from should be "treated with caution".
+
+Abu Hanifa succeeded Hammad, when the latter died, as the principal authority on Islamic law in Kufa and the chief representative of the Kufan school of jurisprudence. Abu Hanifa gradually gained influence as an authority on legal questions, founding a moderate rationalist school of Islamic jurisprudence that was named after him.
+
+### Adulthood and death
+
+In 763, al-Mansur, the Abbasid caliph offered Abu Hanifa the post of Chief Judge of the State, but he declined the offer, choosing to remain independent. His student Abu Yusuf was later appointed Qadi Al-Qudat (Chief Judge of the State) by the Caliph Harun al-Rashid.
+
+In his reply to al-Mansur, Abu Hanifa said that he was not fit for the post. Al-Mansur, who had his own ideas and reasons for offering the post, lost his temper and accused Abu Hanifa of lying.
+
+"If I am lying," Abu Hanifa said, "then my statement is doubly correct. How can you appoint a liar to the exalted post of a Chief Qadi (Judge)?"
+
+Incensed by this reply, the ruler had Abu Hanifa arrested, locked in prison and tortured. He was never fed nor cared for. Even there, the jurist continued to teach those who were permitted to come to him.
+
+On 15 Rajab 150 (August 15, 767), Abu Hanifa died in prison. The cause of his death is not clear, as some say that Abu Hanifa issued a legal opinion for bearing arms against Al-Mansur, and the latter had him poisoned. The fellow prisoner and Jewish Karaite founder, Anan ben David, is said to have received life-saving counsel from the subject. It was said that so many people attended his funeral that the funeral service was repeated six times for more than 50,000 people who had amassed before he was actually buried.
+
+### Students
+Yusuf ibn Abd al-Rahman al-Mizzi listed 97 hadith scholars who were his students. Most of them were famous hadith scholars, and their narrated hadiths were compiled in the Sahih al-Bukhari, Sahih Muslim and other famous books of hadith. Imām Badr al-Din al-Ayni included another 260 students who studied Hadith and Fiqh from Abu Hanifa.
+
+His most famous student was Imām Abu Yusuf, who served as the first chief justice in the Muslim world. Another famous student was Imām Muhammad al-Shaybani, who was the teacher of the Shafi‘i school of jurisprudence founder, Imām Al-Shafi‘i. His other students include:
+* Abdullah ibn Mubarak
+* Abu Nuāim Fadl Ibn Dukain
+* Malik bin Mighwal
+* Dawood Taa’ee
+* Mandil bin Ali
+* Qaasim bin Ma’n
+* Hayyaaj bin Bistaam
+* Hushaym bin Basheer Sulami
+* Fudhayl bin Iyaadh
+* Ali bin Tibyaan
+* Wakee bin Jarrah
+* Amr bin Maymoon
+* Abu Ismah
+* Zuhayr bin Mu’aawiyah
+* Aafiyah bin Yazeed
+
 </details>
 
 <details>
@@ -5118,6 +5156,10 @@ The above report was declared Hasan Gharib by Tirmidhi. However, after mentionin
 <details>
 <summary>Unsorted drafts</summary>
 🌱🌴🌊🏜
+
+In the end of times, the shayateen will take forms and tell you fictional stories and you will say "I can see his face but I dont know his name."  sahih bukhari
+
+"By the time they reach age 18, American children will have seen 16,000 simulated murders and 200,000 acts of violence (American Psychiatric Association, 1998)."
 
 Mesopotamia:
     1. Ubaid period (6500-3800bc)
