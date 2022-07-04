@@ -3982,6 +3982,24 @@ His most famous student was Imām Abu Yusuf, who served as the first chief justi
 * Zuhayr bin Mu’aawiyah
 * Aafiyah bin Yazeed
 
+### Sources and methodology
+The sources from which Abu Hanifa derived Islamic law, in order of importance and preference, are: the Qur'an, the authentic narrations of the Muslim prophet Muhammad (known as hadith), consensus of the Muslim community (ijma), analogical reasoning (qiyas), juristic discretion (istihsan) and the customs of the local population enacting said law (urf). The development of analogical reason and the scope and boundaries by which it may be used is recognized by the majority of Muslim jurists, but its establishment as a legal tool is the result of the Hanafi school. While it was likely used by some of his teachers, Abu Hanifa is regarded by modern scholarship as the first to formally adopt and institute analogical reason as a part of Islamic law.
+
+As the fourth Caliph, Ali had transferred the Islamic capital to Kufa, and many of the first generation of Muslims had settled there, the Hanafi school of law based many of its rulings on the prophetic tradition as transmitted by those first generation Muslims residing in Iraq. Thus, the Hanafi school came to be known as the Kufan or Iraqi school in earlier times. Ali and Abdullah, son of Masud formed much of the base of the school, as well as other personalities from the direct relatives (or Ahli-ll-Bayṫ) of Moḥammad from whom Abu Hanifa had studied such as Muhammad al-Baqir. Many jurists and historians had reportedly lived in Kufa, including one of Abu Hanifa's main teachers, Hammad ibn Abi Sulayman.
+
+### Generational status
+Abu Hanifa is regarded by some as one of the Tabi‘un, the generation after the Sahaba, who were the companions of the Islamic prophet, Muhammad. This is based on reports that he met at least four Sahaba including Anas ibn Malik, with some even reporting that he transmitted Hadith from him and other companions of Muhammad. Others take the view that Abu Hanifa only saw around half a dozen companions, possibly at a young age, and did not directly narrate hadith from them.
+
+Abu Hanifa was born 67 years after the death of Muhammad, but during the time of the first generation of Muslims, some of whom lived on until Abu Hanifa's youth. Anas bin Malik, Muhammad's personal attendant, died in 93 AH and another companion, Abul Tufail Amir bin Wathilah, died in 100 AH, when Abu Hanifa was 20 years old. The author of al-Khairat al-Hisan collected information from books of biographies and cited the names of Muslims of the first generation from whom it is reported that the Abu Hanifa had transmitted hadith. He counted them as sixteen, including Anas ibn Malik, Jabir ibn Abd-Allah and Sahl ibn Sa'd.
+
+### Reception
+
+He attained a very high status in the various fields of sacred knowledge and significantly influenced the development of Muslim theology. During his lifetime, he was acknowledged by the people as a jurist of the highest calibre.
+
+Outside of his scholarly achievements, Abu Hanifa is popularly known amongst Sunni Muslims as a man of the highest personal qualities: a performer of good works, remarkable for his self-denial, humble spirit, devotion and pious awe of God.
+
+The honorific title al-Imam al-A'zam ("the greatest leader") was granted to him both in communities where his legal theory is followed and elsewhere. According to John Esposito, 45% of all Muslims follow the Hanafi school.
+
 </details>
 
 <details>
@@ -4185,6 +4203,18 @@ Ahmad ibn Hanbal favoured Ijtihad and rejected Taqlid; the practise of blind adh
 "I am amazed at those people who know that a Sanad (i.e. Chain of Transmission) is authentic and yet, in spite of this, they follow the opinion of Sufyan, for Allah (Glorified beHe), says: {And let those who oppose the Messenger's commandment (i.e. his Sunnah - legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them}. (An-Nur: 63) Do you know what that Fitnah is? That Fitnah is Shirk (polytheism). Maybe the rejection of some of his words would cause one to doubt and deviate in his heart and thereby be destroyed."
 
 </details>
+
+<details>
+    <summary>Al-Bukhari (810 - 870)</summary>
+
+Muhammad ibn Isma'il ibn Ibrahim (محمد ابن اسماعيل ابن ابراهيم, ; 19 July 810 – 1 September 870), better known as al-Bukhari ( البخاری, ), commonly referred to as Imam al-Bukhari or Imam Bukhari, was a Persian Islamic scholar who was born in Bukhara (early Khorasan and present day Uzbekistan). He compiled the hadith collection known as Sahih al-Bukhari, regarded by Sunni Muslims as the most authentic (sahih) hadith collections. He also wrote other books such as Al-Adab al-Mufrad.
+
+Muhammad ibn Ismaʿil al-Bukhari al-Juʿfi was born after the Jumu'ah prayer,13 Shawwal 194 AH in the city of Bukhara in Greater Khorasan (in present-day Uzbekistan).
+
+His father, Ismail ibn Ibrahim, a scholar of hadith, was a student and associate of Malik ibn Anas. Some Iraqi scholars related hadith narrations from him.
+
+</details>
+
 
 <details>
     <summary>al-Tabari (839 - 923)</summary>
