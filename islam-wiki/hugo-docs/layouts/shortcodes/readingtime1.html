@@ -1,0 +1,4 @@
+{{ $readTime := mul (div (countwords .Content) 220.0) 60 }}
+
+<p>Reading time: {{ math.Floor (div $readTime 60) }} minutes and
+    {{ mod $readTime 60 }} seconds.</p>

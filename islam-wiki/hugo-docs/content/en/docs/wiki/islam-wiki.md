@@ -4,12 +4,18 @@ author: fanil
 
 ---
 
-<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline According to Islamic Sources</b></p>
+<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline </b></p>
+
+According to Islamic Sources
+
 <!--
-<p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources</i> ☪️<i>.</i></p>-->
+<p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources</i> ☪️<i>.</i></p>
+
+<p style="text-align: right;">Time to read: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}</p>
+
+-->
 
 <p style="text-align: right;">Time to read: 6 hours 25 minutes</p>
-<p style="text-align: right;">Time to read: {{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}</p>
 
 <details>
 <summary style="color: #878686fc; font-size: 14px;">DISCLAIMER!</summary>
@@ -4491,6 +4497,46 @@ In the contemporary world, Al-Ghazali is renowned not only for his contribution 
 
 </details>
 
+<details>
+<summary>
+
+## House of Wisdom
+
+</summary>
+
+The House of Wisdom (بيت الحكمة, ), also known as the Grand Library of Baghdad, refers to either a major Abbasid public academy and intellectual center in Baghdad or to a large private library belonging to the Abbasid Caliphs during the Islamic Golden Age. The House of Wisdom was founded either as a library for the collections of the Caliph Harun al-Rashid in the late 8th century (then later turned into a public academy during the reign of Al-Ma'mun) or was a private collection created by Al-Mansur (reign 754–775) to house rare books and collections of poetry in Arabic.
+
+The House of Wisdom and its contents were destroyed in the Siege of Baghdad in 1258, leaving relatively limited archaeological evidence for the House of Wisdom, such that most knowledge about it is derived from the works of contemporary scholars of the era such as Al-Tabari and Ibn al-Nadim.
+
+### Notable people
+
+This is a list of notable people related to the House of Wisdom.
+* Abu Ma'shar al-Balkhi (786–886)—leading Persian astrologist in the Abbasid court who translated the works of Aristotle
+* Averroes (1126–1198)—born in Islamic Iberia (modern day Spain), he was a Muslim philosopher who was famous for his commentary on Aristotle
+* Avicenna (980–1037)—Persian philosopher and physician famous for writing The Canon of Medicine, the prevailing medical text in the Islamic World and Europe until the 19th century
+* Al-Ghazali (1058–1111)—Persian theologian who was the author of The Incoherence of the Philosophers, which challenged the philosophers who favored Aristotelianism
+* Muhammad al-Idrisi (1099–1169)—Arab geographer who worked under Roger II of Sicily and contributed to the Map of the World
+* Muhammad ibn Musa al-Khwarizmi (d. 850)—Persian polymath head of the House of Wisdom
+* Al-Kindi (d. 873)—considered to be the among the first Arab philosophers, he combined the ideology of Aristotle and Plato
+* Maslama al-Majriti (950–1007)—Arab mathematician and astronomer who translated Greek texts
+* Hunayn ibn Ishaq (809–873)—Assyrian (Nestorian Christian) scholar and philosopher who was placed in charge of the House of Wisdom. In his lifetime he translated over 116 writings by many of the most significant scholars in history.
+* The Banu Musa brothers—remarkable engineers and mathematicians of Persian descent
+* Sahl ibn Harun (d. 830)—philosopher and polymath
+* Al-Ḥajjāj ibn Yūsuf ibn Maṭar (786–833)—Sabian mathematician and a translator who was known for his translation of Euclid's works
+* Thābit ibn Qurra (826–901)—Sabian mathematician, astronomer and translator who reformed Ptolemaic system. Considered as the founding father of statics.
+* Yusuf Al-Khuri (d. 912)— mathematician and astronomer who was hired as a translator by Banu Musa brothers
+* Qusta Ibn Luqa (820–912)—mathematician and physician who translated Greek texts into Arabic
+* Abu Bishr Matta ibn Yunus (870–940)— Christian physician, scientist and translator
+* Yahya Ibn al-Batriq (796–806)— Assyrian Christian astronomer and translator
+* Yahya ibn Adi (893–974)— Syriac Jacobite Christian philosopher, theologian and translator
+* Sind ibn Ali (d. 864)—astronomer who translated and reworked Zij al-Sindhind
+* Al-Jahiz (781–861)—author and biologist known for Kitāb al-Hayawān and numerous literary works
+* Ismail al-Jazari (1136–1206)—physicist and engineer who is best known for his work in writing The Book of Knowledge of Ingenious Mechanical Devices in 1206
+* Jabir Ibn Hayyan—known for his work with practical metallurgy, his work was translated into Latin During the 12th century
+* Omar Khayyam (1048–1131)—Persian poet, mathematician, and astronomer most famous for his solution of cubic equations
+
+</details>
+
 # 10. Later History of Islamic Countries
 
 <details>
@@ -4742,7 +4788,7 @@ The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocen
 
 </details>
 
-# 12. Yawm Al Qiyamah
+# 12. Yawm Al Qiyamah (Apocalypse)
 
 *******************************************
 
@@ -4920,7 +4966,7 @@ The fire will come out and it will spread, making people come to the destination
 *******************************************
 
 <details>
-    <summary><b>What happens after The End</b></summary> 
+    <summary>What happens after The End</summary> 
 Allahu 'Alim.
 </details>
 
@@ -5080,10 +5126,10 @@ And then Allah SWT says Every single soul perishes. And only the Noble Face of Y
 
 Where are the ones with pride, the one with glory? 
 
-In another version, eight angels who carry the Throne of Allah die before the Angel of</details>
-
+In another version, eight angels who carry the Throne of Allah die before the Angel of
+</details>
 <details>
-  <summary>
+<summary>
 
 ## Second blow of the trumpet (Resurrection of the Dead)
 
@@ -5146,8 +5192,14 @@ Not everyone consigned to hell will remain there, as it is believed by both scho
 Narrated Abu Huraira:
 
 The people said, "O Allah's Messenger (ﷺ)! Shall we see our Lord on the Day of Resurrection?" He replied, "Do you have any doubt in seeing the full moon on a clear (not cloudy) night?" They replied, "No, O Allah's Messenger (ﷺ)!" He said, "Do you have any doubt in seeing the sun when there are no clouds?" They replied in the negative. He said, "You will see Allah (your Lord) in the same way. On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities; and only this nation (Muslims) will be left with its hypocrites. Allah will come to them and say, 'I am Your Lord.' They will say, 'We shall stay in this place till our Lord comes to us and when our Lord will come, we will recognize Him. Then Allah will come to them again and say, 'I am your Lord.' They will say, 'You are our Lord.' Allah will call them, and As-Sirat (a bridge) will be laid across Hell and I (Muhammad) shall be the first amongst the Apostles to cross it with my followers. Nobody except the Apostles will then be able to speak and they will be saying then, 'O Allah! Save us. O Allah Save us.' There will be hooks like the thorns of Sa'dan in Hell. Have you seen the thorns of Sa'dan ?" The people said, "Yes." He said, "These hooks will be like the thorns of Sa'dan but nobody except Allah knows their greatness in size and these will entangle the people according to their deeds; some of them will fall and stay in Hell forever; others will receive punishment (torn into small pieces) and will get out of Hell, till when Allah intends mercy on whomever He likes amongst the people of Hell, He will order the angels to take out of Hell those who worshipped none but Him alone. The angels will take them out by recognizing them from the traces of prostrations, for Allah has forbidden the (Hell) fire to eat away those traces. So they will come out of the Fire, it will eat away from the whole of the human body except the marks of the prostrations. At that time they will come out of the Fire as mere skeletons. The Water of Life will be poured on them and as a result they will grow like the seeds growing on the bank of flowing water. Then when Allah had finished from the Judgments amongst his creations, one man will be left between Hell and Paradise and he will be the last man from the people of Hell to enter paradise. He will be facing Hell, and will say, 'O Allah! Turn my face from the fire as its wind has dried me and its steam has burnt me.' Allah will ask him, "Will you ask for anything more in case this favor is granted to you?' He will say, "No by Your (Honor) Power!" And he will give to his Lord (Allah) what he will of the pledges and the covenants. Allah will then turn his face from the Fire. When he will face Paradise and will see its charm, he will remain quiet as long as Allah will. He then will say, 'O my Lord! Let me go to the gate of Paradise.' Allah will ask him, 'Didn't you give pledges and make covenants (to the effect) that you would not ask for anything more than what you requested at first?' He will say, 'O my Lord! Do not make me the most wretched, amongst Your creatures.' Allah will say, 'If this request is granted, will you then ask for anything else?' He will say, 'No! By Your Power! I shall not ask for anything else.' Then he will give to his Lord what He will of the pledges and the covenants. Allah will then let him go to the gate of Paradise. On reaching then and seeing its life, charm, and pleasure, he will remain quiet as long as Allah wills and then will say, 'O my Lord ! Let me enter Paradise.' Allah will say, May Allah be merciful unto you, O son of Adam! How treacherous you are! Haven't you made covenants and given pledges that you will not ask for anything more that what you have been given?' He will say, 'O my Lord! Do not make me the most wretched amongst Your creatures.' So Allah will laugh and allow him to enter Paradise and will ask him to request as much as he likes. He will do so till all his desires have been fulfilled . Then Allah will say, 'Request more of such and such things.' Allah will remind him and when all his desires and wishes; have been fulfilled, Allah will say "All this is granted to you and a similar amount besides." Abu Said Al-Khudri, said to Abu Huraira, 'Allah's Messenger (ﷺ) said, "Allah said, 'That is for you and ten times more like it.' "Abu Huraira said, "I do not remember from Allah's Messenger (ﷺ) except (his saying), 'All this is granted to you and a similar amount besides." Abu Said said, "I heard him saying, 'That is for you and ten times more the like of it." 
+</details>
 
-### Sirat bridge over Jahannam
+<details>
+  <summary>
+
+## Sirat bridge over Jahannam
+
+</summary>
 
 People will need to cross the bridge that lays above Jahannam.
 and the Prophet Muhammad is waiting on the other side of Sirat with a cup from his fountain.

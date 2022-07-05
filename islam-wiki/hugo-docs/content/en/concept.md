@@ -6,6 +6,10 @@ Concept
 
 >npm run build /production 
 >npm run start /local serve
+>npm update
+
+updated npm packages and somehow fixed the bug with css not compiling.
+
 
 ## Description
 
@@ -64,7 +68,7 @@ but there are still many bugs left.S
 I have many doubts like was Thamud earlier than 'Ad or vice versa.
 
 hugo is a good choice if you want to implement docs-as-code approach and if the documentation team is ready to work with markdown instead of some traditional XML editor.
-I've been editing raw markdown files for a while until I found about https://github.com/marktext/marktext which is open source and really nice.
+I've been editing raw markdown files for a while until I found about https://github.com/marktext/marktext which is open source and really nice. has a spell checker.
 
 https://github.com/mundimark/awesome-markdown-editors
 

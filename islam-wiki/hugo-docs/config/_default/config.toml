@@ -15,7 +15,7 @@ disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
 
 [params]
-    custom_css = ["css/custom.css"]
+  custom_css = ["css/custom.css"]
 
 # add redirects/headers
 [outputs]
@@ -118,6 +118,6 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "archetypes"
     target = "archetypes"
-  [[module.mounts]]
-    source = "data"
-    target = "data"
+#  [[module.mounts]]
+#    source = "data"
+#    target = "data"

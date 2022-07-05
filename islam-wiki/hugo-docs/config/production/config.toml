@@ -1,4 +1,4 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "https://incomparable-beignet-4c7c25.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -118,6 +118,6 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "archetypes"
     target = "archetypes"
-  [[module.mounts]]
-    source = "data"
-    target = "data"
+#  [[module.mounts]]
+#    source = "data"
+#    target = "data"
