@@ -4696,6 +4696,16 @@ The Golden Horde mongols rule the lands north of Caspian and Black Sea and then 
 
 ## 1552: The Russians conquer Kazan and Volzhsk Bulgaria
 
+During the existence of the khanate (1438-1552) Russian forces besieged Kazan at least ten times (1469, 1478, 1487, 1506, 1524, 1530, 1545, 1547, 1549-1550, 1552). In 1547 and in 1549-1550, Ivan the Terrible besieged Kazan, but supply difficulties forced him to withdraw. The Russians pulled back 29 kilometres (18 mi) and built the town or fort of Sviyazhsk. They also annexed land west of the Volga which weakened the khanate. The peace party agreed to accept the pro-Russian Shah Ali as khan. The patriotic party regained power, Shah Ali fled and Yadegar Mokhammad of Kazan was called in as khan. Religious leaders like Qolsharif inspired the people to a determined resistance.
+
+The siege of Kazan in 1552 was the final battle of the Russo-Kazan Wars and led to the fall of the Khanate of Kazan. Conflict continued after the fall of Kazan, however, as rebel governments formed in Çalım and Mişätamaq, and a new khan was invited from the Nogais. This guerrilla war lingered until 1556.
+
+The tsarist administration prohibited the Tatars, Chuvash and Mari from settling along rivers and in cities, and also from engaging in blacksmith and jewelry crafts. Settlements in the specified zone were destroyed or relocated.
+
+After his conquest of Kazan, Ivan IV is said to have ordered the crescent, a symbol of Islam, to be placed underneath the Christian cross on the domes of Orthodox Christian churches.
+
+Later in history of Tatars, several occasions of forceful Christianization occured followed by Soviet Union that prohibited any religion.
+
 </summary>
 </details>
 
