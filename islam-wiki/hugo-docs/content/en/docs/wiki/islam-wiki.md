@@ -4623,6 +4623,8 @@ The Golden Horde mongols rule the lands north of Caspian and Black Sea and then 
 
 ## 1328: Ahmad ibn Taymiyyah in Damascus
 
+</summary>
+
 Ibn Taymiyyah (January 22, 1263 – September 26, 1328; Arabic: ابن تيمية),  Taqī ad-Dīn ʾAḥmad ibn ʿAbd al-Ḥalīm ibn ʿAbd al-Salām al-Numayrī al-Ḥarrānī), was a Sunni ʿĀlim, muhaddith, judge, philosopher, and sometimes controversial thinker and political figure. He is known for his diplomatic involvement with the Ilkhanid ruler Ghazan Khan and for his involvement at the Battle of Marj al-Saffar which ended the Mongol invasions of the Levant. A member of the Hanbali school, Ibn Taymiyyah's iconoclastic views that condemned numerous folk practices associated with saint veneration and the visitation of tomb-shrines; made him unpopular with many scholars and rulers of the time, and he was imprisoned several times.
 
 A polarising figure in his own times and in the centuries that followed, Ibn Taymiyyah has emerged as one of the most influential medieval writers in contemporary Sunni Islam. He was also noteworthy for engaging in intense religious polemics that defended Athari school against the followers of rival schools of Kalam (speculative theology); namely Ash'arism and Maturidism. This would prompt numerous clerics and state authorities to accuse Ibn Taymiyyah and his disciples of being guilty of "tashbīh" (anthropomorphism); which eventually led to the censoring of his works and subsequent incarceration. Nevertheless, Ibn Taymiyya's numerous treatises that advocated "creedal Salafism" (al-salafiyya al-iʿtiqādīyya), based on his particular interpretations of the Qur'an and the Sunnah, constitute the most popular classical reference for later Salafi movements.
@@ -4631,7 +4633,15 @@ Ibn Taymiyyah had a simple life, most of which he dedicated to learning, writing
 
 Ibn Taymiyyah's attitude towards his own rulers was based on the actions of Muhammad's companions when they made an oath of allegiance to him as follows; "to obey within obedience to God, even if the one giving the order is unjust; to abstain from disputing the authority of those who exert it; and to speak out the truth, or take up its cause without fear in respect of God, of blame from anyone."
 
-</summary>
+### Education
+In 1269, aged seven, Ibn Taymiyyah, left Harran together with his father and three brothers. The city was completely destroyed by the ensuing Mongol invasion. Ibn Taymiyyah's family moved and settled in Damascus, Syria, which at the time was ruled by the Mamluk Sultanate.
+
+In Damascus, his father served as the director of the Sukkariyya Madrasa, a place where Ibn Taymiyyah also received his early education.[46] Ibn Taymiyyah acquainted himself with the religious and secular sciences of his time. His religious studies began in his early teens, when he committed the entire Qur'an to memory and later on came to learn the Islamic disciplines of the Qur'an. From his father he learnt the religious science of fiqh (jurisprudence) and usul al-fiqh (principles of jurisprudence). Ibn Taymiyyah learnt the works of Ahmad ibn Hanbal, al-Khallal, Ibn Qudamah and also the works of his grandfather, Abu al-Barakat Majd ad-Din. His study of jurisprudence was not limited to the Hanbali tradition but he also learnt the other schools of jurisprudence.
+
+The number of scholars under which he studied hadith is said to number more than two hundred, four of whom were women. Those who are known by name amount to forty hadith teachers, as recorded by Ibn Taymiyyah in his book called Arbaun Hadithan. Serajul Haque says, based on this, Ibn Taymiyyah started to hear hadith from the age of five. One of his teachers was the first Hanbali Chief Justice of Syria, Shams ud-Din Al-Maqdisi who held the newly created position instituted by Baibars as part of a reform of the judiciary. Al-Maqdisi later on, came to give Ibn Taymiyyah permission to issue Fatawa (legal verdicts) when he became a mufti at the age of 17.
+
+Ibn Taymiyyah's secular studies led him to devote attention to Arabic language and Arabic literature by studying Arabic grammar and lexicography under Ali ibn Abd al-Qawi al-Tufi. He went on to master the famous book of Arabic grammar, Al-Kitab, by the Persian grammarian Sibawayhi. He also studied mathematics, algebra, calligraphy, theology (kalam), philosophy, history and heresiography. Based on the knowledge he gained from history and philosophy, he used to refute the prevalent philosophical discourses of his time, one of which was Aristotelian philosophy. Ibn Taymiyyah learnt about Sufism and stated that he had reflected on the works of; Sahl al-Tustari, Junayd of Baghdad, Abu Talib al-Makki, Abdul-Qadir Gilani, Abu Hafs Umar al-Suhrawardi and Ibn Arabi. At the age of 20 in the year 1282, Ibn Taymiyyah completed his education.
+
 </details>
 
 <details>
