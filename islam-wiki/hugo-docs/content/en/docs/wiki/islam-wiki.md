@@ -4642,6 +4642,16 @@ The number of scholars under which he studied hadith is said to number more than
 
 Ibn Taymiyyah's secular studies led him to devote attention to Arabic language and Arabic literature by studying Arabic grammar and lexicography under Ali ibn Abd al-Qawi al-Tufi. He went on to master the famous book of Arabic grammar, Al-Kitab, by the Persian grammarian Sibawayhi. He also studied mathematics, algebra, calligraphy, theology (kalam), philosophy, history and heresiography. Based on the knowledge he gained from history and philosophy, he used to refute the prevalent philosophical discourses of his time, one of which was Aristotelian philosophy. Ibn Taymiyyah learnt about Sufism and stated that he had reflected on the works of; Sahl al-Tustari, Junayd of Baghdad, Abu Talib al-Makki, Abdul-Qadir Gilani, Abu Hafs Umar al-Suhrawardi and Ibn Arabi. At the age of 20 in the year 1282, Ibn Taymiyyah completed his education.
 
+### Life as a scholar
+
+Umayyad Mosque, a place where Ibn Taimiyya used to give lessons.
+After his father died in 1284, he took up the then vacant post as the head of the Sukkariyya madrasa and began giving lessons on Hadith. A year later he started giving lessons, as chair of the Hanbali Zawiya on Fridays at the Umayyad Mosque, on the subject of tafsir (exegesis of Qur'an). In November 1292, Ibn Taymiyyah performed the Hajj and after returning 4 months later, he wrote his first book aged twenty nine called Manasik al-Hajj (Rites of the Pilgrimage), in which he criticized and condemned the religious innovations he saw take place there. Ibn Taymiyyah represented the Hanbali school of thought during this time. The Hanbali school was seen as the most traditional school out of the four legal systems (Hanafi, Maliki and Shafii) because it was "suspicious of the Hellenist disciplines of philosophy and speculative theology." 
+
+He remained faithful throughout his life to this school, whose doctrines he had mastered, but he nevertheless called for ijtihad (independent reasoning by one who is qualified) and discouraged <span class="tooltip">taqlid<span class="tooltiptext">Taqlid is an Islamic term denoting the conformity of one person to the teaching of another. In contemporary Sunni usage, it is often portrayed in a negative light and translated as "blind imitation". This refers to the perceived stagnation of independent intellectual effort (ijtihad) and uncritical imitation of traditional religious interpretation by the religious establishment in general.</span>
+</span>.
+
+
+
 </details>
 
 <details>
@@ -4714,6 +4724,8 @@ Ibn Taymiyyah's secular studies led him to devote attention to Arabic language a
 
 ## 1552: The Russians conquer Kazan and Volzhsk Bulgaria
 
+</summary>
+
 During the existence of the khanate (1438-1552) Russian forces besieged Kazan at least ten times (1469, 1478, 1487, 1506, 1524, 1530, 1545, 1547, 1549-1550, 1552). In 1547 and in 1549-1550, Ivan the Terrible besieged Kazan, but supply difficulties forced him to withdraw. The Russians pulled back 29 kilometres (18 mi) and built the town or fort of Sviyazhsk. They also annexed land west of the Volga which weakened the khanate. The peace party agreed to accept the pro-Russian Shah Ali as khan. The patriotic party regained power, Shah Ali fled and Yadegar Mokhammad of Kazan was called in as khan. Religious leaders like Qolsharif inspired the people to a determined resistance.
 
 The siege of Kazan in 1552 was the final battle of the Russo-Kazan Wars and led to the fall of the Khanate of Kazan. Conflict continued after the fall of Kazan, however, as rebel governments formed in Çalım and Mişätamaq, and a new khan was invited from the Nogais. This guerrilla war lingered until 1556.
@@ -4724,7 +4736,6 @@ After his conquest of Kazan, Ivan IV is said to have ordered the crescent, a sym
 
 Later in history of Tatars, several occasions of forceful Christianization occured followed by Soviet Union that prohibited any religion.
 
-</summary>
 </details>
 
 <details>
