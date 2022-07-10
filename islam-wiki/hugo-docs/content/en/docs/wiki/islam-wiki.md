@@ -3204,7 +3204,7 @@ In 622 CE, due to the safety offered by Yathrib (later renamed Medīnat an-Nabī
 <details>
 <summary>
 
-##<b>622</b>: Assasination Attempt and Hijra
+##**622**: Assasination Attempt and Hijra
 
 </summary>
 
@@ -4634,6 +4634,7 @@ Ibn Taymiyyah had a simple life, most of which he dedicated to learning, writing
 Ibn Taymiyyah's attitude towards his own rulers was based on the actions of Muhammad's companions when they made an oath of allegiance to him as follows; "to obey within obedience to God, even if the one giving the order is unjust; to abstain from disputing the authority of those who exert it; and to speak out the truth, or take up its cause without fear in respect of God, of blame from anyone."
 
 ### Education
+
 In 1269, aged seven, Ibn Taymiyyah, left Harran together with his father and three brothers. The city was completely destroyed by the ensuing Mongol invasion. Ibn Taymiyyah's family moved and settled in Damascus, Syria, which at the time was ruled by the Mamluk Sultanate.
 
 In Damascus, his father served as the director of the Sukkariyya Madrasa, a place where Ibn Taymiyyah also received his early education.[46] Ibn Taymiyyah acquainted himself with the religious and secular sciences of his time. His religious studies began in his early teens, when he committed the entire Qur'an to memory and later on came to learn the Islamic disciplines of the Qur'an. From his father he learnt the religious science of fiqh (jurisprudence) and usul al-fiqh (principles of jurisprudence). Ibn Taymiyyah learnt the works of Ahmad ibn Hanbal, al-Khallal, Ibn Qudamah and also the works of his grandfather, Abu al-Barakat Majd ad-Din. His study of jurisprudence was not limited to the Hanbali tradition but he also learnt the other schools of jurisprudence.
@@ -4648,9 +4649,24 @@ Umayyad Mosque, a place where Ibn Taimiyya used to give lessons.
 After his father died in 1284, he took up the then vacant post as the head of the Sukkariyya madrasa and began giving lessons on Hadith. A year later he started giving lessons, as chair of the Hanbali Zawiya on Fridays at the Umayyad Mosque, on the subject of tafsir (exegesis of Qur'an). In November 1292, Ibn Taymiyyah performed the Hajj and after returning 4 months later, he wrote his first book aged twenty nine called Manasik al-Hajj (Rites of the Pilgrimage), in which he criticized and condemned the religious innovations he saw take place there. Ibn Taymiyyah represented the Hanbali school of thought during this time. The Hanbali school was seen as the most traditional school out of the four legal systems (Hanafi, Maliki and Shafii) because it was "suspicious of the Hellenist disciplines of philosophy and speculative theology." 
 
 He remained faithful throughout his life to this school, whose doctrines he had mastered, but he nevertheless called for ijtihad (independent reasoning by one who is qualified) and discouraged <span class="tooltip">taqlid<span class="tooltiptext">Taqlid is an Islamic term denoting the conformity of one person to the teaching of another. In contemporary Sunni usage, it is often portrayed in a negative light and translated as "blind imitation". This refers to the perceived stagnation of independent intellectual effort (ijtihad) and uncritical imitation of traditional religious interpretation by the religious establishment in general.</span>
+
+He spent his last fifteen years in Damascus. Aged 50, Ibn Taymiyyah returned to Damascus via Jerusalem on 28 February 1313. Damascus was now under the governorship of Tankiz. There, Ibn Taymiyyah continued his teaching role as professor of Hanbali fiqh. This is when he taught his most famous student, Ibn Qayyim Al-Jawziyya, who went on to become a noted scholar in Islamic history. Ibn Qayyim was to share in Ibn Taymiyyah's renewed persecution.
+
+Several of Ibn Taymiyyah's students became scholars in their own right. His students came from different backgrounds and belonged to various different schools (madhabs). His most famous students were Ibn Qayyim Al-Jawziyya and Ibn Kathir.
+
+### Legacy
+
+In the 21st century, Ibn Taymiyya is one of the most cited medieval authors and his treatises are regarded to be of central intellectual importance by several Islamic revivalist movements. Ibn Taymiyya's disciples, consisting of both Hanbalis and non-Hanbalis, were attracted to his advocacy of Ijtihad outside the established boundaries of the madhabs and shared his taste for activism and religious reform. Some of his unorthodox legal views in the field of Fiqh were also regarded as a challenge by mainstream Fuqaha.
+
+In the pre-modern era, Ibn Taymiyyah was considered a controversial figure within Sunni Islam and had a number of critics during his life and in the centuries thereafter. The Shafi'i scholar Ibn Hajar al-Haytami stated that,
+
+"Make sure you do not listen to what is in the books of Ibn Taymiyya and his student Ibn Qayyim al-Jawziyya and other such people who have taken their own whim as their God, and who have been led astray by God, and whose hearts and ears have been sealed, and whose eyes have been covered by Him... May God forsake the one who follows them, and purify the earth of their likes."
+
+The reputation and stature of Ibn Taymiyya amongst non-Ḥanbalī Sunni scholars would significantly improve between the eighteenth and twentieth centuries. From a little-read scholar considered controversial by many, he would become one of the most popular scholarly figures in the Sunni religious tradition.
+
+Ibn Taymiyya's rejection of some aspects of classical Islamic tradition are believed to have had considerable influence on contemporary militant Islamist movements such as Salafi-Jihadism. Major aspects of his teachings such as upholding the pristine monotheism of the early Muslim generations and campaigns to uproot what he regarded as shirk (idolatry); had a profound influence on Muhammad ibn Abd al-Wahhab, the founder of the Hanbali reform movement practiced in Saudi Arabia, and on other later Sunni scholars. Syrian Salafi theologian Muhammad Rashid Rida (d. 1935 C.E/ 1354 A.H), one of the major modern proponents of his works, designated Ibn Taymiyya as the Mujaddid (renewer) of the Islamic 7th century of Hijri year. Ibn Taymiyyah's doctrinal positions on the necessity of an Islamic political entity and his controversial fatwas, such as his Takfir (declaration of unbelief) of the Mongol Ilkhanates, allowing jihad against other self-professed Muslims, are referenced by al-Qaeda and other jihadist groups to justify militant overthrowal of contemporary governments of the Muslim world.
+
 </span>.
-
-
 
 </details>
 
