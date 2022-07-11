@@ -79,20 +79,39 @@ According to Islamic Sources
 
 </summary>
 
-</details>
+When Prophet Muhammadﷺ  , sallallahu ^alayhi wa sallam, was asked how this universe started to exist, he said:
 
-# PROOFREADINGPROOFREADINPROOFREADINGPROOFREADINGPROOFREADING
+كان الله ولم يكن شىء غيره وكان عرشه على الماء وكتب في الذكر كل شىء ثم خلق السماوات والأرض »
+
+Which means: 
+>Allāh existed [eternally] and nothing else existed with Him. He created the ^Arsh (Throne) [and placed it] above the water. Then He [ordered the Pen to] write in the (Guarded) Tablet everything that would happen. Then Allāh created the heavens and Earth. [Related by al-Bukhariyy]
+
+The Prophetﷺ   answered this question by first stating that Allāh's Existence does not have a beginning, i.e., He is Eternal. There is no one attributed with eternity other than Him. In other words, nothing existed eternally except Allāh, and Allāh created everything, i.e., He brought all the creation from non-existence into existence.
+
+</details>
 
 <details>
     <summary>
 
-## First Creations: Throne, The Pen and The Tablet
+## First Creations: Water, Throne, The Pen and The Tablet
 
 </summary>
 
+### Water
+
+Allâh, taâlâ, did not create all the creations at one time. Had He willed for this, it would have occurred. Rather, in six yawm, He created the heavens and Earth ; and for Earth Allāh created rivers, mountains, and valleys. 
+
+The first creation is water. The Prophet, sallallahu alayhi wa sallam, said:
+> « Allāh created everything from water. » [Related by Ibn Hibban]
+
+Allah knows best. This means that Allāh created water before creating light, darkness, Earth, the heavens, the Throne, or the Guarded Tablet. Allāh made water the origin for other creations. He created the Throne from water. Then He created the Upper Pen, then the Guarded Tablet. After these creations, Allāh created the rest of the creations: the Earth, heavens, animals, mountains, trees, and rivers. Adam, peace be upon him, was of the last kind of creation, humans.
+
 ### The Throne
 
-The first creation of Allah was the Throne (Al-'Arsh). It is considered to be the largest creation.
+One of the first creations of Allah was the Throne (Al-'Arsh). The Arsh is a platform with pillars. It is considered to be the largest of bodies that Allāh created, and it is the ceiling of Paradise.
+
+There is a Hadith that means the seven heavens in relation to the Kursiyy are like a ring in a very big open space. Likewise, the Kursiyy in relation to the Throne is like a ring in a very big open space. This indicates the huge size of the Throne, which is now carried by four huge angels.
+
 The Quran mentions the throne some 25 times (33 times as Al-'Arsh). 'Ali ibn Abi Talib, said: "Allah created the Throne as an indication of His power, not for taking it as a place for Himself."
 
 ### Al-Qalam (The Pen)
@@ -109,19 +128,35 @@ Allah told it to write, so the Pen wrote all that will happen until the Final Ho
 
 ### Guarded (Preserved) Tablet
 
-The Preserved Tablet is the record in which Allaah The Almighty has recorded the fate of His creatures before He created them. In this regard, the Quran says: 
+The Preserved Tablet is the record in which Allah The Almighty has recorded the fate of His creatures before He created them. In this regard, the Quran says: 
 
     "Do you not know that Allaah knows what is in the heaven and earth? Indeed, that is in a Record." Quran 22: 70 
 
-In his interpretation of this verse, Ibn ‘Atiyyah said that the record in this verse refers to the Preserved Tablet. Allaah The Almighty also Says (what means): 
+In his interpretation of this verse, Ibn ‘Atiyyah said that the record in this verse refers to the Preserved Tablet. Allah The Almighty also Says (what means): 
 
     No disaster strikes upon the earth or among yourselves except that it is in a Record before We bring it into being.
     Quran 57: 22
 
-The Maaliki scholar, Al-Qurtubi, may Allaah have mercy upon him, mentioned in his interpretation of this verse that the record mentioned here refers to the Preserved Tablet.  
+The Maaliki scholar, Al-Qurtubi, may Allah have mercy upon him, mentioned in his interpretation of this verse that the record mentioned here refers to the Preserved Tablet.  
+
+It was narrated in the description of the Guarded Tablet that it is a white pearl and its edge is made of red ruby. Its width is the traveling distance of five hundred (500) years.
+
+Allāh ordered the Pen to write. The Pen wrote, by the Will of Allāh, without anyone holding it. It wrote on the Guarded Tablet what was and what will be in this life until its end. Fifty thousand (50,000) years after this event, Allāh created the heavens and Earth in six (6) yawm. No person is born and no drop of water falls except in accordance to what was written in the Guarded Tablet.
 
 </details>
 
+<details>
+    <summary>
+
+## The Seven Heavens
+
+</summary>
+
+After Allāh created the Earth, He created the seven heavens. Each heaven is a solid body that is held up without any pillars. The heavens are separated. From one heaven to the other is a distance of five hundred (500) years, and every heaven has a gate.
+
+The first heaven is so far away from the Earth. Some people are unable to encompass this to the extent that they believe that the space which contains the stars and planets is the entire universe. They also falsely believe that it extends without an end. There is no point to their claims, because Allāh told us in the Qur’an and the Prophet also informed us in his Hadith what is contradictory to their claims. Paradise exists above the seventh heaven.
+
+</details>
 <details>
     <summary>
 
@@ -131,7 +166,7 @@ The Maaliki scholar, Al-Qurtubi, may Allaah have mercy upon him, mentioned in hi
 
 Allah created angels from nur (luminous light).
 
-One of the Islamic major characteristic of angels their lack of bodily desires; they never get tired, do not eat or drink, and have no anger. As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena. Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good. Belief in angels is one of the main articles of faith in Islam.
+One of the Islamic major characteristic of angels their lack of bodily desires: they never get tired, do not eat or drink, and have no anger. As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena. Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good. Belief in angels is one of the main articles of faith in Islam.
 
 ### Jibril
 
@@ -139,23 +174,21 @@ One of the Islamic major characteristic of angels their lack of bodily desires; 
 
 Muslims also revere Gabriel for a number of events predating what they regard as the first revelation, narrated in the Quran. Muslims believe that Gabriel was the angel who informed Zachariah (Zakariyyā) of John's birth, as well as Mary (Maryam) of the future nativity of Jesus; and that Gabriel was one of three angels who had earlier informed Abraham (ʾIbrāhīm) of the birth of Isaac (ʾIsḥāq). Gabriel also makes a famous appearance in the Hadith of Gabriel, in which he questions Muhammad on the core tenets of Islam.
 
-Gabriel in Islam also believed the one who deliver punishment from God to the Sodomite by leveling the entire Sodom city with a tip of his wing.[49] According to a Hadith narrated by Abu Dharr al-Ghifari which compiled by al-Hakim al-Tirmidhi, Gabriel has an ability to regulate Feeling or Perception of human, particularly a feel of happiness or sadness.
+Gabriel in Islam also believed to be the one who delivers punishment from God to the Sodomite by leveling the entire Sodom city with a tip of his wing. According to a Hadith narrated by Abu Dharr al-Ghifari which compiled by al-Hakim al-Tirmidhi, Gabriel has an ability to regulate Feeling or Perception of human, particularly a feel of happiness or sadness.
 
-Accordingly, in Islam, Gabriel is believed to have helped Muhammad overcome his adversaries significantly during the Battle of Badr
+Accordingly, in Islam, Gabriel is believed to have helped Muhammad overcome his adversaries significantly during the Battle of Badr.
 
-Daniel saw Gabriel.
-
-Ezekiel saw Gabriel.
-
-Gabriel came to Zakariyah and tells him that his prayers are heard and that they his wife will give birth to John.
+Some mentions of Jibril in the Bible:
+* Daniel saw Gabriel.
+* Ezekiel saw Gabriel.
+* Gabriel came to Zakariyah and tells him that his prayers are heard and that they his wife will give birth to John.
 
 Jibril came to Maryam and told the good news that she will give birth to a child Isa.
 
-Jibril had special relation with the prophet Muhammad (ﷺ   ). In most cases he used to come to the prophet in a human form and give a Revelation or explain religious and worldly matters. Documented occasions when Jibril communicated with the prophet Muhammad:
-
-1. There is an authentic hadith that when the prophet Muhammad was 4-6 years old, Jibril came to him opened up his chest and cleaned his heart in Zamzam water.
-2. Close to the prophecy times, the prophet Muhammad starts to see a man in a dream who later turns out to be Jibril. 
-3. In the cave of the mount Hira, Jibril comes to the prophet Muhammad and says "Iqra!" ("Recite!"). After the prophet says that he does not know what to recite, Jibril huggs him tight and transfers the first surah of the Quran. the prophet Muhammad was so overwhelmed by this experience, that he hurries back home and asks Hadija to cover him with cloth.
+Jibril had special relation with the prophet Muhammadﷺ   . In most cases he used to come to the prophet in a human form and give a Revelation or explain religious and worldly matters. Documented occasions when Jibril communicated with the prophet Muhammadﷺ  :
+* There is an authentic hadith that when the prophet Muhammadﷺ   was 4-6 years old, Jibril came to him opened up his chest and cleaned his heart in Zamzam water.
+* Close to the prophecy times, the prophet Muhammadﷺ   starts to see a man in a dream who later turns out to be Jibril. 
+* In the cave of the mount Hira, Jibril comes to the prophet Muhammadﷺ   and says "Iqra!" ("Recite!"). After the prophetﷺ   says that he does not know what to recite, Jibril huggs him tight and transfers the first surah of the Quran. The prophet Muhammadﷺ   was so overwhelmed by this experience, that he hurries back home and asks Hadija to cover him with cloth.
 
 ### Other Angels
 
@@ -166,7 +199,6 @@ Jibril had special relation with the prophet Muhammad (ﷺ   ). In most cases he
 <span style="color: blue"><b>Azrail</b></span> is the archangel of death. He and his subordinative angels are responsible for parting the soul from the body of the dead and will carry the believers to Barzakh.
 
 Mentioned in Quran:
-
 * Nāzi'āt and Nāshiṭāt, helpers of Azrail who take the souls of the deceased.
   * **Nāzi'āt**: they are responsible for taking out the souls of disbelievers painfully.
   * **Nāshiṭāt**: they are responsible for taking out the souls of believers peacefully.
@@ -185,6 +217,9 @@ Mentioned in Quran:
 Also, there is a hadith about **Munkar** and **Nakir**, two angels that question the souls of people in the grave after they die. For details, see [#barzakh](#barzakh).
 
 </details>
+
+# PROOFREADINGPROOFREADINPROOFREADINGPROOFREADING
+
 
 <details>
   <summary>
@@ -238,9 +273,17 @@ Atmosphere: “Jahannam was heated for a thousand years and its fire turned red;
 
 Hutama: According to some narrations, the deepest level of the Hells. It is for the Hypocrites (Munafiqin)
 
-### Jannah -- The Heaven
+### Jannah -- The Paradise
 
-The Quran describes paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.[8]: 58  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).[8]: 59  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels.[8]: 62  Each person that goes to Jannah is greeted by angels from every gate with the words, "Peace be upon you, because ye have endured with patience; how excellent a reward is paradise!" (Q13:24) [10] Each person lives near to the Lord in a garden (3:15) of perpetual bliss (13:23). In paradise, people would have "whatever they wish for" (Q25:16).[8]: 65  In each garden is a mansion (9:72), a high throne (88:10–16) of dignity (52:20) in a grove of cool shade (36:56–57), an adorned couch (18:31), rows of cushions, rich carpets spread out, a cup (Q88:10–16) full of wine (52:23), and every meat (52:22) and fruit (Q36:56–57) that is like the food on Earth (Q2:25). Each person is adorned in golden and pearl bracelets (Q35:33) and green garments of fine silk and brocade (Q18:31).
+Jannah is above the seven heavens.
+
+Jannah is very big.
+
+Jannah is very beautiful.
+
+Jannah has many trees, rivers, and birds with beautiful sounds. It has all what one would like. Allāh created Adam in Paradise.
+
+The Quran describes paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels.[8]: 62  Each person that goes to Jannah is greeted by angels from every gate with the words, "Peace be upon you, because ye have endured with patience; how excellent a reward is paradise!" (Q13:24) Each person lives near to the Lord in a garden (3:15) of perpetual bliss (13:23). In paradise, people would have "whatever they wish for" (Q25:16).  In each garden is a mansion (9:72), a high throne (88:10–16) of dignity (52:20) in a grove of cool shade (36:56–57), an adorned couch (18:31), rows of cushions, rich carpets spread out, a cup (Q88:10–16) full of wine (52:23), and every meat (52:22) and fruit (Q36:56–57) that is like the food on Earth (Q2:25). Each person is adorned in golden and pearl bracelets (Q35:33) and green garments of fine silk and brocade (Q18:31).
 
 Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompanied by any children that did not go to Jahannam (Q52:21), and attended to by servant-boys with the spotless appearance similar to a protected pearls (Q52:24). The Believers Men will get untouched (Q55:56) virgin companions of equal age (56:35-38) and have large, beautiful eyes (37:48).
 
@@ -554,6 +597,7 @@ There is a hadith from Abu Huraira 🐈:
     Sheikh Al-Albani called this hadith authentic.
 
 Allah gave Adam knowledge and taught him names. One of the version of interpretation is that Adam was taught the names of animals and birds. The other version is that he was taught speech.
+
 Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allah told angels that He knows what they know not.
 
 And Allah made all children of Adam as souls to testify that their Lord is Allah.
@@ -564,6 +608,16 @@ And Allah made all children of Adam as souls to testify that their Lord is Allah
 It is the fitrah (natural inclination/sound human nature) which is instilled in our souls and hearts, that drives us to believe in Allah and long to know Him, may He be glorified. In fact, it reaches the level of urgency that pushes and compels us to acknowledge that the Creator, may He be glorified and exalted, is the only, perfect Lord Who bestows His blessings upon us and upon all other created beings.
 
 This spiritual and rational urge (to believe in Allah) is the strongest factor that prompts man to believe in Allah and affirm His Oneness, because it is usually stronger than any other impulses that may lead man to fall into ignorance and doubt. Often this urge (to believe) may overwhelm a person and make him realise the belief in divine Oneness (Tawheed) deep in his heart at times of crisis and calamity, even if the one who still has that sound natural inclination (fitrah) is pretending today to be an atheist. The call of Tawheed is still urging him from deep inside to believe, because of this natural inclination (fitrah) which is the first covenant taken from the sons of Adam.
+
+According to hadith:
+* Adam was eloquent.
+* He had a beautiful voice.
+* The prophet Adam used to talk with his children with clear words and not with signs.
+* The prophet Adam knew all the names of the creations such as the name of the sky, the earth, the sea, the air, the angel, the jinn, and the like.
+* The prophet Adam Plants and Harvests.
+* Allāh created in our master Adam the knowledge of the matters of earning a living.
+* Allāh created in Adam the knowledge of how to plant seeds, vegetables, and fruits, and how to harvest.
+* There is a narration that Adam Alayhissalam was the first to build the first place of worship -- The Kaabah.
 
 </details>
 
@@ -3861,22 +3915,51 @@ They did not have buildings, they did not even have a government. They were neve
 ## Umayyad Dinasty Era
 
 </summary>
+</details>
+<details>
+    <summary>
 
-  661 - 680 Khalifate of Muawiyyah
+## Umayyad Dinasty Era
 
-* Capital is moved from Medina to Damascus
-* Death of Hasan ibn Ali in Medina
-* Development of Science and Medicine
+</summary>
   
-  </details>
-  Yazid I
-* Muawiyyah I dies
-* 680-92 The Second fitnah
+</details>
+<details>
+    <summary>
 
+## 661 - 680: Khalifate of Muawiyyah
+
+</summary>
+  
+</details>
+<details>
+    <summary>
+
+## Capital is moved from Medina to Damascus
+
+</summary>
+  
+</details>
+<details>
+    <summary>
+
+## Death of Hasan ibn Ali in Medina
+
+</summary>
+  
+</details>
+<details>
+    <summary>
+
+## Yazid I
+
+</summary>
+  
+</details>
 <details>
 <summary>
 
-## 680 Battle of Karbala
+## 680 Battle of Karbala. 680-92 The Second fitnah
 
 </summary>
 
@@ -3884,7 +3967,16 @@ Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Hu
 
 </details>
 
-* Murder of Huseyn and his family.
+<details>
+<summary>
+
+## Murder of Huseyn and his family
+
+</summary>
+
+Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
+
+</details>
 
 <details>
 <summary>
