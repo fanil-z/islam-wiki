@@ -22,6 +22,8 @@ According to Islamic Sources
 
 > Assalamu Aleikum (Peace be upon you), 
 > 
+> ﷽ 
+>
 > This guide is compiled from various sources and there may be minor discrepancies and incorrect details. The main purpose of the guide was to combine an overview of the whole timeline of the world as of we know today according to Islamic sources. 
 > 
 > Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources including Wikipedia.
@@ -75,18 +77,18 @@ According to Islamic Sources
 <details>
     <summary>
 
-## In the beginning, there was only Allah.
+## In the beginning, there was only Allah ﷻ . 
 
 </summary>
 
-When Prophet Muhammadﷺ  , sallallahu ^alayhi wa sallam, was asked how this universe started to exist, he said:
+When Prophet Muhammad ﷺ    was asked how this universe started to exist, he said:
 
 كان الله ولم يكن شىء غيره وكان عرشه على الماء وكتب في الذكر كل شىء ثم خلق السماوات والأرض »
 
 Which means: 
 >Allāh existed [eternally] and nothing else existed with Him. He created the ^Arsh (Throne) [and placed it] above the water. Then He [ordered the Pen to] write in the (Guarded) Tablet everything that would happen. Then Allāh created the heavens and Earth. [Related by al-Bukhariyy]
 
-The Prophetﷺ   answered this question by first stating that Allāh's Existence does not have a beginning, i.e., He is Eternal. There is no one attributed with eternity other than Him. In other words, nothing existed eternally except Allāh, and Allāh created everything, i.e., He brought all the creation from non-existence into existence.
+The Prophet ﷺ   answered this question by first stating that Allāh's Existence does not have a beginning, i.e., He is Eternal. There is no one attributed with eternity other than Him. In other words, nothing existed eternally except Allāh, and Allāh created everything, i.e., He brought all the creation from non-existence into existence.
 
 </details>
 
@@ -168,6 +170,8 @@ Allah created angels from nur (luminous light).
 
 One of the Islamic major characteristic of angels their lack of bodily desires: they never get tired, do not eat or drink, and have no anger. As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena. Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good. Belief in angels is one of the main articles of faith in Islam.
 
+Angels are dwellers of the seven heavens.
+
 ### Jibril
 
 <span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
@@ -218,9 +222,6 @@ Also, there is a hadith about **Munkar** and **Nakir**, two angels that question
 
 </details>
 
-# PROOFREADINGPROOFREADINPROOFREADINGPROOFREADING
-
-
 <details>
   <summary>
 
@@ -228,14 +229,13 @@ Also, there is a hadith about **Munkar** and **Nakir**, two angels that question
 
 </summary>
 
-Jannah (Heaven) and Hell (Jahannam) were created before its future habitats. This means Hell and Heaven already exist now.
-
-According to the Quran and ahadith, Jahannam seem to be a living creature that breathes, roars and has a natural desire to punish the transgressors and disbelievers.
+Jannah (Paradise) and Jahannam (Hell) were created before its future habitats. This means Hell and Heaven already exist now.
 
 Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
-"Paradise and Hell have already been created. They will never come to an end or cease to exist. Allah (swt) created Paradise and Hell before the rest of creation, and He (swt) created inhabitants for each of them. Whoever He (swt) wishes (will enter) Paradise by His grace and mercy, and whoever He (swt) wishes (will enter Hell) as a result of His (swt) justice. Every person will behave according to that for which he was created, and his destiny will be that for which he was created; good deeds and evil deeds are foreordained for all men".
 
-> Abu Hurairah [ra] narrated that the Messenger of Allah [ﷺ   ] said:
+"Paradise and Hell have already been created. They will never come to an end or cease to exist. Allah ﷻ  created Paradise and Hell before the rest of creation, and He ﷻ  created inhabitants for each of them. Whoever He  ﷻ wishes (will enter) Paradise by His grace and mercy, and whoever He  ﷻ wishes (will enter Hell) as a result of His justice. Every person will behave according to that for which he was created, and his destiny will be that for which he was created; good deeds and evil deeds are foreordained for all men".
+
+> Abu Hurairah [ra] narrated that the Messenger of Allah ﷺ   said:
 > "When Allah created Jannah and Hellfire, He sent Gabriel to Jannah, saying, ‘look at it and at what I have prepared therein for its inhabitants.’ 
 > 
 > So Gabriel went to it and looked at it and at what Allah had prepared therein for its inhabitants. Then Gabriel returned to Allah and said, ‘By Your glory, no one hears of it without entering it.’ 
@@ -251,15 +251,17 @@ Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 
 Partly From the narration of Malik ibn Dinar and his daughter who hushed away the dragon that was chasing her father. we can derive that good deeds and sins of people are some physical entities in another dimension. Somehow these entities are combined for your punishment or your blessing in the hereafter.
 
-for example, there is also a hadith that says each dhikr is a real seed of your tree in Jannah. 
+For example, there is a hadith that says each dhikr is a real seed of your tree in Jannah. 
 
-Every person is only getting the result of what he has done in this dunya. His own punishment is build from his sins which with the design of Allah obtained a certain form in Jahannam. Jahannam is designed in a way that collects all your sins and 
+Every person is only getting the result of what he has done in this dunya. His own punishment is build from his sins which with the design of Allah ﷻ obtained a certain form in Jahannam. Jahannam is designed in a way that collects all your sins and bestows upon you if Allah ﷻ  does not grant you of His mercy.
 
-### Reality of Jahannam
+### Reality of Jahannam ﷽
+
+According to the Quran and ahadith, Jahannam seem to be a living creature that breathes, roars and has a natural desire to punish the transgressors and disbelievers.
 
 Easy Entrance: “Paradise is surrounded by difficulties and Fire is surrounded by temptations” [Bukhari].
 
-Eternal: "O Jannatis, now there will be no death; O Jahannamis now there will be no death; On hearing this call , the Jannatis will be delighted and the Jahanamis will become more depressed." [Bukhari] 
+Eternal: "O Jannatis, now there will be no death; O Jahannamis now there will be no death; On hearing this call, the Jannatis will be delighted and the Jahanamis will become more depressed." [Bukhari] 
 
 Depth: "If a rock is dropped into Jahannam, it will remain plummeting for 70 years before touching the pith of Jahannam". [Muslim]
 
@@ -271,7 +273,7 @@ Atmosphere: “Jahannam was heated for a thousand years and its fire turned red;
 
 7 Layers: Ali ibn Abi Talib (ra) has said that the gates of Jahannam are one upon each other. This denotes that Jahannam has layers. "The Hypocrites will be in the lowest depths of the Fire." [Qur'an 4:145]. 
 
-Hutama: According to some narrations, the deepest level of the Hells. It is for the Hypocrites (Munafiqin)
+Hutama: According to some narrations, the deepest level of the Hells. It is for the Hypocrites (Munafiqin).
 
 ### Jannah -- The Paradise
 
@@ -283,13 +285,15 @@ Jannah is very beautiful.
 
 Jannah has many trees, rivers, and birds with beautiful sounds. It has all what one would like. Allāh created Adam in Paradise.
 
-The Quran describes paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels.[8]: 62  Each person that goes to Jannah is greeted by angels from every gate with the words, "Peace be upon you, because ye have endured with patience; how excellent a reward is paradise!" (Q13:24) Each person lives near to the Lord in a garden (3:15) of perpetual bliss (13:23). In paradise, people would have "whatever they wish for" (Q25:16).  In each garden is a mansion (9:72), a high throne (88:10–16) of dignity (52:20) in a grove of cool shade (36:56–57), an adorned couch (18:31), rows of cushions, rich carpets spread out, a cup (Q88:10–16) full of wine (52:23), and every meat (52:22) and fruit (Q36:56–57) that is like the food on Earth (Q2:25). Each person is adorned in golden and pearl bracelets (Q35:33) and green garments of fine silk and brocade (Q18:31).
+The Quran describes Paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels. 
+
+Each person that goes to Jannah is greeted by angels from every gate with the words, "Peace be upon you, because ye have endured with patience; how excellent a reward is paradise!" (Q13:24) Each person lives near to the Lord in a garden (3:15) of perpetual bliss (13:23). In paradise, people would have "whatever they wish for" (Q25:16).  In each garden is a mansion (9:72), a high throne (88:10–16) of dignity (52:20) in a grove of cool shade (36:56–57), an adorned couch (18:31), rows of cushions, rich carpets spread out, a cup (Q88:10–16) full of wine (52:23), and every meat (52:22) and fruit (Q36:56–57) that is like the food on Earth (Q2:25). Each person is adorned in golden and pearl bracelets (Q35:33) and green garments of fine silk and brocade (Q18:31).
 
 Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompanied by any children that did not go to Jahannam (Q52:21), and attended to by servant-boys with the spotless appearance similar to a protected pearls (Q52:24). The Believers Men will get untouched (Q55:56) virgin companions of equal age (56:35-38) and have large, beautiful eyes (37:48).
 
 Jannah is described as an eternal dwelling (Q3:136), with its supreme felicity and greatest bliss being God's good pleasure (Q9:72).
 
-#### Layers of Jannah
+#### Names of Jannah
 
 * Firdaws – The Highest Gardens of Paradise (al-Kahf, Al-Mu’minoon)
 * Jannatul Aliyah (suras Haqqah, Ghashiyah)
@@ -347,7 +351,7 @@ The Qur'an further states that Allah created the sun, the moon, and the planets,
     
     "The heavens, We have built them with power. And verily, We are expanding it" (51:47)
 
-There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered.
+There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered. In the beginning of 20th century, the consensus among scientists was that the universe is static. So, the science was contradicting the Quran until Einstein discovered the theory of relativity.
 
 </details>
 
@@ -363,8 +367,9 @@ There has been some historical debate among Muslim scholars about the precise me
     4.51 billion years ago: the Moon 🌙 appeared. 
     3.5 billion years ago: Life on Earth began.
     600 million years ago: Animals appeared.
-    245-66 million years ago: 🦖 🦕​ Dinosaurs!!
+    245-66 million years ago: 🦖 🦕​ Dinosaurs!! And also crocodiles and cockroaches!!
     ~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
+
     Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. And after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
 
 Before 19th century there was a scientific consensus that the Universe 🌌 is static. But after Einstein's Theory of Relativity, science stated that the Universe is expanding. So, until 19XX science contradicted the Quran. 
@@ -372,7 +377,7 @@ Before 19th century there was a scientific consensus that the Universe 🌌 is s
 
 Einstein changed all that.
 
-His ‘field equations’ suggested that the universe was expanding like a balloon. The mathematician and Belgian Priest, George Lemaître, realised that this expansion had to have started from somewhere. It must have come from an initial, dense point. This idea became known as the Big Bang. Today, it is the basis for understanding the origin of the universe.
+Einstein's ‘field equations’ suggested that the universe was expanding like a balloon. The mathematician and Belgian Priest, George Lemaître, realised that this expansion had to have started from somewhere. It must have come from an initial, dense point. This idea became known as the Big Bang. Today, it is the basis for understanding the origin of the universe.
 
 What few people know however is that the Holy Quran described the Big Bang perfectly, 1400 years earlier.
 
@@ -399,7 +404,7 @@ This verse does not just tell us that the universe has expanded. The arabic ‘l
 * [Watch a good video](https://www.youtube.com/watch?v=xFXxJva_99c)
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
-  how small  we are https://www.youtube.com/watch?v=Iy7NzjCmUf0
+* [Just to realize how small we are](https://www.youtube.com/watch?v=Iy7NzjCmUf0)
   
   </details>
 
@@ -410,15 +415,20 @@ This verse does not just tell us that the universe has expanded. The arabic ‘l
 
 </summary>
 
-Allah created the Heavens and the Earth and all kinds of beasts. surah Lukman.
+    Allah  ﷻ  created the Heavens and the Earth and all kinds of beasts. 
+    The Quran, surah Lukman
 
 After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work. A distinct point is made to counter the Biblical idea of a day of rest: "We created the heavens and the earth and all that is between them in six youm, nor did any sense of weariness touch Us" (50:38).
 
-Allah is never "done" with His work, because the process of creation is ongoing. Each new child who is born, every seed that sprouts into a sapling, every new species that appears on earth, is part of the ongoing process of Allah's creation. 
+Allah  ﷻ is never "done" with His work, because the process of creation is ongoing. Each new child who is born, every seed that sprouts into a sapling, every new species that appears on earth, is part of the ongoing process of Allah's creation. 
 
     "He it is Who created the heavens and the earth in six youm, then established Himself on the Throne. He knows what enters within the heart of the earth, and what comes forth out of it, what comes down from heaven, and what mounts up to it. And He is with you wherever you may be. And Allah sees well all that you do" (57:4).
 
+There are many types of creatures living on earth, including plants, animals, insects, all kinds of microorganisms, human. There are also creature that are not visible for a human eye: the jinn.
+
 </details>
+
+# PROOFREADINGPROOFREADINPROOFREADINGPROOFREADING
 
 <details>
 <summary>
@@ -428,10 +438,10 @@ Allah is never "done" with His work, because the process of creation is ongoing.
 </summary>
 
 > [short version]
-> The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Just a few survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
-> Jinn can be bad and they also can be good jinn who are righteous and who worship God alone.
-
-There is a rule for the jinn not to cross the barrier between their world and human world, and the tresspassers will be asked for it.
+> Allah ﷻ  created jinn from fire.
+> The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Only a few jinn survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
+> Jinn can be bad and they also can be good and righteous jinn who worship God alone.
+> Jinn are able to see humans, humans are not able to see jinn. There is a rule for the jinn not to cross the barrier between their world and human world, and the tresspassers will be asked for it.
 
 ### Who are the Jinn?
 
