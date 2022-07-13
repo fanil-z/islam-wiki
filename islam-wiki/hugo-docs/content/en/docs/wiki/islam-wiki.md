@@ -427,9 +427,6 @@ Allah  ﷻ is never "done" with His work, because the process of creation is ong
 There are many types of creatures living on earth, including plants, animals, insects, all kinds of microorganisms, human. There are also creature that are not visible for a human eye: the jinn.
 
 </details>
-
-# PROOFREADINGPROOFREADINPROOFREADINGPROOFREADING
-
 <details>
 <summary>
 
@@ -438,16 +435,16 @@ There are many types of creatures living on earth, including plants, animals, in
 </summary>
 
 > [short version]
-> Allah ﷻ  created jinn from fire.
+> Allah ﷻ  created jinns from fire.
 > The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Only a few jinn survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
 > Jinn can be bad and they also can be good and righteous jinn who worship God alone.
-> Jinn are able to see humans, humans are not able to see jinn. There is a rule for the jinn not to cross the barrier between their world and human world, and the tresspassers will be asked for it.
+> Jinn are able to see humans, humans are not able to see the jinn. There is a rule for the jinn not to cross the barrier between their world and human world, and the tresspassers will be asked for it.
 
 ### Who are the Jinn?
 
-Allah created jinns from smokeless fire 🔥, the edge of the flame. Jinn live in the same earth as we do but they are hidden from our sight. Humans cannot see jinn, jinn can see humans but they cannot see angels.
+Allah created jinns from smokeless fire 🔥, the edge of the flame. Jinns live in the same earth as we do but they are hidden from our sight. Humans cannot see jinns, jinns can see humans but they cannot see angels.
 
-The lives of jinn are very similar to the humans, they eat, they drink, they marry, they have their children, and even they are instructed and guided the same way as humans. We can clearly understand this statement by the following verse of Surah Al-An’am.
+The lives of jinn are very similar to the humans, they eat, they drink, they marry, they have their children, and even they are instructed and guided the same way as humans. We can understand this statement by the following verse of Surah Al-An’am.
 
     "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?" They will say, "We bear witness against ourselves"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers. 
     Quran [6:130]
@@ -455,7 +452,7 @@ The lives of jinn are very similar to the humans, they eat, they drink, they mar
 This verse shows that messengers were not only sent down to guide the humans but they were sent down to guide both the humans and jinn.
 
 Jinns have males and females, they have different religions, tribes, nations.
-The jinn live in the parallel world to the humans and since they live in the different dimension the flow of time there is different too. Hence, the life span of jinn is different and believed t obe much longer.
+The jinn live in the parallel world to the humans and since they live in the different dimension the flow of time there is different too. Hence, the lifespan of jinn is different and believed to be much longer than the human lifespan.
 
 Jinns are the only creatures besides human beings that have a free will and they will be judged according to their deeds.
 
@@ -472,6 +469,8 @@ They have the power to choose between true and false, right and wrong as Allah s
     Quran, Surah Al-Jinn 72:11
 
 ### War Between Jinn and Angels
+
+[Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
 
 The jinn started living on the earth before humans and they didn't behave good and didn't treat the creatures on the earth in a good manner.
 
@@ -491,7 +490,7 @@ Satan disobeyed God and promised that he will lead humankind astray.
 
 ### Shaytan are Enemies to Humans
 
-Iblis tricked Adam and Eve and managed to get them out of Heaven. He made himself many followers among jinn. So they all started leading descendands of Adam astray. Until the Day of Resurrection.
+Iblis tricked Adam and Eve and managed to get them out of Heaven. He made himself many followers among jinn. So they all started leading descendands of Adam astray. This special type of jinn are called shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
 
 Each person has a shaytan (or a bad jinn) assigned to follow him anywhere and misguide him and lead him astray so that he forgets about Allah, does not repent for his sins and eventually ends up in hell.
 
@@ -499,25 +498,34 @@ Allah has already made us aware of this in the Surah Al-Araf, verse 27:
 
     “O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe”.
 
-The above verse clearly states that jinn have the power to see humans and to take possessions on the humans. The only way to keep ourselves safe from the evil beings is to pray five times, to walk on the path which Allah and His messenger (P.B.U.H) has shown us, and to follow the teaching of Quran, Sunnah, and Hadith.
-
-There is a special type of jinns - shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
+The above verse states that jinn have the power to see humans and to take possessions on the humans. The only way to keep ourselves safe from the evil beings is to pray five times, to walk on the path which Allah and His messenger (P.B.U.H) has shown us, and to follow the teaching of Quran, Sunnah, and Hadith.
 
 The Messenger of Allah (blessings and peace of Allah be upon him) said: “Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’” End quote from Ta’weel Mukhtalaf al-Hadith.
 
 ### Suleyman (Solomon) Had Power Over Jinn
 
-In the story of Solomon jinn appear as nature spirits comparable to Talmudic shedim. Solomon was gifted by God to talk to animals and spirits. God granted him authority over the rebellious jinn and devils forcing them to build the First Temple. 
+In the story of Solomon jinns appear as nature spirits comparable to Talmudic shedim. Solomon was gifted by God to talk to animals and spirits. God granted him authority over the rebellious jinn and devils forcing them to build the First Temple in Jerusalem.
+
+In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39.
+Ifrit who brought Suleiman smo's throne.
+
+The Qur'an relates that Solomon died while he was leaning on his staff. As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them, so they continued to work. They realized the truth only when Allah sent a creature to crawl out of the ground and gnaw at Solomon's staff until his body collapsed. The Qurʾan then comments that if they had known the unseen, they would not have stayed in the humiliating torment of being enslaved.
+
+    "Then, when We decreed (Solomon's) death, nothing showed them his death except a little worm of the earth, which kept (slowly) gnawing away at his staff: so when he fell down, the jinn saw plainly that if they had known the unseen, they would not have tarried in the humiliating penalty (of their task)." 
+    Qur'an 34:14
 
 ### Jinn and Magic
 
 In other instances, the Quran tells about Pagan Arabs, calling jinn for help, instead of God. The Quran reduced the status of jinn from that of tutelary deities to that of minor spirits, usually paralleling humans.
 
     And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." 
+
     And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allah. And the people learn what harms them and does not benefit them. But the Children of Israel certainly knew that whoever purchased the magic would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
     Quran, Surah Al-Baqara 2:102
 
-the Jinn were allowed to enter heavens to listen to angels. This was the way they could tell what's is decreed in some acpects of this dunya. After the first surah of the Quran came to the prophet Muhammad (pbuh), some obstacle appeared between jinn and heavens so they could not tresspass it no more.
+### Jinns flying to heavens
+
+Before the revelation of the Quran, the Jinn were allowed to enter heavens to listen to angels. This was the way they could tell what's is decreed in some acpects of this dunya. After the first surah of the Quran came to the prophet Muhammad (pbuh), some obstacle appeared between jinn and heavens so they could not tresspass it no more.
 
     "And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames."
     Quran, Surah Al-Jinn 72:8
@@ -530,19 +538,6 @@ At the time of Prophet Mohammad (P.B.U.H), a group of jinn were turned into Musl
 
     Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
     Quran 72:1-2
-
-In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39 and khannas in sura al-Nas (The Mankind) verse 4 which both mean the jinn.
-
-### Era of Jinn on Earth
-
-[Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
-Jinns were transgressing and were not treating animals well.
-
-Angels and Iblis were send to annihilate many jinns who were transgressing.
-
-Ifrit who brought Suleiman smo's throne.
-some were diving in the oceans, some building.
-the jinns don't know the unseen world. otherwise they would stop working immediately after Suleiman died.
 
 ### The Shaitan
 
@@ -571,10 +566,49 @@ In general, the pagan believe that jinn have hidden powers, giving some benefit 
 
 Similarly in Sura al-Jinn verse 6, Allah explains that most pagan seek help and protection to jinn. In view of them there is collaboration between man and poets of jinn which they can produce beautiful poetry to listen to (Shihab, 2002)
 
+### Demons in Christianity
+
+Modern Christian view on jinn is a little different than the Islamic view. In modern Christian tradition, demons are fallen angels and have the same characteristics as their good angel counterparts: spirituality, immutability and immortality. Demons are not omniscient, but each one has a specific knowledge (sometimes on more than one subject). Their power is limited to that which God allows, so they are not omnipotent.
+
+Christian demonology states that the mission of the demons is to induce humans to sin. Demons are also believed to try to tempt people into abandoning the faith, committing heresy or apostasy, remaining or turning into Pagans, or venerating idols (the Christian term for cult images). It is also believed that demons torment people during their life or through demonic possession or simply by showing themselves before persons to frighten them or by provoking visions that could induce people to sin or to be afraid.
+
+Demons can take any desired appearance, even that of an "angel of light".
+
+The Devil has been popularly symbolized as various animals, including the serpent, the goat and the dragon.
+
+The idea that demons have horns seems to have been taken from chapter 13 of the Book of Revelation. This idea has also been associated with the depiction of certain ancient gods like Moloch and the shedu, etc., which were portrayed as bulls, as men with the head of a bull, or wearing bull horns as a crown.
+
+### Shedim in Judaism
+
+Shedim (Hebrew: שֵׁדִים; singular: שֵׁד Shed) are spirits or demons in the Tanakh and Jewish tradition. However, they are not necessarily equivalent to the modern connotation of demons as evil entities.
+
+They appear only twice (always plural) in the Tanakh, at Psalm 106:37 and Deuteronomy 32:17. Both times it deals with child or animal sacrifices. Although the word is traditionally derived from the root šwd (Hebrew: שוד shûd) that conveys the meaning of "acting with violence" or "laying waste," it was possibly a loan-word from Akkadian in which the word shedu referred to a spirit which could be either protective or malevolent. With the translation of Hebrew texts into Greek, under influence of Zoroastrian dualism, shedim were translated into daimonia with implicit negativity. Otherwise, later in Judeo-Islamic culture, shedim became the Hebrew word for Jinn with a morally ambivalent attitude.
+
+> 35. And they mingled with the nations and learned their deeds. 36. They worshipped their idols, which became a snare for them. 37. They slaughtered their sons and daughters to the demons [(shedim)]. 38. They shed innocent blood, the blood of their sons and daughters whom they slaughtered to the idols of Canaan, and the land became polluted with the blood. 39. And they became unclean through their deeds, and they went astray with their acts.
+>Tehillim (Psalms), 106.35-39
+
+>17. They sacrificed to demons [(shedim)], which have no power, deities they did not know, new things that only recently came, which your forefathers did not fear.
+> Devarim (Deuteronomy), 32.17
+
+According to one legend, the shedim are descendants of serpents, or of demons in the form of serpents, alluding to the serpent in Eden as related in Genesis.
+
+The people who build the Tower of Babel were divided by their motivations into three groups. Those who wished to wage war against God were transformed into shedim.
+
+The Talmud describes the shedim as possessing some traits of angels, and some traits of humans:
+
+>In three ways they are like ministering angels: They have wings like ministering angels; and they fly from one end of the world to the other like ministering angels; and they know what will be in the future like ministering angels. And in three ways they are similar to humans: They eat and drink like humans; they multiply like humans; and they die like humans.
+>Babylonian Talmud Hagigah 16a
+
+The shedim are not always seen as malicious creatures and are also considered to be helpful to humans. They are said to be even able to live according to the Torah, like Asmodeus.
+
+Conjuring shedim isn't necessarily forbidden, depending on whether or not, author's view summoning them as sorcery or not. Even if summoning shedim is an act of sorcery and thus forbidden, consulting shedim conjured by a non-Jew would be permissible.
+
+Shedim can shapeshift and assume a human form. The Talmud tells of Asmodeus assuming King Solomon's form and ruling in his place for some time. However, he was never seen barefoot because he could not disguise his feet.
 </details>
 
-# 1. Adam and Eve
+# PROOFREADINGPROOFREADINPROOFREADINGPROOFREADING
 
+# 1. Adam and Eve
 *******************************************
 
 <details> <summary>
