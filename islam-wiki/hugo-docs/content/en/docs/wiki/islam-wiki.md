@@ -6,7 +6,7 @@ author: fanil
 
 <p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline </b></p>
 
-According to Islamic Sources
+*According to Islamic Sources
 
 <!--
 <p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources</i> ☪️<i>.</i></p>
@@ -430,7 +430,7 @@ There are many types of creatures living on earth, including plants, animals, in
 <details>
 <summary>
 
-## Era of Jinns (Devils or Spirits)
+## Era of Jinns (Devils/Spirits)
 
 </summary>
 
@@ -606,8 +606,6 @@ Conjuring shedim isn't necessarily forbidden, depending on whether or not, autho
 Shedim can shapeshift and assume a human form. The Talmud tells of Asmodeus assuming King Solomon's form and ruling in his place for some time. However, he was never seen barefoot because he could not disguise his feet.
 </details>
 
-# PROOFREADINGPROOFREADINPROOFREADINGPROOFREADING
-
 # 1. Adam and Eve
 *******************************************
 
@@ -617,12 +615,13 @@ Shedim can shapeshift and assume a human form. The Talmud tells of Asmodeus assu
 
 </summary>
 
-According to Quranic creation narrative, God informed the angels, that He was going to create a khalifa (vicegerent) on earth. 
+According to Quranic creation narrative, Godﷻ   informed angels that He was going to create a khalifa (vicegerent) on earth. 
 
     And mention [O Muhammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?" Allah said, "Indeed, I know that which you do not know." 
     Quran (2:30)
 
 While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes🐒. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
+
 The Qur'an describes how Allah created Adam.
 
     "We created man from sounding clay, from mud moulded into shape..." 
@@ -633,18 +632,23 @@ The Qur'an describes how Allah created Adam.
 
 According to a hadith, Allah created the body of Adam and it lay still for some time. During that time Iblis went through Adam's body and got thoughts that he will be able to control Adam because his body was hollow.
 
+Then, Allahﷻ   breathed a soul into Adam.
+
 There is a hadith from Abu Huraira 🐈: 
 
     When Allah breathed a soul into Adam, Adam sneezed and said "Alhamdulillah!" (Praise to God!). Allah replied "Yarmukallah, o Adam (Let God give you of His Mercy!). Go to those angels that sit in the gathering and say to them "Assalamu Aleykum!" (Peace be upon you). Angels replied "Waaleykum Assalam wa Rahmatullah (And peace to you and mercy)!" 
     When Adam returned to his Lord, He said: "Indeed, this will be your greeting, and greeting of your sons among each other".
+
     The hadith further says that then Allah opened His hand and showed Adam all of his descendands. Each person had his life expectancy written on his forehead. Adam saw a man whose light was one of the brightest and he asked "Who is this man?". Allah replied "This is Dawud (David) and he is prescribed to live 40 years". Adam said "Oh my Lord, extend his life", Allah replied "This is the term I prescribed him". Adam asked again "Oh my Lord, I give him 60 of my years" for which Allah replied "Let it be your way".
     Sheikh Al-Albani called this hadith authentic.
 
 Allah gave Adam knowledge and taught him names. One of the version of interpretation is that Adam was taught the names of animals and birds. The other version is that he was taught speech.
 
-Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allah told angels that He knows what they know not.
+### Every human souls testifies in front of God
 
-And Allah made all children of Adam as souls to testify that their Lord is Allah.
+Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allahﷻ   told angels that He knows what they know not.
+
+And Allahﷻ   made all children of Adam as souls to testify that their Lord is Allah.
 
     And ˹remember˺ when your Lord brought forth from the loins of the children of Adam their descendants and had them testify regarding themselves. ˹Allah asked,˺ "Am I not your Lord?" They replied, "Yes, You are! We testify." ˹He cautioned,˺ "Now you have no right to say on Judgment Day, "We were of this unaware."
     Quran, surah Al-A'raf (The Heights)
@@ -652,6 +656,8 @@ And Allah made all children of Adam as souls to testify that their Lord is Allah
 It is the fitrah (natural inclination/sound human nature) which is instilled in our souls and hearts, that drives us to believe in Allah and long to know Him, may He be glorified. In fact, it reaches the level of urgency that pushes and compels us to acknowledge that the Creator, may He be glorified and exalted, is the only, perfect Lord Who bestows His blessings upon us and upon all other created beings.
 
 This spiritual and rational urge (to believe in Allah) is the strongest factor that prompts man to believe in Allah and affirm His Oneness, because it is usually stronger than any other impulses that may lead man to fall into ignorance and doubt. Often this urge (to believe) may overwhelm a person and make him realise the belief in divine Oneness (Tawheed) deep in his heart at times of crisis and calamity, even if the one who still has that sound natural inclination (fitrah) is pretending today to be an atheist. The call of Tawheed is still urging him from deep inside to believe, because of this natural inclination (fitrah) which is the first covenant taken from the sons of Adam.
+
+### Characteristics of Adam
 
 According to hadith:
 * Adam was eloquent.
@@ -668,21 +674,24 @@ According to hadith:
 <details>
     <summary>
 
-## Iblis refused to bow down to Adam
+## Iblis (Satan) refused to bow down to Adam
 
 </summary>
 
-Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted to reveal his dark thoughts, so He created Adam. The Qur’an tells the story of Iblis several different times, each time offering different facets of the story. The version most relevant for our purposes, is in the seventh sura.
+Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted to reveal his dark thoughts, so He created Adam. The Qur’an tells the story of Iblis several different times, each time offering different facets of the story.
 
     We created you, We formed you; and then We commanded the angels, "bow down before Adam," and they bowed. But not Iblis; he refused to be one of those who bow.
-    
+      
     God said: "What prevented you from bowing down as I commanded you?" And he [Iblis] said: "I am better than he: You created me from fire and him from clay."
-    
+      
     God said: "Get down from here! Here is no place for your arrogance, Get out! You are the lowest of creatures!"
     but Iblis said, "Give me respite until the day they are raised."
     and God said, "You have respite."
+
     And then Iblis said, "Because you have put me in the wrong, I shall lie in wait for them on Your straight path; I will come from in front of them and I will come from behind them, from their right and their left; nor will you find that most of them are grateful." except for those of them who were righteous.
+
     God said, "Get out! You are disgraced and expelled! I swear I shall fill Hell with you and all who follow you."
+    Quran, Surah 7
 
 </details>
 
@@ -692,7 +701,7 @@ Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted t
 ## Creation of Hawwah (Eve)
 
 </summary>
-Adam’s spouse, although commonly referred to as Eve or Hawa, is not mentioned by name in the Quran despite being referred to in many places. The details regarding how Eve was created is not mentioned in the Quran. However, it is made evident that Eve was created from Adam.
+Adam’s spouse, although commonly referred to as Eve or Hawa, is not mentioned by name in the Quran despite being referred to in many places. The details regarding how Eve was created are not mentioned in the Quran. However, it is made evident that Eve was created from Adam.
 
 While the creation of Eve is not described in detail, the Qur'an does make it clear that a "mate" was created with Adam, from the same nature and soul. 
 
@@ -702,14 +711,17 @@ She is not mentioned by name in the Qur'an, but in Islamic tradition she is know
 
 From these two individuals, generations of human beings have inhabited the earth. 
 
-    "Oh humankind! We created you from a single pair of a male and a female, and made you into nations and tribes, so that you may know each other (not that ye may despise each other). Verily the most honored among you in the sight of Allah is the who is the most righteous of you. And Allah has full knowledge and is well acquainted (with all things)" (49:13)
+    "Oh humankind! We created you from a single pair of a male and a female, and made you into nations and tribes, so that you may know each other (not that ye may despise each other). Verily the most honored among you in the sight of Allah is the who is the most righteous of you. And Allah has full knowledge and is well acquainted (with all things)" 
+    Quran [49:13]
     
-    "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women…." Quran [4:1]
+    "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women…." 
+    Quran [4:1]
 
 The hadith or traditions of Prophet Muhammad (pbuh) further reveal that Eve was created from Adam’s rib which was taken while he was asleep. The narrations that describe this story of the rib is often used to emphasize being gentle and kind to women. 
 
 “O Muslims! I advise you to be gentle with women, for they are created from a rib, and the most crooked portion of the rib is its upper part. If you try to straighten it, it will break, and if you leave it, it will remain crooked; so I urge you to take care of the women.” [Sahih al-Bukhari 5185; Sahih Muslim 8:3468]
 
+### Adam and Eve are placed in Paradise
 After Eve was created, the couple was given a place in heaven.
 
     And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers." 
@@ -728,7 +740,7 @@ The Quran does not describe what kind of tree it was, however, this prohibition 
 
 </summary>
 
-Satan tempted Adam and Eve by whispering. Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. and they were sent to live on the Earth.
+> Satan tempted Adam and Eve by whispering. Adam and Hawwa disobeyed Allah and ate from the forbidden tree. They asked for forgiveness and Allah forgave them. And they were sent to live on the Earth.
 
 In the Quran, the forbidden tree served as a test for Adam and Eve. Furthermore, God warned Adam and Eve that the devil was an enemy and that they should be on their guard. 
 
@@ -738,7 +750,9 @@ In the Quran, the forbidden tree served as a test for Adam and Eve. Furthermore,
 Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispering into their hearts. Claiming to be a sincere advisor, he planted in their minds ideas that would make the forbidden tree appealing. Thoughts of the tree preoccupied both Adam and Eve. Forgetting the warning, they gave in and erred.
 
     But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, "Your Lord did not forbid you this tree except that you become angels or become of the immortal." 
+
     And he swore [by Allah ] to them, "Indeed, I am to you from among the sincere advisors." 
+      
     So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?" 
     Quran [7:20-22]
 
@@ -755,14 +769,15 @@ By forgetting God’s command, Adam and Eve bore equal responsibility for their 
 
 Through this test, God prepared Adam for his role on earth, as a caretaker and a Prophet. This experience taught Adam firsthand that Satan was a deceptive enemy to mankind. 
 
-After eating from the tree, Adam and Eve became ashamed and deeply regretted their actions. They acknowledged their errors and sought mercy, repenting sincerely [7:23].
+After eating from the tree, Adam and Eve became ashamed and deeply regretted their actions. They acknowledged their errors and sought mercy, repenting sincerely.
 
     "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers."
-    Quran 7:23
+    Quran [7:23]
 
 The story of Adam and Eve in the Quran teaches the virtue of repentance and supplication. Adam and Eve recognized their errors and prayed for forgiveness. This, in turn, earned them Allah’s forgiveness and guidance.
 
-    "Then his Lord chose him and turned to him in forgiveness and guided [him]." Quran [20:122]
+    "Then his Lord chose him and turned to him in forgiveness and guided [him]." 
+    Quran [20:122]
 
 </details>
 
@@ -775,11 +790,13 @@ The story of Adam and Eve in the Quran teaches the virtue of repentance and supp
 
 In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. 
 
-    “Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful.” [2:37]
+    “Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful.” 
+    Quran [2:37]
 
 Despite being forgiven, Adam and Eve were no longer granted the comforts of paradise and would be sent to Earth. It is important to note that since Allah had mentioned Adam’s mission on Earth long before his test, Adam and Eve’s appointment to earth is not viewed as punishment, instead, it aligns with God’s Plan. The Quran describes the Earth to Adam and Eve as a place in which to reside and enjoy for a period of time, until the day they die and are resurrected (Quran 7:24-25). 
 
-    “We said, ‘Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance – there will be no fear concerning them, nor will they grieve. And those who disbelieve and deny Our signs – those will be companions of the Fire; they will abide therein eternally.’” [2:38-39]
+    We said, "Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance – there will be no fear concerning them, nor will they grieve. And those who disbelieve and deny Our signs – those will be companions of the Fire; they will abide therein eternally." 
+    Quran [2:38-39]
 
 Furthermore, Adam is informed by God that he and his progeny will be sent guidance during their time on Earth. In contrast, Satan, unlike Adam, had not begged for forgiveness and had instead requested respite: a chance to mislead and reveal the inadequacy of mankind. God facilitated this request, but warned that Satan would be powerless over the believers. 
 
@@ -804,9 +821,9 @@ Adam (as) was the first prophet of God, who was responsible for teaching his wif
 Quran and the hadith do not clarify the number of children of Adam and Hawwah.
 History books mention that they had 40 children. Ibn Al-Jawzi said that Hawwah gave birth to 20 twins, each time a boy and a girl.
 
-According to the Quran and Bible, lifespan of some prophets was much longer than of modern people. They lived for up to one thousand years. According to Genesis, adam died when he was 930.
+According to the Quran and Bible, lifespan of some prophets was much longer than of modern people. They lived for up to one thousand years. According to Genesis, Adam died when he was 930.
 
-Quran says that the first place of worship was built in the current location of Kaaba. There is no information in the Quran or authentic hadith on who built the first House og God. Some commentators of the Quran say that it was built by angels, some that Adam was directed by skies to travel until he arrived at the deserts of Hijaz and he was guided to build a santuary there.
+Quran says that the first place of worship was built in the current location of Kaaba. There is no information in the Quran or authentic hadith on who built the first House of God. Some commentators of the Quran say that it was built by angels, some that Adam was directed by skies to travel until he arrived at the deserts of Hijaz and he was guided to build a santuary there.
 
     "The first sanctuary ever constructed for mankind was that at Bakkah (the old title of Makkah), a fortunate location and advice for the worlds".
     Quran
@@ -816,20 +833,19 @@ Quran says that the first place of worship was built in the current location of 
 <details>
     <summary>
 
-## Habyl and Qabyl -- Abel and Cain
+## Habyl and Qabyl -- Abel and Cain: First Murder
 
 </summary>
 
-Habyl and Qabyl (Abel and Cain). Cain tilted the land while Abel raised cattle.
+Habyl and Qabyl (Abel and Cain). Cain tilted the land while Abel raised cattle. 
 
- both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat l-māidah). 
+Both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat al-Māidah). 
 
-Shaytan taught him how to kill.
-Cain regretted that he killed his brother and became of the regretful.
+Shaytan taught him how to kill. Cain regretted that he killed his brother and became of the regretful.
 
 Cain did not know what to do with his brother's corpse. Allah sent two ravens that began fighting, causing the death of one. The victorious bird used its beak and claws to dig a hole in the ground, wolled the victim bird into it and covered it with sand.
 
-    Then Allah sent a crow searching in the ground to show him how to hide the disgrace of his brother. He said: "O woe to me! HAve I failed to be like this crow and hide the body of my brother? And he became of the regretful."
+    Then Allah sent a crow searching in the ground to show him how to hide the disgrace of his brother. He said: "O woe to me! Have I failed to be like this crow and hide the body of my brother? And he became of the regretful."
     Quran (5:31)
 
 This was the first murder and burial on earth by a man.
@@ -847,7 +863,7 @@ Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Isl
 
 The Islamic literature holds that Seth was born when Adam was past 100 and that Adam appointed Seth as guide to his people. The 11th-century Syrian historian and translator Al-Mubashshir ibn Fātik recorded the maxims and aphorisms of the ancient philosophers in his book Kitāb mukhtār al-ḥikam wa-maḥāsin al-kalim and included a chapter on Seth. Within Islamic tradition Seth holds wisdom of several kinds; knowledge of time, prophecy of the future Great Flood, and inspiration on the methods of night prayer. Islam, Judaism and Christianity trace the genealogy of mankind back to Seth since Abel left no heirs and Cain's heirs, according to tradition, were destroyed by the Great Flood. Many traditional Islamic crafts are traced back to Seth, such as the making of horn combs
 
-🎷 flute, music and dancing was invented. According to the Bible, Jubal the descendant of Cain invenved flute and music.
+At that time, 🎷 flute, music and dancing was invented. According to the Bible, Jubal the descendant of Cain invenved flute and music.
 
 </details>
 
@@ -858,8 +874,7 @@ The Islamic literature holds that Seth was born when Adam was past 100 and that 
 
 </summary>
 
-Idris was born when Adam pbuh was alive. Idris is mentioned in the Quran that he was of high class and a prophet. 
-Idris was the first to write.
+Idris was born when Adam pbuh was alive. Idris is mentioned in the Quran that he was of high class and a prophet. According to some narrations, Idris was the first to write.
 
 Idris is mentioned twice in the Quran, where he is described as a wise man. In surah 19 of the Quran, God says:
 
@@ -875,9 +890,7 @@ According to later Muslim writings, Idris was born in Babylon, a city in present
 
 They asked Prophet Idris: "If we leave Babylon, where will we find a place like it?" Prophet Idris said: "If we immigrate for the sake of Allah, He will provide for us." So the people went with Prophet Idris and they reached the land of Egypt. They saw the Nile River. Idris stood at its bank and mentioned Allah, the Exalted, by saying: "SubhanAllah."
 
-Islamic literature narrates that Idris was made prophet at around 40, which parallels the age when
-
-??Muhammad began to prophesy, and lived during a time when people had begun to worship fire. Exegesis embellishes upon the lifetime of Idris, and states that the prophet divided his time into two. For three days of the week, Idris would preach to his people and four days he would devote solely to the worship of God. Many early commentators, such as Tabari, credited Idris with possessing great wisdom and knowledge.
+Islamic literature narrates that Idris was made prophet at around 40, which parallels the age when Muhammad began to prophesy, and lived during a time when people had begun to worship fire. Exegesis embellishes upon the lifetime of Idris, and states that the prophet divided his time into two. For three days of the week, Idris would preach to his people and four days he would devote solely to the worship of God. Many early commentators, such as Tabari, credited Idris with possessing great wisdom and knowledge.
 
 Exegesis narrates that Idris was among "the first men to use the pen as well as being one of the first men to observe the movement of the stars and set out scientific weights and measures." These attributes remain consistent with the identification of Enoch with Idris, as these attributes make it clear that Idris would have most probably lived during the Generations of Adam, the same era during which Enoch lived. Ibn Arabi described Idris as the "prophet of the philosophers" and a number of works were attributed to him. Some scholars wrote commentaries on these supposed works, all while Idris was also credited with several inventions, including the art of making garments.
 
@@ -890,6 +903,8 @@ After Idris, his son and successor Mehthusaleh continued in Allah's path, callin
 In the Bible, Enoch receives visions of how the Earth will be destroyed in the End of Times and how people who did good will receive their reward and how people who did bad deeds will receive their punishment.
 
 </details>
+
+# PROFREADINGPRROFREADINGPROOFREADING
 
 <details>
 <summary>
@@ -1267,7 +1282,7 @@ promises of blessings for those who follow the Сovenenant
 ## **Descendands of Ibrahim**
 
 <details>
-    <summary>Iskhaq (Isaac): Beginning of Jewish people</summary>
+    <summary>Iskhaq (Isaac): Father of Jewish people</summary>
 
 ### Iskhaq (Isaac)
 
@@ -1297,7 +1312,7 @@ The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jaco
 
 </details>
 <details>
-    <summary>Ismail (Ishmael): Beginning of Arab people</summary>
+    <summary>Ismail (Ishmael): Father of Arab people</summary>
 
 ### Ismail (Ishmael)
 
