@@ -859,11 +859,15 @@ This was the first murder and burial on earth by a man.
 
 </summary>
 
-Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel. Medieval historian and exegete al-Tabari and other scholars say that Seth buried Adam.
+Although the Quran makes no mention of Sheeth ibn Adam, he is revered within Islamic tradition as the third and righteous son of Adam and Eve and seen as the gift bestowed on Adam after the death of Abel.
 
-The Islamic literature holds that Seth was born when Adam was past 100 and that Adam appointed Seth as guide to his people. The 11th-century Syrian historian and translator Al-Mubashshir ibn Fātik recorded the maxims and aphorisms of the ancient philosophers in his book Kitāb mukhtār al-ḥikam wa-maḥāsin al-kalim and included a chapter on Seth. Within Islamic tradition Seth holds wisdom of several kinds; knowledge of time, prophecy of the future Great Flood, and inspiration on the methods of night prayer. Islam, Judaism and Christianity trace the genealogy of mankind back to Seth since Abel left no heirs and Cain's heirs, according to tradition, were destroyed by the Great Flood. Many traditional Islamic crafts are traced back to Seth, such as the making of horn combs
+Medieval historian and exegete al-Tabari and other scholars say that Seth buried Adam.
+
+The Islamic literature holds that Seth was born when Adam was past 100 and that Adam appointed Seth as guide to his people. The 11th-century Syrian historian and translator Al-Mubashshir ibn Fātik recorded the maxims and aphorisms of the ancient philosophers in his book Kitāb mukhtār al-ḥikam wa-maḥāsin al-kalim and included a chapter on Seth. Within Islamic tradition Seth holds wisdom of several kinds; knowledge of time, prophecy of the future Great Flood, and inspiration on the methods of night prayer. Islam, Judaism and Christianity trace the genealogy of mankind back to Seth since Abel left no heirs and Cain's heirs, according to tradition, were destroyed by the Great Flood. Many traditional Islamic crafts are traced back to Seth, such as the making of horn combs.
 
 At that time, 🎷 flute, music and dancing was invented. According to the Bible, Jubal the descendant of Cain invenved flute and music.
+
+According to Genesis 4:25, Seth was born after Abel's murder by Cain, and Eve believed that God had appointed him as a replacement for Abel. According to Genesis, Seth died at the age of 912 (that is, 14 years before Noah's birth).
 
 </details>
 
@@ -903,9 +907,6 @@ After Idris, his son and successor Mehthusaleh continued in Allah's path, callin
 In the Bible, Enoch receives visions of how the Earth will be destroyed in the End of Times and how people who did good will receive their reward and how people who did bad deeds will receive their punishment.
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details>
 <summary>
 
@@ -913,7 +914,7 @@ In the Bible, Enoch receives visions of how the Earth will be destroyed in the E
 
 </summary>
 
-There was a time of righteous people. They lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. They made statues of these noble men to remind people of their piety and nobility, but some generations later, some people started worshiping these statues.
+There was a time of righteous people. Pople lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. They made statues of these noble men to remind people of their piety and nobility, but some generations later, some people started worshiping these statues.
 
     And they have said: "You shall not leave your gods: nor shall you leave Wadd, nor Suwa', nor Yaghuth, nor Ya'uq nor Nasr"(these were the names of their idols).
     Quran 71:23
@@ -933,11 +934,9 @@ Thus, Shaitaan introduced idol worship among the people of Nuh, peace be upon hi
 
 ### How Shaitan Plans his Tricks
 
-Notice how Shaitan did not simply suggest to the people to worship idols. He gradually and patiently poisoned their minds. A couple of generations later, Shirk seemed normal and even ‘sensible’ to them.
+Consider how Shaitan did not simply suggest to the people to worship idols. He gradually and patiently poisoned their minds. A couple of generations later, Shirk seemed normal and even ‘sensible’ to them.
 
-Shaitan has been using this trick for ages and continues to do so today. One has to only see the fitnah among people nowadays and compare it with a few decades ago. Consider homosexuality for example. It is prohibited by the major religions of the world. Until the 20th century, it was considered immoral and a punishable offence in the US.
-
-Now it has become so rampant that those who disapprove of it, let alone denounce it, are labeled as “intolerant and narrow-minded.” It is being promoted and celebrated widely to make it popular. Even the cartoons that children watch increasingly include homosexual references.
+Shaitan has been using this trick for ages and continues to do so today. One has to only see the fitnah among people nowadays and compare it with a few decades ago.
 
 </details>
 
@@ -952,11 +951,11 @@ Now it has become so rampant that those who disapprove of it, let alone denounce
 
 </summary>
 
-> **Nuh**  ﷺ    is the second most narrated prophet in the Quran. he was the first prophet who was sent to people who were commiting shirk. 
+> **Nuh**ﷺ    is the second most narrated prophet in the Quran. he was the first prophet who was sent to people who were committing shirk. 
 > 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him. And after all these years he lost hope and made dua to Allah not to leave disbelievers on earth.
 > Allah told Nuh to build a huge arc, take onboard the believers and pairs of animals. Then the great flood began, water was coming both from rains and from the ground. All disbelievers drowned. Only believers on the Arc survived.
 > After the Flood, Nuh with the believers started life on earth anew.
-> Many ancient civilizations have stories of the Great Flood. There are many different variations but the main theme is the same: God sent the Flood to punish evil-doers, and those who were left alive started all over.
+> Many ancient civilizations have stories of the Great Flood. There are many different variations but the main theme is the same: God sent the Flood to punish evil-doers, and those who were left alive started the human life on earth once again.
 
 </details>
 
@@ -967,12 +966,12 @@ Now it has become so rampant that those who disapprove of it, let alone denounce
 
 </summary>
 
-The Quran tells the story of Noah, the flood story and his people in many places. As a summary of the flood story, it appears in “Surah”6
+The Quran tells the story of Noah, the flood story and his people in many places. As a summary of the flood story, it appears in surah
 number 7 (Surah Al-A'raf) for the first time, and for the last time, in Surah number 71 (Surah Nuh). Mainly, three Surahs details the story, namely Surah Nuḥ, Surah Hud, and Surah al-Mu’minun.
 
 According to Islam, Nuh was a prophet, sent to warn mankind of that region and his people to change their ways. He conveyed the message for over 950 years. Islamic literature recounts that in the Generations of Adam, many men and women continued to follow Adam's original teachings, worshiping God alone and remaining righteous. Among Adam's descendants there were many brave and pious men, greatly loved and revered by their respective communities. Exegesis goes on to narrate that, upon the death of these elders, people felt enormous grief and some felt prompted to make statues of these people in remembrance of them. Then gradually, through the generations many forgot what such statues were for and began to worship them, (as the Shaytan (Satan) slowly deceived each generation) along with many other idols. In order to guide the people, God appointed Noah with the duty of being the next prophet to humanity.
 
-### Early preaching
+### Early preaching of Noah
 
 According to Islamic belief, Noah began preaching to his people both verbally and by example. He would praise God consistently and he urged his people to do the same, warning his tribe of the punishment they would face if they did not mend their ignorant ways. The Qur'an states that Noah repeatedly told his people:
 
@@ -986,7 +985,7 @@ As a result of their ignorance, they were arrogant and mocked all who they felt 
 
 As time passed, Noah became firmer in his preaching. When the unbelievers began insulting those who accepted God's message, believing that Noah would send those faithful away to attract the wealthy unbelievers, Noah revealed that they — the arrogant and ignorant rich — were the wicked and sinful ones. His people accused him of being soothsayer or diviner. Noah declared that he was by no means a mere fortune-teller, pretending to reveal secrets which are not worth revealing. Noah also denied accusations claiming he was an angel, always maintaining that he was a human messenger. When the people refused to acknowledge their sinfulness Noah told them that it was not Noah, but God that would punish them — however God pleased.
 
-### Prayer
+### Nuh prays to God against disbelievers
 
 The Quran states that Noah prayed to God, telling him that his preaching only made his people disbelieve further. Noah told God how they had closed their minds to accepting the message, so that the light of the truth should not affect their thinking. Noah told God how he had used all the resources of the classical preacher, conveying the message both in public places and with individuals in private. Noah spoke of how he had told the people the rewards they would receive if they became righteous, namely that God would supply plentiful rain as a blessing, and that God would also guarantee them an increase in children and wealth.
 
@@ -1008,7 +1007,7 @@ Although there is no proof that God accepted his prayer (as there are many examp
 
 Ever obedient to God's instructions, Noah went out in search of material with which to build the vessel. When Noah began building the Ark, the people who saw him at work laughed at him even more than before. Their conclusion was that he was surely a madman – they could not find any other reason why a man would build a huge vessel when no sea or river was nearby. Although Noah was now very old, the continued to work tirelessly until, at last, the Ship was finished.
 
-### Family
+### Noah's Family
 
 Little is known of Noah's personal history before his call to prophecy. However, Ibn Kathir records him to have been the son of Lamech and grandson of Methuselah, one of the patriarchs from the Generations of Adam. Noah was neither the leader of the tribe nor a very rich man but, even before being called to prophecy, he worshiped God faithfully and was, in the words of the Qur'an, "a devotee most grateful".
 
@@ -1027,34 +1026,34 @@ At the day of the flood, Noah saw the sign of the boiling oven as God had said t
 
 As a result of being one of the disbelievers, his son denied coming with him, and he chose to go up on the mountain instead. The son of Noah drowned in the flood water. Noah cried to God to save his son, but God denied to accept his prayer and let him (Noah’s son) be drowned. Noah begged pardon for asking help to save his son from God.
 
-Another disbeliever in Noah’s family was his wife herself. She did not join Noah in the Ark. And as a result, she was also drowned in the flood water. The number of believers was not clearly specified in the Qur’an. According to Ibn Abbas, that there were 80 believers and the
-historian Ka’ab Al Akbar proclaimed that the number of believers was 72 and other source stated that the number of believers was 10 in the Ark of Noah.
+Another disbeliever in Noah’s family was his wife herself. She did not join Noah in the Ark. And as a result, she was also drowned in the flood water. The number of believers was not clearly specified in the Qur’an. According to Ibn Abbas, that there were 80 believers and the historian Ka’ab Al Akbar proclaimed that the number of believers was 72 and other source stated that the number of believers was 10 in the Ark of Noah.
 
 Noah entered into the ark while the flood water began to come forth heavily. Before entering the Ark, Noah prayed to God to forgive him and his ancestors for saying the following prayers:
 
     "My Lord, forgive me and my parents and whoever enters my dwelling (boat) as a believer (believing men and believing women).”
 
-On the other hand, he also prayed to ruin the disbelievers by saying,
+On the other hand, he also prayed to ruin the disbelievers by saying:
 
-    "And do not increase the wrongdoers but putting in destruction.”
+    "And do not increase the wrongdoers except putting in destruction.”
 
 God also opened the gate of heaven (water gate) to be mixed with the water of the earth. Flood water submerged everything on the face of the earth. Such heavy rainfall had never been seen before. The rainfall and the sea water and waves washed away all living beings except Noah and those believers who were with him in the Ark. The Qur’an describes the flood"
 
     And then, [Allah] opened the gates of the heavens with rain pouring down.
 
-In this verse, the Arabic word ر مِهَنْم , ُّderived from root hā mīm rā (ر م ه ,(means pouring down). That means rain water came so vigorously from the sky like someone was pouring it down.
+In this verse, the Arabic word ر مِهَنْم , ُّderived from root (ر م ه ,(means pouring down). That means rain water came so vigorously from the sky like someone was pouring it down.
 
     And God caused springs to stream from the earth. Therefore, the waters from the earth and the heaven joined for a matter of predetermined (programmed long before).
 
 Here in this verse, the Arabic word ر َدِ
-ُق  is a verb, derived from root qāf dāl rā (ر د ق ,(and the
-meaning is predestined. That indicates the magnitude of the flood was planned beforehand to make sure the definitive destruction of the nation. God also pre-planned how He would save the believers under His surveillance. According to the Qur’an, God says:
+ُق  is a verb, derived from root ر د ق , and the meaning is predestined. That indicates the magnitude of the flood was planned beforehand to make sure the definitive destruction of the nation. God also pre-planned how He would save the believers under His surveillance. According to the Qur’an, God says:
 
     "And I carried him on a construction (boat) made of planks and nails, the carrier on which Noah (as) and his followers embarked Floated under my Eyes (surveillance). It was a Reward for him who had been denied of the suffering."
 
 The dry land was covered by the flood water and all the disbelievers drowned in the water. The earth was flooded showing a clear sign of punishment for disbelieving in one and only God. But Noah was safely floating on the flood water only by the mercy of Allah. None but Allah helped him to survive.
 
     "Indeed, when the water overflowed, I (Allah) carried you (Noah) in the sailing (ark).”
+
+# PROFREADINGPRROFREADINGPROOFREADING
 
 ### After The Flood
 
@@ -5480,15 +5479,8 @@ Solitude of shepherd gives opportunity to contemplate on the nature and teaches 
 
 According to the Bible lifespan of people before THe Great Flood was much longer than after the flood.
 
-<!--
-<style>
+Consider homosexuality for example. It is prohibited by the major religions of the world. Until the 20th century, it was considered immoral and a punishable offence in the US.
 
-details > summary {
-  list-style: none;
-}
-details > summary::-webkit-details-marker {
-  display: none;
-}
-</style> -->
+Now it has become so rampant that those who disapprove of it, let alone denounce it, are labeled as “intolerant and narrow-minded.” It is being promoted and celebrated widely to make it popular. Even the cartoons that children watch increasingly include homosexual references.
 
 </details>

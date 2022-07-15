@@ -9,7 +9,7 @@ Concept
 >npm update
 
 updated npm packages and somehow fixed the bug with css not compiling.
-
+cloudflare pages
 
 ## Description
 
