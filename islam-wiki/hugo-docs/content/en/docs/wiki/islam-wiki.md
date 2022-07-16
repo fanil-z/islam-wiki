@@ -15,8 +15,6 @@ author: fanil
 
 -->
 
-<p style="text-align: right;">Time to read: 6 hours 25 minutes</p>
-
 <details>
 <summary style="color: #878686fc; font-size: 14px;">DISCLAIMER!</summary>
 
@@ -41,7 +39,6 @@ author: fanil
 > May Allah guide us all to the right path.
 
 </details>
-
 <p style="display:block; margin: 5px; font-size: 16px"><b>Table of Contents</b>:</p>
 <div class="toc">
 
@@ -73,9 +70,7 @@ author: fanil
 ***************************************
 
 </summary>
-
-<details>
-    <summary>
+<details><summary>
 
 ## In the beginning, there was only Allah ﷻ . 
 
@@ -91,9 +86,7 @@ Which means:
 The Prophet ﷺ   answered this question by first stating that Allāh's Existence does not have a beginning, i.e., He is Eternal. There is no one attributed with eternity other than Him. In other words, nothing existed eternally except Allāh, and Allāh created everything, i.e., He brought all the creation from non-existence into existence.
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## First Creations: Water, Throne, The Pen and The Tablet
 
@@ -146,9 +139,7 @@ It was narrated in the description of the Guarded Tablet that it is a white pear
 Allāh ordered the Pen to write. The Pen wrote, by the Will of Allāh, without anyone holding it. It wrote on the Guarded Tablet what was and what will be in this life until its end. Fifty thousand (50,000) years after this event, Allāh created the heavens and Earth in six (6) yawm. No person is born and no drop of water falls except in accordance to what was written in the Guarded Tablet.
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## The Seven Heavens
 
@@ -159,8 +150,7 @@ After Allāh created the Earth, He created the seven heavens. Each heaven is a s
 The first heaven is so far away from the Earth. Some people are unable to encompass this to the extent that they believe that the space which contains the stars and planets is the entire universe. They also falsely believe that it extends without an end. There is no point to their claims, because Allāh told us in the Qur’an and the Prophet also informed us in his Hadith what is contradictory to their claims. Paradise exists above the seventh heaven.
 
 </details>
-<details>
-    <summary>
+<details><summary>
 
 ## Creation of Angels
 
@@ -221,9 +211,7 @@ Mentioned in Quran:
 Also, there is a hadith about **Munkar** and **Nakir**, two angels that question the souls of people in the grave after they die. For details, see [#barzakh](#barzakh).
 
 </details>
-
-<details>
-  <summary>
+<details><summary>
 
 ## Creation of Heaven and Hell
 
@@ -321,9 +309,7 @@ According to hadith, there are eight doors of Jannah. Their names are as followi
 * Bāb al-Dhikr: For those who showed zeal in remembering Allah
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Creation of the Heavens and the Earth 🌍
 
@@ -354,9 +340,7 @@ The Qur'an further states that Allah created the sun, the moon, and the planets,
 There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered. In the beginning of 20th century, the consensus among scientists was that the universe is static. So, the science was contradicting the Quran until Einstein discovered the theory of relativity.
 
 </details>
-
-<details>
-  <summary>
+<details><summary>
 
 ## Big Bang Scientific Side-Note
 
@@ -406,10 +390,8 @@ This verse does not just tell us that the universe has expanded. The arabic ‘l
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
 * [Just to realize how small we are](https://www.youtube.com/watch?v=Iy7NzjCmUf0)
   
-  </details>
-
-<details>
-    <summary>
+</details>
+<details><summary>
 
 ## Creatures Living on Earth
 
@@ -427,8 +409,7 @@ Allah  ﷻ is never "done" with His work, because the process of creation is ong
 There are many types of creatures living on earth, including plants, animals, insects, all kinds of microorganisms, human. There are also creature that are not visible for a human eye: the jinn.
 
 </details>
-<details>
-<summary>
+<details><summary>
 
 ## Era of Jinns (Devils/Spirits)
 
@@ -609,7 +590,7 @@ Shedim can shapeshift and assume a human form. The Talmud tells of Asmodeus assu
 # 1. Adam and Eve
 *******************************************
 
-<details> <summary>
+<details><summary>
 
 ## Adam is created from clay
 
@@ -670,9 +651,7 @@ According to hadith:
 * There is a narration that Adam Alayhissalam was the first to build the first place of worship -- The Kaabah.
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Iblis (Satan) refused to bow down to Adam
 
@@ -694,9 +673,7 @@ Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted t
     Quran, Surah 7
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Creation of Hawwah (Eve)
 
@@ -732,9 +709,7 @@ Eve was created to accompany Adam as his companion and life partner, and they we
 The Quran does not describe what kind of tree it was, however, this prohibition set the stage for the test that was to come.
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Eating from Forbidden Tree 🚻 🐍 🌳 🍎
 
@@ -759,9 +734,7 @@ Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispe
 By forgetting God’s command, Adam and Eve bore equal responsibility for their error. This too was a test for Satan, who in fact, furthered his disobedience by exploiting mankind through their desires. 
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Repentance of Adam and Eve
 
@@ -780,9 +753,7 @@ The story of Adam and Eve in the Quran teaches the virtue of repentance and supp
     Quran [20:122]
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Adam and Eve are sent to Earth
 
@@ -808,8 +779,7 @@ Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Ear
 
 *******************************************
 
-<details>
-  <summary>
+<details><summary>
 
 ## Children of Adam and Eve
 
@@ -829,9 +799,7 @@ Quran says that the first place of worship was built in the current location of 
     Quran
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Habyl and Qabyl -- Abel and Cain: First Murder
 
@@ -851,9 +819,7 @@ Cain did not know what to do with his brother's corpse. Allah sent two ravens th
 This was the first murder and burial on earth by a man.
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Sheeth -- Seth
 
@@ -870,9 +836,7 @@ At that time, 🎷 flute, music and dancing was invented. According to the Bible
 According to Genesis 4:25, Seth was born after Abel's murder by Cain, and Eve believed that God had appointed him as a replacement for Abel. According to Genesis, Seth died at the age of 912 (that is, 14 years before Noah's birth).
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## Idris -- Enoch
 
@@ -907,8 +871,7 @@ After Idris, his son and successor Mehthusaleh continued in Allah's path, callin
 In the Bible, Enoch receives visions of how the Earth will be destroyed in the End of Times and how people who did good will receive their reward and how people who did bad deeds will receive their punishment.
 
 </details>
-<details>
-<summary>
+<details><summary>
 
 ## How Idol Worshipping Appeared
 
@@ -944,8 +907,7 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 
 *************************************
 
-<details>
-<summary>
+<details><summary>
 
 ## Short History of Nuh
 
@@ -958,9 +920,7 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 > Many ancient civilizations have stories of the Great Flood. There are many different variations but the main theme is the same: God sent the Flood to punish evil-doers, and those who were left alive started the human life on earth once again.
 
 </details>
-
-<details>
-    <summary>
+<details><summary>
 
 ## The Great Flood
 
@@ -1053,40 +1013,35 @@ The dry land was covered by the flood water and all the disbelievers drowned in 
 
     "Indeed, when the water overflowed, I (Allah) carried you (Noah) in the sailing (ark).”
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
 ### After The Flood
 
 After the flood, humankind started over and for some time they lived in tawhid.
 
-    And it was said: "0 earth! Swallow up your water, and 0 sky! Withhold (your rain)." And the water was diminished (made to subside) and the Decree (of Allah) was fulfilled (i.e. the destruction of the people of Noah). And it (the ship) rested on Mount Judi, and it was said: "Away with the people who are Zalimeen (polytheists and wrong-doing)!" 
+    And it was said: "O earth! Swallow up your water, and O sky! Withhold (your rain)." And the water was diminished (made to subside) and the Decree (of Allah) was fulfilled (i.e. the destruction of the people of Noah). And it (the ship) rested on Mount Judi, and it was said: "Away with the people who are Zalimeen (polytheists and wrong-doing)!" 
     Quran Ayah 11:44
     
-    It was said: "0 Noah! Come down (from the ship) with peace from Us and blessings on you and on the people who are with you (and on some of their offspring), but (there will be other) people to whom We shall grant their pleasures (for a time), but in the end a painful torment will reach them from Us." 
+    It was said: "O Noah! Come down (from the ship) with peace from Us and blessings on you and on the people who are with you (and on some of their offspring), but (there will be other) people to whom We shall grant their pleasures (for a time), but in the end a painful torment will reach them from Us." 
     Quran, Surah 11:48
 
 With the issue of the divine command, calm returned to earth, the water retreated, and the dry land shone once again in the rays of the sun. The flood had cleansed the earth of the disbelievers and polytheists.
 
 Noah released the birds and the beasts, which scattered over the earth. After that the believers disembarked. Noah put his forehead to the ground in prostration. The survivors kindled a fire and sat around it. Lighting a fire had been prohibited on board so as not to ignite the ship's wood and burn it up. None of them had eaten hot food during the entire period of the flood. Following the disembarkation there was a day of fasting in thanks to Allah.
 
-The Quran draws the curtain on Noah's story. We do not know how his affairs with his people continued. All we know or can ascertain is that on his deathbed, he requested his son to worship Allah alone. Noah then passed away.
+The Quran draws the curtain on Noah's story. We do not know how his affairs with his people continued. All we know or can ascertain is that on his deathbed, Noah requested his son to worship Allah alone. Noah then passed away.
 
 Abdullah Ibn Amru Ibn Alaas narrated that Prophet Muhammad said: "When the death of the Messenger of Allah Noah approached, he admonished his sons: 'Indeed I would give you far-reaching advice, commanding you to do two things, and warning you against doing two as well. I charge you (to believe) that there is no god but Allah and that if the seven heavens and the seven earths were put on one side of a scale and the words 'There is no god but Allah' were put on the other, the latter would outweigh the former. And I warn you against associating partners with Allah and against pride.'"
 
 </details>
+<details><summary>
 
-<details>
-
-<summary>
-
-## Historical Side-Note
+## Ancient Stories about The Flood
 
 </summary>
 
 Mention of the great flood occurs in stories of many old nations:
 the Mesopotamian flood stories, the Genesis flood narrative, Nuh (Noah) in Islam, manvantara-sandhya in Hinduism, the Gun-Yu in Chinese mythology, Deucalion and Pyrrha in Greek mythology, Bergelmir in Norse mythology, the arrival of the first inhabitants of Ireland with Cessair in Irish mythology, in parts of Polynesia such as Hawaii, the lore of the K'iche' and Maya peoples in Mesoamerica, the Lac Courte Oreilles Ojibwa tribe of Native Americans in North America, the Muisca and Cañari Confederation in South America, Africa, and some Aboriginal tribes in Australia.
 
-One example of a flood myth is the Epic of Gilgamesh. Many scholars believe that this account was copied from the Akkadian Atra-Hasis, which dates to the 18th century BC. In the Gilgamesh flood myth, the highest god, Enlil, decides to destroy the world with a flood because humans have become too noisy. The god Ea, who had created humans out of clay and divine blood, secretly warns the hero Utnapishtim of the impending flood and gives him detailed instructions for building a boat so that life may survive. Both the Epic of Gilgamesh and Atra-Hasis are preceded by the similar Sumerian creation myth (c. 1600 BC)—the oldest surviving example of such a flood-myth narrative, known from tablets found in the ruins of Nippur.
+One example of a flood story is the Epic of Gilgamesh. Many scholars believe that this account was copied from the Akkadian Atra-Hasis, which dates to the 18th century BC. In the Gilgamesh flood myth, the highest god, Enlil, decides to destroy the world with a flood because humans have become too noisy. The god Ea, who had created humans out of clay and divine blood, secretly warns the hero Utnapishtim of the impending flood and gives him detailed instructions for building a boat so that life may survive. Both the Epic of Gilgamesh and Atra-Hasis are preceded by the similar Sumerian creation myth (c. 1600 BC)—the oldest surviving example of such a flood-story narrative, known from tablets found in the ruins of Nippur.
 
 Additional sources:
 
@@ -1095,8 +1050,9 @@ Additional sources:
 
 </details>
 
-<details>
-<summary>
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
 
 ## Saleh and people of Thamud 🐪
 
