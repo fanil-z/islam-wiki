@@ -1052,28 +1052,6 @@ Additional sources:
 
 # PROFREADINGPRROFREADINGPROOFREADING
 
-<details><summary>
-
-## Saleh and people of Thamud 🐪
-
-</summary>
-
-Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II. The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had vanished long ago.
-
-According to the Quran, the city that Saleh was sent to was called al-Hijr, which corresponds to the Nabataean city of Hegra. The city rose to prominence around the first century AD as an important site in the regional caravan trade. Adjacent to the city were large, decorated rock-cut tombs used by members of various religious groups.
-
-Saleh's life in his community had been so righteous that the people of Thamud virtually relied upon him for support. He was chosen by God as a Messenger and sent to preach against the selfishness of the wealthy and to condemn the practice of Shirk (Idolatry or Polytheism). Although Saleh preached the message for a sustained period of time, the people for Thamud refused to hear his warning and instead began to ask Saleh to perform a miracle for them. They said: "O Salih! Thou hast been of us! A centre of our hopes hitherto! Dost thou forbid us the worship of what our fathers worshiped? But we are really in suspicious (disquieting) doubt as to that to which thou invitest us."
-
-Saleh reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Saleh's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
-
-In response, God gave the Thamud a blessed she-camel, as both a means of sustenance and a test. The tribe was told to allow the camel to graze peacefully and avoid harming her. But in defiance of Saleh's warning, the people of the tribe hamstrung the camel. Saleh informed them that they had only three more days to live before the wrath of God descended upon them. The people of the city were remorseful, but their crime could not be undone, and all the disbelieving people in the city were killed in an earthquake. Al-Hijr was rendered uninhabited and remained in ruins for all time thereafter. Saleh himself and the few believers who followed him survived.
-
-The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
-
-Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized: Šélaḥ), Salah or Sala (Greek: Σαλά – Salá) or Shelah is an ancestor of the Ishmaelites and Israelites according to the Table of Nations in Genesis 10. He is thus one of the table's “seventy names.” He is also mentioned in Genesis 11:12–15, 1 Chronicles 1:18–24, and Luke 3:35-36. In the ancestral line from Noah to Abraham, he is the son of Arpachshad (in the Masoretic Text and Samaritan Pentateuch[1]) or Cainan (in the Septuagint ) and the father of Eber. The name Eber for his son is the original eponym of the Hebrew people, from the root ‘abar (עבר‎, עָבַר), “to cross over.”
-
-</details>
-
 <details>
 <summary>
 
@@ -1081,9 +1059,20 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 
 </summary>
 
-'Ad was an ancient Arab tribe. Hud is sometimes identified with Eber. People of Aad were tall, strong and famous for their craftsmanshift, especially in building construction.
+'Ad was an ancient tribe in Arabian Peninsula. People of Aad were tall, strong and famous for their craftsmanshift, especially in building construction. 
 
-At first, Ad people worshipped only Allah but then they made idols from stones. and Allah sent them their brother Hud. and they called their prophet a fool and a liar and said tell Allah to send his punishment if you are truthfull. Then a draught happened. Plants died but people continued to worship idols. The draught lasted 3 years. Allah told Hud to gather his followers and leave.
+In Islamic tradition, the Adites are believed to be among the first inhabitants of Arabia. They belong to what is known as the Extinct Arabs (العرب البائدة).
+
+After ʽAd's death, his sons Shadid and Shedad reigned in succession over the Adites. ʿĀd then became a collective term for all those descended from ʽAd.
+
+According to the Quran, Iram (إرم) is the place to which the prophet Hud (هود) was sent in order to guide its people back to the righteous path of God. The citizens continued in their polytheistic ways and Allah destroyed[1] their city in a great storm.
+
+Quran 89:6-14 mentions ʿĀd:
+
+    Have you not considered how your Lord dealt with ʽAad - [With] Iram – who had lofty pillars, the likes of whom had never been created in the lands. And [with] Thamud, who carved out the rocks in the valley? And [with] Pharaoh, owner of the stakes? [All of] whom oppressed within the lands and increased therein the corruption. So your Lord poured upon them a scourge of punishment. Indeed, your Lord is in observation.
+    Quran 89:6–14 
+
+At first, Ad people worshipped only Allah but then they made idols from stones. and Allah sent them their brother Hud. and they called their prophet a fool and a liar and said Hud to tell Allah to send his punishment if you are truthfull. Then a draught happened. Plants died but people continued to worship idols. The draught lasted 3 years. Allah told Hud to gather his followers and leave.
 
 And then a black cloud approached them. People of Aad thought that this cloud will bring them rain. The weather changed. The wind ripped their houses apart and destroyed their buildings. The storm did not stop until the entire region was reduced to ruins.
 
@@ -1121,59 +1110,108 @@ In addition for its barren characteristic, another verse also described addition
     Surely We sent on them an evil omen (catastrophes), the wind (a furious very cold of harsh voice) that lasts throughout the day.
     Qur'an Surah 54,(al-Qamar), ayah 19
 
+Hud has been sometimes identified with Eber, but according to the Bible Selah is the father of Eber which would go againt the Quranic narration that people of 'Ad were predecessors of Thamud. 
+
 </details>
+<details><summary>
 
-# 4. Ibrahim  (Abraham)
-
-*******************************************
-
-<details>
-  <summary>
-
-## Historical Side-Note
+## Saleh and people of Thamud 🐪
 
 </summary>
 
-There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The jewish sources claim that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. There is scientific evidence that Homo-Sapiens existed for several hundred thousand years. And there is no contradiction to the Quran because there is no certain timeline given in The Book. Also, the prophet Muhammad ﷺ    said that the distance between me and Al Kiyamah is like distance between my two fingers.
+> There are some contradictory opinions regarding the time of the Thamud. There are mentions that Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II (8th century BC). The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had **vanished long ago**. It is possible that the Thamud were not one tribe, and that other tribes took on the name of Thamūd after the original tribe by that name had gone extinct.
+
+According to the Quran, the city that Saleh was sent to was called al-Hijr, which corresponds to the Nabataean city of Hegra. The city rose to prominence around the first century AD as an important site in the regional caravan trade. Adjacent to the city were large, decorated rock-cut tombs used by members of various religious groups.
+
+Saleh's life in his community had been so righteous that the people of Thamud virtually relied upon him for support. He was chosen by God as a Messenger and sent to preach against the selfishness of the wealthy and to condemn the practice of Shirk (Idolatry or Polytheism). Although Saleh preached the message for a sustained period of time, the people of Thamud refused to hear his warning and instead began to ask Saleh to perform a miracle for them.
+
+    To the Thamūd, We sent their brother, Ṣāliḥ. He said, "My people, worship God. You have no god other than Him. It was He who brought you into being from the earth and made you inhabit it, so ask forgiveness from Him, and turn back to Him: my Lord is near, and ready to answer." 
+
+    They said, "Ṣāliḥ, We used to have such great hope in you. Will you forbid us to worship what our fathers worshiped? We are in grave doubt about what you are asking us to do." 
+
+    He said, "My people, just think: if I did have clear proof from my Lord, and if He had given me mercy of His own, who could protect me from God if I disobeyed Him? You would only make my loss greater. 
+    Quran, surah 11
+
+Saleh reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Saleh's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
+
+In response, God gave the Thamud a blessed she-camel, as both a means of sustenance and a test. The tribe was told to allow the camel to graze peacefully and avoid harming her. But in defiance of Saleh's warning, the people of the tribe hamstrung the camel. Saleh informed them that they had only three more days to live before the wrath of God descended upon them. The people of the city were remorseful, but their crime could not be undone, and all the disbelieving people in the city were killed in an earthquake. Al-Hijr was rendered uninhabited and remained in ruins for all time thereafter. Saleh himself and the few believers who followed him survived.
+
+My people, this camel belongs to God, a sign for you, so leave it to pasture on God's earth and do not harm it, or you will soon be punished." 
+
+    But they hamstrung it, so he said, "Enjoy life for another three days: this warning will not prove false." 
+
+    And so, when Our command was fulfilled, by Our mercy We saved Ṣāliḥ and his fellow believers from the disgrace of that day. [Prophet], it is your Lord who is the Strong, the Mighty One. The blast struck the evildoers and they lay dead in their homes, as though they had never lived and flourished there. 
+
+    Yes, the Thamūd denied their Lord—so away with the Thamūd!
+    Quran 11:61–68
+
+The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
+
+Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized: Šélaḥ), Salah or Sala (Greek: Σαλά – Salá) or Shelah is an ancestor of the Ishmaelites and Israelites according to the Table of Nations in Genesis 10. He is thus one of the table's “seventy names.” He is also mentioned in Genesis 11:12–15, 1 Chronicles 1:18–24, and Luke 3:35-36. In the ancestral line from Noah to Abraham, he is the son of Arpachshad (in the Masoretic Text and Samaritan Pentateuch) or Cainan (in the Septuagint ) and the father of Eber.
+
+</details>
+
+# 4. Ibrahim (Abraham)
+*******************************************
+
+<details><summary>
+
+## Timeline Side-Note
+
+</summary>
+
+Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). The ziggurat of Ur stand in the desert till this day. Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
+
+In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is said to have taken place. 
+
+There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The Jewish sources claim that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. There is scientific evidence that Homo-Sapiens existed for several hundred thousand years, and there is no contradiction to the Quran because there is no certain timeline given in The Book. Also, the prophet Muhammad ﷺ    said that the distance between me and Al Kiyamah is like distance between my two fingers.
 
 The best answer to this issue is Allahu 'Alim, God knows best.
 
-Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). The ziggurat of Ur stand in the desert till this day.
-
-Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
-In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is said to have taken place. 
-
 </details>
+<details><summary>
 
-<details>
-    <summary>
-
-## Ibrahim: Early Life
+## Ibrahim: Searching for Truth
 
 </summary>
 
-**Ibrahim**: Ibrahim is from Iraq, Hagar is from Egypt. Hajj was established by Ibrahim. Kurban was established by the example of Ibrahim and his son. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people.
+>**Ibrahim** plays an important role in Islam. Islam regards Abraham as a link in the chain of prophets that begins with Adam and culminates in Muhammad. Ibrāhīm is mentioned in 35 chapters of the Quran, more often than any other biblical personage apart from Moses. He is called both a hanif (monotheist) and muslim (one who submits), and Muslims regard him as a prophet and patriarch, the archetype of the perfect Muslim, and the revered reformer of the Kaaba in Mecca. Islamic traditions consider Ibrāhīm the first Pioneer of Islam (which is also called millat Ibrahim, the "religion of Abraham"), and that his purpose and mission throughout his life was to proclaim the Oneness of God. In Islam, Abraham holds an exalted position among the major prophets and he is referred to as "Ibrahim Khalilullah", meaning `Abraham the Beloved of God`.
+>
+> Besides Ishaq and Yaqub, Ibrahim is among the most honorable and the most excellent men in sight of God. Ibrahim was also mentioned in Quran as "Father of Muslims" and the role model for the community.
+>
+> Hajj was established by Ibrahim. Kurban sacrifice was established by the example of Ibrahim and his son. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people.
+> 
+> Ibrahim is from Iraq, Hagar is from Egypt.
 
 Ibrahim was born in a house of idolaters in the ancient city of Ur of the Chaldees, likely the place called 'Ur' in present-day Iraq, in which case, the idolaters would have been practitioners of the hypothesized Ancient Mesopotamian religion.
 
-His father Azar was a well-known idol-sculptor that his people worshiped. As a young child, Ibrahim used to watch his father sculpting these idols from stones or wood. When his father was finished with them, Ebrahem would ask his father why they could not move or respond to any request and then would mock them; therefore, his father would always scold him for not following his ancestors' rituals and mocking their idols.
+His father Azar was a well-known idol-sculptor that his people worshiped. As a young child, Ibrahim used to watch his father sculpting these idols from stones or wood. When his father was finished with them, Ibrahim would ask his father why they could not move or respond to any request and then would mock them; therefore, his father would always scold him for not following his ancestors' rituals and mocking their idols.
 
-When Ibrahim was young he used to laugh whenever he saw them entering the temple, lowering their heads, silently offering the statues the best of their food, crying and asking forgiveness from them. He started feeling angry towards his people, who could not realize that these are only stones that could neither benefit nor harm them.
+When Ibrahim was young, he used to laugh whenever he saw them entering the temple, lowering their heads, silently offering the statues the best of their food, crying and asking forgiveness from them. He started feeling angry towards his people, who could not realize that these are only stones that could neither benefit nor harm them.
+
+    And [mention, O Muhammad], when Abraham said to his father Azar, ‘ Do you take idols as deities? Indeed, I see you and your people to be in manifest error.’﴿
+    And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]﴿
+    Quran, Surah Al-An'am Ayah 74-75
+
+### Searching for Truth
+
+One night, Abraham went up to the mountain, leaned against a rock, and looked up to the sky.
+
+    So when the night covered him [with darkness], he saw a star. He said, ‘ This is my lord.’ But when it set, he said, ‘ I like not those that disappear.’ 76
+
+But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon  rising in splendor and said, "Could this be my Lord?" but the moon also set. 
+
+    And when he saw the moon 🌙 rising, he said, ‘ This is my lord.’ But when it set, he said, ‘ Unless my Lord guides me, I will surely be among the people gone astray.’ 77
+          
+    And when he saw the sun rising, he said, ‘ This is my lord; this is greater.’ But when it set, he said, ‘ O my people, indeed I am free from what you associate with Allah. 78
+          
+    Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah.’ 79
+    6-Surah Al-An’am ( The Cattle ) 74-90
+
+After this declaration, Abraham then heard Allah calling him, "O Abraham " Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!"Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
 
 </details>
-
-<details>
-    <summary>
-
-## Searching for Truth
-
-</summary>
-
-One night, Abraham went up to the mountain, leaned against a rock, and looked up to the sky. He saw a shining star and said to himself, "Could this be my Lord?" But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon 🌙 rising in splendor and said, "Could this be my Lord?" but the moon also set. At daybreak, he saw the sun rising and said, "Could this be my Lord? This is the biggest and brightest!" But when the sun also set he said, "O my people! I am free from all that you join as partners with Allah! I have turned my face towards Allah who created the heavens and the earth and never shall I associate partners with Allah. Our Lord is the creator of the heavens and the earth and everything in between. He has the power to make the stars rise and set." After this declaration, Abraham then heard Allah calling him, "O Abraham " Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!"Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
-
-</details>
-<details>
-    <summary>
+<details><summary>
 
 ## Destroying Idols
 
@@ -1181,7 +1219,7 @@ One night, Abraham went up to the mountain, leaned against a rock, and looked up
 
     "And, by God, I shall circumvent your idols after you have gone away and turned your backs." (Quran 21:57)
 
-It was time for a religious festival, perhaps dedicated to Sin, for which they left the town.  Abraham was invited to attend the festivities, but he excused himself, and then he destroyed all idols in the temple and left only the biggest one. after people came back and accused Ibrahim of destroying idols, he said that that biggest one did it. 
+It was time for a religious festival, perhaps dedicated to Sin, for which they left the town. Abraham was invited to attend the festivities, but he excused himself, and then he destroyed all idols in the temple and left only the biggest one. after people came back and accused Ibrahim of destroying idols, he said that that biggest one did it. 
 
 </details>
 
@@ -1976,7 +2014,7 @@ In the biblical narrative he is a disciple and protégé of Elijah, and after El
 <details>
 <summary>
 
-## Yunus (Jonah) and The Fish 🐳
+## Yunus (Jonah) and The Big Fish 🐳
 
 </summary>
 The companion of the fish 🐟. (8-9cen BCE)
@@ -2475,7 +2513,7 @@ Paul never met Jesus in person. Paul brought many innovations from Greek mytholo
 <details>
 <summary>
 
-## Sleepers in the Cave
+## Sleepers in the Cave 😴😴🐕⛰️
 
 </summary>
 
@@ -3075,21 +3113,19 @@ So he wanted to beat him but stopped and listened. surah alHaqqa. he was amazed.
 
 Abu Jahl promises 100 camels for the one who gets rid of the prophet  ﷺ   . Umar decided to do it and took his sword. and Nu'ayn has just converted and asked where are you going so he said have you lost your mind. and if you want to know go fix your own family first. your sister and brother in law just accepted islam. so he marched to his sister house and heard the recitation of the Quran. 
 
-Khabbab was assigned to tech the Quran for Fatima ibn Khattab.
+Khabbab was assigned to teach the Quran for Fatima ibn Khattab.
 
-He wanted to punch Said ibn Zays but punched his sister. so he calmed down and asked let me see what you are reading. Umar could read and write. Umar took ghusl and read Ta Ha. he asked wher is the prophet  ﷺ   . and he went to the house of al Arkham still had a sword. 
+He wanted to punch Said ibn Zays but punched his sister. so he calmed down and asked let me see what you are reading. Umar could read and write. Umar took ghusl and read Ta Ha. he asked wher is the prophet ﷺ   . and he went to the house of al Arkham still had a sword. 
 
 Khabbab ibn Al Aratt - swordsman whos back was burned and who helped to turn Umar. he said o Umar may you be the one who the prophet Muhammad sas prayed for.
 
 Sahaba saw Umar and scared. Hamza said let him in .
 
-Umar said he came to convert and the prophet  ﷺ    said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
+Umar said he came to convert and the prophet ﷺ    said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
 He personally informed Abu Jahl. 
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## **610**: Boycott of Muslims
 
@@ -3200,10 +3236,20 @@ Sunna
 - "2 rakats after Isha"
 
 there are 5 layers of Qadr. daily and yearly Qadr may change.
-Celebration of the prophet's  ﷺ    birthday started 600 years after his death. many of scholars opposed it. 
+Celebration of the prophet's ﷺ    birthday started 600 years after his death. many of scholars opposed it. 
 
 </details>
+<details>
+<summary> 
 
+## Night of Jinn 
+
+</summary>
+
+Dawud reported from 'Amir who said:
+
+I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah (ﷺ) on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'uad) said: No, but we were in the company of the Messenger of Allah (ﷺ) one night and we missed him. We searched for him in the valleys and the hills and said. He has either been taken away (by jinn) or has been secretly killed. He (the narrator) said. We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hiri'. He (the narrator) reported. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Qur'an. He (the narrator) said: He then went along with us and showed us their traces and traces of their embers. They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah (ﷺ) said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).
+</details>
 <details>
 <summary>
 
@@ -3875,7 +3921,7 @@ After Uthman was killed, Ali was elected as the next Caliph, which coincided wit
 
 #### Election
 
-When Uthman was killed in 656 CE by rebels from Egypt, Kufa and Basra, the potential candidates for caliphate were Ali and Talha. The Umayyads had fled Medina, and the Egyptians, prominent Muhajirun, and Ansar had gained control of the city. Among the Egyptians, Talha enjoyed some support. However, the Basrians and Kufis, who had heeded Ali's opposition to the use of violence, and most of the Ansar openly supported Ali's caliphate, and finally got the upper hand. 
+When Uthman was killed in 656 CE by rebels from Egypt, Kufa and Basra, the potential candidates for caliphate were Ali and Talha. The Umayyads had fled Medina, and the Egyptians, prominent Muhajirun, and Ansar had gained control of the city. Among the Egyptians, Talha enjoyed some support. However, the Basrians and Kufis, who had heeded Ali's opposition to the use of violence, and most of the Ansar openly supported Ali's caliphate, and finally got the upper hand.
 
 The caliphate was offered to Ali and he accepted the position after a few days. According to Madelung, many of Muhammad's companions expressed the wish to pledge allegiance to him after the assassination of Uthman. At first, Ali declined. It has been suggested that the assassination of Uthman created an atmosphere of tumult and panic. This atmosphere might have compelled Ali into accepting the caliphate to prevent further chaos.
 
