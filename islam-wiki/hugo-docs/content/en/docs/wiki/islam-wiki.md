@@ -773,6 +773,8 @@ Furthermore, Adam is informed by God that he and his progeny will be sent guidan
 
 Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Earth, Adam (pbuh) assumes the role as the first Prophet and the father of mankind. 
 
+There is a difference of opinions on the question of where Adam and Eve landed on earth. The majority of tabi'un and sahabi said that Adam came from the Heavens to the land oh Hind (modern day India). Other opinions include taht he landed in Mecca or in Sri-Lanka. When it comes to Hawwah, some say that she came with Adam to Mecca, some say to India with Adam, and most say that she came in Jedda. The place where they came down is not mentioned in the Quran and ahadith, thus these are only presumptions.
+
 </details>
 
 # 2. Early Human Era on Earth
@@ -862,7 +864,9 @@ Islamic literature narrates that Idris was made prophet at around 40, which para
 
 Exegesis narrates that Idris was among "the first men to use the pen as well as being one of the first men to observe the movement of the stars and set out scientific weights and measures." These attributes remain consistent with the identification of Enoch with Idris, as these attributes make it clear that Idris would have most probably lived during the Generations of Adam, the same era during which Enoch lived. Ibn Arabi described Idris as the "prophet of the philosophers" and a number of works were attributed to him. Some scholars wrote commentaries on these supposed works, all while Idris was also credited with several inventions, including the art of making garments.
 
-The commentator Ibn Ishaq narrated that he was the first man to write with a pen and that he was born when Adam still had 308 years of his life to live. In his commentary on the Quranic verses 19:56-57, the commentator Ibn Kathir narrated "During the Night Journey, the Prophet passed by him in fourth heaven. In a hadith, Ibn Abbas asked Ka’b what was meant by the part of the verse which says, ”And We raised him to a high station.” Ka’b explained: Allah revealed to Idris: ‘I would raise for you every day the same amount of the deeds of all Adam’s children’ – perhaps meaning of his time only. So Idris wanted to increase his deeds and devotion. A friend of his from the angels visited and Idris said to him: ‘Allah has revealed to me such and such, so could you please speak to the angel of death, so I could increase my deeds.’ The angel carried him on his wings and went up into the heavens. When they reached the fourth heaven, they met the angel of death who was descending down towards earth. The angel spoke to him about what Idris had spoken to him before. The angel of death said: ‘But where is Idris?’ He replied, ‘He is upon my back.’ The angel of death said: ‘How astonishing! I was sent and told to seize his soul in the fourth heaven. I kept thinking how I could seize it in the fourth heaven when he was on the earth?’ Then he took his soul out of his body, and that is what is meant by the verse: ‘And We raised him to a high station.’
+The commentator Ibn Ishaq narrated that he was the first man to write with a pen and that he was born when Adam still had 308 years of his life to live. In his commentary on the Quranic verses 19:56-57, the commentator Ibn Kathir narrated "During the Night Journey, the Prophet passed by him in fourth heaven. In a hadith, Ibn Abbas asked Ka’b what was meant by the part of the verse which says, ”And We raised him to a high station.” Ka’b explained: Allah revealed to Idris: ‘I would raise for you every day the same amount of the deeds of all Adam’s children’ – perhaps meaning of his time only. So Idris wanted to increase his deeds and devotion. 
+
+A friend of his from the angels visited and Idris said to him: ‘Allah has revealed to me such and such, so could you please speak to the angel of death, so I could increase my deeds.’ The angel carried him on his wings and went up into the heavens. When they reached the fourth heaven, they met the angel of death who was descending down towards earth. The angel spoke to him about what Idris had spoken to him before. The angel of death said: ‘But where is Idris?’ He replied, ‘He is upon my back.’ The angel of death said: ‘How astonishing! I was sent and told to seize his soul in the fourth heaven. I kept thinking how I could seize it in the fourth heaven when he was on the earth?’ Then he took his soul out of his body, and that is what is meant by the verse: ‘And We raised him to a high station.’
 
 Early accounts of Idris' life attributed "thirty portions of revealed scripture" to him. Therefore, Idris was understood by many early commentators to be both a prophet as well as a messenger. Several modern commentators have linked this sentiment with Biblical apocrypha such as the Book of Enoch and the Second Book of Enoch.
 
@@ -1050,8 +1054,6 @@ Additional sources:
 
 </details>
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details>
 <summary>
 
@@ -1151,6 +1153,8 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 
 </details>
 
+# PROFREADINGPRROFREADINGPROOFREADING
+
 # 4. Ibrahim (Abraham)
 *******************************************
 
@@ -1175,7 +1179,7 @@ The best answer to this issue is Allahu 'Alim, God knows best.
 
 </summary>
 
->**Ibrahim** plays an important role in Islam. Islam regards Abraham as a link in the chain of prophets that begins with Adam and culminates in Muhammad. Ibrāhīm is mentioned in 35 chapters of the Quran, more often than any other biblical personage apart from Moses. He is called both a hanif (monotheist) and muslim (one who submits), and Muslims regard him as a prophet and patriarch, the archetype of the perfect Muslim, and the revered reformer of the Kaaba in Mecca. Islamic traditions consider Ibrāhīm the first Pioneer of Islam (which is also called millat Ibrahim, the "religion of Abraham"), and that his purpose and mission throughout his life was to proclaim the Oneness of God. In Islam, Abraham holds an exalted position among the major prophets and he is referred to as "Ibrahim Khalilullah", meaning `Abraham the Beloved of God`.
+>**Ibrahim** plays an important role in Islam. Islam regards Abraham as a link in the chain of prophets that begins with Adam and culminates in Muhammad. Ibrāhīm is mentioned in 35 chapters of the Quran, more often than any other prophet apart from Moses. He is called both a hanif (monotheist) and muslim (one who submits), and Muslims regard him as a prophet and patriarch, the archetype of the perfect Muslim, and the revered reformer of the Kaaba in Mecca. Islamic traditions consider Ibrāhīm the first Pioneer of Islam (which is also called millat Ibrahim, the "religion of Abraham"), and that his purpose and mission throughout his life was to proclaim the Oneness of God. In Islam, Abraham holds an exalted position among the major prophets and he is referred to as "Ibrahim Khalilullah", meaning `Abraham the Beloved of God`.
 >
 > Besides Ishaq and Yaqub, Ibrahim is among the most honorable and the most excellent men in sight of God. Ibrahim was also mentioned in Quran as "Father of Muslims" and the role model for the community.
 >
@@ -1189,26 +1193,26 @@ His father Azar was a well-known idol-sculptor that his people worshiped. As a y
 
 When Ibrahim was young, he used to laugh whenever he saw them entering the temple, lowering their heads, silently offering the statues the best of their food, crying and asking forgiveness from them. He started feeling angry towards his people, who could not realize that these are only stones that could neither benefit nor harm them.
 
-    And [mention, O Muhammad], when Abraham said to his father Azar, ‘ Do you take idols as deities? Indeed, I see you and your people to be in manifest error.’﴿
-    And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]﴿
+    And [mention, O Muhammad], when Abraham said to his father Azar, "Do you take idols as deities? Indeed, I see you and your people to be in manifest error."
+    And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith].
     Quran, Surah Al-An'am Ayah 74-75
 
 ### Searching for Truth
 
 One night, Abraham went up to the mountain, leaned against a rock, and looked up to the sky.
 
-    So when the night covered him [with darkness], he saw a star. He said, ‘ This is my lord.’ But when it set, he said, ‘ I like not those that disappear.’ 76
+    So when the night covered him [with darkness], he saw a star. He said, "This is my lord." But when it set, he said, "I like not those that disappear."
 
-But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon  rising in splendor and said, "Could this be my Lord?" but the moon also set. 
+But when it set he said: "I don't like those that set." The star had disappeared so it could not be God. God is always present. Then he saw the moon rising in splendor.
 
-    And when he saw the moon 🌙 rising, he said, ‘ This is my lord.’ But when it set, he said, ‘ Unless my Lord guides me, I will surely be among the people gone astray.’ 77
+    And when he saw the moon 🌙 rising, he said, "This is my lord." But when it set, he said, "Unless my Lord guides me, I will surely be among the people gone astray."
           
-    And when he saw the sun rising, he said, ‘ This is my lord; this is greater.’ But when it set, he said, ‘ O my people, indeed I am free from what you associate with Allah. 78
+    And when he saw the sun rising, he said, "This is my lord; this is greater." But when it set, he said, "O my people, indeed I am free from what you associate with Allah.
           
-    Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah.’ 79
-    6-Surah Al-An’am ( The Cattle ) 74-90
+    Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah."
+    6-Surah Al-An’am ( The Cattle ) 74-79
 
-After this declaration, Abraham then heard Allah calling him, "O Abraham " Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!"Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
+After this declaration, Abraham heard Allah calling him, "O Abraham" Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!" Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
 
 </details>
 <details><summary>
@@ -1217,14 +1221,127 @@ After this declaration, Abraham then heard Allah calling him, "O Abraham " Abrah
 
 </summary>
 
-    "And, by God, I shall circumvent your idols after you have gone away and turned your backs." (Quran 21:57)
+Being a wise son, Ibrahim did not make his father feel foolish; nor did he openly laugh at his conduct. He told him that he loved him, thereby hoping to generate fatherly love.
+
+Then he gently asked him:
+
+    "Behold, he said to his father: "O my father! why worship that which heareth not and seeth not, and can profit thee nothing?"
+    Surah Maryam 19:42
+
+And before his father could become angry, he hastily said:
+
+    O my father! to me hath come knowledge which hath not reached thee: so follow me: I will guide thee to a way that is even and straight. O my father! serve not Satan: for Satan is a rebel against (Allah) Most Gracious. O my father! I fear lest a Penalty afflict thee from (Allah) Most Gracious, so that thou become to Satan a friend.
+    Surah Maryam 19:43-45
+
+In the same way, he again used reasoning with the idol-worshipers and said:
+
+    "Behold, he said to his father and his people: "What worship ye?" They said: "We worship idols, and we remain constantly in attendance on them." He said: "Do they listen to you when ye call (on them), or do you good or harm?" They said: "Nay, but we found our fathers doing thus (what we do)." He said: "Do ye then see whom ye have been worshipping" 
+    Surah Al Shu'ara' 26:71-75
+
+However, they (the idolaters) did not give up but clung fast to idolatry, then he (AS) said:
+
+    "And by God, I have a plan for your idols - after ye go away and turn your backs."
+    Surah Al Anbiya 21:57
 
 It was time for a religious festival, perhaps dedicated to Sin, for which they left the town. Abraham was invited to attend the festivities, but he excused himself, and then he destroyed all idols in the temple and left only the biggest one. after people came back and accused Ibrahim of destroying idols, he said that that biggest one did it. 
 
+    "Then did he turn to their aliha (gods) and said, "will ye not eat (of the offerings before you)? "What is the matter with you that ye speak not (intelligently)?" Then did he turn upon them, striking (them) with the right hand." 
+    Surah Al Saffat 37:91-93
+
+    "So he broke them to pieces, (all) but the biggest of them, that they might turn (and address themselves) to it." 
+    Surah Al Anbiya 21:58
+
+He enacted this scene, to make the people ashamed of worshiping powerless and senseless stocks and stones. He broke all the idols except the biggest, so as to show that a fight had taken place between the idols, and the biggest idol had smashed the others. So, when they came back:
+
+    They said, "Who has done this to our aliha (gods)? He must indeed be some man of impiety!" They said, "We heard a youth talk of them: He is called Ibrahim." They said, "Then bring him before the eyes of the people, that they may bear witness." 
+
+    They said, "Art thou the one that did this with our gods, O Ibrahim?" He said: "Nay, this was done by - this is their biggest one! ask them, if they can speak intelligently!"
+
+    So they turned to themselves and said, "Surely ye are the ones in the wrong!" Then were they confounded with shame: (they said), "Thou knowest full well that these (idols) do not speak!" 
+
+    (Ibrahim) said, "Do ye then worship, besides Allah, things that can neither be of any good to you nor do you harm? "Fie upon you, and upon the things that ye worship besides Allah! Have ye no sense?" 
+
+    They said, "Burn him and protect your gods, If ye do (anything at all)!" We said, "O Fire! be thou cool, and (a means of) safety for Ibrahim!" Then they sought a stratagem against him: but We made them the ones that lost most!" 
+    Surah Al Anbiya 21:59-70
+
+Prophet Ibrahim (A.S.) was able to subdue them with logical arguments. However, their arrogance would not allow them to admit their foolishness. All they could do was to use their power of authority, as tyrants usually do, to punish Ibrahim (A.S.). They kept him in chains and planned their revenge.
+
+The decision to have Abraham burned at the stake was affirmed by the temple priests and the king of Babylon, Nimrod. The news spread like fire in the kingdom and people were coming from all places to watch the execution. A huge pit was dug up and a large quantity of wood was piled up. Then the biggest fire people ever witnessed was lit. The flames were so high up in the sky that even the birds could not fly over it for fear of being burnt themselves. Ibrahim's hands and feet were chained, and he was put in a catapult, ready to be thrown in. 
+
+During this time, Angel Jibril came to him and said: "O Ibrahim! Is there anything you wish for?" Ibrahim could have asked to be saved from the fire or to be taken away, but Ibrahim replied, "God is sufficient for me, He is the best disposer of my affairs." 
+
+The catapult was released and Ibrahim was thrown into the fire. God then gave an order to the fire:
+
+    "O fire, be coolness and safety for Ibrahim." (Surah Al-Anbiya: 21:69)
+
+A miracle occurred, the fire obeyed and burned only his chains. Abraham came out from it as if he was coming out from a garden, peaceful, his face illuminated, and not a trace of smoke on his clothes. People watched in shock and exclaimed: "Amazing! Abraham's God has saved him from the fire!"
+
+### Confrontation with Nimrod
+
+Ibrahim (A.S.) had established a definite reasoning against idolaters. Nothing was left to prove for him except to reason against the rulers who proclaimed themselves gods.
+
+The Quran discusses a certain conversation between an unrighteous ruler and Ibrahim (A.S.). Although in the narration of Quran, name of the king/ruler has not been revealed, many historical sources suggest that it was Nimrod or Namrud.
+
+Nimrod became extremely arrogant due to his wealth and power, to the point that he made the claim that he possessed the power of creation and claimed divinity for himself. Namrud proclaimed himself as a living god and was worshipped as such by his subjects.
+
+Namrud, King of Babylon, felt that his throne was in danger, and that he was losing power because upon witnessing Ibrahim (A.S.) coming out of the fire unharmed, majority of his people started believing in Allah and Ibrahim (A.S.) being a true prophet of Allah. Namrud wanted to debate with Ibrahim (A.S.) and show his people that he, the king, is indeed the god and that Ibrahim (A.S.) was a liar. He feared that the status of godhead he had proclaimed for himself was not challenged by an ordinary human being. In order to safeguard his interests, he summoned Ibrahim (A.S.) to the palace and held a dialogue with him which Allah has narrated in Al-Quran:
+
+    Have you not thought about him who disputed with Abraham about his Lord (Allah) because Allah had given him the kingdom? When Abraham said to him: "My Lord (Allah) is He Who gives life and causes death." 
+    He said: "I give life and cause death." 
+
+    Abraham said: "Verily, Allah causes the sun to rise from the east; then cause it you to rise from the west." 
+
+    So the disbeliever was utterly defeated. Allah guides not the people who are Zalimeen (wrongdoers etc).
+    Surah Al-Baqarah: 2:258
+
+As mentioned above, Allah deliberately does not mention the name of the king as it is considered unimportant. The Quran also does not mention the long dialogue between Ibrahim (A.S.) and the king.
+
+King did not know what to say and what to do. After Namrud was silenced by Ibrahim (A.S.), he (Ibrahim) left the royal palace. Then the truth of the Prophet Ibrahim (A.S.) spread throughout the land. Humans start talking about his miracle and his salvation from the fire and his arguments with king that made the king speechless.
+</details>
+<details><summary>
+
+## Migration of Ibrahim
+
+</summary>
+
+Ibrahim (A.S.) continued calling people to believe in Allah, exerting a great effort to guide his people to the right path. He tried every possible means to convince them. However in spite of his love and care for the people, they did not listen to him and deserted him. Only one woman and one man of his people shared his belief in Allah. The woman was named Sarah who later became his wife while the man was Lut who later became a prophet after him. When Ibrahim (A.S.) realized that no one else was going to believe in his call, he decided to migrate. Before his migration, he invited his father to believe in Allah. He knew that his father was the enemy of Allah and he would not believe. Allah says in Al-Quran:
+
+    And the request of forgiveness of Abraham for his father was only because of a promise he had made to him. But when it became apparent to Abraham that his father was an enemy to Allah, he disassociated himself from him. Indeed was Abraham compassionate and patient.
+    Surah At-Tawbah: 9:114
+
+After going to Palestine, Ibrahim (A.S.) went to Egypt. During this journey Prophet Ibrahim (A.S.) invited people to worship Allah, show them the right path and helped the poor.
+
+There is a hadith about what happened to Ibrahim (A.S.) on his journey. Narrated Abu Huraira (R.A.):
+
+> Abraham did not tell a lie except on three occasion. Twice for the Sake of Allah when he said, "I am sick," and he said, "(I have not done this but) the big idol has done it." The (third was) that while Abraham and Sarah (his wife) were going (on a journey) they passed by (the territory of) a tyrant. Someone said to the tyrant, "This man (i.e. Abraham) is accompanied by a very charming lady." 
+>
+> So, he sent for Abraham and asked him about Sarah saying, "Who is this lady?" Abraham said, "She is my sister." Abraham went to Sarah and said, "O Sarah! There are no believers on the surface of the earth except you and I. This man asked me about you and I have told him that you are my sister, so don't contradict my statement." 
+>
+> The tyrant then called Sarah and when she went to him, he tried to take hold of her with his hand, but (his hand got stiff and) he was confounded. He asked Sarah. "Pray to Allah for me, and I shall not harm you." So Sarah asked Allah to cure him and he got cured. He tried to take hold of her for the second time, but (his hand got as stiff as or stiffer than before and) was more confounded. He again requested Sarah, "Pray to Allah for me, and I will not harm you." Sarah asked Allah again and he became alright. He then called one of his guards (who had brought her) and said, "You have not brought me a human being but have brought me a devil." 
+>
+> The tyrant then gave Hajar (Hajrah) as a girl-servant to Sarah. Sarah came back (to Abraham) while he was praying. Abraham, gesturing with his hand, asked, "What has happened?" She replied, "Allah has spoiled the evil plot of the infidel (or immoral person) and gave me Hajar (Hajrah) for service." (Abu Huraira then addressed his listeners saying, "That (Hajarah) was your mother, O Bani Ma-is-Sama (i.e. the Arabs, the descendants of Ishmael, Hajarah's son). (Bukhari: 3358)
+
+According to some scholars, what was intended by lying in those situations was only to use equivocations -- <span class="tooltip">Tawriyah<span class="tooltiptext"> Tawriya means saying something which has more than one meaning and intending a meaning different from what the listener is likely to understand) rather than explicit lies.</span></span>. The scholars stated that attributing lies to Ibrahim (A.S.) in this context, does not mean explicit lying.
+
+Following are the meaning, according to some other scholars, of these three lies:
+1. Ibrahim (A.S.) told his father he was sick in order to avoid going to the temple/festival and indulging in the polygamous practices.
+2. After breaking all the idols, Ibrahim (A.S.) placed the axe in the hands of the largest idol. When the people returned and saw that their idols were smashed they accused Ibrahim (A.S.) of being the perpetrator. He, in reply, said that the biggest idol had broken the rest of the statues in order to prove the point that these statues were man-made and not capable of human actions.
+3. The tyrant/king wanted Sarah for his own evil intentions and Ibrahim (A.S.) knew that Allah would protect her. Therefore, when the tyrant/king asked who she was, instead of responding that she was his wife, Ibrahim (A.S.) responded that she was his sister in Islam, which she technically was.
+
+</details>
+<details><summary>
+
+## Birth of Ismail
+
+</summary>
+Sarah knew that her husband, Ibrahim (A.S.), was longing for a child. As Allah has mentioned Ibrahim’s (A.S.) dua in Quran:
+
+"O my Lord! Grant me a righteous (son)!" (Surah Al Saffat 37:100)
+
+She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajarah and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajarah. It wasn’t long before Ibrahim (A.S.) and Hajarah were blessed with a baby boy whom they named Ismael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
 </details>
 
 <details>
-    <summary>
 
 ## Story of Lut (Lot): Soddom and Homorra
 
@@ -1335,9 +1452,13 @@ As Abraham attempts to slay Ishmael, either the knife is turned over in his hand
 The actions of Ishmael in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Abraham talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ishmael makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ishmael is a model of surrendering one's will to God, an essential characteristic in Islam.
 
 Though it is generally believed by modern Muslims that Ishmael was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ishmael.  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage. Arguments by early Muslim scholars for Ishmael as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ishmael, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time. In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ishmael in the Quran is that directly after the sacrifice narrative, Abraham is told of the coming of Isaac's birth, therefore, it must be Ishmael who was about to be sacrificed. However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac. Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
+</details>
+<details><summary>
 
-### Construction of the Kaaba
+## Construction of the Kaaba
 
+</summary>
+  
 At some point, often believed to be after Hagar's death, Ishmael married a woman from the Jurhum, the tribe who settled in the area around Zamzam. Abraham visited Ishmael in Mecca and when he arrived at his home, Ishmael was not there. Instead Ishmael's wife greets Abraham, but she was not welcoming or generous to him. Abraham instructed her to tell Ishmael some version of the statement that he was not pleased with or to change "the threshold of his door." When Ishmael returns home and his wife told him that, he knows it is from his father and taking the advice, divorced the woman. He then married another woman from Jurhum. Abraham once again visited and was met by Ishmael's second wife, as Ishmael was out. This wife was very kind and provided food for him. Abraham instructed her to tell Ishmael some version of the statement that he was pleased with "the threshold of his door." When Ishmael arrived and his wife repeated Abraham's statement, Ishmael knew it was from his father and kept his wife.
 
 There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Abraham build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Abraham to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ishmael assisted his father. Of those that say Ishmael took part in the construction, most describe Abraham visited Ishmael a third time in Mecca, during which they raised the Kaaba. Some say Ishmael looked for a final stone, but Abraham did not accept the one he brought back. Instead an angel had brought the Black Stone, which Abraham put into place. Ishmael was left at the Kaaba, in charge of its care and to teach others about the Hajj. The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Abraham with the Hajj after Islam had developed to help remove its connection to early pagan rituals.
@@ -1348,8 +1469,8 @@ There are many versions of the construction of the Kaaba that differ in fairly s
   * Dream of sacrifice 🚸 🏔️ 🐑
   * Building of Kaaba 🕋
     Ishmael and Isaac buried Ibrahim together
-
 </details>
+
 
 <details>
     <summary>
