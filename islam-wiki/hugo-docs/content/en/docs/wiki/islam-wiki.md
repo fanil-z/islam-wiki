@@ -24,17 +24,15 @@ author: fanil
 >
 > This guide is compiled from various sources and there may be minor discrepancies and incorrect details. The main purpose of the guide was to combine an overview of the whole timeline of the world as of we know today according to Islamic sources. 
 > 
-> Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources including Wikipedia.
+> Allahu Alim. Only God knows the ultimate truth. Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources including Wikipedia.
 > 
-> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Arstrong "Isam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time without providing the original source.
-> 
-> Allahu Alim. Only God knows the ultimate truth.
+> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time without providing the original source.
 > 
 > Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
 > 
-> According to Islamic tradition, there every nation had its prophet and the total number of the prophets is 124000. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned if there was no authentic hadith about this particular prophet in Islamic tradition. 
+> According to Islamic tradition, every nation had its prophet. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned in this guide because there was no authentic hadith about this particular prophet in Islamic tradition.
 > 
-> Please feel free to send feedback if you come across a part that contradicts the Quran or an authentic hadith or if the timeline order is incorrect. 
+> Please feel free to send feedback if you come across parts that contradict the Quran or an authentic hadith or if the timeline order is incorrect. 
 > 
 > May Allah guide us all to the right path.
 
@@ -57,8 +55,8 @@ author: fanil
    [9.3 The Islamic Golden Age](#93-the-islamic-golden-age) </br> -->
 [10. Later History of Islamic Countries](#10-later-history-of-islamic-countries) </br>
 [11. Current State of the Islamic World](#11-current-state-of-the-islamic-world) </br>
-[12. Apocalypse (Yawm Al Qiyamah)](#12-yawm-al-qiyamah) </br>
-
+[12. Signs of Day os Judgement](#122-minor-signs-of-the-day-of-judgement) </br>
+[13. Apocalypse (Yawm Al Qiyamah)](#12-yawm-al-qiyamah) </br>
 <!--   [12.1 Major Signs of Al Kiyamah](#122-minor-signs-of-the-day-of-judgement) </br>
    [12.2 Minor Signs of The Day of Judgement](#122-minor-signs-of-the-day-of-judgement) </br>
    [12.3 Al Qiyamah (The Hereafter)](#123-al-qiyamah-the-hereafter) </br> -->
@@ -1153,8 +1151,6 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 
 </details>
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
 # 4. Ibrahim (Abraham)
 *******************************************
 
@@ -1167,6 +1163,8 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). The ziggurat of Ur stand in the desert till this day. Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
 
 In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is said to have taken place. 
+
+Archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE.
 
 There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The Jewish sources claim that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. There is scientific evidence that Homo-Sapiens existed for several hundred thousand years, and there is no contradiction to the Quran because there is no certain timeline given in The Book. Also, the prophet Muhammad ﷺ    said that the distance between me and Al Kiyamah is like distance between my two fingers.
 
@@ -1331,44 +1329,71 @@ Following are the meaning, according to some other scholars, of these three lies
 </details>
 <details><summary>
 
-## Birth of Ismail
+## Resurrection of Birds 🐦🐦🐦🐦
 
 </summary>
-Sarah knew that her husband, Ibrahim (A.S.), was longing for a child. As Allah has mentioned Ibrahim’s (A.S.) dua in Quran:
 
-"O my Lord! Grant me a righteous (son)!" (Surah Al Saffat 37:100)
+Ibrahim (A.S.) lived on the earth worshipping Allah, sanctifying Him and calling people to worship Allah and Allah alone. But he knew that his days on earth were limited and that these days would be followed by death and finally resurrection. The knowledge of life after death filled Abraham with peace and love and certitude. One day Ibrahim (AS) asked Allah how dead people will come back on The day of judgment. Allah commanded him to take four birds, tear them apart into pieces and then mix the bodies up. He then divided the mix into four parts and placed each part on the top of four hills. He asked Ibrahim (A.S.) to call back the birds by Allah’s name. Immediately, the birds reassembled to their original parts, came back to life. Allah Has revealed this in Al-Quran:
 
-She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajarah and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajarah. It wasn’t long before Ibrahim (A.S.) and Hajarah were blessed with a baby boy whom they named Ismael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
+    Remember when Abraham said: "My Lord Show me how You give life to the dead." Allah said: "Do you not believe?" Abraham said: "Yes I believe, but to be stronger in Faith." He said: "Take four birds, the cause them to incline towards you (then slaughter them, cut them into pieces) and then put a portion of them on every hill and call them they will come to you in haste. And know that Allah is All Mighty and All Wise." 
+    Quran, Surah Al-Baqarah 2:260
+
+Ibrahim (A.S.) is the only person that the Quran commands our prophet to look up to as a role model. Allah Says in Al-Quran:
+
+    Then, We have inspired you (O Muhammad): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
+    Surah An-Nahl 16:123
+
 </details>
+<details><summary>
 
-<details>
-
-## Story of Lut (Lot): Soddom and Homorra
+## Soddom and Homorra 🏳️‍🌈: Story of Lut
 
 </summary>
 
-Lut (Arabic: لوط, romanized: Lūṭ), known as Lot in the Old Testament, is a prophet of God in the Quran. According to Islamic tradition, Lut was born to Haran and spent his younger years in Ur, later migrating to Canaan with his uncle Abraham. He was sent to the cities of Sodom and Gomorrah as a prophet, and was commanded to preach to their inhabitants on monotheism and the sinfulness of homosexuality and their lustful and violent acts.
+Lut (لوط, ), known as Lot in the Old Testament, is a prophet of God in the Quran. According to Islamic tradition, Lut was born in Haran and spent his younger years in Ur, later migrating to Canaan with his uncle Abraham. He was sent to the cities of Sodom and Gomorrah as a prophet, and was commanded to preach to their inhabitants on monotheism and the sinfulness of homosexuality 🏳️‍🌈 and their lustful and violent acts.
 
 Though Lut was not born among the people he'd been sent to preach to, the people of Sodom are still regarded as his "brethren" in the Quran. Like the Biblical narrative, the Quran states that Lut's messages were ignored by the inhabitants of the cities, and Sodom and Gomorrah were subsequently destroyed. The destruction of the cities is traditionally presented as a warning against male rape and went on to be used as a warning against homosexual acts.
 
 While the Quran does not elaborate upon Lut's later life, Islam holds that all prophets were examples of moral and spiritual righteousness.
 
-Lut is referenced a relatively large number of times in the Quran. Many of these passages place the narrative of Lut in a line of successive prophets including Noah, Hud, Salih and Shuayb. Islamic scholars have stated that these particular prophets represent the early cycle of prophecy as described in the Quran. These narratives typically follow similar patterns: a prophet is sent to a community; the community pays no heed to his warnings instead threatens him with punishment; God asks the prophet to leave with his followers the community and its people are subsequently destroyed in a punishment. Elsewhere in the Quran, Lut is mentioned alongside Ismael, Elisha and Jonah as men whom God favored above the nations.
+Lut is referenced a relatively large number of times in the Quran. Many of these passages place the narrative of Lut in a line of successive prophets including Noah, Hud, Salih and Shuayb. Islamic scholars have stated that these particular prophets represent the early cycle of prophecy as described in the Quran. These narratives typically follow similar patterns: a prophet is sent to a community; the community pays no heed to his warnings instead threatens him with punishment; God asks the prophet to leave with his followers the community and its people are subsequently destroyed in a punishment. Elsewhere in the Quran, Lut is mentioned alongside Ishmael, Elisha and Jonah as men whom God favored above the nations.
 
-The Quran states that Lut was a nephew of Abraham who had been sent to the twin cities of Sodom and Gomorrah as a prophet after migrating to Canaan, but he was rejected by the cities' inhabitants. One day, a group of angels visited Abraham as guests in the guise of handsome men in order to inform him of the fact that his wife Sarah was pregnant with Isaac. While there, they also told him that they had been sent by God to the "guilty people" of Lut to destroy them with "a shower of stones of clay".[16] Lut and those who believed in him, were to be spared, but his wife was to die in the destruction, with the angels stating that "she is of those who lag behind". The Quran also draws upon Lot's wife as an "example for the unbelievers" as she was married to a righteous man but refused to believe in his message and was thus condemned to Hell.
+The Quran states that Lut was a nephew of Abraham who had been sent to the twin cities of Sodom and Gomorrah as a prophet after migrating to Canaan, but he was rejected by the cities' inhabitants. One day, a group of angels visited Abraham as guests in the guise of handsome men in order to inform him of the fact that his wife Sarah was pregnant with Isaac. While there, they also told him that they had been sent by God to the "guilty people" of Lut to destroy them with "a shower of stones of clay". Lut and those who believed in him, were to be spared, but his wife was to die in the destruction, with the angels stating that "she is of those who lag behind". The Quran also draws upon Lot's wife as an "example for the unbelievers" as she was married to a righteous man but refused to believe in his message and was thus condemned to Hell.
 
 The people of the twin cities transgressed against the bounds of God. According to the Quran, their sins included inhospitality and robbery  they hated strangers and robbed travellers, apart from other abuses and rape. It was their sin of sexual misconduct as well which was seen as particularly egregious, with Lut strongly chiding them for approaching men with sexual desire instead of women. Lut told and tried to help them to abandon their sinful ways, but they ridiculed him and threatened to evict him from the cities. Lut prayed to God and begged to be saved from the consequences of their sinful acts.
 
-Then three angels, disguised as handsome males, came to Lut as guests. He grieved the men, as he felt powerlessness to protect them from the people of the cities. The cities' residents becoming aware of the visitors demanded that Lot surrender his guests to them. Distressed and fearful that they would incur the wrath of God, suggested rather lawful marriage to his daughters as pious and purer alternatives to their unlawful wishes, and perhaps as a source of guidance. But they were unrelenting and replied "thou knowest we have no need of thy daughters: indeed thou knowest quite well what we desire!", referring to his male guests.
+### Angels appear to Lut
+Then three Angels in the disguise of handsome young boys came to Lot, who became distressed knowing the character of the people, and feeling himself powerless to protect the visitors; he said: "This is a distressful day." When the people - overjoyed at the news of new young boys in the village - came to snatch them away from Lot, he tried to convince them to refrain from practising their lusts on the visitors, and offered his own daughters in marriage to them in return for the boys' free release, but they were unrelenting and replied "we have no need of your daughters: indeed you know quite well what we want!" The Qur'an remarks "... they moved blindly in the frenzy of approaching death".
+
+### Prophet Lut advised to leave the place
+Lot was powerless to protect the young boys, but they revealed to him that they were indeed Angels sent by Allah to punish the people for their transgressions. They advised Lot to leave the place during the night and not look back, informing him that his wife would be left behind on account of her sinful nature and that they "...were about to bring down upon the folk of this township a fury from the sky because they are evil-doers". Keeping his faith in Allah, Lot left his home and the cities during the night with his family and others who believed in him, and only his wife stayed behind.
 
 The exegetes Ibn Kathir, Qurtubi and Tabari do not read 'daughters' to mean Lot's literal daughters. They argue that since a prophet is like a father to his nation, Lot was directing the evildoers to turn away from their sins and engage in healthy and pious relationships with the daughters of the nation, i.e. women in general.
 
 The angels then revealed their true identities to Lot and said to him, “We are (here) to deliver thee and thy following, except thy wife: she is of those who lag behind." They advised Lot to leave the cities during the night, telling him not to look back. Keeping his faith in God, Lot left the cities in the darkness of night, bringing with him his followers and believing family members. Finally, morning came, and the Decree of God passed whereupon the Quran reads, “We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-“ And thus was sealed the fate of the twin cities, falling into destruction and despair and marking the end of the civilisations of Sodom and Gomorrah.
 
+    And Lot, who said to his nation: 'Do you commit such indecency (sodomy) in a way that no one has preceded you in the worlds? You approach men lustfully instead of women. Truly, you are a nation who exceed (in sin).' The only answer of his nation was: 'Expel them from your village. They are people who keep themselves purified.' We saved him and all his family, except his wife, who was made to remain, and We rained down upon them a rain. So look how was the end of the evildoers.
+    Qur'an 7:80-84
+
+### Destruction of Sodom and Gomorrah
+When morning came, Allah 'turned the cities upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer' putting an end to the lives of the people and describing it as "So taste ye My Wrath and My Warning!" in the Qur'an. The Qur'an refers to the sites of Sodom and Gomorrah as 'signs for those who understand by example', those who 'care to understand' and those who 'fear a grievous penalty or a painful doom'. The Qur'an also uses the story as an example stating: 
+
+    "And most surely you pass by them (the cities) by the day, and at night; do you not then understand?"
+
+There is a narration that Jibril participated in the desctruction of the cities.
+
+### Differences in stories of the Qur'an and the Bible
+The major difference between the story of Lut in the Qur'an and the story of Lot in the Bible is that the Biblical version includes a story of Lot's being induced to incestuous relations with his own daughters. The Qur'an says that Lut is a prophet, and holds that all Prophets were examples of moral and spiritual rectitude. Though it is not altogether clear in the Bible story that Lot consented to his action, in Islam these stories of incest are thus considered to be false.
+
+Sodom and Gomorrah are not mentioned by name in the Qur'an. The Islamic use of the term Sodomite was borrowed therefrom by the Ulama(Scholars) of Islamic law which teach that capital punishment/or flogging is the penalty for this action to be meted out on both the sodomite (the penetrator) and the catamite (the receptive member). These punishments were adopted by the blooming Islamic Empires approximately two centuries after the death of the Prophet Muhammad according to oral traditions and they are not Sunnah.
+
 </details>
 
-<details>
-    <summary>
+# PROFREADINGPRROFREADINGPROOFREADING
+
+## **Descendands of Ibrahim**
+
+<details><summary>
 
 ## The Covenant
 
@@ -1387,10 +1412,30 @@ Promised land of Canaan for Isaac
 promise of descendands 
 promises of blessings for those who follow the Сovenenant
 
+
 </details>
+<details><summary>
 
-## **Descendands of Ibrahim**
+## Birth of Ismail
 
+</summary>
+
+Sarah knew that her husband, Ibrahim (A.S.), was longing for a child. As Allah has mentioned Ibrahim’s (A.S.) dua in Quran:
+
+    "O my Lord! Grant me a righteous son!"
+    Surah Al Saffat 37:100
+
+She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajarah and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajar. It wasn’t long before Ibrahim (A.S.) and Hajar were blessed with a baby boy whom they named Ishmael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
+
+
+
+Allah commanded Prophet Ibrahim  to leave his second wife, Hajrah and their newly born son, Ismail, alone in an un-inhabited, barren valley. So, Ibrahim  asked his wife, Hajrah to prepare for a long journey. They  walked through cultivated land, deserts and mountains, until they reached the desert of the Arabian peninsula and came to a valley having no fruit, no trees, no food and no water; the valley had no sign of life.
+
+Ibn Abbas  narrated:
+
+"... Ibrahim  brought her (Hajrah) and her son, Ismail while she was suckling him, to a place near the Kaaba under a tree on the spot of Zam-Zam, at the highest place in the mosque. During those days there was nobody in Makkah, nor was there any water. So he made them sit over there and placed near them a leather bag containing some dates, and a small water-skin containing some water, and set out homeward. Ismail's mother followed him saying: "O Ibrahim! Where are you going, leaving us in this valley where there is no person whose company we may enjoy, nor is there anything (to enjoy)?" She repeated that to him many times, but he did not look back at her. Then she asked him: "Has Allah ordered you to do so?" He said: "Yes". She said: "Then He will not neglect us." and she returned (to her child) while Ibrahim proceeded on his way.On reaching the Thaniya (mountain) where they could not see him, Ibrahim  faced the Kaaba, and raising both hands, invoked Allah saying the following prayer:"O our Lord! I have made some of my offspring to dwell in a valley without cultivation, by Thy Sacred House; in order, O our Lord, that they may establish regular Prayer: so fill the hearts of some among men with love towards them, and feed them with fruits: so that they may give thanks." [Surah Ibrahim 14:37]..." [Sahih Bukhari Book# 55, Hadith# 583]
+
+</details>
 <details>
     <summary>Iskhaq (Isaac): Father of Jewish people</summary>
 
@@ -1455,7 +1500,7 @@ Though it is generally believed by modern Muslims that Ishmael was the son who w
 </details>
 <details><summary>
 
-## Construction of the Kaaba
+## Construction of the Kaaba 🕋
 
 </summary>
   
@@ -1470,8 +1515,12 @@ There are many versions of the construction of the Kaaba that differ in fairly s
   * Building of Kaaba 🕋
     Ishmael and Isaac buried Ibrahim together
 </details>
+<details><summary>
 
+## Ibrahim sacrifices a sheep
 
+</summary>
+</details>
 <details>
     <summary>
 
@@ -1511,18 +1560,6 @@ Rebecca overheard this conversation. It is suggested that she realized prophetic
 The Bible tells the story of how Rebecca and Jacob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Ishak and Yaqub being prophets would not do so.
 
 </details>
-
-<details>
-    <summary>
-
-## Side-Note
-
-</summary>
-
-Although archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE;, John J. Bimson wrote in 1980: "Since then ... there has been a strong reaction against the use of archaeological evidence in support of the biblical traditions, and Albright's comment could not be repeated with any truth today." Nahum M. Sarna (1978) noted that an inability to date the narratives of the patriarchs does not necessarily invalidate their historicity, a view supported by Bimson, who admitted that "Our knowledge of the centuries around 2000 BC is very small, and our ignorance very great."
-
-</details>
-
 <details>
     <summary>
 
@@ -2713,8 +2750,7 @@ In that time many good people are called son of God.
 
 </details>
 
-# 8. Pre-Islamic Arabia 🐫 🌴 🕋
-
+# 8. Pre-Islamic Arabia 🐫 🏜️ 🕋
 *******************************************
 
 <details>
