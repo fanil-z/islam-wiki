@@ -906,7 +906,6 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 </details>
 
 # 3. Nuh (Noah) and Great Flood ⛴🕊⛰
-
 *************************************
 
 <details><summary>
@@ -1051,9 +1050,7 @@ Additional sources:
 * [Comparison of Biblical and Quranic narration about the Flood](https://bora.uib.no/bora-xmlui/bitstream/handle/1956/15470/152883485.pdf)
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Hud and People of 'Ad
 
@@ -1339,8 +1336,7 @@ Ibrahim (A.S.) lived on the earth worshipping Allah, sanctifying Him and calling
     Quran, Surah Al-Baqarah 2:260
 
 Ibrahim (A.S.) is the only person that the Quran commands our prophet to look up to as a role model. Allah Says in Al-Quran:
-
-    Then, We have inspired you (O Muhammad): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
+pired you (O Muhammad): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
     Surah An-Nahl 16:123
 
 </details>
@@ -1375,6 +1371,13 @@ The angels then revealed their true identities to Lot and said to him, “We are
     And Lot, who said to his nation: 'Do you commit such indecency (sodomy) in a way that no one has preceded you in the worlds? You approach men lustfully instead of women. Truly, you are a nation who exceed (in sin).' The only answer of his nation was: 'Expel them from your village. They are people who keep themselves purified.' We saved him and all his family, except his wife, who was made to remain, and We rained down upon them a rain. So look how was the end of the evildoers.
     Qur'an 7:80-84
 
+The Quran, in the following passage, suggests that Ibrahim and Sarah found out about the destruction of Lot’s people after being given the good news of having a son:
+
+    And when Our envoys brought Abraham the good news, they said, "We are going to destroy the people of this town; its people are wrongdoers."
+
+    He said, "Yet Lot is in it." They said, "We are well aware of who is in it. We will save him, and his family, except for his wife, who will remain behind."
+    The Quran, verses 29:31-32
+
 ### Destruction of Sodom and Gomorrah
 When morning came, Allah 'turned the cities upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer' putting an end to the lives of the people and describing it as "So taste ye My Wrath and My Warning!" in the Qur'an. The Qur'an refers to the sites of Sodom and Gomorrah as 'signs for those who understand by example', those who 'care to understand' and those who 'fear a grievous penalty or a painful doom'. The Qur'an also uses the story as an example stating: 
 
@@ -1389,31 +1392,10 @@ Sodom and Gomorrah are not mentioned by name in the Qur'an. The Islamic use of t
 
 </details>
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
 ## **Descendands of Ibrahim**
 
-<details><summary>
+# PROFREADINGPRROFREADINGPROOFREADING
 
-## The Covenant
-
-</summary>
-
-According to the Bible, God makes a covenant with Abraham and says that He will make Abraham a father of many nations. He gets old and still doesn't have children but doesn't lose his faith. Sarah wants to force the promise by giving Hagar to Abraham so that she can conceive a child. and she gives birth to Ismail.
-God says that the sign of the covenant is circumcision.
-When Abraham was around 100 years old, three angels come to Abraham and bring them the good news that Sarah will conveive a child. Sarah laughs because she is very old but angels tell her that this is the will of God. and Sarah gives birth to Ishaq.
-
-After having her own son, she tells Abraham to send away Hagar and Ismail so that Ismail doesn't cause a threat to the inheritance of Ishaq. God also tells Abraham to send them away and he leaves them in Mecca. Hagar asks if that is the will of Abraham or the will of God and feels relieved because it was the will of God. While they leave there in the wilderness, they run out of water and Hagar runs from one hill to the other to see if there's caravan. God sends them an angel that tells Hagar that God hears Ishmael crying and the angels comforts them and finds them a water spring. Muslims believe this is the spring of Zamzam which fulfills the thirst of piligrims in Mecca up to recent days.
-After having a water source some caravan tribes ask permission to settle in that area. Ishmael grows and Hagar finds him a wife from Egypt.
-
-Ibrahim waits patiently.
-
-Promised land of Canaan for Isaac
-promise of descendands 
-promises of blessings for those who follow the Сovenenant
-
-
-</details>
 <details><summary>
 
 ## Birth of Ismail
@@ -1427,17 +1409,54 @@ Sarah knew that her husband, Ibrahim (A.S.), was longing for a child. As Allah h
 
 She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajarah and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajar. It wasn’t long before Ibrahim (A.S.) and Hajar were blessed with a baby boy whom they named Ishmael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
 
+After having her own son, Sarah tells Abraham to send away Hajar and Ismail so that Ismail doesn't cause a threat to the inheritance of Ishaq. God also tells Abraham to send them away and he leaves them in Mecca. Hagar asks if that is the will of Abraham or the will of God and feels relieved because it was the will of God. While they leave there in the wilderness, they run out of water and Hagar runs from one hill to the other to see if there's caravan. God sends them an angel that tells Hagar that God hears Ishmael crying and the angels comforts them and finds them a water spring. Muslims believe this is the spring of Zamzam which fulfills the thirst of piligrims in Mecca up to recent days.
 
+After having a water source some caravan tribes ask permission to settle in that area. Ishmael grows and Hagar finds him a wife from Egypt.
 
-Allah commanded Prophet Ibrahim  to leave his second wife, Hajrah and their newly born son, Ismail, alone in an un-inhabited, barren valley. So, Ibrahim  asked his wife, Hajrah to prepare for a long journey. They  walked through cultivated land, deserts and mountains, until they reached the desert of the Arabian peninsula and came to a valley having no fruit, no trees, no food and no water; the valley had no sign of life.
+Allah commanded Prophet Ibrahim  to leave his second wife, Hajar and their newly born son, Ismail, alone in an un-inhabited, barren valley. So, Ibrahim  asked his wife, Hajar to prepare for a long journey. They  walked through cultivated land, deserts and mountains, until they reached the desert of the Arabian peninsula and came to a valley having no fruit, no trees, no food and no water; the valley had no sign of life.
 
 Ibn Abbas  narrated:
 
-"... Ibrahim  brought her (Hajrah) and her son, Ismail while she was suckling him, to a place near the Kaaba under a tree on the spot of Zam-Zam, at the highest place in the mosque. During those days there was nobody in Makkah, nor was there any water. So he made them sit over there and placed near them a leather bag containing some dates, and a small water-skin containing some water, and set out homeward. Ismail's mother followed him saying: "O Ibrahim! Where are you going, leaving us in this valley where there is no person whose company we may enjoy, nor is there anything (to enjoy)?" She repeated that to him many times, but he did not look back at her. Then she asked him: "Has Allah ordered you to do so?" He said: "Yes". She said: "Then He will not neglect us." and she returned (to her child) while Ibrahim proceeded on his way.On reaching the Thaniya (mountain) where they could not see him, Ibrahim  faced the Kaaba, and raising both hands, invoked Allah saying the following prayer:"O our Lord! I have made some of my offspring to dwell in a valley without cultivation, by Thy Sacred House; in order, O our Lord, that they may establish regular Prayer: so fill the hearts of some among men with love towards them, and feed them with fruits: so that they may give thanks." [Surah Ibrahim 14:37]..." [Sahih Bukhari Book# 55, Hadith# 583]
+> "... Ibrahim  brought her (Hajar) and her son, Ismail while she was suckling him, to a place near the Kaaba under a tree on the spot of Zam-Zam, at the highest place in the mosque. During those days there was nobody in Makkah, nor was there any water. So he made them sit over there and placed near them a leather bag containing some dates, and a small water-skin containing some water, and set out homeward. Ismail's mother followed him saying: "O Ibrahim! Where are you going, leaving us in this valley where there is no person whose company we may enjoy, nor is there anything (to enjoy)?" She repeated that to him many times, but he did not look back at her. Then she asked him: "Has Allah ordered you to do so?" He said: "Yes". She said: "Then He will not neglect us." and she returned (to her child) while Ibrahim proceeded on his way.On reaching the Thaniya (mountain) where they could not see him, Ibrahim  faced the Kaaba, and raising both hands, invoked Allah saying the following prayer:"O our Lord! I have made some of my offspring to dwell in a valley without cultivation, by Thy Sacred House; in order, O our Lord, that they may establish regular Prayer: so fill the hearts of some among men with love towards them, and feed them with fruits: so that they may give thanks." [Surah Ibrahim 14:37]..." [Sahih Bukhari Book# 55, Hadith# 583]
 
 </details>
-<details>
-    <summary>Iskhaq (Isaac): Father of Jewish people</summary>
+<details><summary>
+
+## The Covenant
+
+</summary>
+
+When Abraham was in old ages, three angels come to Abraham and bring them the good news that Sarah will conveive a child. Sarah laughs because she is very old but angels tell her that this is the will of God. 
+
+    When they entered upon him, and said, "Peace." He said, "We are wary of you."
+    
+    They said, "Do not fear; we bring you good news of a boy endowed with knowledge."
+    
+    He said, "Do you bring me good news, when old age has overtaken me? What good news do you bring?"
+
+    They said, "We bring you good news in truth, so do not despair."
+
+    He said, "And who despairs of his Lord’s mercy but the lost?"
+
+    He said, "So what is your business, O envoys?"
+
+    They said, "We were sent to a sinful people." 
+    The Quran, verses 15:52-58
+
+God made his covenant with Abram thirteen years after the birth of Ishmael. Abram's name was changed to Abraham and Sarai's to Sarah. The covenant was sealed by Abraham's Circumcision, and the first commandment relating to circumcision. Ishmael was also circumcised on that day, at the age of 13, as were the other men of Abraham's household.
+
+God says that the sign of the covenant is circumcision. Circumcision is practiced nearly universally by Muslim males. Islam bases its practice of circumcision on the Genesis 17 narrative, the same Biblical chapter referred to by Jews. The procedure is not explicitly mentioned in the Quran, however, it is a tradition established by Islam's prophet Muhammad directly (following Abraham), and so its practice is considered a sunnah (prophet's tradition) and is very important in Islam. For Muslims, circumcision is also a matter of cleanliness, purification and control over one's baser self (nafs).
+
+Accrding to Genesis, The Lord said to Abraham “ go from the country and your kindred and your fathers house to the land that I will show you.” And I will make of you a great nation and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you. And by you all the families of the earth shall bless themselves." At this time Abraham was promised not only many descendants, but descendants through Sarah specifically, as well as the land where he was living, which was to belong to his descendants. The covenant was to be fulfilled through Isaac (Promised land of Canaan for Isaac), though God promised that Ishmael would become a great nation as well. The covenant of circumcision (unlike the earlier promise) was two-sided and conditional: if Abraham and his descendants fulfilled their part of the covenant, Yahweh would be their God, give them the land, and make a great nation and kings out of Abraham's line.
+
+The promise of a son to Abraham made Sarah "laugh," which became the name of the son of promise, Isaac (Ishaq).
+
+</details>
+<details><summary>
+
+## Iskhaq (Isaac): Father of Jewish people
+
+</summary>
 
 ### Iskhaq (Isaac)
 
@@ -1507,6 +1526,17 @@ Though it is generally believed by modern Muslims that Ishmael was the son who w
 At some point, often believed to be after Hagar's death, Ishmael married a woman from the Jurhum, the tribe who settled in the area around Zamzam. Abraham visited Ishmael in Mecca and when he arrived at his home, Ishmael was not there. Instead Ishmael's wife greets Abraham, but she was not welcoming or generous to him. Abraham instructed her to tell Ishmael some version of the statement that he was not pleased with or to change "the threshold of his door." When Ishmael returns home and his wife told him that, he knows it is from his father and taking the advice, divorced the woman. He then married another woman from Jurhum. Abraham once again visited and was met by Ishmael's second wife, as Ishmael was out. This wife was very kind and provided food for him. Abraham instructed her to tell Ishmael some version of the statement that he was pleased with "the threshold of his door." When Ishmael arrived and his wife repeated Abraham's statement, Ishmael knew it was from his father and kept his wife.
 
 There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Abraham build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Abraham to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ishmael assisted his father. Of those that say Ishmael took part in the construction, most describe Abraham visited Ishmael a third time in Mecca, during which they raised the Kaaba. Some say Ishmael looked for a final stone, but Abraham did not accept the one he brought back. Instead an angel had brought the Black Stone, which Abraham put into place. Ishmael was left at the Kaaba, in charge of its care and to teach others about the Hajj. The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Abraham with the Hajj after Islam had developed to help remove its connection to early pagan rituals.
+
+The Kaba, which was first built by Adam (PBUH), was heavily damaged in the long course of time and was almost demolished. The prophet Abraham (PBUH) received an order from Allah Almighty to rebuild this holy structure and immediately set to work with his son Ismael.
+
+Having completed to build Kaba, they opened their hands in supplication to Allah Almighty and prayed:
+
+    "Our Lord! Send a Messenger from our progeny to the Muslim Ummah so that he can read to them your ayahs (verses), teach them your books and their laws, and cleanse them from their sins!" 
+    Surah al-Baqara, 129
+
+Thus, Allah Almighty did not leave this sincere supplication unanswered and sent a descendant of Ismael, the prophet Muhammad (pbuh), the chief of the prophets to the world. The Pride of the Universe (pbuh) proclaimed this truth as,
+
+> "I am the supplication of my forefather Abraham (pbuh)." (Ibn Hisham, Sira: 1/175; Tabari, Tarikh: 2/128.)
 
 * Hajar and Zamzam
     The story that an angel comes to comfort Hajar is also mentioned in the Bible. it also says that Ishmael will have so many descendants that it will be difficult to count.
@@ -5602,6 +5632,11 @@ The above report was declared Hasan Gharib by Tirmidhi. However, after mentionin
 <details>
 <summary>Unsorted drafts</summary>
 🌱🌴🌊🏜
+
+devil is derived from Diabolos the root is from Iblis.
+Shatana - the one far away.
+Iblis is the leader of the shayateen. anybody who brings you far away from Allah. Shayateen may also be people
+
 
 In the end of times, the shayateen will take forms and tell you fictional stories and you will say "I can see his face but I dont know his name."  sahih bukhari
 
