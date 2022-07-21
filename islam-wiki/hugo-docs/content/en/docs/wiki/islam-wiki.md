@@ -1405,19 +1405,9 @@ Sodom and Gomorrah are not mentioned by name in the Qur'an. The Islamic use of t
 Sarah knew that her husband, Ibrahim (A.S.), was longing for a child. As Allah has mentioned Ibrahim’s (A.S.) dua in Quran:
 
     "O my Lord! Grant me a righteous son!"
-    Surah Al Saffat 37:100
+    Quran, Surah Al Saffat 37:100
 
-She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajarah and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajar. It wasn’t long before Ibrahim (A.S.) and Hajar were blessed with a baby boy whom they named Ishmael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
-
-After having her own son, Sarah tells Abraham to send away Hajar and Ismail so that Ismail doesn't cause a threat to the inheritance of Ishaq. God also tells Abraham to send them away and he leaves them in Mecca. Hagar asks if that is the will of Abraham or the will of God and feels relieved because it was the will of God. While they leave there in the wilderness, they run out of water and Hagar runs from one hill to the other to see if there's caravan. God sends them an angel that tells Hagar that God hears Ishmael crying and the angels comforts them and finds them a water spring. Muslims believe this is the spring of Zamzam which fulfills the thirst of piligrims in Mecca up to recent days.
-
-After having a water source some caravan tribes ask permission to settle in that area. Ishmael grows and Hagar finds him a wife from Egypt.
-
-Allah commanded Prophet Ibrahim  to leave his second wife, Hajar and their newly born son, Ismail, alone in an un-inhabited, barren valley. So, Ibrahim  asked his wife, Hajar to prepare for a long journey. They  walked through cultivated land, deserts and mountains, until they reached the desert of the Arabian peninsula and came to a valley having no fruit, no trees, no food and no water; the valley had no sign of life.
-
-Ibn Abbas  narrated:
-
-> "... Ibrahim  brought her (Hajar) and her son, Ismail while she was suckling him, to a place near the Kaaba under a tree on the spot of Zam-Zam, at the highest place in the mosque. During those days there was nobody in Makkah, nor was there any water. So he made them sit over there and placed near them a leather bag containing some dates, and a small water-skin containing some water, and set out homeward. Ismail's mother followed him saying: "O Ibrahim! Where are you going, leaving us in this valley where there is no person whose company we may enjoy, nor is there anything (to enjoy)?" She repeated that to him many times, but he did not look back at her. Then she asked him: "Has Allah ordered you to do so?" He said: "Yes". She said: "Then He will not neglect us." and she returned (to her child) while Ibrahim proceeded on his way.On reaching the Thaniya (mountain) where they could not see him, Ibrahim  faced the Kaaba, and raising both hands, invoked Allah saying the following prayer:"O our Lord! I have made some of my offspring to dwell in a valley without cultivation, by Thy Sacred House; in order, O our Lord, that they may establish regular Prayer: so fill the hearts of some among men with love towards them, and feed them with fruits: so that they may give thanks." [Surah Ibrahim 14:37]..." [Sahih Bukhari Book# 55, Hadith# 583]
+She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajar and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajar. It wasn’t long before Ibrahim (A.S.) and Hajar were blessed with a baby boy whom they named Ishmael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
 
 </details>
 <details><summary>
@@ -1458,23 +1448,20 @@ The promise of a son to Abraham made Sarah "laugh," which became the name of the
 
 </summary>
 
-### Iskhaq (Isaac)
+Iskhaq is the second son of Ibrahim. his mother is Sarah.
 
-Second son of Ibrahim. his mother is Sarah.
-
-According to Bible: As had been prophesied in Mamre the previous year, Sarah became pregnant and bore a son to Abraham, on the first anniversary of the covenant of circumcision. Abraham was "an hundred years old", when his son whom he named Isaac was born; and he circumcised him when he was eight days old. For Sarah, the thought of giving birth and nursing a child, at such an old age, also brought her much laughter, as she declared, "God hath made me to laugh, so that all who hear will laugh with me." Isaac continued to grow and on the day he was weaned, Abraham held a great feast to honor the occasion. During the celebration, however, Sarah found Ishmael mocking; an observation that would begin to clarify the birthright of Isaac.
-
-Ishaq is the father of Yaqub (Jacob) and grandfather of Yusuf (Joseph). Ishaq and Rebecca are parents of Jacob and Esau.
-
-Islam considers Isaac (Arabic:اسحاق Ishaaq) a prophet of Islam, and describes him as the father of the Israelites and a righteous servant of God.
+According to Bible: As had been prophesied in Mamre the previous year, Sarah became pregnant and bore a son to Abraham, on the first anniversary of the covenant of circumcision. Isaac continued to grow and on the day he was weaned, Abraham held a great feast to honor the occasion.
 
 Isaac, along with Ishmael, is highly important for Muslims for continuing to preach the message of monotheism after his father Abraham. Among Isaac's children was the follow-up Israelite patriarch Jacob, who is also venerated as an Islamic prophet.
+
+Iskhaq is the father of Yaqub (Jacob) and grandfather of Yusuf (Joseph). Ishaq and Rebecca are parents of Jacob and Esau.
+
+Islam considers Isaac (Arabic:اسحاق Ishaaq) a prophet of Islam, and describes him as the father of the Israelites and a righteous servant of God.
 
 Isaac is mentioned seventeen times by name in the Quran, often with his father and his son, Jacob. The Quran states that Abraham received "good tidings of Isaac, a prophet, of the righteous", and that God blessed them both (37: 112). In a fuller description, when angels came to Abraham to tell him of the future punishment to be imposed on Sodom and Gomorrah, his wife, Sarah, "laughed, and We gave her good tidings of Isaac, and after Isaac of (a grandson) Jacob" (11: 71–74); and it is further explained that this event will take place despite Abraham and Sarah's old age. Several verses speak of Isaac as a "gift" to Abraham (6: 84; 14: 49–50), and 24: 26–27 adds that God made "prophethood and the Book to be among his offspring", which has been interpreted to refer to Abraham's two prophetic sons, his prophetic grandson Jacob, and his prophetic great-grandson Joseph. In the Quran, it later narrates that Abraham also praised God for giving him Ishmael and Isaac in his old age (14: 39–41).
 
 Elsewhere in the Quran, Isaac is mentioned in lists: Joseph follows the religion of his forefathers Abraham, Isaac and Jacob (12: 38) and speaks of God's favor to them (12: 6); Jacob's sons all testify their faith and promise to worship the God that their forefathers, "Abraham, Ishmael and Isaac", worshiped (2: 127); and the Quran commands Muslims to believe in the revelations that were given to "Abraham, Ishmael, Isaac, Jacob and the Patriarchs" (2: 136; 3: 84). In the Quran's narrative of Abraham's near-sacrifice of his son (37: 102), the name of the son is not mentioned and debate has continued over the son's identity, though many feel that the identity is the least important element in a story which is given to show the courage that one develops through faith.
 
-Quran
 The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jacob are mentioned as being bestowed upon Abraham as gifts of God, who then worshipped God only and were righteous leaders in the way of God:
 
     And We bestowed on him Isaac and, as an additional gift, (a grandson), Jacob, and We made righteous men of every one (of them).
@@ -1485,10 +1472,47 @@ The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jaco
     Quran, sura 37 (As-Saaffat), ayah 112
 
 </details>
-<details>
-    <summary>Ismail (Ishmael): Father of Arab people</summary>
+<details><summary>
+    
+## Hajar and Ismail are sent to Mecca
 
-### Ismail (Ishmael)
+</summary>
+
+After having her own son, Sarah tells Abraham to send away Hajar and Ismail so that Ismail doesn't cause a threat to the inheritance of Ishaq. God also tells Abraham to send them away and he leaves them in Mecca. Accroding to Bible, during celebration of Iskhaq'a weaning, Sarah found Ishmael mocking; an observation that would begin to clarify the birthright of Isaac.
+
+Allah commanded Prophet Ibrahim  to leave his second wife, Hajar and their newly born son, Ismail, alone in an un-inhabited, barren valley. So, Ibrahim  asked his wife, Hajar to prepare for a long journey. They  walked through cultivated land, deserts and mountains, until they reached the desert of the Arabian peninsula and came to a valley having no fruit, no trees, no food and no water; the valley had no sign of life.
+
+### Settling in Mecca
+
+Ibrahim takes Hajar and Ismail and they depart. Acording to narrations, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibril) guides them to the location of the Kaaba, at which point Abraham leaves the his wife and son. It is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. 
+
+Ibn Abbas  narrated:
+
+> "... Ibrahim  brought her (Hajar) and her son, Ismail while she was suckling him, to a place near the Kaaba under a tree on the spot of Zam-Zam, at the highest place in the mosque. During those days there was nobody in Makkah, nor was there any water. So he made them sit over there and placed near them a leather bag containing some dates, and a small water-skin containing some water, and set out homeward. Ismail's mother followed him saying: "O Ibrahim! Where are you going, leaving us in this valley where there is no person whose company we may enjoy, nor is there anything (to enjoy)?" She repeated that to him many times, but he did not look back at her. Then she asked him: "Has Allah ordered you to do so?" He said: "Yes". She said: "Then He will not neglect us." and she returned (to her child) while Ibrahim proceeded on his way. On reaching the Thaniya (mountain) where they could not see him, Ibrahim  faced the Kaaba, and raising both hands, invoked Allah saying the following prayer:"O our Lord! I have made some of my offspring to dwell in a valley without cultivation, by Thy Sacred House; in order, O our Lord, that they may establish regular Prayer: so fill the hearts of some among men with love towards them, and feed them with fruits: so that they may give thanks." [Surah Ibrahim 14:37]..." [Sahih Bukhari Book# 55, Hadith# 583]
+ 
+### Safa and Marwah
+
+After some time in the desert, Hajar and Ishmael run out of water and Ishmael becomes extremely thirsty. Hajar is distressed and searches for water, running back and forth seven times between the hills of **Al-Safa** and **Al-Marwah** to see if there's caravan. Hajar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee.
+
+</details>
+<details><summary>
+
+## Discovery of Zamzam Well
+
+</summary>
+
+While Hajar is running from one hill to the other, God sends them an angel that tells Hajar that God hears Ishmael crying.
+
+When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam which fulfills the thirst of piligrims in Mecca p to recent days. The name of the well comes from the phrase Zomë Zomë, meaning "stop flowing", a command repeated by Hajar during her attempt to contain the spring water. 
+
+> The Prophet (PBUH) said, "The best water on the face of the earth is the water of Zamzam; it is a kind of food and a healing from sickness." – Saheeh al-Jaami, 3302
+
+</details>
+<details><summary>
+
+## Ismail (Ishmael): Father of Arab people
+
+</summary>
 
 First son of Ibrahim.
 
@@ -1502,20 +1526,12 @@ Ibrahim, Bibi Hagar and Ismail came across the Makkah Valley. Ibrahim left his w
 
 When Hagar ran out of food and water, she left the baby under the sheltered place and ran here and there in search of help or water. She ran toward the hilltop of Safa but didnot locate any sign of spring or habitation. Next, she ran to the neighboring hill, Marwah but again she found nothing.
 
-She ran between two hills seven times calling Allah for mercy. Them suddenly she noticed the noise and came back to her son Ishmael, she say an angel standing beside her baby. The angel was Jibreel, who was striking the ground with his wings so that the watter prattled forth.
-
 Ishmael and Hagar being taken to Mecca by Abraham in Islamic texts is an important part in the story of Ishmael, as it brings the focus to Mecca and is the beginning of Mecca's sanctification as a holy area.  Islamic tradition says Abraham was ordered by God to take Hagar and Ishmael to Mecca, and later Abraham returned to Mecca to build the Kaaba. In many of these accounts, the Sakina (something like a wind or spirit sent by God), or the angel Gabriel (Jibral) guides them to the location of the Kaaba, at which point Abraham builds it and afterwards, leaves the other two there (other versions discussed below say the construction of the Kaaba occurred later and that Ishmael took part in it). Generally, it is said that Hagar asks Abraham who he is entrusting herself and Ishmael to as he leaves them. He answers that he is entrusting them to God, to which Hagar then makes a reply that shows her faith, stating that she believes God will guide them. Hagar and Ishmael then run out of water and Ishmael becomes extremely thirsty. Hagar is distressed and searches for water, running back and forth seven times between the hills of Al-Safa and Al-Marwah. Hagar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee. When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hagar collects some or dams it up. This spring or well is known as Zamzam. At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history and are recounted in Reuven Firestone's Journeys in Holy Lands.
 
-Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries. Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art." Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ishmael over Isaac because he was the first child.
+At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hagar if they can settle there, which she allows, and many versions say as Ishmael grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history and are recounted in Reuven Firestone's Journeys in Holy Lands.
 
-Abraham sacrificing his son, Ishmael; Abraham cast into fire by Nimrod
-The general narrative pertaining to Ishmael in Islamic literature describes the sacrifice either as a test or as part of a vow. Some versions tell of the devil trying to stop God's command from being obeyed by visiting Hagar, Ishmael, and Abraham. Every time the devil says Abraham is going to sacrifice Ishmael, each person answers that if God commanded it, they should obey. Eventually, Abraham tells Ishmael about the order and Ishmael is willing to be sacrificed and encourages Abraham to listen to God. Often, Ishmael is portrayed as telling Abraham some combination of instructions to bring his shirt back to Hagar, bind him tightly, sharpen the knife, and place him face down, all so that there will be no wavering in the resolve to obey God.
+After having a water source some caravan tribes ask permission to settle in that area. Ishmael grows and Hagar finds him a wife from Egypt.
 
-As Abraham attempts to slay Ishmael, either the knife is turned over in his hand or copper appears on Ishmael to prevent the death and God tells Abraham that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm). Since the sacrifice of a ram cannot be greater than that of Abraham's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ishmael) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Abraham's sacrifice and to remind themselves of self-abnegation in the way of Allah. Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ishmael.
-
-The actions of Ishmael in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Abraham talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ishmael makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ishmael is a model of surrendering one's will to God, an essential characteristic in Islam.
-
-Though it is generally believed by modern Muslims that Ishmael was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ishmael.  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage. Arguments by early Muslim scholars for Ishmael as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ishmael, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time. In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ishmael in the Quran is that directly after the sacrifice narrative, Abraham is told of the coming of Isaac's birth, therefore, it must be Ishmael who was about to be sacrificed. However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac. Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
 </details>
 <details><summary>
 
@@ -1541,15 +1557,25 @@ Thus, Allah Almighty did not leave this sincere supplication unanswered and sent
 * Hajar and Zamzam
     The story that an angel comes to comfort Hajar is also mentioned in the Bible. it also says that Ishmael will have so many descendants that it will be difficult to count.
   
-  * Dream of sacrifice 🚸 🏔️ 🐑
-  * Building of Kaaba 🕋
     Ishmael and Isaac buried Ibrahim together
 </details>
 <details><summary>
 
-## Ibrahim sacrifices a sheep
+## Ibrahim sacrifices a sheep 🐑
 
 </summary>
+
+Muslims believe that Abraham was told to sacrifice his son, Ishmael, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries. Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art." Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ishmael over Isaac because he was the first child.
+
+Abraham sacrificing his son, Ishmael; Abraham cast into fire by Nimrod
+The general narrative pertaining to Ishmael in Islamic literature describes the sacrifice either as a test or as part of a vow. Some versions tell of the devil trying to stop God's command from being obeyed by visiting Hagar, Ishmael, and Abraham. Every time the devil says Abraham is going to sacrifice Ishmael, each person answers that if God commanded it, they should obey. Eventually, Abraham tells Ishmael about the order and Ishmael is willing to be sacrificed and encourages Abraham to listen to God. Often, Ishmael is portrayed as telling Abraham some combination of instructions to bring his shirt back to Hagar, bind him tightly, sharpen the knife, and place him face down, all so that there will be no wavering in the resolve to obey God.
+
+As Abraham attempts to slay Ishmael, either the knife is turned over in his hand or copper appears on Ishmael to prevent the death and God tells Abraham that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm). Since the sacrifice of a ram cannot be greater than that of Abraham's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ishmael) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Abraham's sacrifice and to remind themselves of self-abnegation in the way of Allah. Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ishmael.
+
+The actions of Ishmael in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Abraham talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ishmael makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ishmael is a model of surrendering one's will to God, an essential characteristic in Islam.
+
+Though it is generally believed by modern Muslims that Ishmael was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ishmael.  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage. Arguments by early Muslim scholars for Ishmael as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ishmael, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time. In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ishmael in the Quran is that directly after the sacrifice narrative, Abraham is told of the coming of Isaac's birth, therefore, it must be Ishmael who was about to be sacrificed. However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac. Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
+
 </details>
 <details>
     <summary>
@@ -5632,6 +5658,8 @@ The above report was declared Hasan Gharib by Tirmidhi. However, after mentionin
 <details>
 <summary>Unsorted drafts</summary>
 🌱🌴🌊🏜
+
+🚸🏔️
 
 devil is derived from Diabolos the root is from Iblis.
 Shatana - the one far away.
