@@ -1174,13 +1174,14 @@ The best answer to this issue is Allahu 'Alim, God knows best.
 
 </summary>
 
->**Ibrahim** plays an important role in Islam. Islam regards Abraham as a link in the chain of prophets that begins with Adam and culminates in Muhammad. Ibrāhīm is mentioned in 35 chapters of the Quran, more often than any other prophet apart from Moses. He is called both a hanif (monotheist) and muslim (one who submits), and Muslims regard him as a prophet and patriarch, the archetype of the perfect Muslim, and the revered reformer of the Kaaba in Mecca. Islamic traditions consider Ibrāhīm the first Pioneer of Islam (which is also called millat Ibrahim, the "religion of Abraham"), and that his purpose and mission throughout his life was to proclaim the Oneness of God. In Islam, Abraham holds an exalted position among the major prophets and he is referred to as "Ibrahim Khalilullah", meaning `Abraham the Beloved of God`.
+>**Ibrahim** plays an important role in Islam. Islam regards Abraham as a link in the chain of prophets that begins with Adam and culminates in Muhammad. Ibrāhīm is mentioned in 35 chapters of the Quran, more often than any other prophet apart from Moses. He is called both a hanif (monotheist) and muslim (one who submits), and Muslims regard him as a prophet and patriarch, the archetype of the perfect Muslim, and the revered reformer of the Kaaba in Mecca. Islamic traditions consider Ibrāhīm the first Pioneer of Islam (which is also called millat Ibrahim, the "religion of Abraham"), and that his purpose and mission throughout his life was to proclaim the Oneness of God. In Islam, Abraham holds an exalted position among the major prophets and he is referred to as "Ibrahim Khalilullah", meaning `Abraham the Beloved of God` or `Friend of God`.
 >
 > Besides Ishaq and Yaqub, Ibrahim is among the most honorable and the most excellent men in sight of God. Ibrahim was also mentioned in Quran as "Father of Muslims" and the role model for the community.
 >
-> Hajj was established by Ibrahim. Kurban sacrifice was established by the example of Ibrahim and his son. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people.
+> Hajj was established by Ibrahim. Kurban sacrifice was established by the example of Ibrahim and his son. The main mosque of Muslims the Kaaba was built by Ibrahim and his son. The Zamzam well was discovered to console Ibrahim's wife Hajar and their son Ismail. Ibrahim had two sons Iskhak and Ishmael. Iskhak became the father of Jewish people. Ismail helped Ibrahim to build the Kaaba and became the father of Arab people. And Ibrahim made a dua to have a righteous descendand and a prophet from Ismail, to which Allah answered by sending the prophet Muhammad ﷺ  .
 > 
 > Ibrahim is from Iraq, Hajar is from Egypt.
+> Accroding to Bible, Ishmael and Isaac buried Ibrahim together.
 
 Ibrahim was born in a house of idolaters in the ancient city of Ur of the Chaldees, likely the place called 'Ur' in present-day Iraq, in which case, the idolaters would have been practitioners of the hypothesized Ancient Mesopotamian religion.
 
@@ -1602,46 +1603,60 @@ The Black Stone was given to Ibrahim from Jannah to be placed on the corner of t
 The Black Stone carries greater importance, as according to an account, it is known that while Ibrahim AS was building the house of God, the Holy Kaaba, for spirituality and worship, it appeared that the stones to complete the wall were short. The Prophet Ibrahim sent his son Prophet Ismail AS to look for an appropriate stone to fit in the gap to finish the Holy wall of Kaaba. When he came back empty-handed, he noticed a shiny white colour stone already placed in the empty space. Ibrahim AS told him the unique stone was delivered to him by Jibreel.
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
-## Ibrahim sacrifices a sheep 🐑
+## Ibrahim sacrifices a ram 🐑
 
 </summary>
 
-Muslims believe that Ibrahim was told to sacrifice his son, Ismail, though the Qur'an does not mention the name of the son. The multiple versions suggest that the dhabih was originally an oral story that had been circulating before being written as it is in the Qur'an and in additional commentaries. Norman Calder explains, "oral narrative is marked by instability of form and detail from version to version, and by an appropriate creative flexibility which makes of every rendering a unique work of art." Each version is indeed a "unique work of art," differing from another in various ways to present certain ideas, such as the importance of Ismail over Isaac because he was the first child.
+Ismail and his mother lived in Mecca while Ibrahim would sometimes visit them. When Ismail grew to be a fine young man, Ibrahim had a dream:
 
-Ibrahim sacrificing his son, Ismail; Ibrahim cast into fire by Nimrod
-The general narrative pertaining to Ismail in Islamic literature describes the sacrifice either as a test or as part of a vow. Some versions tell of the devil trying to stop God's command from being obeyed by visiting Hajar, Ismail, and Ibrahim. Every time the devil says Ibrahim is going to sacrifice Ismail, each person answers that if God commanded it, they should obey. Eventually, Ibrahim tells Ismail about the order and Ismail is willing to be sacrificed and encourages Ibrahim to listen to God. Often, Ismail is portrayed as telling Ibrahim some combination of instructions to bring his shirt back to Hajar, bind him tightly, sharpen the knife, and place him face down, all so that there will be no wavering in the resolve to obey God.
+    When he was old enough to assist in his endeavour, he said, "My son! I see in dreams that I am sacrificing you. See what you think." He said, "Father! Do whatever you have been commanded. If Allah wishes, you will find me to be patient."
+
+When prophets dream of something, it is the same as revelation. Therefore, when Prophet Ibrahim has a dream that he is sacrificing his son, it is in fact God’s command. Besides, the dream was a means for testing Ibrahim.
+
+The story continues:
+
+    So when they had both surrendered [to Allah’s will], and he had laid him down on his forehead,
+    We called out to him, "O Abraham!
+    You have indeed fulfilled your vision! Thus indeed do We reward the virtuous!
+    This was indeed a manifest test."
+
+    Then We ransomed him with a great sacrifice,
+    and left for him a good name in posterity.
+
+According to Quranic commentators God sent a ram to be sacrificed in his stead. Therefore, people came to call Ismail Dhabīḥullāh, meaning the one sacrificed for Allah. Jews say that Isaac was the son of Ibrahim whom he wanted to sacrifice, but according to the Quran this is wrong. Even though Ismail’s name is not mentioned, God gives the good news of his birth by calling him a forbearing son in verse 101 of chapter 37. After the story of the sacrifice is told, in the next verses God gives Ibrahim the good news of the birth of Isaac:
+
+    "Peace be to Abraham!"
+    Thus do We reward the virtuous.
+    He is indeed one of Our faithful servants.
+    And We gave him the good news of [the birth of] Isaac, a prophet, one of the righteous.
+
+Therefore, the forbearing son that God gave the news of his birth first in verse 101 was Ismail as Ibrahim had only two sons, and verse 112 gives the good news of Isaac after telling the story of the sacrifice. As a result, it becomes clear that the forbearing son, that is, Ismail was the one who was to be sacrificed.
 
 As Ibrahim attempts to slay Ismail, either the knife is turned over in his hand or copper appears on Ismail to prevent the death and God tells Ibrahim that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm). Since the sacrifice of a ram cannot be greater than that of Ibrahim's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ismail) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Ibrahim's sacrifice and to remind themselves of self-abnegation in the way of Allah. Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ismail.
 
 The actions of Ismail in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Ibrahim talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ismail makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ismail is a model of surrendering one's will to God, an essential characteristic in Islam.
 
-Though it is generally believed by modern Muslims that Ismail was the son who was almost sacrificed, among scholars and historiographers of early Islam, there is much debate. There are such persuasive arguments for both, in fact, it is estimated that 131 traditions say Isaac was the son, while 133 say Ismail.  Such dispute over which son suggests that the story, and where and to whom it happens, is extremely important.  It is argued that the story originated from rabbinic texts and was adapted to Islam over time in order to give Mecca religious importance and connect the story with the pilgrimage. Arguments by early Muslim scholars for Ismail as the intended sacrifice include that Jews claim it is Isaac only because they are jealous that it was actually the ancestor of Arabs, Ismail, and that the horns of the ram that was sacrificed instead hung in the Kaaba at one time. In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ismail in the Quran is that directly after the sacrifice narrative, Ibrahim is told of the coming of Isaac's birth, therefore, it must be Ismail who was about to be sacrificed. However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac. Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
-
-*  Ishmael and Isaac buried Ibrahim together
+In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ismail in the Quran is that directly after the sacrifice narrative, Ibrahim is told of the coming of Isaac's birth, therefore, it must be Ismail who was about to be sacrificed. However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac. Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
 
 </details>
-<details>
-    <summary>
+<details><summary>
 
-## Yaqub (Jacob)
+## Yaqub -- Jacob and 12 Jewish tribes
 
 </summary>
-Jacob was later renamed to Israel.
+> Jacob was later renamed to Israel and became a father of 12 Jewish tribes.
 
 ### Yaqub in the Quran and Hadith
 
-Two further references to Isra'il (Arabic: إِسْرَآئِیل [ˈisraāˈiyl]; Classical/ Quranic Arabic: إِسْرَآءِیْل [ˈisraāãˈiyl]) are believed to be mention of Jacob. The Arabic form Ya'qūb (Arabic: يَعْقُوب, romanized: Yaʿqūb may be direct from the Hebrew or indirect through Syriac.
+Two further references to Isra'il ( إِسْرَآئِیل ; ) are believed to be mention of Jacob. The Arabic form Ya'qūb.
 
-He is recognized in Islam as a prophet who received inspiration from God. He is acknowledged as a patriarch of Islam. Muslims believe that he preached the same monotheistic faith as his forefathers ʾIbrāhīm, ʾIsḥāq and Ismā'īl. Jacob is mentioned 16 times in the Quran. In the majority of these references, Jacob is mentioned alongside fellow prophets and patriarchs as an ancient and pious prophet. According to the Quran, Jacob remained in the company of the elect throughout his life. (38:47) The Quran specifically mentions that Jacob was guided (6:84) and inspired (4:163) and was chosen to enforce the awareness of the Hereafter. (38:46) Jacob is described as a good-doer (21:72) and the Quran further makes it clear that God inspired Jacob to contribute towards purification and hold the contact prayer. (21:73) Jacob is further described as being resourceful and a possessor of great vision (38:45) and is further spoken of as being granted a "tongue [voice] of truthfulness to be heard." (19:50)
+He is recognized in Islam as a prophet who received inspiration from God. He is acknowledged as a patriarch of Islam. Muslims believe that he preached the same monotheistic faith as his forefathers ʾIbrāhīm, ʾIsḥāq and Ismā'īl. Yaqub is mentioned 16 times in the Quran. In the majority of these references, Yaqub is mentioned alongside fellow prophets and patriarchs as an ancient and pious prophet. According to the Quran, Yaqub remained in the company of the elect throughout his life. (38:47) The Quran specifically mentions that Yaqub was guided (6:84) and inspired (4:163) and was chosen to enforce the awareness of the Hereafter. (38:46) Yaqub is described as a good-doer (21:72) and the Quran further makes it clear that God inspired Yaqub to contribute towards purification and hold the contact prayer. (21:73) Yaqub is further described as being resourceful and a possessor of great vision (38:45) and is further spoken of as being granted a "tongue [voice] of truthfulness to be heard." (19:50)
 
-Of the life of Jacob, the Quran narrates two especially important events. The first is the role he plays in the story of his son Joseph. The Quran narrates the story of Joseph in detail, and Jacob, being Joseph's father, is mentioned thrice and is referenced another 25 times. In the narrative, Jacob does not trust some of his older sons (12: 11, 18, 23) because they do not respect him. (12: 8, 16–17) Jacob's prophetic nature is evident from his foreknowledge of Joseph's future greatness (12:6), his foreboding and response to the supposed death of Joseph (12: 13, 18) and in his response to the sons' plight in Egypt. (12: 83, 86–87, 96) Islamic literature fleshes out the narrative of Jacob, and mentions that his wives included Rachel. Jacob is later mentioned in the Quran in the context of the promise bestowed to Zechariah, regarding the birth of John the Baptist. (19:6) Jacob's second mention is in the Quran's second chapter. As Jacob lay on his deathbed, he asked his 12 sons to testify their faith to him before he departed from this world to the next. (2:132) Each son testified in front of Jacob that they would promise to remain Muslim (in submission to God) until the day of their death, that is they would surrender their wholeselves to God alone and would worship only Him.
+Of the life of Yaqub, the Quran narrates two especially important events. The first is the role he plays in the story of his son Yusuf. The Quran narrates the story of Yusuf in detail, and Yaqub, being Yusuf's father, is mentioned thrice and is referenced another 25 times. In the narrative, Yaqub does not trust some of his older sons (12: 11, 18, 23) because they do not respect him. (12: 8, 16–17) Yaqub's prophetic nature is evident from his foreknowledge of Yusuf's future greatness (12:6), his foreboding and response to the supposed death of Yusuf (12: 13, 18) and in his response to the sons' plight in Egypt. (12: 83, 86–87, 96) Islamic literature fleshes out the narrative of Yaqub, and mentions that his wives included Rachel. Yaqub is later mentioned in the Quran in the context of the promise bestowed to Zechariah, regarding the birth of John the Baptist. (19:6) Yaqub's second mention is in the Quran's second chapter. As Yaqub lay on his deathbed, he asked his 12 sons to testify their faith to him before he departed from this world to the next. (2:132) Each son testified in front of Yaqub that they would promise to remain Muslim (in submission to God) until the day of their death, that is they would surrender their wholeselves to God alone and would worship only Him.
 
-In contrast to the Judeo-Christian view of Jacob, one main difference is that the story of Jacob's blessing, in which he deceives Isaac, is not accepted in Islam. The Quran makes it clear that Jacob was blessed by God as a prophet and, therefore, Muslims believe that his father, being a prophet as well, also knew of his son's greatness. Jacob is also cited in the Hadith as an example of one who was patient and trusting in God in the face of suffering.
+In contrast to the Judeo-Christian view of Yaqub, one main difference is that the story of Yaqub's blessing, in which he deceives Isaac, is not accepted in Islam. The Quran makes it clear that Yaqub was blessed by God as a prophet and, therefore, Muslims believe that his father, being a prophet as well, also knew of his son's greatness. Yaqub is also cited in the Hadith as an example of one who was patient and trusting in God in the face of suffering.
 
 ### Yaqub in the Bible
 
@@ -1661,115 +1676,135 @@ As Isaac aged, he became blind and was uncertain when he would die, so he decide
 
 Rebecca overheard this conversation. It is suggested that she realized prophetically that Isaac's blessings would go to Jacob, since she was told before the twins' birth that the older son would serve the younger.
 
-The Bible tells the story of how Rebecca and Jacob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Ishak and Yaqub being prophets would not do so.
+The Bible tells the story of how Rebecca and Jacob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Iskhaq and Yaqub being prophets would not do so.
 
 </details>
-<details>
-    <summary>
+<details><summary>
 
-## Yusuf (Joseph)
+## Yusuf -- Joseph
 
 </summary>
 
-Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Arabic: يوسف ٱبن يعقوب ٱبن إسحاق ٱبن إبراهيم) (Joseph, son of Jacob, son of Isaac, son of Ibrahim) is a prophet mentioned in the Quran, and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom. It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Joseph was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Joseph is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Qur'an and bears more details than the Biblical counterpart.
+Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Joseph, son of Jacob, son of Isaac, son of Ibrahim) is a prophet mentioned in the Quran, and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom. It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Yusuf was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Yusuf is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Qur'an and bears more details than the Biblical counterpart.
 
-Yusuf is believed to have been the eleventh son of Yaqub (Arabic: يعقوب, Yaqub), and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Joseph." The story begins with Joseph revealing a dream he had to his father, which Jacob recognizes. In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
+Yusuf is believed to have been the eleventh son of Yaqub, and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Yusuf." The story begins with Yusuf revealing a dream he had to his father, which Jacob recognizes. In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
 
-The story of Joseph in the Qurʾān is a continuous narrative. There are more than one hundred verses, and in totality they encompass many years and "present an amazing variety of sciences and characters in a tightly-knit plot, and offer a dramatic illustration of some of the fundamental themes of the Qurʾān." The Qurʾān itself relates to the story's importance in the third verse: "and We narrate unto you aḥsanal-qaṣaṣ (Arabic: أحسن ٱلقصص, "best (or most beautiful) of stories")." Most scholars believe this is referring to Joseph's story, while others, including Ṭabari, argue it is a reference to the Qurʾān as a whole. It asserts and documents the execution of God's rulings despite the challenge of human intervention ("And Allah hath full power and control over His affairs; but most among mankind know it not").
+The story of Yusuf in the Qurʾān is a continuous narrative. There are more than one hundred verses, and in totality they encompass many years and "present an amazing variety of sciences and characters in a tightly-knit plot, and offer a dramatic illustration of some of the fundamental themes of the Qurʾān." The Qurʾān itself relates to the story's importance in the third verse: "and We narrate unto you aḥsanal-qaṣaṣ (Arabic: أحسن ٱلقصص, "best (or most beautiful) of stories")." Most scholars believe this is referring to Yusuf's story, while others, including Ṭabari, argue it is a reference to the Qurʾān as a whole. It asserts and documents the execution of God's rulings despite the challenge of human intervention (`And Allah hath full power and control over His affairs; but most among mankind know it not`).
 
 This is what the story of Yūsuf confirms categorically, for it ends with comfort and marvels, which is described in the Qurʾān. Along with the story there is also some commentary from some leading scholars of Islam.
 
-### Joseph before the dream
+### Yusuf before the dream
 
-Muhammad at-Ṭabari provides exquisite detail and commentary of this narrative in his chapter on Joseph relaying the opinions of well-known scholars. In Ṭabari's chapter, the physical beauty of Joseph and his mother Rahyl is introduced, in that they were said to have had "more beauty than any other human being." His father, Jacob, had given him to his oldest sister to be raised. Ṭabari comments that there was no greater love than what Joseph's aunt felt for him as she had raised him as her own. And she was very reluctant to give him back to Jacob and kept him until her death. The reason, according to Ṭabari, that she was able to do this was because of a belt that had been passed to her from her father, Isaac. Ṭabari notes "if someone else acquired it by guile from the person who was supposed to have it, then he would become absolutely subject to the will of the rightful owner." This is important because Joseph's aunt puts the belt on Joseph when Jacob is absent and then accuses Joseph of stealing it and he thus stays with her until her death. Jacob was very reluctant to give up Joseph and thus favors him when they are together. This is commentary but, as is the profession of commentators, this provides an interesting set up to Joseph's personal story and also lays a foundation for a future interaction with his brothers, particularly Benjamin.
+Muhammad at-Ṭabari provides exquisite detail and commentary of this narrative in his chapter on Yusuf relaying the opinions of well-known scholars. In Ṭabari's chapter, the physical beauty of Yusuf and his mother Rahyl is introduced, in that they were said to have had "more beauty than any other human being." His father, Yaqub, had given him to his oldest sister to be raised. Ṭabari comments that there was no greater love than what Yusuf's aunt felt for him as she had raised him as her own.
 
 ### The dream
 
-The story begins with a dream and ends with its interpretation. As the sun appeared over the horizon, bathing the earth in its morning glory, Joseph, son of Jacob awoke from his sleep, delighted by a pleasant dream he had. Filled with excitement he ran to his father and reported what he had seen.
+The story begins with a dream and ends with its interpretation. As the sun appeared over the horizon, bathing the earth in its morning glory, Yusuf, son of Yaqub awoke from his sleep, delighted by a pleasant dream he had. Filled with excitement he ran to his father and reported what he had seen.
 
     Yusuf said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!
     Qur'an 12:4
 
-According to Ibn Kathir, Jacob knew that Joseph would someday become extremely important and would be in a high position, both in this world and the next—he recognized that the stars represented his brothers and the sun and moon represented himself and Joseph's mother, Rachel. Jacob advised Joseph to keep the dream to himself in order to protect him from the jealousy of his brothers, who were already unhappy about the love Jacob felt for Joseph. Ya'qub foresaw that Yusuf would be one through whom the prophecy of his grandfather, Ibrahim (Ibrahim), would be fulfilled, in that his offspring would keep the light of Ibrahim's house alive and spread God's message to mankind. Abu Ya'ala interpreted Jacob's reaction as an understanding that the planets, sun and moon bowing to Joseph representing "something dispersed which God united."
+According to Ibn Kathir, Yaqub knew that Yusuf would someday become extremely important and would be in a high position, both in this world and the next — he recognized that the stars represented his brothers and the sun and moon represented himself and Yusuf's mother, Rachel. Yaqub advised Yusuf to keep the dream to himself in order to protect him from the jealousy of his brothers, who were already unhappy about the love Yaqub felt for Yusuf. Ya'qub foresaw that Yusuf would be one through whom the prophecy of his grandfather, Ibrahim (Abraham), would be fulfilled, in that his offspring would keep the light of Ibrahim's house alive and spread God's message to mankind. Abu Ya'ala interpreted Yaqub's reaction as an understanding that the planets, sun and moon bowing to Yusuf representing "something dispersed which God united."
 
-    Ya'qub told Yusuf: "My son, relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is a clear enemy to humanity. Thus your Lord has selected you and given you knowledge to interpret reports, and has perfected his blessing upon you and upon the family of Jacob just as he perfected it on your forefathers before: Ibrahim and Is-haq (Isaac). Your Lord is Knowing, Wise" (Qur'an, Surah 12 (Yusuf) Ayat 5-6).
+    Ya'qub told Yusuf: "My son, relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is a clear enemy to humanity. Thus your Lord has selected you and given you knowledge to interpret reports, and has perfected his blessing upon you and upon the family of Yaqub just as he perfected it on your forefathers before: Ibrahim and Is-haq (Isaac). Your Lord is Knowing, Wise" 
+    Qur'an, Surah 12 (Yusuf) Ayat 5-6
 
-Joseph did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Joseph and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.
+Yusuf did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Yusuf and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.
 
-Joseph was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (Arabic: حديث, 'narration'):
+Yusuf was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (Arabic: حديث, 'narration'):
 
 Narrated Abu Huraira 🐈:
-Some people asked the Prophet: "Who is the most honorable amongst the people?" He replied, "The most honorable among them is the one who is the most Allah-fearing." They said, "O Prophet of Allah! We do not ask about this." He said, "Then the most honorable person is Yusuf, Nabiyyullah (Arabic: نبي الله, Prophet of Allah), the son of a Nabiyyillah, the son of a Nabiyyillah, the son of Khalilillah (Arabic: خليل الله, "Friend of Allah")."
-— Sahih al-Bukhari collected by Muhammad al-Bukhari
+> Some people asked the Prophet ﷺ  : "Who is the most honorable amongst the people?" He replied, "The most honorable among them is the one who is the most Allah-fearing." They said, "O Prophet of Allah! We do not ask about this." He said, "Then the most honorable person is Yusuf, Nabiyyullah (Arabic: نبي الله, Prophet of Allah), the son of a Nabiyyillah, the son of a Nabiyyillah, the son of Khalilillah (Arabic: خليل الله, "Friend of Allah")."
+> — Sahih al-Bukhari collected by Muhammad al-Bukhari
 
-### The plot against Joseph
+### Plot against Yusuf
 
-Selling Joseph as a slave. Painting in Takieh Moaven ol molk, Kermanshah, Iran
-The Qurʾān continues with Joseph's brothers plotting to kill him. It relates: "in Joseph and his brothers are signs for those who seek answers. When Joseph's brother said about him: "He is more loved by our father than we are, and we are a group. Our father is in clear error. Let us kill Joseph or cast him to the ground, so that the face of your father will be toward you, and after him you will be a community of the truthful."
+The Qurʾān continues with Yusuf's brothers plotting to kill him. It relates: "in Yusuf and his brothers are signs for those who seek answers. When Yusuf's brother said about him: "He is more loved by our father than we are, and we are a group. Our father is in clear error. Let us kill Yusuf or cast him to the ground, so that the face of your father will be toward you, and after him you will be a community of the truthful."
 
-But one of the brothers argued against killing him and suggested they throw him into a well, said to be Jubb Yusif (Arabic: جب يوسف, "Well of Joseph"), so that a caravan might pick him up and take him into slavery. Mujahid, a scholar, says that it was Simeon and Suddi says it was Judah while Qatadah and Ibn Is-haq says that it was the eldest, Ruben. Said one of them: "Slay not Joseph, but if ye must do something, throw him down to the bottom of the well: he will be picked up by some caravan of travellers."
+But one of the brothers argued against killing him and suggested they throw him into a well, said to be Jubb Yusif ( جب يوسف, "Well of Yusuf"), so that a caravan might pick him up and take him into slavery. Mujahid, a scholar, says that it was Simeon and Suddi says it was Judah while Qatadah and Ibn Is-haq says that it was the eldest, Ruben. Said one of them: "Slay not Yusuf, but if ye must do something, throw him down to the bottom of the well: he will be picked up by some caravan of travellers."
 
-Killing Joseph because of jealousy would have been extreme, but scholars also suggested that Joseph was fairly young when he was thrown into the well, as young as twelve. He would live to be 110 or 120.
+Killing Yusuf because of jealousy would have been extreme, but scholars also suggested that Yusuf was fairly young when he was thrown into the well, as young as twelve. He would live to be 110 or 120.
 
-The brothers asked their father to let them take Joseph out to the desert to play and promised to watch him. Jacob, not thrilled with the idea knowing how much the brothers disliked Joseph, hesitated. Ṭabari comments that Jacobs's excuse was that a dhi'b (Arabic: ذئب, wolf) might hurt him. But the brothers insisted. When they had Joseph alone they threw him into a well and left him there, They returned with a blood stained shirt and lied that he had been attacked by a wolf, but their father did not believe them, as he was a sincere man who loved his son.
+The brothers asked their father to let them take Yusuf out to the desert to play and promised to watch him. Yaqub, not thrilled with the idea knowing how much the brothers disliked Yusuf, hesitated. Ṭabari comments that Yaqubs's excuse was that a dhi'b (Arabic: ذئب, wolf) might hurt him. But the brothers insisted. When they had Yusuf alone they threw him into a well and left him there, They returned with a blood stained shirt and lied that he had been attacked by a wolf, but their father did not believe them, as he was a sincere man who loved his son.
 
 The Qur'an says:
 
-    They said: "O our father! why dost thou not trust us with Joseph,- seeing we are indeed his sincere well-wishers?
+    They said: "O our father! why dost thou not trust us with Yusuf, -- seeing we are indeed his sincere well-wishers?
     Send him with us tomorrow to enjoy himself and play, and we shall take every care of him."
-    (Jacob) said: "Really it saddens me that ye should take him away: I fear lest the wolf should devour him while ye attend not to him."
+
+    (Yaqub) said: "Really it saddens me that ye should take him away: I fear lest the wolf should devour him while ye attend not to him."
     They said: "If the wolf were to devour him while we are (so large) a party, then should we indeed (first) have perished ourselves!"
-    So they did take him away, and they all agreed to throw him down to the bottom of the well: and We put into his heart (this Message): 'Of a surety thou shalt (one day) tell them the truth of this their affair while they know (thee) not'
+    
+    So they did take him away, and they all agreed to throw him down to the bottom of the well: and We put into his heart (this Message): "Of a surety thou shalt (one day) tell them the truth of this their affair while they know (thee) not"
+
     Then they came to their father in the early part of the night, weeping.
-    They said: "O our father! We went racing with one another, and left Joseph with our things; and the wolf devoured him.... But thou wilt never believe us even if we tell the truth."
+    They said: "O our father! We went racing with one another, and left Yusuf with our things; and the wolf devoured him.... But thou wilt never believe us even if we tell the truth."
+
     They stained his shirt with false blood. He said: "Nay, but your minds have made up a tale (that may pass) with you, (for me) patience is most fitting: Against that which ye assert, it is Allah (alone) Whose help can be sought"...
     Qur'an, Surah 12 (Yusuf) Ayat 11-18
 
-Ṭabari comments that Judah stopped the brothers from causing more harm to Joseph, and that he would bring him food. Ibn Kathir comments that Reuben suggested that they put him in the pit so that he might return later to bring him home. But when he returned, he found Joseph gone. "So he screamed and tore his clothes. He put blood on the coat of Joseph. When Jacob learned of this, he tore his clothes, wore a black cloak, and was sad for many days." Ibn 'Abbas writes that the "reason for this trial of Jacob was that he had slaughtered a sheep while he was fasting. He asked a neighbor of his to eat it but he did not. So God tested him with the matter of Joseph." The section that describes Joseph's revelation in the well is interpreted by Ibn 'Abbas: "When they were unaware" (12:15) means "you will tell them about what they did in a situation in which they will not recognize you." This is yet more foreshadowing. A possible reason for his enslavement was that after Ibrahim had left Egypt he took slaves with him but "Ibrahim did not dismount for them (following barefoot). Therefore God revealed to him: "Since you did not alight for the slaves and those walking barefoot with you, I will punish you by selling one of your descendants into his country.
+Ṭabari comments that Judah stopped the brothers from causing more harm to Yusuf, and that he would bring him food. Ibn Kathir comments that Reuben suggested that they put him in the pit so that he might return later to bring him home. But when he returned, he found Yusuf gone. "So he screamed and tore his clothes. He put blood on the coat of Yusuf. When Yaqub learned of this, he tore his clothes, wore a black cloak, and was sad for many days. 
 
-### God's plan to save Joseph
+### God's plan to save Yusuf
 
-A passing caravan took Joseph. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (Arabic: مصر, Egypt), to a rich man referred to as "Al-'Aziz" (Arabic: ٱلعزيز, "Great One", "Nobleman") in the Qur'an, or Potiphar in the Bible. ʿAzīz is also known as Qatafir or Qittin. Joseph was taken into 'Aziz's home who told his wife to treat him well.
+A passing caravan took Yusuf. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (مصر, Egypt), to a rich man referred to as "Al-'Aziz" ( ٱلعزيز, "Great One", "Nobleman") in the Qur'an, or Potiphar in the Bible. ʿAzīz is also known as Qatafir or Qittin. Yusuf was taken into 'Aziz's home who told his wife to treat him well.
 
     Then there came a caravan of travellers: they sent their water-carrier (for water), and he let down his bucket (into the well)...He said: "Ah there! Good news! Here is a (fine) young man!" So they concealed him as a treasure. But Allah knoweth well all that they do.
+
     The (Brethren) sold him for a miserable price, for a few dirhams counted out: in such low estimation did they hold him!
-    The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: maybe he will bring us much good, or we shall adopt him as a son." Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
-    When Joseph attained His full manhood, We gave him power and knowledge: thus do We reward those who do right.
+    
+    The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: maybe he will bring us much good, or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
+
+    When Yusuf attained His full manhood, We gave him power and knowledge: thus do We reward those who do right.
     Qur'an, Surah 12 (Yusuf) Ayat 19-22
 
-This is the point of the story that many scholars of Islam report as being central (contrasting to other religious traditions) to Joseph's story. Under ʿAzīz Misr (Arabic: عزيز مصر, "The Dear One of Egypt"), Joseph moves to a high position in his household. Later, the brothers would come to Egypt but would not recognize Joseph but called him by the same title, "al-ʿAzīz."
+This is the point of the story that many scholars of Islam report as being central (contrasting to other religious traditions) to Yusuf's story. Under ʿAzīz Misr (عزيز مصر, "The Dear One of Egypt"), Yusuf moves to a high position in his household. Later, the brothers would come to Egypt but would not recognize Yusuf but called him by the same title, "al-ʿAzīz."
 
-While working for 'Aziz, Joseph grew to be a man. He was constantly approached by the wife of 'Aziz (Imra'at al-'Aziz, presumably Zulayka or Zuleika) (variations include 'Zulaykhah' and 'Zulaikhah' as well) who intended to seduce him. Tabari and others are not reticent to point out that Joseph was mutually attracted to her. Ṭabari writes that the reason he did not succumb to her was because when they were alone the "figure of Jacob appeared to him, standing in the house and biting his fingers …" and warned Joseph not to become involved with her. Ṭabari, again, says "God turned him away from his desire for evil by giving him a sign that he should not do it." It is also said that after the death of ʿAzīz, Joseph married Zolayḵā.
+While working for 'Aziz, Yusuf grew to be a man. He was constantly approached by the wife of 'Aziz (Imra'at al-'Aziz, presumably Zulayka or Zuleika) who intended to seduce him. Tabari and others are not reticent to point out that Yusuf was mutually attracted to her. Ṭabari, again, says "God turned him away from his desire for evil by giving him a sign that he should not do it." It is also said that after the death of ʿAzīz, Yusuf married Zolayḵā.
 
     But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: "Now come, thou (dear one)!" He said: "Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!"
+
     And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
     Qur'an, Surah 12 (Yusuf) Ayat 23-24
 
-Zolayḵā is said to have then ripped the back of Joseph's shirt and they raced with one another to the door where her husband was waiting. At that point she attempted to blame Joseph and suggested that he had attacked her. However, Joseph said that it was Zolayḵā who had attempted to seduce him and his account is confirmed by one of the household. 'ʿAzīz believed Joseph and told his wife to beg forgiveness." One member of the family, it is disputed who (perhaps a cousin) told ʿAzīz to check the shirt. If it was torn in the front than Joseph was guilty and his wife innocent but if it was torn in the back, Joseph was innocent and his wife guilty. It was torn in the back so ʿAzīz reprimands his wife for lying.
+Zolayḵā is said to have then ripped the back of Yusuf's shirt and they raced with one another to the door where her husband was waiting. At that point she attempted to blame Yusuf and suggested that he had attacked her. However, Yusuf said that it was Zolayḵā who had attempted to seduce him and his account is confirmed by one of the household. 'ʿAzīz believed Yusuf and told his wife to beg forgiveness." One member of the family, it is disputed who (perhaps a cousin) told ʿAzīz to check the shirt. If it was torn in the front than Yusuf was guilty and his wife innocent but if it was torn in the back, Yusuf was innocent and his wife guilty. It was torn in the back so ʿAzīz reprimands his wife for lying.
 
-Zuleikha's circle of friends thought that she was becoming infatuated with Joseph and mocked her for being in love with a slave. She invited them to her home and gave them all apples, and knives to peel them with. She then had Joseph walk through and distract the women who cut themselves with the knives. Zuleikha then pointed out that she had to see Joseph every day.
+Zuleikha's circle of friends thought that she was becoming infatuated with Yusuf and mocked her for being in love with a slave. She invited them to her home and gave them all apples, and knives to peel them with. She then had Yusuf walk through and distract the women who cut themselves with the knives. Zuleikha then pointed out that she had to see Yusuf every day.
 
-Joseph prayed to God and said that he would prefer prison to the things that Zolayḵā and her friends wanted. According to Ṭabari, some time later, even though ʿAzīz knew that Joseph was innocent, he "grew disgusted with himself for having let Joseph go free … It seemed good to them to imprison him for a time." It is possible that Zolayḵā had influence here, rebuking her husband for having her honor threatened.
+Yusuf prayed to God and said that he would prefer prison to the things that Zolayḵā and her friends wanted. According to Ṭabari, some time later, even though ʿAzīz knew that Yusuf was innocent, he "grew disgusted with himself for having let Yusuf go free … It seemed good to them to imprison him for a time." It is possible that Zolayḵā had influence here, rebuking her husband for having her honor threatened.
 
-The account of Joseph and the wife of 'Aziz is called "Yusuf and Zulaikha," and has been told and retold countless times in many languages. The Qur'anic account differs from the Biblical version in which Potiphar believes his wife and throws Joseph into prison.
+The account of Yusuf and the wife of 'Aziz is called "Yusuf and Zulaikha," and has been told and retold countless times in many languages. The Qur'anic account differs from the Biblical version in which Potiphar believes his wife and throws Yusuf into prison.
 
-### Joseph interprets dreams
+### Yusuf interprets dreams
 
-This account refers to the interaction between Joseph and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Joseph refers to the Egyptian ruler as a malik (Arabic: ملك, 'king'), not a fir'aun (Arabic: فرعون, 'pharaoh'). After Joseph had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Joseph's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Qur'an or the Bible – and his family. Joseph asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Joseph reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Joseph then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.
+This account refers to the interaction between Yusuf and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Yusuf refers to the Egyptian ruler as a malik (ملك, 'king'), not a fir'aun (فرعون, 'pharaoh'). After Yusuf had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Yusuf's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Qur'an or the Bible – and his family. Yusuf asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Yusuf reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Yusuf then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.
 
-Joseph had asked the one whom he knew would be released (Ṭabari writes that his name was Nabu) to mention his case to the king. When asked about his time in prison, Ṭabari reports that Muhammad said: "If Joseph had not said that—meaning what he said (to Nabu)—he would not have stayed in prison as long as he did because he sought deliverance from someone other than God."
+Yusuf had asked the one whom he knew would be released (Ṭabari writes that his name was Nabu) to mention his case to the king. When asked about his time in prison, Ṭabari reports that prophet Muhammad ﷺ   said: "If Yusuf had not said that—meaning what he said (to Nabu)—he would not have stayed in prison as long as he did because he sought deliverance from someone other than God."
 
-The king had a dream of seven fat cows being eaten by seven skinny ones and seven ears of corn being replaced with shriveled ones, and he was terrified. None of his advisors could interpret it. When the servant who was released from prison heard about it, he remembered Joseph from prison and persuaded the king to send him to Joseph so that he could return with an interpretation. Joseph told the servant that Egypt would face seven years of prosperity and then suffer seven years of famine and that the king should prepare for it so as to avoid great suffering.
+The king had a dream of seven fat cows being eaten by seven skinny ones and seven ears of corn being replaced with shriveled ones, and he was terrified. None of his advisors could interpret it. When the servant who was released from prison heard about it, he remembered Yusuf from prison and persuaded the king to send him to Yusuf so that he could return with an interpretation. Yusuf told the servant that Egypt would face seven years of prosperity and then suffer seven years of famine and that the king should prepare for it so as to avoid great suffering.
 
-Scholars debate as to whether Joseph agreed to interpret the dream right away or if he declared that his name should be cleared in the house of ʿAzīz first. Ṭabari notes that when the messenger came to Joseph and invited him to come to the king, Joseph replied "Go back to your lord and ask him about the case of the women who cut their hands. My lord surely knows their guile." Ibn Kathir agrees with Ṭabari saying that Joseph sought "restitution for this in order that ʿAzīz might know that he was not false to him during his absence" and that Zolayḵā eventually confessed that nothing happened between them. Ṭabari inserts an interesting interaction between Joseph and the angel Gabriel in which Gabriel helps Joseph both gain his freedom and admit to his own desires.
+Scholars debate as to whether Yusuf agreed to interpret the dream right away or if he declared that his name should be cleared in the house of ʿAzīz first. Ṭabari notes that when the messenger came to Yusuf and invited him to come to the king, Yusuf replied "Go back to your lord and ask him about the case of the women who cut their hands. My lord surely knows their guile." Ibn Kathir agrees with Ṭabari saying that Yusuf sought "restitution for this in order that ʿAzīz might know that he was not false to him during his absence" and that Zolayḵā eventually confessed that nothing happened between them. Ṭabari inserts an interesting interaction between Yusuf and the angel Gabriel in which Gabriel helps Yusuf both gain his freedom and admit to his own desires.
 
-Joseph said, "What you cultivate during the next seven years, when the time of harvest comes, leave the grains in their spikes, except for what you eat. After that, seven years of drought will come, which will consume most of what you stored for them. After that, a year will come that brings relief for the people, and they will, once again, press juice." (Qur'an, 12:47-49) Joseph was brought to king and interpreted the dream.
+Yusuf was brought to king and interpreted the dream.
 
-When he became aware of Yusuf's innocence, the king said, "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted."" (Quran 12:54) Upon speaking with Yusuf, the king recognized his virtues, great ability, brilliance, good conduct and perfect mannerisms. Yusuf said, "Set me over the storehouses of the land; I will indeed guard them with full knowledge" (Quran 12:55). Thus Yusuf asked the king to appoint him as Minister of Finance.
+    Yusuf said, "What you cultivate during the next seven years, when the time of harvest comes, leave the grains in their spikes, except for what you eat. After that, seven years of drought will come, which will consume most of what you stored for them. After that, a year will come that brings relief for the people, and they will, once again, press juice." 
+    Qur'an, 12:47-49 
+
+    When he became aware of Yusuf's innocence, the king said, "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted." 
+    Quran 12:54 
+
+Upon speaking with Yusuf, the king recognized his virtues, great ability, brilliance, good conduct and perfect mannerisms. 
+
+    Yusuf said, "Set me over the storehouses of the land; I will indeed guard them with full knowledge" 
+    Quran 12:55
+
+Thus Yusuf asked the king to appoint him as Minister of Finance.
 
 ### Use of "king" versus "pharaoh"
 
-In the Qur'an, the title of the Ruler of Egypt during the time of Joseph is specifically said to be "the King" (Arabic: al-Malik) whilst the Ruler of Egypt during the time of Moses is specifically said to be "Pharaoh" (Arabic: Firaun, though as a name without the definite article). This is interesting because according to historical sources, the title Pharaoh only began to be used to refer to the rulers of Egypt (starting with the rule of Thutmose III) in 1479 BCE - approximately 21 years after the prophet Joseph died. But in the narration of Yusuf in the Bible, the titles King (Hebrew: Melekh) and Pharaoh are used interchangeably for the ruler of Egypt in Genesis chapters 39-41.
+In the Qur'an, the title of the Ruler of Egypt during the time of Yusuf is specifically said to be "the King" (Arabic: al-Malik) whilst the Ruler of Egypt during the time of Moses is specifically said to be "Pharaoh" (Arabic: Firaun, though as a name without the definite article). This is interesting because according to historical sources, the title Pharaoh only began to be used to refer to the rulers of Egypt (starting with the rule of Thutmose III) in 1479 BCE - approximately 21 years after the prophet Yusuf died. But in the narration of Yusuf in the Bible, the titles King (Hebrew: Melekh) and Pharaoh are used interchangeably for the ruler of Egypt in Genesis chapters 39-41.
+
+This proves that the Quran is accurate and fixes error that were incorporated into the Bible by various sources.
 
     The Malik (of Egypt) said: "I do see (in a vision) seven fat kine, whom seven lean ones devour, and seven green ears of corn, and seven (others) withered. O ye chiefs! expound to me my vision, if it be that ye can interpret visions."
     Qur'an, Surah 12 (Yusuf), Ayah 43
@@ -1780,41 +1815,38 @@ In the Qur'an, the title of the Ruler of Egypt during the time of Joseph is spec
     And the Malik said: "Bring him to me." But when the messenger came to him, He (Yusuf) said: "Return to your lord and ask him, 'What happened to the women who cut their hands? Surely, my Lord (Allah) is Well-Aware of their plot.
     Qur'an, Surah 12 (Yusuf), Ayah 50
     
-    And Joseph's master took him, and put him into the prison, the place where the king's prisoners were bound; and he was there in the prison.
-    Genesis 39:20
-    
-    And Joseph was thirty years old when he stood before Pharaoh king of Egypt.--And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
-    Genesis 41:46
-    
-    And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
-    Genesis 47:11
+> And Joseph's master took him, and put him into the prison, the place where the king's prisoners were bound; and he was there in the prison.
+> Genesis 39:20
+   
+> And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
+> Genesis 41:46
+  
+> And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
+> Genesis 47:11
 
 ### The Family Reunion
 
-Joseph became extremely powerful. Ibn Kathir relates that the king of Egypt had faith in Joseph and that the people loved and revered him. It is said that Joseph was 30 when he was summoned to the king. "The king addressed him in 70 languages, and each time Joseph answered him in that language." Ibn Is-haq comments, "the king of Egypt converted to Islam at the hands of Joseph."
+Yusuf became extremely powerful. Ibn Kathir relates that the king of Egypt had faith in Yusuf and that the people loved and revered him. It is said that Yusuf was 30 when he was summoned to the king. "The king addressed him in 70 languages, and each time Yusuf answered him in that language." Ibn Is-haq comments, "the king of Egypt converted to Islam at the hands of Yusuf."
 
-Joseph's brothers, in the meantime, had suffered while the people of Egypt prospered under Joseph's guidance. Jacob and his family were hungry and the brothers went to Egypt, unaware that Joseph was there and in such a high position. Joseph gave them what they needed but questions them and they reveal that there were once twelve of them. They lie and say that the one most loved by their father, meaning Joseph, died in the desert. Joseph tells them to bring Benjamin, the youngest, to him. They return home to Jacob and persuade him to let Benjamin accompany them in order to secure food. Jacob insists that they bring Benjamin back—and this time the brothers are honest when they swear to it. According to Ibn Kathir, Jacob ordered the brothers to use many gates when returning to Egypt because they were all handsome. The Qurʾān itself elaborates that Jacob sensed Joseph.
+Yusuf's brothers, in the meantime, had suffered while the people of Egypt prospered under Yusuf's guidance. Yaqub and his family were hungry and the brothers went to Egypt, unaware that Yusuf was there and in such a high position. Yusuf gave them what they needed but questions them and they reveal that there were once twelve of them. They lie and say that the one most loved by their father, meaning Yusuf, died in the desert. Yusuf tells them to bring Benjamin, the youngest, to him. They return home to Yaqub and persuade him to let Benjamin accompany them in order to secure food. Yaqub insists that they bring Benjamin back—and this time the brothers are honest when they swear to it. According to Ibn Kathir, Yaqub ordered the brothers to use many gates when returning to Egypt because they were all handsome. The Qurʾān itself elaborates that Yaqub sensed Yusuf.
 
-When the brothers return with Benjamin, Joseph reveals himself to Benjamin. He then gives the brothers the supplies he promised but also put the king's cup into one of the bags. He then proceeds to accuse them of stealing, which the brothers deny. Joseph informs them that whoever it was who stole the cup will be enslaved to the owner and the brothers agree, not realizing the plot against them. Ṭabari reports that the cup was found in Benjamin's sack.
+When the brothers return with Benjamin, Yusuf reveals himself to Benjamin. He then gives the brothers the supplies he promised but also put the king's cup into one of the bags. He then proceeds to accuse them of stealing, which the brothers deny. Yusuf informs them that whoever it was who stole the cup will be enslaved to the owner and the brothers agree, not realizing the plot against them. Ṭabari reports that the cup was found in Benjamin's sack.
 
-After much discussion and anger, the brothers try to get Benjamin released by offering themselves instead—for they must keep their promise to their father. Reuben stays behind with Benjamin in order to keep his promise to his father. When the other brothers inform Jacob of what has happened, Jacob does not believe them and becomes blind after crying much over the disappearance of his son. Forty years had passed since Joseph was taken from his father, and Jacob had held it in his heart. Jacob sends the brothers back to find out about Benjamin and Joseph. Upon their return Joseph reveals himself to his brothers and gives them one of his shirts to give to Jacob.
+After much discussion and anger, the brothers try to get Benjamin released by offering themselves instead — for they must keep their promise to their father. Reuben stays behind with Benjamin in order to keep his promise to his father. When the other brothers inform Yaqub of what has happened, Yaqub does not believe them and becomes blind after crying much over the disappearance of his son. Forty years had passed since Yusuf was taken from his father, and Yaqub had held it in his heart. Yaqub sends the brothers back to find out about Benjamin and Yusuf. Upon their return Yusuf reveals himself to his brothers and gives them one of his shirts to give to Yaqub.
 
-When Jacob receives the shirt, this time as good news, Jacob lays it on his face and regains his vision. He says `Did I not tell you that I know from God what you do not know?` (12:96). Ṭabari says that this means that "from the truth of the interpretation of Joseph's dream in which he saw eleven planets and the sun and the moon bowing down to him, he knew that which they did not know."
+When Yaqub receives the shirt, this time as good news, Yaqub lays it on his face and regains his vision. He says `Did I not tell you that I know from God what you do not know?` (12:96). Ṭabari says that this means that "from the truth of the interpretation of Yusuf's dream in which he saw eleven planets and the sun and the moon bowing down to him, he knew that which they did not know."
 
-Joseph was reunited with his family, and his dream as a child came true as he saw his parents and eleven of his brothers prostrating before him in love, welcome and respect. Ibn Kathir mentions that his mother had already died but there are some who argue that she came back to life.Ṭabari says that she was alive. Joseph eventually died in Egypt. Tradition holds that when Musa (Moses) left Egypt, he took Joseph's coffin with him so that he would be buried alongside his ancestors in Canaan.
+Yusuf was reunited with his family, and his dream as a child came true as he saw his parents and eleven of his brothers prostrating before him in love, welcome and respect. Ibn Kathir mentions that his mother had already died. Ṭabari says that she was alive. Yusuf eventually died in Egypt.
 
-### Death and burial
-
-It is hard to find sources that consistently agree on the actual dates of Joseph's life. Scholars tend to see the story as a way for the descendants of Ibrahim to find their way to Egypt. Joseph is the reason the Israelites move to Egypt, which then allows for the story of Moses and the Exodus from Egypt to take place.
-
-Historically, some Muslims also associated Joseph's Tomb with that of the biblical figure[citation needed]. In recent years however, they[by whom?] claim that an Islamic cleric, Sheikh Yussuf (Joseph) Dawiqat, was buried there two centuries ago. According to Islamic tradition, the biblical Joseph is buried in Hebron, next to the Cave of the Patriarchs where a medieval structure known as Yussuf-Kalah, the "Castle of Joseph", is located.
+It is hard to find sources that consistently agree on the actual dates of Yusuf's life. Scholars tend to see the story as a way for the descendants of Ibrahim to find their way to Egypt. Yusuf is the reason the Israelites move to Egypt, which then allows for the story of Moses and the Exodus from Egypt to take place.
 
 </details>
 
-<details>
-    <summary>
+# PROFREADINGPRROFREADINGPROOFREADING
 
-## Ayyub (Job)
+<details><summary>
+
+## Ayyub -- Job
 
 </summary>
 
@@ -1863,7 +1895,7 @@ Musa is also viewed as a very important figure in Islam due to his reception of 
 
 ### Childhood
 
-According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Joseph). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. (Other stories says that the Pharaoh dreams of a little boy who catches the Pharaoh's crown and destroys it, although there is no authentic Islamic reference to whether the dreams actually occurred.) When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
+According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Yusuf). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. (Other stories says that the Pharaoh dreams of a little boy who catches the Pharaoh's crown and destroys it, although there is no authentic Islamic reference to whether the dreams actually occurred.) When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
 
 ### On the Nile
 
