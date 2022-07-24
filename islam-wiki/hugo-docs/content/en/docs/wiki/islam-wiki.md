@@ -16,7 +16,7 @@ author: fanil
 -->
 
 <details>
-<summary style="color: #878686fc; font-size: 14px;">DISCLAIMER!</summary>
+<summary style="color: #878686fc; font-size: 14px; text-align: right;">DISCLAIMER!</summary>
 
 > Assalamu Aleikum (Peace be upon you), 
 > 
@@ -26,7 +26,7 @@ author: fanil
 > 
 > Allahu Alim. Only God knows the ultimate truth. Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources including Wikipedia.
 > 
-> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time without providing the original source.
+> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time without providing the original source. I am personally not an Islamic scholar, so I tried to stick to aforementioned sources.
 > 
 > Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
 > 
@@ -387,6 +387,8 @@ This verse does not just tell us that the universe has expanded. The arabic ‘l
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
 * [Just to realize how small we are](https://www.youtube.com/watch?v=Iy7NzjCmUf0)
+* [Sheikh Yasir Qadhi on Adam and theory of evolution](https://www.youtube.com/watch?v=vAljUIFEtcE&list=PLYZxc42QNctXcCQZyZs48hAN90YJgnOnJ&index=31)
+
   
 </details>
 <details><summary>
@@ -1841,32 +1843,110 @@ Yusuf was reunited with his family, and his dream as a child came true as he saw
 It is hard to find sources that consistently agree on the actual dates of Yusuf's life. Scholars tend to see the story as a way for the descendants of Ibrahim to find their way to Egypt. Yusuf is the reason the Israelites move to Egypt, which then allows for the story of Moses and the Exodus from Egypt to take place.
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
 ## Ayyub -- Job
 
 </summary>
 
-Ayyub (Job) came after Yusuf. The Quran describes Job as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Job never lost faith in God and forever called to God in prayer, asking Him to remove his affliction:
+Ayyub (Job) came after Yusuf. The Quran describes Ayyub as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Ayyub never lost faith in God and forever called to God in prayer.
 
-    And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." 
+Ibn Ishâq said that the Prophet Ayyub (Job) was Roman. His lineage was Ayyub Ibn Moos Ibn Razih Ibn ‛Ees ibn Ishaq Ibn Ibraheem (may the Peace and Blessings of Allah be upon them all).
+
+However, others said that his lineage was Ayyub ibn Moos ibn Ra‛ooeel ibn ‛Ees ibn Ishâq ibn Ya’qoob (may the Peace and Blessings of Allah be upon them all).
+
+Ibn Asakir reported that his mother was the daughter of Loot (may the Peace and Blessings of Allah be upon him). It is said that his father was among those who believed in Ibraheem (may the Peace and Blessings of Allah be upon him) on the day he was thrown in the fire and was to be burnt but survived.
+However, of all these opinions, the first opinion is the most popular because he was from the progeny of Ibraheem (may the Peace and Blessings of Allah be upon him). This is seen in the saying of Allah:
+
+    "… and from his offspring Dawood, Sulaymân, Ayyub, Yusuf, Moosa and Hâroon…" 
+    Qur’an 6:84
+
+In this verse, the pronoun ‘his’ is referring to Ibraheem and not Nooh (peace be upon them all).
+
+He is one of those Prophets who are mentioned specially that they received revelations. This is seen in Soorah an-Nisâ :
+
+    "Indeed We have revealed to you as We revealed to Nooh and the Prophets after him. And We revealed to Ibraheem, Isma’eel, Ishâq, Ya’qoob, the tribes, ‘Eesa and Ayyub…" 
+    Qur’an 4:163
+
+So the correct opinion is that he is from the progeny of ‛Ees Ibn Ishaq Ibn Ibraheem (may the Peace and Blessings of Allah be upon them all). As regards his wife's name, it is said she was Leea bint Ya‛qoob (may the Peace and Blessings of Allah be upon him). Some others say that her name was Rahmah bint Ifratheem. Yet some others claim that she was Leea bint Mansa Ibn Ya‛qoob (may the Peace and Blessings of Allah be upon him). This is the most popular opinion, and we have mentioned it here.
+
+Allah said: "And Ayyub, when he called to his Lord, saying ‘Harm has inflicted me and You are the Most Merciful.' So We answered him and removed his affliction and We gave him his family and the like of them with them, as a mercy from Us and a reminder to Worshippers.'". (Qur’an 21:83-84)
+
+And in Soorah Sâd:
+
+    And mention Our slave Ayyub when he called his Lord, "The Shaytân has afflicted me with distress and torment." 
+    
+    [Allah said], "Strike with your foot, this is [a spring of] water to wash in, cool and a [refreshing] drink." 
+    
+    And We gave him his family and the like of thereof, as a mercy from Us and a reminder to those who understand. 
+
+    "And take in your hand a bundle of thin grass and strike therewith and do not break your oath." Truly, We found him patient. How excellent a slave. Verily, he was ever oft-returning in repentance." 
+    Qur’an 38:41-44
+
+Qur’anic exegetes, historians and others said that Ayyub (may the peace and blessings of Allah be upon him) was a wealthy man who owned all kinds of wealth, such as cattle, sheep and servants, and vast property in a place called Hoorân. He also had many children and large family.
+
+Then all of this was taken away from him. His body was inflicted with different kinds of diseases to such an extent that there was no part of his body that was healthy except his heart and tongue with which he remembered Allah. All throughout this, he remained patient and remembered Allah all the time, during the night and day, and in the morning and the evening.
+
+His illnesses prolonged for such a long time that even his friends deserted him and his relatives stayed away from him. He was expelled from his town and thrown upon a dunghill. Everybody left him except his wife who fulfilled her duties. She did this because of the many good times she had with him and due to her compassion for him. She used to come to him and help him out in his necessities. It came to such an extent that she became weak and her money almost finished. She was in such a difficult situation that she started working to earn wages in order to provide for her husband. May Allah be pleased with her. She remained patient with him even through hard times that hit them when they were inflicted with loss of money, children and her husband became very ill.
+
+It is established in an authentic hadith that the Prophet peace and blessings be upon him said:
+> "The most severely tried among the people are the Prophets. Then after them the righteous and then the likes and so on."
+
+And said: 
+
+> "And man is put to trial according to the strength of his religion thus if his religion was strong, his trial increased." 
+> Ahmad, vol 1, p. 172
+
+Mujahid is reported to have said that the Prophet Ayyub (may the peace and blessings of Allah be upon him) was the first to be inflicted by smallpox.
+Historians and scholars differed as regards the period of time he was inflicted with trials. Wahb ibn Munâbbih said that he suffered for three years, not more not less. Anas on the other hand said that he suffered for about seven years and a few months. Humayd said that the period was eighteen years. The severity of the disease has been described by as-Suddi that it was so severe, that his flesh dropped from his body and nothing remained on him except his bones and muscles. His wife used to bring ashes and spread it under his body. When the trial went for long, she said, "O' Ayyub, if you pray to your Lord, He will free you from this suffering." He answered, "I have lived for seventy years as a healthy person, so can I not be patient for Allah for another seventy years?" she worked for people to earn money in order to feed Ayyub (may the peace and blessings of Allah be upon him) (Tafseer at-Tabari, vol 23 p.107)
+
+However, the people then started to be cautious of her and did not employ her because they knew that she was the wife of Ayyub (may the peace and blessings of Allah be upon him) and because of that, they too might get infected by the same illnesses or be put to the same trial. So when she did not find anybody to give work, she went to some of the daughters of high society and sold one of her plait in return for plenty of food. When she came to Ayyub (may the peace and blessings of Allah be upon him) with food, he asked her where did she get the food from. He showed his disapproval but she said, "I worked for the people.” Then when it was the following day and again she did not find anyone who gave her work, she sold the other plait in return for food. She then brought it to Ayyub (peace be upon him). This time Ayyub (peace be upon him) swore that he would not eat the food till she tells him from where she has got it. At that, she removed her headscarf. When Ayyub (peace be upon him) saw her head has been shaved, he supplicated to Allah:
+
+    And Ayyub when he called his Lord [saying], "Harm has inflicted me and You are the Most Merciful."
+    Qur’an 21:83
+
+Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Ubayd ibn Umayr who said: “Ayyub had two brother. One day, they came to him but they could not go near him because of the bad smell which came from his body. So they stood at a distance and one of them said to another, ‘If Allah knew any good in Ayyub, He would not have put him to this trial.’ This grieved Ayyub (peace be upon him) so much that he never got such grief before. He supplicated, ‘O’ Allah, if You know that I never spent a night with a full stomach if I knew someone hungry in that night, then prove me true.’ So he was proved true and a voice came from the heaven confirming his truth that was heard by the two brothers. He then supplicated further, ‘O’ Allah, if You know that I never had two shirts if I knew that someone did not have clothes, then prove me true.’ Again, he was proved true from the heavens while the brothers were listening. Finally, he supplicated, ‘O’ Allah, I seek help from Your Honour.’ When saying that, he fell down in prostration and said, ‘O’ Allah, by Your Honour, I will never lift my head till You cure me from my suffering.’ Then he did not lift his head till he was cured.”
+
+Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Abbâs who said: “ Allah dressed Ayyub (peace be upon him) with a dress from Paradise, then he went aside and sat in a corner. His wife came and did not recognise him. So she asked, ‘O’ slave of Allah, where did the afflicted person go who was here? I am afraid that dogs or wolves have eaten him.’ She kept speaking to him for some time and then he finally said to her, ‘What is wrong with you, I am Ayyub, Allah has indeed returned to me my body.’”
+
+Ibn Abbâs said: “Allah returned to him his wealth and children and others twice as many as them.”
+
+Ibn Abi Hâtim reported that Wahb ibn Munabbih said: “Allah revealed to him, ‘I returned to you your family and your wealth, and the like of them along with them. So take a bath from this water, for there is a cure for you in it and offer sacrifice on behalf of your companions and seek forgiveness for them for verily they disobeyed Me concerning you.’”
+
+It is narrated on the authority of Abu Hurayrah that the Prophet peace and blessings be upon him said:
+
+> When Allah cured Ayyub He rained on him golden locusts. Ayyub began collecting them with his hands and putting them in his clothes. It was said to him, ‘O’ Ayyub, are you not satisfied and full?’ He said, ‘O’ Lord, who will feel full from Your Mercy?’"
+
+In another narration on the authority of Abu Hurayrah that the Prophet peace and blessings be upon him said:
+
+>"While Ayyub was bathing naked, golden locusts dropped on him, so he began collecting them in his clothes. So his Lord called him, ‘O’ Ayyub, did I not give you enough, so what do you do?’ Ayyub said, ‘Yes my Lord but there is no sparing from Your blessings for me.’ "Strike with your foot" was the divine order. So Ayyub (peace be upon him) did as ordained and struck the earth with his leg. Allah then caused a cold spring of water to gush forth and ordered him to take bath and drink from it. Allah then removed his suffering and pain, his illnesses and diseases that were both visible and hidden on his body and replaced all that with a healthy body, both visible and hidden. Allah also made him handsome and gave him abundant wealth, to the extent that golden locusts rained on him.
+
+Allah also returned his family as He said,  `We gave to him his family, and the like of them with them.` (Qur’an 21:84) It is said that Allah brought his children back to life. Some others said that Allah gave him other people in place of those who had died, wherein in the Hereafter, Allah will gather them all together. As regards the part of the verse, `A mercy from Us,` (Qur’an 21:83-84) it means that We removed his hardships and cured him from whatever he had as a mercy and grace from Us. The end of the verse, “And a reminder to worshippers” means that what happened to Ayyub (peace be upon him) is a reminder and a lesson for all those who are put to trial concerning their bodies, wealth, and family. All such people should take the example of Prophet of Allah, Ayyub, who was tried by Allah with something that was greater than what others would be inflicted with and despite that, he was patient and had hope that Allah would cure him from that.
+
+Ayyub (peace be upon him) lived in the Roman land for a further seventy years after his affliction. He preached to them the religion of Monotheism, One God. However, they later changed the religion of Ibraheem (peace be upon him) after his death.
+
+Allah said: `“And take in your hand a bundle of reeds and strike with it, and do not break your oath. And We found him patient, a good slave, verily he was patient. (Qur’an 38:44)`
+
+This speaks about His mercy upon Ayyub (peace be upon him) when Ayyub had sworn that he would whip his wife one hundred lashes. It is said that he made the oath because she sold her plaits. It is also said that Shaytân came to her disguised as a doctor (physician) and described to her some medicines for Ayyub. When she came and informed Ayyub, he knew it was Shaytân and subsequently swore that he would whip her one hundred lashes. When Allah cured him, He told him to take a bundle of reeds, bunch them together as one and then to hit her only once. This one hit was considered one hundred, thus he could fulfill his oath this way.
+
+This was a way out and relief for the one who feared Allah and obeyed Him, especially with respect to his wife who bore his illness patiently and had hope. She was a pious, righteous ans rightly guided woman. May Allah be pleased with her.
+
+Ibn Jareer and others mentioned that when Ayyub (peace be upon him) died, he was ninety-three years old. Some others said that he lived longer than that.
+Before he passed away, he entrusted his mission to his son Hawmal and after him to his other son Bishr. Many people claim that he was Dhul Kifl. And Allah knows best. These same people also claim that he was Prophet, who died at the age of ninety-five.
+
+    And [mention] Ayyub, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." 
     Quran, sura 21 (The Prophets), ayah 83
 
-The narrative goes on to state that after many years of suffering, God ordered Job to "Strike with thy foot!". At once, Job struck the ground with his foot and God caused a cool spring of water to gush forth from the Earth, from which Job could replenish himself. The Quran states that it was then that God removed his pain and suffering and He returned Job's family to him, blessed him with many generations of children and granted him great wealth. In addition to the brief descriptions of Job's narrative, the Quran further mentions Job twice in the lists of those whom God had given special guidance, wisdom and inspiration (IV: 163) and as one of the men who received authority, the gift of prophethood (VI:84).
-
-After Satan has given up trying to turn Job away from the Lord, God removed Job's affliction and returned his family to him, doubling them in number. He returned Job's wealth and showered Job with gold. Once Job's wife had seen her husband restored to prosperity and health, she prayed thanks to God but then worried over the oath her husband had taken earlier, in which he had promised to beat her with a hundred strokes. Job was also deeply grieved over the oath he had taken, amidst his suffering. God, however, sent a revelation to Job, which told him to not beat his wife but to gently hit her with a bundle of soft grass.
-
 </details>
+<details><summary>
 
-<details>
-    <summary>
-
-## Shuayb (Jethro?)
+## Shuayb
 
 </summary>
+
+Shuaib, Shoaib, Shuayb or Shuʿayb (شعيب,  meaning: "who shows the right path") is an ancient Midianite Nabi (Prophet) in Islam. Shuaib is mentioned in the Quran a total of 11 times. He is believed to have lived after Ibrahim (Abraham), and Muslims believe that he was sent as a prophet to a community: the Midianites, who are also known as the Aṣḥāb al-Aykah ("Companions of the Wood"), since they used to worship a large tree. To the people, Shuaib proclaimed the straight path and warned the people to end their fraudulent ways. When the community did not repent, God destroyed the community.
+
+Shuaib is understood by Muslims to have been one of the few Arabian prophets mentioned by name in the Qur'an, the others being Saleh, Hud, and Muhammad. It is said that he was known by Muslims as "the eloquent preacher amongst the prophets", because he was, according to tradition, granted talent and eloquence in his language.
 
 The Qur'an states that Shuaib was appointed by God to be a prophet to the people of Midian. The people of this land were said to be especially notorious for cheating others through dishonesty and for idolatry. Shuʿayb's prophecy mainly involved calling the Midianites to the correct path of God, and forbidding them to worship false gods.
 
@@ -1874,14 +1954,21 @@ It is also said he told his people to stop being dishonest in their daily activi
 
 The people taunted Shuʿayb and told him that, were it not for the prestigious family he came from, he would surely have been stoned to death. Shuayb replied, "Is my family of more consideration with you than God?" When the Midianites refused to believe, they were destroyed by a mighty earthquake. The Qur'an, however, mentions that Shuʿayb, and his believing companions, were rescued from the thunderous punishment.
 
+The area to which Shuʿayb was sent to is named 'Madyan in the Qur'an, known in English as Midian, which is frequently referred to in the Bible. The Midianites were said to be of Arab descent, though being neighbors of the Biblical Canaanites, they intermixed with them. It is said they were a wandering tribe, and that their principal territory at the time of Musa (Moses) was the Sinai Peninsula.
+
+Shuayb's mission is often mentioned in the Qur'an with the mission of Noah, Hud, Saleh and Lot. Scholars have pointed out that these five prophets exemplify the early prophetic missions: The prophet would be sent to his community; the community would pay no attention to his warning and would instead threaten him with punishment; after years of preaching, God would ask him to leave his community, while his people were subsequently destroyed in a punishment. Scholars chronologically interpret the listing of the five prophets, so Shuʿayb was a descendant of Noah (preached about the Great Flood) and the Prophet Abraham.
+
+### Disputed identification with Jethro
+
+Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Although Shuaib is frequently identified with the Midianite priest Jethro, most modern scholars reject this identification. Classical commentators, such as Ibn Kathir, say Shuʿayb was a great-grandson of Abraham: Shuʿayb is believed to have been the son of Mikil, son of Issachar, son of Midian, son of Abraham. That would render impossible the identification with Jethro, who lived at the time of Moses, purportedly hundreds of years after Abraham.
+
 </details>
 
 # 5. Musa and the Exodus
 
 *******************************************
 
-<details>
-<summary>
+<details><summary>
 
 ## Musa (Moses) 🌿🔥
 
@@ -1889,33 +1976,57 @@ The people taunted Shuʿayb and told him that, were it not for the prestigious f
 
 In Islam, Mūsā ben ʿEmrān (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.
 
-According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of Muhammad, and Muslims consider many aspects of the two individuals' lives to be shared. Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution—of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.
+According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of prophet Muhammadﷺ  , and Muslims consider many aspects of the two individuals' lives to be shared. Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution — of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.
 
 Musa is also viewed as a very important figure in Islam due to his reception of revelations such as the Ten Commandments, which form part of the contents of the Torah and are central to the Abrahamic religions of Judaism and Christianity. Consequently, Jews and Christians are designated as "People of the Book" for Muslims and are to be recognized with this special status wherever Islamic law is applied. According to Islamic tradition, Musa is one of the many prophets that meets Muhammad in the seven heavens following the latter's ascension from Jerusalem during the Miʿraj. During the journey, Musa is said to have repeatedly sent Muhammad back to meet God and request a reduction in the number of required daily prayers—originally 50—until only the five obligatory prayers remained. Musa is further revered in Islamic literature, which expands upon the incidents of his life and the miracles attributed to him in the Quran and hadith, such as his direct conversations with God.
+
+    Verily, We did send down the Torah to Moses therein was guidance and light, by which the Prophets, who submitted themselves to God’s Will, judged the Jews.  And the rabbis and the priests too judged the Jews by the Torah for to them was entrusted the protection of God’s Book, and they were witnesses thereto.
+    Quran, 5:44
 
 ### Childhood
 
 According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Yusuf). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. (Other stories says that the Pharaoh dreams of a little boy who catches the Pharaoh's crown and destroys it, although there is no authentic Islamic reference to whether the dreams actually occurred.) When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
 
+    "We recite to you some of the news of Moses and Pharaoh in truth, for a people who believe. Verily, Pharaoh exalted himself in the land and made its people sects, weakening (oppressing) a group (i.e. Children of Israel) among them; killing their sons and letting their females live.  Verily, he was of those who commit great sins and crimes, oppressors, tyrant."
+    Quran, 28:3-4
+
 ### On the Nile
 
-According to Islamic tradition, Jochebed, Musa's mother, suckles him secretly during this period. When they are in danger of being caught, God inspires her to put him in a wicker basket and set him adrift on the Nile. She instructs her daughter to follow the course of the ark and report back to her. As her daughter follows the ark along the riverbank, Musa is discovered by the Pharaoh's wife, Asiya, who convinces the Pharaoh to adopt him. When Asiya ordered wet nurses for Musa, Musa refuses to be breastfed. Islamic tradition states that this is because God forbids Musa from being fed by any wet nurse in order to reunite him with his mother. His sister worries that Musa has not been fed for some time, so she appears to the Pharaoh and informs him that she knows someone who can feed him. After being questioned, she is ordered to bring the woman being discussed.The sister brings their mother, who feeds Musa, and thereafter, she is appointed as the wet nurse of Musa.
+According to Islamic tradition, Jochebed, Musa's mother, suckles him secretly during this period. When they are in danger of being caught, God inspires her to put him in a wicker basket and set him adrift on the Nile. She instructs her daughter to follow the course of the ark and report back to her. 
 
-### Test of prophecy
+    So We sent this inspiration to the mother of Moses: "Suckle (thy child) but when thou hast fears about him cast him, into the river, but fear not nor grieve: for We shall restore him to thee, and We shall make him one of Our messengers."
+    Quran, 28:7
 
-According to Isra'iliyat hadith, when Musa is playing on the Pharaoh's lap in his childhood, he grabs the Pharaoh's beard and slaps him in the face. This action prompts the Pharaoh to consider Musa as the Israelite who would overthrow him, and the Pharaoh wants to kill Musa. The Pharaoh's wife persuades him not to kill him because he is an infant. Instead, he decides to test Musa. Two plates are set before young Musa, one containing rubies and the other glowing coals. Musa reaches out for the rubies, but the angel Gabriel directs his hand to the coals. Musa grabs a glowing coal and puts it in his mouth, burning his tongue. After the incident, Musa suffers a speech defect, but is spared by the Pharaoh.
+As her daughter follows the ark along the riverbank, Musa is discovered by the Pharaoh's wife, Asiya, who convinces the Pharaoh to adopt him. When Asiya ordered wet nurses for Musa, Musa refuses to be breastfed. Islamic tradition states that this is because God forbids Musa from being fed by any wet nurse in order to reunite him with his mother. His sister worries that Musa has not been fed for some time, so she appears to the Pharaoh and informs him that she knows someone who can feed him. After being questioned, she is ordered to bring the woman being discussed. The sister brings their mother, who feeds Musa, and thereafter, she is appointed as the wet nurse of Musa.
+
+    Then the household of Pharaoh picked him up, that he might become for them an enemy and a (cause of) grief Verily! Pharaoh, Haman and their hosts were sinners. And the wife of Pharaoh said: "A comfort of the eye for me and for you. Kill him not, perhaps he may be of benefit to us, or we may adopt him as a son." And they perceived not (the result of that). 
+    Quran Ayah 28:9
 
 ### Escape to Midian
 
-After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute. Musa strikes the Egyptian in a state of anger, which results in his death. Musa then repents to God, and the following day, he again comes across the same Israelite fighting with another Egyptian. The Israelite again asks Musa for help, and as Musa approaches the Israelite, he reminds Musa of his manslaughter and asks if Musa intended to kill the Egyptian. 
+After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the Bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute. Musa strikes the Egyptian in a state of anger, which results in his death. Musa then repents to God.
 
-Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees to the desert after being alerted to his punishment. According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well. Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Shuaib, Musa waters their flocks for them. The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
+    He said: "My Lord! Verily, I have wronged myself, so forgive me." Then He forgave him. Verily, He is the Forgiving, the Most Merciful.
+
+And the following day, he again comes across the same Israelite fighting with another Egyptian. The Israelite again asks Musa for help, and as Musa approaches the Israelite, he reminds Musa of his manslaughter and asks if Musa intended to kill the Egyptian. 
+
+Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees to the desert after being alerted to his punishment. 
+
+    So he escaped from there, looking about in a state of fear. He said: "My Lord! Save me from the people who are Zalimeen (polytheists and wrong-doers)!" 
+    Quran Ayah 28:15-21
+
+According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well. Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Musa waters their flocks for them. The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
+
+# PROFREADINGPRROFREADINGPROOFREADING
 
 ### Preaching
 
 #### Call to prophethood
 
-According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period. During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire for them. When Musa reaches the Valley of Tuwa, God calls out to him from the right side of the valley from a tree, on what is revered as Al-Buq‘ah Al-Mubārakah ("The Blessed Ground") in the Quran. Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.
+    And when he attained his full strength, and was perfect (in manhood), We bestowed on him Hukman (Prophethood, right judgment of the affairs) and religious knowledge of the religion of his forefathers i.e., Islamic Monotheism. And thus do We reward the Muhsineen (i.e., good-doers). 
+    Quran Ayah 28:14
+
+According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period (ten years). During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire for them. When Musa reaches the Valley of Tuwa, God calls out to him from the right side of the valley from a tree, on what is revered as Al-Buq‘ah Al-Mubārakah ("The Blessed Ground") in the Quran. Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.
 
 The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) of ancient Egypt and to guide the Israelites, who were enslaved by the former. The Quran directly validates Musa and Harun as prophets chosen by God:
 

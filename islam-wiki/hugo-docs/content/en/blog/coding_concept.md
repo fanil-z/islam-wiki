@@ -20,7 +20,6 @@ Hafiz Ibn Kahtir (rahimahullah) has cited a narration in his Tafsir which has th
 
 First of all, Allahu 'alim.
 
-
 Concept of evolution and creation as code.
 
 Stages of manufacturing development.
@@ -35,6 +34,9 @@ Stages of manufacturing development.
 9. Let AI learn from mistakes and let it find some ways to improve the manufacturing process.
 10. Give AI more freedom and ability to look for alternatives.
 11. Make super AI that will organize the whole process.
+
+
+Coding the genes evolution: https://www.youtube.com/watch?v=N3tRFayqVtk
 
 So the most effective way to build a product is to create an AI that will train itself, replicate, learn on its own mistakes and mistakes of others and then choose to build what is the best option according to conducted research.
 

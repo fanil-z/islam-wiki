@@ -14,6 +14,11 @@ cloudflare pages
 ## Description
 
 
+maybe make the first post short.
+
+I'll make a separate post about how the stack behind the website works. Shortly, it is build on the Hugo framework with Hyas 
+
+
 Hello everyone and assalamu aleikum,
 
 In my current workplace, I learned about a static HTML generator Hugo. 
