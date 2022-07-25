@@ -97,7 +97,7 @@ Allâh, taâlâ, did not create all the creations at one time. Had He willed for
 The first creation is water. The Prophet, sallallahu alayhi wa sallam, said:
 > « Allāh created everything from water. » [Related by Ibn Hibban]
 
-Allah knows best. This means that Allāh created water before creating light, darkness, Earth, the heavens, the Throne, or the Guarded Tablet. Allāh made water the origin for other creations. He created the Throne from water. Then He created the Upper Pen, then the Guarded Tablet. After these creations, Allāh created the rest of the creations: the Earth, heavens, animals, mountains, trees, and rivers. Adam, peace be upon him, was of the last kind of creation, humans.
+Allah knows best. This means that Allāh created water before creating light, darkness, Earth, the heavens, the Throne, or the Guarded Tablet. Allāh made water the origin for other creations. He created the Throne from water. Then He created the Upper Pen, then the Guarded Tablet. After these creations, Allāh created the rest of the creations: the Earth, heavens, animals, mountains, trees 🌳, and rivers. Adam, peace be upon him, was of the last kind of creation, humans.
 
 ### The Throne
 
@@ -237,7 +237,7 @@ Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 
 Partly From the narration of Malik ibn Dinar and his daughter who hushed away the dragon that was chasing her father. we can derive that good deeds and sins of people are some physical entities in another dimension. Somehow these entities are combined for your punishment or your blessing in the hereafter.
 
-For example, there is a hadith that says each dhikr is a real seed of your tree in Jannah. 
+For example, there is a hadith that says each dhikr is a real seed of your tree 🌳 in Jannah. 
 
 Every person is only getting the result of what he has done in this dunya. His own punishment is build from his sins which with the design of Allah ﷻ obtained a certain form in Jahannam. Jahannam is designed in a way that collects all your sins and bestows upon you if Allah ﷻ  does not grant you of His mercy.
 
@@ -269,7 +269,7 @@ Jannah is very big.
 
 Jannah is very beautiful.
 
-Jannah has many trees, rivers, and birds with beautiful sounds. It has all what one would like. Allāh created Adam in Paradise.
+Jannah has many trees 🌳🌳, rivers, and birds 🐦🐦🐦 with beautiful sounds. It has all what one would like. Allāh created Adam in Paradise.
 
 The Quran describes Paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels. 
 
@@ -555,7 +555,7 @@ Christian demonology states that the mission of the demons is to induce humans t
 
 Demons can take any desired appearance, even that of an "angel of light".
 
-The Devil has been popularly symbolized as various animals, including the serpent, the goat and the dragon.
+The Devil has been popularly symbolized as various animals, including the serpent 🐍, the goat and the dragon.
 
 The idea that demons have horns seems to have been taken from chapter 13 of the Book of Revelation. This idea has also been associated with the depiction of certain ancient gods like Moloch and the shedu, etc., which were portrayed as bulls, as men with the head of a bull, or wearing bull horns as a crown.
 
@@ -565,13 +565,13 @@ Shedim (Hebrew: שֵׁדִים; singular: שֵׁד Shed) are spirits or demons i
 
 They appear only twice (always plural) in the Tanakh, at Psalm 106:37 and Deuteronomy 32:17. Both times it deals with child or animal sacrifices. Although the word is traditionally derived from the root šwd (Hebrew: שוד shûd) that conveys the meaning of "acting with violence" or "laying waste," it was possibly a loan-word from Akkadian in which the word shedu referred to a spirit which could be either protective or malevolent. With the translation of Hebrew texts into Greek, under influence of Zoroastrian dualism, shedim were translated into daimonia with implicit negativity. Otherwise, later in Judeo-Islamic culture, shedim became the Hebrew word for Jinn with a morally ambivalent attitude.
 
-> 35. And they mingled with the nations and learned their deeds. 36. They worshipped their idols, which became a snare for them. 37. They slaughtered their sons and daughters to the demons [(shedim)]. 38. They shed innocent blood, the blood of their sons and daughters whom they slaughtered to the idols of Canaan, and the land became polluted with the blood. 39. And they became unclean through their deeds, and they went astray with their acts.
+> 35. And they mingled with the nations and learned their deeds. 36. They worshipped their idols, which became a snare for them. 37. They slaughtered their sons and daughters to the demons [shedim]. 38. They shed innocent blood, the blood of their sons and daughters whom they slaughtered to the idols of Canaan, and the land became polluted with the blood. 39. And they became unclean through their deeds, and they went astray with their acts.
 >Tehillim (Psalms), 106.35-39
 
->17. They sacrificed to demons [(shedim)], which have no power, deities they did not know, new things that only recently came, which your forefathers did not fear.
+>17. They sacrificed to demons [shedim], which have no power, deities they did not know, new things that only recently came, which your forefathers did not fear.
 > Devarim (Deuteronomy), 32.17
 
-According to one legend, the shedim are descendants of serpents, or of demons in the form of serpents, alluding to the serpent in Eden as related in Genesis.
+According to one legend, the shedim are descendants of serpents 🐍, or of demons in the form of serpents, alluding to the serpent in Eden as related in Genesis.
 
 The people who build the Tower of Babel were divided by their motivations into three groups. Those who wished to wage war against God were transformed into shedim.
 
@@ -623,7 +623,7 @@ There is a hadith from Abu Huraira 🐈:
     The hadith further says that then Allah opened His hand and showed Adam all of his descendands. Each person had his life expectancy written on his forehead. Adam saw a man whose light was one of the brightest and he asked "Who is this man?". Allah replied "This is Dawud (David) and he is prescribed to live 40 years". Adam said "Oh my Lord, extend his life", Allah replied "This is the term I prescribed him". Adam asked again "Oh my Lord, I give him 60 of my years" for which Allah replied "Let it be your way".
     Sheikh Al-Albani called this hadith authentic.
 
-Allah gave Adam knowledge and taught him names. One of the version of interpretation is that Adam was taught the names of animals and birds. The other version is that he was taught speech.
+Allah gave Adam knowledge and taught him names. One of the version of interpretation is that Adam was taught the names of animals and birds 🐦. The other version is that he was taught speech.
 
 ### Every human souls testifies in front of God
 
@@ -701,10 +701,10 @@ The hadith or traditions of Prophet Muhammad (pbuh) further reveal that Eve was 
 ### Adam and Eve are placed in Paradise
 After Eve was created, the couple was given a place in heaven.
 
-    And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers." 
+    And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree 🌳, lest you be among the wrongdoers." 
     Quran [2:35]
 
-Eve was created to accompany Adam as his companion and life partner, and they were instructed to live together in tranquility. In heaven, Adam and Eve were free to eat and enjoy everything with the exception of one tree. 
+Eve was created to accompany Adam as his companion and life partner, and they were instructed to live together in tranquility. In heaven, Adam and Eve were free to eat and enjoy everything with the exception of one tree 🌳. 
 
 The Quran does not describe what kind of tree it was, however, this prohibition set the stage for the test that was to come.
 
@@ -724,7 +724,7 @@ In the Quran, the forbidden tree served as a test for Adam and Eve. Furthermore,
 
 Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispering into their hearts. Claiming to be a sincere advisor, he planted in their minds ideas that would make the forbidden tree appealing. Thoughts of the tree preoccupied both Adam and Eve. Forgetting the warning, they gave in and erred.
 
-    But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, "Your Lord did not forbid you this tree except that you become angels or become of the immortal." 
+    But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, "Your Lord did not forbid you this tree 🌳 except that you become angels or become of the immortal." 
 
     And he swore [by Allah ] to them, "Indeed, I am to you from among the sincere advisors." 
       
@@ -1783,7 +1783,7 @@ This account refers to the interaction between Yusuf and the ruler of Egypt. Unl
 
 Yusuf had asked the one whom he knew would be released (Ṭabari writes that his name was Nabu) to mention his case to the king. When asked about his time in prison, Ṭabari reports that prophet Muhammad ﷺ   said: "If Yusuf had not said that—meaning what he said (to Nabu)—he would not have stayed in prison as long as he did because he sought deliverance from someone other than God."
 
-The king had a dream of seven fat cows being eaten by seven skinny ones and seven ears of corn being replaced with shriveled ones, and he was terrified. None of his advisors could interpret it. When the servant who was released from prison heard about it, he remembered Yusuf from prison and persuaded the king to send him to Yusuf so that he could return with an interpretation. Yusuf told the servant that Egypt would face seven years of prosperity and then suffer seven years of famine and that the king should prepare for it so as to avoid great suffering.
+The king had a dream of seven fat cows 🐄 being eaten by seven skinny ones and seven ears of corn being replaced with shriveled ones, and he was terrified. None of his advisors could interpret it. When the servant who was released from prison heard about it, he remembered Yusuf from prison and persuaded the king to send him to Yusuf so that he could return with an interpretation. Yusuf told the servant that Egypt would face seven years of prosperity and then suffer seven years of famine and that the king should prepare for it so as to avoid great suffering.
 
 Scholars debate as to whether Yusuf agreed to interpret the dream right away or if he declared that his name should be cleared in the house of ʿAzīz first. Ṭabari notes that when the messenger came to Yusuf and invited him to come to the king, Yusuf replied "Go back to your lord and ask him about the case of the women who cut their hands. My lord surely knows their guile." Ibn Kathir agrees with Ṭabari saying that Yusuf sought "restitution for this in order that ʿAzīz might know that he was not false to him during his absence" and that Zolayḵā eventually confessed that nothing happened between them. Ṭabari inserts an interesting interaction between Yusuf and the angel Gabriel in which Gabriel helps Yusuf both gain his freedom and admit to his own desires.
 
@@ -2015,18 +2015,49 @@ Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees 
     So he escaped from there, looking about in a state of fear. He said: "My Lord! Save me from the people who are Zalimeen (polytheists and wrong-doers)!" 
     Quran Ayah 28:15-21
 
-According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well. Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Musa waters their flocks for them. The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
+According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well. Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Musa waters their flocks for them.
 
-# PROFREADINGPRROFREADINGPROOFREADING
+    And when he arrived at the water of Midian (Midyan) he found there a group of men watering (their flocks), and besides them he found two women who were keeping back (their flocks). He said: "What is the matter with you ?" They said: "We cannot water (our flocks) until the shepherds take (their flocks). And our father is a very old man."
+
+    So he watered their flocks for them, then he turned back to shade, and said: "My Lord! Truly, I am in need of whatever good that You bestow on me!" 
+    Quran Ayah 28:22-24
+
+The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
 
 ### Preaching
+
+#### Ten Years of Preparation
+Time passed, and he lived in seclusion far from his family and his people. This period of ten years was of importance in his life. It was a period of major preparation. Certainly Moses's mind was absorbed in the stars every night. He followed the sunrise and the sunset every day. He pondered on the plant and how it splits the soil and appears thereafter. He contemplated water and how the earth is revived by it and flourishes after its death.
+
+Of course, he was immersed in the Glorious Book of Allah, open to the insight and heart. He was immersed in the existence of Allah. All these became latent within him. The religion of Moses was the same as that of Jacob , which was Islamic monotheism. His forefather was Jacob the grandson of Abraham . Moses , therefore, was one of the descendants of Abraham and every prophet who came after Abraham was one of Abraham's successors.
+
+In addition to physical preparation, there was a similar spiritual preparation. It was made in complete seclusion, in the middle of the desert and in the places of pasture. Silence was his way of life, and seclusion was his vehicle. Allah the Almighty prepared for His prophet the tools he would need later on to righteously bear the commands of Allah the Exalted.
 
 #### Call to prophethood
 
     And when he attained his full strength, and was perfect (in manhood), We bestowed on him Hukman (Prophethood, right judgment of the affairs) and religious knowledge of the religion of his forefathers i.e., Islamic Monotheism. And thus do We reward the Muhsineen (i.e., good-doers). 
     Quran Ayah 28:14
 
-According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period (ten years). During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire for them. When Musa reaches the Valley of Tuwa, God calls out to him from the right side of the valley from a tree, on what is revered as Al-Buq‘ah Al-Mubārakah ("The Blessed Ground") in the Quran. Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.
+According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period (ten years). During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire 🔥 for them. 
+
+    Almighty Allah narrated this event: And has there come to you the story of Moses? When he saw a fire, he said to his family: "Wait! Verily, I have seen a fire, perhaps I can bring you some burning brand therefrom, or find some guidance at the fire."
+
+When Musa reaches the Valley of Tuwa, God calls out to him from the right side of the valley from a tree, on what is revered as Al-Buq‘ah Al-Mubārakah ("The Blessed Ground") in the Quran. 
+
+    And when he came to it (the fire), he was called by name: "0 Moses! Verily! I am your Lord! So take off your shoes, you are in the sacred valley, Tuwa, And I have chosen you. So listen to that which is inspired to you. Verily! I am Allah! La ilaha illa Ana (none has the right to be worshipped but I), so worship Me, and offer prayers perfectly, for My Remembrance. Verily, the Hour is coming - and My Will is to keep it hidden - that every person may be rewarded for that which he strives. Therefore, let the one who believes not therein (i.e. in the Day of Resurrection, Reckoning, Paradise and Hell, etc.), but follows his own lusts, divert you therefrom lest you perish. And what is that in your right hand, 0 Moses?"
+
+    He said: "This is my stick, whereon I lean, and wherewith I beat down branches for my sheep, and wherein I find other uses."
+
+    (Allah) said: "Cast it down, 0 Moses!"
+
+    He cast it down, and behold! It was a snake, moving quickly.
+
+    Allah said: "Grasp it, and fear not, We shall return it to its former state, - and press your (right) hand to your (left) side, it will come forth white (and shining), without any disease as another sign, - that We may show you (some) of Our Greater Signs.
+
+    "Go to Pharoah! Verily, he has transgressed (all bounds in disbelief and disobedience, and has behaved as an arrogant, and as a tyrant)." 
+    Surah 9-24
+
+Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake 🐍, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.
 
 The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) of ancient Egypt and to guide the Israelites, who were enslaved by the former. The Quran directly validates Musa and Harun as prophets chosen by God:
 
@@ -2037,18 +2068,67 @@ The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) o
 
 When Musa and Harun arrive in the court of Pharaoh and proclaim their prophethood to the Pharaoh, the Pharaoh begins questioning Musa about the God he follows. The Quran narrates that Musa answers the Pharaoh by stating that he follows the God who gives everything its form and guides them. The Pharaoh then inquires about the generations who passed before them, and Musa answers that knowledge of the previous generations is with God. 
 
-The Quran also mentions the Pharaoh questioning Musa: “And what is the Lord of the worlds?” Musa replies that God is the lord of the heavens, the earth and what is between them. The Pharaoh then reminds Musa of his childhood with them and the killing of the man he has done. Musa admits that he has committed the deed in ignorance, but insists that he is now forgiven and guided by God. Pharaoh accuses him of being mad and threatens to imprison him if he continues to proclaim that the Pharaoh is not the true god. Musa informs him that he has come with manifest signs from God. When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent. He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
+The Quran also mentions the Pharaoh questioning Musa: “And what is the Lord of the worlds?” Musa replies that God is the lord of the heavens, the earth and what is between them. The Pharaoh then reminds Musa of his childhood with them and the killing of the man he has done. Musa admits that he has committed the deed in ignorance, but insists that he is now forgiven and guided by God. Pharaoh accuses him of being mad and threatens to imprison him if he continues to proclaim that the Pharaoh is not the true god. Musa informs him that he has come with manifest signs from God. 
+
+    Allah said. "Nay! Go you both with Our Signs. Verily! We shall be with you, listening. And when you both come to Pharaoh, say: 'We are the Messengers of the Lord of the Alamin (mankind, jinn and all that exists), - So allow the children of Israel to go with us.
+
+    (Pharaoh) said (to Moses): "Did we not bring you up among us as a child? And you did dwell many years of you life with us. And you did your deed which you did (i.e. the crime of killing a man). And you are one of the ingrates."
+
+    Moses said: "I did it then, when I was an ignorant (as regards my Lord and His Message). So I fled from you when I feared you. But my Lord has granted me Hukman (i.e., religious knowledge, right judgments of the affairs and Prop het hood), and appointed me as one of the Messengers. And this is the past favor with which you reproach me, - that you have enslaved the children of Israel."
+
+    Pharaoh said: "And what is the Lord of the 'Alamin (mankind, jinn and all that exists)?"
+
+    Moses replied: "Lord of the heavens and the earth, and all that is between them, if you seek to be convinced with certainty."
+
+    Pharaoh said to those around: "Do you not hear (what he says)?"
+
+    Moses said: "Your Lord and the Lord of your ancient fathers!"
+
+    Pharaoh said: "Verily, your Messenger who has been sent to you is a madman!"
+
+    Moses said: "Lord of the east and the west, and all that is between them, if you did but understand!"
+
+    Pharaoh said: "If you choose an ilah (a god) other than me, I will certainly put you among the prisoners."
+
+    Moses said: "Even if I bring you something manifest (and convincing)."
+
+    Pharaoh said: "Bring it forth then, if you are of the truthful!" 
+    Quran Surah 26:16-31
+
+When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent 🐍. He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
 
 #### Confrontation with sorcerers
 
-Pharaoh watches a serpent devour a demon in the presence of Musa; from a manuscript of Qisas al-Anbiya, c. 1540.
+When the sorcerers come to the Pharaoh, he promises them that they would be among the honored among his assembly if they won. On the day of the festival of Egypt, Musa grants the sorcerers the chance to perform first and warned them that God would expose their tricks. The Quran states that the sorcerers bewitch the eyes of the observers and cause them terror. The summoned sorcerers throw their rods on the floor, and they appear to change into snakes 🐍 by the effect of their magic. At first, Musa becomes concerned witnessing the tricks of the magicians, but is assured by God to not be worried. When Musa does the same his rod, the serpent devours all the sorcerers' snakes. The sorcerers realize that they have witnessed a miracle. They proclaim belief in the message of Musa and fall onto their knees in prostration despite threats from the Pharaoh. The Pharaoh is enraged by this and accuses them of working under Musa. He warns them that if they insist in believing in Musa, he would cut their hands and feet on opposite sides, and crucify them on the trunks of palm trees for their betrayal of the Pharaoh. The magicians, however, remain steadfast to their newfound faith and are punished by Pharaoh.
 
-When the sorcerers come to the Pharaoh, he promises them that they would be among the honored among his assembly if they won. On the day of the festival of Egypt, Musa grants the sorcerers the chance to perform first and warned them that God would expose their tricks. The Quran states that the sorcerers bewitch the eyes of the observers and cause them terror. The summoned sorcerers throw their rods on the floor, and they appear to change into snakes by the effect of their magic. At first, Musa becomes concerned witnessing the tricks of the magicians, but is assured by God to not be worried. When Musa does the same his rod, the serpent devours all the sorcerers' snakes. The sorcerers realize that they have witnessed a miracle. They proclaim belief in the message of Musa and fall onto their knees in prostration despite threats from the Pharaoh. The Pharaoh is enraged by this and accuses them of working under Musa. He warns them that if they insist in believing in Musa, he would cut their hands and feet on opposite sides, and crucify them on the trunks of palm trees for their betrayal of the Pharaoh. The magicians, however, remain steadfast to their newfound faith and are punished by Pharaoh.
+    He (Pharaoh) said: "Have you come to drive us out of our land with your magic, 0 Moses? Then verily, we can produce magic the like thereof, so appoint a meeting between us and you, which neither we, nor you shall fail to keep, in an open wide place where both shall have a just and equal chance (and beholders could witness the competition)."
+
+    (Moses) said: "Your appointed meeting is the day of the festival, and let the people assemble when the sun has risen (forenoon)."
+
+    So Pharaoh withdrew, devised his plot and then came back.
+
+    Moses said to them: "Woe unto you! Invent not a lie against Allah, lest He should destroy you completely by a torment. And surely, he who invents a lie (against Allah) will fail miserably."
+
+    Then they debated with one another what they must do, and they kept their talk secret. They said: "Verily! These are two magicians. Their object is to drive you out from your land with magic, and overcome your chiefs and nobles. So devise your plot, and then assemble in line. And whoever overcomes this day will be indeed successful."
+
+    They said: "0 Moses! Either you throw first or we be the first to throw?"
+
+    (Moses) said: "Nay, throw you (first)!" Then behold, their ropes and their sticks, - by their magic, - appeared to him as though they moved fast. So Moses conceived a fear in himself.
+
+    We (Allah) said: "Fear not! Surely, you will have the upper hand. And throw that which is in your right hand! It will swallow up that which they have made. That which they have made is only a magician's trick, and the magician will never be successful, no matter whatever amount (of skill) he may attain."
+
+    So the magicians fell down prostrate. They said: "We believe in the Lord of Aaron and Moses."
+
+    (Pharaoh) said: "Believe you in him (Moses) before I give you permission? Verily! He is your chief who taught you magic. So I will surely cut off your hands and feet on opposite sides, and I will surely crucify you on the trunks of palm-trees, and you shall surely know which of us I (Pharaoh) or the Lord of Moses (Allah) can give the severe and more lasting torment."
+
+    They said: "We prefer you not over the clear signs that have come to us, and to Him (Allah) Who created us. So decree (regarding) this life of the world. Verily! We have believed in our Lord, that He may forgive us our faults, and the magic to which you did compel us. And Allah is better as regards reward in comparison to your (Pharaoh's) reward, and more lasting (as regards punishment in comparison to your punishment)." 
+    Quran Ayah 20:58-73
 
 </details>
 
-<details>
-<summary>
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
 
 ## Exodus
 
@@ -2056,9 +2136,29 @@ When the sorcerers come to the Pharaoh, he promises them that they would be amon
 
 ### Plagues of Egypt
 
-After losing against Musa, the Pharaoh continues to plan against Musa and the Israelites, ordering meetings with the ministers, princes and priests. According to the Quran, the Pharaoh is reported to have ordered his minister, Haman, to build a tower so that he "may look at the God of Musa". Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt.
+After losing against Musa, the Pharaoh continues to plan against Musa and the Israelites, ordering meetings with the ministers, princes and priests. According to the Quran, the Pharaoh is reported to have ordered his minister, Haman, to build a tower so that he "may look at the God of Musa". 
 
- The Quran states that God decrees punishments over him and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops, pestilence of lice that makes their life miserable, toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.
+    Turning his face to the other side, Pharaoh asserted impatiently: "I know he is a liar." Then he looked towards Haman (and cried): "0 Haman! Build me a tower that I may arrive at the ways, - the ways of the heavens, and I may look upon the Ilah (God) of Moses but verily, I think him to be a liar."
+
+    Thus it was made fair-seeming, in Pharaoh's eyes, the evil of his deeds, and he was hindered from the (Right) Path, and the plot of Pharaoh led to nothing but loss and destruction (for him). 
+    Quran Ayah 40:36-37
+
+Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt.
+
+The Quran states that God decrees punishments over the pharaoh and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops, pestilence of lice that makes their life miserable, toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. 
+
+    As often as they were troubled grievously, they appealed to Moses thus: "0 Moses! Invoke your Lord for us because of His Promise to you. If you will remove the punishment fromus, we indeed shall believe in you, and we shall let the children of Israel go with you." Quran Ayah 7:134
+
+Moses prayed to his Lord and He relieved the suffering caused by the flood. The surging water ceased and withdrew from the land, and it became cultivatable. But when Moses bade them to fulfill their promise to release the children of Israel, they did not respond.
+
+Then Allah sent swarms of locusts which ate whatever crops they had grown. The people hurried to Moses, asking him to invoke Allah to remove this affliction and promising they would send the children of Israel with him this time. The locusts departed, but they did not fulfill their promise.
+
+    Almighty Allah said: And indeed We punished the people of Pharaoh with years of drought and shortness of fruits (crops, etc.), that they might remember (take heed). But whenever good came to them, they said: "Ours is this." And if evil afflicted them, they ascribed it to euil omens connected with Moses and those with him. Be informed! Verily, their evil omens are with Allah but most of them know not. They said (to Moses): "Whatever Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) you may bring to us, to work therewith your sorcery on us, we shall never believe in you." So We sent on them: the flood, the locusts, the lice, the frogs, and the blood: (as a succession of) manifest signs, yet they remained arrogant, and they were of those people who were Mujrimeen (criminals, polyt heists, sinners, etc.) 
+    Quran Ayah 7:130-133
+
+    Almighty Allah also said: But when We removed the punishment from them to a fixed term, which they had to reach, behold! They broke their word! Quran Ayah 7:135
+
+The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.
 
 ### Splitting of the sea
 
@@ -2071,7 +2171,7 @@ As the Israelites continue their journey to the Promised Land, they come upon pe
 <details>
 <summary>
 
-## The Torah
+## Revelation of The Torah
 
 </summary>
 Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
@@ -2087,9 +2187,9 @@ Musa is then given the Ten Commandments by God as Guidance and as Mercy. Meanwhi
 
 Musa then chooses 70 elites from among the Israelites and orders them to pray for forgiveness. Shortly thereafter, the elders travel alongside Musa to witness the speech between Musa and God. Despite witnessing the speech between them, they refuse to believe until they see God with their own eyes, so as punishment, a thunderbolt kills them. Musa prays for their forgiveness, and they are resurrected. They return to camp and set up a tent dedicated to worshiping God, as Harun had taught them from the Torah. They resume their journey towards the Promised Land.
 
-#### The Israelites and the cow
+#### The Israelites and the cow 🐄
 
-Islamic exegesis narrates the incident of an old and pious man who lives among the Israelites and earns his living honestly. As he is dying, he places his wife, his little son, and his only possession—a calf in God's care—instructing his wife to take the calf and leave it in a forest. His wife does as she is told, and after a few years, when the son has grown up, she informs him about the calf. The son travels to the forest with a rope. He prostrates and prays to God to return the calf to him. As the son prays, the now-grown cow stops beside him. The son takes the cow with him. The son is also pious and earns his living as a lumberjack.
+Islamic exegesis narrates the incident of an old and pious man who lives among the Israelites and earns his living honestly. As he is dying, he places his wife, his little son, and his only possession—a calf in God's care—instructing his wife to take the calf and leave it in a forest. His wife does as she is told, and after a few years, when the son has grown up, she informs him about the calf. The son travels to the forest with a rope. He prostrates and prays to God to return the calf to him. As the son prays, the now-grown cow 🐄 stops beside him. The son takes the cow with him. The son is also pious and earns his living as a lumberjack.
 
 One wealthy man among the Israelites dies and leaves his wealth to his son. The relatives of the wealthy son secretly murders the son in order to inherit his wealth. The other relatives of the son come to Musa and ask for his help in tracing the killers. Musa instructs them to slaughter a cow, cut out its tongue, and then place it on the corpse; this would reveal the killers. The relatives do not believe Musa and do not understand why they are instructed to slaughter a cow when they are trying to find the killers. They accuse Musa of joking, but Musa manages to convince them that he is serious. Hoping to delay the process, the relatives ask the type and age of the cow they should slaughter, but Musa tells them that it is neither old nor young but in-between the two ages. Instead of searching for the cow described, they inquire about its colour, to which Musa replies that it is yellow. They ask Musa for more details, and he informs them that it is unyoked, and does not plow the soil nor does it water the tilth. The relatives and Musa search for the described cow, but the only cow that they find to fit the description belongs to an orphaned youth. The youth refuses to sell the cow without consulting his mother. All of them travel together to the youth's home. The mother refuses to sell the cow, despite the relatives constantly increasing the price. They urge the orphaned son to tell his mother to be more reasonable. However, the son refuse to sell the cow without his mother's agreement, claiming that he would not sell it even if they offered to fill its skin with gold. At this, the mother agrees to sell it for its skin filled with gold. The relatives and Musa consent, and the cow is slaughtered and the corpse is touched by its tongue. The corpse rises back to life and reveals the identity of the killers.
 
@@ -2242,7 +2342,7 @@ Dawud (David), is a prophet and messenger of God and is righteous, divinely-anoi
 
 David's narrative in the Quran, in many respects, parallels that given in the Bible. He is named a prophet (nabī) and also a messenger (rasūl), David is included in lists of those who received revelation (waḥy; Q4:163) or guidance (hudā; 6:84) from God. In both lists his name appears next to that of his son Solomon. Elsewhere, the Quran explains that God gave to both of them the gifts of "sound judgment" (ḥukm; 21:79) and "knowledge" (ʿilm; 21:79; 27:15). 
 
-Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms" (Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr), presumably a reference to the Psalms or the Psalter. The mountains and the birds praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth. This role is also suggested by 2:251: "God gave him authority (mulk) and wisdom (ḥikmah) and taught him what He willed. If God did not drive back some people by others, the earth would become corrupt."
+Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms" (Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr), presumably a reference to the Psalms or the Psalter. The mountains and the birds 🐦🐦 praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth. This role is also suggested by 2:251: "God gave him authority (mulk) and wisdom (ḥikmah) and taught him what He willed. If God did not drive back some people by others, the earth would become corrupt."
 
 Among the things taught to David was the ability to make armour (21:80, 34:10–11), a suggestion that David’s military exploits were the act of God. It is also important that the Quranic reference to David's "wisdom" was sometimes explained by the classical exegetes as the gift of prophecy. The Quran also connects David and Jesus, by insisting that both cursed those Israelites who did not believe (5:78). Moreover, according to the Quran, David was given the ability to distinguish between truth and falsehood when dispensing justice (faṣl al-khiṭāb, 38:20). Furthermore, there is the allusion to a test David was put through, wherein he prayed and repented and God forgave him (38:24-5). Surah Sad (38th chapter of the Quran) is also called "the sūra of David". Exegetes explain that since David prostrated when asking God to forgive him, Muhammad was ordered to imitate him and to perform a prostration when reading this chapter.
 
@@ -2534,7 +2634,7 @@ His wife thought that he was going to give birth to a boy, but it was Mary.
 
 According to the Quran, divine grace surrounded Mary from birth, and, as a young woman, she received a message from God through the archangel Gabriel that God had chosen her, purified her, and had preferred her above all "the women of the worlds." This event, according to the same narrative, was followed by the annunciation of a child who was to be miraculously conceived by her through the intervention of the divine spirit while she was still virgin, whose name would be Jesus and who would be the "anointed one," the Promised Messiah. As such, orthodox Islamic belief "has upheld the tenet of the virgin birth of Jesus," and although the classical Islamic thinkers never dwelt on the question of the perpetual virginity of Mary at any great length, it was generally agreed in traditional Islam that Mary remained a virgin throughout her life, with the Quran's mention of Mary's purification “from the touch of men” implying perpetual virginity in the minds of many of the most prominent Islamic fathers.
 
-The birth of Mary is narrated in the Quran with references to her father as well as her mother. Mary's father is called Imran. He is the equivalent of Joachim in Christian tradition. Her mother, according to al-Tabari, is called Hannah, which is the same name as in Christian tradition (Saint Anne). Muslim literature narrates that Imran and his wife were old and childless and that, one day, the sight of a bird in a tree feeding her young aroused Anne's desire for a child. She prayed to God to fulfill her desire and vowed, if her prayer was accepted, that her child would be dedicated to the service of God.
+The birth of Mary is narrated in the Quran with references to her father as well as her mother. Mary's father is called Imran. He is the equivalent of Joachim in Christian tradition. Her mother, according to al-Tabari, is called Hannah, which is the same name as in Christian tradition (Saint Anne). Muslim literature narrates that Imran and his wife were old and childless and that, one day, the sight of a bird 🐦 in a tree feeding her young aroused Anne's desire for a child. She prayed to God to fulfill her desire and vowed, if her prayer was accepted, that her child would be dedicated to the service of God.
 
 According to Iraqi scholar and translator, N.J. Dawood, the Quran confuses Mary mother of Jesus with Mary the sister of Moses, by referring to Mary, the mother of Jesus' father as Imran, which is the Arabic version of Amram, who in Exodus 6:20, is shown to be the father of Moses. Dawood, in a note to Quran 19:28, where Mary the Mother of Jesus is referred to as the "Sister of Aaron", and Aaron was the brother of Mary sister of Moses, states: "It Appears that Miriam, Aaron's sister, and Maryam (Mary), mother of Jesus, were according to the Koran, one and the same person." Although Islamic studies of the beginning of the 20th century tended to see this as a mistake in genealogy, in more recent Islamic Studies of the 21st century the general consensus is, according to Angelika Neuwirth, Nicolai Sinai & Michael Marx, that the Quran does not make a genealogical error but instead makes use of Typology. This is, following Wensincks conclusion, supported by the figurative speech of the Quran and the Islamic tradition:
 Maryam is called a sister of Hārūn and the use of these three names Imrān, Hārūn and Maryam, has led to the supposition that the Kur'ān does not clearly distinguish between the two Maryams of the Old and the New Testaments. It is not necessary to assume that these kinship links are to be interpreted in modern terms. The words "sister" and "daughter", like their male counterparts, in Arabic usage can indicate extended kinship, descendance or spiritual affinity. Muslim tradition is clear that there are eighteen centuries between the Biblical Amram and the father of Maryam.
@@ -2605,7 +2705,7 @@ People drew lots to decide who is going to take care of Maryam and Zakariyah was
 The virgin birth of Jesus is supremely important in Islam, as one of the most important miracles of God. The first explicit mention of an annunciation foreshadowing the birth of Jesus is in Quran 19:20 where Mary asks Gabriel (Jibril) how she will be able to conceive, when no man has touched her. Gabriel's reply assures Mary that for God all things are easy and that Jesus's virgin birth will be a sign for mankind. The birth is later referred in Quran 66:12, where the Quran states that Mary remained "pure", while God allowed a life to shape itself in Mary's womb. A third mention of the annunciation is in Q3:42–43, where Mary is also given the glad tidings that she has been chosen above all the women of creation.
 
 Commentators on the Quran remark on the last verse that Mary was as close to a perfect woman as there could be, and she was devoid of almost all failings.Although Islam honors numerous women, including Zipporah, Hajar, Sarah, Asiya, Khadijah, Fatimah, Ayesha, Hafsa many commentators followed this verse in the absolute sense, and agreed that Mary was the greatest woman of all time. Other commentators, however, while maintaining that Mary was the "queen of the saints", interpreted this verse to mean that Mary was the greatest woman of that time and that Fatimah, Khadijah and Asiya were equally great. According to exegesis and literature, Gabriel appeared to Mary, who was still young in age, in the form of a well-made man with a "shining face" and announced to her the birth of Jesus. After her immediate astonishment, she was reassured by the angel's answer that God has the power to do anything. The details of the conception are not discussed during these angelic visits, but elsewhere the Quran states (Quran 21:91) and 66:12) that God breathed "His Spirit" into Mary while she was chaste.
-Mary shaking the palm tree for dates, a legend derived from the Gospel of Pseudo-Matthew.
+Mary shaking the palm tree 🌴 for dates, a legend derived from the Gospel of Pseudo-Matthew.
 According to the Quran, Mary was chosen twice by the Lord: "O Mary! Verily Allah has chosen you and puriﬁed you and chosen you above the women of the worlds" (Quran 3:42); and the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.[27]: 16 
 
 The Quran narrates the virgin birth of Jesus numerous times. In chapter 19 (Maryam), verses (ayat) 17–21, the annunciation is given, followed by the virgin birth in due course. In Islam, Jesus is called the "spirit of God" because he was through the action of the spirit, but that belief does not include the doctrine of his pre-existence, as it does in Christianity. Quran 3:47 also supports the virginity of Mary, revealing that "no man has touched [her]". Quran 66:12 states that Jesus was born when the spirit of God breathed upon Mary, whose body was chaste.
@@ -2614,7 +2714,7 @@ According to the Quran, the following conversation transpired between the angel 
 
 And mention, [O Muhammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. And she took, in seclusion from them, a screen. Then We sent to her Our spirit, and he represented himself to her as a well-proportioned man. She said, "Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allah." He said, "I am only the messenger of your Lord to give you a pure boy." She said, "How can I have a boy while no man has touched me and I have not been unchaste?" He said, "Thus [it will be]; your Lord says, 'It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter [already] decreed.'[19:16-21]
 
-The Quran's narrative of the virgin birth is somewhat different from that in the New Testament. The Quran states that when the pains of childbirth came upon Mary, she held onto a nearby palm tree, at which point a voice came from "beneath the (palm-tree)" or "beneath her", which said " "Grieve not! for thy Lord hath provided a rivulet beneath thee; "And shake towards thyself the trunk of the palm-tree: It will let fall fresh ripe dates upon thee." The Quran goes on to describe that Mary vowed not to speak to any man on that day, as God was to make Jesus, who Muslims believe spoke in the cradle, perform his first miracle. The Quran goes on to narrate that Mary then brought Jesus to the temple, where immediately she began to be taunted by all the men, excluding Zechariah, who believed in the virgin birth. The Israelites questioned Mary how she came to be with child whilst unmarried, to which Mary pointed to the baby Jesus. It was then that, according to the Quran, the infant Jesus began to speak in the cradle, and spoke of his prophecy for the first time.
+The Quran's narrative of the virgin birth is somewhat different from that in the New Testament. The Quran states that when the pains of childbirth came upon Mary, she held onto a nearby palm tree 🌴, at which point a voice came from "beneath the (palm-tree)" or "beneath her", which said " "Grieve not! for thy Lord hath provided a rivulet beneath thee; "And shake towards thyself the trunk of the palm-tree: It will let fall fresh ripe dates upon thee." The Quran goes on to describe that Mary vowed not to speak to any man on that day, as God was to make Jesus, who Muslims believe spoke in the cradle, perform his first miracle. The Quran goes on to narrate that Mary then brought Jesus to the temple, where immediately she began to be taunted by all the men, excluding Zechariah, who believed in the virgin birth. The Israelites questioned Mary how she came to be with child whilst unmarried, to which Mary pointed to the baby Jesus. It was then that, according to the Quran, the infant Jesus began to speak in the cradle, and spoke of his prophecy for the first time.
 
 According to Imam Ja'far al-Sadiq, Jesus the son of Mary used to cry intensely as a child, so that Mary was at wits end regarding his profuse crying. He said to her, "Get some of the bark of that tree, make a tonic from it and feed me with it." When he drank it, he cried intensely. Mary said, "What sort of prescription did you give me?" He said, "Oh my mother! Knowledge of prophet-hood and weakness of childhood."[27]: 23 
 
@@ -2680,9 +2780,9 @@ The Quran and ahadith (testimonial reports) mention Jesus to have been born a "p
 
 In Islam, Jesus is believed to have been the precursor to the Islamic prophet Muhammad. According to the Quran, the coming of Muhammad was predicted by Jesus in As-Saff 61:6. Through this verse, early Arab Muslims claimed legitimacy for their new faith in the existing religious traditions and the alleged predictions of Jesus. Like all prophets in Islam, Jesus is also called a Muslim, as he preached that his followers should adopt the "straight path". In Islamic eschatology, Jesus will return in a Second Coming to fight Al-Masih ad-Dajjal or the "False Messiah" as well as Gog and Magog and establish peace and justice on earth.
 
-###Birth narratives
+### Birth narratives
 
-According to the Quran, the pains of labor took Mary to the trunk of a palm tree.
+According to the Quran, the pains of labor took Mary to the trunk of a palm tree 🌴.
 The Islamic faith echoed some strands within the Christian tradition that Mary (or Maryam) was a literal virgin when Jesus was conceived. The most detailed account of the annunciation and birth of Jesus is provided in Surah 3 (Al Imran) and 19 (Maryam) of the Quran where the story is narrated that God (Allah) sent an angel to announce that Maryam could shortly expect to bear a son, despite being a virgin.
 
 Some academics have noted that the account in Surah 19 is particularly close to that in the Christian Gospel of Luke. The Annunciation to Mary is mentioned twice in the Quran and in both instances Mary/ Maryam is told that she was chosen by God to deliver a son. In the first instance, the bearer of the news (who is believed by most Muslims to be the archangel Gabriel), delivered the news in (Q3:42-47) as he takes the form of a man (Q19:16-22). The details of the conception are not discussed but when Mary asks how she can bear a son in view of her chastity she is told that God creates what he wills and that these things are easy for God. The Quran (Q21:91 and Q66:12) says that God blew through his angel into Mary and she, although being chaste, bore Jesus without any father.
@@ -2717,7 +2817,7 @@ Speaking from the cradle is mentioned in three places in the Quran: al-Imran (3)
 
 Although this particular narrative is not found in the Bible, the theme of speaking from the cradle is found in the non-canonical pre-Islamic Syriac Infancy Gospel. That source has Jesus declaring himself the Son of God, the Word, and affirming what the angel Gabriel had previously announced to Mary as detailed in the Gospel.
 
-### Creating birds from clay
+### Creating birds 🐦🐦 from clay
 
 The miracle story of creating birds from clay and breathing life into them when a child is mentioned in al-Imran (3) 43, 49 and al-Maida (5) 109–110. Although this miracle is also not mentioned the canonical Gospel, the same narrative is found in at least two pre-Islamic sources: the Infancy Gospel of Thomas and the Jewish Toledot Yeshu, with few variant details between the Quran and these two sources.
 
@@ -3116,7 +3216,7 @@ Abdull Mutallib: 1. rediscovery of Zamzam. 2. His vow to sacrifice Abdallah. 3. 
 Mutallib had 18 children. 12 sons.the priestess told hom to exchange Abdallahs life for 100 camels. 
 Abrahah decided to destroy the Qaaba. 8-20elephants. 
 People left the Qaaba. and prayed. 
-The elephants stopped from entering. Then came the birds with stones from Jahannam. and their skin dissolved.
+The elephants stopped from entering. Then came the birds 🐦🐦🐦 with stones from Jahannam. and their skin dissolved.
 At that time Amina ra was pregnant by the prophet Muhammad  ﷺ   .
 
 </details>
@@ -3160,7 +3260,7 @@ On the second day, Abraha issued orders to his army to enter Mecca. 'Abdul-Mutta
 
 (O Allah! Surely a man defends his own home, therefore, Thou shouldst protect Thy Own House. Their cross and their wrath can never overcome Thy wrath. O Allah, help Thy Own people against the fellows of the cross and its worshippers).
 
-Then he, too, went to the summit of the hill, Abu Qubays. Abraha advanced with his army. Seeing the walls of the Ka'bah, he ordered its demolition. No sooner had the army reached near the Ka'bah than an army of Allah appeared from the western side. A dark cloud of small birds (known in Arabic as Ababil) overshadowed the entire army of Abraha. Each bird had three pebbles: two in its claws and one in its beak. A rain of the pebbles poured down from the birds, and in a few minutes, the whole army was destroyed. Abraha himself was seriously wounded; he fled towards Yemen but died on the way.
+Then he, too, went to the summit of the hill, Abu Qubays. Abraha advanced with his army. Seeing the walls of the Ka'bah, he ordered its demolition. No sooner had the army reached near the Ka'bah than an army of Allah appeared from the western side. A dark cloud of small birds 🐦🐦🐦 (known in Arabic as Ababil) overshadowed the entire army of Abraha. Each bird had three pebbles: two in its claws and one in its beak. A rain of the pebbles poured down from the birds, and in a few minutes, the whole army was destroyed. Abraha himself was seriously wounded; he fled towards Yemen but died on the way.
 
 It is to this important event that Allah refers in Chapter 105:
 
@@ -3620,7 +3720,7 @@ only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad  
 
 Isa told this to the prophets.
 Dajjal will come, then Isa AS will come and Dajjal will melt. then people will come to their lands and then Wadjuj and Madjuj will come out and drink all the water. untill Isa AS wil make dua to kill them and they will all die. and the lands will be covered b their bodies. IsaAS will make another dua to get rid of the bodies and Allah will send rain and bodies will be washed away. At this time it will be like a pregnant woman ready to give birth. 
-Ibrahim AS said send my salam to your ummah. and tell them I have seem Jannah. its land is fertile but we must plant the plants ourselves every dhikr becomes a tree. in Jannah .
+Ibrahim AS said send my salam to your ummah. and tell them I have seem Jannah. its land is fertile but we must plant the plants ourselves every dhikr becomes a tree 🌳 in Jannah .
 Malik the guardian of hell never smiles even when said salam to the prophet  ﷺ   . Jibreel said Were he to have smiled to anybody that would have been you.
 The last two verses of surah Al Bakarah were given on the 7th heaven when the prophet  ﷺ    was there.
 The first thing Allah created is the Pen.
@@ -3846,7 +3946,7 @@ The Battle of the Trench (Ghazwat al-Khandaq), also known as the Battle of Khand
 
 The reason for this battle was to save Medina from attack, after Banu Nazir and Banu Qurayzah tribes formed an alliance with the Quraysh to attack him as revenge for expelling them from Medina during the Invasion of Banu Qaynuqa and Invasion of Banu Nadir.
 
-the outnumbered Muslims opted to engage in a defensive battle by digging deep trenches to act as a barrier along the northern front. The tactic of a defensive trench was introduced by Salman the Persian. Every capable Muslim in Medina including Muhammad contributed to digging the massive trench in six days. The ditch was dug on the northern side only, as the rest of Medina was surrounded by rocky mountains and trees, impenetrable to large armies (especially cavalry). The digging of the ditch coincided with a near-famine in Medina. Women and children were moved to the inner city. The Medinans harvested all their crops early, so the Confederate armies would have to rely on their own food reserves.
+the outnumbered Muslims opted to engage in a defensive battle by digging deep trenches to act as a barrier along the northern front. The tactic of a defensive trench was introduced by Salman the Persian. Every capable Muslim in Medina including Muhammad contributed to digging the massive trench in six days. The ditch was dug on the northern side only, as the rest of Medina was surrounded by rocky mountains and trees 🌳🌳, impenetrable to large armies (especially cavalry). The digging of the ditch coincided with a near-famine in Medina. Women and children were moved to the inner city. The Medinans harvested all their crops early, so the Confederate armies would have to rely on their own food reserves.
 
 The largely outnumbered defenders of Medina, mainly Muslims led by the Islamic prophet Muhammad, dug a trench, which, together with Medina's natural fortifications, rendered the confederacy's cavalry (consisting of horses and camels) useless, locking the two sides in a stalemate. Hoping to make several attacks at once, the confederates persuaded the Muslim-allied Medinan Jews, Banu Qurayza, to attack the city from the south. However, Muhammad's diplomacy derailed the negotiations, and broke up the confederacy against him. The well-organized defenders, the sinking of confederate morale, and poor weather conditions caused the siege to end in a fiasco.
 
@@ -3902,7 +4002,7 @@ After a long discussion, both parties agreed with some conditional points, such 
 
 The Treaty is very important in Islam, as it was an indirect recognition of the Islamic state in Medina. The treaty also allowed the Muslims who were still in Mecca to practice Islam publicly. Further, as there was no longer a constant struggle between the Muslims and the polytheists, many people saw Islam in a new light, which led to many more people accepting Islam.[citation needed] In addition, the Treaty of Hudaybiyyah paved the way for the conquering of other tribes, through the use of treaties with the Muslims. The treaty also serves as an example that Islam was not merely spread with the sword as Muhammad had an army that could have attacked Mecca, but Muhammad chose to make a peace treaty. After the polytheists broke the treaty, he marched on Makkah and conquered the polytheists.
 
-The oath that Muhammad took "under the tree" at al-Hudaybiyyah made him a true ruler over parts of western Arabia. In early Islamic Egypt, having a forefather who had "pledged allegiance under the tree" conferred considerable social prestige.
+The oath that Muhammad took "under the tree" at al-Hudaybiyyah made him a true ruler over parts of western Arabia. In early Islamic Egypt, having a forefather who had "pledged allegiance under the tree 🌳" conferred considerable social prestige.
 
 A verse of the Quran was revealed about the treaty, which means:
 
@@ -5617,7 +5717,7 @@ Souls also leave the body during our sleep.
 
 Al-Bara’ ibn ‘Azib reported: The Prophet, peace and blessings be upon him, said, “Verily, when the believer is ready to depart the world and is facing the Hereafter, angels from heaven descend with bright faces, as if their faces were the sun, with them are the shrouds and perfumes of Paradise, until they sit from him a distance as far as the eye can see. Then, the angel of death, upon him be peace, comes until he sits by his head and he says: O pure soul, come out to the forgiveness of Allah and His pleasure! He takes it out like a drop from a water-skin and holds it, never to leave his hand for the blink of an eye until he places it in that shroud and perfume. The scent coming from it is more pleasant than any musk you would find on the face of the earth. He ascends and passes by no gathering of angels but that they say: What a pure spirit! They say he is this person, son of this person, calling him by the best names by which he was known in the world, until he stops at the lowest heaven and seeks entry and it will be opened for him. The company of each heaven bring him closer to the heaven following it until he stops at the seventh heaven. Allah Almighty will say: Write the record of My servant in the righteous register and return him to the earth, for from it I created them, to it I return them, and from it I will take them out once again. His spirit will be returned to his body and two angels will come to sit by him, saying to him: Who is your Lord? He will say: My Lord is Allah. They will say: What is your religion? He will say: My religion is Islam. They will say: Who is this man sent you? He will say: He is the Messenger of Allah, peace and blessings be upon him. They will say: How did you know? He will say: I read the Book of Allah, had faith in it, and believed in it. A heavenly announcement will be made: My servant has spoken the truth! Spread out carpets for him in Paradise, clothe him for Paradise, and open a gate for him to Paradise! Its comforts and fragrances will come to him and his grave will become spacious as far as his eye can see. A handsome man, with fine clothes and wonderful fragrance, will come and say: Glad tidings of what pleases you, for this was your Day you were promised! He will say: Who are you with such a handsome face? He will say: I am your righteous deeds! He will say: O Lord, begin the Hour that I may return to my family and property!”
 
-The Prophet continued, “Verily, when the unbeliever is ready to depart the world and is facing the Hereafter, angels descend from heaven with darkened faces and with them sack-cloth. They will sit away from his as far as the eye can see. Then, the angel of death approaches until he sits by his head and he says: O filthy soul, come out to the displeasure of Allah and His wrath! He will be separated from his body like the tearing of skewers from wet wool and he holds it in his hand, never to leave it for the blink of an eye, until he places it in this sack-cloth. The scent coming from it is like the most foul corpse found upon the face of the earth. They will ascend with him and not pass by a gathering of angels but that they say: What a filthy spirit! They say he is this person, son of this person, calling him by the ugliest names by which he was known in the world, until he stops at the lowest heaven. They will request it to be opened for him but it will not open.” Then, the Prophet recited the verse, “The gates of heaven will never open for them, nor will they enter Paradise, until the camel goes through the eye of the needle,” (7:40). The Prophet said, “Allah Almighty will say: Write his record in the wicked register in the lowest earth. His spirit will be thrown down,” then the Prophet recited the verse, “It is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place,” (22:31). The Prophet said, “His spirit will return to his body and two angels will come to sit by him, saying to him: Who is your Lord? He will say: Uh, uh, I do not know! They will say: What is your religion? He will say: Uh, uh, I do not know! They will say: Who is this man sent to you? He will say: Uh, uh, I do not know! A heavenly announcement will be made: He has lied! Spread carpets for him in Hellfire and open a gate for him to Hellfire! Its heat and its flames will approach him, and he will be squeezed in his grave until his ribs press together. An ugly man, with hideous clothing and a foul stench, will approach him and say: Glad tidings of what despairs you, for this is your Day you were promised! He will say: Who are with your evil face? He will say: I am your wicked deeds! He will say: O Lord, do not begin the Hour!”
+The Prophet continued, “Verily, when the unbeliever is ready to depart the world and is facing the Hereafter, angels descend from heaven with darkened faces and with them sack-cloth. They will sit away from his as far as the eye can see. Then, the angel of death approaches until he sits by his head and he says: O filthy soul, come out to the displeasure of Allah and His wrath! He will be separated from his body like the tearing of skewers from wet wool and he holds it in his hand, never to leave it for the blink of an eye, until he places it in this sack-cloth. The scent coming from it is like the most foul corpse found upon the face of the earth. They will ascend with him and not pass by a gathering of angels but that they say: What a filthy spirit! They say he is this person, son of this person, calling him by the ugliest names by which he was known in the world, until he stops at the lowest heaven. They will request it to be opened for him but it will not open.” Then, the Prophet recited the verse, “The gates of heaven will never open for them, nor will they enter Paradise, until the camel goes through the eye of the needle,” (7:40). The Prophet said, “Allah Almighty will say: Write his record in the wicked register in the lowest earth. His spirit will be thrown down,” then the Prophet recited the verse, “It is as though he had fallen from the sky and was snatched by the birds 🐦🐦🐦 or the wind carried him down into a remote place,” (22:31). The Prophet said, “His spirit will return to his body and two angels will come to sit by him, saying to him: Who is your Lord? He will say: Uh, uh, I do not know! They will say: What is your religion? He will say: Uh, uh, I do not know! They will say: Who is this man sent to you? He will say: Uh, uh, I do not know! A heavenly announcement will be made: He has lied! Spread carpets for him in Hellfire and open a gate for him to Hellfire! Its heat and its flames will approach him, and he will be squeezed in his grave until his ribs press together. An ugly man, with hideous clothing and a foul stench, will approach him and say: Glad tidings of what despairs you, for this is your Day you were promised! He will say: Who are with your evil face? He will say: I am your wicked deeds! He will say: O Lord, do not begin the Hour!”
 
 Source: Musnad Aḥmad 18534
 
@@ -5753,7 +5853,7 @@ After the final signs of The Hour -- the defeat of the Sufyani; the end of the j
 
 The dead will then be resurrected and Afterlife commence with yet another trumpet blast, (different sources give different numbers of trumpet blasts) The first to arise will be Muhammad, followed by the other members of the Muslim community. with all gathering at the place of assembly [al-maḥshar]. In between resurrection and the actual judgement will be an agonizing wait (Q.21:103, Q.37:20) for the unbelievers.
 
-The Judgement will not start for a long time, maybe thousands of years. People will worry about their deeds all the time. and they will come to prophets asking them to intercede in front of Allah to start the Jidgement because they can no longer wait. They will come to Adam, but Adam will say "Nafsi, nafsi", meaning that he is worried about himself because he disobeyed Allah and ate from the Tree and Allah is so angry at this point as He has never been before.
+The Judgement will not start for a long time, maybe thousands of years. People will worry about their deeds all the time. and they will come to prophets asking them to intercede in front of Allah to start the Jidgement because they can no longer wait. They will come to Adam, but Adam will say "Nafsi, nafsi", meaning that he is worried about himself because he disobeyed Allah and ate from the Tree 🌳 and Allah is so angry at this point as He has never been before.
 Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, nafsi.
 And finally they will come to the prophet Muhammad ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad ﷺ    will say "This is a job for me".
 
@@ -5857,6 +5957,8 @@ Shatana - the one far away.
 Iblis is the leader of the shayateen. anybody who brings you far away from Allah. Shayateen may also be people
 
 
+stories of the prophets: https://www.alim.org/history/prophet-stories/ 
+
 In the end of times, the shayateen will take forms and tell you fictional stories and you will say "I can see his face but I dont know his name."  sahih bukhari
 
 "By the time they reach age 18, American children will have seen 16,000 simulated murders and 200,000 acts of violence (American Psychiatric Association, 1998)."
@@ -5895,5 +5997,9 @@ According to the Bible lifespan of people before THe Great Flood was much longer
 Consider homosexuality for example. It is prohibited by the major religions of the world. Until the 20th century, it was considered immoral and a punishable offence in the US.
 
 Now it has become so rampant that those who disapprove of it, let alone denounce it, are labeled as “intolerant and narrow-minded.” It is being promoted and celebrated widely to make it popular. Even the cartoons that children watch increasingly include homosexual references.
+
+
+In Abrahamic religions, the common things are beliveing in the God of Abraham, believe in the concept of prophets and believe in the Judgement Day. 
+Other large group of religions is dharmic religions that includes Hinduism and Buddism and Jainism. INstead of Judgement day they believe in reincarnation. they also believe in some sort of judgement: Karma.
 
 </details>
