@@ -1965,12 +1965,11 @@ Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Alt
 </details>
 
 # 5. Musa and the Exodus
-
 *******************************************
 
 <details><summary>
 
-## Musa (Moses) 🌿🔥
+## Musa -- Moses 🌿🔥
 
 </summary>
 
@@ -1983,6 +1982,17 @@ Musa is also viewed as a very important figure in Islam due to his reception of 
     Verily, We did send down the Torah to Moses therein was guidance and light, by which the Prophets, who submitted themselves to God’s Will, judged the Jews.  And the rabbis and the priests too judged the Jews by the Torah for to them was entrusted the protection of God’s Book, and they were witnesses thereto.
     Quran, 5:44
 
+### Side-Note
+
+According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan. It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected. The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
+
+</details>
+<details><summary>
+  
+## Musa in a basket on the Nile
+
+</summary>
+  
 ### Childhood
 
 According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Yusuf). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. (Other stories says that the Pharaoh dreams of a little boy who catches the Pharaoh's crown and destroys it, although there is no authentic Islamic reference to whether the dreams actually occurred.) When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
@@ -2002,8 +2012,13 @@ As her daughter follows the ark along the riverbank, Musa is discovered by the P
     Then the household of Pharaoh picked him up, that he might become for them an enemy and a (cause of) grief Verily! Pharaoh, Haman and their hosts were sinners. And the wife of Pharaoh said: "A comfort of the eye for me and for you. Kill him not, perhaps he may be of benefit to us, or we may adopt him as a son." And they perceived not (the result of that). 
     Quran Ayah 28:9
 
-### Escape to Midian
+</details>
+<details><summary>
 
+## Escape to Midian
+
+</summary>
+  
 After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the Bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute. Musa strikes the Egyptian in a state of anger, which results in his death. Musa then repents to God.
 
     He said: "My Lord! Verily, I have wronged myself, so forgive me." Then He forgave him. Verily, He is the Forgiving, the Most Merciful.
@@ -2024,8 +2039,6 @@ According to Islamic tradition, after Musa arrives in Midian, he witnesses two f
 
 The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
 
-### Preaching
-
 #### Ten Years of Preparation
 Time passed, and he lived in seclusion far from his family and his people. This period of ten years was of importance in his life. It was a period of major preparation. Certainly Moses's mind was absorbed in the stars every night. He followed the sunrise and the sunset every day. He pondered on the plant and how it splits the soil and appears thereafter. He contemplated water and how the earth is revived by it and flourishes after its death.
 
@@ -2033,7 +2046,14 @@ Of course, he was immersed in the Glorious Book of Allah, open to the insight an
 
 In addition to physical preparation, there was a similar spiritual preparation. It was made in complete seclusion, in the middle of the desert and in the places of pasture. Silence was his way of life, and seclusion was his vehicle. Allah the Almighty prepared for His prophet the tools he would need later on to righteously bear the commands of Allah the Exalted.
 
-#### Call to prophethood
+</details>
+<details><summary>
+  
+## Musa and Harun become prophets
+
+</summary>
+
+### Call to prophethood
 
     And when he attained his full strength, and was perfect (in manhood), We bestowed on him Hukman (Prophethood, right judgment of the affairs) and religious knowledge of the religion of his forefathers i.e., Islamic Monotheism. And thus do We reward the Muhsineen (i.e., good-doers). 
     Quran Ayah 28:14
@@ -2057,14 +2077,36 @@ When Musa reaches the Valley of Tuwa, God calls out to him from the right side o
     "Go to Pharoah! Verily, he has transgressed (all bounds in disbelief and disobedience, and has behaved as an arrogant, and as a tyrant)." 
     Surah 9-24
 
-Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake 🐍, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.
+Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake 🐍, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. 
+
+    (Moses) said: "0 my Lord! Open for me my chest (grant me self-confidence, contentment, and boldness). And ease my task for me; and make loose the knot (the defect) from my tongue, (i.e. remove the incorrectness of my speech) that they understand my speech, and appoint for me a helper from my family, Aaron, my brother; increase my strength with him, and let him share my task (of conveying Allah's Message and Prophethood), that we may glorify You much, and remember You much, Verily! You are of us Ever a Well-Seer."
+    
+    Allah said: "You are granted your request, 0 Moses!
+
+According to Islamic tradition, both of them state their fear of Pharaoh, but are assured by God that He would be observing them and commands them to inform the Pharaoh to free the Israelites. Therefore, they depart to preach to the Pharaoh.
+
+    "And I have Istanatuka chosen you for My Inspiration and My Message for Myself Go you and your brother with My Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), and do not, you both, slacken and become weak in My Remembrance.
+
+    "Go, both of you, to Pharaoh, verily, he has transgressed (all bounds in disbelief and disobedience and behaved as an arrogant and as a tyrant). And speak to him mildly, perhaps he may accept admonition or fear Allah."
+
+    They said. "Our Lord! Verily! We fear lest he should hasten to punish us or lest he should transgress (all bounds against us)."
+
+    He (Allah) said. "Fear not, Verily! I am with you both, Hearing and Seeing. So go you both to him, and say: 'Verily, we are Messengers of your Lord, so let the children of Israel go with us, and torment them not; indeed, we have come with a sign from your Lord! And peace will be upon him who follows the guidance! Truly, it has been revealed to us that the torment will be for him who denies believes not in the Oneness of Allah, and in His Messengers, etc., and turns away' (from the truth and obedience of Allah)." 
+    Quran Surah 20
 
 The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) of ancient Egypt and to guide the Israelites, who were enslaved by the former. The Quran directly validates Musa and Harun as prophets chosen by God:
 
     And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet. And We called him from the side of the mount at [his] right and brought him near, confiding [to him]. And We gave him out of Our mercy his brother Harun as a prophet.
     Quran 19:51–53
 
-#### Arrival at Pharaoh's court
+</details>
+<details><summary>
+  
+## Musa confronts pharaoh's sourcerers
+
+</summary>
+  
+### Arrival at Pharaoh's court
 
 When Musa and Harun arrive in the court of Pharaoh and proclaim their prophethood to the Pharaoh, the Pharaoh begins questioning Musa about the God he follows. The Quran narrates that Musa answers the Pharaoh by stating that he follows the God who gives everything its form and guides them. The Pharaoh then inquires about the generations who passed before them, and Musa answers that knowledge of the previous generations is with God. 
 
@@ -2097,7 +2139,7 @@ The Quran also mentions the Pharaoh questioning Musa: “And what is the Lord of
 
 When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent 🐍. He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
 
-#### Confrontation with sorcerers
+### Confrontation with sorcerers
 
 When the sorcerers come to the Pharaoh, he promises them that they would be among the honored among his assembly if they won. On the day of the festival of Egypt, Musa grants the sorcerers the chance to perform first and warned them that God would expose their tricks. The Quran states that the sorcerers bewitch the eyes of the observers and cause them terror. The summoned sorcerers throw their rods on the floor, and they appear to change into snakes 🐍 by the effect of their magic. At first, Musa becomes concerned witnessing the tricks of the magicians, but is assured by God to not be worried. When Musa does the same his rod, the serpent devours all the sorcerers' snakes. The sorcerers realize that they have witnessed a miracle. They proclaim belief in the message of Musa and fall onto their knees in prostration despite threats from the Pharaoh. The Pharaoh is enraged by this and accuses them of working under Musa. He warns them that if they insist in believing in Musa, he would cut their hands and feet on opposite sides, and crucify them on the trunks of palm trees for their betrayal of the Pharaoh. The magicians, however, remain steadfast to their newfound faith and are punished by Pharaoh.
 
@@ -2125,12 +2167,9 @@ When the sorcerers come to the Pharaoh, he promises them that they would be amon
     Quran Ayah 20:58-73
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
-## Exodus
+## The Exodus
 
 </summary>
 
@@ -2145,66 +2184,252 @@ After losing against Musa, the Pharaoh continues to plan against Musa and the Is
 
 Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt.
 
+    Pharaoh's terrorism infused the children of Israel with a spirit of defeat. They complained to Moses: "We (children of Israel) had suffered troubles before you came to us, and since you have come to us." He said: "It may be that your Lord will destroy your enemy and make you successors on the earth, so that He may see how you act." 
+    Quran Ayah 7:129
+
+<details><summary>
+
+#### Korah (Qaroun) refuses to pay zakat
+
+</summary>
+
+Moses began to face a difficult situation. He had to confront Pharaoh's anger and his plots, while at the same time he had to deal with the mutiny of his people. In the midst of all this, Korah (Qaroun) moved.
+
+Korah was a one of Moses's people. He was very rich and lived in a magnificent mansion. He wore only the most expensive clothes. Numerous slaves waited on him and he indulged in every known luxury. His enormous wealth made him arrogant. Korah treated the poor with contempt and told them that their poverty was due to their lack of intelligence. He believed that what he owned was due to his own cleverness and business ability.
+
+Moses reminded Korah to pay alms (zakat) on his wealth, a portion of which was rightfully due to the poor. Alms are compulsory upon all the believers. Korah was annoyed by this advice and told Moses that his being wealthy was proof that he was favored by Allah, Who approved of his life-style and increased his wealth daily. Moses argued with him and warned him of the result of his wicked thoughts.
+
+When Korah did calculate the alms due on his wealth, he was shocked at the large amount he had to part with. He not only refused to give alms, but spread a rumor that Moses had invented the law of zakat for his own gain. He even bribed people to oppose Moses and to spread wicked rumors about him.
+
+Allah warned Moses of Korah's plot. Moses appealed to Allah to punish him for his stinginess and for defying His laws. Allah's anger fell on Korah. The earth opened up and swallowed him, his mansion and all his wealth, as if he had never existed.
+
+    Almighty Allah revealed: Verily, Korah was of Moses's people, but he behaved arrogantly towards them. And We gave him of the treasures, that of which the keys would have been a burden to a body of strong men. When his people said to him: "Do not be glad (with ungratefulness to Allah's Favors). Verily! Allah likes not those who are glad (with ungratefulness to Allah's Favors). But seek, with that (wealth) which Allah has bestowed on you, the home of the Hereafter, and forget not your portion of legal enjoyment in this world, and do good as Allah has been good to you, and seek not mischief in the land. Verily, Allah likes not the Mufsideen (those who commit great crimes and sins, oppressors, tyrants, mischief-makers, corrupts)."
+
+    He said: "This has been given to me only because of knowledge I possess." Did he not know that Allah had destroyed before him generations, men who were stronger than him in might and greater in the amount (of riches) they had collected. But the Mujrimun (criminals, disbelievers, polyt heists, sinners, etc.) will not be questioned of their sins (because Allah knows them well, so they will be punished without account). So he went forth before his people in his pomp. Those who were desirous of the life of the world said: Ah, would that we had the like of what Korah has been given! Verily! He is the owner of a great fortune."
+
+    But those who had been given (religious) knowledge said: "Woe to you! The Reward of Allah (in the Hereafter) is better for those who believe and do righteous good deeds, and this none shall attain except those who are patient (in following the truth)."
+
+    So We caused the earth to swallow him and his dwelling place. Then he had no group or party to help him against Allah, nor was he one of those who could save themselves. And those who had desired (for a position like) his position the day before, began to say: "Know you not that it is Allah Who enlarges the provision or restricts it to whomsoever He pleases of His slaves? Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up (also)!" Know you not that the disbelievers will never be successful? 
+    Quran Ayah 28:76-82
+
+</details>
+
+<details><summary>
+
+#### Pharaoh's Relative Defends Moses
+  
+</summary>
+  
+When the Egyptians and children of Israel examined this miracle, the conflict between Moses and Pharaoh again reached a crisis because Pharaoh believed that Moses was threatening his kingdom.
+
+Pharaoh was afraid that the people would be misled by Moses. He suggested to his ministers and notable men that Moses be killed. We believe that Haman supported the idea along with a front of disbelievers. It was on the verge of approval, except for the vote of one of the notable men of the state, whose name is not mentioned in the Qur'an. The Qur'an says only that this man was a believer.
+
+This believer spoke in the assembly where the idea of killing Moses had been introduced. He proved that it was not a good idea: "Moses did not say more than that Allah is his Lord. Later, he came with clear evidence that he is a messenger. There are two possibilities: either Moses is righteous or a liar. If he lies, he will be responsible for his lie. If he is righteous and we slay him, where is the guarantee that we will be rescued from the torment of Allah? Either way, he neither says nor does anything that merits our killing him."
+
+This angered Pharaoh and his counselors and they threatened to harm the man, but he refused to budge from his stance. They then tried to woo him back, but he still warned them that they were inviting their doom. This angered Pharaoh more, and he now threatened to kill the man. However, Allah protected His believer.
+
+    Almighty Allah revealed their dialogue: Pharaoh said: "Leave me to kill Moses, and let him call his Lord (to stop me from killing him)! I fear that he may change your religion, or that he may cause mischief to appear in the land!"
+
+    Moses said: "Verily, I seek refuge in my Lord and your Lord from every arrogant who believes not in the Day of Reckoning!"
+
+    And a believing man of Pharaoh's family, who hid his faith said: "Would you kill a man because he says: My Lord is Allah, and he has come to you with clear signs (proofs) from your Lord? And if he is a liar, upon him will be (the sin of) his lie; but if he is telling the truth, then some of that (calamity) wherewith he threatens you will befall on you. Verily, Allah guides not one who is a Musrif (a polytheist, or a murderer who shed blood without a right, or those who commit great sins, oppressor, transgressor), a liar! 0 my people! Yours is the kingdom this day, you are uppermost in the land. But who will save us from the Torment of Allah, should it befall us?"
+
+    Pharaoh said: "I show you only that which I see (correct), and I guide you only to the path of right policy!"
+
+    And he who believed said: "0 my people! Verily, I fear for you a fate like that day (of disaster) of the confederates (of old)! Like the fate of the people of Noah, and 'Ad, and Thamud and those who came after them. And Allah wills no injustice for (His) slaves. And, 0 my people! Verily! I fear for you the Day when there will be mutual calling (between the people of Hell and of Paradise)."
+
+    A Day when you will turn your backs and flee having no protector from Allah, and whomsoever Allah sends astray, for him there is no guide. And indeed Joseph did come to you, in times gone by, with clear signs, but you ceased not to doubt in that which he did bring to you, till when he died you said: "No Messenger will Allah send after him." Thus Allah leaves astray him who is a Musrif (a polytheist, oppressor, a criminal, sinner who commits great sins) and a Murtab (one who doubts Allah's warning and His Oneness). Those who dispute about the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah, without any authority that has come to them, it is greatly hateful in the Sight of Allah and in the sight of those who believe. Thus does Allah seal up the heart of every arrogant, tyrant. (So they cannot guide themselves to the Right Path).
+
+    And Pharaoh said: "0 Haman! Build me a tower that I may arrive at the ways, - the ways of the heavens, and I may look upon the Ilah (God) of Moses but verily, I think him to be a liar."
+
+    Thus it was made fair-seeming, in Pahraoh's eyes, the evil of his deeds, and he was hindered from the (Right) Path, and the plot of Pharaoh led to nothing but loss and destruction (for him).
+
+    And the man who believed said: "0 my people! Follow me, I will guide you to the way of right conduct (i.e. guide you to Allah's Religion of Islamic Monotheism with which Moses has been sent). 0 my people! Truly, this life of the world is nothing but a (quick passing) enjoyment, and verily, the Hereafter that is the home that will remain forever. Whosoever does an evil deed, will not be requited except the like thereof, and whosoever does a righteous deed, whether male or female and is a true believer (in the Oneness of Allah), such will enter Paradise, where they will be provided therein (with all things in abundance) without limit."
+
+    "And 0 my People! How is it that I call you to salvation while you call me to the Fire! You invite me to disbelieve in Allah (and in His Oneness), and to join partners in worship with Him, of which I have no knowledge, and I invite you to the All-Mighty, the Oft-Forgiving! No doubt you call me to (worship) one who cannot grant (me) my request (or respond to my invocation) in this world or in the Hereafter. And our return will be to Allah, and Al-Musrifeen (i.e. polytheists and arrogants, those who commit great sins, the transgressors of Allah's set limits)! They shall be the dwellers of the Fire! And you will remember what I am telling you, and my affair I leave it to Allah. Verily, Allah is the All-Seer of (His) slaves."
+
+    So Allah saved him from the evils that they plotted (against him), while an evil torment encompassed Pharaoh's people. 
+    Quran Ayah 40:26-45
+</details>
+
 The Quran states that God decrees punishments over the pharaoh and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops, pestilence of lice that makes their life miserable, toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. 
 
-    As often as they were troubled grievously, they appealed to Moses thus: "0 Moses! Invoke your Lord for us because of His Promise to you. If you will remove the punishment fromus, we indeed shall believe in you, and we shall let the children of Israel go with you." Quran Ayah 7:134
+    As often as they were troubled grievously, they appealed to Moses thus: "0 Moses! Invoke your Lord for us because of His Promise to you. If you will remove the punishment from us, we indeed shall believe in you, and we shall let the children of Israel go with you."
+    Quran Ayah 7:134
 
 Moses prayed to his Lord and He relieved the suffering caused by the flood. The surging water ceased and withdrew from the land, and it became cultivatable. But when Moses bade them to fulfill their promise to release the children of Israel, they did not respond.
 
 Then Allah sent swarms of locusts which ate whatever crops they had grown. The people hurried to Moses, asking him to invoke Allah to remove this affliction and promising they would send the children of Israel with him this time. The locusts departed, but they did not fulfill their promise.
 
-    Almighty Allah said: And indeed We punished the people of Pharaoh with years of drought and shortness of fruits (crops, etc.), that they might remember (take heed). But whenever good came to them, they said: "Ours is this." And if evil afflicted them, they ascribed it to euil omens connected with Moses and those with him. Be informed! Verily, their evil omens are with Allah but most of them know not. They said (to Moses): "Whatever Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) you may bring to us, to work therewith your sorcery on us, we shall never believe in you." So We sent on them: the flood, the locusts, the lice, the frogs, and the blood: (as a succession of) manifest signs, yet they remained arrogant, and they were of those people who were Mujrimeen (criminals, polyt heists, sinners, etc.) 
+    Almighty Allah said: And indeed We punished the people of Pharaoh with years of drought and shortness of fruits (crops, etc.), that they might remember (take heed). But whenever good came to them, they said: "Ours is this." And if evil afflicted them, they ascribed it to euil omens connected with Moses and those with him. Be informed! Verily, their evil omens are with Allah but most of them know not. They said (to Moses): "Whatever Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) you may bring to us, to work therewith your sorcery on us, we shall never believe in you." So We sent on them: the flood, the locusts, the lice, the frogs, and the blood: (as a succession of) manifest signs, yet they remained arrogant, and they were of those people who were Mujrimeen (criminals, polytheists, sinners, etc.) 
     Quran Ayah 7:130-133
 
     Almighty Allah also said: But when We removed the punishment from them to a fixed term, which they had to reach, behold! They broke their word! Quran Ayah 7:135
 
-The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.
+Pharaoh became ruder and more arrogant. He proclaimed to his people: "Pharaoh is the only god. Has he not the kingdom of Egypt and rivers flowing under it?" He declared that Moses was a liar, a magician, and a poor man who did not wear even one bracelet of gold. 
+
+    Almighty Allah declared: And indeed We did send Moses with Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) to Pharaoh and his chiefs (inviting them to Allah's Religion of Islam). He said: "Verily, I am a Messenger of the Lord of the Alamin (mankind, jinn and all that exists).
+
+    But when he came to them with Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) behold! They laughed at them. And not an Ayah (sign etc.) We showed them but it was greater than its fellow, and We seized them with torment, in order that they might turn from their polytheism to Allah's Religion (Islamic Monotheism).
+
+    And they said (to Moses): "0 you sorcerer! Invoke your Lord for us according to what He has covenanted with you. Verily, we shall guide ourselves (aright)."
+
+    But when We removed the torment from them, behold! They broke their covenant (that they will believe if We remove the torment for them).
+
+    And Pharaoh proclaimed among his people, saying: '0 my people! Is not mine the dominion of Egypt, and these rivers flowing underneath me. See you not then? Am I not better than this one (Moses), who is Mahin has no honor nor any respect, and is weak and despicable and can scarcely express himself clearly? Why then are not golden bracelets bestowed on him, or angels sent along with him?"
+
+    Thus he (Pharaoh) befooled and misled his people, and they obeyed him. Verily, they were Fasiqeen (rebellious, disobedient to Allah).
+    Quran Ayah 43:46-55
 
 ### Splitting of the sea
 
+It appeared that Pharaoh would never believe in Moses's message, nor would he stop the torture of the children of Israel. Therefore, Moses prayed to his Lord thus: 
+
+    "Our Lord! You have indeed bestowed on Pharaoh and his chiefs splendor and wealth in the life of this world, our Lord! That they may lead men astray from Your Path. Our Lord! Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment."
+
+    Allah said: "Verily, the invocation of you both is accepted. So you both keep to the Straight Way (i.e. keep on doing good deeds and preaching Allah's Message with patience), and follow not the path of those who know not (the truth i.e. to believe in the Oneness of Allah, and also to believe in the Reward of Allah: Paradise etc.)." 
+    Quran Ayah 10:88-89
+
+Allah inspired Moses to conduct his people out of Egypt, but only a few of his people believed in his message. Allah revealed: But none believed in Moses except the offspring of his people, because of the fear of Pharaoh and his chiefs, lest they should persecute them; and verily, Pharaoh was an arrogant tyrant on the earth, he was indeed one of the Musrifeen (polyt heists, sinners and transgressors, those who give up the truth and follow the evil, and commit all kinds of great sins).
+
+The Quran mentions that God instructs Musa to travel at night with the Israelites and warns them that they would be pursued. The Pharaoh chases the Israelites with his army after realizing that they have left during the night.
+
 Having escaped and now being pursued by the Egyptians, the Israelites stop when they reach the seafront. The Israelites exclaim to Musa that they would be overtaken by Pharaoh and his army. In response, God commands Musa to strike the Red Sea with his staff, instructing them not to fear being inundated or drowning in sea water. Upon striking the sea, Musa splits it into two parts, forming a path that allows the Israelites to pass through. The Pharaoh witnesses the sea splitting alongside his army, but as they also try to pass through, the sea closes in on them. As he is about to die, Pharaoh proclaims belief in the God of Musa and the Israelites, but his belief is rejected by God. The Quran states that the body of the Pharaoh is made a sign and warning for all future generations. 
 
-As the Israelites continue their journey to the Promised Land, they come upon people who are worshipping idols. The Israelites request to have an idol to worship, but Musa refuses and states that the polytheists would be destroyed by God. They are granted manna and quail as sustenance from God, but the Israelites ask Musa to pray to God for the earth to grow lentils, onions, herbs and cucumbers for their sustenance. When they stop in their travel to the Promised Land due to lack of water, Musa is commanded by God to strike a stone, and upon its impact twelve springs came forth, each for a specific tribe of the Israelites.
+    Almighty Allah narrated: And We inspired Moses, saying: "Take away My slaves by night, verily, you will be pursued." Then Pharaoh sent callers to (all) the cities. (Saying): "Verily! These indeed are but a small band. And verily, they have done what has enraged us; but we are host all assembled, amply fore-warned."
+
+    So, We expelled them from gardens and springs, treasures, and every kind of honorable place. Thus We turned them (Pharaoh's people) out and We caused the children of Israel to inherit them.
+
+    So they pursued them at sunrise. And when the two hosts saw each other, the people of Moses said: "We are sure to be overtaken."
+
+    Moses said: "Nay, verily! With me is my Lord, He will guide me."
+
+    Then We inspired Moses (saying): "Strike the sea with your stick." And it parted, and each separate (part of that sea water) became like the huge, firm mass of a mountain.
+
+    Then We brought near the others (Pharaoh's party) to that place. And We saved Moses and all those with him. Then We drowned the others. Verily! In this is indeed a sign (or a proof), yet most of them are not believers. And verily, your Lord! He is truly the All-Mighty, the Most Merciful." Quran Ayah 26:52
+
+Terror-stricken Pharaoh, realizing that his end had come, declared out of fear: "I believe that there is no god worthy of worship except Allah in Whom the children of Israel believe, and I am of those who surrender to Him." But Allah did not accept this declaration from the tyrant, and the waters closed over him, drowning him and his entire army.
+
+    And We took the children of Israel across the sea, and Pharaoh with his hosts followed them in oppression and enmity, till when drowning overtook him, he said: "I believe that La ilaha illa (Huwa): (none has the right to be worshiped but) He, in whom the children of Israel believe, and I am one of the Muslims (those who submit to Allah's Will)."
+
+    Now (you believe) while you refused to believe before and you were one of the Mufsideen (evil-doers, corrupts, etc.). So this day We shall deliver your (dead) body (out from the sea) that you may be a sign to those who come after you! And verily, many among mankind are heedless or our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.). 
+    Quran Ayah 10:90-92
+
+And after escaping the pharaoh with the help of Allah, Israelites continue their long journey to the Promised Land.
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Revelation of The Torah
 
 </summary>
-Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 
-### Years in the wilderness
+After leaving Egypt, the Israelites continue their journey to the Promised Land. Musa leads the Israelites to Mount Sinai (Tur). Upon arrival, Musa leaves the people, instructing them that Harun is to be their leader during his absence. Musa is commanded by God to fast for thirty days and to then proceed to the valley of Tuwa for guidance. God orders Musa to fast again for ten days before returning. After completing his fasts, Musa returns to the spot where he had first received his miracles from God. He takes off his shoes as before and goes down into prostration. Musa prays to God for guidance and begs God to reveal himself to him. It is narrated in the Quran that God tells him that it would not be possible for Musa to perceive God, but that He would reveal himself to the mountain, stating: 
 
-#### Revelation of the Torah
+    "By no means canst thou see Me (direct); But look upon the mount; if it abide in its place, then shalt thou see Me." When God reveals himself to the mountain, it instantaneously turns into ashes, and Musa loses consciousness. When he recovers, he goes down in total submission and asks forgiveness of God.
 
-The revelation of the Torah at Mount Sinai as depicted in Biblical illustrations
-After leaving Egypt, Musa leads the Israelites to Mount Sinai (Tur). Upon arrival, Musa leaves the people, instructing them that Harun is to be their leader during his absence. Musa is commanded by God to fast for thirty days and to then proceed to the valley of Tuwa for guidance. God orders Musa to fast again for ten days before returning. After completing his fasts, Musa returns to the spot where he had first received his miracles from God. He takes off his shoes as before and goes down into prostration. Musa prays to God for guidance and begs God to reveal himself to him. It is narrated in the Quran that God tells him that it would not be possible for Musa to perceive God, but that He would reveal himself to the mountain, stating: "By no means canst thou see Me (direct); But look upon the mount; if it abide in its place, then shalt thou see Me." When God reveals himself to the mountain, it instantaneously turns into ashes, and Musa loses consciousness. When he recovers, he goes down in total submission and asks forgiveness of God.
+Musa is then given the **Ten Commandments** by God as Guidance and as Mercy. Meanwhile, in his absence, a man named Samiri creates a Golden Calf, proclaiming it to be the God of Musa. The people begin to worship it. 
 
-Musa is then given the Ten Commandments by God as Guidance and as Mercy. Meanwhile, in his absence, a man named Samiri creates a Golden Calf, proclaiming it to be the God of Musa. The people begin to worship it. Harun attempts to guide them away from the Golden Calf, but the Israelites refuse to do so until Musa returns. Musa, having thus received the scriptures for his people, is informed by God that the Israelites has been tested in his absence, and they have gone astray by worshiping the Golden Calf. Musa comes down from the mountain and returns to his people. The Quran states that Musa, in his anger, grabs hold of Harun by his beard and admonishes him for doing nothing to stop them, but when Harun tells Musa of his fruitless attempt to stop them, Musa understands his helplessness, and they both pray to God for forgiveness. Musa then questions Samiri for creating the Golden Calf. Samiri replies that it had simply occurred to him, and he had done so. Samiri is exiled, and the Golden Calf is burned to ashes, and the ashes are thrown into the sea. The wrong-doers who have worshipped the Calf are ordered to be punished for their crime.
+### The Israelites worship a golden calf 🐄
 
-Musa then chooses 70 elites from among the Israelites and orders them to pray for forgiveness. Shortly thereafter, the elders travel alongside Musa to witness the speech between Musa and God. Despite witnessing the speech between them, they refuse to believe until they see God with their own eyes, so as punishment, a thunderbolt kills them. Musa prays for their forgiveness, and they are resurrected. They return to camp and set up a tent dedicated to worshiping God, as Harun had taught them from the Torah. They resume their journey towards the Promised Land.
+Moses had been gone for forty days and his people were becoming restless, for they did not know that Allah had extended his time by a further ten days. Samiri, a man who was inclined towards evil, suggested that they find themselves another guide, as Moses had broken his promise. He said to them: "In order to find true guidance, you need a god, and I shall provide one for you."
 
-#### The Israelites and the cow 🐄
+So he collected all their gold jewelry, dug a hole in which he placed the lot, and lit a huge fire to melt it down. During the casting, he threw a handful of dust, making actions like a magician's to impress the ignorant. From the molten metal he fashioned a golden calf. It was hollow, and the wind passing through it produced a sound. Since superstition was imbedded in their past, they quickly linked the strange sound to something supernatural, as if it were a living god. Some of them accepted the golden calf as their god.
 
-Islamic exegesis narrates the incident of an old and pious man who lives among the Israelites and earns his living honestly. As he is dying, he places his wife, his little son, and his only possession—a calf in God's care—instructing his wife to take the calf and leave it in a forest. His wife does as she is told, and after a few years, when the son has grown up, she informs him about the calf. The son travels to the forest with a rope. He prostrates and prays to God to return the calf to him. As the son prays, the now-grown cow 🐄 stops beside him. The son takes the cow with him. The son is also pious and earns his living as a lumberjack.
+Harun attempts to guide Israelites away from the Golden Calf, but the Israelites refuse to do so until Musa returns. 
 
-One wealthy man among the Israelites dies and leaves his wealth to his son. The relatives of the wealthy son secretly murders the son in order to inherit his wealth. The other relatives of the son come to Musa and ask for his help in tracing the killers. Musa instructs them to slaughter a cow, cut out its tongue, and then place it on the corpse; this would reveal the killers. The relatives do not believe Musa and do not understand why they are instructed to slaughter a cow when they are trying to find the killers. They accuse Musa of joking, but Musa manages to convince them that he is serious. Hoping to delay the process, the relatives ask the type and age of the cow they should slaughter, but Musa tells them that it is neither old nor young but in-between the two ages. Instead of searching for the cow described, they inquire about its colour, to which Musa replies that it is yellow. They ask Musa for more details, and he informs them that it is unyoked, and does not plow the soil nor does it water the tilth. The relatives and Musa search for the described cow, but the only cow that they find to fit the description belongs to an orphaned youth. The youth refuses to sell the cow without consulting his mother. All of them travel together to the youth's home. The mother refuses to sell the cow, despite the relatives constantly increasing the price. They urge the orphaned son to tell his mother to be more reasonable. However, the son refuse to sell the cow without his mother's agreement, claiming that he would not sell it even if they offered to fill its skin with gold. At this, the mother agrees to sell it for its skin filled with gold. The relatives and Musa consent, and the cow is slaughtered and the corpse is touched by its tongue. The corpse rises back to life and reveals the identity of the killers.
+    Almighty Allah narrated: They said: "We broke not the promise to you, of our own will, but we were made to carry the weight of the ornaments of the (Pharaoh's) people, then we cast them (into the fire), and that was what As-Samiri suggested."
 
-### Other incidents
+    Then he took out (of the fire) for them a statue of a calf which seemed to low. They said: "This is your ilah (god), and the ilah (god) of Moses, but (Moses) has forgotten (his god)."
 
-The sayings of Muhammad (hadith), Islamic literature and Quranic exegesis also narrate some incidents of the life of Musa. One story goes that he is bathing apart from the other Israelites who all bathe together. This leads the Bani Israels to say that Musa does so due to a scrotal hernia. One day, when Musa is bathing in seclusion, he puts his clothes on a stone, and the stone flees with his clothes. Musa rushes after the stone, and when the Bani Israels see him, they say, 'By Allah, Musa has got no defect in his body". Musa then beats the stone with his clothes, and Abu Huraira 🐈 states, "By Allah! There are still six or seven marks present on the stone from that excessive beating". In a hadith, Muhammad states that the stone still has three to five marks due to Musa hitting it.
+    Did they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good?
 
-### Death
+    And Aaron indeed had said to them beforehand: "0 my people! You are being tried in this, and verily, your Lord is (Allah) the Most Beneficent, so follow me and obey my order."
 
-Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrael, the Angel of Death, comes to Musa, Musa slaps him in the eye. The angel returns to God and tells Him that Musa does not want to die. God tells the angel to return and tell Musa to put his hand on the back of an ox, and for every hair that comes under his hand, he would be granted a year of life. When Musa asks God what would happen after the granted time, God informs him that he would die after the period. Musa, therefore, requests God for death at his current age near the Promised Land "at a distance of a stone's throw from it."
+    They said: "We will not stop worshipping it (i.e. the calf), until Moses returns to us." Quran Ayah 20:87-91
+
+Musa, having thus received the scriptures for his people, is informed by God that the Israelites has been tested in his absence, and they have gone astray by worshiping the Golden Calf. 
+
+    (Allah) said: "Verily! We have tried your people in your absence, and As-Samiri has led them astray."
+
+Musa comes down from the mountain and returns to his people. The Quran states that Musa, in his anger, grabs hold of Harun by his beard and admonishes him for doing nothing to stop them, but when Harun tells Musa of his fruitless attempt to stop them, Musa understands his helplessness, and they both pray to God for forgiveness. Musa then questions Samiri for creating the Golden Calf. Samiri replies that it had simply occurred to him, and he had done so. Samiri is exiled, and the Golden Calf is burned to ashes, and the ashes are thrown into the sea. The wrong-doers who have worshipped the Calf are ordered to be punished for their crime.
+
+Musa then chooses 70 elites from among the Israelites and orders them to pray for forgiveness. Shortly thereafter, the elders travel alongside Musa to witness the speech between Musa and God.
+
+Moses returned to Mount Sinai with the seventy elders and there he communicated with Allah. The elders heard Moses speaking with his Lord. (Allah spoke to Moses directly.) This was, perhaps, the last miracle that they would see, and it was hoped that it would be sufficient enough to convey the religion to their hearts forever. However, the seventy elite who heard the miracle were dissatisfied. 
+
+    They said to Moses: "0 Moses! We shall never believe in you till we see Allah plainly. " Quran Ayah 2:35
+
+Despite witnessing the speech between them, they refuse to believe until they see God with their own eyes, so as punishment, a thunderbolt kills them. Musa prays for their forgiveness, and they are resurrected. They return to camp and set up a tent dedicated to worshiping God, as Harun had taught them from the Torah. They resume their journey towards the Promised Land.
+
+    And Moses chose out of his people seventy (of the best) men for Our appointed time and place of meeting, and when they were seized with a violent earthquake, he said: "0 my Lord, if it had been Your Will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish ones among us? It is only Your Trial by which You lead astray whom You will, and keep guided whom You will. You are our Wali (Protector), so forgive us and have Mercy on us, for You are the Best of Those who forgive. And ordain for us good in this world, and in the Hereafter. Certainly we have turned unto You."
+    Quran Ayah 7:155
+
+<details><summary>
+
+## Israelites and a cow 🐄 
+
+</summary>
+  
+Islamic exegesis narrates the incident of an old and pious man who lives among the Israelites and earns his living honestly. 
+
+It was said that among the children of Israel there lived a pious man. He was poor but very careful about how he earned his living; it had to be honestly earned. Everything that he did was done for the sake of Allah, never for selfish gain. On his deathbed his last words were: "0 Allah, I place my wife, my little son, and my only possession, a calf, in Your care." Strangely, he asked his wife to lead the calf to the forest and leave it there. He did this because he did not trust the children of Israel, for they were a selfish and greedy folk.
+
+After a few years when the boy had grown up, his mother told him: 'Your father has left you a calf in the trust of Allah. It must have grown into a cow by now." The son was surprised. He did not know of any calf all these years and asked his mother where it was. She replied: "Be like your father and say: 'I trust in Allah,' then go look for it."
+
+With a rope in his hand, he went to the forest and prostrated himself before Allah: "0 Allah, Lord of Abraham and Jacob and Job, return to me my father's trust." As he raised his head, he saw a cow coming towards him. It stopped submissively beside him. He tied the rope around its neck and led it to his house. The cow would not allow anyone else come near it except the young man.
+
+The youth was as pious as his father. He earned his living by cutting wood. Whatever he earned he divided into three equal portions: one he gave to his mother, one he used for his needs, and the last he gave as charity. His nights, too, were divided into three parts: during the early part of the night he helped his mother, the middle part he devoted to the worship of Allah, and during the last part he rested.
+
+#### The People Ask Questions About a Cow
+
+About this time a wealthy man died, leaving behind an only son, who inherited his father's wealth. His cousins envied his good fortune and secretly killed him so that they could inherit it.
+
+The dead boy's other relatives came to the Prophet Moses and asked his help in tracing the boy's murderer. Moses instructed them to slaughter a cow, remove its tongue and place it on the corpse. This would reveal the murderer, he told them. They accused Moses of joking. He replied: "Allah forbid that I be foolish!" They questioned him about the type of cow they should slaughter, and he said: "This cow is neither young nor mature, but in between the two conditions, so do as you have been commanded."
+
+Instead of following his direction, they asked him more questions. "What color must it be?"
+
+He replied: "Verily, it is yellow in color."
+
+They still were not satisfied with his answer and asked for more details. Moses replied: "It is an unyoked cow; it does not plow the soil nor water the tilth, and is entirely without marks."
+
+#### Moses's People Find the Right Cow
+
+They went out in search of such a cow. The only one that matched the description was the one owned by the orphaned youth. They met him on the way and asked the price for which he would sell his cow. He told them he would have to consult his mother first, so they accompanied him to his house and offered her three gold coins. She refused their offer, saying that the cow was worth much more.
+
+They went on increasing their offer and the mother kept on refusing. Finally they urged the son to speak to his mother to be reasonable. He told them: "I will not sell the cow without my mother's approval, even if you offered me its skin filled with gold!" On hearing this, his mother smiled and said: "Let that be the price: its skin filled with gold." They realized that no other cow would do; they had to have it at any price. They agreed to buy the cow and paid with its skin filled with gold.
+
+    Allah the Almighty narrated: And (remember) when Moses said to his people: "Verily, Allah commands you that you slaughter a cow.
+
+    They said: "Do you make fun of us?"
+
+    He said: "I take Allah's Refuge from being among AlJahileen (the ignorants or the foolish)."
+
+    They said: "Call upon your Lord for us that He may make plain to us what it is!"
+
+    He said: "He says, 'Verily, it is a cow neither too old nor too young, but (it is) between the two conditions; so do what you are commanded."
+
+    They said: "Call upon your Lord for us to make plain to us its color."
+
+    He said: "He says, 'It is a yellow cow bright in its color, pleasing to the beholders.
+
+    They said: "Call upon your Lord for us to make plain to us what it is. Verily to us all cows are alike, and surely, if Allah wills, we will be guided."
+
+    He (Moses) said: "He says, 'It is a cow neither trained to till the soil nor water the fields, sound, having no other color except bright yellow.
+
+    They said: "Now you have brought the truth." So they slaughtered it though they were near to not doing it.
+
+    And (remember) when you killed a man and fell into dispute among yourselves as to the crime. But Allah brought forth that which you were hiding. So We said: "Strike him (the dead man) with apiece of it (the cow)." Thus Allah brings the dead to life and shows you His Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) so that you may understand.
+
+    Then after that your hearts were hardened and became as stones or even worse in hardness. And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which fall down for fear of Allah. And Allah is not unaware of what you do. 
+    Quran Ayah 2:67-74
 
 </details>
+</details>
 
-<details>
-<summary>
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
 
 ## Meeting with Khidr
 
@@ -2217,39 +2442,17 @@ They walk on the seashore and pass by a ship. The crew of the ship recognize Khi
 Khidr informs Musa that they are now to part ways as Musa has broken his promise. Khidr then explains each of his actions. He informs Musa that he had broken the ship with the adze because a ruler who reigns in those parts took all functional ships by force; Khidr has created a defect in order to prevent their ship from being taken by force. Khidr then explains that he has killed the child because he was mischievous and disobedient to his parents, and Khidr fears that the child would overburden them with his disobedience, and explained that God would replace him with a better one who is more obedient and has more affection. Khidr then explains that he has fixed the wall because it belongs to two hapless children whose father is pious. God wishes to reward them for their piety. Khidr states that there is a treasure hidden underneath the wall, and by repairing the wall, the wall would break in the future, and when dealing with the broken wall, the orphans would find the treasure.
 
 </details>
-
-<details>
-<summary>
-
-## Harun (Aaron)
-
-</summary>
-
-    (Moses) said: "0 my Lord! Open for me my chest (grant me self-confidence, contentment, and boldness). And ease my task for me; and make loose the knot (the defect) from my tongue, (i.e. remove the incorrectness of my speech) that they understand my speech, and appoint for me a helper from my family, Aaron, my brother; increase my strength with him, and let him share my task (of conveying Allah's Message and Prophethood), that we may glorify You much, and remember You much, Verily! You are of us Ever a Well-Seer."
-    
-    Allah said: "You are granted your request, 0 Moses! And indeed We conferred a favor on you another time (before). When We inspired your mother with that which We inspired, saying: 'Put him (the child) into the Tabut (a box or case or a chest) and put him into the river (Nile), then the river shall cast it up on the bank, and there, an enemy of Mine and an enemy of his shall take him.' And I endued you with love from Me, in order that you may be brought up under My Eye, when your sister went and said: 'Shall I show you one who will nurse him?' So We restored you to your mother, that she might cool her eyes and she should not grieve. Then you did kill a man, but We saved you from great distress and tried you with a heavy trial. Then you stayed a number of years with the people of Madyan (Midian). Then you came here according to the fixed term which I ordained (for you), 0 Moses!
-    
-    "And I have Istanatuka chosen you for My Inspiration and My Message for Myself Go you and your brother with My Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), and do not, you both, slacken and become weak in My Remembrance.
-    
-    "Go, both of you, to Pharaoh, verily, he has transgressed (all bounds in disbelief and disobedience and behaved as an arrogant and as a tyrant). And speak to him mildly, perhaps he may accept admonition or fear Allah."
-    
-    They said. "Our Lord! Verily! We fear lest he should hasten to punish us or lest he should transgress (all bounds against us)."
-    
-    He (Allah) said. "Fear not, Verily! I am with you both, Hearing and Seeing. So go you both to him, and say: 'Verily, we are Messengers of your Lord, so let the children of Israel go with us, and torment them not; indeed, we have come with a sign from your Lord! And peace will be upon him who follows the guidance! Truly, it has been revealed to us that the torment will be for him who denies believes not in the Oneness of Allah, and in His Messengers, etc., and turns away' (from the truth and obedience of Allah)." 
-    Quran Ayah 20:25-48
-
-</details>
-
 <details><summary>
 
-## Side-Note
+## Death of Musa
 
 </summary>
-According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan. It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected. The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
+
+Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrael, the Angel of Death, comes to Musa, Musa slaps him in the eye. The angel returns to God and tells Him that Musa does not want to die. God tells the angel to return and tell Musa to put his hand on the back of an ox, and for every hair that comes under his hand, he would be granted a year of life. When Musa asks God what would happen after the granted time, God informs him that he would die after the period. Musa, therefore, requests God for death at his current age near the Promised Land "at a distance of a stone's throw from it."
+
 </details>
 
 # 6. Jewish Kings and Prophets
-
 *******************************************
 
 <details>
@@ -6002,4 +6205,9 @@ Now it has become so rampant that those who disapprove of it, let alone denounce
 In Abrahamic religions, the common things are beliveing in the God of Abraham, believe in the concept of prophets and believe in the Judgement Day. 
 Other large group of religions is dharmic religions that includes Hinduism and Buddism and Jainism. INstead of Judgement day they believe in reincarnation. they also believe in some sort of judgement: Karma.
 
+Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
+
+### Other incidents
+
+The sayings of Muhammad (hadith), Islamic literature and Quranic exegesis also narrate some incidents of the life of Musa. One story goes that he is bathing apart from the other Israelites who all bathe together. This leads the Bani Israels to say that Musa does so due to a scrotal hernia. One day, when Musa is bathing in seclusion, he puts his clothes on a stone, and the stone flees with his clothes. Musa rushes after the stone, and when the Bani Israels see him, they say, 'By Allah, Musa has got no defect in his body". Musa then beats the stone with his clothes, and Abu Huraira 🐈 states, "By Allah! There are still six or seven marks present on the stone from that excessive beating". In a hadith, Muhammad states that the stone still has three to five marks due to Musa hitting it.
 </details>
