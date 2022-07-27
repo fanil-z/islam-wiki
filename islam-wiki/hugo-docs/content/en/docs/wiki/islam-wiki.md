@@ -912,7 +912,7 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 
 <details><summary>
 
-## Short History of Nuh
+## Story of Nuh Shortly
 
 </summary>
 
@@ -925,7 +925,7 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 </details>
 <details><summary>
 
-## The Great Flood
+## Nuh preaches to his people
 
 </summary>
 
@@ -962,7 +962,12 @@ And Noah prayed to God not to leave disbelievers on earth.
     My Lord! Forgive me, my parents, and whoever enters my house in faith, and ˹all˺ believing men and women. And increase the wrongdoers only in destruction."
     Quran, Surah Nuh (71:26-28)
 
-### Building of the Ark
+</details>
+<details><summary>
+
+## Nuh builds the Ark
+
+</summary>
 
 According to the Quran, one day, Noah received a revelation from God, in which he was told that no one would believe the message now aside from those who have already submitted to God. Noah's frustration at the defiance of his people led him to ask God to not leave even one sinner upon earth. 
 
@@ -980,7 +985,12 @@ The Quran states that Noah's wife was not a believer with him so she did not joi
 
 In contrast, the wife of the Pharaoh of the Exodus, Asiya, and Mary, the mother of Jesus, are referred to as among the best of women. This adds to the notion that, on the Last Day, everyone will be judged according to their own deeds. The "Stories of The Prophets" explain that the son who declined to embark was a non-believer.
 
-### Description of The Flood
+</details>
+<details><summary>
+
+## The Great Flood
+
+</summary>
 
 At the day of the flood, Noah saw the sign of the boiling oven as God had said to him. God ordered Noah to load his ark with believers and representative animals in pairs. 
 
@@ -1033,7 +1043,6 @@ Noah released the birds and the beasts, which scattered over the earth. After th
 The Quran draws the curtain on Noah's story. We do not know how his affairs with his people continued. All we know or can ascertain is that on his deathbed, Noah requested his son to worship Allah alone. Noah then passed away.
 
 Abdullah Ibn Amru Ibn Alaas narrated that Prophet Muhammad said: "When the death of the Messenger of Allah Noah approached, he admonished his sons: 'Indeed I would give you far-reaching advice, commanding you to do two things, and warning you against doing two as well. I charge you (to believe) that there is no god but Allah and that if the seven heavens and the seven earths were put on one side of a scale and the words 'There is no god but Allah' were put on the other, the latter would outweigh the former. And I warn you against associating partners with Allah and against pride.'"
-
 </details>
 <details><summary>
 
@@ -2189,33 +2198,6 @@ Gradually, the Pharaoh begins to fear that Musa may convince the people that he 
 
 <details><summary>
 
-#### Korah (Qaroun) refuses to pay zakat
-
-</summary>
-
-Moses began to face a difficult situation. He had to confront Pharaoh's anger and his plots, while at the same time he had to deal with the mutiny of his people. In the midst of all this, Korah (Qaroun) moved.
-
-Korah was a one of Moses's people. He was very rich and lived in a magnificent mansion. He wore only the most expensive clothes. Numerous slaves waited on him and he indulged in every known luxury. His enormous wealth made him arrogant. Korah treated the poor with contempt and told them that their poverty was due to their lack of intelligence. He believed that what he owned was due to his own cleverness and business ability.
-
-Moses reminded Korah to pay alms (zakat) on his wealth, a portion of which was rightfully due to the poor. Alms are compulsory upon all the believers. Korah was annoyed by this advice and told Moses that his being wealthy was proof that he was favored by Allah, Who approved of his life-style and increased his wealth daily. Moses argued with him and warned him of the result of his wicked thoughts.
-
-When Korah did calculate the alms due on his wealth, he was shocked at the large amount he had to part with. He not only refused to give alms, but spread a rumor that Moses had invented the law of zakat for his own gain. He even bribed people to oppose Moses and to spread wicked rumors about him.
-
-Allah warned Moses of Korah's plot. Moses appealed to Allah to punish him for his stinginess and for defying His laws. Allah's anger fell on Korah. The earth opened up and swallowed him, his mansion and all his wealth, as if he had never existed.
-
-    Almighty Allah revealed: Verily, Korah was of Moses's people, but he behaved arrogantly towards them. And We gave him of the treasures, that of which the keys would have been a burden to a body of strong men. When his people said to him: "Do not be glad (with ungratefulness to Allah's Favors). Verily! Allah likes not those who are glad (with ungratefulness to Allah's Favors). But seek, with that (wealth) which Allah has bestowed on you, the home of the Hereafter, and forget not your portion of legal enjoyment in this world, and do good as Allah has been good to you, and seek not mischief in the land. Verily, Allah likes not the Mufsideen (those who commit great crimes and sins, oppressors, tyrants, mischief-makers, corrupts)."
-
-    He said: "This has been given to me only because of knowledge I possess." Did he not know that Allah had destroyed before him generations, men who were stronger than him in might and greater in the amount (of riches) they had collected. But the Mujrimun (criminals, disbelievers, polyt heists, sinners, etc.) will not be questioned of their sins (because Allah knows them well, so they will be punished without account). So he went forth before his people in his pomp. Those who were desirous of the life of the world said: Ah, would that we had the like of what Korah has been given! Verily! He is the owner of a great fortune."
-
-    But those who had been given (religious) knowledge said: "Woe to you! The Reward of Allah (in the Hereafter) is better for those who believe and do righteous good deeds, and this none shall attain except those who are patient (in following the truth)."
-
-    So We caused the earth to swallow him and his dwelling place. Then he had no group or party to help him against Allah, nor was he one of those who could save themselves. And those who had desired (for a position like) his position the day before, began to say: "Know you not that it is Allah Who enlarges the provision or restricts it to whomsoever He pleases of His slaves? Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up (also)!" Know you not that the disbelievers will never be successful? 
-    Quran Ayah 28:76-82
-
-</details>
-
-<details><summary>
-
 #### Pharaoh's Relative Defends Moses
   
 </summary>
@@ -2426,20 +2408,89 @@ They went on increasing their offer and the mother kept on refusing. Finally the
 
 </details>
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
-## Meeting with Khidr
+#### Korah (Qaroun) refuses to pay zakat
 
 </summary>
 
-One hadith recounts that when Musa is delivering an impressive sermon, an Israelite inquires if there were anyone more knowledgeable than him. When Musa denies any such person exists, he receives a revelation from God, which admonishes Musa for not attributing absolute knowledge to God and informs Musa that there is someone named Khidr who is more knowledgeable than him. Upon inquiry, God informs Musa that Khidr would be found at the junction of two seas. God instructs Musa to take a live fish and at the location where it would escape, Khidr would be found. Afterwards, Musa departs and travels alongside with a boy named Yusha (Yeshua bin Nun), until they stop near a rock where Musa rests. While Musa is asleep, the fish escapes from the basket. When Musa wakes up, they continue until they stop for eating. At that moment, Yusha remembers that the fish had slipped from the basket at the rock. He informs Musa about the fish, and Musa remembers God's statement, so they retrace their steps back to the rock. There they see Khidr. Musa approaches Khidr and greets him. Khidr instead asks Musa how people are greeted in their land. Musa introduces himself, and Khidr identifies him as the prophet of the Israelites. According to the Quran, Musa asks Khidr: "Shall I closely follow you on condition that you teach me of what you have been taught?" Khidr warns that he would not be able to remain patient and consents on the condition that Musa would not question his actions.
+Moses began to face a difficult situation. He had to confront Pharaoh's anger and his plots, while at the same time he had to deal with the mutiny of his people. In the midst of all this, Korah (Qaroun) moved.
 
-They walk on the seashore and pass by a ship. The crew of the ship recognize Khidr and offer them to board their ship free of charge. When they are on the boat, Khidr takes an adze and pulls up a plank. When Musa notices what Khidr is doing, he is astonished and stops him. Musa reminds Khidr that the crew has taken them aboard for free. Khidr admonishes Musa for forgetting his promise of not asking. Musa states that he has forgotten and asks to be forgiven. When they leave the seashore, they pass by a boy playing with others. Khidr takes hold of the boy's head and kills him. Musa is again astonished by this action and questions Khidr regarding what he had done. Khidr admonishes Musa again for not keeping his promise, and Musa apologizes and asks Khidr to leave him if he again questions Khidr. Both of them travel on until they happened upon a village. They ask the villagers for food, but the inhabitants refuse to entertain them as guests. They see therein a wall which is about to collapse, and Khidr repairs the wall. Musa asks Khidr why he had repaired the wall when the inhabitants refuse to entertain them as guests and give them food. Musa states that Khidr could have taken wages for his work.
+Korah was a one of Moses's people. He was very rich and lived in a magnificent mansion. He wore only the most expensive clothes. Numerous slaves waited on him and he indulged in every known luxury. His enormous wealth made him arrogant. Korah treated the poor with contempt and told them that their poverty was due to their lack of intelligence. He believed that what he owned was due to his own cleverness and business ability.
 
-Khidr informs Musa that they are now to part ways as Musa has broken his promise. Khidr then explains each of his actions. He informs Musa that he had broken the ship with the adze because a ruler who reigns in those parts took all functional ships by force; Khidr has created a defect in order to prevent their ship from being taken by force. Khidr then explains that he has killed the child because he was mischievous and disobedient to his parents, and Khidr fears that the child would overburden them with his disobedience, and explained that God would replace him with a better one who is more obedient and has more affection. Khidr then explains that he has fixed the wall because it belongs to two hapless children whose father is pious. God wishes to reward them for their piety. Khidr states that there is a treasure hidden underneath the wall, and by repairing the wall, the wall would break in the future, and when dealing with the broken wall, the orphans would find the treasure.
+Moses reminded Korah to pay alms (zakat) on his wealth, a portion of which was rightfully due to the poor. Alms are compulsory upon all the believers. Korah was annoyed by this advice and told Moses that his being wealthy was proof that he was favored by Allah, Who approved of his life-style and increased his wealth daily. Moses argued with him and warned him of the result of his wicked thoughts.
+
+When Korah did calculate the alms due on his wealth, he was shocked at the large amount he had to part with. He not only refused to give alms, but spread a rumor that Moses had invented the law of zakat for his own gain. He even bribed people to oppose Moses and to spread wicked rumors about him.
+
+Allah warned Moses of Korah's plot. Moses appealed to Allah to punish him for his stinginess and for defying His laws. Allah's anger fell on Korah. The earth opened up and swallowed him, his mansion and all his wealth, as if he had never existed.
+
+    Almighty Allah revealed: Verily, Korah was of Moses's people, but he behaved arrogantly towards them. And We gave him of the treasures, that of which the keys would have been a burden to a body of strong men. When his people said to him: "Do not be glad (with ungratefulness to Allah's Favors). Verily! Allah likes not those who are glad (with ungratefulness to Allah's Favors). But seek, with that (wealth) which Allah has bestowed on you, the home of the Hereafter, and forget not your portion of legal enjoyment in this world, and do good as Allah has been good to you, and seek not mischief in the land. Verily, Allah likes not the Mufsideen (those who commit great crimes and sins, oppressors, tyrants, mischief-makers, corrupts)."
+
+    He said: "This has been given to me only because of knowledge I possess." Did he not know that Allah had destroyed before him generations, men who were stronger than him in might and greater in the amount (of riches) they had collected. But the Mujrimun (criminals, disbelievers, polyt heists, sinners, etc.) will not be questioned of their sins (because Allah knows them well, so they will be punished without account). So he went forth before his people in his pomp. Those who were desirous of the life of the world said: Ah, would that we had the like of what Korah has been given! Verily! He is the owner of a great fortune."
+
+    But those who had been given (religious) knowledge said: "Woe to you! The Reward of Allah (in the Hereafter) is better for those who believe and do righteous good deeds, and this none shall attain except those who are patient (in following the truth)."
+
+    So We caused the earth to swallow him and his dwelling place. Then he had no group or party to help him against Allah, nor was he one of those who could save themselves. And those who had desired (for a position like) his position the day before, began to say: "Know you not that it is Allah Who enlarges the provision or restricts it to whomsoever He pleases of His slaves? Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up (also)!" Know you not that the disbelievers will never be successful? 
+    Quran Ayah 28:76-82
+
+</details>
+<details><summary>
+
+## Meeting with Al-Khidr
+
+</summary>
+
+Al-Khidr is a figure described but not mentioned by name in the Quran as a righteous servant of God possessing great wisdom or mystic knowledge
+
+The story of Moses and Al-Khidr is also told in a hadith. 
+> Said Ibn Jubair said: "I said to Ibn Abbas, 'Nauf Al-Bukah claims that Moses, the companion of Al-Khidr, was not Moses (the prophet) of the children of Israel, but some other Moses.' Ibn Abbas said: 'Allah's enemy (i.e. Nauf) has told a lie. Ubai Ibn Kab told us that the Prophet said: Once Moses stood up and addressed Bani Israel. He was asked who was the most learned man amongst the people. He said: "I." Allah admonished him as he did not attribute absolute knowledge to Him (Allah). So, Allah said to him: 'Yes, at the junction of the two seas there is a slave of Mine who is more learned than you." Moses said: "0 my Lord! How can I meet him?" Allah said: "Take a fish and put it in a large basket and you will find him at the place where you will lose the fish."
+
+> Moses took a fish and put it in a basket and proceeded along with his (servant) boy, Joshua (Yusha Ibn Nun), till they reached the rock where they laid their heads (i.e. lay down). Moses slept, and the fish, moving out of the basket, fell into the sea. It took its way into the sea (straight) as in a tunnel. Allah stopped the flow of water over the fish and it became like an arch (the Prophet pointed out this arch with his hands). They traveled the rest of the night, and the next day Moses said to his boy (servant): "Give us our food, for indeed, we have suffered much fatigue in this journey of ours." Moses did not feel tired till he crossed that place which Allah had ordered him to seek after. His boy (servant) said to him: "Do you know that when we were sitting near that rock, I forgot the fish, and none but Satan caused me to forget to tell (you) about it, and it took its course into the sea in an amazing way?" So there was a path for the fish and that astonished them. Moses said: 'This is exactly what we are seeking!"
+
+They hurriedly retraced their steps to the place where the rivers met and where the fish had jumped out. There they found a man, his face partly covered with a hood. His bearing showed he was a saintly man. He was Al-Khidr, the guide.
+
+    Allah the Almighty narrated: And (remember) when Moses said to his boy-servant: "I will not give up (traveling) until I reach the junction of the two seas or (until) I spend years and years in traveling."
+
+    But when they reached the junction of the two seas, they forgot their fish, and it took its way throught the sea as in a tunnel. So when they had passed further on (beyond that fixed place), Moses said to his boy-servant: "Bring us our morning meal; truly, we have suffered much fatigue in this, our journey."
+
+    He said: "Do you remember when we betook ourselves to the ock? I indeed forgot the fish, none but Satan made me forget to remember it. It took its course into the sea in a strange (way)!"
+
+    (Moses) said: "That is what we have been seeking." So they went back retracing their footsteps.
+
+    Then they found one of Our slaves, unto whom We had bestowed mercy from Us, and whom We had taught knowledge from Us. 
+    Quran Ayah 18:60-65
+
+### Moses Speaks to Al-Khidr
+
+    Moses said to him (Khidr) "May I follow you so that you teach me something of that knowledge (guidance and true path) which you have been taught (by Allah)?"
+
+    He (Khidr) said: "Verily! You will not be able to have patience with me! And how can you have patience about a thing which you know not?"
+
+    Moses said: "If Allah will, you will find me patient, and I will not disobey you in aught."
+
+    He (Khidr) said: "Then, if you follow me, ask me not about anything till I myself mention it to you.
+
+    So they both proceeded, till, when they were in the ship, he (Khidr) scuttled it. Moses said: "Have you scuttled it in order to drown its people? Verily, you have done Imra - a Munkar (evil, bad, dreadful) thing."
+
+    He (Khidr) said: "Did I not tell you, that you would not be able to have patience with me?"
+
+    (Moses) said: "Call me not to account for what I forgot, and be not hard upon me for my affair (with you)."
+
+    Then they both proceeded, till they met a boy, he (Khidr) killed him. Moses said: "Have you killed an innocent person who had killed none? Verily, you have done Nukra a great Munkar (prohibited, evil, dreadful) thing!"
+
+    (Khidr) said: "Did I not tell you that you can have no patience with me?"
+
+    (Moses) said: "If I ask you anything after this, keep me not in your company, you have received an excuse from me."
+
+    Then they both proceeded, till, when they came to the people of a town, they asked them for food, but they refused to entertain them. Then they found therein a wall about to collapse and he (Khidr) set it up straight. (Moses) said: "If you had wished, surely you could have taken wages for it!"
+
+    (Khidr) said: "This is the parting between me and you. I will tell you the interpretation of (those) things over which you were unable to hold patience.
+
+    'As for the ship, it belonged to poor people working in the sea. So I wished to make a defective damage in it, as there was a king after them who seized every ship by force.
+
+    "And as for the boy, his parents were believers, and we feared lest he should oppress them by rebellion and disbelief. So we intended that their Lord should change him for them for one better in righteousness and near to mercy.
+
+    "And as for the wall, it belonged to two orphan boys in the town; and there was under it a treasure belonging to them; and their father was a righteous man, and your Lord intended that they should attain their age of full strength and take out their treasure as a mercy from your Lord. And I did it not of my own accord. That is the interpretation of those (things) over which you could not hold patience. Quran Ayah 18:60-82
 
 </details>
 <details><summary>
@@ -2448,15 +2499,19 @@ Khidr informs Musa that they are now to part ways as Musa has broken his promise
 
 </summary>
 
-Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrael, the Angel of Death, comes to Musa, Musa slaps him in the eye. The angel returns to God and tells Him that Musa does not want to die. God tells the angel to return and tell Musa to put his hand on the back of an ox, and for every hair that comes under his hand, he would be granted a year of life. When Musa asks God what would happen after the granted time, God informs him that he would die after the period. Musa, therefore, requests God for death at his current age near the Promised Land "at a distance of a stone's throw from it."
+His people were still wandering in the wilderness when he died. 
+
+Abu Hurairah narrated: 
+> Azrail the Angel of Death was sent to Moses. When he came to Moses, Moses slapped him on the eye. The Angel returned to his Lord and said: You have sent me to a slave who does not want to die.' Allah said: 'Return to him and tell him to put his hand on the back of an ox and for every hair that will come under it, he will be granted one year of life.' Moses said: '0 Lord! What will happen after that?' Allah replied: 'Then death.' Moses said: 'Let it come now!' Moses then requested Allah to let him die close to the Holy Land so that he would be at a distance of a stone's throw from it." Abu Hurairah added: "Allah's Messenger said: 'If I were there, I would show you his grave below the red sandhill on the side of the road."
+
+According to Bible, Moses also dies very close to The Promised Land (also known as "The Land of Milk and Honey", is the land which, according to the Tanakh (the Hebrew Bible or Old Testament), God promised and subsequently gave to Abraham and to his descendants).
 
 </details>
 
-# 6. Jewish Kings and Prophets
+# 6. Jewish Prophets and Kings
 *******************************************
 
-<details>
-<summary>
+<details><summary>
 
 ## Shammil and Talut -- Samuel and King Saul
 
@@ -2466,7 +2521,7 @@ Harun dies shortly before Musa. It is reported in a Sunni hadith that when Azrae
 > 
 > According to Islamic narrative, Israelites after Moses wanted a strong king to rule over their country and to lead them to victory. Allah sent prophet Shammil to help Israelites choose Saul as a king. Israelites mocked Saul but then agreed after seeing a sign from God. 
 > 
-> Saul led them to a battle against Philistines and Goliath. Allah reavealed to Saul that Israelities must not drink from one particular river but a part of people drank from the river and were not allowed to fight in the name of Allah. Despite righteous Israelites were scarse in numbers, Allah granted them victory.
+> Saul led them to a battle against Philistines and Goliath. Allah revealed to Saul that Israelities must not drink from one particular river but a part of people drank from the river and were not allowed to fight in the name of Allah. Despite righteous Israelites were scarse in numbers, Allah granted them victory.
 
 In the Islamic narrative, the Israelites after Moses wanted a king 👑 to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth. But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
 
@@ -2507,14 +2562,15 @@ Taking Saul by the hand, Samuel led him to the children of Israel, but they insi
     He said: "Verily, Allah has chosen him above you and has increased him abundantly in knowledge and stature. And Allah grants His Kingdom to whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower."
     
     And their Prophet (Samuel) said to them: "Verily! The sign of His kingdom is that there shall come to you At Tabut (a wooden box), wherein is Sakinah (peace and reassurance) from your Lord and a remnant of that which Moses and Aaron left behind, carried by the angels. Verily, in this is a sign for you if you are indeed believers."
-    
+
     Then when Saul set out with the army, he said: "Verily! Allah will try you by a river. So whoever drinks thereof, he is not of me, and whoever tastes it not, he is of me, except him who takes thereof in the hollow of his hand."
     
     Yet, they drank thereof, all, except a few of them. So when he had crossed it (the river), he and those who believed with him, they said: "We have no power on this day against Goliath and his hosts."
     
     But those who knew with certainty that they were to meet their Lord, said: "How often a small group overcame a mighty host by Allah's Leave?" And Allah is with the patient.
     
-    And when they advanced to meet Goliath and his forces, they invoked. "Our Lord! Pour forth on us patience and make us victorious over the disbelieving people." (Ch 2:246-250)
+    And when they advanced to meet Goliath and his forces, they invoked. "Our Lord! Pour forth on us patience and make us victorious over the disbelieving people." 
+    Quran Surah 2:246-250
 
 Saul set about organizing his army with strong faith and wisdom. He ordered that only men free from responsibilities should join. Those engaged in building homes, men who were about to be married and those occupied with business should not join.
 
@@ -2523,9 +2579,7 @@ After establishing a well-trained army, he decided to put them to the test. He t
 Saul's men sighted the enemy on the other side of the river. Their opponents appeared physically strong and were armed with better weapons. They were led by the mighty warrior Goliath (Galut), known for his huge build and brute strength. A great number of Saul's men ran away on seeing this strong force. The small band that remained was willing to fight, whatever the outcome, for they had heard that there had been many incidents in the past in which Allah had caused a small force to defeat a larger one.
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Davud (David)
 
@@ -2540,14 +2594,16 @@ Dawud (David), is a prophet and messenger of God and is righteous, divinely-anoi
     And when they went forth to [face] Goliath and his soldiers, they said, "Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people."
     Quran Al-Baqara 2: Verse 250
     
-    So they defeated them by permission of Allah, and David killed Goliath, and Allah gave him the kingship and prophethood and taught him from that which He willed. And if it were not for Allah checking [some] people by means of others, the earth would have been corrupted, but Allah is full of bounty to the worlds.
+    So they defeated them by permission of Allah, and Dawud killed Goliath, and Allah gave him the kingship and prophethood and taught him from that which He willed. And if it were not for Allah checking [some] people by means of others, the earth would have been corrupted, but Allah is full of bounty to the worlds.
     Quran Al-Baqara 2: Verse 251
 
 David's narrative in the Quran, in many respects, parallels that given in the Bible. He is named a prophet (nabī) and also a messenger (rasūl), David is included in lists of those who received revelation (waḥy; Q4:163) or guidance (hudā; 6:84) from God. In both lists his name appears next to that of his son Solomon. Elsewhere, the Quran explains that God gave to both of them the gifts of "sound judgment" (ḥukm; 21:79) and "knowledge" (ʿilm; 21:79; 27:15). 
 
-Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms" (Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr), presumably a reference to the Psalms or the Psalter. The mountains and the birds 🐦🐦 praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth. This role is also suggested by 2:251: "God gave him authority (mulk) and wisdom (ḥikmah) and taught him what He willed. If God did not drive back some people by others, the earth would become corrupt."
+Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms" (Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr), presumably a reference to the Psalms or the Psalter. The mountains and the birds 🐦🐦 praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth. This role is also suggested by 2:251: 
 
-Among the things taught to David was the ability to make armour (21:80, 34:10–11), a suggestion that David’s military exploits were the act of God. It is also important that the Quranic reference to David's "wisdom" was sometimes explained by the classical exegetes as the gift of prophecy. The Quran also connects David and Jesus, by insisting that both cursed those Israelites who did not believe (5:78). Moreover, according to the Quran, David was given the ability to distinguish between truth and falsehood when dispensing justice (faṣl al-khiṭāb, 38:20). Furthermore, there is the allusion to a test David was put through, wherein he prayed and repented and God forgave him (38:24-5). Surah Sad (38th chapter of the Quran) is also called "the sūra of David". Exegetes explain that since David prostrated when asking God to forgive him, Muhammad was ordered to imitate him and to perform a prostration when reading this chapter.
+    "God gave him authority (mulk) and wisdom (ḥikmah) and taught him what He willed. If God did not drive back some people by others, the earth would become corrupt."
+
+Among the things taught to David was the ability to make armour (21:80, 34:10–11), a suggestion that David’s military exploits were the act of God. It is also important that the Quranic reference to David's "wisdom" was sometimes explained by the classical exegetes as the gift of prophecy. The Quran also connects David and Jesus, by insisting that both cursed those Israelites who did not believe (5:78). Moreover, according to the Quran, David was given the ability to distinguish between truth and falsehood when dispensing justice (faṣl al-khiṭāb, 38:20). Furthermore, there is the allusion to a test David was put through, wherein he prayed and repented and God forgave him (38:24-5). Surah Sad (38th chapter of the Quran) is also called "the sūra of David". Exegetes explain that since David prostrated when asking God to forgive him, prophet Muhammad ﷺ   was ordered to imitate him and to perform a prostration when reading this chapter.
 
 ### Religious significance
 
@@ -2558,12 +2614,14 @@ David is one of the few Islamic Prophets who received Kingship as well. While ot
 
 When the Caliph 'Umar visited Jerusalem, the Patriarch Sophronius accompanied him on the Temple Mount, while he searched for the Mihrab Dawud (David's prayer-niche) to perform a prayer. Later commentators identified this site with the Tower of David. In a hadith, the prayer and fasting of David is mentioned to be dear to God.
 
-Narrated Abdullah bin 'Amr bin Al-'As: The Apostle of Allah told me, "The most beloved prayer to Allah is that of David and the most beloved fasts to Allah are those of David. He used to sleep for half of the night and then pray for one third of the night and again sleep for its sixth part and used to fast on alternate days."
-— Muhammad al-Bukhari, Sahih al-Bukhari
+Narrated Abdullah bin 'Amr bin Al-'As: 
+
+> The Apostle of Allah told me, "The most beloved prayer to Allah is that of David and the most beloved fasts to Allah are those of David. He used to sleep for half of the night and then pray for one third of the night and again sleep for its sixth part and used to fast on alternate days."
+> — Muhammad al-Bukhari, Sahih al-Bukhari
 
 ### The Book of David: Zabur
 
-The Zabur is the holy book attributed to David by God, just as Musa (Moses) received the Tawrat (Torah), Isa (Jesus) received the Injil (Gospel) and Muhammad received the Quran. In the current Hebrew Bible, the Zabur is known as the Psalms. However, like other scriptures of the past, the Psalms are believed to have been corrupted over time, with some of the original message now gone. Nonetheless, Muslims are told to treat the present Psalms with immense respect because, in their original form, they too were an inspired Book of God. The Quran states:
+The Zabur is the holy book attributed to David by God, just as Musa (Moses) received the Tawrat (Torah), Isa (Jesus) received the Injil (Gospel) and prophet Muhammad ﷺ   received the Quran. In the current Hebrew Bible, the Zabur is known as the Psalms. However, like other scriptures of the past, the Psalms are believed to have been corrupted over time, with some of the original message now gone. Nonetheless, Muslims are told to treat the present Psalms with immense respect because, in their original form, they too were an inspired Book of God. The Quran states:
 
     Your Lord knows whoever is in the heavens and the earth. We exalted some of the prophets over the others; and to David We gave the Book of Psalms.
     Quran 17:55
@@ -2572,8 +2630,9 @@ The term Zabur is the Arabic equivalent of the Hebrew Zimra, meaning "song/music
 
 </details>
 
-<details>
-<summary>
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
 
 ## Sulayman (Solomon Son of David)
 
@@ -2648,9 +2707,28 @@ As he remained upright, propped on his staff, the jinn thought he was still aliv
 The jinn realized the truth only when God sent a creature to crawl out of the ground and gnaw at Solomon's staff, until his body collapsed. This verse is understood to teach the audience that jinn do not know the unseen (Al-Ghaib), since if they had known the unseen, they would not have stayed in the service of Solomon.
 
 </details>
+<details><summary>
+  
+## Ezekiel
 
-<details>
-<summary>
+</summary>
+
+Almighty Allah said: 
+    
+    Did you (0 Muhammad) not think of those who went forth from their homes in thousands, fearing death? Allah said to them, 'Die." And then He restored them to life. Truly, Allah is full of Bounty to mankind, but most men thank not. 
+    Quran Ayah 2:243
+
+Mohammad Ibn Ishaaq stated of Wahb Ibn Munbah said that
+> when Allah took Kalih Ibn Yofra (Jephtha) after Joshua, Ezekiel Ibn Buzi succeeded him as the prophet to the Israelites. The people had fled from Palestine for fear of the plague and settled on a plateau. Allah said to them: "Die you all," and they all perished. A few centuries passed, and then Ezekiel, passing by, stopped over them, wondering. There came a voice: Do you want Allah to resurrect them while you watch?" He said: "Yes." Then he was commanded to call those bones to join one to the other and to be covered with flesh. So he called them by the power of Allah, and the people arose and glorified Allah in the voice of one man.
+
+According to Ibn 'Abbas, this place was called "Damardan." Its people were inflicted with plague, so they fled, while a group of them who remained in the village perished. The Angel of Death called to the survivors: "Die you all," and they perished. After a long time a prophet called Ezekiel passed by them and stood wondering over them, twisting his jaws and fingers. Allah revealed to him: "Do you want Me to show you how I bring them back to life?" He said: 'Yes." His idea was to marvel at the power of Allah over them. A voice said to him: "Call: '0 you bones, Allah commands you to gather up."' The bones began to fly one to the other until they became skeletons. Then Allah revealed to him to say:
+
+"Call: '0 you bones, Allah commands you to put on flesh and blood and the clothes in which they had died."' And a voice said: "Allah commands you to call the bodies to rise." And they rose. When they returned to life they said: "Blessed are You, 0 Lord, and all praise is Yours." Ibn 'Abbas reported that the dead who were resurrected were four thousand, while Ibn Salih said they were nine thousand.
+
+Muhammad Ibn Ishaaq stated that we do not know how long Ezekiel stayed among the Israelites before Allah took him away. After him, the Israelites deviated from the right way of life, as they usually did, and deserted Allah's covenant with them. They worshiped many idols, among them Ba'al, so Allah sent to them the Prophet Elijah.
+
+</details>
+<details><summary>
 
 ## Ilyas (Elijah)
 
@@ -6210,4 +6288,8 @@ Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
 ### Other incidents
 
 The sayings of Muhammad (hadith), Islamic literature and Quranic exegesis also narrate some incidents of the life of Musa. One story goes that he is bathing apart from the other Israelites who all bathe together. This leads the Bani Israels to say that Musa does so due to a scrotal hernia. One day, when Musa is bathing in seclusion, he puts his clothes on a stone, and the stone flees with his clothes. Musa rushes after the stone, and when the Bani Israels see him, they say, 'By Allah, Musa has got no defect in his body". Musa then beats the stone with his clothes, and Abu Huraira 🐈 states, "By Allah! There are still six or seven marks present on the stone from that excessive beating". In a hadith, Muhammad states that the stone still has three to five marks due to Musa hitting it.
+
+atheism is very recent phenomena.
+the first person to proclaim himself an atheist was Nitzsche whos gone mad in his last years.1844 – 1900
+
 </details>
