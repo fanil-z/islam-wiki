@@ -2634,13 +2634,13 @@ The term Zabur is the Arabic equivalent of the Hebrew Zimra, meaning "song/music
 
 <details><summary>
 
-## Sulayman (Solomon Son of David)
+## Sulaiman -- Solomon Son of David
 
 </summary>
 
 Sulaimān ibn Dāwūd (Solomon son of David) was, according to the Quran, a malik (king) and Nabī (Prophet) of the Israelites. Islamic tradition generally holds that he was the third king 👑 of Jewish people, and a wise ruler for the nation.
 
-Islam views Solomon as one of the prophets of God, who was bestowed with many God-given gifts, including the ability to speak to animals and [jinn](#era-of-jinns-devils-or-spirits).
+Islam views Solomon as one of the prophets of God, who was bestowed with many God-given gifts, including the ability to speak to animals and [jinn](#era-of-jinns-devils-or-spirits). After his father's death, Solomon became king. He begged Allah for a kingdom such as none after him would have, and Allah granted his wish. Besides wisdom, Allah had blessed Solomon with many abilities. He could command the winds and understand and talk to birds and animals. Allah directed him to teach both men and jinns to mine the earth and extract its minerals to make tools and weapons. He also favored him with a mine of copper, which was a rare metal in those days
 
 Muslims further maintain that he remained faithful to the one and only God throughout his life; and reigned justly over the whole of the Israelites; was blessed with a level of kingship which was given to none after him and before him; and fulfilled all of his commandments, being promised nearness to God in Paradise at the end of his life. Arab historians regarded Solomon as one of the greatest rulers around the world.
 
@@ -2649,7 +2649,9 @@ Muslims further maintain that he remained faithful to the one and only God throu
     And Sulayman was Dawud’s heir, and he said, O men! we have been tangent the language of birds, and we have been given all things; most surely this is manifest grace. 
     Quran 38:34-35
 
-Unlike the Talmudic tradition, Solomon was unaware and never participated in idolatry. And the Quran rejects that Solomon was a magician: "(...) Solomon did not disbelieve, but the devils disbelieved, teaching men magic and (...)". (2:102)
+Unlike the Talmudic tradition, Solomon was unaware and never participated in idolatry. And the Quran rejects that Solomon was a magician: 
+
+    "(...) Solomon did not disbelieve, but the devils disbelieved, teaching men magic and (...)". (2:102)
 
 ### Judgment on the field
 
@@ -2657,7 +2659,7 @@ In the earliest narrative involving Solomon, the Quran (21:78) briefly alludes t
 
 Solomon's level of judgment, which the Quran says, would characterize Solomon throughout his life. Ḥikmah (Wisdom), according to Muslim tradition, would always be associated with Solomon, who would later even be referred to as Sulaimān al-Ḥakīm ("Solomon the Wise").
 
-### Solomon and Demons
+### Solomon and Jinns
 
 When David died, Solomon inherited his position as the prophetic king of the Israelites. He prayed to God to grant him a kingdom which would be unlike any after him. God accepted Solomon's prayer and gave him what he pleased.
 
@@ -2670,7 +2672,13 @@ The Quran narrates that the wind was made subservient to Solomon, and he could c
 
 ### Solomon and the Ant 🐜
 
-Solomon was even taught the languages of various animals, such as ants. The Quran recounts that, one day, Solomon and his army entered a wādin-naml (valley of the ant). On seeing Solomon and his army, a namlah (female ant) warned all the others to `... get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it.` Immediately understanding what the ant said, Solomon, as always, prayed to God, thanking him for bestowing upon him such gifts and further avoided trampling over the ant colonies. Solomon's wisdom, however, was yet another of the gifts he received from God, and Muslims maintain that Solomon never forgot his daily prayer, which was more important to him than any of his gifts.
+Solomon was even taught the languages of various animals, such as ants. 
+
+One day Solomon gathered his army, which had different battalions of men, jinns, birds, and animals. He marched them to the country of Askalon.
+
+While they were passing through a valley, an ant saw the approaching army and cried out to warn the other ants: "Run to your homes! Otherwise, unaware, Solomon and his army might crush you!" Solomon, hearing the cry of the ant, smiled. He was glad that the ant knew him to be a prophet who would not intentionally harm Allah's creation. He thanked Allah for saving the ants' lives.
+
+Immediately understanding what the ant said, Solomon, as always, prayed to God, thanking him for bestowing upon him such gifts and further avoided trampling over the ant colonies. Solomon's wisdom, however, was yet another of the gifts he received from God, and Muslims maintain that Solomon never forgot his daily prayer, which was more important to him than any of his gifts.
 
     At length, when they came to a (lowly) valley of ants, one of the ants said: "O ye ants, get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it."
     
@@ -2683,24 +2691,88 @@ Exegetical literature emphasizes the ant's wisdom and explains the meaning behin
 
 _Ruins of the Barran Temple at Ma'rib, the former capital of Saba' in what is now Yemen._
 
-Another important aspect of Solomon's kingship was the size of his army, which consisted of both men and jinn. Solomon would frequently assess his troops and warriors as well as the jinn and all the animals who worked under him. One day, when inspecting his troops, Solomon found the Hud-hud (Hoopoe) missing from the assembly. Shortly later, however, the Hud-hud arrived to Solomon's court, saying:
+In Jerusalem, on a huge rock, Solomon built a beautiful temple to draw the people to worship Allah. Today this building is known as 'The Dome of the Rock." From there, a large band of followers joined Solomon on pilgrimage to the Holy Mosque in Mecca. After they had completed their hajj, they traveled to Yemen and arrived in the city of Sana.
+
+Solomon was impressed by their clever method of channeling water all over their cities. He was keen to build similar water systems in his own country but did not have enough springs.
+
+He set out to find the hoopoe bird, which could detect water under the ground. He sent signals all over for the hoopoe to call on him, but it was nowhere to be found. In anger, he declared that unless the bird had good reason for its absence, he would punish it severely.
+
+The hoopoe eventually came to Solomon and explained the reason for its delay: 
 
     "I have compassed (territory) which thou hast not compassed, and I have come to thee from Saba' with tidings true." 
 
-The Hud-hud further told Solomon that the people of Sheba worshiped the Sun, and that the woman who ruled the kingdom was highly intelligent and powerful. Solomon, who listened closely, chose to write a letter to the land of Sheba, through which he would try to convince the people of Sheba to cease in worshiping the Sun, and to come to the worship of God. Solomon ordered the Hud-hud to give the letter to the Queen of Sheba (Bilqis), and then to hide and observe her reaction. The Hud-hud accepted Solomon's orders, and flew to give the letter to her. The Queen then called her ministers in the court and announced the letter of Solomon stating to the people of Sheba: "In the name of Allah the Compassionate the Merciful, Be you not exalted against me, but come to me as Muslimīn (submitter)." She asked for suggestions from her minister and administration stating:
+The Hud-hud further told Solomon that the people of Sheba worshiped the Sun, and that the woman who ruled the kingdom was highly intelligent and powerful. Solomon, who listened closely, chose to write a letter to the land of Sheba, through which he would try to convince the people of Sheba to cease in worshiping the Sun, and to come to the worship of God. Solomon ordered the Hud-hud to give the letter to the Queen of Sheba (Bilqis), and then to hide and observe her reaction. The Hud-hud accepted Solomon's orders, and flew to give the letter to her. The Queen then called her ministers in the court and announced the letter of Solomon stating to the people of Sheba.
+
+    The hoopoe dropped the letter in front of the queen and flew away to hide. She excitedly opened and read it: "Verily! It is from Solomon, and verily! It (reads): 'In the Name of Allah, the Most Beneficent, the Most Merciful; be you not exalted against me, but come to me as Muslims (true believers who submit to Allah with full submission)." 
+    Quran Ayah 27:30-31
+
+She asked for suggestions from her minister and administration stating:
 
     "O my people, I know that you all are powerful and brave warriors, and no one on the face of the Earth can defeat our army, but still I want your opinion." The people of the court replied: "You have all the power, and whatever order you deliver, you will find us obedient." 
 
-Eventually, however, the Queen came to Solomon, announcing her submission to God.
+    She said: "0 chiefs! Verily! Here is delivered to me a noble letter. Verily! It is from Solomon, and verily! It (reads): 'In the Name of Allah, the Most Beneficent, the Most Merciful; Be you not exalted against me, but come to me as Muslims (true believers who submit to Allah with full submission)."
+
+    She said: 'O chiefs! Advise me in (this) case of mine. I decide no case till you are present with me."
+
+    They said: "We have great strength, and great ability for war, but it is for you to command; so think over what you will command."
+
+    She said: "Verily! Kings, when they enter a town (country), they despoil it, and make the most honorable amongst its people low. And thus they do. But verily! I am going to send him a present, and see with what (answer) the messengers return."
+
+    So when (the messengers with the present) came to Solomon, he said: "Will you help me in wealth? What Allah has given me is better than that which He has given you! Nay, you rejoice in your gift!" (Then Solomon said to the chief of her messengers who brought the present): "Go back to them. We verily shall come to them with hosts that they cannot resist, and we shall drive them out from there in disgrace, and they will be abased." 
+    Quran Ayah 27:29-37
+
+The queen's envoys returned with the gifts and delivered the message. They also told her of the wonderful things they had seen. Instead of taking offense, she decided to visit Solomon. Accompanied by her royal officials and servants, she left Sheba, sending a messenger ahead to inform Solomon that she was on her way to meet him.
+
+Solomon asked the jinns in his employ whether anyone among them could bring her throne to the palace before she arrived. One of them said: "I will bring it to you before this sitting is over." Solomon did not react to this offer; it appeared that he was waiting for a faster means. The jinns competed with each other to please him. One of them named Ifrit said: "I will fetch it for you in the twinkling of an eye!"
+
+No sooner had this one - who had the knowledge of the Book - finished his phrase than the throne stood before Solomon. The mission had, indeed, been completed in the blinking of an eye. Solomon's seat was in Palestine, and the throne of Bilqis had been in Yemen, two thousand miles away. This was a great miracle performed by one of those sitting with Solomon.
+
+    He said: "0 chiefs! Which of you can bring me her throne before they come to me surrendering themselves in obedience?"
+
+    An Ifrit (strong) from the jinns said: "I will bring it to you before you rise from your place (council). And verily, I am in deed strong, and trustworthy for such work."
+
+    One with whom was knowledge of the Scripture said: "I will bring it to you within the twinkling of an eye!" - then when (Solomon) saw it placed before him, he said: 'This is by the Grace of my Lord - to test me whether I am grateful or ungrateful! And whoever is grateful, truly, his gratitude is for (the good of) his ownself and whoever is ungrateful, (he is ungrateful only for the loss of his ownself). Certainly! My Lord is Rich (Free of all wants), Bountiful."
+
+    He said: "Disguise her throne for her that we may see whether she will be guided (to recognize her throne), or she will be one of those not guided."
+
+    So when she came, it was said (to her): "Is your throne like this?"
+
+    She said: "(It is) as though it was the very same."
+
+    And (Solomon said): 'Knowledge was bestowed on us before her, and we were submitted to Allah (in Islam as Muslims before her)."
+
+    And that which she used to worship besides Allah has prevented her (from Islam), for she was of a disbelieving people.
+
+    It was said to her: "Enter As-Sarh "(a glass surface with water underneath it) or a palace, but when she saw it, she thought it was a pool, and she (tucked up her clothes) uncovering her legs.
+
+    Solomon said: "Verily, it is Sarh paved smooth with slab of glass."
+
+    She said: 'My Lord! Verily, I have wronged myself and I submit (in Islam), together with Solomon, to Allah, the Lord of the Alamin (mankind, jinns, and all that exists)." 
+    Quran Ayah 27:38-441
 
 During Bilqis' travel, Solomon asks his servants to deliver her throne to his court. An ifrit offers his service (Q27:38-40), but Solomon declines. Another man is endowed with this task instead, who prays to God for the throne. Afterwards, the prayer is answered and the throne appears thanks to God's power in Solomon's palace. When Bilqis arrives, Solomon asks if she can recognize her throne. She gives him an evasive answer, because she can not grasp the miracle performed here. Since this miracle was done by God (and not by the ifrit), she surrenders to the faith of Solomon. Solomon declined the ifrit's temptatious offer, because he wants to rely on God only and not on the demonic, this leading to his successful conversation of Bilqis.
+
+### Solomon and horses 🐎🐎🐎
+
+During his time horses were the common mode of transportation. They were very essential for defense, to carry soldiers and cart provisions and weapons of war. The animals were well cared for and well trained. One day Solomon was reviewing a parade of his stable. The fitness, beauty and posture of the horses fascinated him so much that he kept on stroking and admiring them. The sun was nearly setting, and the time for the middle prayer was passing by. When he realized this, he exclaimed: "I surely love the finer things of life than the service of my Lord! Return them to me."
+
+    Almighty Allah revealed: And to David We gave Solomon. How excellent a slave! Verily, he was ever oft-returning in repentance (to Us)!
+
+    When there were displayed before him, in the afternoon, well trained horses of the highest breed (for jihad in Allah's cause). And he said: 'Alas! I did love the good (these horses) instead of remembering my Lord (in my Asr prayer)" till the time was over, and (the sun) had hidden in the veil (of night). Then he said: "Bring them (horses) back to me." Then he began to pass his hand over their legs and their necks till the end of the display.
+
+    And, indeed We did try Solomon and We placed on his throne Jasadan (a devil, so he lost his kingdom for a while) but he did return (to his throne and kingdom by the Grace of Allah and he did return) to Allah with obedience and in repentance. He said: 'My Lord.' Forgive me, and bestow upon me a kingdom such as shall not belong to any other after me: verily, You are the Bestower."
+
+    So, We subjected to him the wind, it blew gently to his order whither-so-ever he willed - and also the devils from the jinns (including) every kind of builder and diver, - and also others bound in fetters. (Saying of Allah to Solomon): 'This is Our gift, so spend you or withhold, no account will be asked." And verily, he enjoyed a near access to Us, and a good final return (Paradise). 
+    Quran Ayah 38:30-40
 
 ### Death
 
 The Quran relates that Solomon died while he was leaning on his staff. Then a creature (an ant or a worm) gnaw at Solomon's staff, until his body collapsed.
 
+    Allah the Exalted revealed: And We caused a fount of (molten) brass to flow for him, and there were jinns that worked in front of him by the Leave of his Lord, and whosoever of them turned aside from Our Command, We shall cause him to taste of the torment of the blazing Fire. They worked for him what he desired, (making) high rooms, images, basins as large as reservoirs, and (making) cauldrons fixed (in their places). 'Work you, 0 family of David, with thanks!" But few of My slaves are grateful.
+
     Then, when We decreed (Solomon's) death, nothing showed them his death except a little worm of the earth, which kept (slowly) gnawing away at his staff: so when he fell down, the Jinn saw plainly that if they had known the unseen, they would not have tarried in the humiliating Penalty (of their Task).
-    Qurʾan, Surah 34 (Sabaʾ), Ayah 14
+    Qurʾan, Surah 34 (Sabaʾ), Ayah 12-14
 
 As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them.
 
@@ -6152,6 +6224,13 @@ And finally they will come to the prophet Muhammad ﷺ    begging him to ask All
 Diagram of the "Plain of Assembly" (Ard al-Hashr) on the Day of Judgment, from an autograph manuscript of Futuhat al-Makkiyya written by the Sufi mystic and Muslim philosopher Ibn Arabi, ca. 1238.
 
 The Judgement will not begin until thousands of years people will wait. 
+
+the prophet Muhammad SAW will recognize Muslims because of Wudu.
+
+Every criminal every tyrant will be marked and stamped. everyone's sin will be revealed unless Allah choses to hide some of them.
+everyone will come out of their graves.
+
+Jinns and every animal will be resurrected as well. 
 
 The prophet (ﷺ   ) said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
 
