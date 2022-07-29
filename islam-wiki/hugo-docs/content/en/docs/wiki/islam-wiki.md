@@ -2629,9 +2629,6 @@ The Zabur is the holy book attributed to David by God, just as Musa (Moses) rece
 The term Zabur is the Arabic equivalent of the Hebrew Zimra, meaning "song/music." It, along with Zamir ("song") and Mizmor ("Psalm"), is a derivative of Zamar, meaning "sing", "sing praise", "make music". Thus, David is also usually attributed the gifts of music and song.
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
 ## Sulaiman -- Solomon Son of David
@@ -2795,9 +2792,13 @@ Mohammad Ibn Ishaaq stated of Wahb Ibn Munbah said that
 
 According to Ibn 'Abbas, this place was called "Damardan." Its people were inflicted with plague, so they fled, while a group of them who remained in the village perished. The Angel of Death called to the survivors: "Die you all," and they perished. After a long time a prophet called Ezekiel passed by them and stood wondering over them, twisting his jaws and fingers. Allah revealed to him: "Do you want Me to show you how I bring them back to life?" He said: 'Yes." His idea was to marvel at the power of Allah over them. A voice said to him: "Call: '0 you bones, Allah commands you to gather up."' The bones began to fly one to the other until they became skeletons. Then Allah revealed to him to say:
 
-"Call: '0 you bones, Allah commands you to put on flesh and blood and the clothes in which they had died."' And a voice said: "Allah commands you to call the bodies to rise." And they rose. When they returned to life they said: "Blessed are You, 0 Lord, and all praise is Yours." Ibn 'Abbas reported that the dead who were resurrected were four thousand, while Ibn Salih said they were nine thousand.
+> "Call: '0 you bones, Allah commands you to put on flesh and blood and the clothes in which they had died."' And a voice said: "Allah commands you to call the bodies to rise." And they rose. When they returned to life they said: "Blessed are You, 0 Lord, and all praise is Yours." 
+
+Ibn 'Abbas reported that the dead who were resurrected were four thousand, while Ibn Salih said they were nine thousand.
 
 Muhammad Ibn Ishaaq stated that we do not know how long Ezekiel stayed among the Israelites before Allah took him away. After him, the Israelites deviated from the right way of life, as they usually did, and deserted Allah's covenant with them. They worshiped many idols, among them Ba'al, so Allah sent to them the Prophet Elijah.
+
+Traditional depiction of the cherubim and chariot vision, based on the description by Ezekiel in the Bible.
 
 </details>
 <details><summary>
@@ -2807,11 +2808,10 @@ Muhammad Ibn Ishaaq stated that we do not know how long Ezekiel stayed among the
 </summary>
 
 Ilyas is mentioned 4 times in the Quran. He was the one who perfected his character.
-After death of the prophet Suleyman as, his kingdom was divided into two: Israel(Samaria) and Judah(Jerusalem). They started to go astray. Allah sent Ilyas to Samaria because they started worshipping an idol. They did not listen to Ilyas, so Allah sent a long-lasting draught. Ilyas challenged priests of the idol Ball.
 
-Ilyas is first mentioned as a prophet in Al-An'am 6:85. He invited his people who lived in Baalbek to monotheism, obeying God and abandoning sins. His main task was to prevent the idol-worshipping. After he faced persistence of his people for many years, cursed them with drought and people were inflicted with starvation. Ilyas' narrative in the Quran and later Muslim tradition resembles closely that in the Hebrew Bible and Muslim literature records Elijah's primary prophesying as taking place during the reign of Ahab and Jezebel as well as Ahaziah. 
+After death of the prophet Suleyman as, his kingdom was divided into two: Israel (Samaria) and Judah (Jerusalem). They started to go astray. Allah sent Ilyas to Samaria because they started worshipping an idol. They did not listen to Ilyas, so Allah sent a long-lasting draught. Ilyas challenged priests of the idol Ball.
 
-Ilyas' figure has been identified with a number of other prophets and saints, including Idris, which is believed by some scholars to have been another name for Ilyas, and Khidr. 
+Ilyas is first mentioned as a prophet in Al-An'am 6:85. He invited his people who lived in Baalbek to monotheism, obeying God and abandoning sins. His main task was to prevent the idol-worshipping. After he faced persistence of his people for many years, cursed them with drought and people were inflicted with starvation. Ilyas' narrative in the Quran and later Muslim tradition resembles closely that in the Hebrew Bible and Muslim literature records Elijah's primary prophesying as taking place during the reign of Ahab and Jezebel as well as Ahaziah.
 
 ### Ilyas in the Quran
 
@@ -2826,16 +2826,11 @@ In the Quran, God praises Elijah in two places:
 
     Peace be upon Elijah! This is how We reward those who do good. He is truly among our believing servants.
     Quran, chapter 37 (As-Saaffat), verse 129–132
+
     And Zakariya and Yahya and Isa and Ilyas, they were all from among the righteous.
     Quran, chapter 6 (Al-An'am), verse 85
 
 Numerous commentators, including Abdullah Yusuf Ali, have offered commentary on verse 85 saying that Ilyas, Zakariya, Yahya and Isa were all spiritually connected. Abdullah Yusuf Ali says, "The third group consists not of men of action, but Preachers of Truth, who led solitary lives. Their epithet is: "the Righteous." They form a connected group round Jesus. Zachariah was the father of John the Baptist, who is referenced as "Ilyas, which was for to come" (Matt 11:14); and Elias is said to have been present and talked to Jesus at the Transfiguration on the Mount (Matt. 17:3)."
-
-Although most Muslim scholars believed that Elijah preached in Israel, some early commentators on the Quran stated that Ilyas was sent to Baalbek, in Lebanon. Modern scholars have rejected this claim, stating that the connection of the city with Elijah would have been made because of the first half of the city's name, that of Baal, which was the deity that Elijah exhorted his people to stop worshiping. Scholars who reject identification of Elijah's town with Baalbek further argue that the town of Baalbek is not mentioned with the narrative of Ilyas in either the Quran or the Hebrew Bible.
-
-### Death of Ilyas
-
-By the passage of time, drought spread and many died. When they saw themselves inflicted, regretted their past deeds, turned to Elias (a), and accepted his invitation. Then, due to the prayer of Elias (a) a heavy rain came and the land was satiated; however, after a while, people forgot their covenant with God and returned to idol worshipping. When Ilyas saw this, he asked God for his own death; but, God sent him a chariot of fire and he ascended to the skies and chose Alyasa who was his pupil as his vicegerent. Ilyas is rarely associated with Islamic eschatology. However, some Muslims believe that Ilyas is expected to come back along with the mysterious figure Khidr during the end of times.
 
 ### Legacy
 
@@ -2844,20 +2839,19 @@ Muslim literature and tradition recounts that Ilyas preached to the Kingdom of I
 Ilyas has been the subject of legends and folktales in Muslim culture, usually involving his meeting with Khidr.
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Alyasa (Elisha)
 
 </summary>
 
-Alyasa is a prophet and messenger of God (Allah) who was sent to guide the Children of Israel. In the Quran, Alyasa is mentioned twice as a prophet, and is mentioned both times alongside fellow prophets. He is honored by Muslims as the prophetic successor to Ilyas (Elijah). Islamic sources that identify Elisha with Khidr cite the strong relationship between Khidr and Ilyas in Islamic tradition.
+Alyasa is a prophet and messenger of God (Allah) who was sent to guide the Children of Israel. In the Quran, Alyasa is mentioned twice as a prophet, and is mentioned both times alongside fellow prophets. He is honored by Muslims as the prophetic successor to Ilyas (Elijah).
 
-The name of Alyasa is mentioned twice in Al-An'am 6:86 and Sad 38:48. In those verses, without mentioning anything about the personality or prophethood of Alyasa, he is mentioned as "graced" and "among the elect". According to the Quran, Elisha is exalted "above the rest of creation" (Arabic: "among the excellent". Alyasa is mentioned in Al-An'am 6:86 and Sad 38:48, along with Ismail:
+The name of Alyasa is mentioned twice in Al-An'am 6:86 and Sad 38:48. In those verses, without mentioning anything about the personality or prophethood of Alyasa, he is mentioned as "graced" and "among the elect". According to the Quran, Elisha is exalted "above the rest of creation" (Arabic: "among the excellent". Alyasa is mentioned along with Ismail:
 
     And Ismail and Alyasa and Yunus, and Lut; and each one We graced over the worlds;
     Quran Al-An'am 6:86
+
     And remember Our servants Ismail, Alyasa, and Dhul-Kifl, each of them truly good.
     Quran Sad 38:48
 
@@ -2869,8 +2863,9 @@ In the biblical narrative he is a disciple and protégé of Elijah, and after El
 
 </details>
 
-<details>
-<summary>
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
 
 ## Yunus (Jonah) and The Big Fish 🐳
 
