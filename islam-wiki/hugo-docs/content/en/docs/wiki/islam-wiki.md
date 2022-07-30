@@ -2862,36 +2862,94 @@ Elisha is venerated as a prophet in Judaism, Christianity and Islam and writings
 In the biblical narrative he is a disciple and protégé of Elijah, and after Elijah was taken up in a whirlwind, he gave Elisha a double portion of his power and he was accepted as the leader of the sons of the prophets. Elisha then went on to perform twice as many miracles as Elijah.
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
 ## Yunus (Jonah) and The Big Fish 🐳
 
 </summary>
-The companion of the fish 🐟. (8-9cen BCE)
-He was in three darknesses: the darkness of the night, darkness of the ocean's depth, darkness of the whale's stomach.
 
-Yunus ibn Matta (Arabic: يُونُس ابن ماتا, romanized: Yūnus ibn Matta) is a prophet and messenger of God (Allah). Yunus is traditionally viewed as highly important in Islam as a prophet who was faithful to God and delivered His messages. Yunus is the only one of the Bible's Twelve Minor Prophets to be named in the Quran. The tenth chapter of the Quran is named after him.
+> ~ VIII-IX century BCE
 
-Yunus is called Dhul-Nun (Arabic: ذُو ٱلنُّوْن) and by Muslims.[5] He is mentioned four times in the Quran by name.
+Yunus is called in the Quran as a companion of the fish 🐟. He was in three darknesses: the darkness of the night, darkness of the ocean's depth, darkness of the whale's stomach.
 
-In Al-Anbiya 21:87 and Al-Qalam 68:48, Yunus is called Dhul-Nūn (Arabic: ذُو ٱلنُّوْن, lit. 'The One of the Fish').[5] In An-Nisa 4:163 and Al-An'am 6:86, he is referred to as "an apostle of Allah".[5] Surah 37:139-148 retells the full story of Yunus:[5]
+Yunus ibn Matta (يُونُس ابن ماتا, ) is a prophet and messenger of God (Allah). Yunus is traditionally viewed as highly important in Islam as a prophet who was faithful to God and delivered His messages. Yunus is the only one of the Bible's Twelve Minor Prophets to be named in the Quran. The tenth chapter of the Quran is named after him.
 
-    So also was Jonah among those sent (by Us).
+In the Quran, Yunus is mentioned several times by name, as an apostle of Allah, and as Dhul-Nun ( ذُو ٱلنُّوْن)).
+
+In Al-Anbiya 21:87 and Al-Qalam 68:48, Yunus is called Dhul-Nūn (ذُو ٱلنُّوْن, lit. 'The One of the Fish'). In An-Nisa 4:163 and Al-An'am 6:86, he is referred to as "an apostle of Allah". 
+
+The Quran does not mention Yunus' heritage, but Muslim tradition teaches that Yunus was from the tribe of Benjamin.
+
+The inhabitants of the town of Nineveh were idolators who lived a shameless life. Prophet Jonah was sent to teach them the worship of Allah. The people disliked his interference in their way of worship, so they argued: "We and our forefathers have worshipped these gods for many years and no harm has come to us."
+
+Try as he might to convince them of the foolishness of idolatry and of the goodness of Allah's laws, they ignored him. He warned them that if they kept on with their foolishness, Allah's punishment would soon follow. Instead of fearing Allah, they told Jonah that they were not afraid of his threats. "Let it happen," they told him. Jonah was disheartened. "In that case I will leave you to your misery!" So saying, he left Nineveh, fearing that Allah's anger would soon follow. 
+
+    And (remember) Dhan-Nun (Jonah), when he went off in anger, and imagined that We shall not punish him (i.e., the calamities which had befallen him)! 
+    Surah 21:87
+
+### People of Yunus repent
+
+Hardly had Yunus left the city when the skies began to change color and looked as if they were on fire. The people were filled with fear by this sight. They recalled the destruction of the people of 'Ad, Thamud and Noah. Was theirs to be a similar fate? Slowly faith penetrated their hearts. They all gathered on the mountain and started to beseech Allah for His mercy and forgiveness. The mountains echoed with their cries. It was a momentous hour, filled with sincere repentance.
+
+Allah removed His wrath and showered His blessings upon them once again. When the threatening storm was lifted, they prayed for the return of Yunus so that he could guide them.
+
+### Yunus in a storm
+
+Meanwhile, Jonah had boarded a small ship in the company of other passengers. It sailed all day in calm waters with a good wind blowing at the sails. When night came, the sea suddenly changed. A horrible storm blew as if it were going to split the ship into pieces. The waves looked wild. They rose up as high as mountains then plunged down like valleys, tossing the ship and sweeping over the deck.
+
+Behind the ship, a large whale was splitting the water and opening its mouth. A command had been issued from Almighty Allah to one of the greatest whales of the sea to surface. It obeyed. The whale hurried to the surface of the sea and followed the ship as it had been commanded.
+
+The tempest continued and the chief crewman asked the crew to lighten the ship's heavy load. They threw their baggage overboard, but this was not enough. Their safety lay in reducing the weight further, so they decided among themselves to lighten their load by removing at least one person.
+
+### Yunus jumps into the sea
+
+The captain directed: "We will make lots with all the travelers' names. The one whose name is drawn will be thrown into the sea." Jonah knew this was one of the seamen's traditions when facing a tempest. It was a strange polytheistic tradition, but it was practiced at that time. Jonah's affliction and crisis began.
+
+Here was the prophet, subjected to polytheistic rules that considered the sea and the wind to have gods that riot. The captain had to please these gods. Jonah reluctantly participated in the lot, and his name was added to the other travelers' names. The lot was drawn and "Jonah" appeared.
+
+Since they knew him to be the most honorable among them, they did not wish to throw him into the angry sea. Therefore, they decided to draw a second lot. Again Jonah's name was drawn. They gave him a final chance and drew a third lot. Unfortunately for Jonah, his name came up again.
+
+Jonah realized that Allah's hand was in all this, for he had abandoned his mission without Allah's consent. The matter was over, and it was decided that Jonah should throw himself into the water. Jonah stood at the edge of the ship, looking at the furious sea. It was night and there was no moon. The stars were hidden behind a black fog. But before he could be thrown overboard, Jonah kept mentioning Allah's name as he jumped into the raging sea and disappeared beneath the huge waves.
+
+### A whale swallows Yunus
+
+The whale found Yunus floating on the waves before it. It swallowed Yunus into its furious stomach and shut its ivory teeth on him as if they were white bolts locking the door of his prison. The whale dived to the bottom of the sea, the sea that runs in the abyss of darkness.
+
+Three layers of darkness enveloped him, one above the other: the darkness of the whale's stomach, the darkness of the bottom of the sea, the darkness of the night. Jonah imagined himself to be dead, but his senses became alert when he found he could move. He knew that he was alive and imprisoned in the midst of three layers of darkness. His heart was moved by remembering Allah. His tongue was released soon after saying: "La ilaha illa Anta (none has the right to be worshipped but You (0, Allah), Glorified (and Exalted) be You above all that (evil) they associate with You. Truly, I have been of the wrong-doers." 
+
+    And ˹remember˺ when the Man of the Whale stormed off ˹from his city˺ in a rage, thinking We would not restrain him. Then in the ˹veils of˺ darkness he cried out, “There is no god ˹worthy of worship˺ except You. Glory be to You! I have certainly done wrong.”
+    Surah 21:87
+
+Jonah continued praying to Allah, repeating this invocation. Fishes, whales, sea-weeds, and all the creatures that lived in the sea heard the voice of Jonah praying, heard the celebration of Allah's praises issuing from the whale's stomach. All these creatures gathered around the whale and began to celebrate the praises of Allah in their turn, each in its own way and in its own language.
+
+### Allah forgives Yunus
+
+The whale also participated in celebrating the praises of Allah and understood that it had swallowed a prophet. Therefore it felt afraid; however, it said to itself: "Why should I be afraid? Allah commanded me to swallow him."
+
+Allah Almighty saw the sincere repentance of Jonah and heard his invocation in the whale's stomach. Allah commanded the whale to surface and eject Jonah onto an island. The whale obeyed and swam to the farthest side of the ocean. Allah commanded it to rise towards the warm, refreshing sun and the pleasant earth.
+
+The whale ejected Jonah onto a remote island. His body was inflamed because of the acids inside the whale's stomach. He was ill, and when the sun rose, its rays burned his inflamed body so that he was on the verge of screaming for the pain. However, he endured the pain and continued to repeat his invocation to Allah.
+
+Almighty Allah caused a vine to grow to considerable length over him for protection. Then Allah Exalted caused Jonah to recover and forgave him. Allah told Jonah that if it had not been for his praying to Him, he would have stayed in the whale's stomach till the Day of Judgment.
+
+Gradually he regained his strength and found his way to his hometown, Nineveh. He was pleasantly surprised to notice the change that had taken place there. The entire population turned out to welcome him. They informed him that they had turned to believe in Allah. Together they led a prayer of thanksgiving to their Merciful Lord.
+
+Surah 37:139-148 retells the full story of Yunus:
+
+    So also was Yunus among those sent (by Us).
     When he ran away (like a slave from captivity) to the ship (fully) laden,
-    He (agreed to) cast lots, and he was condemned:
+    He (agreed to) cast lots, and he was condemned.
+
     Then the whale did swallow him, and he had done acts worthy of blame.
     Had it not been that he (repented and) glorified Allah,
     He would certainly have remained inside the Fish till the Day of Resurrection.
+
     But We cast him forth on the naked shore in a state of sickness,
     And We caused to grow, over him, a spreading plant of the gourd kind.
+
     And We sent him (on a mission) to a hundred thousand (men) or more.
     And they believed; so We permitted them to enjoy (their life) for a while.
-    Quran, chapter 37 (As-Saaffat), verses 139–148[8]
-
-The Quran does not mention Yunus' heritage, but Muslim tradition teaches that Yunus was from the tribe of Binyjamin.
+    Quran, chapter 37 (As-Saaffat), verses 139–148
 
 ### Hadithic mentions
 
@@ -2902,32 +2960,30 @@ One of the sayings of Muhammad, in the collection of Imam Bukhari, says that Muh
 The ninth-century Persian historian Al-Tabari records that, while Jonah was inside the fish, "none of his bones or members were injured". Al-Tabari also writes that Allah made the body of the fish transparent, allowing Yunus to see the "wonders of the deep" and that Yunus heard all the fish singing praises to Allah. Kisai Marvazi, a tenth-century poet, records that Yunus' father was seventy years old when Yunus was born and that he died soon afterwards, leaving Yunus' mother with nothing but a wooden spoon, which turned out to be a cornucopia.
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Dhu al-Kifl
 
 </summary>
-(debated, Ezekiel, Budda or other)
 
-Dhu al-Kifl (Arabic: ذُو ٱلْكِفْل, ḏū ʾl-kīfl, literally "Possessor of the Kifl "; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-Kifl, or Zu l-Kifl) is an Islamic prophet. Although his identity is unknown, his identity has been theorised and identified as various Hebrew Bible prophets and other figures, most commonly Ezekiel and Gautama Buddha. Dhu al-Kifl is believed to have been exalted by Allah to a high station in life and is chronicled in the Quran as a man of the "Company of the Good". Although not much is known of Dhu al-Kifl from other historical sources, all the writings from classical commentators, such as Ibn Ishaq and Ibn Kathir, speak of Dhu al-Kifl as a prophetic, saintly man who remained faithful in daily prayer and worship.
+Dhu al-Kifl ( ذُو ٱلْكِفْل, ḏū ʾl-kīfl, literally "Possessor of the Kifl "; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-Kifl, or Zu l-Kifl) is an Islamic prophet. Although his identity is unknown, his identity has been theorised and identified as various Hebrew Bible prophets and other figures, most commonly Ezekiel and Gautama Buddha. Dhu al-Kifl is believed to have been exalted by Allah to a high station in life and is chronicled in the Quran as a man of the "Company of the Good". Although not much is known of Dhu al-Kifl from other historical sources, all the writings from classical commentators, such as Ibn Ishaq and Ibn Kathir, speak of Dhu al-Kifl as a prophetic, saintly man who remained faithful in daily prayer and worship.
 
 Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
 
-And (remember) Isma'il, Idris, and Dhu al-Kifl, all (men) of constancy and patience.
-We admitted them to Our mercy: for they were of the righteous ones.
+    And (remember) Isma'il, Idris, and Dhu al-Kifl, all (men) of constancy and patience.
+    We admitted them to Our mercy: for they were of the righteous ones.
+    Quran, Surah Al-Anbiya (21), Ayahs 85–86
 
-— Quran, Surah Al-Anbiya (21), Ayahs 85–86
-And commemorate Isma'il, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good.
+    And commemorate Isma'il, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good.
+    Quran, Surah Sad (38), Ayah 48
 
-— Quran, Surah Sad (38), Ayah 48
 In both cases, Dhu al-Kifl is mentioned in the context of a list of Qur'anic prophets, including many others not mentioned in the ayat quoted above.
 
 </details>
 
-<details>
-<summary>
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
 
 ## Uzair
 
