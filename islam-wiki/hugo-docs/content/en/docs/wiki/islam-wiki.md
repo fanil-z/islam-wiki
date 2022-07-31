@@ -2980,30 +2980,25 @@ Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
 In both cases, Dhu al-Kifl is mentioned in the context of a list of Qur'anic prophets, including many others not mentioned in the ayat quoted above.
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
 ## Uzair
 
 </summary>
 
-Uzair (Arabic: عزير, ʿUzayr) is a figure who is mentioned in the Quran, Surah At-Tawba, verse 9:30, which states that he was revered by the Jews as "the son of God". Uzair is most often identified with the biblical Ezra. Modern historians have described the reference as "enigmatic", since such views have not been found in Jewish sources. Islamic scholars have interpreted the Quranic reference in different ways, with some explaining that it alluded to a specific group of Jews.
+Uzair (عزير, ʿUzayr) is a figure who is mentioned in the Quran, Surah At-Tawba, verse 9:30, which states that he was revered by the Jews as "the son of God". Uzair is most often identified with the biblical Ezra. Modern historians have described the reference as "enigmatic", since such views have not been found in Jewish sources. Islamic scholars have interpreted the Quranic reference in different ways, with some explaining that it alluded to a specific group of Jews.
 
-According to Ibn Kathir, Uzair lived between the times of King Solomon and the time of Zachariah, father of John the Baptist. Some Quranic commentators viewed Uzayr as a learned scholar who sought to teach the people the forgotten laws of God. He is sometimes identified as the protagonist in the Quranic story of the man who slept for a hundred years (2:259). Some Islamic scholars held Uzayr to be one of the prophets. Although there is a hadith that reports that God expunged Uzayr from the list of prophets because he refused to believe in qadar (predestination), but this hadith is considered da'if (weak) and is rejected by most Islamic scholars. Ibn Hazm, al-Samaw'al and other scholars put forth the view that Uzair (or one of his disciples) falsified the Torah, and this claim became a common theme in Islamic polemics against the Bible. Many aspects of later Islamic narratives show similarity to Vision of Ezra, an apocryphal text which seems to have been partially known to Muslim readers.
+According to Ibn Kathir, Uzair lived between the times of King Solomon and the time of Zachariah, father of John the Baptist. Some Quranic commentators viewed Uzayr as a learned scholar who sought to teach the people the forgotten laws of God. He is sometimes identified as the protagonist in the Quranic story of the man who slept for a hundred years (2:259). Some Islamic scholars held Uzayr to be one of the prophets.
 
 The Jews call Uzair a son of Allah, and the Christians call the Christ a son of Allah. That is a saying from their mouth; (in this) they but imitate what the unbelievers of old used to say. May Allah destroy them: how they are deluded away from the Truth!(Quran 9:30)
 
-In February 624, when the qibla (direction of prayer) changed from Jerusalem to Mecca. Sallam ibn Mishkam, a Jew who lived in Medina and his friends asked Muhammad: “How can we follow you when you have abandoned our qibla and you do not allege that Uzair (Ezra) is the son of God?”: 269  This verse is situated in a context of theological disputes with the Jewish community of Medina.[4] The Quran emphasizes the absolute divinity of God and warns against associating any being with him (shirk). It further condemns Jewish and Christian leaders of the time for deceiving the masses into taking "their priests and their anchorites to be their lords in derogation of God".[4] In casting doubt on claims about the divine status of Uzayr and Christ, the Quran also instructs Muslims to reject such beliefs. These arguments reflect the tensions between the new Muslim community and the more established Christian and Jewish communities of Arabia.
+In February 624, when the qibla (direction of prayer) changed from Jerusalem to Mecca. Sallam ibn Mishkam, a Jew who lived in Medina and his friends asked Muhammad: “How can we follow you when you have abandoned our qibla and you do not allege that Uzair (Ezra) is the son of God?”: 269  This verse is situated in a context of theological disputes with the Jewish community of Medina. The Quran emphasizes the absolute divinity of God and warns against associating any being with him (shirk). It further condemns Jewish and Christian leaders of the time for deceiving the masses into taking "their priests and their anchorites to be their lords in derogation of God". In casting doubt on claims about the divine status of Uzayr and Christ, the Quran also instructs Muslims to reject such beliefs. These arguments reflect the tensions between the new Muslim community and the more established Christian and Jewish communities of Arabia.
 
 In some Islamic texts, Ezra is identified as the person mentioned in Qur'an 2:259
 
-Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall God bring it (ever) to life, after (this) its death?" but God caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that God hath power over all things." (Quran 2:259)
+    Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall God bring it (ever) to life, after (this) its death?" but God caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that God hath power over all things." (Quran 2:259)
 
-The history text Zubdat-al Tawarikh, dedicated to Ottoman Sultan Murad III in 1583, narrates a story of Uzair's grief for the destruction of Jerusalem. His grief is said to have been so great that God took his soul and brought him back to life after Jerusalem was reconstructed. In the miniature accompanying the manuscript, the building on the lower right depicts the rebuilt city of Jerusalem in the form a typical sixteenth-century Ottoman building with a dome and an arched portico. The former ruins of Jerusalem are alluded to by the broken arches and columns on the left.
-
-According to the classical Quranic exegete, Ibn Kathir, after Ezra questioned how the resurrection will take place on the Day of judgment, God had him brought back to life many years after he died. He rode on his revived donkey and entered his native place. But the people did not recognize him, nor did his household, except the maid, who was now an old blind woman. He prayed to God to cure her blindness and she could see again. He meets his son who recognized him by a mole between his shoulders and was older than he was. Ezra then led the people to locate the only surviving copy of Torah as the remaining were burnt by Nebuchadnezzar. It was rotting and crumpled, so Ezra had a new copy of the Torah made which he had previously memorized. He thus renovated the Torah to the Children of Israel. Ibn Kathir mentions that the sign in the phrase "And that We may make of thee a sign unto the people" was that he was younger than his children. After this miracle, Ibn Kathir writes that Jews began to claim that Ezra was the 'son of God'.
+According to the classical Quranic exegete, Ibn Kathir, after Ezra questioned how the resurrection will take place on the Day of judgment, God had him brought back to life many years after he died. He rode on his revived donkey and entered his native place. Ezra then led the people to locate the only surviving copy of Torah as the remaining were burnt by Nebuchadnezzar. It was rotting and crumpled, so Ezra had a new copy of the Torah made which he had previously memorized. He thus renovated the Torah to the Children of Israel. Ibn Kathir mentions that the sign in the phrase "And that We may make of thee a sign unto the people" was that he was younger than his children. After this miracle, Ibn Kathir writes that Jews began to claim that Ezra was the 'son of God'.
 
 The modern Quranic exegesis of Abul Ala Maududi states:
 
@@ -3014,11 +3009,9 @@ According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a g
 </details>
 
 # 7. Isa (Jesus and Family of Imran)
-
 *******************************************
 
-<details>
-<summary>
+<details><summary>
 
 ## Maryam (Virgin Mary) is born
 
@@ -3034,30 +3027,22 @@ His wife thought that he was going to give birth to a boy, but it was Mary.
 
 ### Birth of Mary
 
- (Arabic: مريم بنت عمران, Maryam bint Imran) or Maryam, daughter of Imran, mother of Isa (Jesus), holds a singularly exalted place in Islam as the only woman named in the Quran, which refers to her seventy times and explicitly identifies her as the greatest of all women, stating, with reference to the angelic salutation during the annunciation, "O Mary, God has chosen you, and purified you; He has chosen you above all the women of creation." In the Quran, her story is related in three Meccan chapters (19, 21, 23) and four Medinan surahs (3, 4, 5, 66), and the nineteenth Surah titled Maryam, is named after her. The Quran refers to Mary more often than the Bible.
+Maryam (مريم بنت عمران, Maryam bint Imran), daughter of Imran, mother of Isa (Jesus), holds a singularly exalted place in Islam as the only woman named in the Quran, which refers to her seventy times and explicitly identifies her as the greatest of all women, stating, with reference to the angelic salutation during the annunciation, `O Mary, God has chosen you, and purified you; He has chosen you above all the women of creation.` In the Quran, her story is related in three Meccan chapters (19, 21, 23) and four Medinan surahs (3, 4, 5, 66), and the nineteenth Surah titled Maryam, is named after her. The Quran refers to Mary more often than the Bible.
 
-According to the Quran, divine grace surrounded Mary from birth, and, as a young woman, she received a message from God through the archangel Gabriel that God had chosen her, purified her, and had preferred her above all "the women of the worlds." This event, according to the same narrative, was followed by the annunciation of a child who was to be miraculously conceived by her through the intervention of the divine spirit while she was still virgin, whose name would be Jesus and who would be the "anointed one," the Promised Messiah. As such, orthodox Islamic belief "has upheld the tenet of the virgin birth of Jesus," and although the classical Islamic thinkers never dwelt on the question of the perpetual virginity of Mary at any great length, it was generally agreed in traditional Islam that Mary remained a virgin throughout her life, with the Quran's mention of Mary's purification “from the touch of men” implying perpetual virginity in the minds of many of the most prominent Islamic fathers.
+According to the Quran, divine grace surrounded Mary from birth, and, as a young woman, she received a message from God through the archangel Gabriel that God had chosen her, purified her, and had preferred her above all "the women of the worlds." This event, according to the same narrative, was followed by the annunciation of a child who was to be miraculously conceived by her through the intervention of the divine spirit while she was still virgin, whose name would be Jesus and who would be the "anointed one," the Promised Messiah.
 
 The birth of Mary is narrated in the Quran with references to her father as well as her mother. Mary's father is called Imran. He is the equivalent of Joachim in Christian tradition. Her mother, according to al-Tabari, is called Hannah, which is the same name as in Christian tradition (Saint Anne). Muslim literature narrates that Imran and his wife were old and childless and that, one day, the sight of a bird 🐦 in a tree feeding her young aroused Anne's desire for a child. She prayed to God to fulfill her desire and vowed, if her prayer was accepted, that her child would be dedicated to the service of God.
 
-According to Iraqi scholar and translator, N.J. Dawood, the Quran confuses Mary mother of Jesus with Mary the sister of Moses, by referring to Mary, the mother of Jesus' father as Imran, which is the Arabic version of Amram, who in Exodus 6:20, is shown to be the father of Moses. Dawood, in a note to Quran 19:28, where Mary the Mother of Jesus is referred to as the "Sister of Aaron", and Aaron was the brother of Mary sister of Moses, states: "It Appears that Miriam, Aaron's sister, and Maryam (Mary), mother of Jesus, were according to the Koran, one and the same person." Although Islamic studies of the beginning of the 20th century tended to see this as a mistake in genealogy, in more recent Islamic Studies of the 21st century the general consensus is, according to Angelika Neuwirth, Nicolai Sinai & Michael Marx, that the Quran does not make a genealogical error but instead makes use of Typology. This is, following Wensincks conclusion, supported by the figurative speech of the Quran and the Islamic tradition:
-Maryam is called a sister of Hārūn and the use of these three names Imrān, Hārūn and Maryam, has led to the supposition that the Kur'ān does not clearly distinguish between the two Maryams of the Old and the New Testaments. It is not necessary to assume that these kinship links are to be interpreted in modern terms. The words "sister" and "daughter", like their male counterparts, in Arabic usage can indicate extended kinship, descendance or spiritual affinity. Muslim tradition is clear that there are eighteen centuries between the Biblical Amram and the father of Maryam.
+Hannah thought that she would conceive a boy. When she delivered Mary, she said `Oh my Lord! Verily I have delivered a female, and the male is not like the female, for a girl will not be a prophet` to which Allah replies `And God knows better what has been delivered`.
 
-Similarly, Stowasser concludes that "to confuse Mary the mother of Jesus with Mary the sister of Moses and Aaron in Torah is completely wrong and in contradiction to the sound Hadith and the Qur'anic text as we have established".
+### Early years
 
-The quranic account of Mary's birth does not affirm an Immaculate Conception for Mary as Islam does not accept the doctrine of original sin, or an inherited fault in humans, as it is found in Christianity. No such doctrine exists in Islam.
+The Quran does not, specifically, point to the fact that Mary lived and grew up in a temple as the word miḥ'rāb in Quran 3:36 in its literal meaning refers to a private chamber or a public/private prayer chamber. The definitive idea of Mary growing up in a temple derived via external literature (i.e. see the narration below by Ja'far al-Sadiq). She was placed under the care of the prophet Zechariah, the husband of Hannah's sister and Mary's maternal uncle and caretaker. As often as Zechariah entered Mary's prayer chamber, he found her provided with food and he would ask her where she received it from, to which she would reply that God provides to whom He wills. Scholars have debated as to whether this refers to miraculous food that Mary received from God or whether it was normal food. Those in favor of the former view state that it had to be miraculous food, as Zechariah being a prophet, would have known that God is the provider of all sustenance and thus would not have questioned Mary, if it was normal food.
 
-A descendant of Caliph Ali, Shia Imam, Ja'far al-Sadiq, describes the birth of Mary in detail. According to one narration, God informs Imran that he will grant him with a boy that will heal the blind and the leper and raise the dead by God's permission. When Imran relays the information to his wife, Hannah, she thought that she would conceive a boy. When she delivered Mary, she said "Oh my Lord! Verily I have delivered a female, and the male is not like the female, for a girl will not be a prophet" to which Allah replies "And God knows better what has been delivered[3:36]". When he granted Jesus to Mary, the promise to Imran was fulfilled.
-
-Early years
-The Quran does not, specifically, point to the fact that Mary lived and grew up in a temple as the word miḥ'rāb in Quran 3:36 in its literal meaning refers to a private chamber or a public/private prayer chamber. The definitive idea of Mary growing up in a temple derived via external literature (i.e. see the narration below by Ja'far al-Sadiq). She was placed under the care of the prophet Zechariah, the husband of Hannah's sister and Mary's maternal uncle and caretaker.[27]: 16  As often as Zechariah entered Mary's prayer chamber, he found her provided with food and he would ask her where she received it from, to which she would reply that God provides to whom He wills. Scholars have debated as to whether this refers to miraculous food that Mary received from God or whether it was normal food. Those in favor of the former view state that it had to be miraculous food, as Zechariah being a prophet, would have known that God is the provider of all sustenance and thus would not have questioned Mary, if it was normal food.
-
-Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the mihrab and put on a covering so no one saw her. Zechariah went into the mihrab and found that she had summer fruit in the winter and winter fruit in the summer. He asked "From whence is this?" She said, "It is from Allah. Indeed, Allah provides for whom He wills without account"[3:37].[27]: 16–17 
+Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the mihrab and put on a covering so no one saw her. Zechariah went into the mihrab and found that she had summer fruit in the winter and winter fruit in the summer. `He asked "From whence is this?" She said, "It is from Allah. Indeed, Allah provides for whom He wills without account".` 
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Zakariyah
 
@@ -3065,74 +3050,67 @@ Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the 
 
 Zakariya was a righteous priest and prophet of God whose office was in the Second Temple in Jerusalem. He would frequently be in charge of managing the services of the temple and he would always remain steadfast in prayer to God.
 
-#### Praying for a son
+### Praying for a son
 
 As he reached his old age, Zakariya began to worry over who would continue the legacy of preaching the message of God after his death and who would carry on the daily services of the temple after him. Zakariya started to pray to God for a son. The praying for the birth of an offspring was not merely out of the desire for a child. He prayed both for himself and for the public – they needed a messenger, a man of God who would work in the service of the Lord after Zakariya. Zakariya had character and virtue and he wanted to transfer this to his spiritual heir as his most precious possession. His dream was to restore the household to the posterity of the Patriarch Jacob, and to make sure the message of God was renewed for Israel. As the Qur'an recounts:
 
     A mention of the mercy of your Lord to His servant Zakariya. When he cried unto his Lord a cry in secret, saying: My Lord! Lo! the bones of me wax feeble and my head is shining with grey hair, and I have never been unblest in prayer to Thee, my Lord. Lo! I fear my kinsfolk after me, since my wife is barren. Oh, give me from Thy presence a successor who shall inherit of me and inherit (also) of the house of Jacob. And make him, my Lord, acceptable (unto Thee). 
     Quran 19:4–6
 
-#### Fathering Yahya
+### Fathering Yahya
 
-As a gift from God, Zakariya was given a son named Yaḥyá (Arabic: يحيى, identified with John the Baptist), a name specially chosen for this child alone. Muslim tradition narrates that Zakariya was ninety-two years old[3] when he was told of John's birth.
+As a gift from God, Zakariya was given a son named Yaḥyá (يحيى, identified with John the Baptist), a name specially chosen for this child alone. Muslim tradition narrates that Zakariya was ninety-two years old when he was told of John's birth.
 
-In accordance with Zakariya's prayer, God made John (Yahya) renew the message of God, which had been corrupted and lost by the Israelites.[4] As the Qur'an says:
+In accordance with Zakariya's prayer, God made John (Yahya) renew the message of God, which had been corrupted and lost by the Israelites. As the Qur'an says:
 
     O Zachariah! Lo! We bring thee tidings of a son whose name is John; we have given the same name to none before (him). He said: My Lord! How can I have a son when my wife is barren and I have reached infirm old age? He said: So shall it be, your Lord says: It is easy to Me, and indeed I created you before, when you were nothing. He said: My Lord! give me a sign. He said: Your sign is that you will not be able to speak to the people three nights while in sound health.
     Quran 19:7–10
 
-#### Guardian of Maryam
+### Guardian of Maryam
 
-According to the Qur'an, Zakariya was the guardian of Maryam . The Qur'an states:
+According to the Qur'an, Zakariya was the guardian of Maryam. The Qur'an states:
 
     (Remember) when the wife of 'Imran said: My Lord! I have vowed unto Thee that which is in my belly as a consecrated (offering). Accept it from me. Lo! Thou, only Thou, art the Hearer, the Knower! And when she was delivered she said: My Lord! Lo! I am delivered of a female - Allah knew best of what she was delivered - the male is not as the female; and lo! I have named her Mary, and lo! I crave Thy protection for her and for her offspring from Satan the outcast. And her Lord accepted her with full acceptance and vouchsafed to her a goodly growth; and made Zachariah her guardian. Whenever Zachariah went into the sanctuary where she was, he found that she had food. He said: O Mary! Whence cometh unto thee this (food)? She answered: It is from Allah. Allah giveth without stint to whom He will.
     Quran 3:35–37
 
-Muslim theology maintains that Zakariya, along with John the Baptist and Jesus, ushered in a new era of prophets – all of whom came from the priestly descent of Amram (Imran), the father of the prophet Aaron. The fact that, of all the priests, it was Zakariya who was given the duty of keeping care of Mary (Maryam) shows his status as a pious man. Zakariya is frequently praised in the Qur'an as a prophet of God and righteous man. One such appraisal is in sura al-An'am:
+The fact that, of all the priests, it was Zakariya who was given the duty of keeping care of Mary (Maryam) shows his status as a pious man. Zakariya is frequently praised in the Qur'an as a prophet of God and righteous man. One such appraisal is in sura al-An'am:
 
     "And Zakariya and Yahya and Isa and Eliyas. Each one was of the righteous."
     Quran 6:85
 
-Qur'an translator Abdullah Yusuf Ali offers commentary on this one line – suggesting that these particular prophets make a spiritual connection with one another. He points out that Yahya was a relative of Isa, while Eliyas was one who was present at the Transfiguration of Isa[6] on the Mount, as mentioned in the New Testament. Zakariya meanwhile, through marriage, was the uncle of Isa and his son Yayha was referred to as Eliyas in the New Testament.
-
-People drew lots to decide who is going to take care of Maryam and Zakariyah was chosen for this task.
-
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Virgin Mary gives birth to Jesus
 
 </summary>
 
-The virgin birth of Jesus is supremely important in Islam, as one of the most important miracles of God. The first explicit mention of an annunciation foreshadowing the birth of Jesus is in Quran 19:20 where Mary asks Gabriel (Jibril) how she will be able to conceive, when no man has touched her. Gabriel's reply assures Mary that for God all things are easy and that Jesus's virgin birth will be a sign for mankind. The birth is later referred in Quran 66:12, where the Quran states that Mary remained "pure", while God allowed a life to shape itself in Mary's womb. A third mention of the annunciation is in Q3:42–43, where Mary is also given the glad tidings that she has been chosen above all the women of creation.
+The virgin birth of Jesus is important in Islam as one of miracles of God. The first explicit mention of an annunciation foreshadowing the birth of Jesus is in Quran 19:20 where Mary asks Gabriel (Jibril) how she will be able to conceive, when no man has touched her. Gabriel's reply assures Mary that for God all things are easy and that Jesus's virgin birth will be a sign for mankind. The birth is later referred in Quran 66:12, where the Quran states that Mary remained "pure", while God allowed a life to shape itself in Mary's womb. A third mention of the annunciation is in Q3:42–43, where Mary is also given the glad tidings that she has been chosen above all the women of creation.
 
-Commentators on the Quran remark on the last verse that Mary was as close to a perfect woman as there could be, and she was devoid of almost all failings.Although Islam honors numerous women, including Zipporah, Hajar, Sarah, Asiya, Khadijah, Fatimah, Ayesha, Hafsa many commentators followed this verse in the absolute sense, and agreed that Mary was the greatest woman of all time. Other commentators, however, while maintaining that Mary was the "queen of the saints", interpreted this verse to mean that Mary was the greatest woman of that time and that Fatimah, Khadijah and Asiya were equally great. According to exegesis and literature, Gabriel appeared to Mary, who was still young in age, in the form of a well-made man with a "shining face" and announced to her the birth of Jesus. After her immediate astonishment, she was reassured by the angel's answer that God has the power to do anything. The details of the conception are not discussed during these angelic visits, but elsewhere the Quran states (Quran 21:91) and 66:12) that God breathed "His Spirit" into Mary while she was chaste.
-Mary shaking the palm tree 🌴 for dates, a legend derived from the Gospel of Pseudo-Matthew.
-According to the Quran, Mary was chosen twice by the Lord: "O Mary! Verily Allah has chosen you and puriﬁed you and chosen you above the women of the worlds" (Quran 3:42); and the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.[27]: 16 
+Commentators on the Quran remark on the last verse that Mary was as close to a perfect woman as there could be, and she was devoid of almost all failings. Although Islam honors numerous women, including Zipporah, Hajar, Sarah, Asiya, Khadijah, Fatimah, Aisha, Hafsa, many commentators followed this verse in the absolute sense, and agreed that Mary was the greatest woman of all time. 
 
-The Quran narrates the virgin birth of Jesus numerous times. In chapter 19 (Maryam), verses (ayat) 17–21, the annunciation is given, followed by the virgin birth in due course. In Islam, Jesus is called the "spirit of God" because he was through the action of the spirit, but that belief does not include the doctrine of his pre-existence, as it does in Christianity. Quran 3:47 also supports the virginity of Mary, revealing that "no man has touched [her]". Quran 66:12 states that Jesus was born when the spirit of God breathed upon Mary, whose body was chaste.
+According to exegesis and literature, Gabriel appeared to Mary, who was still young in age, in the form of a well-made man with a "shining face" and announced to her the birth of Jesus. After her immediate astonishment, she was reassured by the angel's answer that God has the power to do anything. The details of the conception are not discussed during these angelic visits, but elsewhere the Quran states (Quran 21:91) and 66:12) that God breathed "His Spirit" into Mary while she was chaste.
+
+According to the Quran, Mary was chosen twice by the Lord. `"O Mary! Verily Allah has chosen you and puriﬁed you and chosen you above the women of the worlds" (Quran 3:42)`; and the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.
+
+The Quran narrates the virgin birth of Jesus numerous times. In chapter 19 (Maryam), verses (ayat) 17–21, the annunciation is given, followed by the virgin birth in due course. Quran 3:47 also supports the virginity of Mary, revealing that `"no man has touched [her]"`.
 
 According to the Quran, the following conversation transpired between the angel Gabriel and Mary when he appeared to her in the form of a man:
 
-And mention, [O Muhammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. And she took, in seclusion from them, a screen. Then We sent to her Our spirit, and he represented himself to her as a well-proportioned man. She said, "Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allah." He said, "I am only the messenger of your Lord to give you a pure boy." She said, "How can I have a boy while no man has touched me and I have not been unchaste?" He said, "Thus [it will be]; your Lord says, 'It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter [already] decreed.'[19:16-21]
+    And mention, [O Muhammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. And she took, in seclusion from them, a screen. Then We sent to her Our spirit, and he represented himself to her as a well-proportioned man. She said, "Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allah." 
 
-The Quran's narrative of the virgin birth is somewhat different from that in the New Testament. The Quran states that when the pains of childbirth came upon Mary, she held onto a nearby palm tree 🌴, at which point a voice came from "beneath the (palm-tree)" or "beneath her", which said " "Grieve not! for thy Lord hath provided a rivulet beneath thee; "And shake towards thyself the trunk of the palm-tree: It will let fall fresh ripe dates upon thee." The Quran goes on to describe that Mary vowed not to speak to any man on that day, as God was to make Jesus, who Muslims believe spoke in the cradle, perform his first miracle. The Quran goes on to narrate that Mary then brought Jesus to the temple, where immediately she began to be taunted by all the men, excluding Zechariah, who believed in the virgin birth. The Israelites questioned Mary how she came to be with child whilst unmarried, to which Mary pointed to the baby Jesus. It was then that, according to the Quran, the infant Jesus began to speak in the cradle, and spoke of his prophecy for the first time.
+    He said, "I am only the messenger of your Lord to give you a pure boy." She said, "How can I have a boy while no man has touched me and I have not been unchaste?" He said, "Thus [it will be]; your Lord says, 'It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter [already] decreed.'
+    Quran 19:16-21
 
-According to Imam Ja'far al-Sadiq, Jesus the son of Mary used to cry intensely as a child, so that Mary was at wits end regarding his profuse crying. He said to her, "Get some of the bark of that tree, make a tonic from it and feed me with it." When he drank it, he cried intensely. Mary said, "What sort of prescription did you give me?" He said, "Oh my mother! Knowledge of prophet-hood and weakness of childhood."[27]: 23 
-
-The Fatimid Ismaili jurist Qadi al-Nu’man holds that the virgin birth of Jesus is meant to be interpreted symbolically. In his interpretation, Mary was the follower (lāḥiq), of the Imam Joachim (‘Imran). However, when Joachim realized that she was not suited for the Imamah, he passed it to Zechariah, who then passed it to John the Baptist. Meanwhile, Mary received spiritual inspiration (mādda) from God, revealing that he would invite a man [to the faith] who would become an exalted Speaker (nāṭiq) of a revealed religion (sharīʿa). According to al-Nu’man, the verses “She said: Lord! How can I have a child when no man has touched me?” (Quran 3:47) and “neither have I been unchaste” (Quran 19:20) are symbolic of Mary's saying, “How can I conduct the invitation (daʿwa) when the Imam of the Time has not given me permission to do so?” and “Nor shall I be unfaithful by acting against his command”, respectively. To this, a celestial hierarch replies “Such is God. He creates [i.e., causes to pass] what he wills” (Quran 3:47).
+The Quran's narrative of the virgin birth is somewhat different from that in the New Testament. The Quran states that when the pains of childbirth came upon Mary, she held onto a nearby palm tree 🌴, at which point a voice came from "beneath the (palm-tree)" or "beneath her", which said " `"Grieve not! for thy Lord hath provided a rivulet beneath thee; "And shake towards thyself the trunk of the palm-tree: It will let fall fresh ripe dates upon thee."` The Quran goes on to describe that Mary vowed not to speak to any man on that day, as God was to make Jesus, who Muslims believe spoke in the cradle, perform his first miracle. The Quran goes on to narrate that Mary then brought Jesus to the temple, where immediately she began to be taunted by all the men, excluding Zechariah, who believed in the virgin birth. The Israelites questioned Mary how she came to be with child whilst unmarried, to which Mary pointed to the baby Jesus. It was then that, according to the Quran, the infant Jesus began to speak in the cradle, and spoke of his prophecy for the first time.
 
 </details>
+<details><summary>
 
-<details>
-<summary>
-
-## Yahya ibn Zakarīyā** (John the Baptist)
+## Yahya ibn Zakarīyā (John the Baptist)
 
 </summary>
-1 century BC
+> I century BC
 
 Yahya ibn Zakariya (John, son of Zechariah), identified in English as John the Baptist, is considered in Islam a prophet and messenger of God (Allah) who was sent to guide the Children of Israel. He is believed by Muslims to have been a witness to the word of God who would herald the coming of Isa Masih (Jesus).
 
@@ -3140,74 +3118,97 @@ Yahya is mentioned five times in the Quran.
 
 Yahya is also honored highly in Sufism as well as Islamic mysticism, primarily because of the Quran's description of John's chastity and kindness. Sufis have frequently applied commentaries on the passages on John in the Quran, primarily concerning the God-given gift of wisdom which he acquired in youth as well as his parallels with Jesus. Although several phrases used to describe John and Jesus are virtually identical in the Quran, the manner in which they are expressed is different.
 
-In the Quran, God frequently mentions Zakariya's continuous praying for the birth of a son. Zakariya's wife, was barren and therefore the birth of a child seemed impossible. As a gift from God, Zechariah was given a son by the name of Yaḥya, a name specially chosen for this child alone. In accordance with Zakariya's prayer, God made Yahya and Isa, who according to exegesis was born six months later, renew the message of God, which had been corrupted and distorted by the Israelites.
+In the Quran, God frequently mentions Zakariya's continuous praying for the birth of a son. Zakariya's wife, was barren and therefore the birth of a child seemed impossible. As a gift from God, Zechariah was given a son by the name of Yaḥya, a name specially chosen for this child alone. In accordance with Zakariya's prayer, God made Yahya and Isa, who according to exegesis was born six months later, to renew the message of God, which had been corrupted and distorted by the Israelites.
 
-The Quran claims that John the Baptist was the first to receive this name (Quran 19:7–10) but since the name Yoḥanan occurs many times before John the Baptist,this verse is referring either to Islamic scholar consensus that "Yaḥyā" is not the same name as "Yoḥanan" or to the Biblical account of the miraculous naming of John, which accounted that he was almost named "Zacharias" (Greek: Ζαχαρίας) after his father's name, as no one in the lineage of his father Zacharias (also known as Zechariah) had been named "John" ("Yohanan"/"Yoannes") before him. As the Quran says:
+The Quran claims that Yahya was the first to receive this name (Quran 19:7–10) but since the name Yoḥanan occurs many times before John the Baptist,this verse is referring either to Islamic scholar consensus that "Yaḥyā" is not the same name as "Yoḥanan" or to the Biblical account of the miraculous naming of John, which accounted that he was almost named "Zacharias" (Greek: Ζαχαρίας) after his father's name, as no one in the lineage of his father Zacharias (also known as Zechariah) had been named "John" ("Yohanan"/"Yoannes") before him. As the Quran says:
 
     "O Zakaryya, indeed We give you good tidings of a boy whose name will be Yahya, and whose we never before have created sameness for.
     He said: "O my Lord! How shall I have a son, when my wife is barren and I have grown quite decrepit from old age?"
     He said: "So (it will be) thy Lord saith, 'that is easy for Me: I did indeed create thee before, when thou hadst been nothing!'"
+
     (Zakarya) said: "O my Lord! give me a Sign." "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three nights."
     Quran, surah Maryam 19: 7–10
 
 ### Prophethood
 
-The Jordan River, where Yahya baptized Isa.
 Yahya was exhorted to hold fast to the scripture and was given wisdom by God while still a child. He was pure and devout, and walked well in the presence of God. He was dutiful towards his parents and he was not arrogant or rebellious. John's reading and understanding of the scriptures, when only a child, surpassed even that of the greatest scholars of the time. Muslim exegesis narrates that Isa sent Yahya out with twelve disciples, who preached the message before Jesus called his own disciples. The Quran says:
 
     "O Yaḥya! take hold of the Book with might": and We gave him Wisdom even as a youth,
     Quran, surah Maryam, 19:12
 
-John was a classical prophet, who was exalted high by God for his bold denouncing of all things sinful. Furthermore, the Quran speaks of John's gentle piety and love and his humble attitude towards life, for which he was granted the purity of Life.
+Yahya was a classical prophet, who was exalted high by God for his bold denouncing of all things sinful. Furthermore, the Quran speaks of Yahya's gentle piety and love and his humble attitude towards life, for which he was granted the purity of Life.
 
 According to Islamic tradition, Yahya used to go to the Haram esh-Sharif (Temple Mount) to deliver his sermons.
 
-###Assassination
-During the prophethood of Yahya, a conflict occurred between him and Herod Antipas, who wanted to divorce his first wife and take as wife his former sister-in-law. Yahya informed that the marriage might be incestuous, and did not approve of the marriage. After this, Herod Antipas had Yahya imprisoned. Yahya was then decapitated. Yahya's head is believed to be inside the Umayyad Mosque in Damascus.
-
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Isa (Jesus of Nazareth)
 
 </summary>
 
-Isa ibn Maryam (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, lit. 'Jesus, son of Mary'), is the penultimate prophet and messenger of God (Allah) and the Messiah, who was sent to guide the Children of Israel with a revelation: Injīl (Arabic for "gospel").
+Isa ibn Maryam (عِيسَى ٱبْنُ مَرْيَمَ, lit. 'Jesus, son of Mary'), is the second-last prophet and messenger of God (Allah) and the Messiah, who was sent to guide the Children of Israel with a revelation: Injīl (Arabic for "gospel").
 
 As in the Christian New Testament, the Quran (the central religious text of Islam) describes Jesus as al-Masīḥ (Arabic for messiah), born of a virgin, performing miracles, accompanied by disciples, rejected by the Jewish establishment, and being raised to heaven. The Quran firmly states that Jesus is not divine and he is not the Son of God. Also, the Quran differs from the New Testament in proclaiming that Jesus was neither crucified nor died on the cross.
 
-The significance of Jesus in Islam is reflected in his being mentioned in the Quran in 93 verses with various titles attached such as "Son of Mary", "Spirit of God", and the "Word of God", and other relational titles, mentioned directly and indirectly, over 187 times. Jesus is more briefly described in Surah Maryam, Chapter 19 of Quran. Thus, he is one of the most mentioned people in the Quran by reference; 25 times by the name Isa,[note 1] third-person 48 times,[note 2] first-person 35 times and the rest as titles.
+The significance of Jesus in Islam is reflected in his being mentioned in the Quran in 93 verses with various titles attached such as `"Son of Mary"`, "`Spirit of God"`, and the `"Word of God"`, and other relational titles, mentioned directly and indirectly, over 187 times. Jesus is more briefly described in Surah Maryam, Chapter 19 of Quran. Thus, he is one of the most mentioned people in the Quran by reference; 25 times by the name Isa, third-person 48 times, first-person 35 times and the rest as titles.
 
-The Quran and ahadith (testimonial reports) mention Jesus to have been born a "pure boy" (without sin) to Maryam (Mary) as the result of virginal conception, similar to the event of the Annunciation in Christianity. The Quran denies Jesus as a deity in several verses, including one that mentions that Jesus did not claim to be divine (Q5:116). According to the Quran, he was not crucified,[16] but was rather saved by God. (Although the earliest Islamic traditions and exegesis quote somewhat conflicting reports regarding a death and its length, Muslims believe that Jesus did not die on the cross, but still believe that he was raised alive to heaven). Over the centuries, Muslim writers have referenced other miracles like casting out demons, having borrowed from some heretical pre-Islamic sources, and from canonical sources as legends about Jesus were expanded.
+The Quran and ahadith (testimonial reports) mention Jesus to have been born a "pure boy" (without sin) to Maryam (Mary) as the result of virginal conception, similar to the event of the Annunciation in Christianity. The Quran denies Jesus as a deity in several verses, including one that mentions that Jesus did not claim to be divine (Q5:116). According to the Quran, he was not crucified, but was rather saved by God. Muslims believe that Jesus did not die on the cross, but still believe that he was raised alive to heaven.
 
 In Islam, Jesus is believed to have been the precursor to the Islamic prophet Muhammad. According to the Quran, the coming of Muhammad was predicted by Jesus in As-Saff 61:6. Through this verse, early Arab Muslims claimed legitimacy for their new faith in the existing religious traditions and the alleged predictions of Jesus. Like all prophets in Islam, Jesus is also called a Muslim, as he preached that his followers should adopt the "straight path". In Islamic eschatology, Jesus will return in a Second Coming to fight Al-Masih ad-Dajjal or the "False Messiah" as well as Gog and Magog and establish peace and justice on earth.
 
-### Birth narratives
-
-According to the Quran, the pains of labor took Mary to the trunk of a palm tree 🌴.
-The Islamic faith echoed some strands within the Christian tradition that Mary (or Maryam) was a literal virgin when Jesus was conceived. The most detailed account of the annunciation and birth of Jesus is provided in Surah 3 (Al Imran) and 19 (Maryam) of the Quran where the story is narrated that God (Allah) sent an angel to announce that Maryam could shortly expect to bear a son, despite being a virgin.
-
-Some academics have noted that the account in Surah 19 is particularly close to that in the Christian Gospel of Luke. The Annunciation to Mary is mentioned twice in the Quran and in both instances Mary/ Maryam is told that she was chosen by God to deliver a son. In the first instance, the bearer of the news (who is believed by most Muslims to be the archangel Gabriel), delivered the news in (Q3:42-47) as he takes the form of a man (Q19:16-22). The details of the conception are not discussed but when Mary asks how she can bear a son in view of her chastity she is told that God creates what he wills and that these things are easy for God. The Quran (Q21:91 and Q66:12) says that God blew through his angel into Mary and she, although being chaste, bore Jesus without any father.
-
-The account of the birth of Jesus follows the Quran's narrative, adding that the birth occurred in Bethlehem beside a palm tree with a manger.
-
-###Childhood
-
-The Quran does not include the tradition of the Flight into Egypt, though sūra XXIII, 50 could conceivably allude to it: "And we made the son of Maryam and his mother a sign; and we made them abide in an elevated place, full of quiet and watered with springs." However, narratives similar to the narrative found in the Gospels and non-canonical sources circulated in later Islamic tradition, with some details and elaborations being added over the centuries by Islamic writers and historians. Some narratives have Jesus and family staying in Egypt up to 12 years. Many moral stories and miraculous events of Jesus' youth are mentioned in Qisas al-anbiya (Stories of the Prophets), books composed over the centuries about pre-Islamic prophets and heroes.
-
-Adulthood
-
-Mission
-
 It is generally agreed that Jesus spoke Aramaic, the common language of Judea in the first century A.D. and the region at-large.
 
-The first and earliest view of Jesus formulated in Islamic thought is that of a prophet – a human being chosen by God to present both a judgment upon humanity for worshipping idols and a challenge to turn to the one true God. From this basis, reflected upon all previous prophets through the lens of Muslim identity, Jesus is considered no more than a messenger repeating a repetitive message of the ages. The miracles of Jesus and the quranic titles attributed to Jesus demonstrate the power of God rather than the divinity of Jesus – the same power behind the message of all prophets. Some Islamic traditions believe Jesus' mission was only to the people of Israel and his status as a prophet being confirmed by numerous miracles.
+### Birth narrative
 
-A second early high image of Jesus is an end-time figure. This concept arises mostly from the Hadith. Muslim tradition constructs a narrative similarly found in Christian theology, seeing Jesus arriving at the end of time and descending upon earth to fight the Antichrist. This narrative is understood to champion the cause of Islam, with some traditions narrating Jesus pointing to the primacy of Muhammad. Most traditions state Jesus will then die a natural death.
+According to the Quran, the pains of labor took Mary to the trunk of a palm tree 🌴.
 
-A third and distinctive image is of Jesus representing an ascetic figure – a prophet of the heart. Although the Quran refers to the 'gospel' of Jesus, those specific teachings of his are not mentioned in the Quran or later religious texts. They are largely absent. The Sufi tradition is where Jesus became revered, acknowledged as a spiritual teacher with a distinctive voice from other prophets, including Muhammad. Sufism tends to explore the dimensions of union with God through many approaches, including asceticism, poetry, philosophy, speculative suggestion, and mystical methods. Although Sufism to the Western mind may seem to share similar origins or elements of Neoplatonism, Gnosticism, and Buddhism, the ideology is distinctly Islamic since they adhere to the words of the Quran and pursue imitation of Muhammad as the perfect man.
+The most detailed account of the annunciation and birth of Jesus is provided in Surah 3 (Al Imran) and 19 (Maryam) of the Quran where the story is narrated that God (Allah) sent an angel to announce that Maryam could shortly expect to bear a son, despite being a virgin.
+
+Some scholars have noted that the account in Surah 19 is particularly close to that in the Christian Gospel of Luke. The Annunciation to Mary is mentioned twice in the Quran and in both instances Mary/Maryam is told that she was chosen by God to deliver a son. In the first instance, the bearer of the news (who is believed by most Muslims to be the archangel Gabriel), delivered the news in (Q3:42-47) as he takes the form of a man (Q19:16-22). The details of the conception are not discussed but when Mary asks how she can bear a son in view of her chastity she is told that God creates what he wills and that these things are easy for God. The Quran (Q21:91 and Q66:12) says that God blew through his angel into Mary and she, although being chaste, bore Jesus without any father.
+
+The account of the birth of Jesus follows the Quran's narrative, adding that the birth occurred in Bethlehem beside a palm tree.
+
+    "And we made the son of Maryam and his mother a sign; and we made them abide in an elevated place, full of quiet and watered with springs." 
+
+### Maryam and Isa return to the city 
+
+    Then she brought him (the baby) to her people, carrying him. They said: "0 Mary! Indeed you have brought a thing Fariyya (an unheard mighty thing). 0 sister (i.e. the like) of Aaron (not the brother of Moses, but he was another pious man at the time of Mary)! Your father was not a man who used to commit adultery, nor was your mother an unchaste woman."
+
+    Then she pointed to him. They said: "How can we talk to one who is a child in the cradle?"
+
+    He (Jesus) said: "Verily! I am a slave of Allah. He has given me the Scripture and made me a Prophet; And He has made me blessed wheresoever I be, and has enjoined on me prayer, and Zakat, as long as Ilive, and dutiful to my mother, and made me not arrogant, unblest. And Salam (peace) be upon me the day I was born, and the day I die, and the day I shall be raised alive!" Quran Ayah 19:27-33
+
+### Speaking from the cradle
+
+Speaking from the cradle is mentioned in three places in the Quran: al-Imran (3) 41, 46, al-Maida (5) 109–110 and Maryam (19) 29–30. Part of the narrative has the infant Jesus defending his mother Mary from the accusation of having given birth without a known husband. Jesus speaks as the angel Gabriel had mentioned at the annunciation: Jesus proclaims he is a servant of God, has been given a book, is a prophet, is blessed wherever he will go, blesses the day he was born, the day he will die, and the day he is raised alive.
+
+### Quran says that God has no son
+
+Almighty Allah refuted the claims of the Jews and the Christians in many verses of the Glorious Qur'an.
+
+    And they say: 'The Most Beneficent (Allah) has begotten a son (or offspring or children) as the Jews say: Ezra is the son of Allah, and the Christians say that He has begotten a son (Christ), and the pagan Arabs say that He has begotten daughters (angels, etc.)."
+
+    Indeed you have brought forth (said) a terrible evil thing Where by the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins, that they ascribe a son (or offspring or children) to the Most Beneficent (Allah).
+
+    But it is not suitable for (the Majesty of) the Most Beneficent (Allah) that He should beget a son (or offspring or children). There is none in the heavens and the earth but comes unto the Most Beneficent (Allah) as a slave. Verily He knows each one of them, and has counted them a full counting And everyone of them will come to Him alone on the Day of Resurrection (without any helper, or protector or defender).
+    Quran Ayah 19:88-95
+
+    Almighty Allah commanded: 0 people of the Scripture (Jews and Christians)! Do not exceed the limits in your religion, nor say of Allah aught but the truth. The Messiah Jesus, son of Mary was (no more than) a Messenger of Allah and His Word, ("Be" - and he was) which He bestowed on Mary and a spirit (Ruh) created by Him; so believe in Allah and His Messengers. Say not: 'Three (trinity)!" Cease! (It is) better for you. For Allah is (the only) One Ilah (God), Glory be to Him (Far Exalted is He) above having a son. To Him belongs all that is in the heavens and all that is in the earth. And Allah is All-Sufficient as a Disposer of affairs.
+    Quran Ayah 4:171-173
+
+### Quran disclaims Trinity
+
+    Allah the Exalted warned: Surely they have disbelieved who say: 'Allah is the Messiah (Jesus), son of Mary." But the Messiah (Jesus) said: "O Children of Israel! Worship Allah, my Lord and your Lord." Verily whosoever sets up partners in worship with Allah, then Allah has forbidden Paradise for him, and the Fire will be his abode. And for the Zalimun (polytheists and wrong-doers) there are no helpers.
+
+    Surely disbelievers are those who said: 'Allah is the third of the three (in a Trinity)." But there is no Ilah (god) (none who has the right to be worshipped) but One Ilah (God- Allah). And if they cease not from what they say verily a painful torment will befall the disbelievers among them.
+
+    Will they not repent to Allah and ask His Forgiveness? For Allah is Oft-Forgiving Most Merciful.
+
+    The Messiah (Jesus), son of Mary, was no more than a Messenger; many were the Messengers that passed a way before him. His mother (Mary) was a Siddiqah i.e. she believed in the Words of Allah and His Books. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded a way (from the truth). 
+    Quran Ayah 6:72-75
+
+# PROFREADINGPRROFREADINGPROOFREADING
 
 ### Miracles
 
@@ -3215,19 +3216,12 @@ The Quran attributes at least six miracles to Jesus, with many more being added 
 
 These six miracles in the Quran are without detail unlike the Gospel and their non-canonical Gnostic sources, which include details and mention other attributed miracles. Over the centuries, these six miracle narratives have been elaborated through Hadith and poetry, with religious writings including some of the other miracles mentioned in the Gospel, non-canonical sources, and from lore.
 
-### Speaking from the cradle
-
-Speaking from the cradle is mentioned in three places in the Quran: al-Imran (3) 41, 46, al-Maida (5) 109–110 and Maryam (19) 29–30. Part of the narrative has the infant Jesus defending his mother Mary from the accusation of having given birth without a known husband. Early Islam was unclear about Joseph and his role.Thus these Gnostic gospel influence is claimed as to say Quran may not be divine by opponents. Jesus speaks as the angel Gabriel had mentioned at the annunciation: Jesus proclaims he is a servant of God, has been given a book, is a prophet, is blessed wherever he will go, blesses the day he was born, the day he will die, and the day he is raised alive.
-
-Although this particular narrative is not found in the Bible, the theme of speaking from the cradle is found in the non-canonical pre-Islamic Syriac Infancy Gospel. That source has Jesus declaring himself the Son of God, the Word, and affirming what the angel Gabriel had previously announced to Mary as detailed in the Gospel.
-
 ### Creating birds 🐦🐦 from clay
 
 The miracle story of creating birds from clay and breathing life into them when a child is mentioned in al-Imran (3) 43, 49 and al-Maida (5) 109–110. Although this miracle is also not mentioned the canonical Gospel, the same narrative is found in at least two pre-Islamic sources: the Infancy Gospel of Thomas and the Jewish Toledot Yeshu, with few variant details between the Quran and these two sources.
 
 ### Healing the blind and the lepers
 
-See also: Healing the two blind men in Galilee and Cleansing ten lepers
 Similar to the New Testament, the Quran mentions Jesus healing the blind and the lepers in al-Imran (3) 49. Muslim scholar and judge al-Baydawi (d. 1286) wrote how it was recorded that many thousands of people came to Jesus to be healed and that Jesus healed these diseases through prayer only. Medieval scholar al-Tha'labi wrote about how these two particular diseases were beyond medical help, and Jesus' miracles were meant to be witnessed by others as clear signs of his message.
 
 ### Raising the dead
@@ -3237,11 +3231,14 @@ Jesus is believed to have raised people from the dead, as mentioned in al-Imran 
 Prescience
 Jesus was able to predict, or had foreknowledge, of what was hidden or unknown to others. One example is Jesus would answer correctly any and every question anyone asked him. Another example is Jesus knew what people had just eaten, as well as what they had stored in their homes.
 
-Table of food from heaven
+#### Table of food from heaven
 
 In the fifth chapter of the Quran, al-Ma'ida (5) 112–115, a narration mentions the disciples of Jesus requesting a table laden with food, and for it to be a special day of commemoration for them in the future. This may be a possible reference to the Eucharist according to professor of Islamic and Arabic studies W. Montgomery Watt (d. 2006). According to professor of comparative religions Geoffrey Parrinder (d. 2005), it is unclear if this story parallels the Gospel's Last Supper or the feeding the multitude, but may be tied to the Arabic word ʿīd (Muslim festival):
 
-One time the disciples said, O Jesus, son of Mary, can your Lord send down for us a table from heaven? He said, Fear God if you are believers. They said We want to eat of it, and that our hearts may be at peace, and we may know you have spoken truthfully and be among the witnesses to it. Jesus, son of Mary, said, O God our Lord send down upon us a table from heaven, to be for us a festival, for the first of us and the last of us, and a sign from you: and give provision (of food) to us, for you are the best of providers. God said I am sending it down for you.
+    Allah the Exalted said: (Remember) when the disciples said: "0 Jesus, son of Mary! Can your Lord send down to us a table spread (with food) from heaven?" Jesus said: "Fear Allah, if you are indeed believers." They said: "We wish to eat thereof and to be stronger in Faith, and to know that you have indeed told us the truth and that we ourselves be its witnesses."
+
+    Jesus, son of Mary, said: "0 Allah, our Lord! Send us from heaven a table spread (with food) that there may be for us - for the first and the last of us - a festival and a sign from You; and provide us sustenance, for You are the Best of sustainers." Allah said: "I am going to send it down unto you, but if any of you after that disbelieves, then I will punish him with a torment such as Iha ye not inflicted on anyone among (all) the Alamin (mankind and jinn)."
+    Quran Ayah 5:112-116
 
 In a record by the Sunni exegete Tabari, before the last supper, the threat of death made him anxious. Therefore, Jesus invited his disciples for the last supper. After the meal, he washed their hands and performed their ablutions to wipe their hands on his clothing. Afterwards Jesus replied to them: "As for that I have done to you tonight, in that I served you the meal and washed your hands in person, let it be an example for you. Since you indeed consider me to be better than you, do not be haughty in relation to each other but rather expand yourselves for each other as I have expanded myself for you." After instructing the disciples in his teachings, Jesus foretells that one of them would deny him and another betray him. However, in accordance with Islamic views on Jesus' death, just a corpse in semblance of Jesus was crucified and Jesus himself was raised to God.
 
@@ -3251,14 +3248,14 @@ Many stories and narratives have been developed over the years about Jesus, cont
 Besides some detailed summaries of miracles of Jesus mentioned by Muslim writers over the centuries, from adulthood (like walking on water – also found in the Gospel – and causing loaves of bread to come from the ground), some other miracles from childhood include: explaining the Muslim creed fundamentals to a schoolmaster, revealing who the thieves were to a wealthy chief, filling empty jars of something to drink, providing food and wine for a tyrannical king while also proving to this king his power in raising a dead man from the dead, raising a child accidentally killed, and causing the garments from a single-colored vat to come out with various colors.
 
 Healing a royal official's son
-Main article: Healing the royal official's son
+
 Al-Tabari (d. 923) reports a story of an adult Jesus' encounter with a certain king in the region and the healing of his son. The identity of the king is not mentioned while legend suggests Philip the Tetrarch. The corresponding Bible reference is "the royal official's son".
 
 Greed and truth-telling
 A legendary story of a miracle by a young Jesus, used as a hard-learned lesson popularly found in Middle Eastern lore according to professor Ayoub, has to do with a Jewish man and loaves of bread. Although carrying a polemic tone, the lesson centers on greed with truth-telling woven into the narration. It is a story found often in children's books.
 
 Inherent wisdom
-See also: Logos (Islam) and Logos (Christianity)
+
 Another legendary miracle story is one regarding Jesus' childhood wisdom. This legend, reported through al-Tabari from ibn Ishaq, talks about Mary sending Jesus to a religious school and the teacher being astonished to find Jesus already knowing the information being taught / discussed.
 
 Food in children's homes
@@ -3267,9 +3264,8 @@ Another story from al-Tabari tells of a young Jesus playing with the youths of h
 According to the details of the narrative, some parents became annoyed and forbade their children to play with Jesus, suspecting he was a magician. As a result, the parents kept their children away from Jesus and gathered their children into a single house. One day, feeling lonely, Jesus went out looking for his friends, and coming upon this house he asked the parents where their children were. The parents lied, responding that the children were not there. After Jesus asks who, then, is in the house, the parents call Jesus a pig. Jesus then says "Let there be swine in this house", turning all the children into swine.
 
 Revelation
-Main article: Gospel in Islam
-See also: Ministry of Jesus
-Muslims believe that God revealed to Jesus a new scripture, al-Injīl (the Gospel), while also declaring the truth of the previous revelations: al-Tawrat (the Torah) and al-Zabur (the Psalms). The Quran speaks favorably of al-Injīl, which it describes as a scripture that fills the hearts of its followers with meekness and piety. Traditional Islamic exegesis claiming the biblical message to have been distorted or corrupted (tahrif), is termed ta'yin al-mubham ("resolution of ambiguity").[72] This polemic effort has its origins in the medieval period with Abd al-Jabbar ibn Ahmad's writings.
+
+Muslims believe that God revealed to Jesus a new scripture, al-Injīl (the Gospel), while also declaring the truth of the previous revelations: al-Tawrat (the Torah) and al-Zabur (the Psalms). The Quran speaks favorably of al-Injīl, which it describes as a scripture that fills the hearts of its followers with meekness and piety. Traditional Islamic exegesis claiming the biblical message to have been distorted or corrupted (tahrif), is termed ta'yin al-mubham ("resolution of ambiguity"). This polemic effort has its origins in the medieval period with Abd al-Jabbar ibn Ahmad's writings.
 
 Regarding the Law of Moses, the Quran indicates that Jesus never abolished Jewish laws but rather confirmed them, while making partial abrogations only.
 Islam rejects Paul's theology of justification before God by faith alone as held by some Protestants or faith through grace as held by Catholics, Orthodox and most mainline Protestants. Jesus' legal perspective did not involve a New Covenant concerning works,[citation needed] but to simply modify those existing laws.[citation needed] Shabir Ally considers this understanding to corroborate with the canonical gospels that include Matthew 5:17.
@@ -3297,8 +3293,8 @@ In Hadith
 The following are Hadith (narrations originating from the words of Muhammad), collected by Muslim ibn al-Hajjaj Nishapuri, which indirectly emphasize Islamic beliefs concerning the disciples of Jesus:
 
 It is narrated on the authority 'Abdullah b. Mas'ud that the Messenger of God observed: Never a Prophet had been sent before me by God towards his nation who had not among his people (his) disciples and companions who followed his ways and obeyed his command. Then there came after them their successors who said whatever they did not practise, and practised whatever they were not commanded to do. He who strove against them with his hand was a believer: he who strove against them with his tongue was a believer, and he who strove against them with his heart was a believer and beyond that there is no faith even to the extent of a mustard seed. Abu Rafi' said: I narrated this hadith to 'Abdullah b. 'Umar; he contradicted me. There happened to come 'Abdullah b. Mas'ud who stayed at Qanat, and 'Abdullah b 'Umar wanted me to accompany him for visiting him (as 'Abdullah b. Mas'ud was ailing), so I went along with him and as we sat (before him) I asked Ibn Mas'ud about this hadith. He narrated it in the same way as I narrated it to Ibn 'Umar. The same hadith has been transmitted by another chain of narrators on the authority of 'Abdullah b. Mas'ud who observed: Never was there one among the prophets who had had not disciples who followed his direction and followed his ways. The remaining part of the hadith is like that as narrated by Salih but the arrival of Ibn Mas'ud and the meeting of Ibn 'Umar with him is not mentioned.
-
 — Sahih Muslim
+
 Death
 
 The primary quranic verse dealing with the event of the crucifixion is Surah 4 Verse 157:
@@ -3322,7 +3318,6 @@ Michael Cook notes that denial that Jesus died follows the Christian heresy of D
 
 ### Second coming
 
-See also: Second Coming § Islam, Islamic eschatology, and Hadith of Jesus praying behind Mahdi
 According to Islamic tradition which describes this graphically, Jesus' descent will be in the midst of wars fought by the Mahdi (lit. "the rightly guided one"), known in Islamic eschatology as the redeemer of Islam, against al-Masih ad-Dajjal (the Antichrist "false messiah") and his followers. Jesus will descend at the point of a white minaret, east of Damascus (believed to be the Minaret of Isa in the Umayyad Mosque), dressed in yellow robes—his head anointed. He will say prayer behind al-Mahdi then join him in his war against the Dajjal. Jesus, considered as a Muslim, will abide by the Islamic teachings. Eventually, Jesus will slay the Antichrist, and then everyone who is one of the People of the Book (ahl al-kitāb, referring to Jews and Christians) will believe in him. Thus, there will be one community, that of Islam.
 
 Sahih al-Bukhari, Volume 3, Book 43: Kitab-ul-Ilm (Book of Knowledge), Hâdith Number 656:
@@ -3331,9 +3326,7 @@ Sahih al-Bukhari, Volume 3, Book 43: Kitab-ul-Ilm (Book of Knowledge), Hâdith N
 > Narrated by Abu Huraira 🐈.
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Apostoles and Paul
 
@@ -6083,6 +6076,23 @@ The fire will come out and it will spread, making people come to the destination
 <details>
     <summary>What happens after The End</summary> 
 Allahu 'Alim.
+
+There is no explicit order of events in the Quran and Sunna
+As Saffaranini said there will be 8 things
+Resurrection (Al Baghf)
+coming out of the grave and running aroung (An Nushurr)
+The gathering (Al Hashshar)
+Al Quyama -- The standing up
+The showing of the deeds (Al Ard)
+The judgement on the left and right side (Hisab)
+The Scales (Al Mizan)
+
+He didn't mention thta Allah and angels will come in rows, the blowing of the trumpet, Shafagha, seeing of Allah, The Cistern (the pool), Sirat, Wurud, The Qantara (open area in front of Jannah).
+
+
+
+
+
 </details>
 
 <details>
@@ -6224,13 +6234,11 @@ After the first blow the Destruction of everything on the Earth will start.
 
 #### Every Living Creature Dies
 
-When the destruction begins, every living thin on Earth dies. Animals, people, jinn, even the angels. 
+When the destruction begins, every living thin on Earth dies. Animals, people, jinn. There is no authentic source that says that angels will die as well but there are some narrations with weak isnad that suggest that. 
 
 There is a narration that after the trumpet is blown, Iblis goes from one side of the Earth to another trying to escape death. But the Angel of Death somes to him and he dies.
 
-#### Only Allah Remains
-
-There is a hadith:
+There is a hadith with a weak chain of narrations:
 The prophet (ﷺ   ) said after the horn is blown and the only ones that stand are the ones that your Lord willed, Allah SWT will have in front of Him Jibreel, Israfeel, Mikail, and angel of death. Those who apportion the command of Allah and Allah asks the angel of death who remain and he says O Allah Your Noble Face, your servant me, your servant Mikail, your servant Israfeel, and your servant Jibreel, Allah says take the soul of Mikail.
 
 Then Allah says who remain he Azrail said O Allah You, me, Jibreel and Israfeel. And Allah says take the soul of Israfeel and Israfeel's soul is taken and Allah says who remain O Allah Your Noble Face, me and Jibreel.And Allah says take the soul of Jibreel.
@@ -6241,10 +6249,12 @@ And then Allah SWT says Every single soul perishes. And only the Noble Face of Y
 
 Where are the ones with pride, the one with glory? 
 
-In another version, eight angels who carry the Throne of Allah die before the Angel of
+In another version, eight angels who carry the Throne of Allah die before the Angel of Death.
+
+Sime scholars 
+
 </details>
-<details>
-<summary>
+<details><summary>
 
 ## Second blow of the trumpet (Resurrection of the Dead)
 
@@ -6260,6 +6270,15 @@ The dead will then be resurrected and Afterlife commence with yet another trumpe
 The Judgement will not start for a long time, maybe thousands of years. People will worry about their deeds all the time. and they will come to prophets asking them to intercede in front of Allah to start the Jidgement because they can no longer wait. They will come to Adam, but Adam will say "Nafsi, nafsi", meaning that he is worried about himself because he disobeyed Allah and ate from the Tree 🌳 and Allah is so angry at this point as He has never been before.
 Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, nafsi.
 And finally they will come to the prophet Muhammad ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad ﷺ    will say "This is a job for me".
+
+there is a hadith that says that the prophet Muhammadﷺ   will be resurrected and he will see that Musa is already holding to the Throne of Allah.
+
+the first person to hear the trumpet will be a man who is giving water to his camel and he will fall dead. and all the rest will fall dead.
+
+It is going to come suddenly.
+
+the first trumpet will be blown at the time where there are no muslims left
+
 
 </details>
 
