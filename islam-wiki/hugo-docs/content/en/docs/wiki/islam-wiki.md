@@ -3149,13 +3149,16 @@ According to Islamic tradition, Yahya used to go to the Haram esh-Sharif (Temple
 
 Isa ibn Maryam (عِيسَى ٱبْنُ مَرْيَمَ, lit. 'Jesus, son of Mary'), is the second-last prophet and messenger of God (Allah) and the Messiah, who was sent to guide the Children of Israel with a revelation: Injīl (Arabic for "gospel").
 
-As in the Christian New Testament, the Quran (the central religious text of Islam) describes Jesus as al-Masīḥ (Arabic for messiah), born of a virgin, performing miracles, accompanied by disciples, rejected by the Jewish establishment, and being raised to heaven. The Quran firmly states that Jesus is not divine and he is not the Son of God. Also, the Quran differs from the New Testament in proclaiming that Jesus was neither crucified nor died on the cross.
+> Isa (Jesus) has a very important role in Islam as a prophet and the Messiah, who is to return to earth before the Judgement Day to unite Muslims and defeat Dajjal (Antichrist). 
+>
+> As in the Christian New Testament, the Quran (the central religious text of Islam) describes Jesus as al-Masīḥ (Arabic for messiah), born of a virgin, performing miracles, accompanied by disciples, rejected by the Jewish establishment, and being raised to heaven. The Quran firmly states that Jesus is not divine and he is not the Son of God. Also, the Quran differs from the New Testament in proclaiming that Jesus was neither crucified nor died on the cross.
+> 
 
 The significance of Jesus in Islam is reflected in his being mentioned in the Quran in 93 verses with various titles attached such as `"Son of Mary"`, "`Spirit of God"`, and the `"Word of God"`, and other relational titles, mentioned directly and indirectly, over 187 times. Jesus is more briefly described in Surah Maryam, Chapter 19 of Quran. Thus, he is one of the most mentioned people in the Quran by reference; 25 times by the name Isa, third-person 48 times, first-person 35 times and the rest as titles.
 
 The Quran and ahadith (testimonial reports) mention Jesus to have been born a "pure boy" (without sin) to Maryam (Mary) as the result of virginal conception, similar to the event of the Annunciation in Christianity. The Quran denies Jesus as a deity in several verses, including one that mentions that Jesus did not claim to be divine (Q5:116). According to the Quran, he was not crucified, but was rather saved by God. Muslims believe that Jesus did not die on the cross, but still believe that he was raised alive to heaven.
 
-In Islam, Jesus is believed to have been the precursor to the Islamic prophet Muhammad. According to the Quran, the coming of Muhammad was predicted by Jesus in As-Saff 61:6. Through this verse, early Arab Muslims claimed legitimacy for their new faith in the existing religious traditions and the alleged predictions of Jesus. Like all prophets in Islam, Jesus is also called a Muslim, as he preached that his followers should adopt the "straight path". In Islamic eschatology, Jesus will return in a Second Coming to fight Al-Masih ad-Dajjal or the "False Messiah" as well as Gog and Magog and establish peace and justice on earth.
+In Islam, Jesus is believed to have been the precursor to the Islamic prophet Muhammad  ﷺ  . According to the Quran, the coming of Muhammad ﷺ   was predicted by Jesus in As-Saff 61:6. Through this verse, early Arab Muslims claimed legitimacy for their new faith in the existing religious traditions and the alleged predictions of Jesus. Like all prophets in Islam, Jesus is also called a Muslim, as he preached that his followers should adopt the "straight path". In Islamic eschatology, Jesus will return in a Second Coming to fight Al-Masih ad-Dajjal or the "False Messiah" as well as Gog and Magog and establish peace and justice on earth.
 
 It is generally agreed that Jesus spoke Aramaic, the common language of Judea in the first century A.D. and the region at-large.
 
@@ -3208,19 +3211,22 @@ Almighty Allah refuted the claims of the Jews and the Christians in many verses 
     The Messiah (Jesus), son of Mary, was no more than a Messenger; many were the Messengers that passed a way before him. His mother (Mary) was a Siddiqah i.e. she believed in the Words of Allah and His Books. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded a way (from the truth). 
     Quran Ayah 6:72-75
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
 ### Miracles
 
-The Quran attributes at least six miracles to Jesus, with many more being added over the centuries by writers and historians. Miracles were attributed to Jesus as signs of his prophethood and his authority, according to educator and professor Ishaq Musa Al-Husayni (d. 1990), an author most known for Mudhakkirat Dajaja (Memoirs of a Hen) (Cairo: Dar al-Maarif, 1943; 2nd ed. 1967). In Christ in the Quran and Modern Arabic Literature (1960), Al-Husayni said it is noteworthy Muhammad attributes no miracles to himself.
+The Quran attributes at least six miracles to Jesus.
 
-These six miracles in the Quran are without detail unlike the Gospel and their non-canonical Gnostic sources, which include details and mention other attributed miracles. Over the centuries, these six miracle narratives have been elaborated through Hadith and poetry, with religious writings including some of the other miracles mentioned in the Gospel, non-canonical sources, and from lore.
+These six miracles in the Quran are without detail unlike the Gospel and their non-canonical Gnostic sources, which include details and mention other attributed miracles.
 
-### Creating birds 🐦🐦 from clay
+    (Remember) when Allah will say (on the Day of Resurrection): 'O Jesus, son of Mary! Remember My Favor to you and to your mother when I supported you with Ruh-ul-Qudus (Gabriel) so that you spoke to the people in the cradle and in maturity and when I taught you writing Al-Hikmah (the power of understanding), the Torah and the Gospel; and when you made out of the clay, as it were, the figure of a bird, by My Permission, and you breathed into it, and it became a bird by My Permission, and you healed those born blind, and the lepers by My Permission, and when you brought forth the dead by My Permission; and when I restrained the Children of Israel from you (when they resolved to kill you) since you came unto them with clear proofs, and the disbelievers among them said: 'This is nothing but evident magic.
+
+    And when I (Allah) put in the hearts of the disciples (of Jesus) to believe in Me and My Messenger, they said: "We believe. And bear witness that we are Muslims. " 
+    Quran Ayah 5:110-111
+
+#### Creating birds 🐦🐦 from clay
 
 The miracle story of creating birds from clay and breathing life into them when a child is mentioned in al-Imran (3) 43, 49 and al-Maida (5) 109–110. Although this miracle is also not mentioned the canonical Gospel, the same narrative is found in at least two pre-Islamic sources: the Infancy Gospel of Thomas and the Jewish Toledot Yeshu, with few variant details between the Quran and these two sources.
 
-### Healing the blind and the lepers
+#### Healing the blind and the lepers
 
 Similar to the New Testament, the Quran mentions Jesus healing the blind and the lepers in al-Imran (3) 49. Muslim scholar and judge al-Baydawi (d. 1286) wrote how it was recorded that many thousands of people came to Jesus to be healed and that Jesus healed these diseases through prayer only. Medieval scholar al-Tha'labi wrote about how these two particular diseases were beyond medical help, and Jesus' miracles were meant to be witnessed by others as clear signs of his message.
 
@@ -3228,51 +3234,29 @@ Similar to the New Testament, the Quran mentions Jesus healing the blind and the
 
 Jesus is believed to have raised people from the dead, as mentioned in al-Imran (3) 49. Although no detail is given as to who was raised or the circumstance, at least three people are mentioned in detail in the Gospel (a daughter of Jairus, a widow's son at Nain, and Lazarus).
 
-Prescience
+### Prescience
 Jesus was able to predict, or had foreknowledge, of what was hidden or unknown to others. One example is Jesus would answer correctly any and every question anyone asked him. Another example is Jesus knew what people had just eaten, as well as what they had stored in their homes.
 
 #### Table of food from heaven
 
-In the fifth chapter of the Quran, al-Ma'ida (5) 112–115, a narration mentions the disciples of Jesus requesting a table laden with food, and for it to be a special day of commemoration for them in the future. This may be a possible reference to the Eucharist according to professor of Islamic and Arabic studies W. Montgomery Watt (d. 2006). According to professor of comparative religions Geoffrey Parrinder (d. 2005), it is unclear if this story parallels the Gospel's Last Supper or the feeding the multitude, but may be tied to the Arabic word ʿīd (Muslim festival):
+In the fifth chapter of the Quran, al-Ma'ida (5) 112–115, a narration mentions the disciples of Jesus requesting a table laden with food, and for it to be a special day of commemoration for them in the future.
 
     Allah the Exalted said: (Remember) when the disciples said: "0 Jesus, son of Mary! Can your Lord send down to us a table spread (with food) from heaven?" Jesus said: "Fear Allah, if you are indeed believers." They said: "We wish to eat thereof and to be stronger in Faith, and to know that you have indeed told us the truth and that we ourselves be its witnesses."
 
-    Jesus, son of Mary, said: "0 Allah, our Lord! Send us from heaven a table spread (with food) that there may be for us - for the first and the last of us - a festival and a sign from You; and provide us sustenance, for You are the Best of sustainers." Allah said: "I am going to send it down unto you, but if any of you after that disbelieves, then I will punish him with a torment such as Iha ye not inflicted on anyone among (all) the Alamin (mankind and jinn)."
+    Jesus, son of Mary, said: "0 Allah, our Lord! Send us from heaven a table spread (with food) that there may be for us -- for the first and the last of us -- a festival and a sign from You; and provide us sustenance, for You are the Best of sustainers." Allah said: "I am going to send it down unto you, but if any of you after that disbelieves, then I will punish him with a torment such as I have not inflicted on anyone among (all) the Alamin (mankind and jinn)."
     Quran Ayah 5:112-116
 
-In a record by the Sunni exegete Tabari, before the last supper, the threat of death made him anxious. Therefore, Jesus invited his disciples for the last supper. After the meal, he washed their hands and performed their ablutions to wipe their hands on his clothing. Afterwards Jesus replied to them: "As for that I have done to you tonight, in that I served you the meal and washed your hands in person, let it be an example for you. Since you indeed consider me to be better than you, do not be haughty in relation to each other but rather expand yourselves for each other as I have expanded myself for you." After instructing the disciples in his teachings, Jesus foretells that one of them would deny him and another betray him. However, in accordance with Islamic views on Jesus' death, just a corpse in semblance of Jesus was crucified and Jesus himself was raised to God.
+In a record by the Sunni exegete Tabari, before the last supper, the threat of death made Isa anxious. Therefore, Jesus invited his disciples for the last supper. After the meal, he washed their hands and performed their ablutions to wipe their hands on his clothing. Afterwards Jesus replied to them: "As for that I have done to you tonight, in that I served you the meal and washed your hands in person, let it be an example for you. Since you indeed consider me to be better than you, do not be haughty in relation to each other but rather expand yourselves for each other as I have expanded myself for you." After instructing the disciples in his teachings, Jesus foretells that one of them would deny him and another betray him.
 
-Other miracles
-Many stories and narratives have been developed over the years about Jesus, containing certain inherent lessons or providing meaning due to the lack of detail in the Quran regarding Jesus. Some of these narratives are similar in nature to the New Testament, while some portray Jesus in a very human manner.
+### Revelation
 
-Besides some detailed summaries of miracles of Jesus mentioned by Muslim writers over the centuries, from adulthood (like walking on water – also found in the Gospel – and causing loaves of bread to come from the ground), some other miracles from childhood include: explaining the Muslim creed fundamentals to a schoolmaster, revealing who the thieves were to a wealthy chief, filling empty jars of something to drink, providing food and wine for a tyrannical king while also proving to this king his power in raising a dead man from the dead, raising a child accidentally killed, and causing the garments from a single-colored vat to come out with various colors.
-
-Healing a royal official's son
-
-Al-Tabari (d. 923) reports a story of an adult Jesus' encounter with a certain king in the region and the healing of his son. The identity of the king is not mentioned while legend suggests Philip the Tetrarch. The corresponding Bible reference is "the royal official's son".
-
-Greed and truth-telling
-A legendary story of a miracle by a young Jesus, used as a hard-learned lesson popularly found in Middle Eastern lore according to professor Ayoub, has to do with a Jewish man and loaves of bread. Although carrying a polemic tone, the lesson centers on greed with truth-telling woven into the narration. It is a story found often in children's books.
-
-Inherent wisdom
-
-Another legendary miracle story is one regarding Jesus' childhood wisdom. This legend, reported through al-Tabari from ibn Ishaq, talks about Mary sending Jesus to a religious school and the teacher being astonished to find Jesus already knowing the information being taught / discussed.
-
-Food in children's homes
-Another story from al-Tabari tells of a young Jesus playing with the youths of his village and telling them what food their parents were preparing for them at home.
-
-According to the details of the narrative, some parents became annoyed and forbade their children to play with Jesus, suspecting he was a magician. As a result, the parents kept their children away from Jesus and gathered their children into a single house. One day, feeling lonely, Jesus went out looking for his friends, and coming upon this house he asked the parents where their children were. The parents lied, responding that the children were not there. After Jesus asks who, then, is in the house, the parents call Jesus a pig. Jesus then says "Let there be swine in this house", turning all the children into swine.
-
-Revelation
-
-Muslims believe that God revealed to Jesus a new scripture, al-Injīl (the Gospel), while also declaring the truth of the previous revelations: al-Tawrat (the Torah) and al-Zabur (the Psalms). The Quran speaks favorably of al-Injīl, which it describes as a scripture that fills the hearts of its followers with meekness and piety. Traditional Islamic exegesis claiming the biblical message to have been distorted or corrupted (tahrif), is termed ta'yin al-mubham ("resolution of ambiguity"). This polemic effort has its origins in the medieval period with Abd al-Jabbar ibn Ahmad's writings.
+Muslims believe that God revealed to Jesus a new scripture, al-Injīl (the Gospel), while also declaring the truth of the previous revelations: al-Tawrat (the Torah) and al-Zabur (the Psalms). The Quran speaks favorably of al-Injīl, which it describes as a scripture that fills the hearts of its followers with meekness and piety.
 
 Regarding the Law of Moses, the Quran indicates that Jesus never abolished Jewish laws but rather confirmed them, while making partial abrogations only.
-Islam rejects Paul's theology of justification before God by faith alone as held by some Protestants or faith through grace as held by Catholics, Orthodox and most mainline Protestants. Jesus' legal perspective did not involve a New Covenant concerning works,[citation needed] but to simply modify those existing laws.[citation needed] Shabir Ally considers this understanding to corroborate with the canonical gospels that include Matthew 5:17.
+Islam rejects Paul's theology of justification before God by faith alone as held by some Protestants or faith through grace as held by Catholics, Orthodox and most mainline Protestants. Jesus' legal perspective did not involve a New Covenant concerning works, but to simply modify those existing laws. Shabir Ally considers this understanding to corroborate with the canonical gospels that include Matthew 5:17.
 
 ### Disciples
 
-In the Qur'an
 The following is a list of all the Qur'anic references to the disciples of Jesus:
 
     But when Jesus felt [persistence in] disbelief from them, he said, "Who are my supporters for [the cause of] Allah?" The disciples said, "We are supporters for Allah. We have believed in Allah and testify that we are Muslims [submitting to Him].
@@ -3289,32 +3273,23 @@ The following is a list of all the Qur'anic references to the disciples of Jesus
     O you who have believed, be supporters of Allah, as when Jesus, the son of Mary, said to the disciples, "Who are my supporters for Allah?" The disciples said, "We are supporters of Allah." And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant.
     Quran 61:14
 
-In Hadith
-The following are Hadith (narrations originating from the words of Muhammad), collected by Muslim ibn al-Hajjaj Nishapuri, which indirectly emphasize Islamic beliefs concerning the disciples of Jesus:
+### Event of Crusifixion
 
-It is narrated on the authority 'Abdullah b. Mas'ud that the Messenger of God observed: Never a Prophet had been sent before me by God towards his nation who had not among his people (his) disciples and companions who followed his ways and obeyed his command. Then there came after them their successors who said whatever they did not practise, and practised whatever they were not commanded to do. He who strove against them with his hand was a believer: he who strove against them with his tongue was a believer, and he who strove against them with his heart was a believer and beyond that there is no faith even to the extent of a mustard seed. Abu Rafi' said: I narrated this hadith to 'Abdullah b. 'Umar; he contradicted me. There happened to come 'Abdullah b. Mas'ud who stayed at Qanat, and 'Abdullah b 'Umar wanted me to accompany him for visiting him (as 'Abdullah b. Mas'ud was ailing), so I went along with him and as we sat (before him) I asked Ibn Mas'ud about this hadith. He narrated it in the same way as I narrated it to Ibn 'Umar. The same hadith has been transmitted by another chain of narrators on the authority of 'Abdullah b. Mas'ud who observed: Never was there one among the prophets who had had not disciples who followed his direction and followed his ways. The remaining part of the hadith is like that as narrated by Salih but the arrival of Ibn Mas'ud and the meeting of Ibn 'Umar with him is not mentioned.
-— Sahih Muslim
+Quranic story about crusifixion and nature of Jesus is quite different from that of the extant gospels.
 
-Death
+The Glorious Qur'an affirms that Allah the Exalted did not permit the people of Israel to kill Jesus or crucify him. What happened was that Allah saved him from his enemies and raised him to heaven. They never killed Jesus; they killed someone else.
 
-The primary quranic verse dealing with the event of the crucifixion is Surah 4 Verse 157:
+    And because of their saying (in boast), "We killed Messiah Jesus, son of Mary the Messenger of Allah," - but they killed him not, nor crucified him, but the resemblance of Jesus was put over another man (and they killed that man), and those who differ therein are full of doubts. They have no (certain) knowledge, they follow nothing but conjecture. For surely; they killed him not (i.e. Jesus, son of Mary): But Allah raised him (Jesus) up (with his body and soul) unto Himself (and he is in the heavens). And Allah is Ever All-Powerful, all- Wise.
 
-    That they said (in boast), "We killed the Messiah Jesus the son of Mary, the Messenger of The God'; but they killed him not, nor crucified him, but so it was made to appear to them, and those who differ therein are full of doubts, with no (certain) knowledge, but only conjecture to follow, for of a surety they killed him not.
+    And there is none of the people of the Scripture (Jews and Christians), but must believe in him (Jesus, son of Mary as only a Messenger of Allah and a human being), before his (Jesus or a Jew's or a Christian's) death (at the time of the appearance of the angel of death). And on the Day of Resurrection, he (Jesus) will be a witness against them.
+    Quran Ayah 4:157-159
 
-Most Islamic traditions categorically deny that Jesus physically died on the cross or otherwise. Most traditions instead teach substitution, or the idea that another person was crucified in Jesus' place. However, some modern Muslim scholars believe that Jesus did indeed die, and references to his survival are symbolic, not literal. This disagreement on the nature of Jesus' death is found within the Islamic canon itself, with the earliest Hadith quoting the companions of Muhammad saying that Jesus had died. Meanwhile, the majority of subsequent Hadith and Tafsir argue in favor of the opposite.
+Almighty Allah also revealed: 
 
-Substitution
-It is unclear exactly where the substitutionist interpretation originated, but some scholars consider the theory originating among certain Gnostic groups of the second century.[35] Leirvik finds the Quran and Hadith to have been clearly influenced by the non-canonical ('heretical') Christianity that prevailed in the Arab peninsula and further in Abyssinia.
+    [Mention] when Allāh said, "O Jesus, indeed I will take you and raise you to Myself and purify [i.e., free] you from those who disbelieve and make those who follow you [in submission to Allāh alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ.
+    Quran Ayah 3:55
 
-Muslim commentators have been unable to convincingly disprove the crucifixion. Rather, the problem has been compounded by adding the conclusion of their substitutionist theories. The problem has been one of understanding.
-
-If the substitutionist interpretation (Christ replaced on the cross) is taken as a valid reading of the Qur'anic text, the question arises of whether this idea is represented in Christian sources. According to Irenaeus' Adversus Haereses, the Egyptian Gnostic Christian Basilides (2nd century) held the view that Christ (the divine nous, intelligence) was not crucified, but was replaced by Simon of Cyrene. However, both Clement of Alexandria and Hippolytus denied that Basilides held this view. But the substitutionist idea in general form is quite clearly expressed in the Gnostic Nag Hammadi documents Apocalypse of Peter and The Second Treatise of the Great Seth.
-
-While most Western scholars, Jews, and Christians believe Jesus died, orthodox Muslim theology teaches he ascended to Heaven without being put on the cross and God transformed another person, Simon of Cyrene, to appear exactly like Jesus who was crucified instead of Jesus (cf. Irenaeus' description of the heresy of Basilides, Book I, ch. XXIV, 4.).
-
-Some disagreement and discord can be seen beginning with Ibn Ishaq's (d. 761) report of a brief accounting of events leading up to the crucifixion, firstly stating that Jesus was replaced by someone named Sergius, while secondly reporting an account of Jesus' tomb being located at Medina and thirdly citing the places in the Quran (3:55; 4:158) that God took Jesus up to himself.
-
-Michael Cook notes that denial that Jesus died follows the Christian heresy of Docetism, who were "disturbed by that God should have died", but that this concern conflicts with another Islamic doctrine, that Jesus was a man, not God. Quranic commentators seem to have concluded the denial of the crucifixion of Jesus by following material interpreted in Tafsir that relied upon extra-biblical Judeo-Christian sources, with the earliest textual evidence having originated from a non-Muslim source; a misreading of the Christian writings of John of Damascus regarding the literal understandings of Docetism (exegetical doctrine describing spiritual and physical realities of Jesus as understood by men in logical terms) as opposed to their figurative explanations. John of Damascus highlighted the Quran's assertion that the Jews did not crucify Jesus being very different from saying that Jesus was not crucified, explaining that it is the varied Quranic exegetes in Tafsir, and not the Quran itself, that denies the crucifixion, further stating that the message in the 4:157 verse simply affirms the historicity of the event.
+# PROFREADINGPRROFREADINGPROOFREADING
 
 ### Second coming
 
@@ -6279,11 +6254,10 @@ It is going to come suddenly.
 
 the first trumpet will be blown at the time where there are no muslims left
 
+there will be a slight rain and men will start resurrecting, bodies will start coming out of the graves.
 
 </details>
-
-<details>
-  <summary>
+<details><summary>
 
 ## The Judgement
 
