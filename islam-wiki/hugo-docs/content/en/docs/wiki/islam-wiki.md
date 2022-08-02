@@ -3211,7 +3211,7 @@ Almighty Allah refuted the claims of the Jews and the Christians in many verses 
     The Messiah (Jesus), son of Mary, was no more than a Messenger; many were the Messengers that passed a way before him. His mother (Mary) was a Siddiqah i.e. she believed in the Words of Allah and His Books. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded a way (from the truth). 
     Quran Ayah 6:72-75
 
-### Miracles
+### Miracles performed by Isa
 
 The Quran attributes at least six miracles to Jesus.
 
@@ -3255,24 +3255,6 @@ Muslims believe that God revealed to Jesus a new scripture, al-Injīl (the Gospe
 Regarding the Law of Moses, the Quran indicates that Jesus never abolished Jewish laws but rather confirmed them, while making partial abrogations only.
 Islam rejects Paul's theology of justification before God by faith alone as held by some Protestants or faith through grace as held by Catholics, Orthodox and most mainline Protestants. Jesus' legal perspective did not involve a New Covenant concerning works, but to simply modify those existing laws. Shabir Ally considers this understanding to corroborate with the canonical gospels that include Matthew 5:17.
 
-### Disciples
-
-The following is a list of all the Qur'anic references to the disciples of Jesus:
-
-    But when Jesus felt [persistence in] disbelief from them, he said, "Who are my supporters for [the cause of] Allah?" The disciples said, "We are supporters for Allah. We have believed in Allah and testify that we are Muslims [submitting to Him].
-    Our Lord, we have believed in what You revealed and have followed the messenger [i.e., Jesus], so register us among the witnesses [to truth]."
-    Qur'an 3:52-53
-    
-    And [remember] when I inspired to the disciples, "Believe in Me and in My messenger [i.e., Jesus]." They said, "We have believed, so bear witness that indeed we are Muslims [in submission to Allah]."
-    [And remember] when the disciples said, "O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?" [Jesus] said, "Fear Allah, if you should be believers."
-    They said, "We wish to eat from it and let our hearts be reassured and know that you have been truthful to us and be among its witnesses."
-    Said Jesus, the son of Mary, "O Allah, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers."
-    Allah said, "Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds."
-    Quran 5:111-115
-    
-    O you who have believed, be supporters of Allah, as when Jesus, the son of Mary, said to the disciples, "Who are my supporters for Allah?" The disciples said, "We are supporters of Allah." And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant.
-    Quran 61:14
-
 ### Event of Crusifixion
 
 Quranic story about crusifixion and nature of Jesus is quite different from that of the extant gospels.
@@ -3289,33 +3271,44 @@ Almighty Allah also revealed:
     [Mention] when Allāh said, "O Jesus, indeed I will take you and raise you to Myself and purify [i.e., free] you from those who disbelieve and make those who follow you [in submission to Allāh alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ.
     Quran Ayah 3:55
 
-# PROFREADINGPRROFREADINGPROOFREADING
+### Second coming of Jesus
 
-### Second coming
-
-According to Islamic tradition which describes this graphically, Jesus' descent will be in the midst of wars fought by the Mahdi (lit. "the rightly guided one"), known in Islamic eschatology as the redeemer of Islam, against al-Masih ad-Dajjal (the Antichrist "false messiah") and his followers. Jesus will descend at the point of a white minaret, east of Damascus (believed to be the Minaret of Isa in the Umayyad Mosque), dressed in yellow robes—his head anointed. He will say prayer behind al-Mahdi then join him in his war against the Dajjal. Jesus, considered as a Muslim, will abide by the Islamic teachings. Eventually, Jesus will slay the Antichrist, and then everyone who is one of the People of the Book (ahl al-kitāb, referring to Jews and Christians) will believe in him. Thus, there will be one community, that of Islam.
+According to Islamic tradition which describes this graphically, Jesus' descent will be in the midst of wars fought by the Mahdi (lit. "the rightly guided one"), known in Islamic eschatology as the redeemer of Islam, against al-Masih ad-Dajjal (the Antichrist "false messiah") and his followers. Jesus will descend at the point of a white minaret, east of Damascus (believed to be the Minaret of Isa in the Umayyad Mosque), dressed in yellow robes. He will say prayer behind al-Mahdi then join him in his war against the Dajjal. Jesus, considered as a Muslim, will abide by the Islamic teachings. Eventually, Jesus will slay the Antichrist, and then everyone who is one of the People of the Book (ahl al-kitāb, referring to Jews and Christians) will believe in him. Thus, there will be one community, that of Islam.
 
 Sahih al-Bukhari, Volume 3, Book 43: Kitab-ul-Ilm (Book of Knowledge), Hâdith Number 656:
 
 > Allah's Apostle said, "The Hour will not be established until the son of Mary (i.e. Jesus) descends amongst you as a just ruler, he will break the cross, kill the swine, and abolish the Jizya tax. Money will be in abundance so that nobody will accept it (as charitable gifts)."
 > Narrated by Abu Huraira 🐈.
 
+In another hadith, the Prophet (SAW) said: 
+> "I hope that I would live long enough to see ʿĪsā, but if my death comes before that, whoever meets him should convey my salām to him."
+
+ʿĪsā (AS) will not have returned as a new Prophet but rather as follower of the Prophet Muḥammad (SAW), adhering to the Sharīʿah he brought. As such, he will accede to the authority of the Khalīfah at the time, the Mahdī. Allāh’s Messenger (SAW) said, “How will you be when the son or Maryam descends amongst you, judging by the law of the Qurʾān and not the law of the Injīl?” and he once told ʿUmar b. al-Khaṭṭāb, “Were Mūsā alive today, he would have no option but to follow me.”
+
+The ummah of Islām will start with the best of people and end with the best of people. The Prophet (SAW) said, “An ummah that has me at its beginning, the Mahdī in its middle, and ʿIsā at its end can never be destroyed.”
+
+After defeating Dajjal, Isa will work as a judge. There will be a good life for some time untill Yajuj and Majuj come out of their dwelling places. Isa and the ummah will make dua against them and Allah will save the people.
+
+Īsā (AS) will remain on earth for forty years after killing the Dajjāl and then pass away. The Muslims will offer the funeral prayer for him, and bury him.
+
+For details, see #Isa will return to the Earth and defeat Dajjal.
+
 </details>
 <details><summary>
 
-## Apostoles and Paul
+## Apostles and Paul
 
 </summary>
 
-The disciples of Jesus are known in the Quran and the traditions of Prophet Muhammad, may the mercy and blessings of God be upon him, as Al-Hawariyoon.  This is an Arabic word meaning simply, the disciples of Jesus.  However, hawariyoon, like many words in the Arabic language, has specific and general meanings, and in some cases, particularly in Islamic words, there are layers of meanings.
+The disciples of Jesus are known in the Quran and the traditions of Prophet Muhammad, may the mercy and blessings of God be upon him, as Al-Hawariyoon.  This is an Arabic word meaning simply, the disciples of Jesus. However, hawariyoon, like many words in the Arabic language, has specific and general meanings, and in some cases, particularly in Islamic words, there are layers of meanings.
 
-Hawari is derived from the root Arabic word hawr that means to whiten, to bleach, to purify, to clean, to change, to transform, to amend and to alter.  Hawari is a singular word and literally means, he who whitens clothes, he who has been appointed, chosen, and purified from all kinds of defects, and a companion or a helper.  The plural is hawariyoon.   
+Hawari is derived from the root Arabic word hawr that means to whiten, to bleach, to purify, to clean, to change, to transform, to amend and to alter.  Hawari is a singular word and literally means, he who whitens clothes, he who has been appointed, chosen, and purified from all kinds of defects, and a companion or a helper. The plural is hawariyoon.   
 
-Prophet Jesus’ companions were also known as apostles.  The words apostles or disciples were used to differentiate Jesus’ close companions from followers whose numbers were steadily growing. Islamic scholars have pondered and discussed the reason for calling the disciples Al-Hawariyoon throughout Islamic history.  Renowned Islamic Quran scholar Ibn Kathir states that the disciples were so named because of their white clothes and he also mentions the meaning of a helper or supporter. 
+Prophet Jesus’ companions were also known as apostles. The words apostles or disciples were used to differentiate Jesus’ close companions from followers whose numbers were steadily growing. Islamic scholars have pondered and discussed the reason for calling the disciples Al-Hawariyoon throughout Islamic history. Renowned Islamic Quran scholar Ibn Kathir states that the disciples were so named because of their white clothes and he also mentions the meaning of a helper or supporter. 
 
 It is interesting to note that the majority of Jesus’ disciples were fishermen and their clothes would have been white due to their daily toil. The whiteness could then be extrapolated to include the whitening of people’s hearts through the teachings of Prophet Jesus. Other scholars have stated that hawari implies one who is capable of being a leader, and almost all scholars agree that a hawari is a sincere person or friend. 
 
-The scholars of Christianity and Islam agree that Prophet Jesus was surrounded by twelve supporters, who were his close friends, companions. Quran has addressed Jesus’ companions as Al-Hawariyoon five times in four different verses. The first time they are mentioned is in Chapter three of the Quran, entitled The Family of Imran.  This family includes many people well known to Christians including, Jesus and his mother Mary, and John, known as the Baptist.   
+The scholars of Christianity and Islam agree that Prophet Jesus was surrounded by twelve supporters, who were his close friends, companions. Quran has addressed Jesus’ companions as Al-Hawariyoon five times in four different verses.
 
 At the time Jesus began his mission many Israelites were so far astray from the truth that Jesus considered it to be disbelief. He called them back to the worship of the One True God, yet most of those around him rejected his call and failed to heed his message. After revealing and clarifying that he is a Messenger from God, Jesus asks those listening to his message, who among them would be his helpers in God’s cause.
 
@@ -3332,50 +3325,50 @@ Then in another chapter God Himself reveals that He was responsible for the peop
     "I (God) put it in the hearts of Al-Hawariyoon to believe in Me and My Messenger, they said: ‘We believe. And bear witness that we are submitted to God.’"
     Quran 5:111
 
-The disciples were submitted to God; they followed the teachings of Jesus and were his companions and supporters.  They helped him call the Israelites back to the worship of One God.  Jesus never called himself God and the disciples were fully aware that they worshipped God and followed a man.  It is the man known as the apostle Paul who called people to worship Jesus.  It is wrong to assume that Paul was a disciple—he never met Jesus nor did he hear him speak or teach.   
+The disciples were submitted to God; they followed the teachings of Jesus and were his companions and supporters. They helped him call the Israelites back to the worship of One God. Jesus never called himself God and the disciples were fully aware that they worshipped God and followed a man. It is the man known as the apostle Paul who called people to worship Jesus. It is wrong to assume that Paul was a disciple — he never met Jesus nor did he hear him speak or teach.   
 
-Paul was a Pharisee, a Jewish sect that Dictionary.com defines as strict in its observance of religious ceremonies and practices, and adherence to oral laws and traditions.  Remarkably the secondary definition is a sanctimonious, self-righteous, or hypocritical person.  Many thinkers and scholars believe that Paul almost singlehandedly destroyed the teachings of Jesus. 
+Paul was a Pharisee, a Jewish sect that is strict in its observance of religious ceremonies and practices, and adherence to oral laws and traditions. Remarkably the secondary definition is a sanctimonious, self-righteous, or hypocritical person. Many thinkers and scholars believe that Paul almost singlehandedly destroyed the teachings of Jesus. 
 
-The scholars of Islam reflect that there are two reasons why Paul would have joined the disciples after Jesus’ death.  Either, in his role as a Pharisee, he was sent to undermine and sabotage the new movement, or the experience[1]  he had on the road to Damascus was a trick from Satan, designed to undermine and sabotage Jesus’ teachings.  Quran is silent about Paul and also does not mention or imply that any of Jesus’ companions, Al-Hawariyoon, ever betrayed him.
+The scholars of Islam reflect that there are two reasons why Paul would have joined the disciples after Jesus’ death. Either, in his role as a Pharisee, he was sent to undermine and sabotage the new movement, or the experience he had on the road to Damascus was a trick from Satan, designed to undermine and sabotage Jesus’ teachings. Quran is silent about Paul and also does not mention or imply that any of Jesus’ companions, Al-Hawariyoon, ever betrayed him.
 
-Chapter five of the Quran is named The Table Spread with Food.  It refers to Al-Hawariyoon asking Jesus if God could send down a table spread with food.  What exactly they meant has been discussed often, and it seems most likely that they were asking Jesus either playfully or seriously if God would supply them with a feast rather than asking if He could do such a thing.  Jesus warned them not to speak so flippantly but nevertheless asked God to perform a miracle.
+Chapter five of the Quran is named The Table Spread with Food. It refers to Al-Hawariyoon asking Jesus if God could send down a table spread with food.  Jesus warned them not to speak so flippantly but nevertheless asked God to perform a miracle.
 
-    (Remember) when Al-Hawariyoon said, "O Jesus, son of Mary! Can your Lord send down to us a table spread with food from heaven?" Jesus replied, "Fear God, if you are indeed believers." They said: "We wish to eat thereof and to satisfy our hearts (to be stronger in Faith), and to know that you have indeed told us the truth and that we ourselves be its witnesses." Jesus, son of Mary, prayed, "O God, our Lord! Send us from the heaven a table spread with food that there may be for us—for the first and the last of us—a festival and a sign from You; and provide us sustenance, for You are the Best of sustainers." God answered, "I will send it down to you, but if any of you after that disbelieves, then I will punish him with a torment such as I have not inflicted on anyone among all humankind and jinn." 
-    Quran 5:112-115
+Among the reasons for their request was that the disciples wanted to be witnesses before all of humankind. They wanted to spread the message of Jesus by proclaiming the miracles they witnessed with their own eyes. The disciples followed the teaching of Jesus even after his death. Unfortunately, over time, the true message of Jesus and the faith of the disciples was discarded and forgotten. 
 
-Among the reasons for their request was that the disciples wanted to be witnesses before all of humankind.   They wanted to spread the message of Jesus by proclaiming the miracles they witnessed with their own eyes.  The disciples followed the teaching of Jesus even after his death.  Unfortunately, over time, the true message of Jesus and the faith of the disciples was discarded and forgotten. 
+Islam holds the disciples of Jesus, Al-Hawariyoon, in high esteem. Prophet Muhammad, may the mercy and blessings of God be upon him, mentions Jesus and his disciples in his traditions. The Quran mentions their faith and their status as the helpers of Jesus, highlights their faith and sacrifice, and calls on the Companions of Prophet Muhammad to be like them.   
 
-Islam holds the disciples of Jesus, Al-Hawariyoon, in high esteem.  Prophet Muhammad, may the mercy and blessings of God be upon him, mentions Jesus and his disciples in his traditions.  The Quran mentions their faith and their status as the helpers of Jesus, highlights their faith and sacrifice, and calls on the Companions of Prophet Muhammad to be like them.   
-
-    O believers! Be supporters of God, as when Jesus, son of Mary, asked the disciples, "Who are my supporters for God?" The disciples replied, "We are supporters of God." Some of the Children of Israel believed and some disbelieved.  We then supported the believers against their enemies, so they prevailed.
+    O believers! Be supporters of God, as when Jesus, son of Mary, asked the disciples, "Who are my supporters for God?" The disciples replied, "We are supporters of God." Some of the Children of Israel believed and some disbelieved. We then supported the believers against their enemies, so they prevailed.
     Quran 61:14
 
-This verse tells us that some of the Children of Israel heard Jesus’ message and believed him, while others disbelieved.  Six hundred years later some people believed Prophet Muhammad while others turned their back and actively fought against Islam.  Prophet Jesus and Prophet Muhammad both needed strong people around them.  They needed helpers; they needed trustworthy people with conviction of faith.  Al-Hawariyoon were the people of the inner circle, the ones Prophet Jesus could depend on, and the Companions were the ones who stood by and supported Prophet Muhammad.
+This verse tells us that some of the Children of Israel heard Jesus’ message and believed him, while others disbelieved. Six hundred years later some people believed Prophet Muhammad while others turned their back and actively fought against Islam. Prophet Jesus and Prophet Muhammad both needed strong people around them. They needed helpers; they needed trustworthy people with conviction of faith. Al-Hawariyoon were the people of the inner circle, the ones Prophet Jesus could depend on, and the Companions were the ones who stood by and supported Prophet Muhammad.
 
-Prophet Muhammad said, "There is no Prophet who was sent by God to a nation before me except that he had hawariyoon and companions." During the campaign of al-Ahzab, the Prophet asked his Companions three times which of them would scout the disbeliever’s camp, and al-Zubayr volunteered each time.  The Prophet said, ~"Every Prophet has a disciple (hawari), and my disciple is al-Zubayr."~ This story reflects a narration in Ibn Kathir’s commentary on the above verse, Quran 61:14, in which a young disciple volunteered three times to take the place of Jesus when Jesus and Al-Hawariyoon knew that harassment and arrest were probable.
+> Prophet Muhammad said, "There is no Prophet who was sent by God to a nation before me except that he had hawariyoon and companions." 
 
-Some groups of Prophet Muhammad’s Companions can be directly likened to the disciples of Jesus. When the fledgling Muslim community migrated to Medina, they were met and taken in by the residents of Medina, who came to be known as the Helpers, or the Ansar.  They played a pivotal role in the establishment of the Islamic community. They embraced the emigrants as if they were family; they shared their homes, their food, their businesses and their wealth—all for the sake of God, and out of respect for Prophet Muhammad and his message. 
+During the campaign of al-Ahzab, the Prophet asked his Companions three times which of them would scout the disbeliever’s camp, and al-Zubayr volunteered each time. The Prophet said, "Every Prophet has a disciple (hawari), and my disciple is al-Zubayr." This story reflects a narration in Ibn Kathir’s commentary on the above verse, Quran 61:14, in which a young disciple volunteered three times to take the place of Jesus when Jesus and Al-Hawariyoon knew that harassment and arrest were probable.
 
-The leaders of the Children of Israel harassed Jesus and tried to make it very difficult for him to spread his message.  While his followers understood that he was calling them back to the teachings of the Torah, the Jewish government of the time accused him of blasphemy.  Jesus needed helpers to keep him safe, and he needed them to have a deep understanding of the message. 
+Some groups of Prophet Muhammad’s Companions can be directly likened to the disciples of Jesus. When the fledgling Muslim community migrated to Medina, they were met and taken in by the residents of Medina, who came to be known as the Helpers, or the Ansar. They played a pivotal role in the establishment of the Islamic community. They embraced the emigrants as if they were family; they shared their homes, their food, their businesses and their wealth — all for the sake of God, and out of respect for Prophet Muhammad and his message. 
+
+The leaders of the Children of Israel harassed Jesus and tried to make it very difficult for him to spread his message. While his followers understood that he was calling them back to the teachings of the Torah, the Jewish government of the time accused him of blasphemy. Jesus needed helpers to keep him safe, and he needed them to have a deep understanding of the message. 
 
 Some of the Companions of Prophet Muhammad were given glad tidings of Paradise long before their deaths. They can also, in some respects, be compared to Al-Hawariyoon.
 
-God chose Prophet Muhammad as a mercy to humankind and thus to spread the message of Islam.  He also chose the people that would be close to him. In part one we mentioned that God Himself chose Al-Hawariyoon. He knew which people would be the best supporters of Prophet Jesus. God also knew who the best supporters of Prophet Muhammad would be. If we examine their lives, we will notice that there was something about the close Companions of Prophet Muhammad that made them different from all other men at the time, and this is why God chose them; they were trustworthy, honest and truthful men.  They were men with strong characters, and they shared all these qualities with their Prophet. 
+God chose Prophet Muhammad as a mercy to humankind and thus to spread the message of Islam. He also chose the people that would be close to him. In part one we mentioned that God Himself chose Al-Hawariyoon. He knew which people would be the best supporters of Prophet Jesus. God also knew who the best supporters of Prophet Muhammad would be. If we examine their lives, we will notice that there was something about the close Companions of Prophet Muhammad that made them different from all other men at the time, and this is why God chose them; they were trustworthy, honest and truthful men. They were men with strong characters, and they shared all these qualities with their Prophet. 
 
-We are blessed to know a great deal about Prophet Muhammad’s Companions however we do not know as much about Al-Hawariyoon.  What we do know is limited to what is in the Quran and the traditions of Prophet Muhammad. We do know that they possessed the same qualities as the Companions and were also chosen by God. From the freely available Christian texts we can glean very little. The Gospels can be interpreted in many ways and are colored by their contributors' and editors' reflections on events that had happened 60 or more years before they were written.   
+We are blessed to know a great deal about Prophet Muhammad’s Companions however we do not know as much about Al-Hawariyoon. What we do know is limited to what is in the Quran and the traditions of Prophet Muhammad. We do know that they possessed the same qualities as the Companions and were also chosen by God. From the freely available Christian texts we can glean very little. The Gospels can be interpreted in many ways and are colored by their contributors' and editors' reflections on events that had happened 60 or more years before they were written.   
 
-Peter (Cephas) the man formerly known as Simon was very close to Jesus.  Jesus changed his name; this was also one of Prophet Muhammad’s practices.  If the name of a Companion had a bad meaning or a meaning in conflict with Islamic principles, Prophet Muhammad gave that person a better name.  Jesus changed Simon’s name to one that was full of meaning.  Peter (Cephas) means stone or rock, and scholars of the Gospels generally agree that Peter was a man of strong, unmovable conviction.
+Peter (Cephas) the man formerly known as Simon was very close to Jesus. Jesus changed his name; this was also one of Prophet Muhammad’s practices. If the name of a Companion had a bad meaning or a meaning in conflict with Islamic principles, Prophet Muhammad gave that person a better name. Jesus changed Simon’s name to one that was full of meaning. Peter (Cephas) means stone or rock, and scholars of the Gospels generally agree that Peter was a man of strong, unmovable conviction.
 
-Prophet Muhammad mentions Jesus in some of his sayings and from his words we are able to deduce a little more about Jesus and his disciples.  Prophet Muhammad considered Jesus to be like a brother. 
+Prophet Muhammad mentions Jesus in some of his sayings and from his words we are able to deduce a little more about Jesus and his disciples. Prophet Muhammad ﷺ   considered Jesus to be like a brother. 
 
-"Both in this world and in the Hereafter, I am the nearest of all people to Jesus, the son of Mary. The Prophets are paternal brothers; their mothers are different, but their religion is one."
+> "Both in this world and in the Hereafter, I am the nearest of all people to Jesus, the son of Mary. The Prophets are paternal brothers; their mothers are different, but their religion is one."
 
 Both Prophet Muhammad and Prophet Jesus shared a mission and were both surrounded and protected by men who shared their devotion to God and His cause. 
 
 </details>
 
-<details>
-  <summary>
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
 
 ## Spreading of Christianity and Islamic View on Apostole Paul
 
@@ -3386,9 +3379,7 @@ Paul is viewed in Islam in a very negative way because he corrupted original tea
 Paul never met Jesus in person. Paul brought many innovations from Greek mythology, including the concept of "human sacrifice" and "died for your sins". Not only he went astray from the straight path but he also led many people to the wrong path.
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## Sleepers in the Cave 😴😴🐕⛰️
 
@@ -5996,8 +5987,11 @@ According to Sahih Muslim, the Prophet said:
 The fire will make people run towards the place of Judgement 
 </details>
 
-<details>
-    <summary>Isa will return to the Earth and defeat Dajjal</summary>
+<details><summary>
+
+## Isa will return to the Earth and defeat Dajjal
+
+</summary>
 
 Isa will die in Medina. and later Medina would be destroyed. no Muslims will be left there.
 The Quran will be lifted up.
@@ -6005,6 +5999,44 @@ The Quran will be lifted up.
 while believers would march to figt the Abyssinain ruler, Allah will send a light breeze that will take away the souls of all believers. and only unbelievers will be left on the Earth and they will live like animals.
 
 everything in ad-dunya is cursed except the remembrance of Allah and whoever are the allies of the remembrance of Allah.
+
+https://wise-web.org/2020/09/06/isa-as-second-coming/ 
+
+While the Mahdī is ruling as the Imām or Khalīfah of the Muslims, and preparing for battle against the forces of the Dajjāl in Syria, shortly after having conquered Constantinople, ʿĪsā b. Maryam (AS) will return to earth. He will descend close to the white minaret to the east of Damascus just before Fajr time.[12]
+
+The Mahdī and others will ask him to lead them in prayer but he will refuse saying, ‘Your Imām should lead,[14] as a grace from Allāh.’”[15]
+
+After they have prayed Fajr, the Muslims will go out to face him;[20] this will be the final battle fought between them and the armies of the Dajjāl. The very fragrance of the breath of ʿĪsā will kill any disbeliever it reaches, and it will extend out for as far as the eye can see.[21] The battle will be so fierce that the forces of the Dajjāl will flee and hide behind boulders and trees, but those boulders and trees themselves will cry out, ‘Muslims, there is a Jew behind me, come kill him!’[22] except for the Gharqad tree because that is a tree of the Jews.[23]
+
+As soon as the Dajjāl sees ʿĪsa (AS), he will start to dissolve just like salt dissolves in water and run away. ʿĪsā (AS) will pursue him and kill the Dajjāl with his lance at the gate of a place called Ludd (near Tel Aviv, in today’s Israel).[24] He will show the blood on his lance to those around him,[25] proving conclusively that he was just a human being and in no way divine.
+
+He will be a judge, fair and even-handed. He will break the cross,[29] literally and symbolically proving once and for all the falsehood of Christianity; destroying their symbol. He will abolish the jizya,[30] and kill all swine.[31]
+
+Wealth will become abundant, flowing so copiously throughout the lands that there will be none to accept it if offered in charity,[32] even the most valuable camels will be left untended because people are just not concerned about their worth anymore.[33] At that time a single prostration will be worth more than the earth and all that it contains.[34] Abū Hurayrah, after quoting this ḥadīth, commented, ‘Recite if you want,
+
+وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ ۖ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
+
+There is not one of the People of the Book who will not believe in him before his death, and on the Day of Resurrection he will be a witness against them.[35]’[36]
+
+He added, ‘Meaning that they will believe in him before he dies.’[37]
+
+He will call the people to Islām and during his time, Allāh will end all religions except Islām.[38] Safety will fill the earth, so much so that the lions will mingle with camels, tigers with cattle and wolves with sheep. Children will play with snakes, and they will not harm them,[39] the sting or poison of every such animal will have been taken away.[40] Rancour, hatred and envy will disappear[41] for a time.
+
+After the Yaʾjūj and Maʾjūj (discussed next) are killed, the time of Jihād will have ended,[42] and so swords will be taken as scythes, the sky will bring down rain, the earth will freely grow its produce[43] and people will take to tilling the land.
+
+ʿĪsā (AS) will perform Ḥajj or ʿUmrah, saying the talbiyah from Rawḥāʾ (a place on the way to Mecca from Medina).[44]
+
+eople will flee in terror, barricading themselves and their livestock in cities and fortresses. Once all the people have fled, and Yaʾjūj and Maʾjūj reach Bayt al-Maqdis,[56] they will say, ‘This is the people of earth sorted.’ They will then shoot arrows and spears into the sky which will fall back down covered in blood, and they will claim that they have killed the inhabitants of the heaven.[57]
+
+ʿĪsā and his companions will withdraw to Mount Ṭūr after Allāh tells them that they have no hope of defeating Yaʾjūj and Maʾjūj and there, they will be besieged; food will become so scarce that the head of an ox would be dearer to them than one hundred dīnārs.[58]
+
+ʿĪsā and his companions will make duʿā to Allāh[59] and eventually Allāh will send a type of worm to the back of their necks which will kill them, and they will die like locusts piled one on top of the other. The Muslims will awake the next day and hear no sound from them and so send one of their own to investigate what has happened. He will return and give them the glad tidings that the enemy has died. The Muslims will then leave and find that there is not even a hand span of land that is free of their corpses.[60] They will let loose their animals to graze, but having nothing to eat, they will instead grow fat on their flesh, as if they were grazing on the best vegetation they ever found.[61] The earth will fill with the stench of their rotting corpses, and ʿĪsā will again make duʿā for relief. Allāh will send birds with necks like the necks of Bactrian camels, which will pick them up and throw them wherever He wills. Then Allāh will send down rain that will wash them away into the sea, and clean house and earth until it is left like a smooth rock or mirror.[62] Then it will be said to the earth, ‘Bring forth your fruits and bring back your blessings.’ On that day a group of people will eat from a (single) pomegranate and it will suffice them, and they will seek shelter beneath its skin. Allah will bless a milk-camel so that it will be sufficient for a large number of people, and a milk-cow will be sufficient for a whole tribe and a milk-ewe will be sufficient for a whole clan.[63]
+
+The time of war will have come to an end,[64] and the Muslims will use the shields, bows and arrows of the Yaʾjūj and Maʿjūj as firewood for seven years.[65] And they will once again make Ḥajj and ʿUmrah at the Kaʿbah.[66]
+
+ʿĪsā (AS) Passes Away
+
+ʿĪsā (AS) will remain on earth for forty years after killing the Dajjāl and then pass away. The Muslims will offer the funeral prayer for him,[67] and bury him.[68]
 
 </details>
 
