@@ -3296,7 +3296,7 @@ For details, see #Isa will return to the Earth and defeat Dajjal.
 </details>
 <details><summary>
 
-## Apostles and Paul
+## Apostles (Disciples of Jesus)
 
 </summary>
 
@@ -3365,23 +3365,99 @@ Prophet Muhammad mentions Jesus in some of his sayings and from his words we are
 Both Prophet Muhammad and Prophet Jesus shared a mission and were both surrounded and protected by men who shared their devotion to God and His cause. 
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
-## Spreading of Christianity and Islamic View on Apostole Paul
+## Early Christianity
 
 </summary>
 
-Paul is viewed in Islam in a very negative way because he corrupted original teachings of Jesus.
+> Early Christianity is generally reckoned by church historians to begin with the ministry of Jesus (c. 27–30) and end with the First Council of Nicaea (325). It is typically divided into two periods: the Apostolic Age (c. 30–100, when the first apostles were still alive) and the Ante-Nicene Period (c. 100–325).
+
+### Jewish Christians
+
+The Apostolic Age is named after the Apostles and their missionary activities. It holds special significance in Christian tradition as the age of the direct apostles of Jesus. A primary source for the Apostolic Age is the Acts of the Apostles, but its historical accuracy has been debated and its coverage is partial, focusing especially from Acts 15 onwards on the ministry of Paul, and ending around 62 AD with Paul preaching in Rome under house arrest.
+
+The earliest followers of Jesus were a sect of apocalyptic Jewish Christians within the realm of Second Temple Judaism. The early Christian groups were strictly Jewish, such as the Ebionites, and the early Christian community in Jerusalem, led by James the Just, brother of Jesus. According to Acts 9,they described themselves as "disciples of the Lord" and [followers] "of the Way", and according to Acts 11, a settled community of disciples at Antioch were the first to be called "Christians". 
+
+Early Christians were all Jews as Jesus himself.
+* They were fulfilling the covenant by circumsising their male children; 
+* They did not eat pork;
+* They worshiped one God and prayed to God alone;
+* They greeted each other with "Shalom!" (Peace!)
+* And they considered Jesus to be a promied Messiah
+
+</details>
+
+<details><summary>
+
+## How Paul corrupted Christianity
+
+</summary>
+
+Early Christians were all Jews as Jesus himself.
+* They were fulfilling the covenant by circumsising their male children; 
+* They did not eat pork;
+* They worshiped one God and prayed to God alone;
+* They greeted each other with "Shalom!" (Peace!)
+* And they considered Jesus to be a promied Messiah
+
+In the New Testament, in Matthew 5:17 Jesus states why he came:
+
+> "Think not that I have come to abolish the law of the prophets but to fulfill them."
+> Matthew 5:17
+
+The Law that he is referring to is the Torah, which is the first five books of the Hebrew Bible (The Old Testament). 
+Jesus' mission was to bring Jews back to the old ways of theology. He said:
+
+> "You change not a jot or a title in Scripture"
+
+Paul, who never saw Jesus personally, was prosecuting Christians. But at some point he declared himself a convert and an Apostole. Paul could not convince Jews that Jesus was divine so he went outside of Israel to the Gentiles (anyone who is not a Jew). 
+
+He started preaching to Gentiles that Jesus died for sins of all humankind and that Christians do not need to follow the Law anymore.
+
+Early Christians opposed Paul. Paul wrongfully began calling people to worship Jesus Christ and spread strange teachings. Due to his power, wealth, and relationships, people started to adopt these strange beliefs and teachings, while the true disciples of Jesus Christ disapproved.
+
+The disciples clashed and argued with Paul because of his innovative and bizarre teachings, and the New Testament references this fact. Many Christians mistakenly took him as one of the disciples of Jesus Christ due to his claim that he was, but he was not, nor did he ever meet Jesus Christ. While some Christians elevate Paul to sainthood, Paul was responsible for destroying the teachings of Jesus Christ. He told people they did not need to follow God’s laws, even though Jesus Christ suffered and struggled to convey the Message of God, which included teaching people to obey God’s commandments.
+
+The Bible clearly states the imprtance of following the law.
+> Till Heaven and earth pass, the one that breaks the Law will be called the least person in the Kingdom of Heaven. For truly I tell you, until heaven and earth pass, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished’ ‘Therefore anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.’
+> Matthew 5:18–19
+
+Almost all the concepts of the modern-day teachings of Christianity, including the concept of Jesus Christ being the son of God and Atonement, are from Paul — and not from the teachings of Jesus Christ. As such, the teachings of Paul contradict the teachings of Jesus.
+
+While Prophets of God performed miracles to prove they were sent from God, such as when Jesus Christ healed leprosy and the blind, Paul did not perform any miracles or show any proof whatsoever that he was carrying the Word of God or even the words of the Prophet Jesus PBUH. Paul changed his name from Saul to distance himself from his former reputation as an enemy of Jesus Christ and a prosecutor of Jesus Christ’s disciples.
+
+Paul met the disciples of Christ occasionally but was not fortunate enough to live in their company. When he later came into the picture after the departure of Jesus Christ, he made some severe changes to the religion to win over the Gentiles (non-Jewish people). He introduced what became vital concepts of Christianity, including the idea that Christ is the Son of God, that he sacrificed himself on the cross to save humanity, and that all one needs to do to earn Paradise is to believe Christ died for his sins. Half of the New Testament is written by this man who never met Jesus Christ in his lifetime.
+
+The New Testament that is now in existence contains more writings of Paul than any other source. All his reports were written before the four Gospels. They are influenced mainly by the teachings and innovations of Paul, even though his writings consist of hundreds of inconsistences and contradictions! Paul abolished God’s laws, such as not eating pork, fasting, observing the Sabbath, and the instruction of circumcision.
+
+The early devoted followers of Jesus Christ struggled for years to uphold the teaching that only One God (the Father) should be worshiped, and Jesus Christ was only His human Messenger. The real followers of Jesus Christ opposed the blatant misrepresentations that Paul was wrongfully decimating.
+
+Because of Paul's preaching Christianity was divided into two denominations: Jewish Christians and Gentile Christians.
+
+Paul is a self-proclaimed Apostle, who never saw Jesus. The agenda of Paul was significantly different from the agenda of Jesus. Paul is viewed in Islam in a very negative way because he corrupted original teachings of Jesus.
 
 Paul never met Jesus in person. Paul brought many innovations from Greek mythology, including the concept of "human sacrifice" and "died for your sins". Not only he went astray from the straight path but he also led many people to the wrong path.
+
+https://www.youtube.com/watch?v=OmkwcGAt3XQ
 
 </details>
 <details><summary>
 
-## Sleepers in the Cave 😴😴🐕⛰️
+## "Trinity" appeared 150 years later after Jesus
+
+</summary>
+
+Since the innovative teachings of Paul appealed to the Gentiles (non-Jewish people), Jesus’ faithful followers were unable to stop Paul’s misguidance. Although the first Christians were Unitarians who asserted the unity of God and would have rejected the doctrine of the Trinity, Jesus Christ’s message of the absolute Oneness of God lasted in its original purity for only a short time, then diminished over the years. The very first Christians were not Trinitarians and, in fact, never had heard of the Trinity, as many current-day Biblical scholars acknowledge.
+
+Some Christians developed different beliefs about the Prophet Jesus PBUH over the next few centuries. They claimed that he was divine, calling him the Son of God, which eventually became the dominant Christian belief. Sadly, Christian leaders took Paul’s beliefs as their religion even though his teachings contradict the Bible, and Christian leaders abandoned the actual teachings of Jesus Christ. Many Biblical scholars recognize and admit that the formulation of modern Christianity did not begin with Jesus Christ; instead, the faith started with Paul, as shocking as that sounds. Sadly, Paul, not Jesus Christ, is the true founder of modern Christianity. Today, only Muslims follow the actual teachings of Jesus Christ, which we will prove later in this book.
+
+About a 150 years later, after the departure of Jesus Christ, a Church father by the name of Tertullian began teaching and spreading the concept of the Trinity. 
+
+</details>
+<details><summary>
+
+## 250 AD: Sleepers in the Cave 😴😴🐕⛰️
 
 </summary>
 
@@ -3395,16 +3471,41 @@ Similarly, regarding the exact period of time the people stayed in the cave, the
 
 The story says that during the persecutions by the Roman emperor Decius, around AD 250, seven young men were accused of following Christianity. They were given some time to recant their faith, but they refused to bow to Roman idols. Instead they chose to give their worldly goods to the poor and retire to a mountain cave to pray, where they fell asleep. The Emperor, seeing that their attitude towards paganism had not improved, ordered the mouth of the cave to be sealed.
 
-Decius died in 251, and many years passed during which Christianity went from being persecuted to being the state religion of the Roman Empire. At some later time—usually given as during the reign of Theodosius II (408–450)—in AD 447 when heated discussions were taking place between various schools of Christianity about the resurrection of the body in the day of judgement and life after death, a landowner decided to open up the sealed mouth of the cave, thinking to use it as a cattle pen. He opened it and found the sleepers inside. They awoke, imagining that they had slept but one day, and sent one of their number to Ephesus to buy food, with instructions to be careful.
+Decius died in 251, and many years passed during which Christianity went from being persecuted to being the state religion of the Roman Empire. At some later time — usually given as during the reign of Theodosius II (408–450) — in AD 447 when heated discussions were taking place between various schools of Christianity about the resurrection of the body in the day of judgement and life after death, a landowner decided to open up the sealed mouth of the cave, thinking to use it as a cattle pen. He opened it and found the sleepers inside. They awoke, imagining that they had slept but one day, and sent one of their number to Ephesus to buy food, with instructions to be careful.
 
 Upon arriving in the city, this person was astounded to find buildings with crosses attached; the townspeople for their part were astounded to find a man trying to spend old coins from the reign of Decius. The bishop was summoned to interview the sleepers; they told him their miracle story, and died praising God.
 
 </details>
+<details><summary>
 
-<details>
-  <summary>
+## 330: Roman Emperor Constantine converts to Christianity
 
-## When will Jesus return?
+</summary>
+
+About three hundred years after the departure of Jesus Christ, the Roman Pegan Emperor Constantine converted to Christianity and adopted this strange minority view of Christianity. He believed that Jesus was the Son of God and that all one has to do to attain salvation is to accept the fact that he died for our sins. Constantine believed in many concepts that date back to Roman Paganism.
+
+</details>
+
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
+
+## 325 AD: Nicene Creed
+
+</summary>
+
+First counsil of Nicaea. The Emperor Constantine contacted the Council of Nicaea to discuss and resolve whether Jesus Christ is the Son of God and other related matters. The council of the Christian leaders at Nicaea understood Paul’s strange belief set as the sect of Christianity they would follow. Constantine was the first Emperor to make Christianity a state religion after Christians had been persecuted and killed for three hundred years — simply for being Christian. The worship of the Roman sun god was rampant during this period.
+
+Constantine’s strange sect of Christianity slowly grew in numbers, and the Pauline Church eventually gave birth to the Roman Catholic Church, the Eastern Orthodox Church, and the Protestant Church. Constantine banned all other Christian sects and executed millions who followed other Christian denominations. Only a tiny remnant remained of the actual teachings of Jesus Christ. God says in his final Book that modern-day Christianity is based upon the whims of misguided people, who in turn misguide others:
+
+“Say, “People of the Book, do not overstep the bounds of Truth in your religious beliefs. Do not follow the whims of the people who went astray before you. They have led many others astray, and they continue to stray from the right path” (Quran 5:7)
+
+It is very problematic that Christians take the words of Paul and others who came after the teachings of Jesus Christ to be more valid than the words of Jesus Christ. Modern Christianity has been reduced to an interpretation of the words of Jesus Christ within the context of Paul. Constantine and the Pauline Church also took hundreds of manuscripts and Gospels that contradicted Paul’s views banned and destroyed them. Some of these manuscripts were written by the Disciples themselves. The ancient manuscripts, written initially in the original Aramaic and Hebrew, were destroyed, and only the Greek and Latin manuscripts were spared.
+
+</details>
+<details><summary>
+
+## When will Jesus return? (transfer before Apostoles)
 
 </summary>
 
@@ -3432,7 +3533,7 @@ The Arisian version of Christianity was very close to Islam.
 Peter the Venerable said that Muhammad  ﷺ    was the successor to Arius.
 
 Nicaea was all about Arius and Constantine wanted to establish peace among his own ruling lands.
-There was no Trinity before the Nicaea Creed.
+
 and the first person who expounded this doctrine was Paul.
 
 Jesus attemded Jewish temples and he just logically couldn't claim that he is God. The disciples also attended Jewish temples and worshipped God alone. 
