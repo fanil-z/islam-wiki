@@ -3271,6 +3271,17 @@ Almighty Allah also revealed:
     [Mention] when Allāh said, "O Jesus, indeed I will take you and raise you to Myself and purify [i.e., free] you from those who disbelieve and make those who follow you [in submission to Allāh alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ.
     Quran Ayah 3:55
 
+</details>
+<details><summary>
+
+## When will Jesus return?
+
+</summary>
+
+Both Islam and Christianity expect the return of Jesus at the end of times, and both expect trials and tribulations to occur at the time. Many of the themes of these trials are similar, but they are also very different in detail and definition. Both religions expect the nation of believers to be the final victors, but the Christian believes that these are defined as the believers in the Gospel of the New Testament and in Christ as ‘the Savior’ and ‘the Incarnation’ of God, whilst the Muslim knows that it refers to those who believe in the pure monotheism entailed in submission to the One and Only True God.
+
+The return of Jesus is preceded in both religions by signs, again similar in general description, but subtly different in detail. Both religions teach that the return of Jesus will be preceded by a great and powerful figure of falsehood and temptation, called the Maseeh ad-Dajjal (The False Messiah) by the Muslims and the Anti-Christ by the Christians. Before this event other signs that agree with each other include a general increase in immorality and fornication, murder and crime, and general lawlessness, debauchery and falling away from religion and true knowledge. Accompanying these signs of civil malaise will be internecine wars, and natural disasters following closely one upon the other.
+
 ### Second coming of Jesus
 
 According to Islamic tradition which describes this graphically, Jesus' descent will be in the midst of wars fought by the Mahdi (lit. "the rightly guided one"), known in Islamic eschatology as the redeemer of Islam, against al-Masih ad-Dajjal (the Antichrist "false messiah") and his followers. Jesus will descend at the point of a white minaret, east of Damascus (believed to be the Minaret of Isa in the Umayyad Mosque), dressed in yellow robes. He will say prayer behind al-Mahdi then join him in his war against the Dajjal. Jesus, considered as a Muslim, will abide by the Islamic teachings. Eventually, Jesus will slay the Antichrist, and then everyone who is one of the People of the Book (ahl al-kitāb, referring to Jews and Christians) will believe in him. Thus, there will be one community, that of Islam.
@@ -3387,7 +3398,6 @@ Early Christians were all Jews as Jesus himself.
 * And they considered Jesus to be a promied Messiah
 
 </details>
-
 <details><summary>
 
 ## How Paul corrupted Christianity
@@ -3439,7 +3449,7 @@ Paul is a self-proclaimed Apostle, who never saw Jesus. The agenda of Paul was s
 
 Paul never met Jesus in person. Paul brought many innovations from Greek mythology, including the concept of "human sacrifice" and "died for your sins". Not only he went astray from the straight path but he also led many people to the wrong path.
 
-https://www.youtube.com/watch?v=OmkwcGAt3XQ
+[How Paul corrupted original teachings of Jesus](https://www.youtube.com/watch?v=OmkwcGAt3XQ)
 
 </details>
 <details><summary>
@@ -3482,107 +3492,87 @@ Upon arriving in the city, this person was astounded to find buildings with cros
 
 </summary>
 
-About three hundred years after the departure of Jesus Christ, the Roman Pegan Emperor Constantine converted to Christianity and adopted this strange minority view of Christianity. He believed that Jesus was the Son of God and that all one has to do to attain salvation is to accept the fact that he died for our sins. Constantine believed in many concepts that date back to Roman Paganism.
+About three hundred years after the departure of Jesus Christ, the Roman Pagan Emperor Constantine converted to Christianity and adopted this strange minority view of Christianity. He believed that Jesus was the Son of God and that all one has to do to attain salvation is to accept the fact that he died for our sins. Constantine believed in many concepts that date back to Roman Paganism. So, the Roman Empire became Christian.
+
+Constantine I initiated the [First Council of Nicea](https://en.wikipedia.org/wiki/First_Council_of_Nicaea) that changed the original course of Christianity.
+
+Fun fact: It is the same Constantine the founder of Constantinople.
 
 </details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
 <details><summary>
 
 ## 325 AD: Nicene Creed
 
 </summary>
 
-First counsil of Nicaea. The Emperor Constantine contacted the Council of Nicaea to discuss and resolve whether Jesus Christ is the Son of God and other related matters. The council of the Christian leaders at Nicaea understood Paul’s strange belief set as the sect of Christianity they would follow. Constantine was the first Emperor to make Christianity a state religion after Christians had been persecuted and killed for three hundred years — simply for being Christian. The worship of the Roman sun god was rampant during this period.
+> Modern Christianity is based on the following unfortunate turn of eventsm which corrupted original teachings of Jesus:
+> -- 31--36 AD: Paul, who never saw Jesus, proclaimed himself an Apostol.
+> -- Paul preached that Jesus is the son of God to non-Jewish people.
+> -- Paul preached that Jesus died for sins of the humanity.
+> -- Paul preached that people do not need to follow the Law of the Old Testament.
+> -- Modern version of the New Testament mostly consists of Paul's letters that contain many contradictions.
+> -- 150 AD: The first mention of the Trinity appears only some 150 years after Jesus left the earth.
+> -- Early Christians who believed that Jesus was a prophet were prosecuted. After Paul's preaching Christianity divided into two main branches. One of them believed that Jesus as a prophet and a messiah, the others supported Paul's version.
+> -- 312 AD: Roman Emperor Contantine I converted to Christianity.
+> -- 325 AD: Nicaean Creed. Contantine gathers church representatives and they decide that the Paul's version of Christianity will be official, thus declaring Jesus to be the son of God. They also decided that the Spirit is a God as well. This contradicted the original Arbrahamic dogma of a "monotheistic" religion in which there could be only one God. So, they decided that all three Gods are united in one entitity, making it the Trinity and destroying the logic.
+> -- At the Nicaean Creed, Arius (an Alexandrian priest who claimed that God alone is Almighty and Jesus is dependend from God) was declared a herethic and was exiled. 
+> -- After Nicaean Creed, Constantine and the Pauline Church took hundreds of manuscripts and Gospels that contradicted Paul’s views banned and destroyed them. Some of these manuscripts were written by the Disciples themselves. The ancient manuscripts, written initially in the original Aramaic and Hebrew, were destroyed, and only the Greek and Latin manuscripts were spared.
+> -- People from non-Pauline branches of Christianity were persecuted, tortured and killed as herethics. Up until they slowly vanished.
+
+First counsil of Nicaea. After converting to Christianity, the Emperor Constantine contacted the Council of Nicaea to discuss and resolve whether Jesus Christ is the Son of God and other related matters. The council of the Christian leaders at Nicaea understood Paul’s strange belief set as the sect of Christianity they would follow. Constantine was the first Emperor to make Christianity a state religion after Christians had been persecuted and killed for three hundred years — simply for being Christian. The worship of the Roman sun god was rampant during this period.
 
 Constantine’s strange sect of Christianity slowly grew in numbers, and the Pauline Church eventually gave birth to the Roman Catholic Church, the Eastern Orthodox Church, and the Protestant Church. Constantine banned all other Christian sects and executed millions who followed other Christian denominations. Only a tiny remnant remained of the actual teachings of Jesus Christ. God says in his final Book that modern-day Christianity is based upon the whims of misguided people, who in turn misguide others:
 
-“Say, “People of the Book, do not overstep the bounds of Truth in your religious beliefs. Do not follow the whims of the people who went astray before you. They have led many others astray, and they continue to stray from the right path” (Quran 5:7)
+    Say, "People of the Book, do not overstep the bounds of Truth in your religious beliefs. Do not follow the whims of the people who went astray before you. They have led many others astray, and they continue to stray from the right path"
+    Quran 5:7
 
 It is very problematic that Christians take the words of Paul and others who came after the teachings of Jesus Christ to be more valid than the words of Jesus Christ. Modern Christianity has been reduced to an interpretation of the words of Jesus Christ within the context of Paul. Constantine and the Pauline Church also took hundreds of manuscripts and Gospels that contradicted Paul’s views banned and destroyed them. Some of these manuscripts were written by the Disciples themselves. The ancient manuscripts, written initially in the original Aramaic and Hebrew, were destroyed, and only the Greek and Latin manuscripts were spared.
 
-</details>
-<details><summary>
+Nicaea was all about Arius and Constantine wanted to establish peace among his own ruling lands. Unfortunately, they chose the corrupted version of Christianity.
 
-## When will Jesus return? (transfer before Apostoles)
+Peter the Venerable said that prophet Muhammad ﷺ    was the successor to Arius. The original Christianity was very close to original Jewish religion and Islam. Jesus was Jewish and he was circumsized, he prayed to God prostrating to earth and he greeted people with "Shalom". 
 
-</summary>
-
-Both Islam and Christianity expect the return of Jesus at the end of times, and both expect trials and tribulations to occur at the time. Many of the themes of these trials are similar, but they are also very different in detail and definition. Both religions expect the nation of believers to be the final victors, but the Christian believes that these are defined as the believers in the Gospel of the New Testament and in Christ as ‘the Savior’ and ‘the Incarnation’ of God, whilst the Muslim knows that it refers to those who believe in the pure monotheism entailed in submission to the One and Only True God.
-
-The return of Jesus is preceded in both religions by signs, again similar in general description, but subtly different in detail. Both religions teach that the return of Jesus will be preceded by a great and powerful figure of falsehood and temptation, called the Maseeh ad-Dajjal (The False Messiah) by the Muslims and the Anti-Christ by the Christians. Before this event other signs that agree with each other include a general increase in immorality and fornication, murder and crime, and general lawlessness, debauchery and falling away from religion and true knowledge. Accompanying these signs of civil malaise will be internecine wars, and natural disasters following closely one upon the other.  The details and timings of these, however, are substantially different, even within particular faiths. How the Christian faith regards the second coming depends on the doctrinal view held. Four broad views are prominent: Historical and Dispensational Ante-millennialism, and Preterist Post and A-millennialism.
-
-</details>
-
-<details>
-<summary>
-
-## <b>325</b>: Christianity before Nicean Creed
-
-</summary>
-
-There was a time when Christianity was very close to Islam.
-
-Constantine the founder of Constantinople (a.k.a. Istanbul). Constantine was the first emperor to stop the persecution of Christians and to legalize Christianity. and he accepted Christianity. So, the Roman Empire became Christian.
-
-Constantine the Great or Constantine I initiated the First Council of Nicea.
-
-Arius who believed that Jesus aws created by God and there are not equal in status was exiled after https://en.wikipedia.org/wiki/First_Council_of_Nicaea during emperor of Rome Constantine 1.
-The Arisian version of Christianity was very close to Islam. 
-Peter the Venerable said that Muhammad  ﷺ    was the successor to Arius.
-
-Nicaea was all about Arius and Constantine wanted to establish peace among his own ruling lands.
-
-and the first person who expounded this doctrine was Paul.
-
-Jesus attemded Jewish temples and he just logically couldn't claim that he is God. The disciples also attended Jewish temples and worshipped God alone. 
+Jesus attended Jewish temples and he just logically couldn't claim that he is God. The disciples also attended Jewish temples and worshipped God alone. 
 Jesus came to revive the religion of Moses, not to build new churches and invent a new religion.
 
-Contradictions in the Bible. Also it is important to take into account that the Bible cannot be fully called the Word of God because it was translated from it's original language and corrupted by writers of multiple epochs.
+God is self-sufficient. Jesus ate, slept and prayed. God is not born. Jesus and his followers went to Jewish temples and prayed the same way Moses and Ibrahim prayed. There are multiple times in the Gospels a statement that noone has seen God. According to the Bible, even Jesus himself said: "I have never seen God". And in that time period, many good people were called son of God.
 
-Jesus was Jewish and he was circumsized. He used to 
+Jesus prayed to God prostating his face to the ground.
 
-First reason:
-    1. Paul. who never saw Jesus.
-    2. Nicean Creed.
-    3. All books that didnot agree with the Nicean Creed started to be destroyed. Christians who shared the beliefs of Arius were declared heretics and prosecuted. 
+It is important to take into account that the Bible cannot be fully called the Word of God because it was translated from it's original language and corrupted by writers of multiple epochs. The Quran, on contrary, remains in the original Arabic language up to this day.
 
-10 Resons why Jesus is not divine from Islamic perspective: https://www.youtube.com/watch?v=pCuxnu_IGUk
-
-God is self-sufficient. Jesus ate, slept and prayed. 
-God is not born.
-Jesus and his followers went to Jewish temples and prayed the same way Moses and Ibrahim prayed.
-There are multiple times in the Gospels a statement that noone has seen God. even Jesus himself said I have never seen God.
-
-Jesus prayed prostating his face to the ground.
-
-In that time many good people are called son of God.
+* [10 Resons why Jesus is not divine from Islamic perspective](https://www.youtube.com/watch?v=pCuxnu_IGUk)
 
 </details>
 
 # 8. Pre-Islamic Arabia 🐫 🏜️ 🕋
 *******************************************
 
-<details>
-<summary>
+<details><summary>
 
 ## Descendants of Ibrahim and Ismail
 
 </summary>
 
-Hadith from Sahih Muslim, the prophet Muhammad  ﷺ    said:
+Hadith from Sahih Muslim, the prophet Muhammad ﷺ    said:
 
-> Allah chose Kinanah from descendends of Ismail
-> He chose Quraish from Kinanah
-> He chose Banu Hashim from Quraish
-> He chose me from Banu Hashim
+> Allah chose Kinanah from descendends of Ismail.
+> He chose Quraish from Kinanah.
+> He chose Banu Hashim from Quraish.
+> He chose me from Banu Hashim.
 
-Kinanah he was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
+Kinanah was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
 
 <img src="/pre-islamic-arabia.PNG" alt="Early Expansion"> 
 
-Tribes of Arabia:
+Arab traditions relating to the origins and classification of the Arabian tribes is based on biblical genealogy. The general consensus among 14th-century Arabic genealogists was that Arabs were three kinds:
+* "Perishing Arabs": These are the ancients of whose history little is known. They include ʿĀd, Thamud, Tasm, Jadis, Imlaq and others. Jadis and Tasm perished because of genocide. ʿĀd and Thamud perished because of their decadence. Some people in the past doubted their existence, but Imlaq is the singular form of 'Amaleeq and is probably synonymous to the biblical Amalek.
+* "Pure Arabs" (Qahtanite): These are traditionally considered to have originated from the progeny of Ya'rub bin Yashjub bin Qahtan so were also called Qahtanite Arabs.
+* "Arabized Arabs" (Adnanite): They are traditionally seen as having descended from Adnan.
+
+The several different tribes throughout Arabian history are traditionally regarded as having emerged from two main branches: the Rabiah, from which amongst others the Banu Hanifa emerged, and the Mudhar, from which amongst others the Banu Kinanah (and later Muhammad's own tribe, the Quraysh) emerged.
+
+Tribes of pre-Islamic Arabia:
 
 * Ghifar
 * Ghatafan
@@ -3599,17 +3589,25 @@ Tribes of Arabia:
 * Azd
 * Kindah
 
+### Religion 
+
+Religion in pre-Islamic Arabia included pre-Islamic Arabian polytheism, ancient Semitic religions (religions predating the Abrahamic religions which themselves likewise originated among the ancient Semitic-speaking peoples), Abrahamic religions such as Christianity, Judaism, and Mandaeism, and Iranian religions such as Zoroastrianism and Manichaeism. Arabian polytheism was, according to Islamic tradition, the dominant form of religion in pre-Islamic Arabia, based on veneration of deities and spirits. Worship was directed to various gods and goddesses, including Hubal and the goddesses al-Lāt, Al-'Uzzá and Manāt, at local shrines and temples, maybe such as the Kaaba in Mecca. Deities were venerated and invoked through a variety of rituals, including pilgrimages and divination, as well as ritual sacrifice. Different theories have been proposed regarding the role of Allah in Meccan religion. Many of the physical descriptions of the pre-Islamic gods are traced to idols, especially near the Kaaba, which is said to have contained up to 360 of them in Islamic tradition.
+
+Other religions were represented to varying, lesser degrees. The influence of the adjacent Roman and Aksumite resulted in Christian communities in the northwest, northeast and south of Arabia. Christianity made a lesser impact, but secured some conversions, in the remainder of the peninsula. With the exception of Nestorianism in the northeast and the Persian Gulf, the dominant form of Christianity was Miaphysitism. The peninsula had been a destination for Jewish migration since pre-Roman times, which had resulted in a diaspora community supplemented by local converts. Additionally, the influence of the Sasanian Empire resulted in Iranian religions being present in the peninsula. While Zoroastrianism existed in the eastern and southern Arabia, there was no existence of Manichaeism in Mecca.
+
+# PROFREADINGPRROFREADINGPROOFREADING
+
 ### Ancient Arabs: 'Ad and Thamud
 
 Yagrub's father was Kakhtan and believed to be the starter of the Arab languange.
-Kakhtan was the son of SAm. and Sam is the son of Nuh. from SAm we get Saimtes.
+Kakhtan was the son of Sam. and Sam is the son of Nuh. from SAm we get Saimtes.
 Most probably the son of Adnan lived at the time of Isa AS. 
 570 years between Isa and the prophet Muhammad.
 Jewish Calendar and Orthodox Chiristians believe that people have been around the Earth for around 6 thousand years. It is not the islamic view.
 There are some cave paintings that are 30thousand years old. These were not Neanthertals these were Homo-Sapiens.
 So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet ﷺ    said that the time between now and the day is like his two fingers. And now it is 1443 year afterHijrah. So it gives possibility to extend the humanity timeline as long as science findings. WE don't have a set timeframe.
 
- THe Quraish was the best and the Bani Hashim tribe was  the best most noble tribe.
+ The Quraish was the best and the Bani Hashim tribe was  the best most noble tribe.
 
 Mudr was the first to use camels into caravans.
 Kinanah was noble. People used to do Hajj to meet Kinana. He was a legendary Arab full of knowledge. from Kinana Allah chose Quraish. Onw person who combines all Quraish is Fahr. All promised Paradise are from Quraish. There are about 12 tribes ofQuraish. Khusay gathered Quraish reclaimed MEcca for QUraish and made the rules of  Kaaba and hospitality and storing of the key and water.  there was no ZAmzam at that time. Whne Khuzahah attacked Jurhum, people buried the well of Zamzam. for over 300 years peoplewereforcedto dig wells from other places. 
