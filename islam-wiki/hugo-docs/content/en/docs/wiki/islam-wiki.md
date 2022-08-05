@@ -3595,33 +3595,48 @@ Religion in pre-Islamic Arabia included pre-Islamic Arabian polytheism, ancient 
 
 Other religions were represented to varying, lesser degrees. The influence of the adjacent Roman and Aksumite resulted in Christian communities in the northwest, northeast and south of Arabia. Christianity made a lesser impact, but secured some conversions, in the remainder of the peninsula. With the exception of Nestorianism in the northeast and the Persian Gulf, the dominant form of Christianity was Miaphysitism. The peninsula had been a destination for Jewish migration since pre-Roman times, which had resulted in a diaspora community supplemented by local converts. Additionally, the influence of the Sasanian Empire resulted in Iranian religions being present in the peninsula. While Zoroastrianism existed in the eastern and southern Arabia, there was no existence of Manichaeism in Mecca.
 
-# PROFREADINGPRROFREADINGPROOFREADING
+Sam (Shem) was a righteous son of Noah according to the Book of Genesis. Book of Genesis says that descendands of Shem, Ham and Japheth populated Asia, Africa and Europe correspondingly.
 
-### Ancient Arabs: 'Ad and Thamud
+<img src="/shem.jpg" alt="Shem, Ham and Japheth"> 
+
+Descendends of Shem or Semites include Arabs, Akkadians, Canaanites, Hebrews, some Ethiopians (including the Amhara and the Tigrayans), and Aramaean tribes.
 
 Yagrub's father was Kakhtan and believed to be the starter of the Arab languange.
-Kakhtan was the son of Sam. and Sam is the son of Nuh. from SAm we get Saimtes.
-Most probably the son of Adnan lived at the time of Isa AS. 
-570 years between Isa and the prophet Muhammad.
-Jewish Calendar and Orthodox Chiristians believe that people have been around the Earth for around 6 thousand years. It is not the islamic view.
-There are some cave paintings that are 30thousand years old. These were not Neanthertals these were Homo-Sapiens.
-So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet ﷺ    said that the time between now and the day is like his two fingers. And now it is 1443 year afterHijrah. So it gives possibility to extend the humanity timeline as long as science findings. WE don't have a set timeframe.
 
- The Quraish was the best and the Bani Hashim tribe was  the best most noble tribe.
+Most probably the son of Adnan lived at the time of Isa AS. According to tradition, Adnan is the father of a group of the Ishmaelite Arabs who inhabited West and Northern Arabia; he is a descendant of Ishmael, son of Abraham. Adnan is believed by genealogists to be the father of many Ishmaelite tribes along the Western coast of Arabia, Northern Arabia and Iraq.
 
-Mudr was the first to use camels into caravans.
-Kinanah was noble. People used to do Hajj to meet Kinana. He was a legendary Arab full of knowledge. from Kinana Allah chose Quraish. Onw person who combines all Quraish is Fahr. All promised Paradise are from Quraish. There are about 12 tribes ofQuraish. Khusay gathered Quraish reclaimed MEcca for QUraish and made the rules of  Kaaba and hospitality and storing of the key and water.  there was no ZAmzam at that time. Whne Khuzahah attacked Jurhum, people buried the well of Zamzam. for over 300 years peoplewereforcedto dig wells from other places. 
-Hashim extablished trading betwwen Basra and Yemen. HAshim became wealthy.he fed the pilgrims. The surah Quraish is about this. it wasnot allowed to rob Quraish caravans because they protected the Qaaba. One of wives of Hashim was from Yathrib. So the prophet  ﷺ    hab blood relations with the Ansar.  
+Many family trees have been presented by Adnan, which did not agree about the number of ancestors between Ishmael and Adnan but agreed about the names and number of the ancestors between Adnan and the Islamic prophet Muhammad.
+
+570 years passed between Isa and the prophet Muhammad ﷺ  .
+
+<img src="/prophet_muhammad_ancestors.PNG" alt="Ancestors of Prophet Muhammad ﷺ  ">
+
+* The Quraish was the best and the Bani Hashim tribe was the best, the most noble tribe.
+* Mudr was the first to use camels into caravans.
+* Kinanah was noble. People used to do Hajj to meet Kinana. He was a legendary Arab full of knowledge. from Kinana Allah chose Quraish. 
+* One person who combines all Quraish is Fahr. All ten people who are promised Paradise in the hadith are from Quraish. There are about 12 tribes of Quraish. 
+
+**Khusay** gathered Quraish reclaimed Mecca for Quraish and made the rules of Kaaba and hospitality and storing of the key and water. There was no **Zamzam** at that time. When Khuzahah attacked Jurhum, people buried the well of Zamzam. for over 300 years people were forced to dig wells from other places.
+
+**Hashim** extablished trading between Basra and Yemen. Hashim became wealthy. Hashim fed the pilgrims. The surah Quraish is about those seasonal caravans. it wasnot allowed to rob Quraish caravans because they protected the Qaaba. One of wives of Hashim was from Yathrib. So the prophet Muhammad ﷺ    had blood relations with the Ansar.  
+
+    For the accustomed security of the Quraysh –
+    Their accustomed security [in] the caravan of winter and summer –
+    Let them worship the Lord of this House,
+    Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.
+    Quran, surah Quraish
 
 ### Poetry
 
 Another thing to mention is that Arabia at that time was famous for its poetry. Poetry was part of their historical culture and a popular activity. Famous poets were respected and regarded. And they have perfected their art of poetry through generations and knew how to see good poetry from bad ones. The best poets used to write and recite about current or past events in form of witty metaphors, jokes and rhymes.
 
-This is also a very important part of Arabic culture because later when these people hear the Quran they are amazed by its beauty, even though it is not poetry.
+This is also a very important part of Arabic culture. And later, when these people heard the Quran, they were amazed by its beauty, even though Quran is not poetry.
 
 </details>
-<details>
-<summary>
+
+# PROFREADINGPRROFREADINGPROOFREADING
+
+<details><summary>
 
 ## Jaahiliyah
 
@@ -6545,5 +6560,12 @@ The sayings of Muhammad (hadith), Islamic literature and Quranic exegesis also n
 
 atheism is very recent phenomena.
 the first person to proclaim himself an atheist was Nitzsche whos gone mad in his last years.1844 – 1900
+
+
+Jewish Calendar and Orthodox Chiristians believe that people have been around the Earth for around 6 thousand years. It is not the islamic view.
+
+There are some cave paintings that are 30thousand years old. These were not Neanthertals these were Homo-Sapiens.
+
+So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet ﷺ    said that the time between now and the Day of Judgement is like his two fingers. And now it is 1443 year after Hijrah. So it gives possibility to extend the humanity timeline as long as science findings. We don't have a set timeframe.
 
 </details>
