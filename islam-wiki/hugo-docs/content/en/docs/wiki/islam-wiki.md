@@ -32,6 +32,8 @@ author: fanil
 > 
 > According to Islamic tradition, every nation had its prophet. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned in this guide because there was no authentic hadith about this particular prophet in Islamic tradition.
 > 
+> [Fair Use Law](https://www.findlaw.com/smallbusiness/intellectual-property/fair-use-law.html)
+>
 > Please feel free to send feedback if you come across parts that contradict the Quran or an authentic hadith or if the timeline order is incorrect. 
 > 
 > May Allah guide us all to the right path.
@@ -64,11 +66,9 @@ author: fanil
 </div>
 
 # 0. Before Creation of Humankind
-
 ***************************************
 
-</summary>
-<details><summary>
+</summary><details><summary>
 
 ## In the beginning, there was only Allah ﷻ . 
 
@@ -83,8 +83,7 @@ Which means:
 
 The Prophet ﷺ   answered this question by first stating that Allāh's Existence does not have a beginning, i.e., He is Eternal. There is no one attributed with eternity other than Him. In other words, nothing existed eternally except Allāh, and Allāh created everything, i.e., He brought all the creation from non-existence into existence.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## First Creations: Water, Throne, The Pen and The Tablet
 
@@ -136,8 +135,7 @@ It was narrated in the description of the Guarded Tablet that it is a white pear
 
 Allāh ordered the Pen to write. The Pen wrote, by the Will of Allāh, without anyone holding it. It wrote on the Guarded Tablet what was and what will be in this life until its end. Fifty thousand (50,000) years after this event, Allāh created the heavens and Earth in six (6) yawm. No person is born and no drop of water falls except in accordance to what was written in the Guarded Tablet.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## The Seven Heavens
 
@@ -147,8 +145,7 @@ After Allāh created the Earth, He created the seven heavens. Each heaven is a s
 
 The first heaven is so far away from the Earth. Some people are unable to encompass this to the extent that they believe that the space which contains the stars and planets is the entire universe. They also falsely believe that it extends without an end. There is no point to their claims, because Allāh told us in the Qur’an and the Prophet also informed us in his Hadith what is contradictory to their claims. Paradise exists above the seventh heaven.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Creation of Angels
 
@@ -208,8 +205,7 @@ Mentioned in Quran:
 
 Also, there is a hadith about **Munkar** and **Nakir**, two angels that question the souls of people in the grave after they die. For details, see [#barzakh](#barzakh).
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Creation of Heaven and Hell
 
@@ -306,8 +302,7 @@ According to hadith, there are eight doors of Jannah. Their names are as followi
 * Bāb al-Aymān: For those who by virtue of their faith are saved from reckoning and chastisement
 * Bāb al-Dhikr: For those who showed zeal in remembering Allah
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Creation of the Heavens and the Earth 🌍
 
@@ -337,8 +332,7 @@ The Qur'an further states that Allah created the sun, the moon, and the planets,
 
 There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered. In the beginning of 20th century, the consensus among scientists was that the universe is static. So, the science was contradicting the Quran until Einstein discovered the theory of relativity.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Big Bang Scientific Side-Note
 
@@ -390,8 +384,7 @@ This verse does not just tell us that the universe has expanded. The arabic ‘l
 * [Sheikh Yasir Qadhi on Adam and theory of evolution](https://www.youtube.com/watch?v=vAljUIFEtcE&list=PLYZxc42QNctXcCQZyZs48hAN90YJgnOnJ&index=31)
 
   
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Creatures Living on Earth
 
@@ -408,8 +401,7 @@ Allah  ﷻ is never "done" with His work, because the process of creation is ong
 
 There are many types of creatures living on earth, including plants, animals, insects, all kinds of microorganisms, human. There are also creature that are not visible for a human eye: the jinn.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Era of Jinns (Devils/Spirits)
 
@@ -650,8 +642,7 @@ According to hadith:
 * Allāh created in Adam the knowledge of how to plant seeds, vegetables, and fruits, and how to harvest.
 * There is a narration that Adam Alayhissalam was the first to build the first place of worship -- The Kaabah.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Iblis (Satan) refused to bow down to Adam
 
@@ -672,8 +663,7 @@ Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted t
     God said, "Get out! You are disgraced and expelled! I swear I shall fill Hell with you and all who follow you."
     Quran, Surah 7
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Creation of Hawwah (Eve)
 
@@ -708,8 +698,7 @@ Eve was created to accompany Adam as his companion and life partner, and they we
 
 The Quran does not describe what kind of tree it was, however, this prohibition set the stage for the test that was to come.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Eating from Forbidden Tree 🚻 🐍 🌳 🍎
 
@@ -733,8 +722,7 @@ Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispe
 
 By forgetting God’s command, Adam and Eve bore equal responsibility for their error. This too was a test for Satan, who in fact, furthered his disobedience by exploiting mankind through their desires. 
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Repentance of Adam and Eve
 
@@ -752,8 +740,7 @@ The story of Adam and Eve in the Quran teaches the virtue of repentance and supp
     "Then his Lord chose him and turned to him in forgiveness and guided [him]." 
     Quran [20:122]
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Adam and Eve are sent to Earth
 
@@ -778,7 +765,6 @@ There is a difference of opinions on the question of where Adam and Eve landed o
 </details>
 
 # 2. Early Human Era on Earth
-
 *******************************************
 
 <details><summary>
@@ -800,8 +786,7 @@ Quran says that the first place of worship was built in the current location of 
     "The first sanctuary ever constructed for mankind was that at Bakkah (the old title of Makkah), a fortunate location and advice for the worlds".
     Quran
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Habyl and Qabyl -- Abel and Cain: First Murder
 
@@ -820,8 +805,7 @@ Cain did not know what to do with his brother's corpse. Allah sent two ravens th
 
 This was the first murder and burial on earth by a man.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Sheeth -- Seth
 
@@ -837,8 +821,7 @@ At that time, 🎷 flute, music and dancing was invented. According to the Bible
 
 According to Genesis 4:25, Seth was born after Abel's murder by Cain, and Eve believed that God had appointed him as a replacement for Abel. According to Genesis, Seth died at the age of 912 (that is, 14 years before Noah's birth).
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Idris -- Enoch
 
@@ -874,8 +857,7 @@ After Idris, his son and successor Mehthusaleh continued in Allah's path, callin
 
 In the Bible, Enoch receives visions of how the Earth will be destroyed in the End of Times and how people who did good will receive their reward and how people who did bad deeds will receive their punishment.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## How Idol Worshipping Appeared
 
@@ -922,8 +904,7 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 > After the Flood, Nuh with the believers started life on earth anew.
 > Many ancient civilizations have stories of the Great Flood. There are many different variations but the main theme is the same: God sent the Flood to punish evil-doers, and those who were left alive started the human life on earth once again.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Nuh preaches to his people
 
@@ -962,8 +943,7 @@ And Noah prayed to God not to leave disbelievers on earth.
     My Lord! Forgive me, my parents, and whoever enters my house in faith, and ˹all˺ believing men and women. And increase the wrongdoers only in destruction."
     Quran, Surah Nuh (71:26-28)
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Nuh builds the Ark
 
@@ -985,8 +965,7 @@ The Quran states that Noah's wife was not a believer with him so she did not joi
 
 In contrast, the wife of the Pharaoh of the Exodus, Asiya, and Mary, the mother of Jesus, are referred to as among the best of women. This adds to the notion that, on the Last Day, everyone will be judged according to their own deeds. The "Stories of The Prophets" explain that the son who declined to embark was a non-believer.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## The Great Flood
 
@@ -1043,8 +1022,8 @@ Noah released the birds and the beasts, which scattered over the earth. After th
 The Quran draws the curtain on Noah's story. We do not know how his affairs with his people continued. All we know or can ascertain is that on his deathbed, Noah requested his son to worship Allah alone. Noah then passed away.
 
 Abdullah Ibn Amru Ibn Alaas narrated that Prophet Muhammad said: "When the death of the Messenger of Allah Noah approached, he admonished his sons: 'Indeed I would give you far-reaching advice, commanding you to do two things, and warning you against doing two as well. I charge you (to believe) that there is no god but Allah and that if the seven heavens and the seven earths were put on one side of a scale and the words 'There is no god but Allah' were put on the other, the latter would outweigh the former. And I warn you against associating partners with Allah and against pride.'"
-</details>
-<details><summary>
+
+</details><details><summary>
 
 ## Ancient Stories about The Flood
 
@@ -1060,8 +1039,7 @@ Additional sources:
 * [List of Flood myths](https://en.wikipedia.org/wiki/List_of_flood_myths) 
 * [Comparison of Biblical and Quranic narration about the Flood](https://bora.uib.no/bora-xmlui/bitstream/handle/1956/15470/152883485.pdf)
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Hud and People of 'Ad
 
@@ -1120,8 +1098,7 @@ In addition for its barren characteristic, another verse also described addition
 
 Hud has been sometimes identified with Eber, but according to the Bible Selah is the father of Eber which would go againt the Quranic narration that people of 'Ad were predecessors of Thamud. 
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Saleh and people of Thamud 🐪
 
@@ -1178,8 +1155,7 @@ There is no agreed opinion on how many generations passed from Adam till Nuh, fr
 
 The best answer to this issue is Allahu 'Alim, God knows best.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Ibrahim: Searching for Truth
 
@@ -1221,8 +1197,7 @@ But when it set he said: "I don't like those that set." The star had disappeared
 
 After this declaration, Abraham heard Allah calling him, "O Abraham" Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!" Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Destroying Idols
 
@@ -1304,8 +1279,8 @@ Namrud, King of Babylon, felt that his throne was in danger, and that he was los
 As mentioned above, Allah deliberately does not mention the name of the king as it is considered unimportant. The Quran also does not mention the long dialogue between Ibrahim (A.S.) and the king.
 
 King did not know what to say and what to do. After Namrud was silenced by Ibrahim (A.S.), he (Ibrahim) left the royal palace. Then the truth of the Prophet Ibrahim (A.S.) spread throughout the land. Humans start talking about his miracle and his salvation from the fire and his arguments with king that made the king speechless.
-</details>
-<details><summary>
+
+</details><details><summary>
 
 ## Migration of Ibrahim
 
@@ -1335,8 +1310,7 @@ Following are the meaning, according to some other scholars, of these three lies
 2. After breaking all the idols, Ibrahim (A.S.) placed the axe in the hands of the largest idol. When the people returned and saw that their idols were smashed they accused Ibrahim (A.S.) of being the perpetrator. He, in reply, said that the biggest idol had broken the rest of the statues in order to prove the point that these statues were man-made and not capable of human actions.
 3. The tyrant/king wanted Sarah for his own evil intentions and Ibrahim (A.S.) knew that Allah would protect her. Therefore, when the tyrant/king asked who she was, instead of responding that she was his wife, Ibrahim (A.S.) responded that she was his sister in Islam, which she technically was.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Resurrection of Birds 🐦🐦🐦🐦
 
@@ -1351,8 +1325,7 @@ Ibrahim (A.S.) is the only person that the Quran commands our prophet to look up
 pired you (O Muhammad): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
     Surah An-Nahl 16:123
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Soddom and Homorra 🏳️‍🌈: Story of Lut
 
@@ -1420,8 +1393,7 @@ Sarah knew that her husband, Ibrahim (A.S.), was longing for a child. As Allah h
 
 She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajar and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajar. It wasn’t long before Ibrahim (A.S.) and Hajar were blessed with a baby boy whom they named Ishmael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## The Covenant
 
@@ -1452,8 +1424,7 @@ Accrding to Genesis, The Lord said to Abraham “ go from the country and your k
 
 The promise of a son to Abraham made Sarah "laugh," which became the name of the son of promise, Isaac (Ishaq).
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Iskhaq (Isaac): Father of Jewish people
 
@@ -1482,8 +1453,7 @@ The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jaco
     And We gave him the glad tidings of Isaac, a Prophet, and one of the righteous.
     Quran, sura 37 (As-Saaffat), ayah 112
 
-</details>
-<details><summary>
+</details><details><summary>
     
 ## Hajar and Ismail are sent to Mecca
 
@@ -1505,8 +1475,7 @@ Ibn Abbas  narrated:
 
 After some time in the desert, Hajar and Ishmael run out of water and Ishmael becomes extremely thirsty. Hajar is distressed and searches for water, running back and forth seven times between the hills of **Al-Safa** and **Al-Marwah** to see if there's caravan. Hajar is later remembered by Muslims for this act during the Hajj, or pilgrimage, in which Muslims run between these same hills as part of the Sa'yee.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Discovery of Zamzam Well
 
@@ -1519,8 +1488,7 @@ When she returns to Ishmael, she finds either him or an angel scratching the gro
 > The Prophet (PBUH) said, "The best water on the face of the earth is the water of Zamzam; it is a kind of food and a healing from sickness."
 >Saheeh al-Jaami, 3302
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Ismail (Ishmael): Father of Arab people
 
@@ -1565,8 +1533,7 @@ Ishmael's place as the "founder of the Arabs" was first stated by Josephus. As I
 
 In pre-Islamic times, there were three distinct groups of Arabs- the Ba'ida, Ariba, and Musta'riba. The Ba'ida were the "legendary Arabs of the past," while the Ariba were the "Southern Arabs." Ishmael's descendants became the Northern Arabs known as the Musta'riba or the "Arabized Arabs." The Musta'riba were described as Arabized since it is believed Ishmael learned Arabic when he moved to Mecca and married into the Arabic tribe of Jurhum. Ishmael's line is then traced from his son Kedar, then down through to Adnan, then to the Musta'riba, to the Quraysh.  In this manner, Muhammad's ﷺ.  ancestry leads back to Ishmael, joining "original biblical ancestry of Abraham with a distinctively Arab afinal stock," and connecting prophet Muhammad ﷺ.  with Mecca and the Kaaba.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Construction of the Kaaba 🕋
 
@@ -1613,8 +1580,7 @@ The Black Stone was given to Ibrahim from Jannah to be placed on the corner of t
 
 The Black Stone carries greater importance, as according to an account, it is known that while Ibrahim AS was building the house of God, the Holy Kaaba, for spirituality and worship, it appeared that the stones to complete the wall were short. The Prophet Ibrahim sent his son Prophet Ismail AS to look for an appropriate stone to fit in the gap to finish the Holy wall of Kaaba. When he came back empty-handed, he noticed a shiny white colour stone already placed in the empty space. Ibrahim AS told him the unique stone was delivered to him by Jibreel.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Ibrahim sacrifices a ram 🐑
 
@@ -1651,8 +1617,7 @@ The actions of Ismail in this narrative have led him to become a prominent model
 
 In looking solely at the text of the Quran to determine which son was to be sacrificed, there still are various views. The strongest case for Ismail in the Quran is that directly after the sacrifice narrative, Ibrahim is told of the coming of Isaac's birth, therefore, it must be Ismail who was about to be sacrificed. However Tabari argues that because it is only Isaac who is indicated by birth announcements that the announcement at the start of the sacrifice narrative, "So We gave him good tidings of a forbearing boy" refers to Isaac. Authentic hadiths are said to not contradict each other because that negates the definition of the hadith.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Yaqub -- Jacob and 12 Jewish tribes
 
@@ -1689,8 +1654,7 @@ Rebecca overheard this conversation. It is suggested that she realized prophetic
 
 The Bible tells the story of how Rebecca and Jacob deceived blind Isaac to get the blessing instead of Esau. In the Muslim tradition we believe that Iskhaq and Yaqub being prophets would not do so.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Yusuf -- Joseph
 
@@ -1851,8 +1815,7 @@ Yusuf was reunited with his family, and his dream as a child came true as he saw
 
 It is hard to find sources that consistently agree on the actual dates of Yusuf's life. Scholars tend to see the story as a way for the descendants of Ibrahim to find their way to Egypt. Yusuf is the reason the Israelites move to Egypt, which then allows for the story of Moses and the Exodus from Egypt to take place.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Ayyub -- Job
 
@@ -1946,8 +1909,7 @@ Before he passed away, he entrusted his mission to his son Hawmal and after him 
     And [mention] Ayyub, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." 
     Quran, sura 21 (The Prophets), ayah 83
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Shuayb
 
@@ -1995,8 +1957,7 @@ Musa is also viewed as a very important figure in Islam due to his reception of 
 
 According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan. It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected. The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
 
-</details>
-<details><summary>
+</details><details><summary>
   
 ## Musa in a basket on the Nile
 
@@ -2021,8 +1982,7 @@ As her daughter follows the ark along the riverbank, Musa is discovered by the P
     Then the household of Pharaoh picked him up, that he might become for them an enemy and a (cause of) grief Verily! Pharaoh, Haman and their hosts were sinners. And the wife of Pharaoh said: "A comfort of the eye for me and for you. Kill him not, perhaps he may be of benefit to us, or we may adopt him as a son." And they perceived not (the result of that). 
     Quran Ayah 28:9
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Escape to Midian
 
@@ -2055,8 +2015,7 @@ Of course, he was immersed in the Glorious Book of Allah, open to the insight an
 
 In addition to physical preparation, there was a similar spiritual preparation. It was made in complete seclusion, in the middle of the desert and in the places of pasture. Silence was his way of life, and seclusion was his vehicle. Allah the Almighty prepared for His prophet the tools he would need later on to righteously bear the commands of Allah the Exalted.
 
-</details>
-<details><summary>
+</details><details><summary>
   
 ## Musa and Harun become prophets
 
@@ -2108,8 +2067,7 @@ The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) o
     And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet. And We called him from the side of the mount at [his] right and brought him near, confiding [to him]. And We gave him out of Our mercy his brother Harun as a prophet.
     Quran 19:51–53
 
-</details>
-<details><summary>
+</details><details><summary>
   
 ## Musa confronts pharaoh's sourcerers
 
@@ -2175,8 +2133,7 @@ When the sorcerers come to the Pharaoh, he promises them that they would be amon
     They said: "We prefer you not over the clear signs that have come to us, and to Him (Allah) Who created us. So decree (regarding) this life of the world. Verily! We have believed in our Lord, that He may forgive us our faults, and the magic to which you did compel us. And Allah is better as regards reward in comparison to your (Pharaoh's) reward, and more lasting (as regards punishment in comparison to your punishment)." 
     Quran Ayah 20:58-73
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## The Exodus
 
@@ -2299,8 +2256,7 @@ Terror-stricken Pharaoh, realizing that his end had come, declared out of fear: 
 
 And after escaping the pharaoh with the help of Allah, Israelites continue their long journey to the Promised Land.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Revelation of The Torah
 
@@ -2406,9 +2362,7 @@ They went on increasing their offer and the mother kept on refusing. Finally the
     Then after that your hearts were hardened and became as stones or even worse in hardness. And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which fall down for fear of Allah. And Allah is not unaware of what you do. 
     Quran Ayah 2:67-74
 
-</details>
-</details>
-<details><summary>
+</details></details><details><summary>
 
 #### Korah (Qaroun) refuses to pay zakat
 
@@ -2433,8 +2387,7 @@ Allah warned Moses of Korah's plot. Moses appealed to Allah to punish him for hi
     So We caused the earth to swallow him and his dwelling place. Then he had no group or party to help him against Allah, nor was he one of those who could save themselves. And those who had desired (for a position like) his position the day before, began to say: "Know you not that it is Allah Who enlarges the provision or restricts it to whomsoever He pleases of His slaves? Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up (also)!" Know you not that the disbelievers will never be successful? 
     Quran Ayah 28:76-82
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Meeting with Al-Khidr
 
@@ -2492,8 +2445,7 @@ They hurriedly retraced their steps to the place where the rivers met and where 
 
     "And as for the wall, it belonged to two orphan boys in the town; and there was under it a treasure belonging to them; and their father was a righteous man, and your Lord intended that they should attain their age of full strength and take out their treasure as a mercy from your Lord. And I did it not of my own accord. That is the interpretation of those (things) over which you could not hold patience. Quran Ayah 18:60-82
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Death of Musa
 
@@ -2578,8 +2530,7 @@ After establishing a well-trained army, he decided to put them to the test. He t
 
 Saul's men sighted the enemy on the other side of the river. Their opponents appeared physically strong and were armed with better weapons. They were led by the mighty warrior Goliath (Galut), known for his huge build and brute strength. A great number of Saul's men ran away on seeing this strong force. The small band that remained was willing to fight, whatever the outcome, for they had heard that there had been many incidents in the past in which Allah had caused a small force to defeat a larger one.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Davud (David)
 
@@ -2628,8 +2579,7 @@ The Zabur is the holy book attributed to David by God, just as Musa (Moses) rece
 
 The term Zabur is the Arabic equivalent of the Hebrew Zimra, meaning "song/music." It, along with Zamir ("song") and Mizmor ("Psalm"), is a derivative of Zamar, meaning "sing", "sing praise", "make music". Thus, David is also usually attributed the gifts of music and song.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Sulaiman -- Solomon Son of David
 
@@ -2775,8 +2725,7 @@ As he remained upright, propped on his staff, the jinn thought he was still aliv
 
 The jinn realized the truth only when God sent a creature to crawl out of the ground and gnaw at Solomon's staff, until his body collapsed. This verse is understood to teach the audience that jinn do not know the unseen (Al-Ghaib), since if they had known the unseen, they would not have stayed in the service of Solomon.
 
-</details>
-<details><summary>
+</details><details><summary>
   
 ## Ezekiel
 
@@ -2800,8 +2749,7 @@ Muhammad Ibn Ishaaq stated that we do not know how long Ezekiel stayed among the
 
 Traditional depiction of the cherubim and chariot vision, based on the description by Ezekiel in the Bible.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Ilyas (Elijah)
 
@@ -2838,8 +2786,7 @@ Muslim literature and tradition recounts that Ilyas preached to the Kingdom of I
 
 Ilyas has been the subject of legends and folktales in Muslim culture, usually involving his meeting with Khidr.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Alyasa (Elisha)
 
@@ -2861,8 +2808,7 @@ Elisha is venerated as a prophet in Judaism, Christianity and Islam and writings
 
 In the biblical narrative he is a disciple and protégé of Elijah, and after Elijah was taken up in a whirlwind, he gave Elisha a double portion of his power and he was accepted as the leader of the sons of the prophets. Elisha then went on to perform twice as many miracles as Elijah.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Yunus (Jonah) and The Big Fish 🐳
 
@@ -2959,8 +2905,7 @@ One of the sayings of Muhammad, in the collection of Imam Bukhari, says that Muh
 
 The ninth-century Persian historian Al-Tabari records that, while Jonah was inside the fish, "none of his bones or members were injured". Al-Tabari also writes that Allah made the body of the fish transparent, allowing Yunus to see the "wonders of the deep" and that Yunus heard all the fish singing praises to Allah. Kisai Marvazi, a tenth-century poet, records that Yunus' father was seventy years old when Yunus was born and that he died soon afterwards, leaving Yunus' mother with nothing but a wooden spoon, which turned out to be a cornucopia.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Dhu al-Kifl
 
@@ -2979,8 +2924,7 @@ Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
 
 In both cases, Dhu al-Kifl is mentioned in the context of a list of Qur'anic prophets, including many others not mentioned in the ayat quoted above.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Uzair
 
@@ -3041,8 +2985,7 @@ The Quran does not, specifically, point to the fact that Mary lived and grew up 
 
 Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the mihrab and put on a covering so no one saw her. Zechariah went into the mihrab and found that she had summer fruit in the winter and winter fruit in the summer. `He asked "From whence is this?" She said, "It is from Allah. Indeed, Allah provides for whom He wills without account".` 
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Zakariyah
 
@@ -3078,8 +3021,7 @@ The fact that, of all the priests, it was Zakariya who was given the duty of kee
     "And Zakariya and Yahya and Isa and Eliyas. Each one was of the righteous."
     Quran 6:85
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Virgin Mary gives birth to Jesus
 
@@ -3104,8 +3046,7 @@ According to the Quran, the following conversation transpired between the angel 
 
 The Quran's narrative of the virgin birth is somewhat different from that in the New Testament. The Quran states that when the pains of childbirth came upon Mary, she held onto a nearby palm tree 🌴, at which point a voice came from "beneath the (palm-tree)" or "beneath her", which said " `"Grieve not! for thy Lord hath provided a rivulet beneath thee; "And shake towards thyself the trunk of the palm-tree: It will let fall fresh ripe dates upon thee."` The Quran goes on to describe that Mary vowed not to speak to any man on that day, as God was to make Jesus, who Muslims believe spoke in the cradle, perform his first miracle. The Quran goes on to narrate that Mary then brought Jesus to the temple, where immediately she began to be taunted by all the men, excluding Zechariah, who believed in the virgin birth. The Israelites questioned Mary how she came to be with child whilst unmarried, to which Mary pointed to the baby Jesus. It was then that, according to the Quran, the infant Jesus began to speak in the cradle, and spoke of his prophecy for the first time.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Yahya ibn Zakarīyā (John the Baptist)
 
@@ -3140,8 +3081,7 @@ Yahya was a classical prophet, who was exalted high by God for his bold denounci
 
 According to Islamic tradition, Yahya used to go to the Haram esh-Sharif (Temple Mount) to deliver his sermons.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Isa (Jesus of Nazareth)
 
@@ -3271,8 +3211,7 @@ Almighty Allah also revealed:
     [Mention] when Allāh said, "O Jesus, indeed I will take you and raise you to Myself and purify [i.e., free] you from those who disbelieve and make those who follow you [in submission to Allāh alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ.
     Quran Ayah 3:55
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## When will Jesus return?
 
@@ -3304,8 +3243,7 @@ After defeating Dajjal, Isa will work as a judge. There will be a good life for 
 
 For details, see #Isa will return to the Earth and defeat Dajjal.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Apostles (Disciples of Jesus)
 
@@ -3375,8 +3313,7 @@ Prophet Muhammad mentions Jesus in some of his sayings and from his words we are
 
 Both Prophet Muhammad and Prophet Jesus shared a mission and were both surrounded and protected by men who shared their devotion to God and His cause. 
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Early Christianity
 
@@ -3397,8 +3334,7 @@ Early Christians were all Jews as Jesus himself.
 * They greeted each other with "Shalom!" (Peace!)
 * And they considered Jesus to be a promied Messiah
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## How Paul corrupted Christianity
 
@@ -3451,8 +3387,7 @@ Paul never met Jesus in person. Paul brought many innovations from Greek mytholo
 
 [How Paul corrupted original teachings of Jesus](https://www.youtube.com/watch?v=OmkwcGAt3XQ)
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## "Trinity" appeared 150 years later after Jesus
 
@@ -3464,8 +3399,7 @@ Some Christians developed different beliefs about the Prophet Jesus PBUH over th
 
 About a 150 years later, after the departure of Jesus Christ, a Church father by the name of Tertullian began teaching and spreading the concept of the Trinity. 
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## 250 AD: Sleepers in the Cave 😴😴🐕⛰️
 
@@ -3485,8 +3419,7 @@ Decius died in 251, and many years passed during which Christianity went from be
 
 Upon arriving in the city, this person was astounded to find buildings with crosses attached; the townspeople for their part were astounded to find a man trying to spend old coins from the reign of Decius. The bishop was summoned to interview the sleepers; they told him their miracle story, and died praising God.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## 330: Roman Emperor Constantine converts to Christianity
 
@@ -3498,8 +3431,7 @@ Constantine I initiated the [First Council of Nicea](https://en.wikipedia.org/wi
 
 Fun fact: It is the same Constantine the founder of Constantinople.
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## 325 AD: Nicene Creed
 
@@ -3550,9 +3482,13 @@ It is important to take into account that the Bible cannot be fully called the W
 
 <details><summary>
 
-## Descendants of Ibrahim and Ismail
+## Arabia Before Islam
 
 </summary>
+
+### Descendants of Ibrahim and Ismail
+
+For details, see (Arabia before Islam)[https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/arabia-islam].
 
 Hadith from Sahih Muslim, the prophet Muhammad ﷺ    said:
 
@@ -3620,11 +3556,60 @@ Many family trees have been presented by Adnan, which did not agree about the nu
 
 **Hashim** extablished trading between Basra and Yemen. Hashim became wealthy. Hashim fed the pilgrims. The surah Quraish is about those seasonal caravans. it wasnot allowed to rob Quraish caravans because they protected the Qaaba. One of wives of Hashim was from Yathrib. So the prophet Muhammad ﷺ    had blood relations with the Ansar.  
 
-    For the accustomed security of the Quraysh –
-    Their accustomed security [in] the caravan of winter and summer –
-    Let them worship the Lord of this House,
-    Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.
-    Quran, surah Quraish
+### Political Conditions in Arabia
+The most remarkable feature of the political life of Arabia before Islam was the total absence of political organization in any form. With the exception of Yemen in the south-west, no part of the Arabian peninsula had any government at any time, and the Arabs never acknowledged any authority other than the authority of the chiefs of their tribes. The authority of the tribal chiefs, however, rested, in most cases, on their character and personality, and was moral rather than political.
+
+The modern student of history finds it incredible that the Arabs lived, generation after generation, century after century, without a government of any kind. Since there was no government, there was no law and no order.
+
+The only law of the land was lawlessness. In the event a crime was committed, the injured party took law in its own hands, and tried to administer “justice” to the offender. This system led very frequently to acts of horrendous cruelty.
+
+If the Arab ever exercised any modicum of restraint, it was not because of any susceptibility he had to questions of right or wrong but because of the fear of provoking reprisals and vendetta. Vendetta consumed whole generations of Arabs.
+
+Since there were no such things as police, courts or judges, the only protection a man could find from his enemies, was in his own tribe. The tribe had an obligation to protect its members even if they had committed crimes. Tribalism or ‘asabiyya (the clan spirit) took precedence over ethics. A tribe that failed to protect its members from their enemies, exposed itself to ridicule, obloquy and contempt. Ethics, of course, did not enter the picture anywhere.
+
+Since Arabia did not have a government, and since the Arabs were anarchists by instinct, they were locked up in ceaseless warfare. War was a permanent institution of the Arabian society. The desert could support only a limited number of people, and the state of inter-tribal war maintained a rigid control over the growth of population. But the Arabs themselves did not see war in this light.
+
+To them, war was a pastime or rather a dangerous sport, or a species of tribal drama, waged by professionals, according to old and gallant codes, while the “audience” cheered. Eternal peace held no appeal for them, and war provided an escape from drudgery and from the monotony of life in the desert.
+
+They, therefore, courted the excitement of the clash of arms. War gave them an opportunity to display their skills at archery, fencing and horsemanship, and also, in war, they could distinguish themselves by their heroism and at the same time win glory and honor for their tribes. In many cases, the Arabs fought for the sake of fighting, whether or not there was a cause belli.
+
+G. E. Grunebaum:
+>“In the century before the rise of Islam the tribes dissipated all their energies in tribal guerrilla fighting, all against all.” (Classical Islam – A History 600-1258 – 1970)
+
+The nomadic tribes ranged over the peninsula and plundered the caravans and the small settlements. Many caravans and villages bought immunity from these raids by paying a fixed amount of money to the nomadic freebooters.
+
+It is important to grasp the fact that on the eve of the birth of Islam there was no government at any level in Arabia, and this fact may even have affected the rise of Islam itself.The total absence of government, even in its most rudimentary form, was a phenomenon so extraordinary that it has been noted and commented upon by many orientalists.
+
+### Economic Conditions
+Economically, the Jews were the leaders of Arabia. They were the owners of the best arable lands in Hijaz, and they were the best farmers in the country. They were also the entrepreneurs of such industries as existed in Arabia in those days, and they enjoyed a monopoly of the armaments industry.
+
+Slavery was an economic institution of the Arabs. Male and female slaves were sold and bought like animals, and they formed the most depressed class of the Arabian society.
+
+The most powerful class of the Arabs was made up by the capitalists and money-lenders. The rates of interest which they charged on loans were exorbitant, and were especially designed to make them richer and richer, and the borrowers poorer and poorer.
+
+The most important urban centers of Arabia were Makkah and Yathrib, both in Hijaz. The citizens of Makkah were mostly merchants, traders and money-lenders. Their caravans traveled in summer to Syria and in winter to Yemen.
+
+They also traveled to Bahrain in the east and to Iraq in the northeast. The caravan trade was basic to the economy of Makkah, and its organization called for considerable skill, experience and ability.
+
+R. V. C. Bodley:
+> The arrivals and departures of caravans were important events in the lives of the Meccans. Almost everyone in Mecca had some kind of investment in the fortunes of the thousands of camels, the hundreds of men, horses, and donkeys which went out with hides, raisins, and silver bars, and came back with oils, perfumes and manufactured goods from Syria, Egypt and Persia, and with spices and gold from the south. (The Messenger, 1946, p. 31)
+
+In Yathrib, the Arabs made their living by farming, and the Jews made theirs as businessmen and industrialists. But the Jews were not exclusively businessmen and industrialists; among them also there were many farmers, and they had brought much waste land under cultivation.
+
+Economically, socially and politically, Hijaz was the most important province in Arabia in the early seventh century.
+
+The Arabs and the Jews both practiced usury. Many among them were professional usurers; they lived on the interest they charged on their loans.
+
+E. A. Belyaev:
+> “Usury (riba) was widely practiced in Mecca, for in order to participate in the profitable caravan trade many a Meccan who had only a modest income had to resort to usurers; despite the high interest, he could hope to benefit after the safe return of the caravan. The richer merchants were both traders and usurers.
+>
+> Money-lenders usually took a dinar for a dinar, a dirhem for a dirhem, in other words, 100 per cent interest. In the Koran 3:130, Allah addressing the faithful, prescribes:
+> 
+> `Do not practice usury doubled twofold.`
+> 
+> This could mean that interests of 200 or even 400 per cent were demanded. The nets of Meccan usury caught not only fellow-citizens and tribesmen but also members of the Hijazi.
+>
+> Bedouin tribes active in the Meccan trade. As in ancient Athens, ‘the principal means of oppressing the people's freedom were money and usury.”
 
 ### Poetry
 
@@ -3642,6 +3627,24 @@ This is also a very important part of Arabic culture. And later, when these peop
 
 </summary>
 
+The Age of Ignorance (جَاهِلِيَّة‎, , lit. 'ignorance') is an Islamic concept referring to the period of time and state of affairs in Arabia before the advent of Islam in 610 CE. The term jahiliyyah is derived from the verbal root jahala "to be ignorant or stupid, to act stupidly".
+
+The term Jahiliyyah is used several places in the Quran, and translations often use various terms to represent it:
+
+    Then, following misery, He sent down upon you a feeling of security, a slumber overcoming a party among you, while another party cared only for themselves, thinking false thoughts about God, thoughts fit for the Age of Idolatry. 
+    Quran 3:154
+
+    Do they truly desire the law of paganism? But who is fairer than God in judgment for a people firm of faith?
+    Quran 5:50
+
+    Remain in your homes, and do not display your adornments, as was the case with the earlier Age of Barbarism. 
+    Quran 33:33
+
+    For the unbelievers had planted in their hearts a zealotry, the zealotry of lawlessness ... 
+    Quran 48:26
+
+Before the Islamic conversion a portion of the Arab tribes were nomadic, with a strong community spirit and some specific society rules. Their culture was patriarchal, with rudimentary religious beliefs. Although there were some traces of monotheism in the "hanifs" figures, their religious beliefs were based mostly on idol adorations and social congregations once a year around the Kaaba for trading and exchanges. Since the term is, in its deep sense, used as a condition, and not as an historical period, the Jahiliyya is used to describe the period of ignorance and darkness that pre-dated the arrival of Islam. 
+
 - Idols around the Kaaba
 - A tribe that buried newborn girls alive
 
@@ -3650,9 +3653,7 @@ Jurhumites from Yemen were rulers of Mecca for some time. They started committin
 After introducing idols, Jews ceased to visit the temple of Abraham. 
 
 </details>
-
-<details>
-<summary>
+<details><summary>
 
 ## The Quraish Tribe
 
@@ -3676,6 +3677,13 @@ the silk road was going through Basra. So Hashim hooked to the Silk Road and con
 
 and it was a safe route because of Mecca was a holy sight.
 One of Hashim's wives was from Yathrib.
+
+    For the accustomed security of the Quraysh –
+    Their accustomed security [in] the caravan of winter and summer –
+    Let them worship the Lord of this House,
+    Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.
+    Quran, surah Quraish
+
 
 </details>
 
