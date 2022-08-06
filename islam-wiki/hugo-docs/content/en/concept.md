@@ -30,9 +30,8 @@ When I only started learning about Biblical and Islamic prophets, I had a hard t
 Another aspect that always bothers me in large documentation samples is that it is not so easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of history TOC can actually kind of give you a short description of what happened. Trying to combine the helicopter view and large portions of text, I've used the standard <details><sumamry> tags so that details about a historic event appears when you click on the topic.
 
 
+Should I mention that some parts of a section are copied from Wikipedia page written by OatCookies, Cheezhai, Chewings72, Wulverine claws, Emir of Wikipedia, Funnyhat, Super ninja2, "I dream of horses" and 30 other authors? This gives you thoughts like probably "Super ninja" username was already taken and is there Super ninja3.
 
-
-While trying to tune the CSS, it made me kind of start loving front-end and I learned how to implement the dark mode along the way.
 There are still tonnes of bugs and I quickly realized that my sense of beauty is not enough to fix all CSS issues.
 
 

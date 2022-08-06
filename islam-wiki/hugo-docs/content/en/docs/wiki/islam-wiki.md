@@ -3598,18 +3598,25 @@ In Yathrib, the Arabs made their living by farming, and the Jews made theirs as 
 
 Economically, socially and politically, Hijaz was the most important province in Arabia in the early seventh century.
 
-The Arabs and the Jews both practiced usury. Many among them were professional usurers; they lived on the interest they charged on their loans.
+### Religion
 
-E. A. Belyaev:
-> “Usury (riba) was widely practiced in Mecca, for in order to participate in the profitable caravan trade many a Meccan who had only a modest income had to resort to usurers; despite the high interest, he could hope to benefit after the safe return of the caravan. The richer merchants were both traders and usurers.
->
-> Money-lenders usually took a dinar for a dinar, a dirhem for a dirhem, in other words, 100 per cent interest. In the Koran 3:130, Allah addressing the faithful, prescribes:
-> 
-> `Do not practice usury doubled twofold.`
-> 
-> This could mean that interests of 200 or even 400 per cent were demanded. The nets of Meccan usury caught not only fellow-citizens and tribesmen but also members of the Hijazi.
->
-> Bedouin tribes active in the Meccan trade. As in ancient Athens, ‘the principal means of oppressing the people's freedom were money and usury.”
+The period in the Arabian history which preceded the birth of Islam is known as the Times of Ignorance. Judging by the beliefs and the practices of the pagan Arabs, it appears that it was a most appropriate name. The Arabs were the devotees of a variety of “religions” which can be classified into the following categories.
+
+1. Idol-worshippers or polytheists. Most of the Arabs were idolaters. They worshipped numerous idols and each tribe had its own idol or idols and fetishes. They had turned the Kaaba in Makkah, which according to tradition, had been built by the Prophet Abraham and his son, Ismael, and was dedicated by them to the service of One God, into a heathen pantheon housing 360 idols of stone and wood.
+
+2. Atheists This group was composed of the materialists and believed that the world was eternal.
+
+3. Zindiqs They were influenced by the Persian doctrine of dualism in nature. They believed that there were two gods representing the twin forces of good and evil or light and darkness, and both were locked up in an unending struggle for supremacy.
+
+4. Sabines. They worshipped the stars.
+
+5. Jews When the Romans destroyed Jerusalem in A.D. 70, and drove the Jews out of Palestine and Syria, many of them found new homes in Hijaz in Arabia. Under their influence, many Arabs also became converts to Judaism. Their strong centers were the towns of Yathrib, Khayber, Fadak and Umm-ul-Qura.
+
+6. Christians. The Romans had converted the north Arabian tribe of Ghassan to Christianity. Some clans of Ghassan had migrated to and had settled in Hijaz. In the south, there were many Christians in Yemen where the creed was originally brought by the Ethiopian invaders. Their strong center was the town of Najran.
+
+7. Monotheists There was a small group of monotheists present in Arabia on the eve of the rise of Islam. Its members did not worship idols, and they were the followers of the Prophet Abraham. The members of the families of Muhammad, the future prophet, and Ali ibn Abi Talib, the future caliph, and most members of their clan – the Banu Hashim – belonged to this group.
+
+For details, see [Arabia Before Islam](https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/arabia-islam)
 
 ### Poetry
 
@@ -3617,11 +3624,7 @@ Another thing to mention is that Arabia at that time was famous for its poetry. 
 
 This is also a very important part of Arabic culture. And later, when these people heard the Quran, they were amazed by its beauty, even though Quran is not poetry.
 
-</details>
-
-# PROFREADINGPRROFREADINGPROOFREADING
-
-<details><summary>
+</details><details><summary>
 
 ## Jaahiliyah
 
@@ -3645,33 +3648,68 @@ The term Jahiliyyah is used several places in the Quran, and translations often 
 
 Before the Islamic conversion a portion of the Arab tribes were nomadic, with a strong community spirit and some specific society rules. Their culture was patriarchal, with rudimentary religious beliefs. Although there were some traces of monotheism in the "hanifs" figures, their religious beliefs were based mostly on idol adorations and social congregations once a year around the Kaaba for trading and exchanges. Since the term is, in its deep sense, used as a condition, and not as an historical period, the Jahiliyya is used to describe the period of ignorance and darkness that pre-dated the arrival of Islam. 
 
-- Idols around the Kaaba
-- A tribe that buried newborn girls alive
+The Arabs and the Jews both practiced usury. Many among them were professional usurers; they lived on the interest they charged on their loans.
 
-Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. Before going, they buried Zamzam in the sand. A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. Later on, people brought many other idols to Kaaba.
+E. A. Belyaev:
+> “Usury (riba) was widely practiced in Mecca, for in order to participate in the profitable caravan trade many a Meccan who had only a modest income had to resort to usurers; despite the high interest, he could hope to benefit after the safe return of the caravan. The richer merchants were both traders and usurers.
+>
+> Money-lenders usually took a dinar for a dinar, a dirhem for a dirhem, in other words, 100 per cent interest. In the Koran 3:130, Allah addressing the faithful, prescribes:
+> 
+> `Do not practice usury doubled twofold.`
+> 
+> This could mean that interests of 200 or even 400 per cent were demanded. The nets of Meccan usury caught not only fellow-citizens and tribesmen but also members of the Hijazi.
+>
+> Bedouin tribes active in the Meccan trade. As in ancient Athens, ‘the principal means of oppressing the people's freedom were money and usury.”
 
-After introducing idols, Jews ceased to visit the temple of Abraham. 
+There was a tribe that buried their newborn girls alive.
 
-</details>
-<details><summary>
+Arabia was a male-dominated society. Women had no status of any kind other than as sex objects.The number of women a man could marry was not fixed. When a man died, his son “inherited” all his wives except his own mother.
+
+A savage custom of the Arabs was to bury their female infants alive. Even if an Arab did not wish to bury his daughter alive, he still had to uphold this “honorable” tradition, being unable to resist social pressures.
+
+Drunkenness was a common vice of the Arabs. With drunkenness went their gambling. They were compulsive drinkers and compulsive gamblers. The relations of the sexes were extremely loose. Many women sold sex to make their living since there was little else they could do.
+
+### Jurhumites bury Zamzam
+
+Jurhumites from Yemen were rulers of Mecca for some time. They started committing injustice and were finally driven out. When Khuza'ah attacked Jurhum, Jurhum hid the Zamzam before they leave. Before going, they buried Zamzam in the sand.
+
+### Idols are placed around the Kaaba
+
+A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the giants tribe) to give him one of their idols. They gave him Hubal, which he brought back to sanctuary, setting it up within the Ka'bah itself; and it became the chief idol of Mecca. Later on, people brought many other idols to Kaaba.
+
+After idols were placed around the Kaaba, Jews ceased to visit the temple of Abraham. 
+
+</details><details><summary>
 
 ## The Quraish Tribe
 
 </summary>
 
+> After Hājar (Hagar of the Bible), the wife of the Ibrāhīm (Abraham) and their son Ismā’īl (Ishmael) had settled in Mecca, the tribe of Jurhum, happened to pass through there and agreed with Hājar that they should remain there as a new spring of fresh water had emerged at that location.[citation needed] They settled in Mecca and in the area around. Once Ismā’īl had become a youth he married a woman of the tribe of Jurhum. Ismā’īl was the custodian of the Sacred House (Ka’bah), and after he died he made his son Nābit his successor. And then after Nābit the job was given to his uncles from Jurhum, and with them were the descendants of Ismā’īl. Then Muḑāḑah ibn 'Amr al-Jurhamī assumed the burden of the affairs of the Sacred House.
+>
+> Jurhum's custodianship of the Sanctuary lasted for a period of time, but they then started to become weaker in faith, putting the continuing sanctity of the Sacred House at peril. They considered all the funds collected at the Sanctuary to be their property, and started to perform sinful acts within its precincts. It came to the point where a man and a woman, called Asāf and Nā’ilah, performed coitus in the Sacred House, and according to the Muslim sources Allah turned them into two stones to punish them for this sacrilegious act.
+>
+> Their aggression against the sanctity of the Sanctuary was the catalyst that made the Banū Bakr bin ‘Abd al-Manāf bin Kinānah, descendants of Ismā’īl, join with Khuzā’ah in fighting Jurhum and they expelled them from Mecca.
+>
+> After the Jurhumites had fled, Khuzā’ah became custodians of the Sacred House, passing the duty on from father to son for a long time, five hundred years it is said. The first one of Khuzā’ah to govern the Sacred House was ‘Amr bin Rabī’ah (Luḥay) who travelled to Syria-Palestine (al-Shām) to seek a cure for a disease he was suffering from; he found the people there worshiping idols, and he liked this religion, so he brought back an idol called Hubal back to Mecca and called on the people to worship it. Hubal had the figure of an old man with a long beard and was made of carnelian. Its right hand had been cut off but the Quraysh would later provide it with a hand made of gold. 'Amr ibn Rabī'ah then was the first to change the religion of the Arabs. Muslims historians consider that the people of Mecca were following the monotheistic religion of Ibrāhīm and Ismā'īl up to this point (see Hanif), when polytheism was introduced. 'Amr ibn Luḥay became very famous among the other Arab tribes, because he fed all the pilgrims to the Sacred House, and distributed Yemeni cloaks to them. Many of the tribes started to visit Mecca on pilgrimage, and took their own idols with them, placing them around the Ka'bah to worship.
+
 ### Qusayy ibn Kilay
 
-When Khuzagha attacked Jurhum, Jurhum hid the Zamzam before they leave.
+> In the fifth century A.D. a man called Qusay, was born in the tribe of Quraysh. He won great honor and fame for his tribe by his wisdom. He rebuilt the Kaaba which was in a state of disrepair, and he ordered the Arabs to build their houses around it. He also built the “town hall” of Makkah, the first one in Arabia.
+> 
+> The leaders of the various clans gathered in this hall to ponder upon their social, commercial, cultural and political problems. Qusay formulated laws for the supply of food and water to the pilgrims who came to Makkah, and he persuaded the Arabs to pay a tax for their support.
 
-At that time, Khuzagha was controlling Mecca. he married chieftan's daughter and after the chieftan died, people wanted Qusayy to take over so he united Quraish tribes and fought against sons of Khuzagha chieftan and reclaimed the control over Mecca for the Quraish.
+At that time, Khuza'ah was controlling Mecca. Qusayy ibn Kilay from Quraish married chieftan's daughter and after the chieftan died, people wanted Qusayy to take over so he united Quraish tribes and fought against sons of Khuzagha chieftan and reclaimed the control over Mecca for the Quraish.
 
-The great-great-greatfather of the Prophet Muhammad  ﷺ   . after battles it was agreed that Qusay from Quraish must be the guardian of the Kaaba. They were receiving taxes, feeding the pilgrims and living in tents. Qusayy told them to build houses. His hidden qualities enabled him to establish his superiority over the Makkans and especially the tribe of Quraysh. Within a short time he acquired the high governmental offices in Makkah and also became the custodian of the keys of the Ka'bah and the undisputed ruler of that city.
+Qusayy was the great-great-greatfather of the Prophet Muhammad ﷺ  . after battles it was agreed that Qusay from Quraish must be the guardian of the Kaaba. They were receiving taxes, feeding the pilgrims and living in tents. Qusayy told them to build houses. His hidden qualities enabled him to establish his superiority over the Makkans and especially the tribe of Quraysh. Within a short time he acquired the high governmental offices in Makkah and also became the custodian of the keys of the Ka'bah and the undisputed ruler of that city.
 
 Many remarkable events are associated with his name. One of these was that he encouraged the people to construct a house with the name of 'Darun Nadwah' adjacent to the Ka'bah and thus founded a Council Hall for the Arabs so that their dignitaries and chiefs might sit together in this public centre and solve their problems. He died in the 5th A.D. and left behind two sons named Abdud Dar and Abd Manaf.
 
+# PROFREADINGPRROFREADINGPROOFREADING
+
 ### Hashim
 
-Abd Manaf's son.
+Hashim is a son of Abd Manaf ibn Qusay.
 his name is Amr. Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. married an influential Yathrib woman from Khazraj. He fell ill and died in Gaza. (Surah Quraish mentions these caravans.)
 the silk road was going through Basra. So Hashim hooked to the Silk Road and connected Yemen and Basra. and in the middle was Mecca. and Mecca had people who would come to Hajj, so there was the market.
 
@@ -4171,10 +4209,7 @@ At the 5th year of da'wa the prophet  ﷺ    said that there's a christian king 
 Christians dont have the law because they follow the version of Paul who said that Jesus AS came to abrogate the law. Jesus PBUH never ate pork and lived the life of a jew. 
 There were different opinions until Naysean Creed where Constantine decided that christians must believe in the trinity. Aries did not agree with that so Constantine ordered to execute him. he escaped to south all branches of christianity before the naysean creed disappeared.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Isra 'Al-Miraj ✨
 
@@ -4227,9 +4262,7 @@ Sunna
 there are 5 layers of Qadr. daily and yearly Qadr may change.
 Celebration of the prophet's ﷺ    birthday started 600 years after his death. many of scholars opposed it. 
 
-</details>
-<details>
-<summary> 
+</details><details><summary> 
 
 ## Night of Jinn 
 
@@ -4238,9 +4271,7 @@ Celebration of the prophet's ﷺ    birthday started 600 years after his death. 
 Dawud reported from 'Amir who said:
 
 I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah (ﷺ) on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'uad) said: No, but we were in the company of the Messenger of Allah (ﷺ) one night and we missed him. We searched for him in the valleys and the hills and said. He has either been taken away (by jinn) or has been secretly killed. He (the narrator) said. We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hiri'. He (the narrator) reported. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Qur'an. He (the narrator) said: He then went along with us and showed us their traces and traces of their embers. They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah (ﷺ) said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).
-</details>
-<details>
-<summary>
+</details><details><summary>
 
 ## Death of Hadijah and Abu Talib
 
@@ -4269,13 +4300,11 @@ He said: One of the callers of the jinn came to me so I went out to meet with th
 
 ### Hijrah
 
-<details>
-<summary>
+<details><summary>
 
 ## <b>622</b>: Young pilgrims invite the prophet Muhammad ﷺ   to Yathrib.
 
 </summary>
-
 </br>
 
 Since the Quraysh gave little weight to Muhammad's message, Muhammad took to spreading his message to the merchants and pilgrims that frequented Mecca. After several unsuccessful negotiations, he found hope with some men from Medina. The Arab population of Yathrib were somewhat familiar with monotheism because a Jewish community existed in that city. Muhammad met with a few members of the two tribes of Medina, the Aws and Khazraj, twice, at a hill known as al-'Aqabah near Mina, where they pledged their allegiance to Muhammad and agreed to protect Muhammad if he were to migrated to Medina. Following the pledges at al-'Aqabah, Muhammad encouraged his followers to emigrate to Medina. The Quraysh attempted to stop the Muslims from emigrating to the city, however, almost all Muslims managed to leave.
@@ -4284,10 +4313,7 @@ Arabs from Yathrib meet the prophet Muhammadﷺ   and invite him to stay in thei
 
 Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## <b>621</b>:  70 families move to Yathrib
 
@@ -4303,9 +4329,7 @@ Suhayb described the place in his house in Mecca where he had left the money, an
 
 In 622 CE, due to the safety offered by Yathrib (later renamed Medīnat an-Nabī, or simply Medina), Muhammad ordered his followers to migrate to Medina. Most Muslims migrated at night fearing Quraish resistance, but Umar is reported to have left openly during the day saying: "Any one who wants to make his wife a widow and his children orphans should come and meet me there behind that cliff." Umar migrated to Medina accompanied by his cousin and brother-in-law Saeed ibn Zaid.
 
-</details>
-<details>
-<summary>
+</details><details><summary>
 
 ##**622**: Assasination Attempt and Hijra
 
@@ -4323,8 +4347,7 @@ At the time of the rule of the second righteous khalif Umar ibn Al Khattab, the 
 
 ### Medina Period 🕌
 
-<details>
-  <summary>
+<details><summary>
 
 ## Constitution of Medina
 
@@ -4339,10 +4362,7 @@ After the arrival of Muhammad in Medina, its people could be divided into four g
 
 In order to establish peaceful coexistence among this heterogeneous population, Muhammad invited the leading personalities of all the communities to reach a formal agreement which would provide a harmony among the communities and security to the city of Medina, and finally drew up the Constitution of Medina, also known as the Medina Charter, which formed "a kind of alliance or federation" among the prevailing communities. It specified the mutual rights and obligations of the Muslims and Jews of Medina, and prohibited any alliance with the outside enemies. It also declared that any dispute would be referred to Muhammad for settlement.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Construction of first mosques
 
@@ -4357,10 +4377,7 @@ As there was no definite arrangement for calling people to prayer, Bilal ibn Rib
 
 Bilal who was tortured by Meccans, who was dragged in chains along the streets of Mecca and who kept saying "Ahadun Ahad" (Allah the One) because he didnot know anything else about Islam. He was the first to say athan and the first muathin in the an-Nabawi mosque. Prophet Muhammadﷺ   assigned him to say adhan in the first mosque in Medina because he had a loud and beautiful voice.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## <b>624</b> ⚔️ Battle of Badr
 
@@ -4390,10 +4407,7 @@ A key battle in the early days of Islam, the Battle of Badr was the first large-
 
 The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 624 Change of Qibla to Kaaba
 
@@ -4403,10 +4417,7 @@ The Quraysh with all its leading personalities except Abu Lahab marched with a h
 
 The prophet Muhammadﷺ   was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 625 ⚔️ Battle of Uhud
 
@@ -4418,10 +4429,7 @@ Abu Sufyan became the de facto leader of the Quraish after the death of Amr ibn 
 
 Although outnumbered, the Muslims gained the early initiative and forced the Meccan lines back, thus leaving much of the Meccan camp unprotected. When the battle looked to be only one step away from a decisive Muslim victory, a serious mistake was committed by a part of the Muslim army, which altered the outcome of the battle. A breach of Muhammad's orders by the Muslim archers, who left their assigned posts to despoil the Meccan camp, allowed a surprise attack from the Meccan cavalry, led by Meccan war veteran Khalid ibn al-Walid, which brought chaos to the Muslim ranks. Many Muslims were killed, including Hamza, and Muhammad himself was severely injured. The Muslims had to withdraw up the slopes of Uhud. The Meccans did not pursue the Muslims further, as the mountain of Uhud had tough terrain, but marched back to Mecca declaring victory. For the Muslims, the battle was a significant setback. Although they had been close to routing the Meccans a second time, their breach of Muhammad's orders in favor of collecting Meccan spoils reaped severe consequences. The two armies would meet again in 627 at the Battle of the Trench, in which the Muslims would, yet again, have to defend Medina from the Meccans and others.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## <b>627</b> ⚔️ Battle of Trench
 
@@ -4441,10 +4449,7 @@ The defeat caused the Meccans to lose their trade and much of their prestige.
 
 Following the retreat of the Confederate army, the Banu Qurayza neighborhoods were besieged by the Muslims for their treachery. After a 25-day siege of their neighborhood, the Banu Qurayza unconditionally surrendered. When the Banu Qurayza tribe surrendered, the Muslim army seized their stronghold and their possessions for their acts. On the request of the Banu Aus, who were allied to the Qurayza, Muhammad chose one of them, Sa'ad ibn Mu'adh, as an arbitrator to pronounce judgment upon them. Sa'ad, who later died of his wounds from the battle, decreed the sentence, in which some of the men fighters shall be killed and some of their women and children enslaved. Muhammad approved of this decision, and the next day the sentence was carried out.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Abu Dharr Al-Ghifari comes to Medina with all his tribe
 
@@ -4461,10 +4466,7 @@ He sends his brother to the messenger and his brother returns and says: I found 
 Al-Ghifar were known to be bandits who used to ride caravans.
 According to some narrations, Abu Dharr was the fifth person to embrase Islam.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## <b>628</b>: Treaty of Hudaybiyyah
 
@@ -4494,10 +4496,7 @@ A verse of the Quran was revealed about the treaty, which means:
     "Verily we have granted thee a manifest victory"
     Quran 48:1
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## <b>628-629</b>: Letters to Kings, Conquest of Khaybar
 
@@ -4507,18 +4506,12 @@ Around the end of the 6 AH and the beginning of the 7 AH (628 CE), Muhammadﷺ  
 
 In the 6 AH, Khalid ibn al-Walid accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Umrah of the prophet Muhammadﷺ
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **630**: Mecca becomes Muslim
 
@@ -4536,9 +4529,7 @@ He then destroyed the idols – placed in and around the Kaaba – reciting the 
 
 ### Khaled ibn al-Waleed destroys temples of Al-Uzza
 
-</details>
-
-<details><summary>
+</details><details><summary>
 
 ## Conquest of Arabia
 
@@ -4552,8 +4543,7 @@ After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy 
 
 ### Last Years of The Prophet Muhammad ﷺ
 
-<details>
-<summary>
+<details><summary>
 
 ## **632**: Farewell Hajj Pilgrimage
 
@@ -4565,10 +4555,7 @@ In 631 CE, during the Hajj season, Muhammad appointed Abu Bakr to lead 300 Musli
 
 Next year, In 632 CE, Muhammad performed hajj and taught Muslims first-hand the various rites of Hajj. On the 9th of Dhu al-Hijjah, from Mount Arafat, he delivered his Farewell Sermon in which he abolished old blood feuds and disputes based on the former tribal system, repudiated racial discrimination, and advised people to "be good to women". According to Sunni tafsir, the following Quranic verse was delivered during this event: "Today I have perfected your religion, and completed my favours for you and chosen Islam as a religion for you" (Quran 5:3).
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **632**: Death of Prophet Muhammadﷺ
 
@@ -4592,8 +4579,7 @@ Soon after his return from the pilgrimage, Muhammad fell ill and suffered for se
 
 <img src="/early_islamic_expansion.png" alt="Early Expansion"> 
 
-<details>
-<summary>
+<details><summary>
 
 ## **632-634**: Abu Bakr
 
@@ -4652,10 +4638,7 @@ His (Umar's) strictness was there because of my softness when the weight of Cali
 
 Abu Bakr was aware of Umar's power and ability to succeed him. His was perhaps one of the smoothest transitions of power from one authority to another in the Muslim lands. Before his death, Abu Bakr called Uthman to write his will in which he declared Umar his successor. In his will he instructed Umar to continue the conquests on Iraqi and Syrian fronts.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **634-644**: Umar ibn al-Khattab
 
@@ -4755,8 +4738,7 @@ Historians estimate more than 4,050 cities were conquered during the reign of Um
 
 Prior to his death in 644, Umar had ceased all military expeditions apparently to consolidate his rule in recently conquered Roman Egypt and the newly conquered Sassanid Empire (642–644). At his death in November 644, his rule extended from present day Libya in the west to the Indus river in the east and the Oxus river in the north.
 
-<details>
-  <summary>
+<details><summary>
 
 ### Khalid ibn al-Walid
 
@@ -4810,10 +4792,7 @@ Umar appointed a band of fifty armed soldiers to protect the house where the mee
 
 Umar died on 3 November 644; on 7 November Uthman succeeded him as caliph. 
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **644-656**: Uthman ibn Affan
 
@@ -4883,10 +4862,7 @@ The rebels besieged Uthman and prevented him from getting water. After Ali was i
 
 In June 656, a group of rebels climbed from the back of Uthman's house, crept inside, unbeknownst to the gate guards. While Uthman was reading the Quran, the rebels plunged into the caliph's room and struck blows at his head, from which Uthman subsequently died at around the age of 77 or 80 years old.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **656-661**: Ali ibn Abi Talib
 
@@ -4924,10 +4900,7 @@ According to Heck, Ali also forbade Muslim fighters from looting and instead dis
 
 #### Battle of the Camel
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **661**: Hasan ibn Ali
 
@@ -4939,10 +4912,7 @@ During the caliphate of Ali (r. 656 – 661), Hasan accompanied him in the milit
 
 Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying that he had intended to surrender from the beginning and fought half-heartedly. His supporters maintain that Hasan's abdication was inevitable after his soldiers mutinied, and he was motivated by the desire for unity and peace in the Muslim community; Muhammad reportedly predicted that Hasan would make peace among the Muslims. Another Sunni hadith (also attributed to Muhammad) predicted that the prophetic succession would endure for thirty years, which may have been interpreted by at least some early Sunni scholars as evidence that Hasan's caliphate was rightly-guided (rāshid).
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Miracle of Early Islamic Expansion
 
@@ -4955,58 +4925,44 @@ They did not have buildings, they did not even have a government. They were neve
 </details>
 
 # 9.3 Fitnah (Civil Conflict) and years before Golden Age
-
 *******************************************
 
-<details>
-    <summary>
+<details><summary>
 
 ## Umayyad Dinasty Era
 
 </summary>
-</details>
-<details>
-    <summary>
+</details><details><summary>
 
 ## Umayyad Dinasty Era
 
 </summary>
   
-</details>
-<details>
-    <summary>
+</details><details><summary>
 
 ## 661 - 680: Khalifate of Muawiyyah
 
 </summary>
   
-</details>
-<details>
-    <summary>
+</details><details><summary>
 
 ## Capital is moved from Medina to Damascus
 
 </summary>
   
-</details>
-<details>
-    <summary>
+</details><details><summary>
 
 ## Death of Hasan ibn Ali in Medina
 
 </summary>
   
-</details>
-<details>
-    <summary>
+</details><details><summary>
 
 ## Yazid I
 
 </summary>
   
-</details>
-<details>
-<summary>
+</details><details><summary>
 
 ## 680 Battle of Karbala. 680-92 The Second fitnah
 
@@ -5014,10 +4970,7 @@ They did not have buildings, they did not even have a government. They were neve
 
 Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Murder of Huseyn and his family
 
@@ -5025,18 +4978,12 @@ Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Hu
 
 Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Division of Muslims to Sunni and Shia
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **603 - 680**: Abu Huraira 🐈 (603 - 680)
 
@@ -5078,8 +5025,7 @@ Later, Abu Hurairah 🐈 were sent as Muezzin to al-Ala al-Hadhrami. And Muhamma
 * 762 The foundation of Baghdad, which becomes the new Abbasid capital.
 * 775 - 785: Califate of al-Maghdi. He encourages the development of fiqh, acknowledge the piety of the religious movement.
 
-<details>
-<summary>
+<details><summary>
 
 ## **732**: Abu Hanifa pioneers the study of fiqh
 
@@ -5147,26 +5093,18 @@ Outside of his scholarly achievements, Abu Hanifa is popularly known amongst Sun
 
 The honorific title al-Imam al-A'zam ("the greatest leader") was granted to him both in communities where his legal theory is followed and elsewhere. According to John Esposito, 45% of all Muslims follow the Hanafi school.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **732**: Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations)
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Ibn Hisham (Muhammad ibn Iskhak's student) shortens the seerah of the prophet Muhammad.
 
-</summary>
-</details>
+</summary></details>
 
 # 9.4 The Islamic Golden Age
-
 *******************************************
 
 <details>
@@ -5190,14 +5128,10 @@ Peoplee who played a vast role in shaping of sciences during the Islamic Golden 
 
 paper production from China, translation of Ancient Greek philosophers' works and other, House of Wisdom in Baghdad,  
 
-</details>
-
-<details>
+</details><details>
     <summary>Caliphate of Harun al-Rushdi</summary>
 A great cultural renaissance in Baghdad and other cities of the empire. Besides patronizing scholarship, science and arts, the caliph also encourages the study of fiqh and the anthologization of ahadith which will enable the formation of a coherent body of Islamic law (Shariah).  
-</details>
-
-<details>
+</details><details>
     <summary>711 - 795: imam Al-Malik ibn Anas</summary>
 Malik ibn Anas, founder of the Maliki school of jurisprudence.
 
@@ -5230,9 +5164,7 @@ Malik considered following the sunnah of Muhammad to be of capital importance fo
 
 Malik is famous for declaring: "The shield of the 'alim is: 'I do not know.' If he neglects it, he will receive a mortal blow." Elsewhere, a certain Khālid ibn Khidāsh related: "I travelled all the way from Iraq to see Mālik about forty questions. He did not answer me except on five. Then he said: ʿIbn ʿIjlān used to say: If the 'alim bypasses 'I do not know,' he will receive a mortal blow." Likewise, al-Haytham ibn Jamīl said: "I saw Mālik ibn Anas being asked forty-eight questions, and he replied to thirty-two of them: 'I do not know.'" Later on, Malik's disciple, Ibn Wahb, related: "I heard ʿAbd Allāh ibn Yazīd ibn Hurmuz say: 'The 'ulema must instill in those who sit with him the phrase 'I do not know' until it becomes a foundational principle (asl) before them and they seek refuge in it from danger."
 
-</details>
-
-<details>
+</details><details>
     <summary>Imam Al-Shafi'i (767 - 820)</summary>
 
 Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī ( أَبُو عَبْدِ ٱللهِ مُحَمَّدُ بْنُ إِدْرِيسَ ٱلشَّافِعِيُّ, 767–19 January 820 CE) was an Arab Muslim theologian, writer, and scholar, who was the first contributor of the principles of Islamic jurisprudence (Uṣūl al-fiqh). Often referred to as 'Shaykh al-Islām', al-Shāfi‘ī was one of the four great Sunni Imams, whose legacy on juridical matters and teaching eventually led to the formation of Shafi'i school of fiqh (or Madh'hab). He was the most prominent student of Imam Malik ibn Anas, and he also served as the Governor of Najar. Born in Gaza in Palestine (Jund Filastin), he also lived in Mecca and Medina in the Hejaz, Yemen, Egypt, and Baghdad in Iraq.
@@ -5305,9 +5237,7 @@ He authored more than 100 books. But most them have not reached us. The extant w
 * Al sunan al Ma’thour
 * Jma’ al ilm
 
-</details>
-
-<details>
+</details><details>
     <summary> Rabiah</summary>
 first great woman mystic  </details>
 
@@ -5349,9 +5279,7 @@ Ahmad ibn Hanbal favoured Ijtihad and rejected Taqlid; the practise of blind adh
 
 "I am amazed at those people who know that a Sanad (i.e. Chain of Transmission) is authentic and yet, in spite of this, they follow the opinion of Sufyan, for Allah (Glorified beHe), says: {And let those who oppose the Messenger's commandment (i.e. his Sunnah - legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them}. (An-Nur: 63) Do you know what that Fitnah is? That Fitnah is Shirk (polytheism). Maybe the rejection of some of his words would cause one to doubt and deviate in his heart and thereby be destroyed."
 
-</details>
-
-<details>
+</details><details>
     <summary>Al-Bukhari (810 - 870)</summary>
 
 Muhammad ibn Isma'il ibn Ibrahim (محمد ابن اسماعيل ابن ابراهيم, ; 19 July 810 – 1 September 870), better known as al-Bukhari ( البخاری, ), commonly referred to as Imam al-Bukhari or Imam Bukhari, was a Persian Islamic scholar who was born in Bukhara (early Khorasan and present day Uzbekistan). He compiled the hadith collection known as Sahih al-Bukhari, regarded by Sunni Muslims as the most authentic (sahih) hadith collections. He also wrote other books such as Al-Adab al-Mufrad.
@@ -5360,43 +5288,29 @@ Muhammad ibn Ismaʿil al-Bukhari al-Juʿfi was born after the Jumu'ah prayer,13 
 
 His father, Ismail ibn Ibrahim, a scholar of hadith, was a student and associate of Malik ibn Anas. Some Iraqi scholars related hadith narrations from him.
 
-</details>
-
-
-<details>
+</details><details>
     <summary>al-Tabari (839 - 923)</summary>
 Muhammad ibn Jarir ibn Yazid (Arabic: محمد ابن جرير ابن يزيد, romanized: Muḥammad ibn Jarīr ibn Yazīd; c. 839–923), more commonly known as al-Tabari (Arabic: الطبري, romanized: al-Ṭabarī), or alternatively as Abu Jafar (Arabic: أبو جعفر, romanized: Abū Jaʿfar), was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Qur'anic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine."
 
 His most influential and best known works are his Qur'anic commentary, known in Arabic as Tafsir al-Tabari, and his historical chronicle History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk), often referred to Tarikh al-Tabari.
 
-Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed his own interpretation of Islamic jurisprudence. His understanding of fiqh was both sophisticated and remarkably fluid and, as such, he continued to develop his ideas and thoughts on juristic matters right to the end of his life. Al-Tabari's school of thought (madhhab) flourished among Sunni ulama for two centuries after his death, before it eventually became extinct. It was usually designated by the name Jariri. </details>
+Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed his own interpretation of Islamic jurisprudence. His understanding of fiqh was both sophisticated and remarkably fluid and, as such, he continued to develop his ideas and thoughts on juristic matters right to the end of his life. Al-Tabari's school of thought (madhhab) flourished among Sunni ulama for two centuries after his death, before it eventually became extinct. It was usually designated by the name Jariri. 
+</details><details>
+<summary>Yaqub ibn Ishaq al-Kindi, the first of the Muslim Faylasuf</summary>
 
-<details>
-    <summary>Yaqub ibn Ishaq al-Kindi, the first of the Muslim Faylasuf</summary>
-
-</details>
-
-<details>
+</details><details>
     <summary>historian Abu Jafar al-Tabari</summary>
 
-</details>
-
-<details>
+</details><details>
     <summary>Hasan al Ashari</summary>
 
-</details>
-
-<details>
+</details><details>
     <summary>Ibn Hazm</summary>
 poet, vizier, theologian
-</details>
-
-<details>
+</details><details>
     <summary>Abu Nasr al-Farabi</summary>
 Faylasuf and court musician in Aleppo
-</details>
-
-<details>
+</details><details>
     <summary>972: Fatimids build the madrasah of al-Azhar in Cairo</summary>
 
 The Al-Azhar University (جامعة الأزهر (الشريف), , "the University of (the honorable) Al-Azhar") is a public university in Cairo, Egypt. Associated with Al-Azhar Mosque in Islamic Cairo, it is Egypt's oldest degree-granting university – and the world's second oldest degree granting university – and is renowned as the most prestigious university for Islamic learning. In addition to higher education, Al-Azhar oversees a national network of schools with approximately two million students. As of 1996, over 4,000 teaching institutes in Egypt were affiliated with the university.
@@ -5417,10 +5331,7 @@ In the 12th century, following the overthrow of the Isma'ili Fatimid dynasty, Sa
 
 Saladin introduced the college system in Egypt, which was also adopted in Al-Azhar. Under this system, the college was a separate institution within the mosque compound, with its own classrooms, dormitories and a library.
 
-</details>
-
-<details>
-    <summary>980 - 1037 ibn Sina (Avicenna)</summary>
+</details><details><summary>980 - 1037 ibn Sina (Avicenna)</summary>
 
 Ibn Sina (Persian: ابن سینا; 980 – June 1037 CE), commonly known in the West as Avicenna (/ˌævɪˈsɛnə, ˌɑːvɪ-/), was a Persian polymath who is regarded as one of the most significant physicians, astronomers, philosophers, and writers of the Islamic Golden Age, and the father of early modern medicine.Sajjad H. Rizvi has called Avicenna "arguably the most influential philosopher of the pre-modern era". He was a Muslim Peripatetic philosopher influenced by Greek Aristotelian philosophy. Of the 450 works he is believed to have written, around 240 have survived, including 150 on philosophy and 40 on medicine.
 
@@ -5507,37 +5418,25 @@ George Sarton, the author of The History of Science, described Avicenna as "one 
 
 Along with Rhazes, Abulcasis, Ibn al-Nafis and al-Ibadi, Avicenna is considered an important compiler of early Muslim medicine. He is remembered in the Western history of medicine as a major historical figure who made important contributions to medicine and the European Renaissance. His medical texts were unusual in that where controversy existed between Galen and Aristotle's views on medical matters (such as anatomy), he preferred to side with Aristotle, where necessary updating Aristotle's position to take into account post-Aristotelian advances in anatomical knowledge. Aristotle's dominant intellectual influence among medieval European scholars meant that Avicenna's linking of Galen's medical writings with Aristotle's philosophical writings in the Canon of Medicine (along with its comprehensive and logical organisation of knowledge) significantly increased Avicenna's importance in medieval Europe in comparison to other Islamic writers on medicine. His influence following translation of the Canon was such that from the early fourteenth to the mid-sixteenth centuries he was ranked with Hippocrates and Galen as one of the acknowledged authorities, princeps medicorum ("prince of physicians").
 
-</details>
-
-<details>
-    <summary>
+</details><details><summary>
 
 ## 922 - Volga Bulgaria adopts Islams
 
 </summary>
 
-</details>
-
-<details>
-    <summary>
+</details><details><summary>
 
 ## 990 - 1118 The Seljuk Empire
 
 </summary>
 
-</details>
-
-<details>
-    <summary>
+</details><details><summary>
 
 ## 990: The Seljuk Turkish family from Central Asia convert to Islam
 
 </summary>
 
-</details>
-
-<details>
-    <summary>
+</details><details><summary>
 
 ## 1065 - 1067: The Nizamiyyah madrasah is built in Baghdad
 
@@ -5547,10 +5446,7 @@ Nizam al-Mulk (Persian: نظام‌الملک, lit. 'Order of the Realm') was 
 
 One of his most important legacies was founding madrasa in cities throughout the Seljuk Empire. These were called nezamiyehs after him. He wrote Siyasatnama (Book of Government), a political treatise that uses historical examples to discuss justice, effective rule, and the role of government in Islamic society.
 
-</details>
-
-<details>
-  <summary>
+</details><details><summary>
 
 ## 1058-1111 Imam Al-Ghazali
 
@@ -5636,10 +5532,7 @@ Al-Ghazali was by every indication of his writings a true mystic in the Persian 
 
 In the contemporary world, Al-Ghazali is renowned not only for his contribution to Sufism, Islam, philosophy, or education but his work and ethical approach transcends another boundary into the Islamic business practice. In the Journal of Business Ethics, authors Yusif Sidani and Akram Al Ariss explain how Islamic business ethics are governed by the writings of Abu-Hamid Al-Ghazali and even posit that Al-Ghazali is the greatest Muslim since the prophet Muhammad. Traditional Islamist's are influenced by Ghazali's writings since he was indebted to writing about and incorporating Sharia Law. They emphasize, "His mastery of philosophical logic and reasoning earned him the title of philosopher without losing his status as a religious scholar." Al-Ghazili's reasoning on the use of intellect in combination with the rational and spiritual is an integral part of Muslim society today. Therefore, they approach the business perspective with the same ideology and organizational thought.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## House of Wisdom
 
@@ -5680,8 +5573,7 @@ This is a list of notable people related to the House of Wisdom.
 
 # 10. Later History of Islamic Countries
 
-<details>
-<summary>
+<details><summary>
 
 ## 1095 - 1099: Crusader conquer Jerusalem, establish states in Palestine, Anatolia and Syria
 
@@ -5692,75 +5584,48 @@ This is a list of notable people related to the House of Wisdom.
 1099 Crusaders conquer Jerusalem
      Crusaders establish four Crusader states in Palestine, Anatolia and Syria
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1187: Saladin defeats the Crusaders and restores Jerusalem to Islam
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1198: Fylasuf ibn Rushd
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1205-87: Sultanate of Delhi
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1220-31: First Mongol raids with immense destruction of cities
 
 </summary>
 The Golden Horde mongols rule the lands north of Caspian and Black Sea and then convert to Islam.
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1240: Sufi philosopher Muid ad-Din Al-Arabi
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1258: Mongols destroy Baghdad
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1273: Jalal al-Din Rumi in Anatolia, founder of Whirling Dervishes
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1288: Osman, a ghazi, on the Byzantine frontier, founds the Ottoman dynasty in Anatolia
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1328: Ahmad ibn Taymiyyah in Damascus
 
@@ -5806,78 +5671,50 @@ In the pre-modern era, Ibn Taymiyyah was considered a controversial figure withi
 The reputation and stature of Ibn Taymiyya amongst non-Ḥanbalī Sunni scholars would significantly improve between the eighteenth and twentieth centuries. From a little-read scholar considered controversial by many, he would become one of the most popular scholarly figures in the Sunni religious tradition.
 
 Ibn Taymiyya's rejection of some aspects of classical Islamic tradition are believed to have had considerable influence on contemporary militant Islamist movements such as Salafi-Jihadism. Major aspects of his teachings such as upholding the pristine monotheism of the early Muslim generations and campaigns to uproot what he regarded as shirk (idolatry); had a profound influence on Muhammad ibn Abd al-Wahhab, the founder of the Hanbali reform movement practiced in Saudi Arabia, and on other later Sunni scholars. Syrian Salafi theologian Muhammad Rashid Rida (d. 1935 C.E/ 1354 A.H), one of the major modern proponents of his works, designated Ibn Taymiyya as the Mujaddid (renewer) of the Islamic 7th century of Hijri year. Ibn Taymiyyah's doctrinal positions on the necessity of an Islamic political entity and his controversial fatwas, such as his Takfir (declaration of unbelief) of the Mongol Ilkhanates, allowing jihad against other self-professed Muslims, are referenced by al-Qaeda and other jihadist groups to justify militant overthrowal of contemporary governments of the Muslim world.
-
 </span>.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1334-53: Yusuf, king of Granada in Spain, builds Alhambra
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1406: Faylasuf and historian ibn Khaldun
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1453: Mehmed II conquers Constantinople, henceforth known as Istanbul
 
 </summary>
 1453: Mehmed II conquers Constantinople, henceforth known as Istanbul, and makes it the capital of the Ottoman Empire
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1492: The Muslim Kingdom of Granada is conquered by the Catholics
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1502-24: Ismail conquers Iran and establishes Shiism as the official religion
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1517: Ottomans conquer Egypt and Syria from the Mamluks
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1520-66: Suleiman "the Magnificent" expands the Ottoman Empire and develops its distinctive institutions
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1529: The Ottomans besiege Vienna
 
 </summary>
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1552: The Russians conquer Kazan and Volzhsk Bulgaria
 
@@ -5893,22 +5730,16 @@ After his conquest of Kazan, Ivan IV is said to have ordered the crescent, a sym
 
 Later in history of Tatars, several occasions of forceful Christianization occured followed by Soviet Union that prohibited any religion.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## 1556: The Russians conquer Astrakhan
 
-</summary>
-</details>
+</summary></details>
 
 # 11. Current State of the Islamic World
-
 *******************************************
 
-<details>
-  <summary><b>Islamic Countries</b></summary>
+<details><summary>Islamic Countries</summary>
 
 This must be derived into a separate article. 
 
@@ -6124,41 +5955,41 @@ everything in ad-dunya is cursed except the remembrance of Allah and whoever are
 
 https://wise-web.org/2020/09/06/isa-as-second-coming/ 
 
-While the Mahdī is ruling as the Imām or Khalīfah of the Muslims, and preparing for battle against the forces of the Dajjāl in Syria, shortly after having conquered Constantinople, ʿĪsā b. Maryam (AS) will return to earth. He will descend close to the white minaret to the east of Damascus just before Fajr time.[12]
+While the Mahdī is ruling as the Imām or Khalīfah of the Muslims, and preparing for battle against the forces of the Dajjāl in Syria, shortly after having conquered Constantinople, ʿĪsā b. Maryam (AS) will return to earth. He will descend close to the white minaret to the east of Damascus just before Fajr time.
 
-The Mahdī and others will ask him to lead them in prayer but he will refuse saying, ‘Your Imām should lead,[14] as a grace from Allāh.’”[15]
+The Mahdī and others will ask him to lead them in prayer but he will refuse saying, ‘Your Imām should lead, as a grace from Allāh.’”
 
-After they have prayed Fajr, the Muslims will go out to face him;[20] this will be the final battle fought between them and the armies of the Dajjāl. The very fragrance of the breath of ʿĪsā will kill any disbeliever it reaches, and it will extend out for as far as the eye can see.[21] The battle will be so fierce that the forces of the Dajjāl will flee and hide behind boulders and trees, but those boulders and trees themselves will cry out, ‘Muslims, there is a Jew behind me, come kill him!’[22] except for the Gharqad tree because that is a tree of the Jews.[23]
+After they have prayed Fajr, the Muslims will go out to face him; this will be the final battle fought between them and the armies of the Dajjāl. The very fragrance of the breath of ʿĪsā will kill any disbeliever it reaches, and it will extend out for as far as the eye can see. The battle will be so fierce that the forces of the Dajjāl will flee and hide behind boulders and trees, but those boulders and trees themselves will cry out, ‘Muslims, there is a Jew behind me, come kill him!’ except for the Gharqad tree because that is a tree of the Jews.
 
-As soon as the Dajjāl sees ʿĪsa (AS), he will start to dissolve just like salt dissolves in water and run away. ʿĪsā (AS) will pursue him and kill the Dajjāl with his lance at the gate of a place called Ludd (near Tel Aviv, in today’s Israel).[24] He will show the blood on his lance to those around him,[25] proving conclusively that he was just a human being and in no way divine.
+As soon as the Dajjāl sees ʿĪsa (AS), he will start to dissolve just like salt dissolves in water and run away. ʿĪsā (AS) will pursue him and kill the Dajjāl with his lance at the gate of a place called Ludd (near Tel Aviv, in today’s Israel). He will show the blood on his lance to those around him, proving conclusively that he was just a human being and in no way divine.
 
-He will be a judge, fair and even-handed. He will break the cross,[29] literally and symbolically proving once and for all the falsehood of Christianity; destroying their symbol. He will abolish the jizya,[30] and kill all swine.[31]
+He will be a judge, fair and even-handed. He will break the cross, literally and symbolically proving once and for all the falsehood of Christianity; destroying their symbol. He will abolish the jizya, and kill all swine.
 
-Wealth will become abundant, flowing so copiously throughout the lands that there will be none to accept it if offered in charity,[32] even the most valuable camels will be left untended because people are just not concerned about their worth anymore.[33] At that time a single prostration will be worth more than the earth and all that it contains.[34] Abū Hurayrah, after quoting this ḥadīth, commented, ‘Recite if you want,
+Wealth will become abundant, flowing so copiously throughout the lands that there will be none to accept it if offered in charity, even the most valuable camels will be left untended because people are just not concerned about their worth anymore. At that time a single prostration will be worth more than the earth and all that it contains. Abū Hurayrah, after quoting this ḥadīth, commented, ‘Recite if you want,
 
 وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ ۖ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
 
-There is not one of the People of the Book who will not believe in him before his death, and on the Day of Resurrection he will be a witness against them.[35]’[36]
+There is not one of the People of the Book who will not believe in him before his death, and on the Day of Resurrection he will be a witness against them.’
 
-He added, ‘Meaning that they will believe in him before he dies.’[37]
+He added, ‘Meaning that they will believe in him before he dies.’
 
-He will call the people to Islām and during his time, Allāh will end all religions except Islām.[38] Safety will fill the earth, so much so that the lions will mingle with camels, tigers with cattle and wolves with sheep. Children will play with snakes, and they will not harm them,[39] the sting or poison of every such animal will have been taken away.[40] Rancour, hatred and envy will disappear[41] for a time.
+He will call the people to Islām and during his time, Allāh will end all religions except Islām. Safety will fill the earth, so much so that the lions will mingle with camels, tigers with cattle and wolves with sheep. Children will play with snakes, and they will not harm them, the sting or poison of every such animal will have been taken away. Rancour, hatred and envy will disappear for a time.
 
-After the Yaʾjūj and Maʾjūj (discussed next) are killed, the time of Jihād will have ended,[42] and so swords will be taken as scythes, the sky will bring down rain, the earth will freely grow its produce[43] and people will take to tilling the land.
+After the Yaʾjūj and Maʾjūj (discussed next) are killed, the time of Jihād will have ended, and so swords will be taken as scythes, the sky will bring down rain, the earth will freely grow its produce and people will take to tilling the land.
 
-ʿĪsā (AS) will perform Ḥajj or ʿUmrah, saying the talbiyah from Rawḥāʾ (a place on the way to Mecca from Medina).[44]
+ʿĪsā (AS) will perform Ḥajj or ʿUmrah, saying the talbiyah from Rawḥāʾ (a place on the way to Mecca from Medina).
 
-eople will flee in terror, barricading themselves and their livestock in cities and fortresses. Once all the people have fled, and Yaʾjūj and Maʾjūj reach Bayt al-Maqdis,[56] they will say, ‘This is the people of earth sorted.’ They will then shoot arrows and spears into the sky which will fall back down covered in blood, and they will claim that they have killed the inhabitants of the heaven.[57]
+eople will flee in terror, barricading themselves and their livestock in cities and fortresses. Once all the people have fled, and Yaʾjūj and Maʾjūj reach Bayt al-Maqdis, they will say, ‘This is the people of earth sorted.’ They will then shoot arrows and spears into the sky which will fall back down covered in blood, and they will claim that they have killed the inhabitants of the heaven.
 
-ʿĪsā and his companions will withdraw to Mount Ṭūr after Allāh tells them that they have no hope of defeating Yaʾjūj and Maʾjūj and there, they will be besieged; food will become so scarce that the head of an ox would be dearer to them than one hundred dīnārs.[58]
+ʿĪsā and his companions will withdraw to Mount Ṭūr after Allāh tells them that they have no hope of defeating Yaʾjūj and Maʾjūj and there, they will be besieged; food will become so scarce that the head of an ox would be dearer to them than one hundred dīnārs.
 
-ʿĪsā and his companions will make duʿā to Allāh[59] and eventually Allāh will send a type of worm to the back of their necks which will kill them, and they will die like locusts piled one on top of the other. The Muslims will awake the next day and hear no sound from them and so send one of their own to investigate what has happened. He will return and give them the glad tidings that the enemy has died. The Muslims will then leave and find that there is not even a hand span of land that is free of their corpses.[60] They will let loose their animals to graze, but having nothing to eat, they will instead grow fat on their flesh, as if they were grazing on the best vegetation they ever found.[61] The earth will fill with the stench of their rotting corpses, and ʿĪsā will again make duʿā for relief. Allāh will send birds with necks like the necks of Bactrian camels, which will pick them up and throw them wherever He wills. Then Allāh will send down rain that will wash them away into the sea, and clean house and earth until it is left like a smooth rock or mirror.[62] Then it will be said to the earth, ‘Bring forth your fruits and bring back your blessings.’ On that day a group of people will eat from a (single) pomegranate and it will suffice them, and they will seek shelter beneath its skin. Allah will bless a milk-camel so that it will be sufficient for a large number of people, and a milk-cow will be sufficient for a whole tribe and a milk-ewe will be sufficient for a whole clan.[63]
+ʿĪsā and his companions will make duʿā to Allāh and eventually Allāh will send a type of worm to the back of their necks which will kill them, and they will die like locusts piled one on top of the other. The Muslims will awake the next day and hear no sound from them and so send one of their own to investigate what has happened. He will return and give them the glad tidings that the enemy has died. The Muslims will then leave and find that there is not even a hand span of land that is free of their corpses. They will let loose their animals to graze, but having nothing to eat, they will instead grow fat on their flesh, as if they were grazing on the best vegetation they ever found. The earth will fill with the stench of their rotting corpses, and ʿĪsā will again make duʿā for relief. Allāh will send birds with necks like the necks of Bactrian camels, which will pick them up and throw them wherever He wills. Then Allāh will send down rain that will wash them away into the sea, and clean house and earth until it is left like a smooth rock or mirror. Then it will be said to the earth, ‘Bring forth your fruits and bring back your blessings.’ On that day a group of people will eat from a (single) pomegranate and it will suffice them, and they will seek shelter beneath its skin. Allah will bless a milk-camel so that it will be sufficient for a large number of people, and a milk-cow will be sufficient for a whole tribe and a milk-ewe will be sufficient for a whole clan.
 
-The time of war will have come to an end,[64] and the Muslims will use the shields, bows and arrows of the Yaʾjūj and Maʿjūj as firewood for seven years.[65] And they will once again make Ḥajj and ʿUmrah at the Kaʿbah.[66]
+The time of war will have come to an end,[64] and the Muslims will use the shields, bows and arrows of the Yaʾjūj and Maʿjūj as firewood for seven years. And they will once again make Ḥajj and ʿUmrah at the Kaʿbah.
 
 ʿĪsā (AS) Passes Away
 
-ʿĪsā (AS) will remain on earth for forty years after killing the Dajjāl and then pass away. The Muslims will offer the funeral prayer for him,[67] and bury him.[68]
+ʿĪsā (AS) will remain on earth for forty years after killing the Dajjāl and then pass away. The Muslims will offer the funeral prayer for him, and bury him.
 
 </details>
 
@@ -6171,9 +6002,7 @@ The Smoke is mentioned in the Quran.
     "Then wait for the Day when the sky will bring a visible smoke, covering the people; this is a painful torment. [They will say], “Our Lord, remove from us the torment; indeed, we are believers.” How can they be reminded when a messenger has already come to them, making things clear."
     Quran surah Ad Dukhan
 
-</details>
-
-<details>
+</details><details>
     <summary>The Sun will come up from the West 🌄</summary> 
 and since then, the repentance will not be anymore accepted.
 </details>
@@ -6189,9 +6018,7 @@ The Beast of the Earth (Arabic: دَابَّة الأَرْض, romanized: Dābba
 
 Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
 
-</details>
-
-<details>
+</details><details>
   <summary>the fire will come out and it will spread.
 </summary> 
 The fire will come out and it will spread, making people come to the destination where the Judgement will take place.
@@ -6202,8 +6029,7 @@ The fire will come out and it will spread, making people come to the destination
 
 *******************************************
 
-<details>
-    <summary>What happens after The End</summary> 
+<details><summary>What happens after The End</summary> 
 Allahu 'Alim.
 
 There is no explicit order of events in the Quran and Sunna
@@ -6218,14 +6044,7 @@ The Scales (Al Mizan)
 
 He didn't mention thta Allah and angels will come in rows, the blowing of the trumpet, Shafagha, seeing of Allah, The Cistern (the pool), Sirat, Wurud, The Qantara (open area in front of Jannah).
 
-
-
-
-
-</details>
-
-<details>
-  <summary>
+</details><details><summary>
 
 ## Death. What happens when people die
 
@@ -6322,10 +6141,7 @@ A righteous believer will respond correctly, saying that their Lord is Allah, th
 
 Muslims believe that a person will correctly answer the questions not by remembering the answers before death but by their iman (faith) and deeds such as salat (prayer) and shahadah (the Islamic profession of faith).
 
-</details>
-
-<details>
-  <summary>
+</details><details><summary>
 
 ## Israfil Blows the Trumpet the first time (Destruction)
 
@@ -6350,10 +6166,7 @@ On the other hand, a Hadeeth reads: “Then the Trumpet will be blown, and no on
 Quran says that the veil will be removed and people will be able to see the unseen.
 sky will be opened.
 
-</details>
-
-<details>
-  <summary>
+</details><details><summary>
 
 ## The Earth is destroyed
 
@@ -6382,12 +6195,15 @@ In another version, eight angels who carry the Throne of Allah die before the An
 
 Sime scholars 
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## Second blow of the trumpet (Resurrection of the Dead)
 
 </summary>
+
+    And man (mockingly) asks: "Will I really be raised back to life after I die?"
+    Does man not remember that We created him (once) before, when he was nothing?
+    So I swear by your Lord, We will most certainly gather all of them again -- and the Shayatin -- and bring them around Jahannam on their knees...
 
 The first resurrected creatures will the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
 The second blow will signal the resurrection from the dead all creatures that were once alive.
@@ -6400,6 +6216,8 @@ The Judgement will not start for a long time, maybe thousands of years. People w
 Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, nafsi.
 And finally they will come to the prophet Muhammad ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad ﷺ    will say "This is a job for me".
 
+[The Day of Judgement lectures by  sheikh Yasir Qadhi](https://www.youtube.com/watch?v=sg0IlOvTklI&list=PLYZxc42QNctXqgEpxF8L-ZItU3uBAjtOR&index=6)
+
 there is a hadith that says that the prophet Muhammadﷺ   will be resurrected and he will see that Musa is already holding to the Throne of Allah.
 
 the first person to hear the trumpet will be a man who is giving water to his camel and he will fall dead. and all the rest will fall dead.
@@ -6410,8 +6228,67 @@ the first trumpet will be blown at the time where there are no muslims left
 
 there will be a slight rain and men will start resurrecting, bodies will start coming out of the graves.
 
-</details>
-<details><summary>
+Some people will be resurrected upside down. the prophet Muhammad said Allah who caused men walking on their legs will cause them walk on ther faces.
+Surah Isra.
+some will be resureccted deaf and blind. some of those who rejected signs will be resurrected in this manner.
+
+People will see Jahannam.
+
+ibn Abbas said that Judgement Day is a very very long day.
+it will feel like many many lifetimes. ibn Abbas said to the Harajite that the punishment willl be in stages.
+
+Shahid will be resurrected with their scars red as blood and they will smell of musk.
+
+People who died in ihram will be resurrected in ihram.
+
+Arrogant people will be resurrected as small as ants.
+
+People will be recognized for what they used to do in this dunya.
+The one who made athan will be known. 
+
+People will resurrected naked and later some of people will be clothed.
+
+The first to come out of the grave is prophet Muhammad SAW. The first to be clothed will be Ibrahim AS.
+
+All animals will be resurrected to make sure that jusice is done completely. After hisab of animals, they will turn to dust. some people who commited injustice will wish to be perished to dust as those animals.
+
+Some transformations of the earth will take place.
+Hadith says people will be resurrected on a land pure white and clean and flat, no any hills, and markings. it will be strenched as far as the eye can see. a pure land upon which no sin is commited.
+
+The one who calls, his voice will be hear, the one who wants to see will be seen.
+
+creations will be in a state of fear and panic. Their necks are stretched, their hearts are empty in their chests, their eyes are glazed.
+
+the ones who rejected prophet Muhammad will wish that the aerth swallowed them.
+
+Quran says "Don't ever think that Allah is unaware" the Justice will be done.
+
+The sun will come close to mankind and people will start to sweat according to their sinfulness. others will be in sweat by their ankles, some will be in sweat up their chest, some will drown completely in their sweat.
+
+How long will the Day of Judgement be? sura Hajj 47, 
+on a day as long as 50 thousand years. Magarij
+
+surah Sajda verse 5. There shall be an ascent 1000 years.
+
+ibn Abbas said "La adri" -- "I do not know".
+
+Hadith says the Day of Judgement will be 1000 years of your comprehension.
+
+For the mumin the Day will be like the time between Asr and Maghrib.
+
+Hadith from Abu Huraira:
+> Anyone who owns gold or silver that he doesn't pay zakat on it, that zakat will turn into fire that will be used to burn his sides in a day that will stretch to 50 thousand years. Then he will see whether he will go to Heaven or Hell.
+
+There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long.
+
+During that time people will be so exasperated, so that some will be ready to go to Jahannam.
+
+hadith:
+> Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
+
+The sun is rolled up, stars are diminished, muntaines are moving in motion, when all realtionships are broken and suspended, when all animals will be gathered together, when oceans will become flames, when souls are paired up, when a child that was killed will be asked why was she killed and buried alive, when your scrolls that remained hidden are made public. when the sky is peeled away, when the fire is set ablaze, Jamah is brought close. On that Day every soul will have in front of him what that souls prepared for the Day of Judgement.
+
+</details><details><summary>
 
 ## The Judgement
 
