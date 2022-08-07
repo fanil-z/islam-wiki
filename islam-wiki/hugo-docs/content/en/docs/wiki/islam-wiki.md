@@ -229,15 +229,22 @@ Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 > So Allah ordered that it be surrounded by lusts. Then He said, ‘Return to it and Gabriel returned to it and said, ‘By Your glory, I am frightened that no one will escape from entering it.’
 > [at-Tirmidhi, abu Dawud and An-Nasa'i]
 
-### Concept
+<details id="level2"><summary>
 
+### Concept of Jannah and Jahannam
+
+</summary>
 Partly From the narration of Malik ibn Dinar and his daughter who hushed away the dragon that was chasing her father. we can derive that good deeds and sins of people are some physical entities in another dimension. Somehow these entities are combined for your punishment or your blessing in the hereafter.
 
 For example, there is a hadith that says each dhikr is a real seed of your tree 🌳 in Jannah. 
 
 Every person is only getting the result of what he has done in this dunya. His own punishment is build from his sins which with the design of Allah ﷻ obtained a certain form in Jahannam. Jahannam is designed in a way that collects all your sins and bestows upon you if Allah ﷻ  does not grant you of His mercy.
 
-### Reality of Jahannam ﷽
+</details><details id="level2"><summary>
+
+### Reality of Jahannam
+
+</summary>
 
 According to the Quran and ahadith, Jahannam seem to be a living creature that breathes, roars and has a natural desire to punish the transgressors and disbelievers.
 
@@ -257,7 +264,11 @@ Atmosphere: “Jahannam was heated for a thousand years and its fire turned red;
 
 Hutama: According to some narrations, the deepest level of the Hells. It is for the Hypocrites (Munafiqin).
 
+</details><details id="level2"><summary>
+
 ### Jannah -- The Paradise
+
+</summary>
 
 Jannah is above the seven heavens.
 
@@ -275,7 +286,11 @@ Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompan
 
 Jannah is described as an eternal dwelling (Q3:136), with its supreme felicity and greatest bliss being God's good pleasure (Q9:72).
 
-#### Names of Jannah
+</details><details id="level2"><summary>
+
+### Names of Jannah
+
+</summary>
 
 * Firdaws – The Highest Gardens of Paradise (al-Kahf, Al-Mu’minoon)
 * Jannatul Aliyah (suras Haqqah, Ghashiyah)
@@ -301,8 +316,7 @@ According to hadith, there are eight doors of Jannah. Their names are as followi
 * Bāb al-Kāẓimīn al-Ghayẓ wa-al-‘Āfīn ‘an al-Nās: For those who withheld their anger and forgave others
 * Bāb al-Aymān: For those who by virtue of their faith are saved from reckoning and chastisement
 * Bāb al-Dhikr: For those who showed zeal in remembering Allah
-
-</details><details><summary>
+</details></details><details><summary>
 
 ## Creation of the Heavens and the Earth 🌍
 
@@ -1944,6 +1958,8 @@ Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Alt
 
 </summary>
 
+> Early years of the 2nd millennium BCE.
+
 In Islam, Mūsā ben ʿEmrān (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.
 
 According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of prophet Muhammadﷺ  , and Muslims consider many aspects of the two individuals' lives to be shared. Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution — of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.
@@ -2362,11 +2378,9 @@ They went on increasing their offer and the mother kept on refusing. Finally the
     Then after that your hearts were hardened and became as stones or even worse in hardness. And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which fall down for fear of Allah. And Allah is not unaware of what you do. 
     Quran Ayah 2:67-74
 
-</details></details><details><summary>
+</details>
 
 #### Korah (Qaroun) refuses to pay zakat
-
-</summary>
 
 Moses began to face a difficult situation. He had to confront Pharaoh's anger and his plots, while at the same time he had to deal with the mutiny of his people. In the midst of all this, Korah (Qaroun) moved.
 
@@ -3482,11 +3496,23 @@ It is important to take into account that the Bible cannot be fully called the W
 
 <details><summary>
 
-## Arabia Before Islam
+## Arabia Before Islam [TBD]
 
 </summary>
 
 ### Descendants of Ibrahim and Ismail
+
+Arabia before Islam
+Jaahiliyah
+Tribes worship idols around the Kaaba
+Jurhumites bury Zamzam
+
+Quraish tribes are united by Qusay
+Quraish take control of Mecca
+Quraish feed pillgrims that come to Kaaba
+Hashim tells people to build houses in the Kaaba region
+Hashim established Mecca as a caravan route stop
+Abd-Al Muttalib rediscovers Zamzam well
 
 For details, see (Arabia before Islam)[https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/arabia-islam].
 
@@ -3497,8 +3523,6 @@ Hadith from Sahih Muslim, the prophet Muhammad ﷺ    said:
 > He chose Banu Hashim from Quraish.
 > He chose me from Banu Hashim.
 
-Kinanah was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
-
 <img src="/pre-islamic-arabia.PNG" alt="Early Expansion"> 
 
 Arab traditions relating to the origins and classification of the Arabian tribes is based on biblical genealogy. The general consensus among 14th-century Arabic genealogists was that Arabs were three kinds:
@@ -3508,7 +3532,7 @@ Arab traditions relating to the origins and classification of the Arabian tribes
 
 The several different tribes throughout Arabian history are traditionally regarded as having emerged from two main branches: the Rabiah, from which amongst others the Banu Hanifa emerged, and the Mudhar, from which amongst others the Banu Kinanah (and later Muhammad's own tribe, the Quraysh) emerged.
 
-Tribes of pre-Islamic Arabia:
+Main tribes of pre-Islamic Arabia:
 
 * Ghifar
 * Ghatafan
@@ -3546,13 +3570,13 @@ Many family trees have been presented by Adnan, which did not agree about the nu
 570 years passed between Isa and the prophet Muhammad ﷺ  .
 
 <img src="/prophet_muhammad_ancestors.PNG" alt="Ancestors of Prophet Muhammad ﷺ  ">
-
+Kinanah was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
 * The Quraish was the best and the Bani Hashim tribe was the best, the most noble tribe.
 * Mudr was the first to use camels into caravans.
 * Kinanah was noble. People used to do Hajj to meet Kinana. He was a legendary Arab full of knowledge. from Kinana Allah chose Quraish. 
 * One person who combines all Quraish is Fahr. All ten people who are promised Paradise in the hadith are from Quraish. There are about 12 tribes of Quraish. 
 
-**Khusay** gathered Quraish reclaimed Mecca for Quraish and made the rules of Kaaba and hospitality and storing of the key and water. There was no **Zamzam** at that time. When Khuzahah attacked Jurhum, people buried the well of Zamzam. for over 300 years people were forced to dig wells from other places.
+**Khusay** gathered Quraish tribes, reclaimed Mecca for Quraish and made the rules of Kaaba and hospitality and storing of the key and water. There was no **Zamzam** at that time. When Khuzahah attacked Jurhum, people buried the well of Zamzam. for over 300 years people were forced to dig wells from other places.
 
 **Hashim** extablished trading between Basra and Yemen. Hashim became wealthy. Hashim fed the pilgrims. The surah Quraish is about those seasonal caravans. it wasnot allowed to rob Quraish caravans because they protected the Qaaba. One of wives of Hashim was from Yathrib. So the prophet Muhammad ﷺ    had blood relations with the Ansar.  
 
@@ -3680,18 +3704,40 @@ A chieftan from Kuza'ah when coming back from Syria asked the Moabites(or the gi
 After idols were placed around the Kaaba, Jews ceased to visit the temple of Abraham. 
 
 </details><details><summary>
+  
+## Jurhumites bury Zamzam Well
+
+</summary>
+
+After Hājar (Hagar of the Bible), the wife of the Ibrāhīm (Abraham) and their son Ismā’īl (Ishmael) had settled in Mecca, the tribe of Jurhum, happened to pass through there and agreed with Hājar that they should remain there as a new spring of fresh water had emerged at that location.[citation needed] They settled in Mecca and in the area around. Once Ismā’īl had become a youth he married a woman of the tribe of Jurhum. Ismā’īl was the custodian of the Sacred House (Ka’bah), and after he died he made his son Nābit his successor. And then after Nābit the job was given to his uncles from Jurhum, and with them were the descendants of Ismā’īl. Then Muḑāḑah ibn 'Amr al-Jurhamī assumed the burden of the affairs of the Sacred House.
+
+Jurhum's custodianship of the Sanctuary lasted for a period of time, but they then started to become weaker in faith, putting the continuing sanctity of the Sacred House at peril. They considered all the funds collected at the Sanctuary to be their property, and started to perform sinful acts within its precincts. It came to the point where a man and a woman, called Asāf and Nā’ilah, performed coitus in the Sacred House, and according to the Muslim sources Allah turned them into two stones to punish them for this sacrilegious act.
+
+Their aggression against the sanctity of the Sanctuary was the catalyst that made the Banū Bakr bin ‘Abd al-Manāf bin Kinānah, descendants of Ismā’īl, join with Khuzā’ah in fighting Jurhum and they expelled them from Mecca.
+
+After the Jurhumites had fled, Khuzā’ah became custodians of the Sacred House, passing the duty on from father to son for a long time, five hundred years it is said. The first one of Khuzā’ah to govern the Sacred House was ‘Amr bin Rabī’ah (Luḥay) who travelled to Syria-Palestine (al-Shām) to seek a cure for a disease he was suffering from; he found the people there worshiping idols, and he liked this religion, so he brought back an idol called Hubal back to Mecca and called on the people to worship it. Hubal had the figure of an old man with a long beard and was made of carnelian. Its right hand had been cut off but the Quraysh would later provide it with a hand made of gold. 'Amr ibn Rabī'ah then was the first to change the religion of the Arabs. Muslims historians consider that the people of Mecca were following the monotheistic religion of Ibrāhīm and Ismā'īl up to this point (see Hanif), when polytheism was introduced. 'Amr ibn Luḥay became very famous among the other Arab tribes, because he fed all the pilgrims to the Sacred House, and distributed Yemeni cloaks to them. Many of the tribes started to visit Mecca on pilgrimage, and took their own idols with them, placing them around the Ka'bah to worship.
+
+</details><details><summary>
 
 ## The Quraish Tribe
 
 </summary>
 
-> After Hājar (Hagar of the Bible), the wife of the Ibrāhīm (Abraham) and their son Ismā’īl (Ishmael) had settled in Mecca, the tribe of Jurhum, happened to pass through there and agreed with Hājar that they should remain there as a new spring of fresh water had emerged at that location.[citation needed] They settled in Mecca and in the area around. Once Ismā’īl had become a youth he married a woman of the tribe of Jurhum. Ismā’īl was the custodian of the Sacred House (Ka’bah), and after he died he made his son Nābit his successor. And then after Nābit the job was given to his uncles from Jurhum, and with them were the descendants of Ismā’īl. Then Muḑāḑah ibn 'Amr al-Jurhamī assumed the burden of the affairs of the Sacred House.
->
-> Jurhum's custodianship of the Sanctuary lasted for a period of time, but they then started to become weaker in faith, putting the continuing sanctity of the Sacred House at peril. They considered all the funds collected at the Sanctuary to be their property, and started to perform sinful acts within its precincts. It came to the point where a man and a woman, called Asāf and Nā’ilah, performed coitus in the Sacred House, and according to the Muslim sources Allah turned them into two stones to punish them for this sacrilegious act.
->
-> Their aggression against the sanctity of the Sanctuary was the catalyst that made the Banū Bakr bin ‘Abd al-Manāf bin Kinānah, descendants of Ismā’īl, join with Khuzā’ah in fighting Jurhum and they expelled them from Mecca.
->
-> After the Jurhumites had fled, Khuzā’ah became custodians of the Sacred House, passing the duty on from father to son for a long time, five hundred years it is said. The first one of Khuzā’ah to govern the Sacred House was ‘Amr bin Rabī’ah (Luḥay) who travelled to Syria-Palestine (al-Shām) to seek a cure for a disease he was suffering from; he found the people there worshiping idols, and he liked this religion, so he brought back an idol called Hubal back to Mecca and called on the people to worship it. Hubal had the figure of an old man with a long beard and was made of carnelian. Its right hand had been cut off but the Quraysh would later provide it with a hand made of gold. 'Amr ibn Rabī'ah then was the first to change the religion of the Arabs. Muslims historians consider that the people of Mecca were following the monotheistic religion of Ibrāhīm and Ismā'īl up to this point (see Hanif), when polytheism was introduced. 'Amr ibn Luḥay became very famous among the other Arab tribes, because he fed all the pilgrims to the Sacred House, and distributed Yemeni cloaks to them. Many of the tribes started to visit Mecca on pilgrimage, and took their own idols with them, placing them around the Ka'bah to worship.
+Arabia before Islam
+Jaahiliyah
+Tribes worship idols around the Kaaba
+Jurhumites bury Zamzam
+
+Quraish tribes are united by Qusay
+Quraish take control of Mecca
+Quraish feed pillgrims that come to Kaaba
+Hashim tells people to build houses in the Kaaba region
+Hashim established Mecca as a caravan route stop
+Abd-Al Muttalib rediscovers Zamzam well
+
+The Quraysh ( قُرَيْشٌ, ) were a grouping of Arab clans that historically inhabited and controlled the city of Mecca and its Kaaba. The Islamic prophet Muhammad was born into the Hashim clan of the tribe. The Quraysh gained their name when Qusayy ibn Kilab, a sixth-generation descendant of Fihr ibn Malik, gathered together his kinsmen and took control of the Ka'aba. Prior to this, Fihr's offspring lived in scattered, nomadic groups among their Kinana relatives.
+
+Ibn Ishaq's account reveals that Mecca in the time of Qusayy and his immediate offspring was not yet a commercial center; rather, the city's economy was based on pilgrimage to the Ka'ba, and "what pass[ed] for municipal offices [designated by Qusayy] have to do only with military operations and with control of the shrine". During that time, the tribesmen of Quraysh were not traders; instead, they were entrusted with religious services, from which they significantly profited. They also profited from taxes collected from incoming pilgrims. Though Qusayy appeared to be the strongman of Quraysh, he was not officially a king of the tribe, but one of many leading sheikhs (tribal chieftains).
 
 ### Qusayy ibn Kilay
 
@@ -3701,20 +3747,20 @@ After idols were placed around the Kaaba, Jews ceased to visit the temple of Abr
 
 At that time, Khuza'ah was controlling Mecca. Qusayy ibn Kilay from Quraish married chieftan's daughter and after the chieftan died, people wanted Qusayy to take over so he united Quraish tribes and fought against sons of Khuzagha chieftan and reclaimed the control over Mecca for the Quraish.
 
-Qusayy was the great-great-greatfather of the Prophet Muhammad ﷺ  . after battles it was agreed that Qusay from Quraish must be the guardian of the Kaaba. They were receiving taxes, feeding the pilgrims and living in tents. Qusayy told them to build houses. His hidden qualities enabled him to establish his superiority over the Makkans and especially the tribe of Quraysh. Within a short time he acquired the high governmental offices in Makkah and also became the custodian of the keys of the Ka'bah and the undisputed ruler of that city.
+Qusayy was the great-great-greatfather of the Prophet Muhammad ﷺ  . after battles it was agreed that Qusay from Quraish must be the guardian of the Kaaba. They were receiving taxes, feeding the pilgrims and living in tents. Qusayy told them to build houses. His hidden qualities enabled him to establish his superiority over the Meccans and especially the tribe of Quraysh. Within a short time he acquired the high governmental offices in Makkah and also became the custodian of the keys of the Ka'bah and the undisputed ruler of that city.
 
 Many remarkable events are associated with his name. One of these was that he encouraged the people to construct a house with the name of 'Darun Nadwah' adjacent to the Ka'bah and thus founded a Council Hall for the Arabs so that their dignitaries and chiefs might sit together in this public centre and solve their problems. He died in the 5th A.D. and left behind two sons named Abdud Dar and Abd Manaf.
 
 # PROFREADINGPRROFREADINGPROOFREADING
 
-### Hashim
+### 464–497: Hashim
 
-Hashim is a son of Abd Manaf ibn Qusay.
-his name is Amr. Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. married an influential Yathrib woman from Khazraj. He fell ill and died in Gaza. (Surah Quraish mentions these caravans.)
-the silk road was going through Basra. So Hashim hooked to the Silk Road and connected Yemen and Basra. and in the middle was Mecca. and Mecca had people who would come to Hajj, so there was the market.
+Hashim was a son of Abd Manaf ibn Qusay. Hāshim ibn ʿAbd Manāf, born ʿAmr al-ʿUlā, was the great-grandfather of the Islamic prophet Muhammad and the progenitor of the ruling Banu Hashim clan of the Quraysh tribe in Mecca.  Hashim was the father of Abdul Muttalib. He established caravans to Yemen and Syria. 
+
+The silk road was going through Basra. So Hashim hooked to the Silk Road and connected Yemen and Basra. and in the middle was Mecca. and Mecca had people who would come to Hajj, so there was the market.
 
 and it was a safe route because of Mecca was a holy sight.
-One of Hashim's wives was from Yathrib.
+Surah Quraish mentions these caravans.
 
     For the accustomed security of the Quraysh –
     Their accustomed security [in] the caravan of winter and summer –
@@ -3722,30 +3768,59 @@ One of Hashim's wives was from Yathrib.
     Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.
     Quran, surah Quraish
 
+Hashim married an influential Yathrib woman from Khazraj. So, prophet Muhammad had blood realtions with the Ansar.
 
-</details>
+Hashim was the son of Abd Manaf, who argued with his brother 'Abd ad-Dar over the inheritance. 'Abd ad-Dar was supported by their cousins Makhzum, Sahm, Jumah, their uncle Adi and their families. Abd Manaf contested his inheritance and was supported by their nephew Asad, their uncle Zuhrah ibn Kilab, their father's uncle Taym ibn Murrah, and al-Harith ibn Fihr. The effects of this conflict continued among their descendants, especially and affected the internal history of Mecca right up to Muhammad's time.
 
-<details>
-<summary>
+The conflict escalated under Hashim, who demanded that the rights be transferred from the clan of Abd ad-Dar to his clan. Those who supported Hashim and his brothers were the descendants of Zuhrah and Taym ibn Murrah, and all Qusay's descendants except those of the eldest line. The descendants of Makhzum and of the other remoter cousins maintained that the rights should remain in the family of Abd ad-Dar.
 
-## Abd'al Muttalib
+While assembled at the Ka'aba, Hashim and his brothers and all their allies dipped their hands in a bowl of rich perfume with nutmeg powder and swore that they would never abandon one another, rubbing their scented hands over the stone of the Ka'aba in confirmation of their pact. Hashim and his allies were thereafter known as the "Hilf al-Mutayyabun" ("Alliance of the Scented Ones"), while their rivals also swore an oath of union and organised themselves into the "Hilf al-Ahlaf" ("Alliance of the Confederates"). As neither side wanted a full-scale conflict, they reached a compromise whereby The Scented Ones retained control of the charity tax and the food and drink for pilgrims, where as the Confederates retained the keys to the Ka'aba and the running of the House of Assembly. Hashim's brothers agreed that he should have the responsibility of providing for the pilgrims. Their descendants in the clans named after them tended to keep this old alliance.
+
+Hashim was accepted as the overall leader, with the responsibility of providing for the pilgrims in the Ka’aba precincts, with the support of his brothers 'Abd Shams and Muttalib, and his half-brother Nawfal. The only person who challenged Hashim's authority was Umayyah, the son of his brother 'Abd Shams, but he had no real support and shifted to live out his life in Syria. Makkah became the acknowledged capital of Arabia, and markets were established around the city to deal with all the business
+
+</details><details><summary>
+
+## Abd'al Muttalib (497–578)
 
 </summary>
-His real name was Shaybah. 
-Muttalib younger brother of Hashim who took over the right of watering the pilgrims and levying the tax to feed them.
-Mutallib took Shaybah from Yathrib and brought him to Mecca.
 
-Abdull Mutallib: 1. rediscovery of Zamzam. 2. His vow to sacrifice Abdallah. 3. Battle of the Elephant. Mutallib want to claim the Zamzam prestige on his family so he prays that if Allaha gives him 10 sons to protect him, he will sacrifice one of them for Allah. The tribes decide to go to the fortuneteller to decide the destiny of Zamzam but they get lost and without food they decide that everyone should dig their own graves. so while they dig Muttalib again finds water. So tribes decide that this is the sign and claim that Zamzam is his.
-Mutallib had 18 children. 12 sons.the priestess told hom to exchange Abdallahs life for 100 camels. 
-Abrahah decided to destroy the Qaaba. 8-20elephants. 
-People left the Qaaba. and prayed. 
-The elephants stopped from entering. Then came the birds 🐦🐦🐦 with stones from Jahannam. and their skin dissolved.
-At that time Amina ra was pregnant by the prophet Muhammad  ﷺ   .
+Shayba ibn Hāshim, better known as ʿAbd al-Muṭṭalib, ('Servant of Muttalib') was the fourth chief of the Quraysh tribal confederation. He was the grandfather of the prophet Muhammad.
 
-</details>
+Hashim died young while doing business in Gaza, before Abd al-Muttalib was born. Hashim had a younger brother Muttalib, who inherited the right of watering the pilgrims and levying the tax to feed them. Mutallb took Shaybah from Yathrib and brought him to Mecca. People thought that Shaybah is a servant of Mutallib, so started calling him **Abd'al Muttalib**.
 
-<details>
-<summary>
+Abd'al Mutallib is knows for the following important occasions that affected further development of Islam: 
+1. Rediscovery of Zamzam. 
+2. Vow to sacrifice Abdallah. 
+3. Battle of the Elephant. 
+4. Taking care of prophet Muhammad, when his parents died.
+
+Abd'al Mutallib had 18 children. 12 sons.the priestess told hom to exchange Abdallah's life for 100 camels. 
+
+### Early life
+His father was Hashim ibn 'Abd Manaf, the progenitor of the distinguished Banu Hashim, a clan of the Quraysh tribe of Mecca. They claimed descent from Ismā'īl and Ibrāhīm. His mother was Salma bint Amr, from the Banu Najjar, a clan of the Khazraj tribe in Yathrib (later called Madinah). Hashim died while doing business in Gaza, before Abd al-Muttalib was born.
+
+His real name was "Shaybah" meaning 'the ancient one' or 'white-haired' because of the streak of white through his jet-black hair, and is sometimes also called Shaybah al-Ḥamd ("The white streak of praise"). After his father's death he was raised in Yathrib with his mother and her family until about the age of eight, when his uncle Muttalib ibn Abd Manaf went to see him and asked his mother Salmah to entrust Shaybah to his care. Salmah was unwilling to let her son go and Shaybah refused to leave his mother without her consent. Muṭṭalib then pointed out that the possibilities Yathrib had to offer were incomparable to Mecca. Salmah was impressed with his arguments, so she agreed to let him go. Upon first arriving in Mecca, the people assumed the unknown child was Muttalib's servant, and started calling him 'Abd al-Muttalib ("servant of Muttalib").
+
+### Chieftain of Hashim clan
+When Muṭṭalib died, Shaybah succeeded him as the chief of the Hāshim clan. Following his uncle Al-Muṭṭalib, he took over the duties of providing the pilgrims with food and water, and carried on the practices of his forefathers with his people. He attained such eminence as none of his forefathers enjoyed; his people loved him and his reputation was great among them.
+
+'Umar ibn Al-Khaṭṭāb's grandfather Nufayl ibn Abdul Uzza arbitrated in a dispute between 'Abdul-Muṭṭalib and Ḥarb ibn Umayyah, Abu Sufyan's father, over the custodianship of the Kaaba. Nufayl gave his verdict in favour of 'Abdul-Muṭṭalib. Addressing Ḥarb ibn Umayyah, he said:
+
+Why do you pick a quarrel with a person who is taller than you in stature; more imposing than you in appearance; more refined than you in intellect; whose progeny outnumbers yours and whose generosity outshines yours in lustre? Do not, however, construe this into any disparagement of your good qualities which I highly appreciate. You are as gentle as a lamb, you are renowned throughout Arabia for the stentorian tones of your voice, and you are an asset to your tribe.
+
+### Re-Discovery of Zam Zam Well
+'Abdul-Muṭṭalib said that while sleeping in the sacred enclosure, he had dreamed he was ordered to dig at the worship place of the Quraysh. There he would find the Zamzam Well, which the Jurhum tribe had filled in when they left Mecca. The Quraysh tried to stop him digging in that spot, but his son Al-Ḥārith stood guard until they gave up their protests. 
+
+After three days of digging, 'Abdul-Muṭṭalib found traces of an ancient religious well and exclaimed, "Allahuakbar!" Some of the Quraysh disputed his claim to sole rights over water, then one of them suggested that they go to a female shaman who lived afar. It was said that she could summon jinns and that she could help them decide who was the owner of the well. 
+
+So, 11 people from the 11 tribes went on the expedition. They had to cross the desert to meet the priestess but then they got lost. There was a lack of food and water and people started to lose hope of ever getting out. One of them suggested that they dig their own graves and if they died, the last person standing would bury the others. So all began digging their own graves and just as Abdul-Muṭṭalib started digging, water spewed out from the hole he dug and everyone became overjoyed. It was then and there decided that Abdul-Muttalib was the owner of the Zam Zam well. Thereafter he supplied pilgrims to the Kaaba with Zam Zam water, which was considered sacred.
+
+### Promise to sacrifice his son Abdullah
+Al-Harith was 'Abdul-Muṭṭalib's only son at the time he dug the Zamzam Well.  When the Quraysh tried to help him in the digging, he vowed that if he were to have ten sons to protect him, he would sacrifice one of them to Allah at the Kaaba. Later, after nine more sons had been born to him, he told them he must keep the vow. The divination arrows fell upon his favourite son Abdullah. The Quraysh protested 'Abdul-Muṭṭalib's intention to sacrifice his son and demanded that he sacrifice something else instead. 'Abdul-Muṭṭalib agreed to consult a "sorceress with a familiar spirit". She told him to cast lots between Abdullah and ten camels. If Abdullah were chosen, he had to add ten more camels, and keep on doing the same until his Lord accepted the camels in Abdullah's place. When the number of camels reached 100, the lot fell on the camels. 'Abdul-Muṭṭalib confirmed this by repeating the test three times. Then the camels were sacrificed, and Abdullah was spared.
+
+Later Abdullah became the father of prophet Muhammad ﷺ   .
+
+</details><details><summary>
 
 ## Battle of Elephants (Year of the Elephant) 🐘
 
@@ -3757,9 +3832,9 @@ At that time Amina ra was pregnant by the prophet Muhammad  ﷺ   .
 > 
 > Seeing a large army, people of Mecca left the city. Abdul Mutallib and the Quraish were convinced that Allah will protect the Kaaba. And Allah sent a **flock of birds** that throwed stones from Hell to Abraha's army and they all died. 
 > 
-> This happened in the year the prophet Muhammad ( ﷺ   ) was born and hence this even it was called The Year of the Elephant.
+> This happened in the year the prophet Muhammad ﷺ   was born and hence this even it was called The Year of the Elephant.
 > 
-> The prophet Muhammad ( ﷺ   ) has received a surah about this event, **surah Al-Fil**.
+> The prophet Muhammad ﷺ   has received a surah about this event, **surah Al-Fil**.
 
 The War of Elephants took place eight years before the death of Abd Al Muttalib. By then, he was the patriarch of the tribe.
 
@@ -3794,9 +3869,7 @@ Some historians have tried to minimize the impact of the Divine intervention by 
 
 This epoch-making episode happened in 570 A.D. It was in the same year that the Holy Prophet of Islam was born to Abdullah and Amina.
 
-</details>
-<details>
-<summary>
+</details><details><summary>
 
 ## Notable Monotheists
 
@@ -3807,10 +3880,9 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 </details>
 
 # 9. History of Islam ☪
-
 *******************************************
 
-# 9.1. Prophet Muhammadﷺ
+# 9.1. Prophet Muhammad ﷺ 
 
 <details>
   <summary>Short Summary</summary>
@@ -3831,8 +3903,7 @@ According to biographers, Prophet Muhammadﷺ   lived a simple and austere life 
 
 ### Meccan Period
 
-<details>
-<summary>
+<details><summary>
 
 ## **570**: The Prophet Muhammad ﷺ   is born
 
@@ -3840,10 +3911,7 @@ According to biographers, Prophet Muhammadﷺ   lived a simple and austere life 
 
 Muhammad, the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wife Aminah, was born in 570 CE, in the city of Mecca in the Arabian Peninsula. He was a member of the family of Banu Hashim, a respected branch of the prestigious and influential Quraysh tribe. Their ancestry reached the Prophet Ismael son of the Prophet Abraham, peace be upon them.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Childhood
 
@@ -6452,5 +6520,4 @@ Jewish Calendar and Orthodox Chiristians believe that people have been around th
 There are some cave paintings that are 30thousand years old. These were not Neanthertals these were Homo-Sapiens.
 
 So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet ﷺ    said that the time between now and the Day of Judgement is like his two fingers. And now it is 1443 year after Hijrah. So it gives possibility to extend the humanity timeline as long as science findings. We don't have a set timeframe.
-
 </details>

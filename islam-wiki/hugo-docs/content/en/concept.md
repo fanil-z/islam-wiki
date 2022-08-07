@@ -80,6 +80,8 @@ https://github.com/mundimark/awesome-markdown-editors
 90k words, 6000 paragraphs.
 My Ghostwriter editor says the reading time of the whole thing is 6 hours. I wonder how much time I've spent there.
 
+I need to relisten some lectures from Seerah of prophet Muhammad SAW and finish the History of Islam section.
+
 https://miro.com/app/board/o9J_kqBzhXk=/
 
 Need to do
