@@ -3551,6 +3551,13 @@ Main tribes of pre-Islamic Arabia:
 
 ### Religion 
 
+> Abu Huraira reported: The Prophet, peace and blessings be upon him, said, “I saw ‘Amra ibn ‘Amr ibn Luhayy al-Khuza’i dragging his intestines in the Hellfire. He introduced the custom of releasing animals on behalf of false gods.”
+
+> In another narration, the Prophet said, “He was the first to change the religion of Ishmael and set up idols.”
+> Source: Ṣaḥīḥ al-Bukhārī 3521
+
+‘Amr ibn Luhayy was a chieftan of the Khuza'a tribe. It is narrated that 'Amr travelled to Sirya, to the Amalkites, he found them worshipping idols. They said they pray to idols for power and when we have drought or we are under attack. 'Amr asked for an idol, they gave him Hubal.
+
 Religion in pre-Islamic Arabia included pre-Islamic Arabian polytheism, ancient Semitic religions (religions predating the Abrahamic religions which themselves likewise originated among the ancient Semitic-speaking peoples), Abrahamic religions such as Christianity, Judaism, and Mandaeism, and Iranian religions such as Zoroastrianism and Manichaeism. Arabian polytheism was, according to Islamic tradition, the dominant form of religion in pre-Islamic Arabia, based on veneration of deities and spirits. Worship was directed to various gods and goddesses, including Hubal and the goddesses al-Lāt, Al-'Uzzá and Manāt, at local shrines and temples, maybe such as the Kaaba in Mecca. Deities were venerated and invoked through a variety of rituals, including pilgrimages and divination, as well as ritual sacrifice. Different theories have been proposed regarding the role of Allah in Meccan religion. Many of the physical descriptions of the pre-Islamic gods are traced to idols, especially near the Kaaba, which is said to have contained up to 360 of them in Islamic tradition.
 
 Other religions were represented to varying, lesser degrees. The influence of the adjacent Roman and Aksumite resulted in Christian communities in the northwest, northeast and south of Arabia. Christianity made a lesser impact, but secured some conversions, in the remainder of the peninsula. With the exception of Nestorianism in the northeast and the Persian Gulf, the dominant form of Christianity was Miaphysitism. The peninsula had been a destination for Jewish migration since pre-Roman times, which had resulted in a diaspora community supplemented by local converts. Additionally, the influence of the Sasanian Empire resulted in Iranian religions being present in the peninsula. While Zoroastrianism existed in the eastern and southern Arabia, there was no existence of Manichaeism in Mecca.
@@ -3719,7 +3726,7 @@ After the Jurhumites had fled, Khuzā’ah became custodians of the Sacred House
 
 </details><details><summary>
 
-## The Quraish Tribe
+## The Quraysh Tribe
 
 </summary>
 
@@ -3750,8 +3757,6 @@ At that time, Khuza'ah was controlling Mecca. Qusayy ibn Kilay from Quraish marr
 Qusayy was the great-great-greatfather of the Prophet Muhammad ﷺ  . after battles it was agreed that Qusay from Quraish must be the guardian of the Kaaba. They were receiving taxes, feeding the pilgrims and living in tents. Qusayy told them to build houses. His hidden qualities enabled him to establish his superiority over the Meccans and especially the tribe of Quraysh. Within a short time he acquired the high governmental offices in Makkah and also became the custodian of the keys of the Ka'bah and the undisputed ruler of that city.
 
 Many remarkable events are associated with his name. One of these was that he encouraged the people to construct a house with the name of 'Darun Nadwah' adjacent to the Ka'bah and thus founded a Council Hall for the Arabs so that their dignitaries and chiefs might sit together in this public centre and solve their problems. He died in the 5th A.D. and left behind two sons named Abdud Dar and Abd Manaf.
-
-# PROFREADINGPRROFREADINGPROOFREADING
 
 ### 464–497: Hashim
 
@@ -3818,7 +3823,7 @@ So, 11 people from the 11 tribes went on the expedition. They had to cross the d
 ### Promise to sacrifice his son Abdullah
 Al-Harith was 'Abdul-Muṭṭalib's only son at the time he dug the Zamzam Well.  When the Quraysh tried to help him in the digging, he vowed that if he were to have ten sons to protect him, he would sacrifice one of them to Allah at the Kaaba. Later, after nine more sons had been born to him, he told them he must keep the vow. The divination arrows fell upon his favourite son Abdullah. The Quraysh protested 'Abdul-Muṭṭalib's intention to sacrifice his son and demanded that he sacrifice something else instead. 'Abdul-Muṭṭalib agreed to consult a "sorceress with a familiar spirit". She told him to cast lots between Abdullah and ten camels. If Abdullah were chosen, he had to add ten more camels, and keep on doing the same until his Lord accepted the camels in Abdullah's place. When the number of camels reached 100, the lot fell on the camels. 'Abdul-Muṭṭalib confirmed this by repeating the test three times. Then the camels were sacrificed, and Abdullah was spared.
 
-Later Abdullah became the father of prophet Muhammad ﷺ   .
+Later, Abdullah became the father of prophet Muhammad ﷺ   .
 
 </details><details><summary>
 
@@ -3828,19 +3833,19 @@ Later Abdullah became the father of prophet Muhammad ﷺ   .
 
 > SHORT VERSION:
 > 
-> **The Ethiopian governor Abraha** envied pilgrims of Mecca and built a big Christian cathedral in Sanaa. But Arabs didnot change the direction of their pilgrimage. Then, Abraha gathered a **large army with war elephants** 🐘🐘🐘 and marched to destroy Kaaba.
+> **The Ethiopian governor Abraha** envied pilgrims of Kaaba in Mecca and built a big Christian cathedral in Sanaa. But Arabs didnot change the direction of their pilgrimage. Then, Abraha gathered a **large army with war elephants** 🐘🐘🐘 and marched to destroy Kaaba.
 > 
-> Seeing a large army, people of Mecca left the city. Abdul Mutallib and the Quraish were convinced that Allah will protect the Kaaba. And Allah sent a **flock of birds** that throwed stones from Hell to Abraha's army and they all died. 
+> Seeing a large army, people of Mecca left the city. Abdul Mutallib and the Quraish were convinced that Allah will protect the Kaaba. And Allah sent a **flock of birds** that throwed stones from Hell to Abraha's army until the army was destroyed. 
 > 
-> This happened in the year the prophet Muhammad ﷺ   was born and hence this even it was called The Year of the Elephant.
+> This happened in the year the prophet Muhammad ﷺ   was born and hence this event, it was called The Year of the Elephant.
 > 
 > The prophet Muhammad ﷺ   has received a surah about this event, **surah Al-Fil**.
 
-The War of Elephants took place eight years before the death of Abd Al Muttalib. By then, he was the patriarch of the tribe.
+The War of Elephants took place eight years before the death of Abd Al Muttalib. By then, he was the chieftan of the Quraysh tribe.
 
 The Ethiopian governor of Yemen, Abraha al-Ashram, envied the reverence in which the Ka'bah was held by the Arabs. Being a staunch Christian, he built a big cathedral in Sanaa (the capital of Yemen) and ordered the Arabs to go there for pilgrimage instead. The order was ignored. Not only that; someone entered the cathedral and made it unclean. The wrath of Abraha knew no bounds. In his fury, he decided to avenge it by demolishing and desecrating the Ka'bah itself. He advanced with a large army towards Mecca.
 
-There were many elephants in his army; he himself rode a huge elephant. It was an animal which the Arabs had not seen before, thus the year came to be known as 'Amul-Fil (the year of the elephant), and it started an era for reckoning the years in Arabia. This remained in use until the days of 'Umar ibn al ­Khattab when, on the advice of Hazrat 'Ali ibn Abi Talib, he replaced it with the era of Hijra.
+There were many elephants in his army; he himself rode a huge elephant. It was an animal which the Arabs had not seen before, thus the year came to be known as 'Amul-Fil (the year of the elephant), and it started an era for reckoning the years in Arabia. This remained in use until the days of 'Umar ibn al ­Khattab when, on the advice of 'Ali ibn Abi Talib, he established the Islamic calendar and took the year of Hijra as the beginning.
 
 When news of the advance of Abraha's army came, the Arabian tribes of Quraish, Kinanah, Khuza'ah and Hudhayl joined together to defend the Ka'bah. Abraha sent a small contingent towards Mecca to capture the camels and young people. The contingent captured many animals, including two hundred of 'Abdul-Muttalib's.
 
@@ -3865,17 +3870,25 @@ It is to this important event that Allah refers in Chapter 105:
     "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the Elephant? Did He not make their treacherous plan go astray? And He sent against them birds in flocks, striking them with stones of baked clay, so He rendered them like straw eaten up."
     Quran, 105 Surah Al-Fil
 
-Some historians have tried to minimize the impact of the Divine intervention by suggesting that the army perished because of an epidemic of smallpox. But such an explanation creates more puzzles than it solves. How was it that the whole army was seized by that epidemic just when it was advancing on the Ka'bah? How was it that not a single soldier survived that epidemic? Why was it that no Meccan caught that contagious epidemic? Moreover, if there was no epidemic in Mecca before or after that sudden burst of the plague, where did the epidemic come from?
-
 This epoch-making episode happened in 570 A.D. It was in the same year that the Holy Prophet of Islam was born to Abdullah and Amina.
 
 </details><details><summary>
 
+# PROFREADINGPRROFREADINGPROOFREADING
+
 ## Notable Monotheists
 
 </summary>
-* **Zayd ibn Amr** told priests and jews that this is not the religion of Ibrahim. he adopted girls who otherwise would be killed by their tribes. (Said ibn Zayd is one of the ten promised Paradise. One-man ummah.)
-* **Waraqa ibn Naufal** was the first Muslim. He converted to Christianity before.
+
+### Zayd ibn Amr
+**Zayd ibn Amr ibn Nufayl** (died 605) was a monotheist who lived in Mecca shortly before Islam.
+
+He told priests and jews that this is not the religion of Ibrahim. he adopted girls who otherwise would be killed by their tribes. (Said ibn Zayd is one of the ten promised Paradise. One-man ummah.)
+
+### Waraqa ibn Naufal
+**Waraqa ibn Naufal** was the paternal first cousin of Khadija bint Khuwaylid, the first wife of the Islamic prophet Muhammad. He was considered to be a hanif, who practised the pure form of monotheism in the pre-Islamic era. Waraqah presumably died in 610 CE, shortly after Muhammad is said to have received his first revelation.
+
+Waraqah is revered in Islamic tradition for being one of the first hanifs to believe in the prophecy of Muhammad.
 
 </details>
 
@@ -4592,6 +4605,10 @@ On 29 November 629 (6th of Ramadan, 8 AH), Muhammad set out with 10,000 companio
 He then destroyed the idols – placed in and around the Kaaba – reciting the Quranic verse: "Say, the truth has arrived, and falsehood perished. Verily, the falsehood is bound to perish" (Quran 17:81). William Muir comments, "The magnanimity with which Muhammad treated a people who had so long hated and rejected him is worthy of all admiration."
 
 ### Destroying idols in Kaaba
+
+Narrated `Abdullah bin Mas`ud:
+
+The Prophet (ﷺ) entered Mecca and (at that time) there were three hundred-and-sixty idols around the Kaaba. He started stabbing the idols with a stick he had in his hand and reciting: "Truth (Islam) has come and Falsehood (disbelief) has vanished."
 
 ### Bilal climbs up the roof of Kaaba and says the adhan
 
