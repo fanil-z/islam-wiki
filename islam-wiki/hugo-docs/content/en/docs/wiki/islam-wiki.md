@@ -3641,11 +3641,11 @@ The period in the Arabian history which preceded the birth of Islam is known as 
 
 4. Sabines. They worshipped the stars.
 
-5. Jews When the Romans destroyed Jerusalem in A.D. 70, and drove the Jews out of Palestine and Syria, many of them found new homes in Hijaz in Arabia. Under their influence, many Arabs also became converts to Judaism. Their strong centers were the towns of Yathrib, Khayber, Fadak and Umm-ul-Qura.
+5. Jews When the Romans destroyed Jerusalem in A.D. 70, and drove the Jews out of Palestine and Syria, many of them found new homes in Hijaz in Arabia. Under their influence, many Arabs also became converts to Judaism. Their strong centers were the towns of Yathrib, Khaybar, Fadak and Umm-ul-Qura.
 
 6. Christians. The Romans had converted the north Arabian tribe of Ghassan to Christianity. Some clans of Ghassan had migrated to and had settled in Hijaz. In the south, there were many Christians in Yemen where the creed was originally brought by the Ethiopian invaders. Their strong center was the town of Najran.
 
-7. Monotheists There was a small group of monotheists present in Arabia on the eve of the rise of Islam. Its members did not worship idols, and they were the followers of the Prophet Abraham. The members of the families of Muhammad, the future prophet, and Ali ibn Abi Talib, the future caliph, and most members of their clan – the Banu Hashim – belonged to this group.
+7. Monotheists There was a small group of monotheists present in Arabia on the eve of the rise of Islam. Its members did not worship idols, and they were the followers of the Prophet Abraham.
 
 For details, see [Arabia Before Islam](https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/arabia-islam)
 
@@ -3880,10 +3880,32 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 
 </summary>
 
-### Zayd ibn Amr
-**Zayd ibn Amr ibn Nufayl** (died 605) was a monotheist who lived in Mecca shortly before Islam.
+There was a small group of monotheists present in Arabia on the eve of the rise of Islam. Its members did not worship idols, and they were the followers of the Prophet Abraham. 
 
-He told priests and jews that this is not the religion of Ibrahim. he adopted girls who otherwise would be killed by their tribes. (Said ibn Zayd is one of the ten promised Paradise. One-man ummah.)
+Historic texts have preserved for us the stories of four wise men of Quraysh who withdrew from the people during one of the festivals of Quraysh that celebrated an idol. The men were Waraqah ibn Nawfal, ‘Ubaydullah ibn Jahsh, Uthman al- Huwayrith ibn Asad and Zayd ibn Amr.
+
+Waraqah ibn Nawfal followed the Christians, and learned about their books from their scholars, until he gained some knowledge from the People of the Book. Uthmaan ibn al-Huwayrith went to Caesar (Qaysar), the ruler of the Romans and became a Christian, and was held in high esteem by Caesar.
+
+Ubaydullah ibn Jahsh remained in his state of confusion until he became a Muslim, then he migrated with the Muslims to Abyssinia with his Muslim wife Umm Habeebah bint Abi Sufyaan. 
+
+### Zayd ibn Amr
+**Zayd ibn Amr ibn Nufayl** (died 605) was a monotheist who lived in Mecca shortly before Islam. 
+
+> They said to one another: “You know, by Allah, that your people are not following anything (any true path), and they have deviated from the religion of their father Ibrahim (Peace be upon him);(Abraham). What is this stone that we circumambulate, which can neither hear nor see, and can neither cause harm nor bring benefit? O people! find yourselves a religion, for you are not following anything!” So they split up and traveled to different lands seeking the religion of Ibraahem.
+
+He told priests and jews that this is not the religion of Ibrahim. Said ibn Zayd, his son, is one of the ten promised Paradise. 
+
+He left his people and shunned the idols. He avoided dead meat, blood and the meat of animals that had been sacrificed to idols.
+
+He said: 
+> Allah created the sheep; He sent down water for it from the heavens and caused food to grow for it from the earth, then you slaughter it in a name other than that of Allah!
+
+He spoke out against the practice of burying infant girls alive. He used to (rescue and) protect girls who were buried alive. He would say to a man who wanted to bury his daughter alive, “Don’t kill her, I will take care of her.” He would take the child, and when she grew up he would say to her father, “If you want I will give her to you, or if you want I’ll take care of her.“3 He denounced them and pointed out the enormity of their actions.
+
+Asmaa’ bint Abi Bakr (may Allah be pleased with her) said, “I saw Zayd ibn ‘Amr standing, leaning back against the Ka‘ bah, saying, “O Quraysh! By Allah, no one among you is following the religion of Ibrahim (Peace be upon him); except me.“4
+
+The Messenger ﷺ   said:
+> I entered Paradise and I saw two gardens for Zayd ibn Amr. And when asked about Zayd, he ﷺ   said: "He will be gathered as a nation on his own, between me and ‘Eesa ibn Maryam."
 
 ### Waraqa ibn Naufal
 **Waraqa ibn Naufal** was the paternal first cousin of Khadija bint Khuwaylid, the first wife of the Islamic prophet Muhammad. He was considered to be a hanif, who practised the pure form of monotheism in the pre-Islamic era. Waraqah presumably died in 610 CE, shortly after Muhammad is said to have received his first revelation.
@@ -6372,6 +6394,16 @@ hadith:
 > Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
 
 The sun is rolled up, stars are diminished, muntaines are moving in motion, when all realtionships are broken and suspended, when all animals will be gathered together, when oceans will become flames, when souls are paired up, when a child that was killed will be asked why was she killed and buried alive, when your scrolls that remained hidden are made public. when the sky is peeled away, when the fire is set ablaze, Jamah is brought close. On that Day every soul will have in front of him what that souls prepared for the Day of Judgement.
+
+People will run around and they will not care about their brothers, wives or relatives. People will be silent, they will not be allowed to speak. Only walking feat or mumbling will be heard. Only prophets will be allowed to speak that Day.
+
+And then will be the intercession of prophet Muhammad SAW.
+
+There wil be intercession of some people if Allah gives permission. Allah will allow children who died during childhood to intercede on behalf of their parents. There is no guarantee that their shafa'a will be accepted. If Allah allows, their shafa'ah will be accepted. 
+At the time of panic, Allah will honor some people to speak and to intercede.
+The higher their iman, the more people will be allowed for them to intercede.
+
+
 
 </details><details><summary>
 
