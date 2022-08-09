@@ -3874,8 +3874,6 @@ This epoch-making episode happened in 570 A.D. It was in the same year that the 
 
 </details><details><summary>
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
 ## Notable Monotheists
 
 </summary>
@@ -3908,9 +3906,17 @@ The Messenger ﷺ   said:
 > I entered Paradise and I saw two gardens for Zayd ibn Amr. And when asked about Zayd, he ﷺ   said: "He will be gathered as a nation on his own, between me and ‘Eesa ibn Maryam."
 
 ### Waraqa ibn Naufal
-**Waraqa ibn Naufal** was the paternal first cousin of Khadija bint Khuwaylid, the first wife of the Islamic prophet Muhammad. He was considered to be a hanif, who practised the pure form of monotheism in the pre-Islamic era. Waraqah presumably died in 610 CE, shortly after Muhammad is said to have received his first revelation.
+**Waraqa ibn Naufal** was the paternal first cousin of Khadija bint Khuwaylid, the first wife of the Islamic prophet Muhammad. He was considered to be a hanif, who practised the pure form of monotheism in the pre-Islamic era. Waraqah presumably died in 610 CE, shortly after prophet Muhammad ﷺ   have received his first revelation.
 
-Waraqah is revered in Islamic tradition for being one of the first hanifs to believe in the prophecy of Muhammad.
+Waraqah is revered in Islamic tradition for being one of the first hanifs to believe in the prophecy of Muhammad ﷺ   .
+
+When told of Muhammad's first revelation (which is understood to be Sura 96:1-5), Waraqah acknowledged his call to prophecy as authentic. Tradition recounts Waraqah saying: "There has come to him the greatest Law that came to Moses; surely he is the prophet of this people".
+
+Two different narrations from Aisha give these details.
+
+> Aisha also said: "The Prophet returned to Khadija while his heart was beating rapidly. She took him to Waraqah bin Naufal who was a Christian convert and used to read the Gospel in Arabic. Waraqah asked (the Prophet), 'What do you see?' When he told him, Waraqah said, 'That is the same angel whom Allah sent to the Prophet Moses. Should I live till you receive the Divine Message, I will support you strongly.'"
+
+> Khadija then accompanied him to her cousin Waraqah bin Naufil bin Asad bin 'Abdul 'Uzza, who, during the Pre-Islamic Period became a Christian and used to write the writing with Hebrew letters. He would write from the Gospel in Hebrew as much as God wished him to write. He was an old man and had lost his eyesight. Khadija said to Waraqah, "Listen to the story of your nephew, O my cousin!" Waraqah asked, "O my nephew! What have you seen?" God's Apostle described whatever he had seen. Waraqah said, "This was the same one who keeps the secrets whom Allah had sent to Moses (Angel Gabriel). I wish I were young and could live up to the time when your people would turn you out." God's Apostle asked, "Will they drive me out?" Waraqah replied in the affirmative and said, "Anyone (man) who came with something similar to what you have brought was treated with hostility; and if I should remain alive till the day when you will be turned out then I would support you strongly." But after a few days Waraqah died and the Divine Inspiration was also paused for a while.
 
 </details>
 
@@ -3921,18 +3927,24 @@ Waraqah is revered in Islamic tradition for being one of the first hanifs to bel
 
 <details>
   <summary>Short Summary</summary>
-Muḥammad ibn Abd Allah (570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. Muslims believe that the Quran, the central religious text of Islam, was revealed to Muhammadﷺ    by God, and that Muhammad was sent to restore Islam, which did not originate with Muhammad but is the true unaltered original monotheistic faith of Adam, Abraham, Moses, Jesus, and other prophets. The religious, social, and political tenets that Muhammad ﷺ   established with the Quran became the foundation of Islam and the Muslim world.
 
-Muhammadﷺ   earned the title "al-Amin" (اَلْأَمِينُ, meaning "the Trustworthy"). At the age of 40 in 11 BH (610 CE), he have received his first verbal revelation in the cave called Hira, which was the beginning of the descent of the Quran that continued up to the end of his life. The Qur’an was revealed to the Prophetﷺ    progressively according to the circumstances of the time over a period of 23 years. Muhammad ﷺ   was asked by God to preach the oneness of God in order to stamp out idolatry, a practice overtly present in pre-Islamic Arabia. Because of persecution of the newly converted Muslims, upon the invitation of a delegation from Medina (then known as Yathrib), Muhammad ﷺ   and his followers migrated to Medina in 1 AH (622 CE), an event known as the Hijrah. A turning point in Muhammad'sﷺ    life, this Hegira also marks the beginning of the Islamic calendar. In Medina, Muhammadﷺ   sketched out the Constitution of Medina specifying the rights of and relations among the various existing communities there, formed an independent community, and managed to establish the first Islamic state. Despite the ongoing hostility of the Meccans, Muhammadﷺ  , along with his followers, took control of Mecca in 630, and ordered the destruction of all pagan idols. In his later years in Medina, Muhammadﷺ   unified the different tribes of Arabia under Islam and carried out social and religious reforms. By the time he died in about 11 AH (632 CE), almost all the tribes of the Arabian Peninsula had converted to Islam.
+**Muḥammad ibn Abd Allah ﷺ**(570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. The Quran, the central religious text of Islam, was revealed to Muhammad ﷺ    by God, and Muhammad ﷺ   was sent to restore Islam, which did not originate with prophet Muhammad ﷺ   but is the true unaltered original monotheistic faith of **Adam**, **Abraham**, **Moses**, **Jesus**, and other prophets. The religious, social, and political tenets that Muhammad ﷺ   established with the Quran became the foundation of Islam and the Muslim world.
 
-Muslims often refer to Muhammad as Prophet Muhammad, or just "The Prophet" or "The Messenger", and regard him as the greatest of all Prophets. He is seen by the Muslims as a possessor of all virtues. As an act of respect, Muslims follow the name of Muhammad by the Arabic benediction  ﷺ   sallallahu 'alayhi wa sallam, (meaning Peace be upon him), sometimes abbreviated as "SAW" or "PBUH".
+Muhammad ﷺ   earned the title "al-Amin" (اَلْأَمِينُ, meaning "the Trustworthy"). At the age of 40 in 11 BH (610 CE), he have received his first verbal revelation in the cave called Hira, which was the beginning of the descent of the Quran that continued up to the end of his life. The Qur’an was revealed to the Prophet ﷺ    progressively according to the circumstances of the time over a period of 23 years. 
 
-Muhammadﷺ   is regarded as the final messenger and prophet by all the main branches of Islam who was sent by God to guide humanity to the right way (Quran 7:157). The Quran uses the designation Khatam an-Nabiyyin 33:40 (Arabic: خاتم النبين) which is translated as Seal of the Prophets. The title is generally regarded by Muslims as meaning that Muhammadﷺ   is the last in the series of prophets beginning with Adam. The belief that a new prophet cannot arise after Muhammad is shared by both Sunni and Shi'i Muslims. Believing Muhammadﷺ   is the last prophet is a fundamental belief in Islamic theology.
+Muhammad ﷺ   was asked by God to preach the oneness of God in order to stamp out idolatry, a practice overtly present in pre-Islamic Arabia. Because of persecution of the newly converted Muslims, upon the invitation of a delegation from Medina (then known as Yathrib), prophet Muhammad ﷺ   and his followers migrated to Medina in 1 AH (622 CE), an event known as the Hijrah. A turning point in prophet Muhammad's ﷺ   life, this Hegira also marks the beginning of the Islamic calendar. 
+
+In Medina, prophet Muhammadﷺ   sketched out the Constitution of Medina specifying the rights of and relations among the various existing communities there, formed an independent community, and managed to establish the first Islamic state. Despite the ongoing hostility of the Meccans, prophet Muhammadﷺ  , along with his followers, took control of Mecca in 630, and ordered the destruction of all pagan idols. In his later years in Medina, prophet Muhammadﷺ   unified the different tribes of Arabia under Islam and carried out social and religious reforms. By the time he died in about 11 AH (632 CE), almost all the tribes of the Arabian Peninsula had converted to Islam.
+
+Muslims often refer to Muhammad as Prophet Muhammad, or just "The Prophet" or "The Messenger", and regard him as the greatest of all Prophets. He is seen by the Muslims as a possessor of all virtues. As an act of respect, Muslims follow the name of Muhammad by the Arabic benediction ﷺ   sallallahu 'alayhi wa sallam, (meaning Peace be upon him), sometimes abbreviated as "SAW" or "PBUH".
+
+Prophet Muhammadﷺ   is regarded as the final messenger and prophet by all the main branches of Islam who was sent by God to guide humanity to the right way (Quran 7:157). The Quran uses the designation Khatam an-Nabiyyin 33:40 (Arabic: خاتم النبين) which is translated as Seal of the Prophets. The title is generally regarded by Muslims as meaning that Muhammadﷺ   is the last in the series of prophets beginning with Adam. The belief that a new prophet cannot arise after Muhammad is shared by both Sunni and Shi'i Muslims. Believing Muhammadﷺ   is the last prophet is a fundamental belief in Islamic theology.
 
 Prophet Muhammadﷺ   is a role model for all Muslims. 
-Prophet Muhammadﷺ   was the possessor of moral virtues at the highest level, and was a man of moral excellence. He represented the 'prototype of human perfection' and was the best among God's creations. The 68:4 verse of the Quran says: 'And you [Muhammad] are surely on exalted quality of character'. Consequently, to the Muslims, his life and character are an excellent example to be emulated both at social and spiritual levels. The virtues that characterize him are modesty and humility, forgiveness and generosity, honesty, justice, patience, and, self-denial.
 
-According to biographers, Prophet Muhammadﷺ   lived a simple and austere life often characterized by poverty. He was more bashful than a maiden, and was rare to laugh in a loud voice; rather, he preferred soft smiling. Ja'far al-Sadiq, a descendant of Muhammad and an acclaimed scholar, narrated that Muhammad was never seen stretching his legs in a gathering with his companions and when he would shake hands, he would not pull his hand away first. It is said that during the conquest of Mecca, when Muhammad was entering into the city riding on a camel, his head lowered, in gratitude to God, to the extent that it almost touched the back of the camel. He never took revenge from anyone for his personal cause. He maintained honesty and justice in his deeds.
+Prophet Muhammadﷺ   was the possessor of moral virtues at the highest level, and was a man of moral excellence. He represented the 'prototype of human perfection' and was the best among God's creations. The 68:4 verse of the Quran says: `And you [Muhammad] are surely on exalted quality of character`. Consequently, to the Muslims, his life and character are an excellent example to be emulated both at social and spiritual levels. The virtues that characterize him are modesty and humility, forgiveness and generosity, honesty, justice, patience, and, self-denial.
+
+According to biographers, Prophet Muhammad ﷺ   lived a simple and austere life often characterized by poverty. He was more bashful than a maiden, and was rare to laugh in a loud voice; rather, he preferred soft smiling. Ja'far al-Sadiq, a descendant of prophet Muhammad ﷺ   and an acclaimed scholar, narrated that prophet Muhammad ﷺ   was never seen stretching his legs in a gathering with his companions and when he would shake hands, he would not pull his hand away first. It is said that during the conquest of Mecca, when prophet Muhammad ﷺ   was entering into the city riding on a camel, his head lowered, in gratitude to God, to the extent that it almost touched the back of the camel. He never took revenge from anyone for his personal cause. He maintained honesty and justice in his deeds.
 
 </details>
 
@@ -3944,7 +3956,7 @@ According to biographers, Prophet Muhammadﷺ   lived a simple and austere life 
 
 </summary>
 
-Muhammad, the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wife Aminah, was born in 570 CE, in the city of Mecca in the Arabian Peninsula. He was a member of the family of Banu Hashim, a respected branch of the prestigious and influential Quraysh tribe. Their ancestry reached the Prophet Ismael son of the Prophet Abraham, peace be upon them.
+Muhammad ﷺ  , the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wife Aminah, was born in 570 CE, in the city of Mecca in the Arabian Peninsula. He was a member of the family of Banu Hashim, a respected branch of the prestigious and influential Quraysh tribe. Their ancestry reached the Prophet Ismael son of the Prophet Abraham, peace be upon them.
 
 </details><details><summary>
 
@@ -3952,50 +3964,41 @@ Muhammad, the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wife Amin
 
 </summary>
 
-Muhammad was orphaned when young. Some months before the birth of Muhammad, his father died near Medina on a mercantile expedition to Syria. When Muhammad was six, he accompanied his mother Amina on her visit to Medina, probably to visit her late husband's tomb. While returning to Mecca, Amina died at a desolate place called Abwa, about half-way to Mecca, and was buried there. Muhammad was now taken in by his paternal grandfather Abd al-Muttalib, who himself died when Muhammad was eight, leaving him in the care of his uncle Abu Talib. In Islamic tradition, Muhammad's being orphaned at an early age has been seen as a part of divine plan to enable him to "develop early the qualities of self-reliance, reflection, and steadfastness". Muslim scholar Muhammad Ali sees the tale of Muhammad as a spiritual parallel to the life of Moses, considering many aspects of their lives to be shared. The Quran said about Moses: 
+Prophet Muhammad ﷺ   was orphaned when young. Some months before the birth of prophet Muhammad ﷺ  , his father died near Medina on a mercantile expedition to Syria. When Muhammad ﷺ   was six, he accompanied his mother Amina on her visit to Medina, probably to visit her late husband's tomb. While returning to Mecca, Amina died at a desolate place called Abwa, about half-way to Mecca, and was buried there. Muhammad ﷺ   was now taken in by his paternal grandfather Abd al-Muttalib, who himself died when prophet Muhammad ﷺ    was eight, leaving him in the care of his uncle Abu Talib. In Islamic tradition, Muhammad's being orphaned at an early age has been seen as a part of divine plan to enable him to "develop early the qualities of self-reliance, reflection, and steadfastness". Some Muslim scholars see the story of prophet Muhammad ﷺ   as a spiritual parallel to the life of Moses, considering many aspects of their lives to be shared. The Quran said about Moses: 
 
     "I cast (the garment of love) over thee from Me, so that thou might be reared under My eye. ... We saved thee from all grief, although We tried thee with various trials. ... O Moses, I have chosen thee for Mine Own service"
     Quran 20:39-41
 
-Taking into account the idea of this spiritual parallelism, together with other aspects of Muhammad's early life, it has been suggested that it was God under Whose direct care Muhammad was raised and prepared for the responsibility that was to be conferred upon him. Islamic scholar Tariq Ramadan argued that Muhammad's orphan state made him dependent on God and close to the destitute – an "initiatory state for the future Messenger of God".
+Taking into account the idea of this spiritual parallelism, together with other aspects of prophet Muhammad ﷺ  's early life, it has been suggested that it was God under Whose direct care prophet Muhammad ﷺ   was raised and prepared for the responsibility that was to be conferred upon him.
 
 ### Foster Mother
 
 It was a custom of that time in Arabia to send children to be raised in the desert tribes. Women from rural areas would come to cities to take babies for breastfeeding and care. 
 
-According to Arab custom, after his birth, infant Muhammad was sent to Banu Sa'ad clan, a neighboring Bedouin tribe, so that he could acquire the pure speech and free manners of the desert. There, Muhammad spent the first five years of his life with his foster-mother Halima.
+According to Arab custom, after his birth, infant Muhammad ﷺ   was sent to Banu Sa'ad clan, a neighboring Bedouin tribe, so that he could acquire the pure speech and free manners of the desert. There, prophet Muhammad ﷺ   spent the first five years of his life with his foster-mother Halima.
 
 ### Angel Jibril Occasion
 
-When the prophet  ﷺ    was 4, Jibril came in the form of a man and opened up his chest and took his heart out and took out the black portion and said this is shaitan's portion in you.
+When the prophet ﷺ    was 4, Jibril came in the form of a man and opened up his chest and took his heart out and took out the black portion and washed the heart with Zamzam water.
 
 ### Death of Aminah
 
-After this occasion, Halimah returned 4-year old Muhammad to his mother Aminah. Aminah died soon. Abd al Mutallib took his grandchild Muhammad under his care.
+After this occasion, Halimah returned 4-year old Muhammad ﷺ   to his mother Aminah. Aminah died soon. Abd al Mutallib took his grandchild Muhammad under his care.
 
 ### Life with Abd al-Mutallib
 
-Muhammad was not even seven years old when his mother died. After his mother’s death, his grandfather Abdul-Muttalib assumed his guardianship. Because of his knowledge of the status of the child and his faith in him, Abdul-Muttalib treated Muhammad with more care and attention than his other children.
+Muhammad ﷺ   was not even seven years old when his mother died. After his mother’s death, his grandfather Abdul-Muttalib assumed his guardianship. Because of his knowledge of the status of the child and his faith in him, Abdul-Muttalib treated Muhammad with more care and attention than his other children.
 A group of the Medlaj Clan came to Mecca and when they saw Muhammad they said to his grandfather: ‘Take good care of him for we have never seen another of his station.’ Abdul-Muttalib told this to Abu Talib in his will and asked him to heed what they had said and take care of him. Muhammad was eight when his grandfather died, and he was taken into the care of his uncle Abu Talib.
 
 ### Death of Abd al-Mutallib
 
 He became orphaned several times. His dad died, his mother died and his grandfather died.
-Abu Talib, chief of the Bani-Hashim clan within the Quraysh3 then became the guardian of Muhammad from his eighth year. Abu Talib went on to protect and serve the Messenger of Allah, defending him and honoring him throughout the testing times of his Prophethood, until the last breath of his life.
 
-</details>
+Abu Talib, chief of the Bani-Hashim clan within the Quraysh tribe then became the guardian of Muhammad from his eighth year. Abu Talib went on to protect and serve the Messenger of Allah, defending him and honoring him throughout the testing times of his Prophethood, until the last breath of his life.
 
-<details>
-<summary>
+# PROFREADINGPRROFREADINGPROOFREADING
 
-## Signs of Prophethood
-
-</summary>
-
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Early Manhood
 
