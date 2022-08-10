@@ -3996,25 +3996,44 @@ He became orphaned several times. His dad died, his mother died and his grandfat
 
 Abu Talib, chief of the Bani-Hashim clan within the Quraysh tribe then became the guardian of Muhammad from his eighth year. Abu Talib went on to protect and serve the Messenger of Allah, defending him and honoring him throughout the testing times of his Prophethood, until the last breath of his life.
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
 </details><details><summary>
 
 ## Early Manhood
 
 </summary>
 
-Muhammad grew up to become a fine young man. He became known for his excellent manners, and because of the honesty in his conduct and dealings he was referred to as al- Sadiq (The Truthful One) and al-Amin (The Trustworthy One).
+Muhammad grew up to become a fine young man. He became known for his excellent manners, and because of the honesty in his conduct and dealings he was referred to as **al- Sadiq** (The Truthful One) and **al-Amin** (The Trustworthy One).
 
-The prophet Muhammad  ﷺ    was a shepherd and worked for his uncle Abu Talib.
+The prophet Muhammad ﷺ    was a shepherd and worked for his uncle Abu Talib.
 
-Somebody from Kinana killed a man Khawasin (Kays A'glan) branch and they attacked people in Haram.
-(around 15) The prophet  ﷺ    participated in wars of Fijar. he was responsible for looking for arrows and bring them back. They reached a peace treaty.
-(around 20) The treaty of Mutayyabin. a person from Zubayd tribe 
-AzZubayr organized the pact
-Pact in the house of Abdulla ibn Judhan.
+At around age 15, the heﷺ    participated in wars of Fijar. He was responsible for looking for arrows and bring them back. They reached a peace treaty.
+
+### Hilf al-Fudul
+
+Hilf al-Fudul (League of the Virtuous, the Virtuous Pact, the Fadul Alliance) (Arabic: حلف الفضول translit: Hilf al-Fudool‎) was a pact made amongst the Arab tribes around Makkah after the Fijaar War prior to Prophethood. Fudul comes from Fadl which means nobility, superiority and virtue. The allegiance was also known as Hilf Al-Mutayyabeen (The Pledge of the Perfumed) because those who agreed placed their signatures by putting their hands in henna and then on the Kabaah.
+
+Background
+Al’Aas ibn Waail purchased merchandise from a merchant from the region of Zubaid in Yemen. Al’Aas being a chief and nobleman amongst the Qureysh decided not to pay and when the merchant approached the other Chiefs of Quraysh they sided with Al’Aas for being one of their own. The man shared his plight at the Kaaba asking the descendants of Faihr (Quraysh) to help him. Az-Zubair ibn Abdul-Muttalib became angry and called to his people, “Will no one help him!”
+
+The community responded to Zuabir’s call and meeting was convened during the month of Dhul-Qai-dah at the home of Abdullah ibn Jud’aan. Members of Banu Hashim, Banu Zuhrah, Banu Muttalib, Banu Asad, and Banu Taim ibn Murrah who were present swore to Allah and pledged that they would stand together in support of any victim against the oppressor. The youngest attendees to the pact were Muhammad ibn Abdullah (ﷺ) and Abu Bakr As-Siddeeq.
+
+The Alliance proceeded to seize the merchandise from Al’Aas and returned it to its rightful owner.
+
+> Allah’s Messenger (ﷺ) spoke of his attendance at the forming of the allegiance after Prophethood. He said, “I witnessed a treaty at the home of Abdullah bin Jud’aan. If I am asked to attend such a meeting now, I would answer.”
+> As-Seerah An-Nabawiyyah by Ibn Hishaam (1/134), and Fiqh us-Seerah by Al-Ghadbaan (pg.102)
+
+> Also, ‘Abdu’r-Rahman ibn ‘Awf reported that the Prophet, may Allah bless him and grant him peace, said, “I was present with my uncles at the alliance of the perfumed (Hilf al-Mutayyabin). I would not wish to break it, even for red camels.”
+> Saheeh As-Seerah An-Nabawiyyah by Ibraaheem Al-‘Alee (pg.59)
+
+# PROFREADINGPRROFREADINGPROOFREADING
+
+
+At around 20, Muhammadﷺ   participated in the treaty of Mutayyabin. Az-Zubayr organized this pact in the house of Abdulla ibn Judhan.
+
 They will side with the opressed regardless of to which tribe the opressor belongs.
 Treaty of No-Business.
+
+Somebody from Kinana killed a man Khawasin (Kays A'glan) branch and they attacked people in Haram.
 Muslims should have involvement in society, not only in problems of muslims but the problems of all the opressed. React to social problems. 
 He was the youngest participant of the pact.
 Between 580 CE and 590 CE, Mecca experienced a bloody feud between Quraysh and Bani Hawazin that lasted for four years, before a truce was reached. After the truce, an alliance named Hilf al-Fudul (The Pact of the Virtuous) was formed to check further violence and injustice; and to stand on the side of the oppressed, an oath was taken by the descendants of Hashim and the kindred families, where Muhammad was also a member. In later days of his life, Muhammad is reported to have said about this pact, "I witnessed a confederacy in the house of 'Abdullah bin Jada'an. It was more appealing to me than herds of cattle. Even now in the period of Islam I would respond positively to attending such a meeting if I were invited."
