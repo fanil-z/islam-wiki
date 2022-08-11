@@ -4003,47 +4003,31 @@ Abu Talib, chief of the Bani-Hashim clan within the Quraysh tribe then became th
 </summary>
 
 Muhammad grew up to become a fine young man. He became known for his excellent manners, and because of the honesty in his conduct and dealings he was referred to as **al- Sadiq** (The Truthful One) and **al-Amin** (The Trustworthy One).
-
+ 
 The prophet Muhammad ﷺ    was a shepherd and worked for his uncle Abu Talib.
 
 At around age 15, the heﷺ    participated in wars of Fijar. He was responsible for looking for arrows and bring them back. They reached a peace treaty.
 
 ### Hilf al-Fudul
 
+At around 20, Muhammadﷺ   participated in the treaty of Mutayyabin. Az-Zubayr organized this pact in the house of Abdulla ibn Judhan. He was the youngest participant of the pact.
+
 Hilf al-Fudul (League of the Virtuous, the Virtuous Pact, the Fadul Alliance) (Arabic: حلف الفضول translit: Hilf al-Fudool‎) was a pact made amongst the Arab tribes around Makkah after the Fijaar War prior to Prophethood. Fudul comes from Fadl which means nobility, superiority and virtue. The allegiance was also known as Hilf Al-Mutayyabeen (The Pledge of the Perfumed) because those who agreed placed their signatures by putting their hands in henna and then on the Kabaah.
 
-Background
-Al’Aas ibn Waail purchased merchandise from a merchant from the region of Zubaid in Yemen. Al’Aas being a chief and nobleman amongst the Qureysh decided not to pay and when the merchant approached the other Chiefs of Quraysh they sided with Al’Aas for being one of their own. The man shared his plight at the Kaaba asking the descendants of Faihr (Quraysh) to help him. Az-Zubair ibn Abdul-Muttalib became angry and called to his people, “Will no one help him!”
+#### Background
+Al’Aas ibn Waail purchased merchandise from a merchant from the region of Zubaid in Yemen. Al’Aas being a chief and nobleman amongst the Quraysh decided not to pay and when the merchant approached the other Chiefs of Quraysh they sided with Al’Aas for being one of their own. The man shared his plight at the Kaaba asking the descendants of Faihr (Quraysh) to help him. Az-Zubair ibn Abdul-Muttalib became angry and called to his people, “Will no one help him!”
 
-The community responded to Zuabir’s call and meeting was convened during the month of Dhul-Qai-dah at the home of Abdullah ibn Jud’aan. Members of Banu Hashim, Banu Zuhrah, Banu Muttalib, Banu Asad, and Banu Taim ibn Murrah who were present swore to Allah and pledged that they would stand together in support of any victim against the oppressor. The youngest attendees to the pact were Muhammad ibn Abdullah (ﷺ) and Abu Bakr As-Siddeeq.
+The community responded to Zuabir’s call and meeting was convened during the month of Dhul-Qai-dah at the home of Abdullah ibn Jud’aan. Members of Banu Hashim, Banu Zuhrah, Banu Muttalib, Banu Asad, and Banu Taim ibn Murrah who were present swore to Allah and pledged that they would stand together in support of any victim against the oppressor. The youngest attendees to the pact were Muhammad ibn Abdullah ﷺ   and Abu Bakr As-Siddeeq.
 
 The Alliance proceeded to seize the merchandise from Al’Aas and returned it to its rightful owner.
 
-> Allah’s Messenger (ﷺ) spoke of his attendance at the forming of the allegiance after Prophethood. He said, “I witnessed a treaty at the home of Abdullah bin Jud’aan. If I am asked to attend such a meeting now, I would answer.”
+> Allah’s Messenger ﷺ   spoke of his attendance at the forming of the allegiance after Prophethood. He said, “I witnessed a treaty at the home of Abdullah bin Jud’aan. If I am asked to attend such a meeting now, I would answer.”
 > As-Seerah An-Nabawiyyah by Ibn Hishaam (1/134), and Fiqh us-Seerah by Al-Ghadbaan (pg.102)
 
 > Also, ‘Abdu’r-Rahman ibn ‘Awf reported that the Prophet, may Allah bless him and grant him peace, said, “I was present with my uncles at the alliance of the perfumed (Hilf al-Mutayyabin). I would not wish to break it, even for red camels.”
 > Saheeh As-Seerah An-Nabawiyyah by Ibraaheem Al-‘Alee (pg.59)
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
-
-At around 20, Muhammadﷺ   participated in the treaty of Mutayyabin. Az-Zubayr organized this pact in the house of Abdulla ibn Judhan.
-
-They will side with the opressed regardless of to which tribe the opressor belongs.
-Treaty of No-Business.
-
-Somebody from Kinana killed a man Khawasin (Kays A'glan) branch and they attacked people in Haram.
-Muslims should have involvement in society, not only in problems of muslims but the problems of all the opressed. React to social problems. 
-He was the youngest participant of the pact.
-Between 580 CE and 590 CE, Mecca experienced a bloody feud between Quraysh and Bani Hawazin that lasted for four years, before a truce was reached. After the truce, an alliance named Hilf al-Fudul (The Pact of the Virtuous) was formed to check further violence and injustice; and to stand on the side of the oppressed, an oath was taken by the descendants of Hashim and the kindred families, where Muhammad was also a member. In later days of his life, Muhammad is reported to have said about this pact, "I witnessed a confederacy in the house of 'Abdullah bin Jada'an. It was more appealing to me than herds of cattle. Even now in the period of Islam I would respond positively to attending such a meeting if I were invited."
-
-At the time of Jahilia they knew about the true religion of Ibrahim AS, yet they chose to idol worship.
-
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Marriage to Khadeeja
 
@@ -4051,25 +4035,20 @@ At the time of Jahilia they knew about the true religion of Ibrahim AS, yet they
 
 Hadija bint Khuwaylid was the richest woman in Mecca. She was married two times but her husbands died early.
 
-Muhammad صلى الله عليه وسلم had no particular job at his early youth, but it was reported that he worked as a shepherd for Bani Saa‘d and in Mecca. At the age of 25, he went to Syria as a merchant for Khadijah bint Khuwaylid. Ibn Ishaq reported that Khadijah was a business-woman of great honour and fortune. She used to employ men to do her business for a certain percentage of the profits. The Quraysh were mostly tradespeople, so when Khadijah was informed of Muhammad, his truthful words, great honesty and kind manners, she sent for him. She offered him money to go to Syria and do her business, and she would give him a higher rate than the others. She would also send her hireling, Maysarah, with him. He agreed and went with her servant to Syria for trade.
+Muhammad ﷺ   had no particular job at his early youth, but it was reported that he worked as a shepherd for Bani Saa‘d and in Mecca. At the age of 25, he went to Syria as a merchant for Khadijah bint Khuwaylid. Ibn Ishaq reported that Khadijah was a business-woman of great honour and fortune. She used to employ men to do her business for a certain percentage of the profits. The Quraysh were mostly tradespeople, so when Khadijah was informed of Muhammad, his truthful words, great honesty and kind manners, she sent for him. She offered him money to go to Syria and do her business, and she would give him a higher rate than the others. She would also send her hireling, Maysarah, with him. He agreed and went with her servant to Syria for trade. He took the caravan to Bosra outside Damascus. 
 
-When he returned, Khadijah noticed, in her money, more profits and blessings than she used to. Her hireling also told her of Muhammad’s good manners, honesty, deep thought, sincerity and faith. All these impressed Khadijah and she realised that she had fallen in love with Muhammad and wished to marry him. Many prominent men had asked for her hand in marriage but she always spurned their advances. She disclosed her wish to her friend Nafisah bint Maniya, who immediately went to Muhammad and broke the good news to him. He agreed and requested his uncles to go to Khadijah’s uncle and talk on this issue. Subsequently, they were married. The marriage contract was witnessed by Bani Hashim and the heads of Mudar. Muhammad gave Khadijah twenty camels as the dower. Muhammad صلى الله عليه وسلم did not get married to anyone until she was passed away.
+When he returned, Khadijah noticed, in her money, more profits and blessings than she used to. Her hireling also told her of Muhammad’s good manners, honesty, deep thought, sincerity and faith. All these impressed Khadijah and she realised that she had fallen in love with Muhammad and wished to marry him. Many prominent men had asked for her hand in marriage but she always spurned their advances. She disclosed her wish to her friend Nafisah bint Maniya, who immediately went to Muhammad and broke the good news to him. He agreed and requested his uncles to go to Khadijah’s uncle and talk on this issue. Subsequently, they were married. The marriage contract was witnessed by Bani Hashim and the heads of Mudar. Muhammad ﷺ   did not get married to anyone until she was passed away.
 
-The prophet Muhammad was to shy to take his wage from Khadija's sister. 
-He took the caravan to Bosra outside Damascus. 
-some narrations say she was 40, ibn Iskhak reposrta that Khadija was 28.
-they had 6 children.
-Al Kasim died at 6-8
-Zaynab
-Um Kulthum
-Fatima
-Abdallah died in infancy
-Then Allah sent the sura Kawsar
+Some narrations say she was 40, ibn Iskhak reposrta that Khadija was 28. They had 6 children. 
+* Al Kasim died at 6-8.
+* Zaynab
+* Um Kulthum
+* Fatima
+* Abdallah died in infancy. 
 
-</details>
+</details><details><summary>
 
-<details>
-<summary>
+# PROFREADINGPRROFREADINGPROOFREADING
 
 ## Rebuilding of Kaaba
 
@@ -6591,4 +6570,10 @@ Jewish Calendar and Orthodox Chiristians believe that people have been around th
 There are some cave paintings that are 30thousand years old. These were not Neanthertals these were Homo-Sapiens.
 
 So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet ﷺ    said that the time between now and the Day of Judgement is like his two fingers. And now it is 1443 year after Hijrah. So it gives possibility to extend the humanity timeline as long as science findings. We don't have a set timeframe.
+
+After death of prophet Muhammad's ﷺ   son, Allah sent the sura Kawsar.
+
+    Verily, we have blessed You with Al Kauthar (a river in Paradise). So,offer prayer and sacrifice to your Lord. Indeed, your enemy is the one cut off.
+
+> Narrated Anas bin Malik: One day the Messenger of Allah (may peace be upon him) was sitting amongst us that he dozed off. He then raised his head smilingly. We said: What makes you smile. Messenger of Allah? He said: A Sura has just been revealed to me, and then recited: In the name of Allah, the Compassionate, the Merciful. Verily We have given thee Kauthar (fount of abundance). Therefore, turn to thy Lord for prayer and offer sacrifice, and surely thy enemy is cut off (from the good). Then he (the Prophet) said: Do you know what Kauthar is? We said: Allah and His Messenger know best. The Prophet (may peace be upon him) said: It (Kauthar) is a canal which my Lord, the Exalted and Glorious has promised me, and there is an abundance of good in it. It is a cistern and my people would come to it on the Day of Resurrection, and tumblers there would be equal to the number of stars. A servant would be turned away from (among the people gathered there). Upon this I would say: My Lord, he is one of my people, and He (the Lord) would say: You do not know that he innovated new things (in Islam) after you. Ibn Hujr made this addition in the hadith:" He (the Prophet) was sitting amongst us in the mosque, and He (Allah) said: (You don't know) what he innovated after you"
 </details>
