@@ -4048,17 +4048,27 @@ Some narrations say she was 40, ibn Iskhak reposrta that Khadija was 28. They ha
 
 </details><details><summary>
 
-# PROFREADINGPRROFREADINGPROOFREADING
-
 ## Rebuilding of Kaaba
 
 </summary>
 
-Kaaba at that time was destroyed by flood 5 years before the prophecy.
-Ceasar of Rome sent supplies to build a church in Yemen but the ship almost sank was ended up in Judda. so Quraish bought the marble stones and wood and the craftsmen.
-They stopped building the Kaaba for 5 five days arguiing on who is gion to put the black stone in. until decided that the first person who enters the holy house will decide who will put the black stone. Everyone rejoiced when they saw Muhammadﷺ  , because he had the highest reputation among Meccans as the most just and truthful. 
+When Muhammad ﷺ   reached the age of thirty, heavy rains came down in Makah and the walls of Kaaba fell and it was destroyed. The Quraishy wanted to rebuild and renovate it, thus all the chiefs of the different clans of Quraishy got together to discuss the affair, and decided to rebuild it and put a new roof.
 
-The Prophet Muhammad said them to bringa cloth and to put the stone on the cloth. Then, he told each representative of a tribe to hold the cloth and bring the stone to the Kaaba. The Prophet Muhammad then himself placed the stone to its place. Tribes rejoiced for handling this issue without bloodshed.
+At that time, Ceasar of Rome sent supplies to build a church in Yemen but the ship almost sank and ended up in Judda. So Quraish bought the marble stones and wood and the craftsmen.
+
+It was rebuilt, but it could not be completed, as there were no enough funds. Thus, they left part of it not completed, and built a short wall to show the position of the Kaaba, and that area is known as Maqaam Ismail. They raised the walls to a height of about forty feet, more than what it was before and raised the door in such a way that one could only enter it by climbing up the steps.
+
+Then came the time to put back the holy Black Stone (Hajar L-Aswad), here the different clans argued as to who would do that work. The Black Stone was put in its place by prophet Ibrahim AS when he and his son Ismail built the Kaaba. The Quraish argued and nearly fought a war, and remained in this situation for four days without coming to an agreement. One of the Quraishy elders by the name of Abu Umayyah bin L-Mughyra L-Makhzumy, the uncle of Khalid bin Waleed, said:
+
+“O my people! Do not fight; instead find a solution to your problem which would satisfy all of you.”
+
+They said: “We shall allow the first person who walks through that door to judgment us and solve our problem.”
+
+As they were saying this, Muhammad ﷺ   walked in. Everyone rejoiced when they saw Muhammadﷺ  , because he had the highest reputation among Meccans as the most just and truthful.  When they saw him, they said: “Here is L-Amin, we have agreed he will judge us.”
+
+They explained to him the problem. Muhammad ﷺ   took off his robe and lay it on the ground, then put the stone on it and said: “Let one person from each clan hold my robe and then lift it up, together.”
+
+Therefore, they lifted it all together to the position where the stone was to be laid, and Muhammad ﷺ   placed it in its place with his hands and they were all happy and satisfied. The argument ended in peace, by Allah’s wisdom, Abu Umayyah had the brains to think quickly and guided his people, and Muhammad (SAW) had the ability to judge and put them in the right direction that led to a peaceful solution. Tribes rejoiced for handling this issue without bloodshed.
 
 They changed the Kaaba:
 
@@ -4067,41 +4077,31 @@ They changed the Kaaba:
 3. made the door higher
 4. made the waterspout
 
-the prophet ﷺ    I would rebuild it on the original pillar of Ibrahim if people werenot so new to islam. 
-Abdallah ibn Zubayr separated and made his own khaliphate. he rebuilt te Kaaba and followed the hadith.
-He was crucified in front of the Kaaba and that man destroyed it and rebuilt it.
+> There is a hadith that reports prophet Muhammad ﷺ   said: "I would rebuild the Kaaba on the original pillar of Ibrahim if people werenot so new to Islam".
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Adoption of Zayd ibn Haritha
 
 </summary>
 
-Zayd is from Kakhtani branch of Arabs, his mother and father were from different tribes. He was kidnapped and sold into slavery to get revenge on Zay's father's tribe. he was 7-8.
-They sold him for 400 dirhams to Hakim the nephew of Khadija. Zayd becomes Khadija's child. after marrying to the prophet Muhammad  ﷺ    she gives Zayd to the prophet  ﷺ   .
+Zayd is from Kakhtani branch of Arabs, his mother and father were from different tribes. He was kidnapped and sold into slavery to get revenge on Zay's father's tribe. he was 7-8. They sold him for 400 dirhams to Hakim the nephew of Khadija. Zayd becomes Khadija's slave. after marrying to the prophet Muhammad ﷺ    she gives Zayd to the prophet Muhammad ﷺ  .
 
-Zayd's father is looking for his son. During Hajj season smo recognized Zayd and asked him questions and made sure he is Zayd. So father and uncle travel to Mecca and wanted to sell Zayd back.
+Zayd's father is looking for his son. During Hajj season someone recognizes Zayd and askes him questions and made sure he is Zayd. So Zayd's father and uncle travel to Mecca and want to sell Zayd back. Zayd was about 25 at that time. He has been with the prophet Muhammad ﷺ    for at least 10 years. So the prophet Muhammad lets Zayd choose if he want to go home with his father or stay with him. Zayd immediately choses to stay. 
 
-Zayd was about 25 at that time. He has been with the prophet  ﷺ    for at least 10 years. 
-So the prophet let Zayd choose if he want to go home with his father or stay with him.  Zayd immediately choses to stay. 
+The prophet Muhammad ﷺ    took Zayd to Kaaba and announced that from now on Zayd is a free man and he is the adopted son of Muhammad ﷺ  . 
 
-The prophet  ﷺ    took Zayd to Qaaba and announced that from now on Zayd is a free man and he is the adopted son of Muhammad  ﷺ   . 
+Usama ibn Zayd was born in the house of the prophet Muhammad ﷺ   .
 
-Usama ibn Zayd was born in the house of the prophet Muhammad  ﷺ   .
-
-After freeing Zayd married Zaynab from Quraish.  Zayd has a blessing of being the only companion name mentioned in the Quran. Zayd was martyred  
-
-Some of he sahaba have said that if Zayd was alive when the prophet  ﷺ    died, he would have been the khalifa.
+After freeing Zayd married Zaynab from Quraish. Zayd has a blessing of being the only companion name mentioned in the Quran. Zayd was martyred. Some of he sahaba have said that if Zayd was alive when the prophet Muhammad ﷺ    died, he would have been the khalifa.
 
 </details>
 
+# PROOFREADINGPROOFREADINGPROOFREADING
+
 ### Iqra: First Revelation 📗
 
-<details>
-<summary>
+<details><summary>
 
 ## **610**: First Surah of The Quran
 
@@ -4131,12 +4131,9 @@ At-Tabari and Ibn Hisham reported that Muhammad left the cave of Hira after bein
 
 Biographers disagree about the period of time between Muhammad's first and second experiences of revelation. Ibn Ishaq writes that three years elapsed from the time that Muhammad received the first revelation until he started to preach publicly. Bukhari takes chapter 74 as the second revelation however chapter 68 has strong claims to be the second revelation. 
 
-</details>
+</details><details><summary>
 
-<details>
-<summary>
-
-## **612**: Prophet Muhammad  ﷺ    starts to preach
+## **612**: Prophet Muhammad ﷺ    starts to preach
 
 </summary>
 
@@ -4156,10 +4153,7 @@ Biographers disagree about the period of time between Muhammad's first and secon
    It was the whole Quraish against Abu Talib but he protected the prophet  ﷺ    till the last day. However it is believed that he didn't accept islam.
    Abu Talib was one of the famous poets of Quraish.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## **616**: Persecution of the first Muslims
 
@@ -4182,10 +4176,7 @@ Three questions:
    Bilal didnt give up and refused to budge. He would say Ahadun Ahad. his master would pin him near the stone under the sun for the whole day.
    Khababb was a swordsman. his back was in briuses and showed his back to Umar ra.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Migration of Muslims to Abyssinia
 
@@ -4218,10 +4209,7 @@ Muslims remiained in Abyssinia 10-11 years. The prophet  ﷺ    told them to ret
 
 Umi Habiba's husband died and left alone and the prophet  ﷺ    proposed her. Najahsi himself gave the mahr.
 
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 ## Hamza and Umar convert to Islam
 
@@ -4255,8 +4243,7 @@ Sahaba saw Umar and scared. Hamza said let him in .
 Umar said he came to convert and the prophet ﷺ    said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
 He personally informed Abu Jahl. 
 
-</details>
-<details><summary>
+</details><details><summary>
 
 ## **610**: Boycott of Muslims
 
@@ -5900,10 +5887,11 @@ Only 0.8% in USA. but many islamic universities and wordly-famous sheikhs are th
 wars
 universities and charity projects
 
-</details>
+</details><details><summary>
 
-<details>
-  <summary><b>The World in General</b></summary>
+## The World in General
+
+</summary>
 
 In Islam, the arrival of Judgement Day is prophesied in various ḥadīth collections to be preceded by "signs" or portents of its arrival. These signs tend to fall into disruptions in the order of human morality (music, wine drinking, usury, fornication, homosexuality, and disobedience by wives, senseless murders, lying and cheating, disinterest in and ignorance of religion) and the natural world (frequent unexpected deaths, excessive lightning, destructive rainfall, terrible drought, a huge cloud of smoke, the opening up of huge cracks in the earth -- khasf -- to swallow masses of people alive, the sun rising in the west, poisonous winds that kill all the faithful);
 include the appearance of wicked forces such as the AntiChrist figure al-Dajjāl, Gog and Magog, and Sufyani. but also savior(s) the Mahdi and Jesus, who along with divine intervention, will restore order and crush the
@@ -5924,13 +5912,15 @@ The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocen
 </details>
 
 # 12. Yawm Al Qiyamah (Apocalypse)
-
 *******************************************
 
 ### 12.1 Minor Signs of The Day of Judgement
 
-<details>
-  <summary>Minor Signs</summary>
+<details><summary>
+
+## Minor Signs
+
+</summary>
 
 * The prophet Muhammad
 * bedouins building towers
@@ -6001,17 +5991,21 @@ Events that are yet to happen:
 
 ### 12.2 Major Signs of Al Kiyamah
 
-<details>
-  <summary>Overview</summary>
+<details><summary>
+
+## Overview
+
+</summary>
 
 According to the Prophet (PBUH), there are 10 major signs that will precede the last Hour and will announce of the finality of the Day of Reckoning. These 10 signs are explained in the following hadith:
 
 Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with him) said: The Prophet (peace and blessings of Allaah be upon him) came out to us when we were discussing. He said: “What are you discussing?” They said: “We are talking about the Hour.” He said: “It will never begin until you see ten signs before it.” He mentioned the smoke, the Dajjaal, the Beast, the rising of the sun from its place of setting, the descent of ‘Eesa ibn Maryam (peace and blessings of Allaah be upon him), Ya’jooj and Ma’jooj, and three landslides, one in the east, one in the west and one in the Arabian Peninsula, and the last of that is a fire which will emerge from Yemen and drive the people to their place of gathering (Sahih Muslim, Book 041: 6931)
 
-</details>
+</details><details><summary>
 
-<details>
-    <summary>Dajjal - the false Messiah or Anti-Christ</summary> 
+## Dajjal - the false Messiah or Anti-Christ
+
+</summary> 
 
 One of Dajjal's eyes will be like a bad grape.
 one third of the earth for one year the rain will stop. on the second year 2/3 will be rainless.
@@ -6025,12 +6019,16 @@ The vision of the evenings and mornings that has been given you is true, but sea
 
 Gabriel had such strong impact on Daniel that he had to recover several days.
 
-</details>
+</details><details><summary>
 
-<details>
-    <summary>Gog and Magog (Yadjuj and Madjuj)</summary>
+## Gog and Magog (Yadjuj and Madjuj)
+
+</summary>
 
 Two chapters of the Quran, Al Kahf and Al-Anbiya, discuss Gog and Magog. In the Quran Yajuj and Majuj (Gog and Magog) are suppressed by Dhul-Qarnayn "the two-horned one." Dhul-Qarnayn, having journeyed to the ends of the world, meets "a people who scarcely understood a word" who seek his help in building a barrier that will separate them from the people of Yajuj and Majuj who "do great mischief on earth". He agrees to build it for them, but warns that when the time comes (Last Age), Allah will remove the barrier.
+
+Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times.
+at some point at time people who have these characteristics or descendands of them will be let loose. 
 
 According to Sahih Muslim, the Prophet said:
 
@@ -6576,4 +6574,8 @@ After death of prophet Muhammad's ﷺ   son, Allah sent the sura Kawsar.
     Verily, we have blessed You with Al Kauthar (a river in Paradise). So,offer prayer and sacrifice to your Lord. Indeed, your enemy is the one cut off.
 
 > Narrated Anas bin Malik: One day the Messenger of Allah (may peace be upon him) was sitting amongst us that he dozed off. He then raised his head smilingly. We said: What makes you smile. Messenger of Allah? He said: A Sura has just been revealed to me, and then recited: In the name of Allah, the Compassionate, the Merciful. Verily We have given thee Kauthar (fount of abundance). Therefore, turn to thy Lord for prayer and offer sacrifice, and surely thy enemy is cut off (from the good). Then he (the Prophet) said: Do you know what Kauthar is? We said: Allah and His Messenger know best. The Prophet (may peace be upon him) said: It (Kauthar) is a canal which my Lord, the Exalted and Glorious has promised me, and there is an abundance of good in it. It is a cistern and my people would come to it on the Day of Resurrection, and tumblers there would be equal to the number of stars. A servant would be turned away from (among the people gathered there). Upon this I would say: My Lord, he is one of my people, and He (the Lord) would say: You do not know that he innovated new things (in Islam) after you. Ibn Hujr made this addition in the hadith:" He (the Prophet) was sitting amongst us in the mosque, and He (Allah) said: (You don't know) what he innovated after you"
+
+Abdallah ibn Zubayr separated and made his own khaliphate. he rebuilt te Kaaba and followed the hadith.
+He was crucified in front of the Kaaba and that man destroyed it and rebuilt it.
+
 </details>
