@@ -4046,6 +4046,12 @@ Some narrations say she was 40, ibn Iskhak reposrta that Khadija was 28. They ha
 * Fatima
 * Abdallah died in infancy. 
 
+### Raising Ali
+
+According to early historical sources, Ali was born in Mecca on 13 Rajab c. 600 CE. About the birthplace of Ali ibn Abi Talib, many sources, especially Shia ones, attest that Ali was the only person who was born inside the Kaaba. His father, Abu Talib ibn Abd al-Muttalib, was the leader of the Banu Hashim clan of the Quraysh tribe. He was also Muhammad's uncle and raised him after his parents died. Later on, when Abu Talib became impoverished, Ali, who was five at the time, was taken home and raised by Muhammad and his wife, Khadija.
+
+When Ali was nine or ten, Muhammad announced that he had received a divine revelation (wahy), and Ali believed him and professed to Islam. He was one of the first believers.
+
 </details><details><summary>
 
 ## Rebuilding of Kaaba
@@ -4107,27 +4113,28 @@ After freeing Zayd married Zaynab from Quraish. Zayd has a blessing of being the
 
 </summary>
 
-Before the first revelation, Muhammadﷺ   began to hear the rocks and stones say salam in his path.  he began having the dream about what would happen the next day. dreams lasted 6 full months. the prophet  ﷺ    cut himself from society and worship Allah. AS soon as he received the Revelation he never left the society.
+> Before the first revelation, Muhammadﷺ   began to hear the rocks and stones say salam in his path. He began having dreams about what would happen the next day. dreams lasted 6 full months. the prophet ﷺ    cut himself from society and worshipped Allah. As soon as he received the Revelation, he never left the society.
 
-When Muhammad  ﷺ    was nearly 40, he used to spend many hours alone in prayer and contemplating over the aspects of creation. He was concerned with the ignorance of divine guidance (Jahiliyyah), social unrest, injustice, widespread discrimination (particularly against women), fighting among tribes and abuse of tribal authorities prevalent in pre-Islamic Arabia. The moral degeneration of his fellow people, and his own quest for a true religion further lent fuel to this, with the result that he now began to withdraw periodically to a cave named Mount Hira, three miles north of Mecca, for contemplation and reflection. In the cave if you sit there you see the Kaaba. Islamic tradition holds that Muhammad during this period began to have dreams replete with spiritual significance which were fulfilled according to their true import; and this was the commencement of his divine revelation.
+When Muhammad ﷺ    was nearly 40, he used to spend many hours alone in prayer and contemplating over the aspects of creation. He was concerned with the ignorance of divine guidance (Jahiliyyah), social unrest, injustice, widespread discrimination (particularly against women), fighting among tribes and abuse of tribal authorities prevalent in pre-Islamic Arabia. The moral degeneration of his fellow people, and his own quest for a true religion further lent fuel to this, with the result that he now began to withdraw periodically to a cave named Mount Hira, three miles north of Mecca, for contemplation and reflection. In the cave if you sit there you see the Kaaba. Islamic tradition holds that Muhammad during this period began to have dreams replete with spiritual significance which were fulfilled according to their true import; and this was the commencement of his divine revelation.
 
-According to Muslim tradition, during one such occasion in the cave while he was in contemplation, the angel Gabriel appeared before him in the year AD 610 and said, "Read", upon which he replied, "I am unable to read". Thereupon the angel caught hold of him and embraced him heavily. This happened two more times after which the angel commanded Muhammad to recite the following verses:
+In the year AD 610, during one such occasion in the cave while Muhammad ﷺ   was in contemplation, the angel Gabriel appeared before him and said, "Read", upon which he replied, "I am unable to read". Thereupon the angel caught hold of him and embraced him heavily. This happened two more times after which the angel commanded Muhammad to recite the following verses:
 
-"Read! in the name of your Lord who created
-Man from a clinging substance.
-Read: Your Lord is most Generous,–
-He who taught by the pen–
-Taught man that which he knew not."
+    "Read! in the name of your Lord who created
+    Man from a clinging substance.
+    Read: Your Lord is most Generous,–
+    He who taught by the pen–
+    Taught man that which he knew not."
+    Quran, Surah Al-Alaq
 
 The revelation began on Monday one of the last 10 days of Ramadan (Laylatul Qadr).
 
-Perplexed by this new experience, Muhammad made his way to home where he was consoled by his wife Khadijah, who also took him to her Nestorian cousin Waraqah ibn Nawfal. Waraqah was a Christian. Islamic tradition holds that Waraqah, upon hearing the description, testified to Muhammad's prophethood, and convinced Muhammad that the revelation was from God. Waraqah said: "O my nephew! What did you see?" When Muhammad told him what had happened to him, Waraqah replied: "This is Namus (meaning Gabriel) that Allah sent to Moses. I wish I were younger. I wish I could live up to the time when your people would turn you out." Muhammad asked: "Will they drive me out?" Waraqah answered in the affirmative and said: "Anyone who came with something similar to what you have brought was treated with hostility; and if I should be alive until that day, then I would support you strongly." A few days later Waraqah died.
+Perplexed by this new experience, prophet Muhammad ﷺ   made his way home where he was consoled by his wife Khadijah. She believed that he saw the truth and said that Allah would not let him down. Khadijah also took him to her Nestorian cousin Waraqah ibn Nawfal. Waraqah was a Christian. Islamic tradition holds that Waraqah, upon hearing the description, testified to Muhammad's prophethood, and convinced Muhammad that the revelation was from God. Waraqah said: "O my nephew! What did you see?" When prophet Muhammad ﷺ   told him what had happened to him, Waraqah replied: "This is Namus (meaning Gabriel) that Allah sent to Moses. I wish I were younger. I wish I could live up to the time when your people would turn you out." Prophet Muhammad ﷺ   asked: "Will they drive me out?" Waraqah answered in the affirmative and said: "Anyone who came with something similar to what you have brought was treated with hostility; and if I should be alive until that day, then I would support you strongly." A few days later Waraqah died.
 
-The initial revelation was followed by a pause and a second encounter with Gabriel when Muhammad heard a voice from the sky and saw the same angel "sitting between the sky and the earth" and the revelations resumed with the first verses of chapter 74.
+The initial revelation was followed by a pause and a second encounter with Gabriel when prophet Muhammad ﷺ   heard a voice from the sky and saw the same angel "sitting between the sky and the earth" and the revelations resumed with the first verses of chapter 74.
 
-At-Tabari and Ibn Hisham reported that Muhammad left the cave of Hira after being surprised by the revelation, but later on, returned to the cave and continued his solitude, though subsequently he returned to Mecca. Tabari and Ibn Ishaq write that Muhammad told Zubayr:
+At-Tabari and Ibn Hisham reported that prophet Muhammad ﷺ   left the cave of Hira after being surprised by the revelation, but later on, returned to the cave and continued his solitude, though subsequently he returned to Mecca. Tabari and Ibn Ishaq write that prophet Muhammad ﷺ   told Zubayr:
 
-"when I was midway on the mountain, I heard a voice from heaven saying "O Muhammad! you are the apostle of Allah and I am Gabriel." I raised my head towards heaven to see who was speaking, and Gabriel in the form of a man with feet astride the horizon, saying, "O Muhammad! you are the apostle of Allah and I am Gabriel." I stood gazing at him moving neither forward nor backward, then I began to turn my face away from him, but towards whatever region of the sky I looked, I saw him as before."
+> "when I was midway on the mountain, I heard a voice from heaven saying "O Muhammad! you are the apostle of Allah and I am Gabriel." I raised my head towards heaven to see who was speaking, and Gabriel in the form of a man with feet astride the horizon, saying, "O Muhammad! you are the apostle of Allah and I am Gabriel." I stood gazing at him moving neither forward nor backward, then I began to turn my face away from him, but towards whatever region of the sky I looked, I saw him as before."
 
 Biographers disagree about the period of time between Muhammad's first and second experiences of revelation. Ibn Ishaq writes that three years elapsed from the time that Muhammad received the first revelation until he started to preach publicly. Bukhari takes chapter 74 as the second revelation however chapter 68 has strong claims to be the second revelation. 
 
@@ -4137,31 +4144,47 @@ Biographers disagree about the period of time between Muhammad's first and secon
 
 </summary>
 
-5 stages of da'wa:
+After receiving a certain ayah, the prophet  ﷺ    gathered banu Hashim and made khutbah to them. Abu Lahab opposed saying that we have our fathers ways and who is this man to say the different.
 
-1. Private da'wa (3 years)
-2. Open preaching with the tongue without military confrontation (10 years) last 6 were very difficult
-3. Open da'wa with the tongue with physical fight only with one party (only Quraish)
-4. Open da'wa to all with 'izza. attack only if you need to defence (from treaty of Hudaybia until the conquest of Mecca)
-5. Open da'wa along with physical confrontation against anyone who opposes islam.
-   After receiving a certain ayah, the prophet  ﷺ    gathered banu Hashim and made khutbah to them. Abu Lahab opposed saying that we have our fathers ways and who is this man to say the different.
-   Then the prophet  ﷺ    climbed on top of Safa and made the message public. He asked do you trust me and they replied oh yes we havent heard from you any lie. and he said the message to the tribes.
-   Abu Lahab threw sand in the direction of the prophet  ﷺ   . 
-   Banu Hashim people started to press on Abu Talib to stop his preaching or give him to other tribes. They couldn't touch the prophet Muhammad  ﷺ    if Abu Talib doesn't give the permission. 
-   Do what you will, my nephew, for Wallahi I will not come to you again to stop your preaching.
-   All Quraish tribe people came to Abu Talib trying to exchange sons between tribes.
-   It was the whole Quraish against Abu Talib but he protected the prophet  ﷺ    till the last day. However it is believed that he didn't accept islam.
-   Abu Talib was one of the famous poets of Quraish.
+Then the prophet ﷺ   climbed on top of Safa and made the message public. He asked do you trust me and they replied oh yes we havent heard from you any lie. And then he said the message to the tribes. Abu Lahab threw sand in the direction of the prophet ﷺ  . 
+
+### First Muslims
+
+Early converts to Islam included Muhammad's wife, Khadija, his cousin Ali, his adopted son Zayd, his nursemaid Umm Ayman, and his friend Abu Bakr.
+
+Very few of the Quraysh gave weight to Muhammad's message; most ignored it and a few mocked him. According to Welch, early Qur'anic verses were not "based on a dogmatic conception of monotheism but on a strong general moral and religious appeal," further adding that the key themes of these Meccan surahs include the moral responsibility of man towards his creator: the resurrection of the dead, the Day of Judgement supplemented with vivid descriptions of the tortures in hell and pleasures in paradise, the wonders of nature and everyday life, the signs of God, and the proof of the existence of a greater power who will take into account the greed of people and their suppression of the poor. The foundations of early religious duties were also laid and included belief in God, asking for forgiveness of sins, offering frequent prayers, assisting others with emphasis on those in need, ejecting cheating and the love of wealth, chastity, and the prevention of femicide which was prevalent in early Arabia.
+
+There were three main groups of early converts to Islam: younger brothers and sons of great merchants, people who had fallen out of the first rank in their tribe or failed to attain it, and the weak, mostly unprotected, foreigners. Abu Bakr, who used to purchase slaves to set them free in accordance with Muhammad's principle of equality, attracted a large number of converts. Nevertheless, the number of these early converts remained small, and Muhammad concentrated on quietly building a small, but spiritually strong, community. Around 613, the Quran commanded Muhammad to `"admonish your nearest kinsmen,"`[Quran 26:214] initiating the phase of public preaching. One day, Muhammad climed the As Safa mountain, and called out the tribal chiefs. After receiving assurances that the chiefs, who reportedly never heard Muhammad tell lies, would believe him, he declared the Oneness of God. Later Muhammad organized dinners in which he conveyed and advocated the substance of his message. At these events, Muhammad met fierce opposition from one of his uncles, Abu Lahab, while others such as Hamza ibn Abd al-Muttalib and al-'Abbas accepted him. Several reasons have been given for the resentment of the Quraysh toward Muhammad's message, the most accepted is that the Quraysh also did not accept Muhammad as a prophet since he came from a clan less powerful than his opponents'.
 
 </details><details><summary>
 
-## **616**: Persecution of the first Muslims
+## **616**: Persecution of first Muslims
 
 </summary>
 
-The first person who believed in the Prophet Muhammad was Khadijah. After the prophet  ﷺ    came home and asked to cover him, he told what happened to Khadijah. She believed that he saw the truth and said that Allah would not let you down.
+In the early days of Islam at Mecca, the new Muslims were often subjected to abuse and persecution. The persecution lasted for twelve years beginning from the advent of Islam to Hijrah. Muhammad preached Islam secretly for three years. Then, he openly preached Islam, resulting in public prosecutions. Muhammad and his followers were first belittled and ridiculed, then persecuted and physically attacked for departing from traditional Mecca's tribal ways.
 
- ibn Masood was the first to recite the Quran besides the prophet  ﷺ   .
+When Islam began to spread, the Makkans asked Abu Talib, the uncle and guardian to Muhammad, to hand him over to them for execution but he repeatedly refused. Abu Talib acted fast and called on the members of Banu Hashim and Banu al-Muttalib to meet at the Ka'bah and convinced them to pledge that they would protect their clansman, Muhammad. Abu Lahab, another of the Prophet's uncles and enemy, refused to take the pledge and declared he was on the side of the Quraysh.
+
+Prophet Muhammad's uncle Abu Talib was one of the famous poets of Quraish and he was the chief of Banu Hashim. Banu Hashim people started to press on Abu Talib to stop his preaching or give him to other tribes. They couldn't touch the prophet Muhammad ﷺ  , if Abu Talib doesn't give the permission. Abu Talib tried to talk to prophet Muhammad ﷺ   but eventually said: "Do what you will, my nephew, for Wallahi, I will not come to you again to stop your preaching".
+
+All Quraish tribe people came to Abu Talib trying to exchange sons between tribes, so that he can give them prophet Muhammad ﷺ   , but Abu Talib refused. It was the whole Quraish against Abu Talib but he protected the prophet ﷺ    till the last day. However it is believed that he didn't accept islam.
+
+Slaves Sumayyah bint Khabbab, and her husband Yasir, were tortured to death by their master Abu Jahl.[5][6]
+
+Muhammad was protected somewhat by the influence of his family. Abu Lahab's wife, Umm Jamil, would regularly dump filth outside his door.[7] An eyewitness mentioned that the worst thing he ever saw the Quraysh doing to Muhammad was that a person from Quraysh clutched his clothes.[8]
+
+Narrated Abdullah that while Muhammad was in the state of prostration, surrounded by a group of people from Quraysh pagans. 'Uqba bin Abi Mu'ait came and brought the intestines of a camel and threw them on the back of Muhammad. Muhammad did not raise his head from prostration until Fatima (i.e. his daughter) came and removed those intestines from his back.[9]
+
+Umayya Bin Khalf brutally tortured Bilal upon learning that Bilal had embraced Islam. Umayya would put a rope around Bilal's neck and drag him in the streets. In the burning hot desert heat, Umayya used to wrap Bilal in raw cow's hide. Due to the great stench of rotting hide, Bilal would find it difficult to breathe. Umayya would also chain Bilal heavily, lay him on hot sand, and put heavy stones on him.[1]
+
+Abu Lahab used to fling stones at Muhammad. He forced his two sons to divorce Ruqaiya and Umm Kulthum, who were daughters of Muhammad. People used to spit and throw dust at Muhammad. Makkan polytheists used to grab the hair of Uqbah and twist his neck. The slaves were often tortured by their masters for apostasy.
+
+
+
+The first person who believed the prophesy of the prophet Muhammad ﷺ   was Khadijah. After the prophet ﷺ   came home and asked to cover him, he told what happened to Khadijah. 
+
+Abdullah ibn Masood was the first to recite the Quran besides the prophet  ﷺ  .
 abu Jahl, Abu Sufyan listened to recitation secretly in the morning near the house of the prophet  ﷺ   .
 the most famous poet of Quraish (Bani Maghzum) was Al Walid al Mughira. his vice wa abu Jahl. Al Walid heard the recitation and was mesmerized but Abu Jahl said that there will be no respect from his people until he says something bad about the recitation.
 Allah ST send ayahs about Al Walid that we gave him money and many sons
@@ -6577,5 +6600,13 @@ After death of prophet Muhammad's ﷺ   son, Allah sent the sura Kawsar.
 
 Abdallah ibn Zubayr separated and made his own khaliphate. he rebuilt te Kaaba and followed the hadith.
 He was crucified in front of the Kaaba and that man destroyed it and rebuilt it.
+
+5 stages of da'wa:
+
+1. Private da'wa (3 years).
+2. Open preaching with the tongue without military confrontation (10 years) last 6 were very difficult.
+3. Open da'wa with the tongue with physical fight only with one party (only Quraish).
+4. Open da'wa to all with 'izza. attack only if you need to defence (from treaty of Hudaybia until the conquest of Mecca)
+5. Open da'wa along with physical confrontation against anyone who opposes islam.
 
 </details>
