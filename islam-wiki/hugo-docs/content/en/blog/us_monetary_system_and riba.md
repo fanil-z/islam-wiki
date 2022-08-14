@@ -15,7 +15,10 @@ Global Hunger
 Lockheed Martin
 Islamic view which is the most important
 
+About Islamic Banking
+https://www.youtube.com/watch?v=4G_2zOyLKFA
 
+https://positivemoney.org
 
 The very first question that comes to mind "How did that happen?"
 

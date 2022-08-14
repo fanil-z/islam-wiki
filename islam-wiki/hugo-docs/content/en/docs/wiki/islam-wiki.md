@@ -4148,13 +4148,15 @@ After receiving a certain ayah, the prophet  ﷺ    gathered banu Hashim and mad
 
 Then the prophet ﷺ   climbed on top of Safa and made the message public. He asked do you trust me and they replied oh yes we havent heard from you any lie. And then he said the message to the tribes. Abu Lahab threw sand in the direction of the prophet ﷺ  . 
 
+> Narrated Ibn Abbas: When the Verse: 'And warn your tribe of near-kindred (26:214), was revealed, the Prophet (Mohammed) ascended the Safa (mountain) and started calling, "O Bani Fihr! O Bani Adi!" addressing various tribes of Quraish till they were assembled. Those who could not come themselves, sent their messengers to see what was there. Abu Lahab and other people from Quraish came and the Prophet then said, "Suppose I told you that there is an (enemy) cavalry in the valley intending to attack you, would you believe me?" They said, "Yes, for we have not found you telling anything other than the truth." He then said, "I am a warner to you in face of a terrific punishment." Abu Lahab said (to the Prophet) "May your hands perish all this day. Is it for this purpose you have gathered us?" Then it was revealed: "Perish the hands of Abu Lahab (one of the Prophet's uncles), and perish he! His wealth and his children will not profit him...." (111.1-5)
+
 ### First Muslims
 
 Early converts to Islam included Muhammad's wife, Khadija, his cousin Ali, his adopted son Zayd, his nursemaid Umm Ayman, and his friend Abu Bakr.
 
 Very few of the Quraysh gave weight to Muhammad's message; most ignored it and a few mocked him. According to Welch, early Qur'anic verses were not "based on a dogmatic conception of monotheism but on a strong general moral and religious appeal," further adding that the key themes of these Meccan surahs include the moral responsibility of man towards his creator: the resurrection of the dead, the Day of Judgement supplemented with vivid descriptions of the tortures in hell and pleasures in paradise, the wonders of nature and everyday life, the signs of God, and the proof of the existence of a greater power who will take into account the greed of people and their suppression of the poor. The foundations of early religious duties were also laid and included belief in God, asking for forgiveness of sins, offering frequent prayers, assisting others with emphasis on those in need, ejecting cheating and the love of wealth, chastity, and the prevention of femicide which was prevalent in early Arabia.
 
-There were three main groups of early converts to Islam: younger brothers and sons of great merchants, people who had fallen out of the first rank in their tribe or failed to attain it, and the weak, mostly unprotected, foreigners. Abu Bakr, who used to purchase slaves to set them free in accordance with Muhammad's principle of equality, attracted a large number of converts. Nevertheless, the number of these early converts remained small, and Muhammad concentrated on quietly building a small, but spiritually strong, community. Around 613, the Quran commanded Muhammad to `"admonish your nearest kinsmen,"`[Quran 26:214] initiating the phase of public preaching. One day, Muhammad climed the As Safa mountain, and called out the tribal chiefs. After receiving assurances that the chiefs, who reportedly never heard Muhammad tell lies, would believe him, he declared the Oneness of God. Later Muhammad organized dinners in which he conveyed and advocated the substance of his message. At these events, Muhammad met fierce opposition from one of his uncles, Abu Lahab, while others such as Hamza ibn Abd al-Muttalib and al-'Abbas accepted him. Several reasons have been given for the resentment of the Quraysh toward Muhammad's message, the most accepted is that the Quraysh also did not accept Muhammad as a prophet since he came from a clan less powerful than his opponents'.
+There were three main groups of early converts to Islam: younger brothers and sons of great merchants, people who had fallen out of the first rank in their tribe or failed to attain it, and the weak, mostly unprotected, foreigners. Abu Bakr, who used to purchase slaves to set them free in accordance with Muhammad's principle of equality, attracted a large number of converts. Nevertheless, the number of these early converts remained small, and Muhammad concentrated on quietly building a small, but spiritually strong, community. Around 613, the Quran commanded Muhammad to `"admonish your nearest kinsmen,"`[Quran 26:214] initiating the phase of public preaching. One day, Muhammad climbed the As Safa mountain, and called out the tribal chiefs. After receiving assurances that the chiefs, who reportedly never heard Muhammad tell lies, would believe him, he declared the Oneness of God. Later Muhammad organized dinners in which he conveyed and advocated the substance of his message. At these events, Muhammad met fierce opposition from one of his uncles, Abu Lahab, while others such as Hamza ibn Abd al-Muttalib and al-'Abbas accepted him.
 
 </details><details><summary>
 
@@ -4168,27 +4170,37 @@ When Islam began to spread, the Makkans asked Abu Talib, the uncle and guardian 
 
 Prophet Muhammad's uncle Abu Talib was one of the famous poets of Quraish and he was the chief of Banu Hashim. Banu Hashim people started to press on Abu Talib to stop his preaching or give him to other tribes. They couldn't touch the prophet Muhammad ﷺ  , if Abu Talib doesn't give the permission. Abu Talib tried to talk to prophet Muhammad ﷺ   but eventually said: "Do what you will, my nephew, for Wallahi, I will not come to you again to stop your preaching".
 
-All Quraish tribe people came to Abu Talib trying to exchange sons between tribes, so that he can give them prophet Muhammad ﷺ   , but Abu Talib refused. It was the whole Quraish against Abu Talib but he protected the prophet ﷺ    till the last day. However it is believed that he didn't accept islam.
+All Quraish tribe people came to Abu Talib trying to exchange sons between tribes, so that he can give them prophet Muhammad ﷺ   , but Abu Talib refused. It was the whole Quraish against Abu Talib but he protected the prophet ﷺ    till his last day. However it is believed that he didn't accept islam.
 
-Slaves Sumayyah bint Khabbab, and her husband Yasir, were tortured to death by their master Abu Jahl.[5][6]
+Slaves Sumayyah bint Khabbab, and her husband Yasir, were tortured to death by their master Abu Jahl.
 
-Muhammad was protected somewhat by the influence of his family. Abu Lahab's wife, Umm Jamil, would regularly dump filth outside his door.[7] An eyewitness mentioned that the worst thing he ever saw the Quraysh doing to Muhammad was that a person from Quraysh clutched his clothes.[8]
+Prophet Muhammad ﷺ   was protected somewhat by the influence of his family. Abu Lahab's wife, Umm Jamil, would regularly dump filth outside his door. An eyewitness mentioned that the worst thing he ever saw the Quraysh doing to Muhammad was that a person from Quraysh clutched his clothes.
 
-Narrated Abdullah that while Muhammad was in the state of prostration, surrounded by a group of people from Quraysh pagans. 'Uqba bin Abi Mu'ait came and brought the intestines of a camel and threw them on the back of Muhammad. Muhammad did not raise his head from prostration until Fatima (i.e. his daughter) came and removed those intestines from his back.[9]
+Abu Lahab's wife, Umm Jamil (Abu Sufyan's sister), had made it a practice to cast thorns at Prophet Muhammad's ﷺ   door in the night so that when he or his children came out of the house at dawn, they should run thorns in the foot.
 
-Umayya Bin Khalf brutally tortured Bilal upon learning that Bilal had embraced Islam. Umayya would put a rope around Bilal's neck and drag him in the streets. In the burning hot desert heat, Umayya used to wrap Bilal in raw cow's hide. Due to the great stench of rotting hide, Bilal would find it difficult to breathe. Umayya would also chain Bilal heavily, lay him on hot sand, and put heavy stones on him.[1]
+> Narrated Ibn Abbas: Abu Lahab said, "May you perish! Is it for this that you have gathered us?" So there was revealed: 'Perish the hands of Abu Lahab'.
 
-Abu Lahab used to fling stones at Muhammad. He forced his two sons to divorce Ruqaiya and Umm Kulthum, who were daughters of Muhammad. People used to spit and throw dust at Muhammad. Makkan polytheists used to grab the hair of Uqbah and twist his neck. The slaves were often tortured by their masters for apostasy.
+    Perish the two hands of Abu Lahab (an uncle of the Prophet), and perish he!
+    His wealth will not avail him or that which he gained.
+    He will be burnt in a Fire of blazing flames!
+    And his wife too, who carries wood (thorns of Sadan which she used to put on the way of the Prophet (Peace be upon him), or use to slander him).
+    In her neck is a twisted rope of Masad (palm fibre).
+    Quran, Surah Al-Masad
 
+Narrated Abdullah that while prophet Muhammad ﷺ   was in the state of prostration, surrounded by a group of people from Quraysh pagans. 'Uqba bin Abi Mu'ait came and brought the intestines of a camel and threw them on the back of prophet Muhammad ﷺ  . The prophet ﷺ   did not raise his head from prostration until Fatima (i.e. his daughter) came and removed those intestines from his back.
 
+Umayya Bin Khalf brutally tortured Bilal upon learning that Bilal had embraced Islam. Umayya would put a rope around Bilal's neck and drag him in the streets. During this torture, Bilal would shout with his beautiful voice "Ahadun Ahad! Ahadun Ahad!" meanint "the One! the One!". In the burning hot desert heat, Umayya used to wrap Bilal in raw cow's hide. Due to the great stench of rotting hide, Bilal would find it difficult to breathe. Umayya would also chain Bilal heavily, lay him on hot sand, and put heavy stones on him.
 
-The first person who believed the prophesy of the prophet Muhammad ﷺ   was Khadijah. After the prophet ﷺ   came home and asked to cover him, he told what happened to Khadijah. 
+Abu Lahab used to fling stones at prophet Muhammad ﷺ  . He forced his two sons to divorce Ruqaiya and Umm Kulthum, who were daughters of prophet Muhammad ﷺ  . People used to spit and throw dust at prophet ﷺ  . Makkan polytheists used to grab the hair of Uqbah and twist his neck. The slaves were often tortured by their masters for apostasy.
 
-Abdullah ibn Masood was the first to recite the Quran besides the prophet  ﷺ  .
-abu Jahl, Abu Sufyan listened to recitation secretly in the morning near the house of the prophet  ﷺ   .
+> Narrated Jundub bin Sufyan: Once Muhammad ﷺ   became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that your satan has forsaken you, for I have not seen him with you for two or three nights!" On that Allah revealed: 'By the fore-noon, and by the night when it darkens, your Lord (O Muhammad) has neither forsaken you, nor hated you.' (93.1-3)
+
+Abdullah ibn Masood was the first to recite the Quran besides the prophet ﷺ  .
+Abu Jahl and Abu Sufyan listened to recitation secretly in the morning near the house of the prophet ﷺ  .
 the most famous poet of Quraish (Bani Maghzum) was Al Walid al Mughira. his vice wa abu Jahl. Al Walid heard the recitation and was mesmerized but Abu Jahl said that there will be no respect from his people until he says something bad about the recitation.
 Allah ST send ayahs about Al Walid that we gave him money and many sons
-he says there is special type of magic
+he says there is special type of magic.
+
 Three questions:
 
 1. about men in the cave
@@ -4200,6 +4212,37 @@ Three questions:
    Khababb was a swordsman. his back was in briuses and showed his back to Umar ra.
 
 </details><details><summary>
+  
+## First Meccan Surahs of the Quran
+
+</summary>
+
+The First Meccan period refers to the first period in which Muhammad started receiving revelations. The First Meccan surahs are chapters that have been revealed throughout that period. They reflect the public setting in which they seem to have been shared and due to their structure and length, they seem to be presented in a manner that would be very easy to memorize and pass along orally, not to mention that many of the surahs seem to be used during early liturgies. They are relatively shorter than other chapters in the Quran but are more diverse in terms of structure. 
+
+Compared to other later surahs, the surahs of the First Meccan Period employ more rhymes despite their shorter length. They rank from being very short, a paragraph of less than five verses (for example surah 97, 103, 105, 108 and 111) to being organized in clusters of two (surahs 81, 91), three (surahs 82, 84, 86, 90, 92) or four verses (surahs 85, 89). Some of these surahs also take on a balanced tripartite structure that begin and conclude with. The major theme of these surahs revolves around presenting to humanity how obvious the existence of God is through the use of oath formulas involving the power of nature in an emphatic tone. We especially see the surahs reference destroyed civilizations, declaring their destruction to be the will of God. A stress is put on God being the creator of Earth and Heaven and everything that lies in between and also His unreachable generosity. 
+
+In addition, certain surahs generally talk about ethics and values human beings should have, especially the fact that human beings should be humbled by God's power, they should not pursue an extravagant life, be loving and sharing, most particularly with the poorer. Last but not least these surahs contain eschatological prophecies. Although not elaborated as in later surahs, these prophecies appear with a threatening tone to make people generally know about the existence of the Day of Judgement and all that it encompasses (surah 103, 68, etc.), but also, they contain some of the more visual explanations of Heaven.
+
+</details><details><summary>
+
+## Rabbis test prophet Muhammad ﷺ   (Surah Al-Kahf) 
+
+</summary>
+
+Arab Muslim historian and hagiographer, Ibn Ishaq, reported in his traditional book (oral traditions) of biography of Muhammad, Sirat Rasul Allah that the 18th surah of the Qur'an (which includes the story of Dhu l-Qarnayn) was revealed to the Islamic prophet Muhammad by God on account of some questions posed by rabbis residing in the city of Medina – the verse was revealed during the Meccan period of Muhammad's life. According to Ibn Ishaq, Muhammad's tribe, the powerful Quraysh, were greatly concerned about their tribesman who had started claiming prophethood and wished to consult rabbis about the matter. The Quraysh sent two men to the rabbis of Medina, reasoning that they had superior knowledge of the scriptures and about the prophets of God. The two Quraysh men described their tribesman, Muhammad, to the rabbis.
+
+The rabbis told the men to ask Muhammad three questions:
+They [the rabbis] said, "Ask him about three things which we will tell you to ask, and if he answers them then he is a Prophet who has been sent; if he does not, then he is saying things that are not true, in which case how you will deal with him will be up to you. Ask him about some young men in ancient times, what was their story for theirs is a strange and wondrous tale. Ask him about a man who traveled a great deal and reached the east and the west of the earth. What was his story and ask him about the Ruh – what is it? If he tells you about these things, then he is a Prophet, so follow him, but if he does not tell you, then he is a man who is making things up, so deal with him as you see fit."
+
+According to Ibn Ishaq, when Muhammad was informed of the three questions from the rabbis, he said that he would have the answers in the morning but did not say "if God wills it". For fifteen days, Muhammad waited eagerly for the revelation. Muhammad did not answer the question until then. Doubt in Muhammad began to grow amongst the people of Mecca. Then, after fifteen days, Muhammad received the revelation of al-Kahf as an answer to the questions.
+
+Al-Kahf ( الكهف, al-kahf; The Cave) is the 18th chapter (sūrah) of the Quran with 110 verses (āyāt).
+
+The story of believers falling asleep in a cave for a long time is present also in the Christian tradition, see [Sleepers in the Cave](#sleepers_in_the_cave).
+
+</details>
+
+<details><summary>
 
 ## Migration of Muslims to Abyssinia
 
@@ -4238,33 +4281,32 @@ Umi Habiba's husband died and left alone and the prophet  ﷺ    proposed her. N
 
 </summary>
 
-Hamza converted to islam. one of strangest conversion stories. 
-
-Abu Jahl was cursing the prophet  ﷺ    and his fathers. and the woman of Banu Hashim got insulted and women came to Hamza and said what kind of uncle are you, your nephew is insluted and noone defends him. the whole Mecca saw it. Hamza marched to Abu Jahl and smacked him in the face. How dare you insult him I am also following his religion.
+Abu Jahl was cursing the prophet ﷺ   and his fathers. and the woman of Banu Hashim got insulted and women came to Hamza and said what kind of uncle are you, your nephew is insluted and noone defends him. the whole Mecca saw it. Hamza marched to Abu Jahl and smacked him in the face. How dare you insult him I am also following his religion.
 
 Words just came out in anger. Hamza went home and made dua to guide him.
 
-Next morning he came to his nephew and they talked and Hamza converted. and the prophet  ﷺ    finally had support from senior of his tribe. and the Quraish had to turn down. 6th year of da'wa. Only after 3 days Umar converted.
+Next morning he came to his nephew and they talked and Hamza converted. and the prophet ﷺ   finally had support from senior of his tribe. and the Quraish had to turn down. 6th year of da'wa. Only after 3 days Umar converted.
 
 ibn Mas'ud said we were never able to pray in the Haram until Umar converted.
-the prophet  ﷺ    gave him a name al-Faruq after they for the first time went  they all together Haram to pray.
+the prophet ﷺ   gave him a name al-Faruq after they for the first time went  they all together Haram to pray.
 
-Umar before islam liked to drink. the pubs were closed so he went at night to the Kaaba and he heard the prophet  ﷺ    praying in front of the Kaaba and heard the recitation.
+Umar before islam liked to drink. the pubs were closed so he went at night to the Kaaba and he heard the prophet ﷺ   praying in front of the Kaaba and heard the recitation.
 
-So he wanted to beat him but stopped and listened. surah alHaqqa. he was amazed. the meccan surahs are eloqient and powerful. he began to think where is this coming from. thatwas the first time. he went home. 
+So he wanted to beat him but stopped and listened. surah alHaqqa. he was amazed. the meccan surahs are eloquent and powerful. he began to think where is this coming from. thatwas the first time. he went home. 
 
-Abu Jahl promises 100 camels for the one who gets rid of the prophet  ﷺ   . Umar decided to do it and took his sword. and Nu'ayn has just converted and asked where are you going so he said have you lost your mind. and if you want to know go fix your own family first. your sister and brother in law just accepted islam. so he marched to his sister house and heard the recitation of the Quran. 
+Abu Jahl promises 100 camels for the one who gets rid of the prophet ﷺ  . Umar decided to do it and took his sword. and Nu'ayn has just converted and asked where are you going so he said have you lost your mind. and if you want to know go fix your own family first. your sister and brother in law just accepted islam. so he marched to his sister house and heard the recitation of the Quran. 
 
 Khabbab was assigned to teach the Quran for Fatima ibn Khattab.
 
-He wanted to punch Said ibn Zays but punched his sister. so he calmed down and asked let me see what you are reading. Umar could read and write. Umar took ghusl and read Ta Ha. he asked wher is the prophet ﷺ   . and he went to the house of al Arkham still had a sword. 
+He wanted to punch Said ibn Zays but punched his sister. so he calmed down and asked let me see what you are reading. Umar could read and write. Umar took ghusl and read Ta Ha. he asked wher is the prophet ﷺ  . and he went to the house of al Arkham still had a sword. 
 
-Khabbab ibn Al Aratt - swordsman whos back was burned and who helped to turn Umar. he said o Umar may you be the one who the prophet Muhammad sas prayed for.
+Khabbab ibn Al Aratt - swordsman whos back was burned and who helped to turn Umar. he said o Umar may you be the one who the prophet Muhammad ﷺ   prayed for.
 
 Sahaba saw Umar and scared. Hamza said let him in .
 
-Umar said he came to convert and the prophet ﷺ    said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
-He personally informed Abu Jahl. 
+Umar said he came to convert and the prophet ﷺ   said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
+
+Umar personally informed Abu Jahl. This is one the funniest stories of early Islam. How Umar came to Abu Jahl to inform him that he has accepted Islam.
 
 </details><details><summary>
 
