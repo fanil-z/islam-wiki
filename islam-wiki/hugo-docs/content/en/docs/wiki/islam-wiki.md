@@ -4156,11 +4156,19 @@ Early converts to Islam included Muhammad's wife, Khadija, his cousin Ali, his a
 
 Very few of the Quraysh gave weight to Muhammad's message; most ignored it and a few mocked him. According to Welch, early Qur'anic verses were not "based on a dogmatic conception of monotheism but on a strong general moral and religious appeal," further adding that the key themes of these Meccan surahs include the moral responsibility of man towards his creator: the resurrection of the dead, the Day of Judgement supplemented with vivid descriptions of the tortures in hell and pleasures in paradise, the wonders of nature and everyday life, the signs of God, and the proof of the existence of a greater power who will take into account the greed of people and their suppression of the poor. The foundations of early religious duties were also laid and included belief in God, asking for forgiveness of sins, offering frequent prayers, assisting others with emphasis on those in need, ejecting cheating and the love of wealth, chastity, and the prevention of femicide which was prevalent in early Arabia.
 
+Abu Bakr was the first person to accept Islam upon hearing about it from Muhammad for the first time. Prior to that Abu Bakr was a monotheist and also avoided alcohol and idol worshipping. Abu Bakr is considered to be the first Muslim convert according to a majority of historical sources.
+
+Ali ibn Abi Talib is known among the earliest and youngest Muslim converts. The early historian Ibn Ishaq and Tabari puts Ali Muhammad's cousin and son-in-law as the first child convert.
+
 There were three main groups of early converts to Islam: younger brothers and sons of great merchants, people who had fallen out of the first rank in their tribe or failed to attain it, and the weak, mostly unprotected, foreigners. Abu Bakr, who used to purchase slaves to set them free in accordance with Muhammad's principle of equality, attracted a large number of converts. Nevertheless, the number of these early converts remained small, and Muhammad concentrated on quietly building a small, but spiritually strong, community. Around 613, the Quran commanded Muhammad to `"admonish your nearest kinsmen,"`[Quran 26:214] initiating the phase of public preaching. One day, Muhammad climbed the As Safa mountain, and called out the tribal chiefs. After receiving assurances that the chiefs, who reportedly never heard Muhammad tell lies, would believe him, he declared the Oneness of God. Later Muhammad organized dinners in which he conveyed and advocated the substance of his message. At these events, Muhammad met fierce opposition from one of his uncles, Abu Lahab, while others such as Hamza ibn Abd al-Muttalib and al-'Abbas accepted him.
+
+Other early converts: Abdullah ibn Masood, Uthman ibn Affan, Khabbab.
+
+ibn Masood as a youth worked as a shepherd for Uqba ibn Abu Mu'ayt. He first met prophet Muhammad ﷺ   and Abu Bakr while watching his flocks when they were "fleeing from the idolators". They asked him for milk, but Abdullah said he could not steal from his employer. According to Masʿūd, prophet Muhammad ﷺ   then asked for an unmated ewe and stroked its udder, whereupon milk poured out. Abdullah immediately asked to be taught "some of these words", and prophet Muhammad ﷺ   began to teach him the Qur'an. Abdullah later said that he learned 70 suras from prophet Muhammad ﷺ  .
 
 </details><details><summary>
 
-## **616**: Persecution of first Muslims
+## Persecution of first Muslims
 
 </summary>
 
@@ -4189,27 +4197,30 @@ Abu Lahab's wife, Umm Jamil (Abu Sufyan's sister), had made it a practice to cas
 
 Narrated Abdullah that while prophet Muhammad ﷺ   was in the state of prostration, surrounded by a group of people from Quraysh pagans. 'Uqba bin Abi Mu'ait came and brought the intestines of a camel and threw them on the back of prophet Muhammad ﷺ  . The prophet ﷺ   did not raise his head from prostration until Fatima (i.e. his daughter) came and removed those intestines from his back.
 
-Umayya Bin Khalf brutally tortured Bilal upon learning that Bilal had embraced Islam. Umayya would put a rope around Bilal's neck and drag him in the streets. During this torture, Bilal would shout with his beautiful voice "Ahadun Ahad! Ahadun Ahad!" meanint "the One! the One!". In the burning hot desert heat, Umayya used to wrap Bilal in raw cow's hide. Due to the great stench of rotting hide, Bilal would find it difficult to breathe. Umayya would also chain Bilal heavily, lay him on hot sand, and put heavy stones on him.
+Umayya Bin Khalf brutally tortured Bilal upon learning that Bilal had embraced Islam. Umayya would put a rope around Bilal's neck and drag him in the streets. During this torture, Bilal would shout with his beautiful voice "Ahadun Ahad! Ahadun Ahad!" meanint "the One! the One!". In the burning hot desert heat, Umayya used to wrap Bilal in raw cow's hide. Due to the great stench of rotting hide, Bilal would find it difficult to breathe. Umayya would also chain Bilal heavily, lay him on hot sand, and put heavy stones on him. After such punishments, news of this slave reached some of Muhammad's companions who told Muhammad of the slave. Muhammad then sent Abu Bakr. Eventually, Abu Bakr negotiated a deal with Umayyah to purchase Bilal and emancipate him from slavery.
 
 Abu Lahab used to fling stones at prophet Muhammad ﷺ  . He forced his two sons to divorce Ruqaiya and Umm Kulthum, who were daughters of prophet Muhammad ﷺ  . People used to spit and throw dust at prophet ﷺ  . Makkan polytheists used to grab the hair of Uqbah and twist his neck. The slaves were often tortured by their masters for apostasy.
 
 > Narrated Jundub bin Sufyan: Once Muhammad ﷺ   became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that your satan has forsaken you, for I have not seen him with you for two or three nights!" On that Allah revealed: 'By the fore-noon, and by the night when it darkens, your Lord (O Muhammad) has neither forsaken you, nor hated you.' (93.1-3)
 
 Abdullah ibn Masood was the first to recite the Quran besides the prophet ﷺ  .
-Abu Jahl and Abu Sufyan listened to recitation secretly in the morning near the house of the prophet ﷺ  .
-the most famous poet of Quraish (Bani Maghzum) was Al Walid al Mughira. his vice wa abu Jahl. Al Walid heard the recitation and was mesmerized but Abu Jahl said that there will be no respect from his people until he says something bad about the recitation.
-Allah ST send ayahs about Al Walid that we gave him money and many sons
-he says there is special type of magic.
 
-Three questions:
+The most famous poet of Quraish (Bani Maghzum) was Al Walid al Mughira. He was the chief of the Banu Makhzum clan of the Quraysh tribe and he was the father of Khalid ibn Al-Walid. his vice was abu Jahl. Al Walid heard the recitation and was mesmerized but Abu Jahl said that there will be no respect from his people until he says something bad about the recitation. Allah ST send ayahs about Al Walid that we gave him money and many sons he says there is special type of magic.
 
-1. about men in the cave
-2. about Dhul Karnain
-3. knowledge of the Ruh (no one knows the ruh and you have been given just a little of knowledge)
-   Abu Jahl is firaun of my ummah. Abu Jahl tortured slaves and boycotted muslim businessmen. 
-   Ammar, Sumayah, Bilal, Khabbab 
-   Bilal didnt give up and refused to budge. He would say Ahadun Ahad. his master would pin him near the stone under the sun for the whole day.
-   Khababb was a swordsman. his back was in briuses and showed his back to Umar ra.
+    and I gave him extensive wealth, and sons present before (his) eyes.
+    Quran 74:12-13
+
+Walīd ibn al-Mughīra was one of the Quraysh leaders who were indirectly mentioned in several verses of Quran. He was one of the five principal offenders of Muhammad, the others being al-Aswad ibn al-Muṭṭalib ibn Asad, al-Aswad ibn ʿAbdu Yaghūth, al-ʿĀṣ ibn Wāʾil ibn Hishām and al-Ḥārith ibn al-Ṭulāṭila (from Banu Khuzāʿa).
+
+Walid was a personage of great influence among the Quraysh. After he heard Muhammad reciting, Walid went to Quraysh and said: "I have just heard Muhammad's words, which for sure are neither a human's nor a jinn's. They are euphonious and relaxing, like a tree full of reachable fruits. They are of the highest quality and cannot be out-perfected." He told them, "The time of the fair has come round again, and representatives of Arabs will come to you and they will have heard about Muhammad. So agree upon one opinion without dispute, so that none of us will give the lie to the other." He recommended that they call Muhammad a sorcerer who has brought a message by which he separated a man from his father, brother, wife or family. The Quraysh accordingly warned the people attending the fair about Muhammad's doing. So, according to a Muslim historian, "Allah revealed verses 11–25 in Sura 74 concerning al-Walid."
+
+    He pondered and suggested. Death onto him! How [ bad ] is the suggestion he has put forward! Again, death unto him! How [ bad ] is the suggestion he has put forward! Then he looked [ to those around him,] then he frowned and scowled, then turned his back, and waxed proud, then said, "This is nothing but traditional magic; this is nothing but saying of a mortal.
+
+Prophet Muhammad said "Abu Jahl is Firaun of my ummah". Abu Jahl tortured slaves and boycotted muslim businessmen.
+
+Ammar, Sumayah, Bilal, Khabbab 
+
+Khababb was a swordsman. his back was in briuses and showed his back to Umar ra.
 
 </details><details><summary>
   
@@ -4240,11 +4251,9 @@ Al-Kahf ( الكهف, al-kahf; The Cave) is the 18th chapter (sūrah) of the Qur
 
 The story of believers falling asleep in a cave for a long time is present also in the Christian tradition, see [Sleepers in the Cave](#sleepers_in_the_cave).
 
-</details>
+</details><details><summary>
 
-<details><summary>
-
-## Migration of Muslims to Abyssinia
+## 615: First Migration of Muslims to Abyssinia
 
 </summary>
 is tribe refused to give him protection, so Abubakr also decided to migrate. 
