@@ -4232,7 +4232,7 @@ The First Meccan period refers to the first period in which Muhammad started rec
 
 Compared to other later surahs, the surahs of the First Meccan Period employ more rhymes despite their shorter length. They rank from being very short, a paragraph of less than five verses (for example surah 97, 103, 105, 108 and 111) to being organized in clusters of two (surahs 81, 91), three (surahs 82, 84, 86, 90, 92) or four verses (surahs 85, 89). Some of these surahs also take on a balanced tripartite structure that begin and conclude with. The major theme of these surahs revolves around presenting to humanity how obvious the existence of God is through the use of oath formulas involving the power of nature in an emphatic tone. We especially see the surahs reference destroyed civilizations, declaring their destruction to be the will of God. A stress is put on God being the creator of Earth and Heaven and everything that lies in between and also His unreachable generosity. 
 
-In addition, certain surahs generally talk about ethics and values human beings should have, especially the fact that human beings should be humbled by God's power, they should not pursue an extravagant life, be loving and sharing, most particularly with the poorer. Last but not least these surahs contain eschatological prophecies. Although not elaborated as in later surahs, these prophecies appear with a threatening tone to make people generally know about the existence of the Day of Judgement and all that it encompasses (surah 103, 68, etc.), but also, they contain some of the more visual explanations of Heaven.
+In addition, certain surahs generally talk about ethics and values human beings should have, especially the fact that human beings should be humbled by God's power, they should not pursue an extravagant life, they should be loving and sharing, most particularly with the poorer. Last but not least these surahs contain eschatological prophecies. Although not elaborated as in later surahs, these prophecies appear with a threatening tone to make people generally know about the existence of the Day of Judgement and all that it encompasses (surah 103, 68, etc.), but also, they contain some of the more visual explanations of Heaven.
 
 </details><details><summary>
 
@@ -4256,8 +4256,42 @@ The story of believers falling asleep in a cave for a long time is present also 
 ## 615: First Migration of Muslims to Abyssinia
 
 </summary>
-is tribe refused to give him protection, so Abubakr also decided to migrate. 
- ibm Dagina saw hom migrating and said he will give his protection to Abubakr. he was a chieftan of a neighboring tribe.
+
+In the early days of Islam when Muslims were tortured, persecuted, and humiliated in many ways, a few Muslims emigrated to take refuge in Abyssinia (Ethiopia) that was ruled by Ashamah Negus (also known as al-Najashi), a Christian king. The prophet had known him as a fair ruler and thus had permitted the followers of Islam to take refuge in his kingdom. Makkah’s Quraish, who at the time were amongst the foremost in persecuting the new Muslims could not tolerate the Muslims living peacefully in the Christian kingdom. Hence, they made a last ditch effort to get those Muslims extradited to Makkah and sent two of their strongest envoys to demand their extradition.
+
+Those envoys were Amr bin Al-As and Abdullah bin Abi Rabia (the two embraced Islam a few years later). The two envoys took valuable gifts for the king and his clergy in the hopes of convincing the king to return the new Muslims. The pagan envoys demanded the Muslims’ extradition on grounds that they had abandoned the religion of their forefathers, and their leader (Muhammad) was preaching a religion different from theirs and from that of the king.
+On hearing the claims against Muslims that the envoys had presented, the Christian king summoned the Muslims to his court. The Muslims selected Jafar bin Abi Talib to speak on their behalf. With silence in the court, Jafar bin Abi Talib stood up and addressed the king in the following words:>> >  
+
+> “O King! we were plunged in the depth of ignorance and barbarism; we adored idols,
+> we lived in unchastity,
+> we ate the dead bodies,
+> and we spoke abominations,
+> we disregarded every feeling of humanity,
+> and the duties of hospitality and neighborhood were neglected;
+> we knew no law but that of the strong,
+> when Allah raised among us a man,
+> of whose birth, truthfulness, honesty, and purity we were aware;
+> and he called to the Oneness of Allah ,
+> and taught us not to associate anything with Him.
+> “He forbade us the worship of idols;
+> and he enjoined us to speak the truth,
+> to be faithful to our trusts,
+> to be merciful and to regard the rights of the neighbors and kith and kin;
+> he forbade us to speak evil of women,
+> or to eat the substance of orphans;
+> he ordered us to flee from the vices,
+> and to abstain from evil;
+> to offer prayers,
+> to render alms, and to observe fast.
+> “We have believed in him,
+> we have accepted his teachings and his injunctions to worship Allah, and not to associate anything with Him, and we have allowed what He has allowed, and prohibited what He has prohibited.
+> “For this reason, our people have risen against us,
+> have persecuted us in order to make us forsake the worship of Allah and return to the worship of idols and other abominations.
+> They have tortured and injured us, until finding no safety among them; we have come to your country, and hope you will protect us from oppression.” 
+> [Reference: Ar-Raheeq Al-Makhtum]
+
+Abu Bakr's tribe refused to give him protection, so he also decided to migrate. 
+ ibn Dagina saw hom migrating and said he will give his protection to Abubakr. he was a chieftan of a neighboring tribe.
 
 Quraish allowed but said he cannot pray publicly. Abubakr extended his house and begins praying out loud. he actually made a first mesjit.
 
