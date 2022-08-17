@@ -4103,8 +4103,6 @@ After freeing Zayd married Zaynab from Quraish. Zayd has a blessing of being the
 
 </details>
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
 ### Iqra: First Revelation 📗
 
 <details><summary>
@@ -4290,33 +4288,18 @@ On hearing the claims against Muslims that the envoys had presented, the Christi
 > They have tortured and injured us, until finding no safety among them; we have come to your country, and hope you will protect us from oppression.” 
 > [Reference: Ar-Raheeq Al-Makhtum]
 
-Abu Bakr's tribe refused to give him protection, so he also decided to migrate. 
- ibn Dagina saw hom migrating and said he will give his protection to Abubakr. he was a chieftan of a neighboring tribe.
+Najashi asked to recite the Revelation. Jagfar recited surah Maryam. Najashi was moved and said "I'm not going to hand out these people".
+Amr ibn 'As said ask them about what they think about Jesus. Jagfar went to Najashi again and said that Jesus AS was a righteous prophet. It turned out that Najashi has not believed in Trinity.  
 
-Quraish allowed but said he cannot pray publicly. Abubakr extended his house and begins praying out loud. he actually made a first mesjit.
+There is a narration that after migrating to Medina the prophet Muhammad ﷺ    wrote Najashi inviting him to islam and Najashi replied back saying I am a Muslim and I believe in you and if you tell me I will come to Medina and serve you. 
 
-people would gather around to listen to his recitation.
-Quraish said now he cant pray in his house too.
-Abubakr gave his protection back to Dagina and chose the protection of Allah.
-the migrants came back. 
+When the Najashi died, the prophet gathered people and they prayer Janazah. It was the only time janazah was prayed without a body.
 
-other Uthman was under protecion of al Walid and he returned it because he felt guilt wihle other muslims were prosecuted.
+Muslims remained in Abyssinia for 10-11 years. The prophet ﷺ   told them to return only after the Battle of Badr and some time. Allah knows best but there are reports that the prophet ﷺ   kept Abyssinia in mind as a backup plan if it does not work out in Medina.
 
-Emigrants went back to Abyssinia. the Quraish went to najashi with presents and said he must give them the migrants. the Najashi said I will listen to their story. Jagfar and all people came and made his famous speech.
+Umi Habiba's husband died and she was left alone in Abyssinia so the prophet Muhammad ﷺ    proposed to her. Najahsi himself gave the mahr.
 
-Second wave of migration to Abyssinia around 100 people.
-
-Najashi asked to recite the Revelation. Jagfar recited surah Maryam. 
-Najashi was moved and said Im not going to hand these people.
-Amr ibm Aws said ask them about what they think about Jesus. Jagfar went to najashi again and said that JesusAS was a righteous prophet. It turned out that najashihasn't believed in trinity.  
-
-There is a narration that after migrating to Medina the prophet  ﷺ    wrote najashi inviting him to islam and najashi replied back saying I am a muslim and I believe in you and if you tell me I will come to MEdina and serve you. 
-
-When the najashi died, the prophet gathered people and they prayer janazah. it was the only time janazah praed without a body.
-
-Muslims remiained in Abyssinia 10-11 years. The prophet  ﷺ    told them to return only after Badr and some time. Allah knows best but there are reports that the prophet  ﷺ    had a backup plan if it doesn't work out in Medina.
-
-Umi Habiba's husband died and left alone and the prophet  ﷺ    proposed her. Najahsi himself gave the mahr.
+Second wave of migration to Abyssinia was around 100 people.
 
 </details><details><summary>
 
@@ -4324,34 +4307,29 @@ Umi Habiba's husband died and left alone and the prophet  ﷺ    proposed her. N
 
 </summary>
 
-Abu Jahl was cursing the prophet ﷺ   and his fathers. and the woman of Banu Hashim got insulted and women came to Hamza and said what kind of uncle are you, your nephew is insluted and noone defends him. the whole Mecca saw it. Hamza marched to Abu Jahl and smacked him in the face. How dare you insult him I am also following his religion.
+Abu Jahl was cursing the prophet Muhammad ﷺ   and his fathers. And the woman of Banu Hashim got insulted and women came to Hamza and said "What kind of uncle are you, your nephew is insulted and noone defends him!. The whole Mecca saw it". Hamza marched to Abu Jahl and smacked him in the face and said "How dare you insult him! I am also following his religion." These words just came out in anger. Hamza went home and made dua for God to guide him.
 
-Words just came out in anger. Hamza went home and made dua to guide him.
+Next morning he came to his nephew and they talked and Hamza converted to Islam. The prophet Muhammad ﷺ   finally had support from senior of his tribe and the Quraish had to turn down. It was the 6th year of da'wa. Only after 3 days Umar ibn Al-Khattab converted.
 
-Next morning he came to his nephew and they talked and Hamza converted. and the prophet ﷺ   finally had support from senior of his tribe. and the Quraish had to turn down. 6th year of da'wa. Only after 3 days Umar converted.
+Umar before Islam liked to drink. The pubs were closed so he went at night to the Kaaba and he heard the prophet Muhammad ﷺ   praying in front of the Kaaba and heard the recitation. So Umar wanted to beat him but stopped and listened to the surah Al Haqqa. He was amazed. The meccan surahs are eloquent and powerful. He began to think where is this coming from. He went home. 
 
-ibn Mas'ud said we were never able to pray in the Haram until Umar converted.
-the prophet ﷺ   gave him a name al-Faruq after they for the first time went  they all together Haram to pray.
+Abu Jahl promised 100 camels for the one who gets rid of the prophet Muhammad ﷺ  . Umar decided to do it and took his sword and he met Nu'ayn who has just converted to Islam and when he learned the intention of Umar he said "Have you lost your mind? and if you want to know, go fix your own family first. your sister and brother in law just accepted Islam." So, Umar marched to his sister's house and heard the recitation of the Quran. 
 
-Umar before islam liked to drink. the pubs were closed so he went at night to the Kaaba and he heard the prophet ﷺ   praying in front of the Kaaba and heard the recitation.
+Khabbab was assigned to teach the Quran to Fatima ibn Khattab. He wanted to punch her husband Said ibn Zayd but punched his sister, which calmed him down. Umar asked to let him see what they are reading. Umar could read and write. Khabbab ibn Al Aratt was a swordsman who's back was burned by his owners and who helped to turn Umar. He said "O Umar, may you be the one who the prophet Muhammad ﷺ   prayed for". 
 
-So he wanted to beat him but stopped and listened. surah alHaqqa. he was amazed. the meccan surahs are eloquent and powerful. he began to think where is this coming from. thatwas the first time. he went home. 
+They made Umar take ghusl and read surah Ta Ha. Umar asked where is the prophet Muhammadﷺ   and he went to the house of Al Arkham still holding his sword. 
 
-Abu Jahl promises 100 camels for the one who gets rid of the prophet ﷺ  . Umar decided to do it and took his sword. and Nu'ayn has just converted and asked where are you going so he said have you lost your mind. and if you want to know go fix your own family first. your sister and brother in law just accepted islam. so he marched to his sister house and heard the recitation of the Quran. 
+Sahaba saw Umar and were scared. Hamza said to let him in. Umar said he came to convert and the prophet Muhammad ﷺ   said loudly "Allahu Akbar" (Allah is The Greatest). They went together with Hamza, Umar and 40 people to pray in the mosque of Haram.
 
-Khabbab was assigned to teach the Quran for Fatima ibn Khattab.
+> Abdullah ibn Mas'ud said we were never able to pray in the Haram until Umar converted.
 
-He wanted to punch Said ibn Zays but punched his sister. so he calmed down and asked let me see what you are reading. Umar could read and write. Umar took ghusl and read Ta Ha. he asked wher is the prophet ﷺ  . and he went to the house of al Arkham still had a sword. 
+The prophet ﷺ   gave Umar a name "Al-Faruq" after they for the first time went all together to Haram to pray.
 
-Khabbab ibn Al Aratt - swordsman whos back was burned and who helped to turn Umar. he said o Umar may you be the one who the prophet Muhammad ﷺ   prayed for.
-
-Sahaba saw Umar and scared. Hamza said let him in .
-
-Umar said he came to convert and the prophet ﷺ   said loudly Allahu Akbar. they went together with Hamza Umar and 40 people to pray in Haram.
-
-Umar personally informed Abu Jahl. This is one the funniest stories of early Islam. How Umar came to Abu Jahl to inform him that he has accepted Islam.
+Umar personally informed Abu Jahl. This is one the funniest stories of early Islam. How Umar came to Abu Jahl to inform him that he has accepted Islam knowing that Abu Jahl will be distressed by the good news.
 
 </details><details><summary>
+
+# PROOFREADINGPROOFREADINGPROOFREADING
 
 ## **610**: Boycott of Muslims
 
