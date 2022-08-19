@@ -4214,11 +4214,16 @@ Walid was a personage of great influence among the Quraysh. After he heard Muham
 
     He pondered and suggested. Death onto him! How [ bad ] is the suggestion he has put forward! Again, death unto him! How [ bad ] is the suggestion he has put forward! Then he looked [ to those around him,] then he frowned and scowled, then turned his back, and waxed proud, then said, "This is nothing but traditional magic; this is nothing but saying of a mortal.
 
-Prophet Muhammad said "Abu Jahl is Firaun of my ummah". Abu Jahl tortured slaves and boycotted muslim businessmen.
+Prophet Muhammad said "Abu Jahl is Firaun of my ummah". Abu Jahl tortured slaves and boycotted muslim businessmen. At that time, the prophet Muhammad ﷺ    made dua against 7 people including Abu Jahl untill their faces turn pale. Abdullah ibn Masood said that he saw all these seven people in the battle of Badr and all of them were dragged to the Pit.
 
-Ammar, Sumayah, Bilal, Khabbab 
+Ammar, Sumayah, Bilal, Khabbab.
 
-Khababb was a swordsman. his back was in briuses and showed his back to Umar ra.
+Khababb was a swordsman. His back was in bruises.
+
+> Narrated Khabbab bin Al-Arat:
+> We complained to Allah's Messenger (ﷺ) (of the persecution inflicted on us by the infidels) while he was sitting in the shade of the Kaaba, leaning over his Burd (i.e. covering sheet). We said to him, "Would you seek help for us? Would you pray to Allah for us?" He said, "Among the nations before you a (believing) man would be put in a ditch that was dug for him, and a saw would be put over his head and he would be cut into two pieces; yet that (torture) would not make him give up his religion. His body would be combed with iron combs that would remove his flesh from the bones and nerves, yet that would not make him abandon his religion. By Allah, this religion (i.e. Islam) will prevail till a traveler from Sana (in Yemen) to Hadrarmaut will fear none but Allah, or a wolf as regards his sheep, but you (people) are hasty.
+
+House of Al Arkham was a secret meeting place. It was near mount Safa because many people go there and no suspision would be raised. 
 
 </details><details><summary>
   
@@ -4254,6 +4259,8 @@ The story of believers falling asleep in a cave for a long time is present also 
 ## 615: First Migration of Muslims to Abyssinia
 
 </summary>
+
+At the 5th year of da'wa the prophet Muhammad ﷺ   said that there's a Hhristian king in Abyssinia who is just and would let you worship Allah without hardship. 11 men and 4 women emigrated. among them was Uthman with Ruqayah, Abdurrahman ibn Awf, Abu Salamah, Um Salamah.
 
 In the early days of Islam when Muslims were tortured, persecuted, and humiliated in many ways, a few Muslims emigrated to take refuge in Abyssinia (Ethiopia) that was ruled by Ashamah Negus (also known as al-Najashi), a Christian king. The prophet had known him as a fair ruler and thus had permitted the followers of Islam to take refuge in his kingdom. Makkah’s Quraish, who at the time were amongst the foremost in persecuting the new Muslims could not tolerate the Muslims living peacefully in the Christian kingdom. Hence, they made a last ditch effort to get those Muslims extradited to Makkah and sent two of their strongest envoys to demand their extradition.
 
@@ -4307,7 +4314,7 @@ Second wave of migration to Abyssinia was around 100 people.
 
 </summary>
 
-Abu Jahl was cursing the prophet Muhammad ﷺ   and his fathers. And the woman of Banu Hashim got insulted and women came to Hamza and said "What kind of uncle are you, your nephew is insulted and noone defends him!. The whole Mecca saw it". Hamza marched to Abu Jahl and smacked him in the face and said "How dare you insult him! I am also following his religion." These words just came out in anger. Hamza went home and made dua for God to guide him.
+Abu Jahl was cursing the prophet Muhammad ﷺ   and his fathers. And the woman of Banu Hashim got insulted and women came to Hamza and said "What kind of uncle are you, your nephew is insulted and noone defends him!. The whole Mecca saw it". Muhammad's uncle, Hamza, a man of his own age, was reputed to be the strongest and most active of the Quraysh, their champion in war and sports. He spent most of his time hunting in the hills. Hamza marched to Abu Jahl and smacked him in the face and said "How dare you insult him! I am also following his religion." These words just came out in anger. Hamza went home and made dua for God to guide him.
 
 Next morning he came to his nephew and they talked and Hamza converted to Islam. The prophet Muhammad ﷺ   finally had support from senior of his tribe and the Quraish had to turn down. It was the 6th year of da'wa. Only after 3 days Umar ibn Al-Khattab converted.
 
@@ -4329,8 +4336,6 @@ Umar personally informed Abu Jahl. This is one the funniest stories of early Isl
 
 </details><details><summary>
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
 ## **610**: Boycott of Muslims
 
 </summary>
@@ -4348,7 +4353,7 @@ The Prophet and many of his followers, and members of the Hashim clan withdrew t
 
 The Quraysh also increased the pressure on those who had entered Islam but had not entered the quarter. The trials became grave and the Muslims were severely shaken. It is reported that Ali son of Abu Talib used to secretly leave the quarter in disguise and fetch foodstuff to the besieged, carrying it into the quarter on his back.
 
-Some people gathered and said we need to gather and stop the boycott. At the same time the prophet  ﷺ    said Abu talib that the treaty has been eaten by termites. All except bismika.. 
+Some people gathered and said we need to gather and stop the boycott. At the same time the prophet ﷺ   said Abu talib that the treaty has been eaten by termites. All except bismika.. 
 So they opposed Abu Jahl
 
 The clan of Hashim then felt safe enough to emerge from their quarter and once more mingle with the people. This was in the tenth year of the noble prophethood, circa 620 CE.
@@ -4371,49 +4376,152 @@ TDuring the Hajj season the prophet  ﷺ    would leave the valley and continue 
 Boycott lasted 2 or 3 years. 
 There was a severe famine and they realized that this is because of the dua of Muhammad  ﷺ   .
 
-a man put camel guts on the prophet  ﷺ    when he was praying and Fatima removed them, the prophet  ﷺ    made dua against 7 people including Abu Jahl untill their faces turn pale. Abdullah ibn Masood said that he saw all these seven people in the battle of Badr and all of them were dragged to the Pit.
+### The Annulling of the Boycott
+“The Banu Hashim and the Banu al-Muttalib were in the Shi'b (mountain hideout) as the Quraysh had made a covenant to ostracize them. Then some members of the Quraysh itself took steps to annul the boycott against them. None took more trouble in this than Hisham Bin Amr ... for the reason that he was the son of a brother to Nadla b. Hashim b. Abd Manaf by his mother and was closely attached to the Banu Hashim. He was highly esteemed by his people.
 
-Why Allah ST allowed all these? All prophets and their followers suffered. Allah did not create us for a comfortable life. Your purpose is to earn Allah's mercy to get to Paradise. It is the wisdom of Allah to test us. 
-Did mankind think that Allah will leave them without being tested. without being tried.
+I have heard that when these two clans were in their Shi'b, he used to bring a camel laden with food by night and then, when he had got it to the mouth of the alley, he took off its halter, gave it a whack on the side, and sent it running into the alley to them. He would do the same thing another time, bringing clothes for them.
 
-Khabbab asked the prophet  ﷺ    for how long we will endure this.
-There were muslims persecuted more than you. The prophet  ﷺ    said Allah is going to succeed this religion. A lady shepherd wil take her flock and she will be scared only Allah and wolves.
+He went to Zuhayr B. Abu Umayya B. Al-Mughira whose mother was Atika daughter of Abdul Muttalib, and said: ‘Are you content to eat food and wear clothes while you know of the condition of your maternal uncles? They cannot buy or sell or inter-marry. By God, if they were the uncles of Abu'l-Hakam b. Hisham (Abu Jahl), and you asked him to do what he has asked you to do, he would never agree to it.’
 
-house of Al Arkham. secret meeting place. near safa beacause many people go there and no suspision is raised. 
+He (Zuhayr) said, ‘Confound you, Hisham, what can I do? I am only one man. By God, if I had another man to back me, I would soon annul it.'
 
-At the 5th year of da'wa the prophet  ﷺ    said that there's a christian king in Abyssinia who is just and would let you worship Allah without hardship. najashi his name was Akhus smt.
-11men and 4 women emigrated. among them was Uthman with Ruqaya, Abdurahman ibn Awf, Abu Salamah, Um Salamah, 
-Christians dont have the law because they follow the version of Paul who said that Jesus AS came to abrogate the law. Jesus PBUH never ate pork and lived the life of a jew. 
-There were different opinions until Naysean Creed where Constantine decided that christians must believe in the trinity. Aries did not agree with that so Constantine ordered to execute him. he escaped to south all branches of christianity before the naysean creed disappeared.
+He said, ‘I have found a man – myself.' ‘Find another,' said he.
+
+So Hisham went to Al-Mutim B. Adiy and said, ‘Are you content that two clans of Banu Abd Manaf should perish while you look on consenting to follow Quraysh? You will find that they will soon do the same with you.'
+
+He (Mutim) made the same reply as Zuhayr and demanded a fourth man.
+
+So Hisham went to Abu’l Bukhtari B. Hisham who asked for a fifth man, and then to Zama’a B. Al-Aswad B. Al-Muttalib, who asked for a sixth man, and reminded him of their kinship and duties. He asked whether others were willing to cooperate in this task. He gave him the names of the others. They all agreed to meet at night near Hujun, above Makkah, and when they did, they bound themselves to take up the question of the document until they had secured its annulment.
+
+On the following day, when people got together, Zuhayr put on a robe, went round the Kaaba seven times; then came forward and said: ‘O people of Mecca, are we to eat and clothe ourselves while the Banu Hashim perish, unable to buy or sell? By God, I will not rest until this evil boycotting document is torn up!
+
+Abu Jahl shouted: ‘You lie. It shall not be torn up.'
+
+Zama'a said: “You are a greater liar; we did not want this document even when it was first drafted and signed. Abu'l Bukhtari said, ‘Zama'a is right. We were not satisfied with this document when it was written, and we are not satisfied with it now.'
+
+Al-Mutim added: “You are both right, and anyone who says otherwise, is a liar. We take Allah to witness that we dissociate ourselves from the whole idea and what is written in the document.” Hisham spoke in the same sense, and supported his friends.
+
+Then al-Mutim went up to the document to tear it in pieces. He found that worms had already eaten it except the words, “In Thy Name O Allah.” This was the customary formula of the Quraysh to begin their writing. The writer of the deed was Mansur b. Ikrima.”
+
+Ten years had passed since Muhammad, may God bless him and his Ahlul-Bait, had first proclaimed his mission. The boycott of the Quraysh had failed to produce the intended result. The members of Banu Hashim were defiant, and their morale was high. It was just as unthinkable for them, at the end of the siege, as it had been at the beginning, to surrender Muhammad, their darling, to his enemies.
+
+Banu Hashim and Banu al-Muttalib returned to their homes in Makkah after three years. During these three years, the vast fortunes of Khadija and Abu Talib had run out. They had to make, as it were, a new beginning in life, by putting their blocks into place – one by one.
+
+<details><details><summary>
+
+## Death of Hadijah and Abu Talib (Year of Sorrow)
+
+</summary>
+
+It was less than six months after the end of boycott when Abu Talib passed away. Then the Prophet's wife Lady Khadijah also died only three days after Abu Talib according to some accounts. The Messenger of Allah was very saddened and named this year the 'Year of Sorrow'.
+
+The loss of Abu Talib and Lady Khadijah dealt a severe blow to the Prophet at a time when he needed these two most. The death of Abu Talib cleared the last hurdle for the Quraysh, and if the presence of Abu Talib imposed certain limits and drew some red lines for the Quraysh that they could not cross, now his death left them free to do to the Prophet what was the unthinkable while Abu Talib was alive.
+
+With the death of Abu Talib, the trials meted out by his tribe to the Messenger of Allah grew more barbaric and audacious. Once when the Prophet was praying by the Kabah, one of the idolaters approached and violently tried to strangle him.
+
+The Quraysh encouraged the foolish to throw dirt on the Prophet's face and head. They used to throw filth, blood and thorns at his door. Ummayah ibn Khalaf used to insult the Prophet until his face became red but still the Prophet would not say anything to him. When a fool threw the dirt in the face of the Messenger of Allah, he entered his house with the dirt still on his head. Fatimah began to clean the dirt from his head. She was crying and the Messenger of Allah saying: “Do not cry my daughter, for Allah will protect your father.” He also said: “The Quraysh could not harm me until Abu Talib died.”
+
+Two of the most committed defenders of Muhammad's message, his wife Khadija and his uncle Abu Talib, died. With the death of Abu Talib, the leadership of the clan of Banu Hashim was passed to another uncle of Muhammad, Abu Lahab, an inveterate enemy of Muhammad and Islam. Abu Lahab soon withdrew the clan's protection from Muhammad, placing Muhammad in mortal danger since the withdrawal of clan protection implied that the blood revenge for his killing would not be exacted. Muhammad then tried to find a protector for himself in another important Arabian city close to Mecca, Ta'if, but his effort failed as he was pelted with stones in the city.
+
+### Incident of Taif
+
+More than ten years had passed since prophet Muhammad ﷺ   had first begun to preach Islam. His success in these ten years had been rather modest, limited as it was to the conversion of fewer than 170 men and women in Makkah. But after the death of his wife, Khadija, and his uncle, Abu Talib, it appeared that the Quraysh would wrest even that limited success from his hands.
+
+Makkah had proved inhospitable to Islam and it occurred to the prophet Muhammad ﷺ   that he ought, perhaps to try to preach the new faith in some other city. The nearest city was Ta’if, 70 miles in the south-east of Makkah, and he went there in late 619. Zayd bin Haritha went with him.
+
+In Ta’if, prophet Muhammad ﷺ   called on the three chiefs of the local tribes, and invited them to abandon their gross idolatry, to acknowledge the Oneness of God, to repudiate man-made distinctions of high and low, and to believe in the equality and brotherhood of all men.
+
+The chiefs of Ta’if were a conceited and arrogant crew, and they did not want even to listen to prophet Muhammad ﷺ  . They greeted him with mockery and ridicule and set upon him the idlers and the louts of the city. They pelted him and Zayd with clods and rocks. Wounded and covered with blood, prophet staggered out of Ta’if.
+
+Once he was outside the city walls, he almost collapsed but a certain gardener took him into his hut, dressed his wounds, and let him rest and recuperate until he felt strong enough to resume his journey across the rough terrain between Ta’if and Makkah.
+
+But when prophet Muhammad ﷺ   arrived in the environs of Makkah, he sensed that he could not reenter his native city now that his uncle, Abu Talib, was not there to protect him. Pagan hostility toward him had reached the flash point. He realized that if he entered Makkah, he would be killed
+
+Prophet Muhammad ﷺ   could not enter his hometown, and there was no other place to go to. What was he to do?
+
+In this extremity, prophet Muhammad ﷺ   sent word to three nobles in the city asking each of them to take him under his protection. Two of them refused but the third one – the gallant Mutim ibn Adiy – responded to his signal of distress. It was the same Mutim who had, earlier, flouted the chiefs of Quraysh by tearing into pieces their covenant to boycott the Banu Hashim, and had brought the two clans of Banu Hashim and Banu al-Muttalib from the Sh’ib Abu Talib back into the city.
+
+Mutim ordered his sons, nephews and other young men of his clan to put on their battle-dress. He then marched, in full panoply of war, at their head, out of the city. He brought prophet Muhammad ﷺ   with him, first into the precincts of the Kaaba where the latter made the customary seven circuits, and then escorted him to his home.
 
 </details><details><summary>
+
+## Night of Jinn 
+
+</summary>
+
+Once the Prophet ﷺ  visited Taif to invite the people to Islam. He wanted to talk to the people of the town to invite them to Islam but they all shut their doors on his face and rejected him. Zaid bin Haris (May Allah be pleased with him) was his Companion. Both of them went to their leader, who rejected them as well. He asked his slaves and young boys to drive them away.. They threw stones at them to drive them out of the town. Both of them were injured. Our Prophet ﷺ  bled so much that his shoes were filled with his blood and got stuck to his feet. The Prophet ﷺ  felt dizzy .
+
+Zaid (May Allah be pleased with him) said, “I helped the Prophet ﷺ  to leave the village and we rested under a tree.” Both men then returned to Makkah. On the way, at Watane Nakhla, Prophet ﷺ  woke up to offer Tahajjud and recited the Qur’an.
+
+The Jinns of that time had noticed that they could not cross over the heavens and hear the conversations of the angels anymore, rather they were chased by meteors and were driven away. Their leader instructed them to find out the reason so they wandered around. There was a valley called Nasibi which was inhibited by Jinns. These Jinns passed by the place at night when they heard the recitation. The group heard the melodious recitation of our Prophet ﷺ and were entranced. Without the knowledge of our Prophet ﷺ  that group of Jinn accepted Islam. It was then the above verses of Surah Jinn were revealed. The point to be noted is that the humans of Taif rejected the Message of Allah but the Jinn accepted it. Allah truly does not let the efforts of the Believers go in vain.
+
+Once the Prophet ﷺ  was sitting with his Companions. He had to go to attend the call of nature. He went a bit farther and did not return for a long time. The Companions were worried about his absence and feared that he had been abducted. They searched for him the whole night. In the morning, the Prophet ﷺ returned. When the Companions inquired, he replied, “I was called by a group of Jinns over that mountain, who had embraced Islam and wanted to learn the religion from me. It took me the whole night to teach them”. This night is called “Laylatul Jinn”. The Companions then went along him to the place and saw burnt sticks and ash which indicated that food was cooked that night. Therefore, it is essential to believe that the Prophet ﷺ was sent even to the Jinn.
+
+Dawud reported from 'Amir who said:
+
+> I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah ﷺ   on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'ud) said: No, but we were in the company of the Messenger of Allah ﷺ   one night and we missed him. We searched for him in the valleys and the hills and said. He has either been taken away (by jinn) or has been secretly killed. He (the narrator) said. We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hiri'. He (the narrator) reported. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Qur'an. He (the narrator) said: He then went along with us and showed us their traces and traces of their embers. They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah (ﷺ) said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).
+
+Prophet Mohammed ﷺ is the Prophet for human-kind as well as Jinns.
+
+There are two places where Qur’an mentions communication between the Prophet ﷺ and the Jinns.
+
+In Surah al-Jinn, Allah reveals that the Jinn, too, listened to the communications of the Prophet Muhammad ﷺ and the Qur'an, and that some of them accepted Deen and became Muslims. One verse on the subject reads:
+
+    Say: "It has been revealed to me that a band of the jinn listened and said, 'We have heard a most amazing Recitation. It leads to right guidance so we believe in it and will not associate anyone with our Lord.'" 
+    Surah al-Jinn: 1-2
+
+In that same Surah, Allah also reveals that some Jinn are actually Muslims:
+
+    [The Jinn said] "And when we heard the guidance, we believed in it. Anyone who believes in his Lord need fear neither belittlement nor tyranny. Some of us are Muslims and some are deviators. Those who have become Muslim are those who sought right guidance." 
+    Surah al-Jinn: 13-14
+
+    When the servant of Allah stands calling on Him, they almost swarm all over him. 
+    Surah al-Jinn: 19
+
+Yet another verse recounts that when the Prophet ﷺ   gave guidance regarding Deen, the jinn would gather around him and listen carefully:
+
+    And [mention, O Muhammad], when We directed to you a few of the jinn, listening to the Qur'an. And when they attended it, they said, "Listen quietly." And when it was concluded, they went back to their people as warners. Surah Ah’kaf- 29
+
+These verses make it clear that Prophet Muhammad ﷺ   was sent as a Prophet for all mankind and the jinn. The Qur'an is a guide for both mankind and the Jinn.
+
+</details><details><summary>
+
+# PROOFREADINGPROOFREADINGPROOFREADING
 
 ## Isra 'Al-Miraj ✨
 
 </summary>
 
-The events of Isra and Miʿraj are mentioned briefly in the Quran and then further expanded and interpreted within the hadith.
+The events of Isra and Miʿraj are mentioned briefly in the Quran and then further expanded and interpreted within the hadith. Isra means travel at night. Al Isra -- the night journey. Al miraj means the mechanism of rising high.
 
- isra means travel at night. Al isra- the night journey. Al miraj means the mechanism of rising high. 
-miraj is a personal gift to the prophet  ﷺ    from Allah ST.
-so many narrations about Isra and Miraj. almost half of the hadith from the meccan period are about isra and miraj  
-When isra ocurred? Most commentators say a year before Hijrah.
-Aisha narrated that Hadija dies before the salah became fard. that means that Miraj happened within 1.5 years vefore HIjrah. 
+Miraj is a personal gift to the prophet Muhammad ﷺ   from Allah ST.
 
-Isra and Mi'raj, a supernatural journey to Jerusalem (Isra) and ascension to the Seven Heavens (Mi'raj), said to have been accomplished in one night along with the angel Gabriel. Muhammad is said to have toured heaven and hell, and spoken with earlier prophets, including Adam, Ibrahim, Musa, and Isa. Ibn Ishaq, author of first biography of Muhammad, presents this event as a spiritual experience while later historians like al-Tabari and Ibn Kathir present it as a physical journey. Some western scholars of Islam hold that the oldest Muslim tradition identified as a journey traveled through the heavens from the sacred enclosure at Mecca to the Bayt al-Ma'mur (a celestial recreation of the Kaaba); others identify it as Muhammad's journey from Mecca to the Bayt al-Maqdis in Jerusalem.[
+Al-Isra’ wal-Mi’raj took place during a time when the Prophet (saw) was facing intense hardship and pain. The Quraysh, who were his tribe and his family, constantly ridiculed, humiliated and oppressed the Prophet (saw) and his followers. Moreover, the Prophet (saw) had just faced the Year of Sorrow (’Aam al-Huzn), during which he (saw) lost his beloved wife Khadijah (ra), and his uncle Abu Talib, who was his protector and ally.
+
+In addition to all these burdens, when the Prophet (saw) had travelled to Ta’if to spread the Islamic message, the people of Ta’if had rejected him in the most cruel way, sending their children into the streets to stone him until he left the city.
+
+Having gone through so much grief and suffering, the Prophet Muhammad (saw) was given a truly beautiful and comforting gift. He was transported not only to the Sacred Sanctuary and through the skies, but ultimately into the Divine Presence, the source of all comfort and hope. One of the most important lessons of Al-Isra’ wal-Mi’raj, therefore, is that ‘with every hardship [there will be] ease’ (The Noble Qur’an, 94: 5).  
+
+There are so many narrations about Isra and Miraj. Almost half of the hadith from the Meccan period are about Isra and Miraj.
+
+When isra ocurred? Most commentators say a year before Hijrah. Aisha narrated that Hadija dies before the salah became fard. That means Miraj happened within 1.5 years before Hijrah. 
+
+Isra and Mi'raj, a supernatural journey to Jerusalem (Isra) and ascension to the Seven Heavens (Mi'raj), which has been accomplished in one night along with the angel Gabriel. Prophet Muhammad ﷺ   toured heaven and hell, and spoken with earlier prophets, including Adam, Ibrahim, Musa, and Isa. Ibn Ishaq, author of first biography of Muhammad, presents this event as a spiritual experience while later historians like al-Tabari and Ibn Kathir present it as a physical journey. Some western scholars of Islam hold that the oldest Muslim tradition identified as a journey traveled through the heavens from the sacred enclosure at Mecca to the Bayt al-Ma'mur (a celestial recreation of the Kaaba); others identify it as Muhammad's journey from Mecca to the Bayt al-Maqdis in Jerusalem.
 
 Within the Quran, chapter (surah) 17 al-Isra, was named after the Isra', and the first verse contains a brief description. There is also some information in a later verse, and some scholars say a verse in surah an-Najm also holds information on the Isra and Miʿraj.
 
-    Glory to Him who made His servant travel by night from the sacred place of worship to the furthest place of worship, whose surroundings We have blessed, to show him some of Our signs. He alone is the All Hearing, the All Seeing.
+    Glory to Him who made His servant travel by night from the sacred place of worship (Al-Masjid Al-Haram) to the furthest place of worship (Al-Masjid Al-Aqsa), whose surroundings We have blessed, to show him some of Our signs. He alone is the All Hearing, the All Seeing.
     Remember when We said to you that your Lord encompasses mankind in His knowledge. Nor did We make the vision We showed you except as a test to people, as also the accursed tree in the Quran.
     Quran 17:60
 
-His sight never wavered, nor was it too bold.
-and he saw some of the greatest signs of his Lord.[Quran 53:13–18
+    His sight never wavered, nor was it too bold.
+    And he saw some of the greatest signs of his Lord.
+    Quran 53:13–18
 
-Jibreel came to the prophetﷺ    and took him to Kaaba. He prayed two raqah then Jibreel opened his chest and washed his heart in a golden bowl inside of which was Zamzam or emaan. probably this was done to prepare the prophet for the isra.
+Jibreel came to the prophet Muhammad ﷺ   and took him to Kaaba. He prayed two raqah then Jibreel opened up his chest and washed his heart in a golden bowl inside of which was Zamzam. Probably this was done to prepare the prophet for the Isra.
+
 Musa has the second largest ummah after the prophet Muhammad  ﷺ   
-only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad  ﷺ   
+only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad  ﷺ   .
 
 Isa told this to the prophets.
 Dajjal will come, then Isa AS will come and Dajjal will melt. then people will come to their lands and then Wadjuj and Madjuj will come out and drink all the water. untill Isa AS wil make dua to kill them and they will all die. and the lands will be covered b their bodies. IsaAS will make another dua to get rid of the bodies and Allah will send rain and bodies will be washed away. At this time it will be like a pregnant woman ready to give birth. 
@@ -4440,40 +4548,6 @@ there are 5 layers of Qadr. daily and yearly Qadr may change.
 Celebration of the prophet's ﷺ    birthday started 600 years after his death. many of scholars opposed it. 
 
 </details><details><summary> 
-
-## Night of Jinn 
-
-</summary>
-
-Dawud reported from 'Amir who said:
-
-I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah (ﷺ) on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'uad) said: No, but we were in the company of the Messenger of Allah (ﷺ) one night and we missed him. We searched for him in the valleys and the hills and said. He has either been taken away (by jinn) or has been secretly killed. He (the narrator) said. We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hiri'. He (the narrator) reported. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Qur'an. He (the narrator) said: He then went along with us and showed us their traces and traces of their embers. They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah (ﷺ) said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).
-</details><details><summary>
-
-## Death of Hadijah and Abu Talib
-
-</summary>
-
-It was less than six months after the end of this trial when Abu Talib passed away. Then the Prophet's wife Lady Khadijah also died only three days after Abu Talib according to some accounts. The Messenger of Allah was very saddened and named this year the 'Year of Sorrow'.
-
-The loss of Abu Talib and Lady Khadijah dealt a severe blow to the Prophet at a time when he needed these two most. The death of Abu Talib cleared the last hurdle for the Quraysh, and if the presence of Abu Talib imposed certain limits and drew some red lines for the Quraysh that they could not cross, now his death left them free to do to the Prophet what was the unthinkable while Abu Talib was alive.
-
-With the death of Abu Talib, the trials meted out by his tribe to the Messenger of Allah grew more barbaric and audacious. Once when the Prophet was praying by the Kabah, one of the idolaters approached and violently tried to strangle him.
-
-The Quraysh encouraged the foolish to throw dirt on the Prophet's face and head. They used to throw filth, blood and thorns at his door. Ummayah ibn Khalaf used to insult the Prophet until his face became red but still the Prophet would not say anything to him. When a fool threw the dirt in the face of the Messenger of Allah, he entered his house with the dirt still on his head. Fatimah began to clean the dirt from his head. She was crying and the Messenger of Allah saying: “Do not cry my daughter, for Allah will protect your father.”He also said: “The Quraysh could not harm me until Abu Talib died.”
-
-Two of the most committed defenders of Muhammad's message, his wife Khadija and his uncle Abu Talib, died. With the death of Abu Talib, the leadership of the clan of Banu Hashim was passed to another uncle of Muhammad, Abu Lahab, an inveterate enemy of Muhammad and Islam. Abu Lahab soon withdrew the clan's protection from Muhammad, placing Muhammad in mortal danger since the withdrawal of clan protection implied that the blood revenge for his killing would not be exacted. Muhammad then tried to find a protector for himself in another important Arabian city close to Mecca, Ta'if, but his effort failed as he was pelted with stones in the city.
-
-Incident of Taif
-
-He  ﷺ    comes to tribe's chiefs and they reject his message. then he stays for several days there and preaches. chiefs of Taif send  rif-raffs to throw stones at him so that he goes away. and he  ﷺ    goes away under stones. Zayd is shielding him. 
-He makes dua telling that it is Allah's right but it would be easier for him than this hardship.  
-The prophet  ﷺ    performed tahajjud. 
-Jinn listened to the prayer and accepted islam. Laylatil jinn. 
-The sahabah thought that the prophet  ﷺ    was kidnapped and they were worried.
-He said: One of the callers of the jinn came to me so I went out to meet with them and recited the Quran.
-
-</details>
 
 ### Hijrah
 
