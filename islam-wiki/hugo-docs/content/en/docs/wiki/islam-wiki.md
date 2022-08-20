@@ -3833,9 +3833,9 @@ Later, Abdullah became the father of prophet Muhammad ﷺ   .
 
 > SHORT VERSION:
 > 
-> **The Ethiopian governor Abraha** envied pilgrims of Kaaba in Mecca and built a big Christian cathedral in Sanaa. But Arabs didnot change the direction of their pilgrimage. Then, Abraha gathered a **large army with war elephants** 🐘🐘🐘 and marched to destroy Kaaba.
+> **The Ethiopian governor Abraha** envied pilgrims of Kaaba in Mecca and built a big Christian cathedral in Sanaa. But Arabs didnot change the direction of their pilgrimage. Then, Abraha gathered a large army with war elephants 🐘🐘🐘 and marched to destroy Kaaba.
 > 
-> Seeing a large army, people of Mecca left the city. Abdul Mutallib and the Quraish were convinced that Allah will protect the Kaaba. And Allah sent a **flock of birds** that throwed stones from Hell to Abraha's army until the army was destroyed. 
+> Seeing a large army, people of Mecca left the city. Abdul Mutallib and the Quraish were convinced that Allah will protect the Kaaba. And Allah sent a flock of birds 🐦🐦🐦 that throwed stones from Hell to Abraha's army until the army was destroyed. 
 > 
 > This happened in the year the prophet Muhammad ﷺ   was born and hence this event, it was called The Year of the Elephant.
 > 
@@ -4518,7 +4518,39 @@ Within the Quran, chapter (surah) 17 al-Isra, was named after the Isra', and the
     And he saw some of the greatest signs of his Lord.
     Quran 53:13–18
 
+### Al-Isra’: From the Ka’bah to Al-Aqsa
+
 Jibreel came to the prophet Muhammad ﷺ   and took him to Kaaba. He prayed two raqah then Jibreel opened up his chest and washed his heart in a golden bowl inside of which was Zamzam. Probably this was done to prepare the prophet for the Isra.
+
+When the Prophet ﷺ   was sleeping in the house of Umm Hani (ra) in Makkah he said, ‘the roof of my house was opened and the Angel Jibril [as] descended’ (Bukhari). Scholars reconciling between various narrations, say the Prophet (saw) was then taken to the Hijr, the semi-circular wall of the Ka‘bah, where the Prophet ﷺ   said that Jibril (as), ‘opened my chest, and washed it with Zamzam water. Then he brought a golden tray full of wisdom and faith, and having poured its contents into my chest, he closed it’. [Bukhari]
+
+The Prophet ﷺ   continued, ‘I was then brought a white beast which is called al-Buraq [from the Arabic word barq, meaning lightning], bigger than a donkey and smaller than a mule. Its stride was as long as the eye could reach’. [Muslim]
+
+It is narrated by Anas (ra) that Buraq was, ‘saddled and reined, but he shied from him (saw). So Jibril [as] said to him, “Is it from Muhammad ﷺ   that you do this? For nobody has ridden you who is more honourable to Allah than him!” He said, “Then he started sweating profusely”’. [Tirmidhi]
+
+At several points along the journey, Jibra’eel (as) stopped Buraq and told the Prophet (saw), ‘Dismount and pray’. The first stop was at ‘the place of emigration’ i.e. Madinah - and soon after this night the Prophet (saw) would meet the Ansar and migrate to Madinah. The second stop was at Mount Sinai, where Allah (swt) revealed the Torah to Musa (as). The third stop was at Bethlehem, where ’Isa (as) was born.
+
+The fourth stop was the grave of Musa (as), ‘I happened to pass by Musa [as] on the night of my Night journey by the red sandhill whilst he was standing praying in his grave’ (Muslim). We know that his grave is located, ‘a stone’s throw’ away from the holy land of the Blessed Masjid Al-Aqsa (Bukhari). This incident clearly shows us an example of what the Messenger of Allah ﷺ   said about Prophets (as) after they pass away that, ‘The Prophets are alive in their graves praying’ (Abu Ya‘la).
+
+Arriving at Al-Aqsa
+
+Finally, the Messenger of Allah ﷺ   arrived in the holy city of Al-Quds (Jerusalem) and he said, ’When we reached Bait al-Maqdis [literally ‘the holy house’ another name for the Blessed Masjid Al-Aqsa] Jibril (as) pointed with his finger causing a crack in the rock, and he tied the Buraq to it [at the western wall of the noble sanctuary]’ (Tirmidhi). Waiting inside were all 124,000 Prophets (as). Jibra’eel (as) led the Prophet ﷺ   to the front, and he (saw) led them all in prayer in this blessed space.
+
+Some narrations indicate that the Prophet ﷺ   prayed ‘two units of prayer’ (Muslim) to greet the Masjid (known as Tahiyyat al-Masjid). This is one of the first examples of this established Sunnah of the Prophet ﷺ  . It is also mentioned that Jibril (as) called the Adhan (call to prayer) before this practice was even established later in Madinah and that the angels from the heavens descended to pray behind all the Prophets in this sacred place – Subhan-Allah!
+
+When the Prophet ﷺ   completed the prayer, he said, ‘someone said, “Here is Malik (as), the keeper of the Hell, so convey Salams to him”. So, I turned to him, but he preceded me in Salams’ (Muslim).
+
+The Messenger of Allah ﷺ   also said, ’The Prophets were presented to me, and Musa (as) was a thin man, it was as if he was from the men of Shanu’ah [a Yemeni tribe]. And I saw ’Isa ibn Maryam (as), and the closest of the people in resemblance to him from those I have seen, is ‘Urwah ibn Mas‘†d (ra). And I saw Ibrahim (as), and the closest of the people in resemblance to him, from those I have seen, is your companion [meaning himself]. And I saw Jibril [as], and the closest of the people in resemblance to him, from those I have seen, is Dihyah (ra)’ (Tirmidhi).
+
+Part of what the Prophets (as) discussed after praising Allah was about ‘the Hour’. Both Ibrahim (as) and Musa (as) stated that they ‘did not have any knowledge of it’. Whilst ’Isa (as) ’mentioned the Dajjal (anti-Christ) and said,
+
+“I will descend and kill him, then the people will return to their own lands and will be confronted with Gog and Magog, who will, “swoop down from every mound” [Qur’an, 21:96]”’. [Ibn Majah]
+
+Following this, the Prophet (saw) said, ‘Then I came out and Jibril (as) brought me a vessel of wine and a vessel of milk. Then I chose the milk, and Jibril (as) said, “You have chosen the natural state (Fitrah)”’ (Muslim).
+
+The dominant opinion is that the Prophet (saw) alongside Jibril (as) then proceeded to the Noble Rock (as-Sakhrah al-Musharrafah) that is currently housed by the holy Dome of the Rock Masjid at the centre of the noble sanctuary (al-Haram ash-Sharif) of the Blessed Masjid Al-Aqsa. He (saw) ascended into the heavens for the next part of this incredible journey, the Mi‘raj, the Ascension!
+
+Reference: [Al-Isra wa Al-Miraj: History of Miraculous Night Journey](https://muslimhands.org.uk/latest/2019/04/al-isra-wal-mi-raj-the-story-of-the-miraculous-night-journey)
 
 Musa has the second largest ummah after the prophet Muhammad  ﷺ   
 only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad  ﷺ   .
