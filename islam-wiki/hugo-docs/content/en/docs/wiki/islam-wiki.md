@@ -24,15 +24,15 @@ author: fanil
 >
 > This guide is compiled from various sources and there may be minor discrepancies and incorrect details. The main purpose of the guide was to combine an overview of the whole timeline of the world as of we know today according to Islamic sources. 
 > 
-> Allahu Alim. Only God knows the ultimate truth. Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources including Wikipedia.
+> Allahu Alim. Only God knows the ultimate truth. Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources.
 > 
-> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time without providing the original source. I am personally not an Islamic scholar, so I tried to stick to aforementioned sources.
+> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman) without providing the original source. I am personally not an Islamic scholar, so I tried to stick to aforementioned sources.
 > 
+> [Fair Use Law](https://www.findlaw.com/smallbusiness/intellectual-property/fair-use-law.html)
+>
 > Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
 > 
 > According to Islamic tradition, every nation had its prophet. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned in this guide because there was no authentic hadith about this particular prophet in Islamic tradition.
-> 
-> [Fair Use Law](https://www.findlaw.com/smallbusiness/intellectual-property/fair-use-law.html)
 >
 > Please feel free to send feedback if you come across parts that contradict the Quran or an authentic hadith or if the timeline order is incorrect. 
 > 
@@ -1153,6 +1153,8 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 # 4. Ibrahim (Abraham)
 *******************************************
 
+> ~ 2nd millenium BCE (2100-1900, according to Biblical scholars)
+
 <details><summary>
 
 ## Timeline Side-Note
@@ -1952,13 +1954,13 @@ Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Alt
 # 5. Musa and the Exodus
 *******************************************
 
+> ~ 1500 BCE
+
 <details><summary>
 
 ## Musa -- Moses 🌿🔥
 
 </summary>
-
-> Early years of the 2nd millennium BCE.
 
 In Islam, Mūsā ben ʿEmrān (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.
 
@@ -1969,9 +1971,7 @@ Musa is also viewed as a very important figure in Islam due to his reception of 
     Verily, We did send down the Torah to Moses therein was guidance and light, by which the Prophets, who submitted themselves to God’s Will, judged the Jews.  And the rabbis and the priests too judged the Jews by the Torah for to them was entrusted the protection of God’s Book, and they were witnesses thereto.
     Quran, 5:44
 
-### Side-Note
-
-According to researches on the historicity of the Old Testament, the descent of Abraham into Egypt as recorded in Genesis 12:10–20 should correspond to the early years of the 2nd millennium BCE, which is before the time the Hyksos ruled in Egypt, but would coincide with the Semitic parties known to have visited the Egyptians circa 1900 BCE, as documented in the painting of a West-Asiatic procession of the tomb of Khnumhotep II at Beni Hasan. It might be possible to associate Abraham to such known Semitic visitors to Egypt, as they would have been ethnically connected. The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
+The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
 
 </details><details><summary>
   
@@ -4407,7 +4407,7 @@ Ten years had passed since Muhammad, may God bless him and his Ahlul-Bait, had f
 
 Banu Hashim and Banu al-Muttalib returned to their homes in Makkah after three years. During these three years, the vast fortunes of Khadija and Abu Talib had run out. They had to make, as it were, a new beginning in life, by putting their blocks into place – one by one.
 
-<details><details><summary>
+</details><details><summary>
 
 ## Death of Hadijah and Abu Talib (Year of Sorrow)
 
@@ -4484,13 +4484,17 @@ Yet another verse recounts that when the Prophet ﷺ   gave guidance regarding D
 
 These verses make it clear that Prophet Muhammad ﷺ   was sent as a Prophet for all mankind and the jinn. The Qur'an is a guide for both mankind and the Jinn.
 
-</details><details><summary>
+</details>
 
 # PROOFREADINGPROOFREADINGPROOFREADING
+
+<details><summary>
 
 ## Isra 'Al-Miraj ✨
 
 </summary>
+
+Source: [Al-Isra wa Al-Miraj: History of Miraculous Night Journey](https://muslimhands.org.uk/latest/2019/04/al-isra-wal-mi-raj-the-story-of-the-miraculous-night-journey)
 
 The events of Isra and Miʿraj are mentioned briefly in the Quran and then further expanded and interpreted within the hadith. Isra means travel at night. Al Isra -- the night journey. Al miraj means the mechanism of rising high.
 
@@ -4532,28 +4536,109 @@ At several points along the journey, Jibra’eel (as) stopped Buraq and told the
 
 The fourth stop was the grave of Musa (as), ‘I happened to pass by Musa [as] on the night of my Night journey by the red sandhill whilst he was standing praying in his grave’ (Muslim). We know that his grave is located, ‘a stone’s throw’ away from the holy land of the Blessed Masjid Al-Aqsa (Bukhari). This incident clearly shows us an example of what the Messenger of Allah ﷺ   said about Prophets (as) after they pass away that, ‘The Prophets are alive in their graves praying’ (Abu Ya‘la).
 
-Arriving at Al-Aqsa
+### Arriving at Al-Aqsa
 
 Finally, the Messenger of Allah ﷺ   arrived in the holy city of Al-Quds (Jerusalem) and he said, ’When we reached Bait al-Maqdis [literally ‘the holy house’ another name for the Blessed Masjid Al-Aqsa] Jibril (as) pointed with his finger causing a crack in the rock, and he tied the Buraq to it [at the western wall of the noble sanctuary]’ (Tirmidhi). Waiting inside were all 124,000 Prophets (as). Jibra’eel (as) led the Prophet ﷺ   to the front, and he (saw) led them all in prayer in this blessed space.
 
-Some narrations indicate that the Prophet ﷺ   prayed ‘two units of prayer’ (Muslim) to greet the Masjid (known as Tahiyyat al-Masjid). This is one of the first examples of this established Sunnah of the Prophet ﷺ  . It is also mentioned that Jibril (as) called the Adhan (call to prayer) before this practice was even established later in Madinah and that the angels from the heavens descended to pray behind all the Prophets in this sacred place – Subhan-Allah!
+Some narrations indicate that the Prophet ﷺ   prayed ‘two units of prayer’ (Muslim) to greet the Masjid (known as Tahiyyat al-Masjid). This is one of the first examples of this established Sunnah of the Prophet ﷺ  . It is also mentioned that Jibril (as) called the Adhan (call to prayer) before this practice was even established later in Madinah and that the angels from the heavens descended to pray behind all the Prophets in this sacred place.
 
 When the Prophet ﷺ   completed the prayer, he said, ‘someone said, “Here is Malik (as), the keeper of the Hell, so convey Salams to him”. So, I turned to him, but he preceded me in Salams’ (Muslim).
 
 The Messenger of Allah ﷺ   also said, ’The Prophets were presented to me, and Musa (as) was a thin man, it was as if he was from the men of Shanu’ah [a Yemeni tribe]. And I saw ’Isa ibn Maryam (as), and the closest of the people in resemblance to him from those I have seen, is ‘Urwah ibn Mas‘†d (ra). And I saw Ibrahim (as), and the closest of the people in resemblance to him, from those I have seen, is your companion [meaning himself]. And I saw Jibril [as], and the closest of the people in resemblance to him, from those I have seen, is Dihyah (ra)’ (Tirmidhi).
 
-Part of what the Prophets (as) discussed after praising Allah was about ‘the Hour’. Both Ibrahim (as) and Musa (as) stated that they ‘did not have any knowledge of it’. Whilst ’Isa (as) ’mentioned the Dajjal (anti-Christ) and said,
+[Ibn Majah] Part of what the Prophets (as) discussed after praising Allah was about ‘the Hour’. Both Ibrahim (as) and Musa (as) stated that they ‘did not have any knowledge of it’. Whilst ’Isa (as) ’mentioned the Dajjal (anti-Christ) and said,
 
-“I will descend and kill him, then the people will return to their own lands and will be confronted with Gog and Magog, who will, “swoop down from every mound” [Qur’an, 21:96]”’. [Ibn Majah]
+    “I will descend and kill him, then the people will return to their own lands and will be confronted with Gog and Magog, who will, “swoop down from every mound” 
+    Qur’an, 21:96 
 
-Following this, the Prophet (saw) said, ‘Then I came out and Jibril (as) brought me a vessel of wine and a vessel of milk. Then I chose the milk, and Jibril (as) said, “You have chosen the natural state (Fitrah)”’ (Muslim).
+Following this, the Prophet ﷺ   said, ‘Then I came out and Jibril (as) brought me a vessel of wine and a vessel of milk. Then I chose the milk, and Jibril (as) said, “You have chosen the natural state (Fitrah)”’ (Muslim).
 
-The dominant opinion is that the Prophet (saw) alongside Jibril (as) then proceeded to the Noble Rock (as-Sakhrah al-Musharrafah) that is currently housed by the holy Dome of the Rock Masjid at the centre of the noble sanctuary (al-Haram ash-Sharif) of the Blessed Masjid Al-Aqsa. He (saw) ascended into the heavens for the next part of this incredible journey, the Mi‘raj, the Ascension!
+The dominant opinion is that the Prophet ﷺ   alongside Jibril (as) then proceeded to the Noble Rock (as-Sakhrah al-Musharrafah) that is currently housed by the holy Dome of the Rock Masjid at the centre of the noble sanctuary (al-Haram ash-Sharif) of the Blessed Masjid Al-Aqsa. He (saw) ascended into the heavens for the next part of this incredible journey, the Mi‘raj, the Ascension.
 
-Reference: [Al-Isra wa Al-Miraj: History of Miraculous Night Journey](https://muslimhands.org.uk/latest/2019/04/al-isra-wal-mi-raj-the-story-of-the-miraculous-night-journey)
+### Al-Miraj
 
-Musa has the second largest ummah after the prophet Muhammad  ﷺ   
-only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad  ﷺ   .
+Source: [Al-Miraj: The Story of Ascention to the Skies](https://muslimhands.org.uk/latest/2021/03/al-isra-wal-miraj-the-story-of-the-ascension-to-the-skies)
+
+    "He [saw] certainly saw some of his Lord’s greatest signs".
+    The Noble Qur’an, 53:18
+
+The word Al-Mi’raj is a noun of instrument in Arabic morphology, which literally means ‘an instrument you use to ascend’. 
+
+The Prophet ﷺ  , ’saw the wide-eyed maidens of Paradise at the left of the Rock [at the Dome of the Rock Masjid]. He greeted them and they returned his greeting. Then he asked them something and they replied with an answer that cools the eyes. Then the Prophet ﷺ   was brought the ladder by which the spirits of the children of Adam (as) ascend. Creation never saw a more beautiful object. It had alternate stairs of silver and gold and came down from the Highest and Amplest Garden of Paradise, Jannat al-Firdaws. It was encrusted with pearls and surrounded with angels on its right and left’. [The Prophet’s Night Journey and Heavenly Ascent by Sayyid Muhammad ibn Alawi al-Maliki]
+
+The Messenger of Allah ﷺ   also said that, ‘a ladder was brought to me finer than any I have ever seen. It was that to which the dying man looks when death approaches’. [The Life of Muhammad ﷺ   by Ibn Ishaq]
+
+Now let’s see what happened when the Prophet ﷺ   accompanied by Jibril (as) ascended into the layers of sky.
+* The Lowest Sky: Adam
+* The Second Sky: Yahya and Isa
+* The Third Sky: Yusuf
+* The Fourth Sky: Idris
+* The Fifth Sky: Harun
+* The Sixth Sky: Musa
+* The Seventh Sky: Ibrahim
+
+#### The First Sky
+Allah ascended the Prophet ﷺ   from the Dome of the Rock through the skies, where he not only saw many miraculous sights and numerous angels, he also met the past Prophets (as). Along the way, he ﷺ   was greeted with excitement and delight, as his arrival had been much-anticipated.
+
+It is hard to imagine how he ﷺ   must have felt upon meeting his brothers (as), all of whom had gone through trials and difficulties, as they met him with the warmth and love his own tribe had isolated him from. He was greeted with the words, ‘Welcome O pious Prophet and pious brother!’ (Bukhari). (Adam (as) and Ibrahim (as), however, welcomed him as a ‘pious son’).
+
+The Messenger of Allah ﷺ   said: ’Then he ascended with us to the heaven [first layer of the sky and end of the known universe]. Jibril [as] then asked the (gate of heaven) to be opened (by knocking on one of its doors). [Bukhari]
+
+It was said, “Who are you?” He said, “Jibril [as]“.
+
+It was said, “And who is with you?” He said, “Muhammad ﷺ  “.
+
+It was said, “Has he been sent for?” He said, “He has indeed been sent for”.
+
+And it (the door of the heaven) was opened for us and suddenly I was with (the Prophet) Adam [as]. Then he welcomed me and supplicated for good for me’. [Muslim]
+
+In other narrations we gain more details of the meeting of the Prophet ﷺ   and the Prophet Adam (as):
+
+’There we saw a man sitting with some people on his right and some on his left. When he looked towards his right, he laughed and when he looked toward his left he wept. Then he said, ”Welcome O pious Prophet and pious son!” (or in another narration, ”Welcome you are amongst family, O my son! What an amazing son you are!” [Bukhari]).
+
+I asked Jibril [as], “Who is he?” He replied, “He is Adam [as] and the people on his right and left are the souls of his offspring. Those on his right are the people of Paradise and those on his left are the people of Hell and when he looks towards his right he laughs and when he looks towards his left, he weeps”’. [Bukhari]
+
+#### The Second to Sixth Sky
+
+Then the Prophet ﷺ   continued to ascend the layers of sky with Jibril (as). Again, permission was sought to enter, and the angelic guards were delighted and welcomed the Messenger of Allah (saw).
+
+At the second sky, he met the maternal cousins, the Prophets Isa (as) and Yahya (as).
+
+At the third sky, the Prophet (saw) met the Prophet Yusuf (as) whom he described as having ‘been given half of (world) beauty’ [Muslim]. The Messenger of Allah (saw) had himself been blessed with all beauty, ma sha’ Allah!
+
+At the fourth sky, the Prophet (saw) met the Prophet Idris (as) whose soul was taken there, and he is praised in the Qur’an: ‘We raised him to a lofty position’. [The Noble Qur’an, 19:57]
+
+At the fifth sky, he met the Prophet Harun (as); and in the sixth sky, he met Prophet Harun’s younger brother, the Prophet Musa (as).
+
+Some narrations mention that Musa (as) was seen crying and a voice was heard saying, ‘What makes you cry?’ He said, ’My Lord, this is a young man whom You have sent after me (as a Prophet) and his Ummah will enter Paradise in greater numbers than my Ummah’. [Muslim]
+
+Musa has the second largest ummah after the prophet Muhammad  ﷺ   .
+
+At each one of these levels, these Prophets (as) welcomed the Prophet (saw) and supplicated good for him saying, ‘Welcome O pious Prophet and pious brother!’ [Bukhari]
+
+#### The Seventh Sky
+At the seventh sky, the Prophet (saw) met his greatest ancestor, the Prophet Ibrahim (as) who was ‘reclining his back against al-Bait al-Ma‘mur. And there enter into it seventy thousand angels every day, never to return to it (again)’. [Muslim]
+
+(Bait al-Ma’mur literally means ‘the much-visited House’. It is the heavenly Ka‘bah directly above the one on earth).
+
+Like Adam (as), Ibrahim (as) greeted the Prophet (saw) saying, ‘Welcome O pious Prophet and pious son!’ [Bukhari]
+
+In another narration, Ibrahim (as) conveyed his salaams to the Ummah of the Prophet (saw) and advised us that, ‘Paradise has pure soil and delicious water, and that it is a flat treeless plain, and that its seeds are (saying), SubhanAllah (Glory be to Allah), Alhamdulillah (All praise belongs to Allah), La ilaaha ill-Allah (There is no god but Allah), and Allahu Akbar (Allah is the Greatest)’. [Tirmidhi]
+
+Only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad ﷺ  .
+
+#### The Lote Tree
+The Prophet (saw) carried on his journey, reaching the Furthest Lote Tree. The Arabic word for this is Sidrah al-Muntaha [The Noble Qur’an, 53:14]. The Prophet (saw) described this vast tree in great detail!
+
+‘[Its] leaves were like elephant ears and its fruit like big earthenware vessels’. [Muslim]
+‘Then when it was covered by the Command of Allah, it underwent such a change that none amongst the creation has the power to praise its beauty’. [Muslim]
+‘A rider will travel in the shade of one of its branches for a hundred years,’ or ‘a hundred riders will seek to shade themselves with its shade’. [Tirmidhi]
+The tree is surrounded with ‘golden butterflies’. [Tirmidhi]
+He further said: ‘many a colour had covered it which I do not know (i.e. the colours of this tree were indescribable)’. [Muslim]
+He also stated that, ‘There terminates everything that ascends from the earth, and everything that descends from above’. [Tirmidhi]
+SubhanAllah, the Prophet (saw) witnessed a truly amazing sign from Allah!
+
+
 
 Isa told this to the prophets.
 Dajjal will come, then Isa AS will come and Dajjal will melt. then people will come to their lands and then Wadjuj and Madjuj will come out and drink all the water. untill Isa AS wil make dua to kill them and they will all die. and the lands will be covered b their bodies. IsaAS will make another dua to get rid of the bodies and Allah will send rain and bodies will be washed away. At this time it will be like a pregnant woman ready to give birth. 
@@ -4579,7 +4664,7 @@ Sunna
 there are 5 layers of Qadr. daily and yearly Qadr may change.
 Celebration of the prophet's ﷺ    birthday started 600 years after his death. many of scholars opposed it. 
 
-</details><details><summary> 
+</details> 
 
 ### Hijrah
 
