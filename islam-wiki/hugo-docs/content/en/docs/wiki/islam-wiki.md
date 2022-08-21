@@ -4484,11 +4484,7 @@ Yet another verse recounts that when the Prophet ﷺ   gave guidance regarding D
 
 These verses make it clear that Prophet Muhammad ﷺ   was sent as a Prophet for all mankind and the jinn. The Qur'an is a guide for both mankind and the Jinn.
 
-</details>
-
-# PROOFREADINGPROOFREADINGPROOFREADING
-
-<details><summary>
+</details><details><summary>
 
 ## Isra 'Al-Miraj ✨
 
@@ -4628,17 +4624,28 @@ In another narration, Ibrahim (as) conveyed his salaams to the Ummah of the Prop
 Only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad ﷺ  .
 
 #### The Lote Tree
-The Prophet (saw) carried on his journey, reaching the Furthest Lote Tree. The Arabic word for this is Sidrah al-Muntaha [The Noble Qur’an, 53:14]. The Prophet (saw) described this vast tree in great detail!
+The Prophet (saw) carried on his journey, reaching the Furthest Lote Tree. The Arabic word for this is Sidrah al-Muntaha [The Noble Qur’an, 53:14]. The Prophet (saw) described this vast tree in great detail.
 
-‘[Its] leaves were like elephant ears and its fruit like big earthenware vessels’. [Muslim]
-‘Then when it was covered by the Command of Allah, it underwent such a change that none amongst the creation has the power to praise its beauty’. [Muslim]
-‘A rider will travel in the shade of one of its branches for a hundred years,’ or ‘a hundred riders will seek to shade themselves with its shade’. [Tirmidhi]
-The tree is surrounded with ‘golden butterflies’. [Tirmidhi]
-He further said: ‘many a colour had covered it which I do not know (i.e. the colours of this tree were indescribable)’. [Muslim]
-He also stated that, ‘There terminates everything that ascends from the earth, and everything that descends from above’. [Tirmidhi]
-SubhanAllah, the Prophet (saw) witnessed a truly amazing sign from Allah!
+> ‘[Its] leaves were like elephant ears and its fruit like big earthenware vessels’. [Muslim]
+> ‘Then when it was covered by the Command of Allah, it underwent such a change that none amongst the creation has the power to praise its beauty’. [Muslim]
+> ‘A rider will travel in the shade of one of its branches for a hundred years,’ or ‘a hundred riders will seek to shade themselves with its shade’. [Tirmidhi]
+> The tree is surrounded with ‘golden butterflies’. [Tirmidhi]
+> He further said: ‘many a colour had covered it which I do not know (i.e. the colours of this tree were indescribable)’. [Muslim]
+> He also stated that, ‘There terminates everything that ascends from the earth, and everything that descends from above’. [Tirmidhi]
 
+    The ˹Prophet’s˺ heart did not doubt what he saw.
+    How can you ˹O pagans˺ then dispute with him regarding what he saw?
+    And he certainly saw that ˹angel descend˺ a second time
+    at the Lote Tree of the most extreme limit ˹in the seventh heaven˺—
+    near which is the Garden of ˹Eternal˺ Residence—
+    while the Lote Tree was overwhelmed with ˹heavenly˺ splendours!
+    The ˹Prophet’s˺ sight never wandered, nor did it overreach.
+    He certainly saw some of his Lord’s greatest signs.
+    Quran 53:11–18
 
+The Sidrat al-Muntaha (سِدْرَة ٱلْمُنْتَهَىٰ, , lit. 'Lote Tree of the Farthest Boundary') is a large lote tree or Sidr tree that marks the utmost boundary in the seventh heaven, which no one can pass. It is called Sidrat al-Muntaha because the knowledge of the angels stops at that point, and no one has gone beyond it except the Messenger of Allah. During the Isra and Mi'raj, Muhammad traveled with the angel Gabriel to the tree (where the angel stopped) beyond which Allah (God) instructed Muhammad about the five daily prayers.
+
+# PROOFREADINGPROOFREADINGPROOFREADING
 
 Isa told this to the prophets.
 Dajjal will come, then Isa AS will come and Dajjal will melt. then people will come to their lands and then Wadjuj and Madjuj will come out and drink all the water. untill Isa AS wil make dua to kill them and they will all die. and the lands will be covered b their bodies. IsaAS will make another dua to get rid of the bodies and Allah will send rain and bodies will be washed away. At this time it will be like a pregnant woman ready to give birth. 
