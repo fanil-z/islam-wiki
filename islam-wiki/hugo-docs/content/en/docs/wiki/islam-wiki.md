@@ -4621,10 +4621,14 @@ Like Adam (as), Ibrahim (as) greeted the Prophet (saw) saying, ‘Welcome O piou
 
 In another narration, Ibrahim (as) conveyed his salaams to the Ummah of the Prophet (saw) and advised us that, ‘Paradise has pure soil and delicious water, and that it is a flat treeless plain, and that its seeds are (saying), SubhanAllah (Glory be to Allah), Alhamdulillah (All praise belongs to Allah), La ilaaha ill-Allah (There is no god but Allah), and Allahu Akbar (Allah is the Greatest)’. [Tirmidhi]
 
+Ibrahim AS said we must plant the plants in Jannah ourselves, every dhikr becomes a tree 🌳 in Jannah.
+
 Only two people have titile of halilullah: Ibrahim AS and the prophet Muhammad ﷺ  .
 
+The last two verses of surah Al Bakarah were given on the 7th heaven when the prophet ﷺ    was there.
+
 #### The Lote Tree
-The Prophet (saw) carried on his journey, reaching the Furthest Lote Tree. The Arabic word for this is Sidrah al-Muntaha [The Noble Qur’an, 53:14]. The Prophet (saw) described this vast tree in great detail.
+The Prophet ﷺ   carried on his journey, reaching the Furthest Lote Tree. The Arabic word for this is Sidrah al-Muntaha [The Noble Qur’an, 53:14]. The Prophet ﷺ   described this vast tree in great detail.
 
 > ‘[Its] leaves were like elephant ears and its fruit like big earthenware vessels’. [Muslim]
 > ‘Then when it was covered by the Command of Allah, it underwent such a change that none amongst the creation has the power to praise its beauty’. [Muslim]
@@ -4643,33 +4647,33 @@ The Prophet (saw) carried on his journey, reaching the Furthest Lote Tree. The A
     He certainly saw some of his Lord’s greatest signs.
     Quran 53:11–18
 
-The Sidrat al-Muntaha (سِدْرَة ٱلْمُنْتَهَىٰ, , lit. 'Lote Tree of the Farthest Boundary') is a large lote tree or Sidr tree that marks the utmost boundary in the seventh heaven, which no one can pass. It is called Sidrat al-Muntaha because the knowledge of the angels stops at that point, and no one has gone beyond it except the Messenger of Allah. During the Isra and Mi'raj, Muhammad traveled with the angel Gabriel to the tree (where the angel stopped) beyond which Allah (God) instructed Muhammad about the five daily prayers.
+The Sidrat al-Muntaha (سِدْرَة ٱلْمُنْتَهَىٰ, , lit. 'Lote Tree of the Farthest Boundary') is a large lote tree or Sidr tree that marks the utmost boundary in the seventh heaven, which no one can pass. It is called Sidrat al-Muntaha because the knowledge of the angels stops at that point, and no one has gone beyond it except the Messenger of Allah ﷺ  . During the Isra and Mi'raj, Muhammad traveled with the angel Gabriel to the tree (where the angel stopped) beyond which Allah (God) instructed prophet Muhammad ﷺ   about the five daily prayers.
+
+#### The Divine Meeting
+At the end of this journey, the Prophet ﷺ   was brought into the Divine Presence, the ultimate source of strength and relief. It is impossible to imagine the beauty of this scene, or how loved, honoured and humbled the Prophet ﷺ   must have felt.
+
+We do not know a great about what was privately discussed between Allah and His beloved ﷺ  , with Allah simply stating:
+    
+    "Then Allah revealed to His servant [saw] what He revealed". 
+    The Noble Qur’an, 53:10
+
+The Prophet ﷺ   mentioned, 
+> ‘Then Allah revealed to me what he revealed to me and then He made obligatory for me fifty prayers every day and night’. [Muslim]
+
+It was here that Allah gave this Ummah the gift of compulsory Salah, a daily source of strength to Muslims because it gives us the opportunity to communicate with Allah and draw closer to Him - it is the believer’s ascension! We know through the Prophet Musa’s (as) intervention and advice that fifty prayers were eventually reduced to five, but still rewarded as fifty, subhanAllah.
+
+The prophet Muhammad ﷺ   would pray 50 rakat every day.
+
+
+#### Returning Home
+
+Finally, the Prophet ﷺ   was taken back down to the Blessed Masjid Al-Aqsa and returned to Makkah on the Buraq.
+
+As he was transported home, he saw various caravans heading towards Makkah, which he would later describe to the Quraish as proof that he really had made this miraculous journey. Allah even displayed Bait al-Maqdis to the Prophet (saw), while the Quraish were cross-examining him in the Hijr of the Ka‘bah [Bukhari]. The entire journey had taken place in a small portion of a night, and there were many who would mock the Prophet ﷺ   for making such a claim.
+
+For the Muslims, however, the story was a source of wonder and hope, as it continues to be for us today. On this night, the best of creation ﷺ   was given the honour of travelling to various blessed places on earth, then ascending the levels of sky and being finally welcomed into the Divine Presence! All this to honour the beloved Prophet ﷺ   and `‘to show him some of Our signs!’` [The Noble Qur’an, 17:1]
 
 # PROOFREADINGPROOFREADINGPROOFREADING
-
-Isa told this to the prophets.
-Dajjal will come, then Isa AS will come and Dajjal will melt. then people will come to their lands and then Wadjuj and Madjuj will come out and drink all the water. untill Isa AS wil make dua to kill them and they will all die. and the lands will be covered b their bodies. IsaAS will make another dua to get rid of the bodies and Allah will send rain and bodies will be washed away. At this time it will be like a pregnant woman ready to give birth. 
-Ibrahim AS said send my salam to your ummah. and tell them I have seem Jannah. its land is fertile but we must plant the plants ourselves every dhikr becomes a tree 🌳 in Jannah .
-Malik the guardian of hell never smiles even when said salam to the prophet  ﷺ   . Jibreel said Were he to have smiled to anybody that would have been you.
-The last two verses of surah Al Bakarah were given on the 7th heaven when the prophet  ﷺ    was there.
-The first thing Allah created is the Pen.
-Allah said 50 salah a day. Musa said the the prophet  ﷺ    go back to your Lord and ask to reduce the number of prayers. the prophet  ﷺ    went up and back 5 or 10 times until it was reduced to 5. So the Voice said it is decreed 5 salah but it will be rewarded with 50.
-the importance of salah.
- fard 17
-sunna 12
-witr tahajjud: 13
-duha 8
-The prophet  ﷺ    prayed 50 raqa every day
-
-Sunna 
-
-- "2 rakats before Fajr"
-- "4 rakats before Zuhr and 2 after"
-- "2 rakats after Maghrib"
-- "2 rakats after Isha"
-
-there are 5 layers of Qadr. daily and yearly Qadr may change.
-Celebration of the prophet's ﷺ    birthday started 600 years after his death. many of scholars opposed it. 
 
 </details> 
 
@@ -4677,10 +4681,9 @@ Celebration of the prophet's ﷺ    birthday started 600 years after his death. 
 
 <details><summary>
 
-## <b>622</b>: Young pilgrims invite the prophet Muhammad ﷺ   to Yathrib.
+## 622: Young pilgrims invite the prophet Muhammad ﷺ   to Yathrib
 
 </summary>
-</br>
 
 Since the Quraysh gave little weight to Muhammad's message, Muhammad took to spreading his message to the merchants and pilgrims that frequented Mecca. After several unsuccessful negotiations, he found hope with some men from Medina. The Arab population of Yathrib were somewhat familiar with monotheism because a Jewish community existed in that city. Muhammad met with a few members of the two tribes of Medina, the Aws and Khazraj, twice, at a hill known as al-'Aqabah near Mina, where they pledged their allegiance to Muhammad and agreed to protect Muhammad if he were to migrated to Medina. Following the pledges at al-'Aqabah, Muhammad encouraged his followers to emigrate to Medina. The Quraysh attempted to stop the Muslims from emigrating to the city, however, almost all Muslims managed to leave.
 
