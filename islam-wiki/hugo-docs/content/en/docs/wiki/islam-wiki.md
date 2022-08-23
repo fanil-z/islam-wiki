@@ -4672,9 +4672,6 @@ Finally, the Prophet ﷺ   was taken back down to the Blessed Masjid Al-Aqsa and
 As he was transported home, he saw various caravans heading towards Makkah, which he would later describe to the Quraish as proof that he really had made this miraculous journey. Allah even displayed Bait al-Maqdis to the Prophet (saw), while the Quraish were cross-examining him in the Hijr of the Ka‘bah [Bukhari]. The entire journey had taken place in a small portion of a night, and there were many who would mock the Prophet ﷺ   for making such a claim.
 
 For the Muslims, however, the story was a source of wonder and hope, as it continues to be for us today. On this night, the best of creation ﷺ   was given the honour of travelling to various blessed places on earth, then ascending the levels of sky and being finally welcomed into the Divine Presence! All this to honour the beloved Prophet ﷺ   and `‘to show him some of Our signs!’` [The Noble Qur’an, 17:1]
-
-# PROOFREADINGPROOFREADINGPROOFREADING
-
 </details> 
 
 ### Hijrah
@@ -4685,27 +4682,69 @@ For the Muslims, however, the story was a source of wonder and hope, as it conti
 
 </summary>
 
-Since the Quraysh gave little weight to Muhammad's message, Muhammad took to spreading his message to the merchants and pilgrims that frequented Mecca. After several unsuccessful negotiations, he found hope with some men from Medina. The Arab population of Yathrib were somewhat familiar with monotheism because a Jewish community existed in that city. Muhammad met with a few members of the two tribes of Medina, the Aws and Khazraj, twice, at a hill known as al-'Aqabah near Mina, where they pledged their allegiance to Muhammad and agreed to protect Muhammad if he were to migrated to Medina. Following the pledges at al-'Aqabah, Muhammad encouraged his followers to emigrate to Medina. The Quraysh attempted to stop the Muslims from emigrating to the city, however, almost all Muslims managed to leave.
+> Prophet Muhammad ﷺ   kept preachin Islam. In one occasion, Arabs from Yathrib meet the prophet Muhammad ﷺ   and invite him to stay in their city.
+> 
+> Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new.
 
-Arabs from Yathrib meet the prophet Muhammadﷺ   and invite him to stay in their city.
+Yathrib was a town in an oasis about 250 miles in the north of Makkah. In A.D. 620, six Yathribites visited Makkah for pilgrimage. A fortuitous meeting with prophet Muhammad ﷺ   led to their conversion to Islam. They told him that they had left Yathrib in a state of simmer and that it could erupt anytime into warfare. But they expressed the hope that God would restore peace to their city through His Messenger. They also promised to return to Makkah and to meet him in the following year.
 
-Yathrib at that time have just started recovering after interglabe wars. Many conservatiry old dwellers died in the war so majority of the popultation were young and they were eager to acquire something new.
+This was the beginning of Islam in Yathrib.
+
+When these six new Muslims returned to Yathrib, they talked with their folks and friends about Islam, and found them willing, even eager to listen. A year later, when the season of pilgrimage arrived, twelve citizens of Yathrib, including the original six, visited Makkah. Among them there were two women also.
+
+They met the Apostle of God ﷺ   at Aqaba. Prophet Muhammad ﷺ   briefed them on the Articles of Faith in Islam, and all of them accepted Islam. At the same time, they also gave him  ﷺ   their pledge of loyalty. This is called the First Pledge of Aqaba.
+
+These Muslims solemnly assured the prophet Muhammad  ﷺ   that:
+* they would never associate partners with Allah,
+* they would not worship anyone except Him;
+* they would never rob or steal;
+* they would never kill their female infants;
+* they would never revile others;
+* they would never defame women;
+* they would always be chaste and pure;
+* they would obey Allah and His Messenger;
+* and they would be faithful to him at all times.
+
+The neophytes requested the prophet Muhammad ﷺ   to send some teacher with them to Yathrib to teach them Qur’an and the precepts of Islam. He ﷺ   sent Mas'ab ibn Umayr, one of his uncles (Mas'ab was the cousin of his father), with the group to propagate Islam in Yathrib. Mas'ab's mission was successful, and many families in Yathrib accepted Islam.
+
+This was the first time that prophet Muhammad ﷺ   had chosen an official. Professor Margoliouth says that Mas'ab ibn Umayr was the first choice of an official in Islam.
+
+### The Second Pledge of Aqaba
+In A.D. 622, seventy-five citizens of Yathrib came to Makkah in the season of the pilgrimage. Prophet Muhammad ﷺ   gave them audience at the same spot at Aqaba where he had met the group of twelve the year before. These 75 men and women also accepted Islam. They gave him their pledge of loyalty, and invited him to Yathrib.
+
+prophet Muhammad's ﷺ   uncle, Abbas ibn Abdul Muttalib, was with him on this occasion. He is reported to have said to the “hosts” from Yathrib: “Muhammad is held in high esteem by his own people. If you can stand by him through thick and thin, take him with you to Yathrib; if not, then abandon the whole idea.”
+
+One of the leaders of the Yathribites was Bera'a ibn Ma'roor. He said: “When we were children, our favorite toys were swords and spears.” Another chief, Abul Haithum, interrupted him, and said: “O Messenger of God! What will happen when Islam becomes great and strong? Will you then leave Yathrib and return to Makkah?”
+
+Prophet Muhammad ﷺ   smiled and said: 
+
+> "No. Your blood is my blood and my blood is your blood. From this day you are mine and I am yours, and I shall never part company with you."
+
+The Yathribite Muslims were satisfied by the assurance given to them by prophet Muhammad ﷺ  , and they returned to Yathrib to spread Islam among their folks. Islam began to make steady progress in Yathrib. When it appeared that the new faith had found a haven in that city, the Apostle suggested to the victims of persecution in Makkah to emigrate there. Following his suggestion, Muslims began to leave Makkah, in small groups, and to settle in their new homes in Yathrib.
+
+The Second Pledge of Aqaba is a landmark in the history of Islam. It was the “anchor” on which the frail vessel of Islam came to rest at last, after being buffeted for thirteen years in the turbulent seas of paganism in Arabia.
 
 </details><details><summary>
 
-## <b>621</b>:  70 families move to Yathrib
+## 622: 70 families move to Yathrib
 
 </summary>
 
-Suhaib al-Rumi. He was taken as a slave by Byzantine soldiers as a young boy, and 20 ears he lived in Byzantine lands as a slave speaking Greek and forgot Arabic. He escaped from bondage and headed to Mecca. Abdullah ibm Judan took him as mawliya he engaged in trade and became rich. He was not tortuted very harshly. Before hijra to MEdina the Quraish tried to stop him but he threatened them with arrows. 
+Despite all the precautions that prophet Muhammad ﷺ   and the people of Yathrib had taken, Quraysh found out the secrets behind this treaty. Consequently, they endeavored to arrest the treaty signers. Since those who paid homage to the Holy Prophet had left Mecca in time, they could flee to safety except for one who was arrested.
 
-You came to Mecca weak and poor and you have acquired what you have acquired.."
+After the departure of the people of Yathrib, Quraysh increased their pressure on Muslims, because they realized that the Holy Prophet had safeguarded a stronghold in Yathrib; they therefore increased their pressures on Muslims. Once again, life in Mecca had become intolerable. For this reason, prophet Muhammad ﷺ   ordered Muslims to emigrate to Yathrib, telling them, “Go to Yathrib; God will provide you with brethren and a safe place.” For two and a half months, (i.e. from the middle of Dhu’l-Hijjah up to the end of ¯afar) Muslims gradually headed for Yathrib despite all hardships that Quraysh put in their way. Hence, no Muslim remained in Mecca except for prophet Muhammad ﷺ  , Abu-Bakr, Ali and some others. In the history of Islam, those Muslims who emigrated to Yathrib are called the muhajirin (Emigrants) and those who helped out prophet Muhammad ﷺ   in Yathrib are called the ansar.
 
-"What would you say if I leave you my wealth?" interrupted Suhayb. "Would you get out of my way?" "Yes," they answered.
+Most Muslims migrated at night fearing Quraish resistance, but Umar is reported to have left openly during the day saying: "Anyone who wants to make his wife a widow and his children orphans should come and meet me there behind that cliff." Umar migrated to Medina accompanied by his cousin and brother-in-law Saeed ibn Zaid.
 
-Suhayb described the place in his house in Mecca where he had left the money, and they allowed him to go. When Suhayb reached Quba, just outside Medina, Muhammadﷺ    him approaching and said, "Your transaction has been fruitful, O Abu Yahya. Your transaction has been fruitful." He repeated this three times. Suhayb's face beamed with happiness as he said: "By God, no one has come before me to you, Messenger of God, and only Jibril could have told you about this."
+> Story of emigration of Suhaib al-Rumi. He was taken as a slave by Byzantine soldiers as a young boy, and 20 ears he lived in Byzantine lands as a slave speaking Greek and forgot Arabic. He escaped from bondage and headed to Mecca. Abdullah ibn Judan took him as mawliya. Gradually Suhaib engaged in trade and became rich. He was not tortuted very harshly. Before hijra to Medina the Quraish tried to stop him but he threatened them with arrows. 
+>
+> The Quraish said: "You came to Mecca weak and poor and you have acquired what you have acquired.."
+>
+> "What would you say if I leave you my wealth?" interrupted Suhayb. "Would you get out of my way?" "Yes," they answered.
+>
+> Suhayb described the place in his house in Mecca where he had left the money, and they allowed him to go. When Suhayb reached Quba, just outside Medina, prophet Muhammad ﷺ    him approaching and said, "Your transaction has been fruitful, O Abu Yahya. Your transaction has been fruitful." He repeated this three times. Suhayb's face beamed with happiness as he said: "By God, no one has come before me to you, Messenger of God, and only Jibril could have told you about this."
 
-In 622 CE, due to the safety offered by Yathrib (later renamed Medīnat an-Nabī, or simply Medina), Muhammad ordered his followers to migrate to Medina. Most Muslims migrated at night fearing Quraish resistance, but Umar is reported to have left openly during the day saying: "Any one who wants to make his wife a widow and his children orphans should come and meet me there behind that cliff." Umar migrated to Medina accompanied by his cousin and brother-in-law Saeed ibn Zaid.
+# PROOFREADINGPROOFREADINGPROOFREADING
 
 </details><details><summary>
 
@@ -4713,7 +4752,7 @@ In 622 CE, due to the safety offered by Yathrib (later renamed Medīnat an-Nabī
 
 </summary>
 
-Muslims believe Muhammad waited until he received divine direction to depart from Mecca. In anticipation of receiving this direction, Muhammad began making preparations and informed Abu Bakr. On the night of his departure, Muhammad's house was besieged by men of the Quraysh, who had seen large numbers of the Muslims leave the city and had planned to kill him as soon as he left. Muhammad, who was renowned for his trustworthiness, owned various properties of members the Quraysh entrusted to him and he asked Ali to stay behind to return them and to fulfill his obligations on his behalf. Muhammad asked Ali to wear his cloak and to lie down on his bed assuring him of God's protection. Ali had worn Muhammad's cloak, leading the assassins to think Muhammad had not yet departed. Ali risked his life by staying in Mecca but ultimately survived the plot. He would later leave for Medina with his mother, Fatima bint Asad, Muhammed's daughters Fatimah and Umm Kulthum, as well as two other women, Muhammad's wife Sawda and wetnurse Umm Ayman.
+Prophet Muhammad ﷺ   waited until he received divine direction to depart from Mecca. In anticipation of receiving this direction, Muhammad began making preparations and informed Abu Bakr. On the night of his departure, Muhammad's house was besieged by men of the Quraysh, who had seen large numbers of the Muslims leave the city and had planned to kill him as soon as he left. Muhammad, who was renowned for his trustworthiness, owned various properties of members the Quraysh entrusted to him and he asked Ali to stay behind to return them and to fulfill his obligations on his behalf. Muhammad asked Ali to wear his cloak and to lie down on his bed assuring him of God's protection. Ali had worn Muhammad's cloak, leading the assassins to think Muhammad had not yet departed. Ali risked his life by staying in Mecca but ultimately survived the plot. He would later leave for Medina with his mother, Fatima bint Asad, Muhammed's daughters Fatimah and Umm Kulthum, as well as two other women, Muhammad's wife Sawda and wetnurse Umm Ayman.
 
 Muhammad and Abu Bakr left the city and took shelter in a cave atop the Thawr mountain south of Mecca before continuing their journey to elude the Quraysh party pursuing them led by Suraqa bin Malik. They stayed in the cave for three days before resuming their journey. During the journey, whenever Suraqa neared Muhammad and Abu Bakr, Suraqa's horse stumbled until he finally gave up on the desire of capturing Muhammad. Muhammad and Abu Bakr turned to the Red Sea, following the coastline up to Medina, arriving at Quba'. He stopped at Quba' and established a mosque there. He waited there for fourteen days for Ali and his family to join him. Thereafter he continued to Medina, participated in their first Friday prayer on the way. Upon reaching the city, they were greeted cordially by its people.
 
