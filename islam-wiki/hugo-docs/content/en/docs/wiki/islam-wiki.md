@@ -4746,7 +4746,7 @@ Most Muslims migrated at night fearing Quraish resistance, but Umar is reported 
 
 </details><details><summary>
 
-##**622**: Assasination Attempt and Hijra
+##622: Assasination Attempt and Hijra
 
 </summary>
 
@@ -4759,41 +4759,52 @@ Because of assassination attempts from the Quraysh, and prospect of success in Y
 The following hadith sums up many of the events of the Prophet’s emigration: It was narrated on the authority of A’ishah that he Prophet (peace and blessings be upon him) said to the Muslims: 
 > “In a dream I have been shown your place of immigration, a land of date palm trees, between two lava fields, the two stony tracts.” So, some people immigrated to Madinah, and most of those people who had previously immigrated to the land of Ethiopia returned to Madinah. Abu Bakr also prepared to leave for Madinah, but the Messenger of Allah (peace and blessings be upon him) said to him, “Wait for a while, because I hope that I will be allowed to emigrate also.” Abu Bakr said, “Do you indeed expect this? May my father be sacrificed for you!” The Prophet said, “Yes.” So Abu Bakr stayed behind for the sake of the Messenger of Allah (peace and blessingsbe be upon him) so that he could accompany him. He fed two she-camels he owned for four months. 
 >
-> One day, while we [A’ishah is still narrating] were sitting in Abu Bakr’s house at noon, someone said to Abu Bakr, “This is the Prophet (peace and blessings be upon him) with his head covered, coming at a time at which he never used to visit us before.” Abu Bakr said, “May my father and mother be sacrificed for him. By Allah, he has not come at this hour except for something important.” So the Prophet (peace and blessings be upon him) came and asked permission to enter, and he was admitted. When he entered, he said to Abu Bakr: “Tell everyone who is present with you to go away.” Abu Bakr replied, “There is no one here but you are my family. 
+> One day, while we [A’ishah is still narrating] were sitting in Abu Bakr’s house at noon, someone said to Abu Bakr, “This is the Prophet ﷺ   with his head covered, coming at a time at which he never used to visit us before.” Abu Bakr said, “May my father and mother be sacrificed for him. By Allah, he has not come at this hour except for something important.” So the Prophet ﷺ   came and asked permission to enter, and he was admitted. When he entered, he said to Abu Bakr: “Tell everyone who is present with you to go away.” Abu Bakr replied, “There is no one here but you are my family. 
 > 
-> May my father be sacrificed for you, O Messenger of Allah!” The Prophet said, “I have been given permission to emigrate.” Abu Bakr said, “Shall I accompany you?” The Messenger of Allah (peace and blessings be upon him) said, “Yes.” Abu Bakr said, “O Messenger of Allah, may my father be sacrificed for you, take one of these two she-camels of mine.” The Messenger of Allah (peace and blessings be upon him) replied, “(I will accept it) with payment.” So we prepared the baggage quickly and put some journey food in a leather bag for them. Asma’, the daughter of Abu Bakr, cut a piece from her waist belt and tied the mouth of the leather bag with it, and for that reason she was named dhat al-nitaqayn, the One with Two Waistbelts. 
+> May my father be sacrificed for you, O Messenger of Allah!” The Prophet said, “I have been given permission to emigrate.” Abu Bakr said, “Shall I accompany you?” The Messenger of Allah ﷺ   said, “Yes.” Abu Bakr said, “O Messenger of Allah, may my father be sacrificed for you, take one of these two she-camels of mine.” The Messenger of Allah ﷺ   replied, “(I will accept it) with payment.” So we prepared the baggage quickly and put some journey food in a leather bag for them. Asma’, the daughter of Abu Bakr, cut a piece from her waist belt and tied the mouth of the leather bag with it, and for that reason she was named dhat al-nitaqayn, the One with Two Waistbelts. 
 >
-> Then the Messenger of Allah (peace and blessings be upon him) and Abu Bakr reached a cave on the mountain of Thawr and stayed there for three nights. Abdullah ibn Abi Bakr, who was an intelligent and wise youth, stayed (with them) overnight. He would leave them before daybreak so that in the morning he would be with the Quraysh, as if he had spent the night in Makkah. He would keep in mind any plot made against them, and when it became dark he would (go and) inform them of it. Amir ibn Fuhayrah, the freed slave of Abu Bakr, used to bring the milch sheep (of his master, Abu Bakr) to them a little while after nightfall. So they always had fresh milk at night, the milk of their sheep. Amir ibn Fuhayrah would then take the flock away when it was still dark (before daybreak). He did the same on each of those three nights. 
+> Then the Messenger of Allah ﷺ   and Abu Bakr reached a cave on the mountain of Thawr and stayed there for three nights. Abdullah ibn Abi Bakr, who was an intelligent and wise youth, stayed (with them) overnight. He would leave them before daybreak so that in the morning he would be with the Quraysh, as if he had spent the night in Makkah. He would keep in mind any plot made against them, and when it became dark he would (go and) inform them of it. Amir ibn Fuhayrah, the freed slave of Abu Bakr, used to bring the milch sheep (of his master, Abu Bakr) to them a little while after nightfall. So they always had fresh milk at night, the milk of their sheep. Amir ibn Fuhayrah would then take the flock away when it was still dark (before daybreak). He did the same on each of those three nights. 
 >
-> The Messenger of Allah (peace and blessings be upon him) and Abu Bakr had hired a man from the tribe of Banu Ad-Dayl from the family of BanuAbd ibn Adiy as an expert guide, … he was of the religion of the polytheists of the Quraysh, but the Prophet and Abu Bakr trusted him and gave him their two she-camels and made an appointment with him to bring their two she-camels to the cave of the mountain of Thawr in the morning after three nights had passed. And (when they set out),Amir ibn Fuhayrah and the guide went along with them and the guide led them along the coast. 
+> The Messenger of Allah ﷺ   and Abu Bakr had hired a man from the tribe of Banu Ad-Dayl from the family of BanuAbd ibn Adiy as an expert guide, … he was of the religion of the polytheists of the Quraysh, but the Prophet and Abu Bakr trusted him and gave him their two she-camels and made an appointment with him to bring their two she-camels to the cave of the mountain of Thawr in the morning after three nights had passed. And (when they set out),Amir ibn Fuhayrah and the guide went along with them and the guide led them along the coast. 
 >
-> Ibn Shihab said: Abdur-Rahman ibn Malik Al-Mudliji, who was the nephew of Suraqah ibn Malik, told me that his father informed him that he heard Suraqah saying: The messengers of the Quraysh came to us declaring that they had assigned for the persons who would kill or arrest the Messenger of Allah (peace and blessings be upon him) and Abu Bakr, a reward equal to their blood-money. While I was sitting in one of the gatherings of my tribe, a man from them came to us and stood while we were sitting, and said, “O Suraqah! I have just seen some people far away on the shore, and I think they are Muhammad and his companion.” Suraqah added: I realized that it must have been them. But I said, “No, it is not them, but you must have seen so-and-so, and so-and-so whom we saw setting out.” I stayed in the gathering for a while and then got up and left for my home. I ordered my slave-girl to get my horse, which was behind a hillock, and keep it ready for me. 
+> Ibn Shihab said: Abdur-Rahman ibn Malik Al-Mudliji, who was the nephew of Suraqah ibn Malik, told me that his father informed him that he heard Suraqah saying: The messengers of the Quraysh came to us declaring that they had assigned for the persons who would kill or arrest the Messenger of Allah ﷺ   and Abu Bakr, a reward equal to their blood-money. While I was sitting in one of the gatherings of my tribe, a man from them came to us and stood while we were sitting, and said, “O Suraqah! I have just seen some people far away on the shore, and I think they are Muhammad and his companion.” Suraqah added: I realized that it must have been them. But I said, “No, it is not them, but you must have seen so-and-so, and so-and-so whom we saw setting out.” I stayed in the gathering for a while and then got up and left for my home. I ordered my slave-girl to get my horse, which was behind a hillock, and keep it ready for me. 
 > 
-> Then I took my spear and left by the back door of my house dragging the lower end of the spear on the ground and keeping it low. Then I reached my horse, mounted it and made it gallop. When I approached them (i.e., Muhammad and Abu Bakr), my horse stumbled and I fell down from it. Then I stood up, got hold of my quiver and took out the divining arrows and drew lots as to whether I should harm them or not, and the lot which I disliked came out. But I remounted my horse and let it gallop, giving no importance to the divining arrows. When I heard the recitation of the Qur’an by the Messenger of Allah (peace and blessings be upon him) who was not looking around although Abu Bakr kept doing that, suddenly the forelegs of my horse sank into the ground up to the knees, and I fell down from it. Then I rebuked it and it got up but it could hardly lift its forelegs from the ground, and when it stood up straight again, its forelegs caused dust to rise up in the sky like smoke. 
+> Then I took my spear and left by the back door of my house dragging the lower end of the spear on the ground and keeping it low. Then I reached my horse, mounted it and made it gallop. When I approached them (i.e., Muhammad and Abu Bakr), my horse stumbled and I fell down from it. Then I stood up, got hold of my quiver and took out the divining arrows and drew lots as to whether I should harm them or not, and the lot which I disliked came out. But I remounted my horse and let it gallop, giving no importance to the divining arrows. When I heard the recitation of the Qur’an by the Messenger of Allah ﷺ   who was not looking around although Abu Bakr kept doing that, suddenly the forelegs of my horse sank into the ground up to the knees, and I fell down from it. Then I rebuked it and it got up but it could hardly lift its forelegs from the ground, and when it stood up straight again, its forelegs caused dust to rise up in the sky like smoke. 
 > 
 > Then again I drew lots with the divining arrows, and the lot which I disliked came out. So I called to them to let them know they were safe. They stopped, and I remounted my horse and went to them. When I saw how I had been hampered from harming them, it came to my mind that the cause of the Messenger of Allah (peace and blessings be upon him) would become victorious. So I said to him, “Your people have assigned a reward equal to the blood-money for your capture.” Then I told them all the plans the people of Makkah had made concerning them. Then I offered them some journey food and goods but they refused to take anything and did not ask for anything, but the Prophet (peace and blessings be upon him) said, “Do not tell others about us.” Then I requested him to write for me a guarantee of security. He ordered Amir bin Fuhayrah to write it for me on a piece of animal skin, then the Messenger of Allah (peace and blessings be upon him) went on his way. 
 >
 > When the Muslims of Madinah heard that the Messenger of Allah (peace and blessings be upon him) had departed Makkah and was heading towards them, they started going to the harrah (stony tract formed of lava) every morning. They would wait for him till the heat of the noon forced them to return. One day, after waiting for a long while, they returned home, and when they went into their houses, a Jew climbed up onto the roof of one of the forts of his people to look for something, and he saw the Messenger of Allah (peace and blessings be upon him) and his companions dressed in white clothes, as if they were emerging out of a desert mirage. The Jew could not help shouting at the top of his voice, “O Arabs! Here is your great man whom you have been waiting for!”
 
-Read More on islamonline :
-https://islamonline.net/en/story-of-the-prophets-hijrah/
+Read more on [IslamOnline](https://islamonline.net/en/story-of-the-prophets-hijrah/).
 
 At the time of the rule of the second righteous khalif Umar ibn Al Khattab, the year of Hijrah was established as the beginning of the Muslim era and as the first year of the Islamic calendar. 
 
-With regard to the first Companions of the Prophet (peace and blessings be upon him) to emigrate, Al-Bara’ (may Allah be pleased with him) said: 
-> "The first ones who came to us of the Companions of the Prophet (peace and blessings be upon him) were Musab ibnUmayr and Ibn Umm Maktum. They started to teach us the Qur’an. Then Ammar, Bilal, and Sad came, then Umar ibn Al-Khattab came with twenty others. Then the Prophet (peace and blessings be upon him) came, and I never saw the people of Madinah rejoice more than that. They rejoiced so much that I saw the girls and boys saying, ‘This is the Messenger of Allah (peace and blessings be upon him), he has come’" 
+With regard to the first Companions of the Prophet ﷺ   to emigrate, Al-Bara’ (may Allah be pleased with him) said: 
+> "The first ones who came to us of the Companions of the Prophet ﷺ   were Musab ibnUmayr and Ibn Umm Maktum. They started to teach us the Qur’an. Then Ammar, Bilal, and Sad came, then Umar ibn Al-Khattab came with twenty others. Then the Prophet ﷺ   came, and I never saw the people of Madinah rejoice more than that. They rejoiced so much that I saw the girls and boys saying, ‘This is the Messenger of Allah (peace and blessings be upon him), he has come’" 
 > Al-Bukhari
-
-# PROOFREADINGPROOFREADINGPROOFREADING
-
-Read More on islamonline :
-https://islamonline.net/en/story-of-the-prophets-hijrah/
 
 </details>
 
 ### Medina Period 🕌
 
 <details><summary>
+
+## Construction of first mosques
+
+</summary>
+The oldest mosque ever built was the Masjid al-Quba. Quba used to be a village not far from Medina. It was built right after hijra, which is the emigration of the Prophet Muhammad and his followers to the city of Medina in 622 CE. The Prophet and his companions helped to build it.
+
+Al-Masjid an-Nabawi, known in English as The Prophet's Mosque, is a mosque built by the Islamic prophet Muhammad in the city of Medina in the Al Madinah Province of Saudi Arabia. It was the second mosque built by Muhammad in Medina, after Masjid Quba', and is the second largest mosque and second holiest site in Islam, both titles ranking after the Masjid al-Haram in Mecca.
+
+The mosque was built by Muhammad in 622 CE (1 AH) after his arrival in Medina. Riding a camel called Qaswa, he arrived at the place where this mosque was built, which was being used as a burial ground. Refusing to accept the land as a gift from the two orphans, Sahl and Suhayl, who owned the land, he bought the land which was paid for by Abu Ayyub al-Ansari and it took seven months to complete the construction of the mosque. It measured 30.5 m × 35.62 m. The roof which was supported by palm trunks was made of beaten clay and palm leaves. It was at a height of 3.60 m. The three doors of the mosque were the "Gate of Mercy" (باب الرحمة Bab ar-Rahmah) to the south, "Gate of Gabriel" (باب جبريل Bab Jibril) to the west and "Gate of Women" (باب النساء Bab Nisa) to the east. At this time point in the history of the Mosque, the qiblah wall was facing north to Jerusalem, and al-Suffah was along the northern wall.
+
+As there was no definite arrangement for calling people to prayer, Bilal ibn Ribah was appointed to call people in a loud voice at each prayer time, a system later replaced by Adhan believed to be informed to Abdullah ibn Zayd and Umar in their dreams, and liked and introduced by Muhammadﷺ  .
+
+Bilal was tortured by Meccans, he was dragged in chains along the streets of Mecca and kept saying "Ahadun Ahad" (Allah the One) because he did not know anything else about Islam. And now he was the first person to say athan and the first muathin in the an-Nabawi mosque.
+
+</details><details><summary>
+
+# PROOFREADINGPROOFREADINGPROOFREADING
 
 ## Constitution of Medina
 
@@ -4810,22 +4821,7 @@ In order to establish peaceful coexistence among this heterogeneous population, 
 
 </details><details><summary>
 
-## Construction of first mosques
-
-</summary>
-The oldest mosque ever built was the Masjid al-Quba. Quba used to be a village not far from Medina.It was built right after hijra, which is the emigration of the Prophet Muhammad and his followers to the city of Medina in 622 CE. The Prophet and his companions helped building it.
-
-Al-Masjid an-Nabawi, known in English as The Prophet's Mosque, is a mosque built by the Islamic prophet Muhammad in the city of Medina in the Al Madinah Province of Saudi Arabia. It was the second mosque built by Muhammad in Medina, after Masjid Quba', and is the second largest mosque and second holiest site in Islam, both titles ranking after the Masjid al-Haram in Mecca
-
-The mosque was built by Muhammad in 622 CE (1 AH) after his arrival in Medina. Riding a camel called Qaswa, he arrived at the place where this mosque was built, which was being used as a burial ground. Refusing to accept the land as a gift from the two orphans, Sahl and Suhayl, who owned the land, he bought the land which was paid for by Abu Ayyub al-Ansari and it took seven months to complete the construction of the mosque. It measured 30.5 m × 35.62 m (100.1 ft × 116.9 ft). The roof which was supported by palm trunks was made of beaten clay and palm leaves. It was at a height of 3.60 m (11.8 ft). The three doors of the mosque were the "Gate of Mercy" (باب الرحمة Bab ar-Rahmah) to the south, "Gate of Gabriel" (باب جبريل Bab Jibril) to the west and "Gate of Women" (باب النساء Bab Nisa) to the east. At this time point in the history of the Mosque, the qiblah wall was facing north to Jerusalem, and al-Suffah was along the northern wall.
-
-As there was no definite arrangement for calling people to prayer, Bilal ibn Ribah was appointed to call people in a loud voice at each prayer time, a system later replaced by Adhan believed to be informed to Abdullah ibn Zayd in his dream, and liked and introduced by Muhammadﷺ  .
-
-Bilal who was tortured by Meccans, who was dragged in chains along the streets of Mecca and who kept saying "Ahadun Ahad" (Allah the One) because he didnot know anything else about Islam. He was the first to say athan and the first muathin in the an-Nabawi mosque. Prophet Muhammadﷺ   assigned him to say adhan in the first mosque in Medina because he had a loud and beautiful voice.
-
-</details><details><summary>
-
-## <b>624</b> ⚔️ Battle of Badr
+## 624: ⚔️ Battle of Badr
 
 </summary>
 
