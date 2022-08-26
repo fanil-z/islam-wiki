@@ -4792,11 +4792,14 @@ With regard to the first Companions of the Prophet ﷺ   to emigrate, Al-Bara’
 ## Construction of first mosques
 
 </summary>
-The oldest mosque ever built was the Masjid al-Quba. Quba used to be a village not far from Medina. It was built right after hijra, which is the emigration of the Prophet Muhammad and his followers to the city of Medina in 622 CE. The Prophet and his companions helped to build it.
+The oldest mosque ever built was the Masjid al-Quba. Quba used to be a village not far from Medina. It was built right after hijra, which is the emigration of the prophet Muhammad ﷺ   and his followers to the city of Medina in 622 CE. The Prophet and his companions helped to build it.
 
-Al-Masjid an-Nabawi, known in English as The Prophet's Mosque, is a mosque built by the Islamic prophet Muhammad in the city of Medina in the Al Madinah Province of Saudi Arabia. It was the second mosque built by Muhammad in Medina, after Masjid Quba', and is the second largest mosque and second holiest site in Islam, both titles ranking after the Masjid al-Haram in Mecca.
+Al-Masjid an-Nabawi, known in English as The Prophet's Mosque, is a mosque built by the Islamic prophet Muhammad ﷺ   in the city of Medina in the Al Madinah Province of Saudi Arabia. It was the second mosque built by Muhammad in Medina, after Masjid Quba', and is the second largest mosque and second holiest site in Islam, both titles ranking after the Masjid al-Haram in Mecca.
 
-The mosque was built by Muhammad in 622 CE (1 AH) after his arrival in Medina. Riding a camel called Qaswa, he arrived at the place where this mosque was built, which was being used as a burial ground. Refusing to accept the land as a gift from the two orphans, Sahl and Suhayl, who owned the land, he bought the land which was paid for by Abu Ayyub al-Ansari and it took seven months to complete the construction of the mosque. It measured 30.5 m × 35.62 m. The roof which was supported by palm trunks was made of beaten clay and palm leaves. It was at a height of 3.60 m. The three doors of the mosque were the "Gate of Mercy" (باب الرحمة Bab ar-Rahmah) to the south, "Gate of Gabriel" (باب جبريل Bab Jibril) to the west and "Gate of Women" (باب النساء Bab Nisa) to the east. At this time point in the history of the Mosque, the qiblah wall was facing north to Jerusalem, and al-Suffah was along the northern wall.
+The mosque was built by prophet Muhammad ﷺ   in 622 CE (1 AH) after his arrival in Medina. Riding a camel called Qaswa, he arrived at the place where this mosque was built, which was being used as a burial ground. Refusing to accept the land as a gift from the two orphans, Sahl and Suhayl, who owned the land, he bought the land which was paid for by Abu Ayyub al-Ansari and it took seven months to complete the construction of the mosque. It measured 30.5 m × 35.62 m. The roof which was supported by palm trunks was made of beaten clay and palm leaves. It was at a height of 3.60 m. The three doors of the mosque were the "Gate of Mercy" (باب الرحمة Bab ar-Rahmah) to the south, "Gate of Gabriel" (باب جبريل Bab Jibril) to the west and "Gate of Women" (باب النساء Bab Nisa) to the east. At this time point in the history of the Mosque, the qiblah wall was facing north to Jerusalem, and al-Suffah was along the northern wall.
+
+Prophet Muhammad ﷺ   himself helped in the construction. He started carrying unburned bricks for its building and while doing so, he would say, “This load is better than the load of Khaybar, for it is more pious in the sight of Allah and purer and better rewardable.” He was also saying, 
+> "O Allah! The actual reward is the reward in the Hereafter, so bestow Your Mercy on the Ansar and the Muhajirun (Immigrants)."
 
 As there was no definite arrangement for calling people to prayer, Bilal ibn Ribah was appointed to call people in a loud voice at each prayer time, a system later replaced by Adhan believed to be informed to Abdullah ibn Zayd and Umar in their dreams, and liked and introduced by Muhammadﷺ  .
 
@@ -4806,18 +4809,103 @@ Bilal was tortured by Meccans, he was dragged in chains along the streets of Mec
 
 # PROOFREADINGPROOFREADINGPROOFREADING
 
-## Constitution of Medina
+## Yathrib Becomes Medina
 
 </summary>
 
-After the arrival of Muhammad in Medina, its people could be divided into four groups:
+The name “Yathrib” soon became obsolete. People began to call it “Medina-tun-Nabi,” – the City of the Prophet. In due course, usage caused a contraction of this name to be adopted simply as “Medina” – “the City,” and that's what the name of the city of the Prophet of Islam has remained ever since. 
+
+### Constitution of Medina
+
+After the arrival of prophet Muhammad ﷺ   in Medina, its people could be divided into four groups:
 
 - The Muslims: emigrants from Mecca and Ansars of Medina.
 - The hypocrites; they nominally embraced Islam, but actually were against it.
 - Those from Aws and Khazraj who were still pagans, but were inclined to embrace Islam.
 - The Jews; they were huge in number and formed an important community there.
 
-In order to establish peaceful coexistence among this heterogeneous population, Muhammad invited the leading personalities of all the communities to reach a formal agreement which would provide a harmony among the communities and security to the city of Medina, and finally drew up the Constitution of Medina, also known as the Medina Charter, which formed "a kind of alliance or federation" among the prevailing communities. It specified the mutual rights and obligations of the Muslims and Jews of Medina, and prohibited any alliance with the outside enemies. It also declared that any dispute would be referred to Muhammad for settlement.
+In order to establish peaceful coexistence among this heterogeneous population, prophet Muhammad ﷺ   invited the leading personalities of all the communities to reach a formal agreement which would provide a harmony among the communities and security to the city of Medina, and finally drew up the Constitution of Medina, also known as the Medina Charter, which formed "a kind of alliance or federation" among the prevailing communities. It specified the mutual rights and obligations of the Muslims and Jews of Medina, and prohibited any alliance with the outside enemies. It also declared that any dispute would be referred to Muhammad for settlement.
+
+The basic population of Medina consisted of its three Jewish tribes, the Quainuqa, the Quraiza and the Nadhir; and of the two Arab tribes, the Aus and the Khazraj. (Arabs, Islam and the Arab Caliphate in the Early Middle Ages. 1969)
+
+The Jews were farmers, merchants, traders, money-lenders, landlords and industrialists. They had grown rich through the practice of usury and they enjoyed a monopoly of the armaments industry in Arabia.
+
+The two Arab tribes of Medina, Aus and Khazraj, made their living by farming. Before the arrival of the Prophet, they had been locked up in a war against each other which had lasted for more than five generations. They had fought their last battle only four years earlier, i.e., in A.D. 618, and it had left them utterly exhausted and prostrate.
+
+There were a few Christians also living in Medina. They did not cotton to the Prophet of Islam because he repudiated the doctrine of Trinity, and preached the Unity of the Creator.
+
+A fourth group in Medina was to spring up a little later, made up of the “hypocrites” or the “disaffected.” During the Prophet's mission in Makkah, there were many Muslims who had to hide their true faith for fear of persecution. In Medina, the situation was reversed. These people (the hypocrites) were nominal Muslims; they outwardly professed Islam but they were not sincere. They were a potential source of subversion, sabotage and insurrection.
+
+#### The Charter or Constitution of Medina
+The citizens of Yathrib acknowledged Muhammad ﷺ   as their sovereign, and he gave them a “Citizen's Charter” which is believed to have been the first written document in Islam (other than Qur’an). The original charter as preserved by Ibn Ishaq, contains forty-seven (47) clauses. Following are the more important ones out of them:
+* All disputes between any two parties in Yathrib would be referred to Muhammad ﷺ   for his decision on them.
+* Muslims and Jews would enjoy the same rights.
+* Each group in Yathrib would follow its own faith, and no one group would meddle in the affairs of any other groups.
+* In the event of an external attack upon Yathrib, both groups, i.e., the Muslims and the Jews, would defend the city.
+* Both groups would refrain from shedding blood in the city.
+* Muslims would not go to war against other Muslims for the sake of non-Muslims.
+
+### Muhajireen and Ansar
+Prophet Muhammad ﷺ   changed the names of the two Muslim groups now living in Medina. He called the refugees from Makkah `Muhajireen` (Emigrants); and he called the citizens of Yathrib who had welcomed them, `Ansar` (Supporters). The two groups were known by these names ever after.
+
+Though we hear the names of one or two wealthy Yathribites, the bulk of them appear to have been poor. In Yathrib in the Prophet's time, there was only one wedding garment; ornaments had to be borrowed from the Jews. This poverty was probably aggravated by the Jewish money-lending. (Mohammed and the Rise of Islam, London, 1931)
+
+But if the Ansar were poor, the Muhajireen were even poorer. In fleeing from Makkah, they had abandoned everything they had possessed, and when they came to Yathrib seeking sanctuary, they were penniless. In a short time, their situation became desperate. They had to do something to make a living. But since they knew nothing about agriculture, the best they could do was to work as unskilled laborers in the fields and gardens of the Jews and the Ansar.
+
+One of the gambits in the efforts of the Apostle to rehabilitate the homeless Muhajireen in Medina, and to integrate them into the economic and social life of the city, was to make them “brothers” of the Ansar. A few months after his arrival in Medina, he told the Muhajireen and the Ansar that they had to live as “brothers” of each other, and paired them off as follows:
+* Ammar ibn Yasir -- Hudhayfa al-Yamani
+* Abu Bakr Siddique -- Kharja bin Zayd
+* Umar bin al-Khattab -- Utban bin Malik
+* Uthman bin Affan -- Aus bin Thabit
+* Mas'ab ibn Umayr -- Abu Ayyub
+* Abu Obaidah Aamer al-Jarrah -- Saad ibn Maadh
+* Zubayr ibn al-Awwam -- Salama bin Waqsh
+* Abdur Rahman bin Auf -- Saad ibn Rabi
+* Talha bin Obaidullah -- Ka'ab ibn Malik
+
+Ali ibn Abi Talib alone was left without a “brother.” 
+
+Muhammad ibn Ishaq: 
+The Apostle himself took Ali by hand and said: “This is my brother.” So God's Apostle, the Lord of the sent ones, and leader of the God-fearing, Apostle of the Lord of the worlds, the peerless and unequaled, and Ali ibn Abi Talib became brothers. (The Life of the Messenger of God)
+
+The Muhajireen had lost all their material possessions in Makkah, and all of them entered Yathrib (Medina) empty-handed. They consisted of two distinct groups. One group was made up of those men who were merchants and traders by profession, and they were very rich. When they went to Medina, they entered business, were successful at it, and they became rich again.
+
+The other group comprised the “ascetics” of Islam. They were poor in Makkah, and when they migrated to Medina, they still chose to be poor. They spurned worldly riches, and they never held economic power in their hands at any time. Representatives of this group were men like Abu Dharr el-Ghiffari; Ammar ibn Yasir and Miqdad ibn al-Aswad.
+
+The Ansar treated the Muhajireen from Makkah better than the real brothers of the latter would have done. They lodged them in their own homes, gave them household effects; made them partners in farming, or gave them half of their land. Those Ansars who were in business, made the Muhajirs their partners in business.
+
+The Ansar were indispensable for the physical survival of Islam. Where would Islam be and where would the Muhajireen be if the Ansar had not given them sanctuary? When hostilities with the idolaters began, it were the Ansar, and not the Muhajireen, who bore the brunt of fighting. They were also the recipients of Heaven's compliments and recognition, as we read in the following verse of Quran:
+    
+    But those who, before them, had homes (in Medina) and had adopted the faith, – show their affection to such as came to them for refuge, and entertain no desire, in their hearts for things given to the (latter), but give them preference over themselves, even though poverty was their (own lot). And those saved from the covetousness of their own souls, – they are the ones that achieve prosperity.
+    Chapter 59; verse 9
+
+</details><details><summary>
+
+## 624 Change of Qibla to Kaaba
+
+</summary>
+
+During the first sixteen months after the Hijra (Migration), the Qibla of the Muslims for prayers was Jerusalem (they faced Jerusalem when saying their prayers). Before receiving the first revelation and becoming a Muslim, prophet Muhammad ﷺ   was calling himself a follower of the religion of Ibrahim. Dr. Montgomery Watt and John Christopher say that in the beginning, the Prophet had hoped that facing Jerusalem when praying, would cause the hearts of the Jews of Yathrib to incline toward him, and they would acknowledge him as a Messenger of God. Then the prophet Muhammad ﷺ   received Wahi (Revelation) commanding him to change the orientation point from Jerusalem in the north to Makkah in the south.
+
+    "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). 
+
+God commanded prophet Muhammad ﷺ   to change the Qibla. The command to change the Qibla was given in verse 144 of the second chapter of Al-Qur’an al-Majid.
+
+</details><details><summary>
+
+## Fasting in Ramadan besomes obligatory
+
+</summary>
+
+In Sha'aban (8th month) of the second year of Hijra, fasting during the month of Ramadan (9th month) was made mandatory for the Muslims. They, therefore, fasted during the following month. At the end of the month of fasting, they were required to pay Zakat-al-Fitr, a special poor-tax.
+
+</details><details><summary>
+  
+## Zakat becomes obligatory
+
+</summary>
+
+In the same year, another tax, Zakat-ul-Mal, was imposed upon the Muslims. This tax is assessed at the rate of 2.5 per cent of a Muslim's wealth. In the times of the Prophet, this tax was paid into the Bayt-ul-Mal or public treasury, and was spent on the welfare of the poor and the sick members of the community. But if there is no Bayt-ul-Mal, the Muslims must pay it to the deserving poor, the widows, the orphans and those members of the community who have no means of supporting themselves.
 
 </details><details><summary>
 
@@ -4848,16 +4936,6 @@ Sending small scouting parties to gather intelligence about Quraysh movement, an
 A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammadﷺ   took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
 
 The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
-
-</details><details><summary>
-
-## 624 Change of Qibla to Kaaba
-
-</summary>
-
-    "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). 
-
-The prophet Muhammadﷺ   was calling himself the follower of the religion of Ibrahim and they were praying in the direction of Jerusalem. after these ayahs came, they changed the direction of the prayer towards Qaabah in Mecca.
 
 </details><details><summary>
 
