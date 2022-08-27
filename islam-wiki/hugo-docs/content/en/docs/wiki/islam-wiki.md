@@ -4664,7 +4664,6 @@ It was here that Allah gave this Ummah the gift of compulsory Salah, a daily sou
 
 The prophet Muhammad ﷺ   would pray 50 rakat every day.
 
-
 #### Returning Home
 
 Finally, the Prophet ﷺ   was taken back down to the Blessed Masjid Al-Aqsa and returned to Makkah on the Buraq.
@@ -4672,7 +4671,25 @@ Finally, the Prophet ﷺ   was taken back down to the Blessed Masjid Al-Aqsa and
 As he was transported home, he saw various caravans heading towards Makkah, which he would later describe to the Quraish as proof that he really had made this miraculous journey. Allah even displayed Bait al-Maqdis to the Prophet (saw), while the Quraish were cross-examining him in the Hijr of the Ka‘bah [Bukhari]. The entire journey had taken place in a small portion of a night, and there were many who would mock the Prophet ﷺ   for making such a claim.
 
 For the Muslims, however, the story was a source of wonder and hope, as it continues to be for us today. On this night, the best of creation ﷺ   was given the honour of travelling to various blessed places on earth, then ascending the levels of sky and being finally welcomed into the Divine Presence! All this to honour the beloved Prophet ﷺ   and `‘to show him some of Our signs!’` [The Noble Qur’an, 17:1]
-</details> 
+</details><details><summary>
+  
+## Praying 5 times a day become obligatory
+
+</summary>
+
+Praying 5 times a day was made obligatory when the Prophet (peace be upon him) was taken on his night journey and ascended to heaven.
+
+Salah (صلاة, plural salawat, lit. 'prayer'), also known as namāz (Persian: نماز) and also spelled salat, are prayers performed by Muslims. Facing the qibla, the direction of the Kaaba with respect to those praying, Muslims pray first standing and later kneeling or sitting on the ground, reciting prescribed prayers and phrases from the Quran as they bow and prostrate themselves in between. Salah is composed of prescribed repetitive cycles of bows and prostrations, called rakat (sing. rak'ah). The number of rak'ahs, also known as units of prayer, varies from prayer to prayer. Ritual purity and wudu are prerequisites for performing the prayers.
+
+The daily obligatory prayers collectively form the second of the five pillars in Islam, observed five times every day at prescribed times. These are Fajr (observed at dawn), Zuhr (observed at noon), Asr (observed late in the afternoon), Maghrib (observed after sunset), and Isha (observed at dusk). Salah can be performed either in solitude, or collectively (known as jama'ah). When performed in jama'ah, worshippers line up in parallel rows behind a leader, known as the imam.
+
+Prayer was made an incumbent duty on Muslims ever since the very early days of Islam. The Prophet’s night journey took place in the tenth year after the start of his message. In those ten years many surahs of the Qur’an were revealed, and in many of them we read instructions to the Prophet and Muslims to attend to their prayers and to pay their zakah. Indeed the most essential duties in Islam, and in all earlier divine religions, are belief in God’s oneness, prayer and zakah. If you read Surah 73, Al-Muzammil, which is one of the earliest to be revealed, you find an order to the Prophet and his companions to spend much of the night in prayer and worship. This remained obligatory for a whole year, when the obligation was relaxed, and night worship was made voluntary. Earlier prophets were also commanded to offer prayers, as this is clear in the Qur’an.
+
+The Prophet says: “A religion that does not include a prayer duty is devoid of goodness.” In the Prophet’s life history we read that Abu Talib once saw Ali praying and he asked him what he was doing. Ali explained that it was the prayer the Prophet ordered. Abu Talib said: “Since he orders only what is good, obey him.”
+
+What was imposed on Muslims then before the Prophet’s night journey? Scholars mention that most probably it was in the same form we pray now, but the obligation was only two prayers a day, one during the day and one after nightfall.
+
+</details>
 
 ### Hijrah
 
@@ -4807,8 +4824,6 @@ Bilal was tortured by Meccans, he was dragged in chains along the streets of Mec
 
 </details><details><summary>
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
 ## Yathrib Becomes Medina
 
 </summary>
@@ -4913,21 +4928,24 @@ In the same year, another tax, Zakat-ul-Mal, was imposed upon the Muslims. This 
 
 </summary>
 
-Causes of and preparation for fighting
-Following the emigration, the Meccans seized the properties of the Muslim emigrants in Mecca. The Quraysh leaders of Mecca persecuted the newly converted Muslims there, and they migrated to Medina to avoid persecution, abandoning their properties. Muhammad and the Muslims found themselves in a more precarious situation in Medina than in Mecca. Besides the ultimatum of the Quraysh they had to confront the designs of the hypocrites, and had to be wary of the pagans and Jews also. The trading caravans of Quraysh, whose usual route was from Mecca to Syria, used to set the neighboring tribes of Medina against the Muslims, which posed a great danger to the security of Muslims of Medina given that war was common at that time. In view of all this, the Quran granted permission to the persecuted Muslims to defend themselves: 
+### Causes of and preparation for fighting
+Following the emigration, the Meccans seized the properties of the Muslim emigrants in Mecca. The Quraysh leaders of Mecca persecuted the newly converted Muslims there, and they migrated to Medina to avoid persecution, abandoning their properties. Prophet Muhammad ﷺ   and the Muslims found themselves in a more precarious situation in Medina than in Mecca. Besides the ultimatum of the Quraysh they had to confront the designs of the hypocrites, and had to be wary of the pagans and Jews also. The trading caravans of Quraysh, whose usual route was from Mecca to Syria, used to set the neighboring tribes of Medina against the Muslims, which posed a great danger to the security of Muslims of Medina given that war was common at that time. In view of all this, the Quran granted permission to the persecuted Muslims to defend themselves: 
 
-    "Permission to fight is granted to those against whom war is made, because they have been wronged, and God indeed has the power to help them. They are those who have been driven out of their homes unjustly only because they affirmed: "Our Lord is God"" (Quran 22:39-40). 
+    "Permission to fight is granted to those against whom war is made, because they have been wronged, and God indeed has the power to help them. They are those who have been driven out of their homes unjustly only because they affirmed: "Our Lord is God"" 
+    Quran 22:39-40
 
-The Quran further justifies taking defensive measures by stating that 
+The Quran further justifies taking defensive measures by stating the following: 
 
-    "And if God had not repelled some men by others, the earth would have been corrupted. But God is a Lord of Kindness to (His) creatures" (Quran 2:251). 
+    "And if God had not repelled some men by others, the earth would have been corrupted. But God is a Lord of Kindness to (His) creatures" 
+    Quran 2:251
+
+# PROOFREADINGPROOFREADINGPROOFREADING
 
 According to Quranic description, war is an abnormal and unenviable way which, when inevitable, should be limited to minimal casualty, and free from any kind of transgression on the part of the believers. In this regard, the Quran says, "Fight in the cause of God with those who fight you, but do not transgress limits; for God loveth not transgressors" (2:190), and "And fight them on until there is no more tumult or oppression, and there prevail justice and faith in God; but if they cease, let there be no hostility except to those who practice oppression" (2:193).
 
 Thus, to ensure the security of the Ansars and Muhajirun of Medina, Muhammad resorted to the following measures:
-
-Visiting the neighboring tribes to enter into non-aggression treaty with them to secure Medina from their attacks.
-Blocking or intercepting the trading caravans of the Quraysh to compel them into a compromise with the Muslims. As these trading enterprises were the main strength of the Quraysh, Muhammad employed this strategy to reduce their strength.
+* Visiting the neighboring tribes to enter into non-aggression treaty with them to secure Medina from their attacks.
+* Blocking or intercepting the trading caravans of the Quraysh to compel them into a compromise with the Muslims. As these trading enterprises were the main strength of the Quraysh, Muhammad employed this strategy to reduce their strength.
 
 Sending small scouting parties to gather intelligence about Quraysh movement, and also to facilitate the evacuation of those Muslims who were still suffering in Mecca and could not migrate to Medina because of their poverty or any other reason. It is in this connection that the following verse of the Quran was revealed: 
 
@@ -4936,6 +4954,9 @@ Sending small scouting parties to gather intelligence about Quraysh movement, an
 A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammadﷺ   took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
 
 The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
+
+> "O men of the pit," he said, "kinsmen of your Prophet, ill was the kinship ye showed him. Liar ye called me, when others took me in; against me ye fought, when others helped me to victory. Have ye found it to be true, what your Lord promised you? I have found it to be true, what my Lord promised me."
+> Martin Lings "Muhammad: His Life Based on the Earliest Sources"
 
 </details><details><summary>
 
@@ -6415,6 +6436,15 @@ Events that are yet to happen:
 * Eventually, the Day of Judgment is established upon the worst of the people, who copulate like donkeys in public (Sahih Muslim, Book 041: 7015)
 * The blowing in the Trumpet by the Angel Israfil, upon which everyone will faint except as Allah wills (Sahih Muslim, Book 041: 7023)
 * The second blowing in the Trumpet, upon which everyone will be resurrected (Sahih Muslim, Book 041: 7023)
+
+
+the moaques will become palaces
+
+just find the hadith that mentions 10 signs
+
+increase of riba ,  noone will be able to escape the dust of it
+
+
 
 </details>
 
