@@ -455,7 +455,7 @@ They have the power to choose between true and false, right and wrong as Allah s
     And among us are the righteous, and among us are [others] not so; we were [of] divided ways.
     Quran, Surah Al-Jinn 72:11
 
-### War Between Jinn and Angels
+### ⚔️ War Between Jinn and Angels
 
 [Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
 
@@ -4763,7 +4763,7 @@ Most Muslims migrated at night fearing Quraish resistance, but Umar is reported 
 
 </details><details><summary>
 
-##622: Assasination Attempt and Hijra
+## 622: Assasination Attempt and Hijra
 
 </summary>
 
@@ -4818,7 +4818,25 @@ The mosque was built by prophet Muhammad ﷺ   in 622 CE (1 AH) after his arriva
 Prophet Muhammad ﷺ   himself helped in the construction. He started carrying unburned bricks for its building and while doing so, he would say, “This load is better than the load of Khaybar, for it is more pious in the sight of Allah and purer and better rewardable.” He was also saying, 
 > "O Allah! The actual reward is the reward in the Hereafter, so bestow Your Mercy on the Ansar and the Muhajirun (Immigrants)."
 
+</details><details><summary>
+
+## Establishment of Athan (Call to Prayer)
+
+</summary>
+
 As there was no definite arrangement for calling people to prayer, Bilal ibn Ribah was appointed to call people in a loud voice at each prayer time, a system later replaced by Adhan believed to be informed to Abdullah ibn Zayd and Umar in their dreams, and liked and introduced by Muhammadﷺ  .
+
+One night a man of Khazraj, 'Abd Allah ibn Zayd, who had been at the Second 'Aqabah, had a dream which the next day he recounted to the Prophet: "There passed by me a man wearing two green garments and he carried in his hand a ndqiis, so I said unto him: "0 slave of God, wilt thou sell me that naqusi" "What wilt thou do with it?" he said. "We will summon the people to prayer with it," I answered. "Shall I not show thee a better way?" he said. "What way is that?" I asked, and he answered: "That thou shouldst say: `God is most Great, Alldhu Akbar`." The man in green repeated this magnification four times, then each of the following twice: `I testify that there is no god but God; I testify that Muhammad is the messenger of God; come unto the prayer; come unto salvation; God is most Great`; and then once again `there is no god but God`.
+
+The Prophet said that this was a true vision, and he told him to go to
+Bilal, who had an excellent voice, and teach him the words exactly as he
+had heard them in his sleep. The highest house in the neighbourhood of the
+Mosque belonged to a woman of the clan of Najjar, and Bilal would come
+there before every dawn and would sit on the roof waiting for the
+daybreak. When he saw the first faint light in the east he would stretch out
+his arms and say in supplication: "0 God I praise Thee, and I ask Thy Help
+for Quraysh, that they may accept Thy religion." Then he would stand and
+utter the call to prayer. 
 
 Bilal was tortured by Meccans, he was dragged in chains along the streets of Mecca and kept saying "Ahadun Ahad" (Allah the One) because he did not know anything else about Islam. And now he was the first person to say athan and the first muathin in the an-Nabawi mosque.
 
@@ -4894,6 +4912,12 @@ The Ansar were indispensable for the physical survival of Islam. Where would Isl
     But those who, before them, had homes (in Medina) and had adopted the faith, – show their affection to such as came to them for refuge, and entertain no desire, in their hearts for things given to the (latter), but give them preference over themselves, even though poverty was their (own lot). And those saved from the covetousness of their own souls, – they are the ones that achieve prosperity.
     Chapter 59; verse 9
 
+### Revelation of Surah Al-Baqara
+
+Islam continued to spread rapidly throughout the clans of Aws and Khazraj, and some believers looked forward to the day when, thanks to the covenant with the Jews, the oasis would be one harmonious whole. But the Revelation now gave warning of hidden elements of discord. It was about this time that the longest surah of the Koran began to be revealed, al-Baqarah (the Heifer), which is placed at the beginning of the Book, immediately after the sevenverses of al-Patihah, the Opening. It starts with a definiton of the rightly guided: 
+
+    Alif- Lam - Mim. This beyond doubt is the Book, a guidance unto the God-fearing, who believe in the Unseen and perform the prayer and give ofthat which We have bestowed upon them; and who believe in that which is revealed unto thee and in that which was revealed before thee, and who are certain ofthe Hereafter. These are they who follow guidance from their Lord and these are they who shall prosper.
+
 </details><details><summary>
 
 ## 624 Change of Qibla to Kaaba
@@ -4941,7 +4965,7 @@ The Quran further justifies taking defensive measures by stating the following:
 
 # PROOFREADINGPROOFREADINGPROOFREADING
 
-According to Quranic description, war is an abnormal and unenviable way which, when inevitable, should be limited to minimal casualty, and free from any kind of transgression on the part of the believers. In this regard, the Quran says, "Fight in the cause of God with those who fight you, but do not transgress limits; for God loveth not transgressors" (2:190), and "And fight them on until there is no more tumult or oppression, and there prevail justice and faith in God; but if they cease, let there be no hostility except to those who practice oppression" (2:193).
+According to Quranic description, war is an abnormal and unenviable way which, when inevitable, should be limited to minimal casualty, and free from any kind of transgression on the part of the believers. In this regard, the Quran says, `"Fight in the cause of God with those who fight you, but do not transgress limits; for God loveth not transgressors"` (2:190), and `"And fight them on until there is no more tumult or oppression, and there prevail justice and faith in God; but if they cease, let there be no hostility except to those who practice oppression"` (2:193).
 
 Thus, to ensure the security of the Ansars and Muhajirun of Medina, Muhammad resorted to the following measures:
 * Visiting the neighboring tribes to enter into non-aggression treaty with them to secure Medina from their attacks.
@@ -4949,7 +4973,8 @@ Thus, to ensure the security of the Ansars and Muhajirun of Medina, Muhammad res
 
 Sending small scouting parties to gather intelligence about Quraysh movement, and also to facilitate the evacuation of those Muslims who were still suffering in Mecca and could not migrate to Medina because of their poverty or any other reason. It is in this connection that the following verse of the Quran was revealed: 
 
-    And why should you not fight in the cause of God and for those who, being weak, are ill-treated (and oppressed)? Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from Thee one who will protect; and raise for us from Thee one who will help!" Quran 4:75
+    And why should you not fight in the cause of God and for those who, being weak, are ill-treated (and oppressed)? Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from Thee one who will protect; and raise for us from Thee one who will help!" 
+    Quran 4:75
 
 A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammadﷺ   took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
 
