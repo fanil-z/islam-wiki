@@ -26,7 +26,7 @@ author: fanil
 > 
 > Allahu Alim. Only God knows the ultimate truth. Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources.
 > 
-> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History". Some minor parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman) without providing the original source. I am personally not an Islamic scholar, so I tried to stick to aforementioned sources.
+> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History", a book "Muhammad, His Biography Based on Earliest Sources". Some parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman) without providing the original source. I am personally not an Islamic scholar, so I tried to stick to aforementioned sources.
 > 
 > [Fair Use Law](https://www.findlaw.com/smallbusiness/intellectual-property/fair-use-law.html)
 >
@@ -4916,7 +4916,17 @@ The Ansar were indispensable for the physical survival of Islam. Where would Isl
 
 Islam continued to spread rapidly throughout the clans of Aws and Khazraj, and some believers looked forward to the day when, thanks to the covenant with the Jews, the oasis would be one harmonious whole. But the Revelation now gave warning of hidden elements of discord. It was about this time that the longest surah of the Koran began to be revealed, al-Baqarah (the Heifer), which is placed at the beginning of the Book, immediately after the sevenverses of al-Patihah, the Opening. It starts with a definiton of the rightly guided: 
 
-    Alif- Lam - Mim. This beyond doubt is the Book, a guidance unto the God-fearing, who believe in the Unseen and perform the prayer and give ofthat which We have bestowed upon them; and who believe in that which is revealed unto thee and in that which was revealed before thee, and who are certain ofthe Hereafter. These are they who follow guidance from their Lord and these are they who shall prosper.
+    Alif - Lam - Mim. This beyond doubt is the Book, a guidance unto the God-fearing, who believe in the Unseen and perform the prayer and give ofthat which We have bestowed upon them; and who believe in that which is revealed unto thee and in that which was revealed before thee, and who are certain ofthe Hereafter. These are they who follow guidance from their Lord and these are they who shall prosper.
+
+### Prophet Muhammad ﷺ   marries Aisha
+
+In the first year of Hijrah, prophet Muhammad ﷺ   married Aisha, a daughter of his closest friend Abu Bakr.
+
+### Prophet Muhammad ﷺ   make dua for Medina
+
+Abu Bakr, Amir and Bilal cought a severe fever and lied in their courtyard almost too weak to speak. And Bilal chanted a poetry mentioning how they miss Mecca.
+
+In that occasion, Prophet Muhammad ﷺ   prayed: "0 God, make Medina as dear unto us as thou hast made Mecca, or even dearer. And bless for us its waters and its grain, and carry away from it its fever as far as Mahya'ah.?" And God answered his prayer. 
 
 </details><details><summary>
 
@@ -4932,7 +4942,7 @@ God commanded prophet Muhammad ﷺ   to change the Qibla. The command to change 
 
 </details><details><summary>
 
-## Fasting in Ramadan besomes obligatory
+## Fasting in Ramadan becomes obligatory
 
 </summary>
 
@@ -4978,7 +4988,21 @@ Sending small scouting parties to gather intelligence about Quraysh movement, an
 
 A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammadﷺ   took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
 
-The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
+> 313 Muslims were against the heavily equipped army of 1000 from Quraish.
+
+The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. 
+
+The Prophet felt bound to consult his men and to let theirs be the choice between advancing and retreating. Abu Bakr and 'Umar spoke for the Emigrants in favour of advancing and then, by way of confirmation of all that they had said, an ally of the Bani Zuhrah who had only recently come to Medina, Miqdad by name, rose to his feet and added: 
+
+> "0 Messenger of God, do what God hath shown thee to do. We will not say unto thee as the children of Israel said unto Moses: Go thou and thy Lord and fight; we shall sit here, but we will say: 'Go thou and thy Lord and fight, and with you we also will fight, on the right and on the left, before thee and behind thee.'" AbdAllah ibn Mas'ud used to tell in after years of the great light that dawned on the Prophet's face when he heard those words and as he blessed their speaker.
+
+
+
+
+The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
+
+
+
 
 > "O men of the pit," he said, "kinsmen of your Prophet, ill was the kinship ye showed him. Liar ye called me, when others took me in; against me ye fought, when others helped me to victory. Have ye found it to be true, what your Lord promised you? I have found it to be true, what my Lord promised me."
 > Martin Lings "Muhammad: His Life Based on the Earliest Sources"
