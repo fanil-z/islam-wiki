@@ -4992,17 +4992,46 @@ A key battle in the early days of Islam, the Battle of Badr was the first large-
 
 The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. 
 
-The Prophet felt bound to consult his men and to let theirs be the choice between advancing and retreating. Abu Bakr and 'Umar spoke for the Emigrants in favour of advancing and then, by way of confirmation of all that they had said, an ally of the Bani Zuhrah who had only recently come to Medina, Miqdad by name, rose to his feet and added: 
+The Prophet felt bound to consult his men and to let theirs be the choice between advancing and retreating. Abu Bakr and 'Umar spoke for the Emigrants in favour of advancing and then, by way of confirmation of all that they had said, an ally of the Bani Zuhrah who had only recently come to Medina, Miqdad by name, rose to his feet and added: "0 Messenger of God, do what God hath shown thee to do. We will not say unto thee as the children of Israel said unto Moses: Go thou and thy Lord and fight; we shall sit here, but we will say: 'Go thou and thy Lord and fight, and with you we also will fight, on the right and on the left, before thee and behind thee.'" AbdAllah ibn Mas'ud used to tell in after years of the great light that dawned on the Prophet's face when he heard those words and as he blessed their speaker.
 
-> "0 Messenger of God, do what God hath shown thee to do. We will not say unto thee as the children of Israel said unto Moses: Go thou and thy Lord and fight; we shall sit here, but we will say: 'Go thou and thy Lord and fight, and with you we also will fight, on the right and on the left, before thee and behind thee.'" AbdAllah ibn Mas'ud used to tell in after years of the great light that dawned on the Prophet's face when he heard those words and as he blessed their speaker.
+> A light slumber came upon him, and when he woke he said: "Be of good
+cheer, Abu Bakr; the help of God hath come to thee. Here is Gabriel and in
+his hand is the rein of a horse which he is leading, and he is armed for
+war."
 
+The Prophet took up a handful of pebbles and shouting at Quraysh "Defaced be those faces!", he hurled the pebbles at them, conscious that he was hurling disaster. Then he gave the order to charge. 
 
+    Thou threwest not when thou tbreu/est, but it was God that threw.
 
+These words were part of the Revelation which came immediately after the
+battle.
+
+When the believers were ordered to charge, they did not charge alone, as
+well the Prophet knew, for he had been promised: 
+
+    I will help you with a thousand of the angels, troop on troop? 
+
+And the Angels also had received a Divine message: 
+
+    When thy Lord revealed unto the angels: Lo, I am with you, so make firm the believers. I shall cast terror into the hearts of the disbelievers. It is for you to strike off their heads, and to smite their every finger.
 
 The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
 
+Most of Quraysh escaped, but some fifty were mortally wounded or killed outright in the battle or overtaken and cut down as they fled. About the same number were taken captive. Umar suggested that they should not keep the captives alive, but Abu Bakr was in favour of letting the captives live, in
+the hope that sooner or later they might become believers, and the Prophet
+inclined to his view. But later in the day, when 'Umar returned to the shelter, he found the Prophet and Abu Bakr in tears on account of a Revelation which had come: 
 
+    It is not for a prophet to hold captives until he hath made great slaughter in the land. Ye would have for yourselves the gains of this world and God would have for you the Hereafter, and God is Mighty, Wise.
 
+But the Revelation then made it clear that the decision to spare the captives had been accepted by God and should not now be revoked; and the Prophet was given a message for the captives themselves: 
+
+    O Prophet, say unto those captives who are in your hands: If God knoweth any good in your hearts, He will give you better than that which hath been taken from you, and He will forgive you. Verily God is Forgiving, Merciful.
+
+There was, however, one man, Abu Jahl, who clearly could not be allowed to live. The general opinion was that he had been killed and the Prophet gave orders that his body should be searched for. 'Abdallah ibn Mas'ud went out again to the battlefield and searched until he found the man who had done more than any other to stir up hatred of Islam amongst the people of Mecca. Abu Jahl still had enough life in him to recognise the enemy who now stood over him. 'Abdallah had been the first man to recite the Koran aloud in front of the Ka'bah, and Abu jahl had struck him a severe blow and wounded him in the face, for he was merely a confederate of Zuhrah and a poor one at that, his mother having been a slave. 'Abdallah now placed his foot on the neck of Abu jahl, who said: "Thou hast climbed high indeed, little shepherd." Then he asked him which way the fortunes of war had swung that day, his implication being that next time they would swing in the opposite direction. `"God and His
+messenger have won,"` he answered. Then he killed Abu Jahl. 
+
+The Prophet gave orders that the bodies of all the infidels slain in the
+battle should be thrown into a pit. Prophet Muhammad spoke to the men of the pit.
 
 > "O men of the pit," he said, "kinsmen of your Prophet, ill was the kinship ye showed him. Liar ye called me, when others took me in; against me ye fought, when others helped me to victory. Have ye found it to be true, what your Lord promised you? I have found it to be true, what my Lord promised me."
 > Martin Lings "Muhammad: His Life Based on the Earliest Sources"
