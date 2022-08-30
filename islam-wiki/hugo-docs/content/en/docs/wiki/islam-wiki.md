@@ -5017,6 +5017,12 @@ And the Angels also had received a Divine message:
 
 The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
 
+By noon the battle was over. The Quraysh fled. Forty-nine of the enemy had fallen. An equal number was captured. The believers had lost fourteen men on the field of battle. (Mohammed, the Man and his Faith, Tor Andre, 1960)
+
+Badr is the most important battle in the entire history of Islam, and one of the most important in world history. Victory guaranteed the existence of Islam, and the physical survival of the Muslim community of Medina which heretofore had appeared, at best, to be precarious.
+
+But the importance of Mohammed's success (in the battle of Badr) cannot be measured by the material damage which he inflicted (upon the pagans of Mecca). Considering the momentous issues involved, we must allow that Badr, like Marathon, is one of the greatest and most memorable battles in all history. (A Literary History of the Arabs, A. Nicholson, 1969)
+
 Most of Quraysh escaped, but some fifty were mortally wounded or killed outright in the battle or overtaken and cut down as they fled. About the same number were taken captive. Umar suggested that they should not keep the captives alive, but Abu Bakr was in favour of letting the captives live, in
 the hope that sooner or later they might become believers, and the Prophet
 inclined to his view. But later in the day, when 'Umar returned to the shelter, he found the Prophet and Abu Bakr in tears on account of a Revelation which had come: 
@@ -5030,11 +5036,34 @@ But the Revelation then made it clear that the decision to spare the captives ha
 There was, however, one man, Abu Jahl, who clearly could not be allowed to live. The general opinion was that he had been killed and the Prophet gave orders that his body should be searched for. 'Abdallah ibn Mas'ud went out again to the battlefield and searched until he found the man who had done more than any other to stir up hatred of Islam amongst the people of Mecca. Abu Jahl still had enough life in him to recognise the enemy who now stood over him. 'Abdallah had been the first man to recite the Koran aloud in front of the Ka'bah, and Abu jahl had struck him a severe blow and wounded him in the face, for he was merely a confederate of Zuhrah and a poor one at that, his mother having been a slave. 'Abdallah now placed his foot on the neck of Abu jahl, who said: "Thou hast climbed high indeed, little shepherd." Then he asked him which way the fortunes of war had swung that day, his implication being that next time they would swing in the opposite direction. `"God and His
 messenger have won,"` he answered. Then he killed Abu Jahl. 
 
+Badr was a Muslim triumph, as total as it was unexpected; the Muslims lost 14 men and the Quraysh from 50 to 70, including their leader, Abu Jahl. It was an immense psychological victory and there was plentiful booty for the economically distressed Emigrants. This was no mere raid, however. It pitted Muslim against non-Muslim in Holy War, and fathers against sons in civil strife. The Quraysh casualties were extraordinarily high, and since most of them had occurred among the chiefs, the leadership at Mecca was permanently crippled. (Allah's Commonwealth, 1973)
+
+### Dhul-Fiqar Sword
+
+Among the spoils of the battle of Badr was a famous sword of admirable temper called Dhul-Fiqar, or the Piercer. Mohammed ever afterwards bore it when in battle, and his son-in-law, Ali, inherited it at his death. (The Life of Mohammed, Washington Irving)
+
+Abdullah Yusuf Ali, the translator and commentator of Qur’an, says that the battle of Badr is called the Furqaan in Muslim theology, because it was the first trial of strength by battle, in Islam, between the powers of good and evil. Furqaan means criterion between right and wrong; decision between the forces of Faith and Unbelief. The battle of Badr is called by this name.
+
+### Men of the Pit
+
 The Prophet gave orders that the bodies of all the infidels slain in the
 battle should be thrown into a pit. Prophet Muhammad spoke to the men of the pit.
 
 > "O men of the pit," he said, "kinsmen of your Prophet, ill was the kinship ye showed him. Liar ye called me, when others took me in; against me ye fought, when others helped me to victory. Have ye found it to be true, what your Lord promised you? I have found it to be true, what my Lord promised me."
 > Martin Lings "Muhammad: His Life Based on the Earliest Sources"
+
+### The Prisoners of War
+The Muslims captured fifty prisoners of war. They were brought before the Prophet who had to decide what to do with them. He consulted his companions in the matter. Umar advised him to kill them all, but Abu Bakr advised him to set them free for ransom. The Prophet accepted Abu Bakr's advice.
+
+Since there was no house of detention in Medina, the Prophet distributed the prisoners among the Muslim families. These families treated their prisoners as if they were their guests. Some of them fed their own food to their “guests” and themselves went hungry. They actually embarrassed their prisoners by their solicitude for their welfare. The rich prisoners were released for a ransom. Those prisoners who could not pay a ransom but could read and write, were asked to teach these arts to the Muslim children, and when they did, they were also released. Those prisoners who were destitute, were released without any ransom.
+
+</details><details><summary>
+
+## Marriage of Ali and Fatima
+
+</summary>
+
+God gave victory to Islam in the battle of Badr in the year 2 of Hijri. Two months after the battle, Fatima Zahra, the daughter of Muhammad Mustafa, and Ali, the son of Abu Talib were married.
 
 </details><details><summary>
 
