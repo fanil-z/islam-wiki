@@ -4973,8 +4973,6 @@ The Quran further justifies taking defensive measures by stating the following:
     "And if God had not repelled some men by others, the earth would have been corrupted. But God is a Lord of Kindness to (His) creatures" 
     Quran 2:251
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
 According to Quranic description, war is an abnormal and unenviable way which, when inevitable, should be limited to minimal casualty, and free from any kind of transgression on the part of the believers. In this regard, the Quran says, `"Fight in the cause of God with those who fight you, but do not transgress limits; for God loveth not transgressors"` (2:190), and `"And fight them on until there is no more tumult or oppression, and there prevail justice and faith in God; but if they cease, let there be no hostility except to those who practice oppression"` (2:193).
 
 Thus, to ensure the security of the Ansars and Muhajirun of Medina, Muhammad resorted to the following measures:
@@ -5065,9 +5063,24 @@ Since there was no house of detention in Medina, the Prophet distributed the pri
 
 God gave victory to Islam in the battle of Badr in the year 2 of Hijri. Two months after the battle, Fatima Zahra, the daughter of Muhammad Mustafa, and Ali, the son of Abu Talib were married.
 
+Fatima (c. 605/15-632) and Ali (c. 600-661) were both significant figures in early Islam: Fatima has been compared to Mary, the mother of Jesus, especially in Shia Islam. Muhammad is said to have regarded her as the best of woman and the dearest person to him. Ali was the fourth of the Rashidun Caliphs.
+
+ There is evidence in Sunni and Shia sources that some of the companions, including Abu Bakr and Umar, had earlier asked for Fatima's hand in marriage but were turned down by Muhammad, who said he was waiting for the moment fixed by destiny. It is also said that Ali was reticent to ask Muhammad to marry Fatima on the account of his poverty. When Muhammad put forward Ali's proposal to Fatima, she remained silent, which was understood as a tacit agreement. On the basis of this report, woman's consent in marriage has always been necessary in Islamic law. Muhammad also suggested that Ali sell his shield to pay the bridal gift (mahr).
+
+Muhammad performed the wedding ceremony, and they prepared an austere wedding feast with donations from Madinans. Later the couple moved into a house next to Muhammad's quarters in Medina. Their marriage lasted about ten years until Fatima's death.
+
+It was narrated that 'Aishah and Umm Salamah said:
+> “The Messenger of Allah commanded us to prepare Fatimah (for her wedding) and take her in to 'Ali. We went to the house and sprinkled it with soft earth from the land of Batha'. Then we stuffed two pillows with (date - palm) fiber which we picked with our own hands. Then we offered dates and raisins to eat, and sweet water to drink. We went and got some wood and set it up at the side of the room, to hang the clothes and water skins on. And we never saw any wedding better than the wedding of Fatimah.”
+
+As with the majority of Muslims, the couple lived in severe poverty in the early years of Islam. In particular, both had to do hard physical work to get by. It has also been related that Muhammad taught the couple a tasbih to help ease the burden of their poverty: Tasbih of Fatima consists of the phrases `Allah-hu Akbar` (lit. 'God is the greatest'), `Al-hamdu-lillah` (lit. 'all praise is due to God'), and `Subhan-Allah` (lit. 'God is glorious'). Their financial circumstances later improved after more lands fell to Muslims in the Battle of Khaybar.
+
+Fatima and Ali were survived by four children: Hasan, Husayn, Zaynab and Umm Kulthum. In particular, Muhammad was very fond of his grandsons. Widely reported is his statement that Hasan and Husayn would be the lords of the youth of the paradise.
+
 </details><details><summary>
 
-## 625 ⚔️ Battle of Uhud
+# PROOFREADINGPROOFREADINGPROOFREADING
+
+## 625: ⚔️ Battle of Uhud
 
 </summary>
 
@@ -5079,7 +5092,7 @@ Although outnumbered, the Muslims gained the early initiative and forced the Mec
 
 </details><details><summary>
 
-## <b>627</b> ⚔️ Battle of Trench
+## 627: ⚔️ Battle of Trench
 
 </summary>
 
