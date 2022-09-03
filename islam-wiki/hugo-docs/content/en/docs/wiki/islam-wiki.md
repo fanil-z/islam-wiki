@@ -6056,8 +6056,11 @@ He authored more than 100 books. But most them have not reached us. The extant w
     <summary> Rabiah</summary>
 first great woman mystic  </details>
 
-<details>
-    <summary>780 - 855: Ahmad ibn Hanbal</summary>
+<details><summary>
+
+## 780 - 855: Ahmad ibn Hanbal
+
+</summary>
 a hero of the ahl al-hadith
 
 Ahmad ibn Hanbal was a Muslim jurist, theologian, ascetic, hadith traditionist, and founder of the Hanbali school of Sunni jurisprudence — one of the four major orthodox legal schools of Sunni Islam.
@@ -7223,96 +7226,5 @@ There are a few other reports about those who will enter first through the gates
 According to another tradition recorded by Tirmidhi, the Prophet said,“My Lord has promised me that He will admit seventy thousand of my followers into Paradise, without they undergoing any reckoning or any punishment, along with another seventy thousand and (over and above them) three handfuls from the Handfuls of my Lord” (Ibn Kathir).
 
 The above report was declared Hasan Gharib by Tirmidhi. However, after mentioning the above in his “Fath”, Ibn Hajr quoted another hadith on the above topic from Ibn Hibb an and Tab arani, which he declared trustworthy. It says,“Then every thousand will intercede for seventy thousand. Thereafter, my Lord will usher in three handfuls of His two Handfuls.” When Umar said “Allah is the Greatest” the Prophet added, “The seventy thousand will be allowed to intercede for their fathers, mothers and family members, and I hope that the handfuls will be from the lowest of my followers.”
-
-</details>
-
-<details>
-<summary>Unsorted drafts</summary>
-🌱🌴🌊🏜
-
-🚸🏔️
-
-devil is derived from Diabolos the root is from Iblis.
-Shatana - the one far away.
-Iblis is the leader of the shayateen. anybody who brings you far away from Allah. Shayateen may also be people
-
-
-stories of the prophets: https://www.alim.org/history/prophet-stories/ 
-
-In the end of times, the shayateen will take forms and tell you fictional stories and you will say "I can see his face but I dont know his name."  sahih bukhari
-
-"By the time they reach age 18, American children will have seen 16,000 simulated murders and 200,000 acts of violence (American Psychiatric Association, 1998)."
-
-Mesopotamia:
-    1. Ubaid period (6500-3800bc)
-    early village settlements. all population engaged in the production of food.
-    Eridu - the settlement name. 
-    the increasing food surplus allowed the creation of other professions like merchants, craftsmen, weavers, metallurges. the taxation and redistribution of food supply led to creation of governments. city of Uruq prospered.
-    Society hierarchy appeared. The high priest had leading role in a temple, keppers scribes administrators and priests and at the bottom were producers: farmers and fishermen. Cineaform writing appeared. 
-
-There's the whole science that studies the authenticity of Hadith. People study four years at the university to distinguish between authentic and non-authentic hadith.
-
-### David in the Bible
-
-This was after Samson.
-The current King Saul declared war on Philistine. David was a shepherd. 
-Saul hires David to play him music. Philistines send Goliaf with the army against israelites. David declares that he will beat the giant and kills the giant with one shot of his sling. 
-David was successful in the wars and his popularity grows. Saul grows jealous. David flees to Moab and then lives in caves of Ziph. Saul searches him to kill him. .
-Saul then ceases to kill David.
-philistines kill Saul. David becomes the king 👑 of Israel. David conquers Jerusalem. 
-
-The temple built by jinns 🏛️
-
-Angels Harut and Marut taught magic in Babylon (between 1895BC and 539BC). it is mentioned in the Quran.
-
-Iqrimah ibn Abu Jahl flees. but later he comes to Medina to accept Islam from the hands of the prophet Muhammad ﷺ   .
-
-His Prophetic mission began on the 27th day of the month of Rajab, in the year 610 CE, when he received the first divine revelation. Then the Qur’an was revealed to the Prophet progressively according to the circumstances of the time over a period of 23 years.
-
-There is a narration that Abi-Talib took the prophet  ﷺ    with him and the monk from the monastery told that this boy will be the prophet. This narration is not authentic and that story was most probably invented.
-Solitude of shepherd gives opportunity to contemplate on the nature and teaches how to rule. Also, sheep shepherds are the most humble shepherds.
-
-According to the Bible lifespan of people before THe Great Flood was much longer than after the flood.
-
-Consider homosexuality for example. It is prohibited by the major religions of the world. Until the 20th century, it was considered immoral and a punishable offence in the US.
-
-Now it has become so rampant that those who disapprove of it, let alone denounce it, are labeled as “intolerant and narrow-minded.” It is being promoted and celebrated widely to make it popular. Even the cartoons that children watch increasingly include homosexual references.
-
-
-In Abrahamic religions, the common things are beliveing in the God of Abraham, believe in the concept of prophets and believe in the Judgement Day. 
-Other large group of religions is dharmic religions that includes Hinduism and Buddism and Jainism. INstead of Judgement day they believe in reincarnation. they also believe in some sort of judgement: Karma.
-
-Five Books (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)
-
-### Other incidents
-
-The sayings of Muhammad (hadith), Islamic literature and Quranic exegesis also narrate some incidents of the life of Musa. One story goes that he is bathing apart from the other Israelites who all bathe together. This leads the Bani Israels to say that Musa does so due to a scrotal hernia. One day, when Musa is bathing in seclusion, he puts his clothes on a stone, and the stone flees with his clothes. Musa rushes after the stone, and when the Bani Israels see him, they say, 'By Allah, Musa has got no defect in his body". Musa then beats the stone with his clothes, and Abu Huraira 🐈 states, "By Allah! There are still six or seven marks present on the stone from that excessive beating". In a hadith, Muhammad states that the stone still has three to five marks due to Musa hitting it.
-
-atheism is very recent phenomena.
-the first person to proclaim himself an atheist was Nitzsche whos gone mad in his last years.1844 – 1900
-
-
-Jewish Calendar and Orthodox Chiristians believe that people have been around the Earth for around 6 thousand years. It is not the islamic view.
-
-There are some cave paintings that are 30thousand years old. These were not Neanthertals these were Homo-Sapiens.
-
-So we have no problem assuming that the gyneology between Adam And Ismail tool 10-20 thousand years. The prophet ﷺ    said that the time between now and the Day of Judgement is like his two fingers. And now it is 1443 year after Hijrah. So it gives possibility to extend the humanity timeline as long as science findings. We don't have a set timeframe.
-
-After death of prophet Muhammad's ﷺ   son, Allah sent the sura Kawsar.
-
-    Verily, we have blessed You with Al Kauthar (a river in Paradise). So,offer prayer and sacrifice to your Lord. Indeed, your enemy is the one cut off.
-
-> Narrated Anas bin Malik: One day the Messenger of Allah (may peace be upon him) was sitting amongst us that he dozed off. He then raised his head smilingly. We said: What makes you smile. Messenger of Allah? He said: A Sura has just been revealed to me, and then recited: In the name of Allah, the Compassionate, the Merciful. Verily We have given thee Kauthar (fount of abundance). Therefore, turn to thy Lord for prayer and offer sacrifice, and surely thy enemy is cut off (from the good). Then he (the Prophet) said: Do you know what Kauthar is? We said: Allah and His Messenger know best. The Prophet (may peace be upon him) said: It (Kauthar) is a canal which my Lord, the Exalted and Glorious has promised me, and there is an abundance of good in it. It is a cistern and my people would come to it on the Day of Resurrection, and tumblers there would be equal to the number of stars. A servant would be turned away from (among the people gathered there). Upon this I would say: My Lord, he is one of my people, and He (the Lord) would say: You do not know that he innovated new things (in Islam) after you. Ibn Hujr made this addition in the hadith:" He (the Prophet) was sitting amongst us in the mosque, and He (Allah) said: (You don't know) what he innovated after you"
-
-Abdallah ibn Zubayr separated and made his own khaliphate. he rebuilt te Kaaba and followed the hadith.
-He was crucified in front of the Kaaba and that man destroyed it and rebuilt it.
-
-5 stages of da'wa:
-
-1. Private da'wa (3 years).
-2. Open preaching with the tongue without military confrontation (10 years) last 6 were very difficult.
-3. Open da'wa with the tongue with physical fight only with one party (only Quraish).
-4. Open da'wa to all with 'izza. attack only if you need to defence (from treaty of Hudaybia until the conquest of Mecca)
-5. Open da'wa along with physical confrontation against anyone who opposes islam.
 
 </details>
