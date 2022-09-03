@@ -4459,7 +4459,7 @@ Zaid (May Allah be pleased with him) said, “I helped the Prophet ﷺ  to leave
 
 The Jinns of that time had noticed that they could not cross over the heavens and hear the conversations of the angels anymore, rather they were chased by meteors and were driven away. Their leader instructed them to find out the reason so they wandered around. There was a valley called Nasibi which was inhibited by Jinns. These Jinns passed by the place at night when they heard the recitation. The group heard the melodious recitation of our Prophet ﷺ and were entranced. Without the knowledge of our Prophet ﷺ  that group of Jinn accepted Islam. It was then the above verses of Surah Jinn were revealed. The point to be noted is that the humans of Taif rejected the Message of Allah but the Jinn accepted it. Allah truly does not let the efforts of the Believers go in vain.
 
-Once the Prophet ﷺ  was sitting with his Companions. He had to go to attend the call of nature. He went a bit farther and did not return for a long time. The Companions were worried about his absence and feared that he had been abducted. They searched for him the whole night. In the morning, the Prophet ﷺ returned. When the Companions inquired, he replied, “I was called by a group of Jinns over that mountain, who had embraced Islam and wanted to learn the religion from me. It took me the whole night to teach them”. This night is called “Laylatul Jinn”. The Companions then went along him to the place and saw burnt sticks and ash which indicated that food was cooked that night. Therefore, it is essential to believe that the Prophet ﷺ was sent even to the Jinn.
+Once the Prophet ﷺ   was sitting with his Companions. He had to go to attend the call of nature. He went a bit farther and did not return for a long time. The Companions were worried about his absence and feared that he had been abducted. They searched for him the whole night. In the morning, the Prophet ﷺ returned. When the Companions inquired, he replied, “I was called by a group of Jinns over that mountain, who had embraced Islam and wanted to learn the religion from me. It took me the whole night to teach them”. This night is called “Laylatul Jinn”. The Companions then went along him to the place and saw burnt sticks and ash which indicated that food was cooked that night. Therefore, it is essential to believe that the Prophet ﷺ was sent even to the Jinn.
 
 Dawud reported from 'Amir who said:
 
@@ -5150,8 +5150,6 @@ Uhud is the day of Talha. Talha distinguished himself at the Battle of Uhud by k
 
 </details><details><summary>
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
 ## 627: ⚔️ Battle of Trench
 
 </summary>
@@ -5160,9 +5158,94 @@ The Battle of the Trench (Ghazwat al-Khandaq), also known as the Battle of Khand
 
 The reason for this battle was to save Medina from attack, after Banu Nazir and Banu Qurayzah tribes formed an alliance with the Quraysh to attack him as revenge for expelling them from Medina during the Invasion of Banu Qaynuqa and Invasion of Banu Nadir.
 
-the outnumbered Muslims opted to engage in a defensive battle by digging deep trenches to act as a barrier along the northern front. The tactic of a defensive trench was introduced by Salman the Persian. Every capable Muslim in Medina including Muhammad contributed to digging the massive trench in six days. The ditch was dug on the northern side only, as the rest of Medina was surrounded by rocky mountains and trees 🌳🌳, impenetrable to large armies (especially cavalry). The digging of the ditch coincided with a near-famine in Medina. Women and children were moved to the inner city. The Medinans harvested all their crops early, so the Confederate armies would have to rely on their own food reserves.
+The outnumbered Muslims opted to engage in a defensive battle by digging deep trenches to act as a barrier along the northern front. The tactic of a defensive trench was introduced by Salman the Persian. Every capable Muslim in Medina including Muhammad contributed to digging the massive trench in six days. The ditch was dug on the northern side only, as the rest of Medina was surrounded by rocky mountains and trees 🌳🌳, impenetrable to large armies (especially cavalry). The digging of the ditch coincided with a near-famine in Medina. Women and children were moved to the inner city. The Medinans harvested all their crops early, so the Confederate armies would have to rely on their own food reserves.
 
-The largely outnumbered defenders of Medina, mainly Muslims led by the Islamic prophet Muhammad, dug a trench, which, together with Medina's natural fortifications, rendered the confederacy's cavalry (consisting of horses and camels) useless, locking the two sides in a stalemate. Hoping to make several attacks at once, the confederates persuaded the Muslim-allied Medinan Jews, Banu Qurayza, to attack the city from the south. However, Muhammad's diplomacy derailed the negotiations, and broke up the confederacy against him. The well-organized defenders, the sinking of confederate morale, and poor weather conditions caused the siege to end in a fiasco.
+Hoping to make several attacks at once, the confederates persuaded the Muslim-allied Medinan Jews, Banu Qurayza, to attack the city from the south. However, Muhammad's diplomacy derailed the negotiations, and broke up the confederacy against him. The well-organized defenders, the sinking of confederate morale, and poor weather conditions caused the siege to end in a fiasco.
+
+</br><img src="/Battle_of_Trench.png" alt="Battle og the Trench"></br> 
+
+The trench, together with Medina's natural fortifications, rendered the confederacy's cavalry (consisting of horses and camels) useless, locking the two sides in a stalemate. 
+
+### Siege of Medina
+The siege of Medina began in January 627 and lasted for 20 nights. Adding in the six days of trench-building, the entire operation lasted 27 days and was contained within a single month (5 Shawwal-1 Dhu al-Qi'dah). Since sieges were uncommon in Arabian warfare, the arriving Confederates were unprepared to deal with the trenches dug by the Muslims. The Confederates tried to attack with horsemen in hopes of forcing a passage, but the Medinans were rigidly entrenched, preventing such a crossing. Both of the armies gathered on either side of the trench and spent two or three weeks exchanging insults in prose and verse, backed up with arrows fired from a comfortable distance. On the other hand, the harvest had been gathered and the besiegers had some trouble finding food for their horses, which proved of no use to them in the attack.
+
+The Quraysh veterans grew impatient with the deadlock. A group of militants led by ‘Amr ibn ‘Abd Wudd (who was thought to be equal to a thousand men in fighting) and Ikrimah ibn Abi Jahl attempted to thrust through the trench and managed to effect a crossing, occupying a marshy area near the hillock of Sala. 'Amr challenged the Muslims to a duel. In response, Ali ibn Abi Talib accepted the challenge, and was sent by Muhammad to fight. As Ali went to fight Amr ibn Abd Wudd, Muhammad said about Ali, "He is the embodiment of all Faith who is going to an encounter with the embodiment of all Unbelief."
+
+Both the fighters got lost in the dust as the duel became intense. Finally, the soldiers heard screams which hinted at decisive blows, but it was unclear which of the two was successful. The slogan, 'Allahu Akbar' (God is the greatest) from the dust confirmed Ali's victory. The Confederates were forced to withdraw in a state of panic and confusion. Ali, as per his principles, allowed Amr's entourage to retreat; Ali never pursued a fleeing enemy.
+
+The Confederate army made several other attempts to cross the trench during the night but repeatedly failed.
+
+#### Treachery of Banu Qurayza
+The Confederates attempted several simultaneous attacks, in particular by trying to persuade the Banu Qurayza to attack the Muslims from the south. From the Confederates, Huyayy ibn Akhtab, a Khaybarian, the leader of the exiled tribe Banu Nadir, returned to Medina seeking their support against the Muslims.
+
+So far the Banu Qurayza had tried their best to remain neutral, and were very hesitant about joining the Confederates since they had earlier made a pact with Muhammad.When Huyayy approached them, their leader refused to allow him entry.
+
+Huyayy eventually managed to enter and persuade them that the Muslims would surely be overwhelmed. The sight of the vast Confederate armies, surging over the land with soldiers and horses as far as the eye could see, swung the Qurayza opinion in the favor of the Confederacy.
+
+News of the Qurayzah's supposed renunciation of the pact with Muhammad leaked out, and Umar promptly informed Muhammad. Such suspicions were reinforced by the movement of enemy troops towards the strongholds of the Qurayza. Muhammad became anxious about their conduct, and realised the grave potential danger the Qurayza posed. Because of his pact with the Qurayza, he had not bothered to make defensive preparations along the Muslims' border with the tribe. The Qurayza also possessed weaponry: 1,500 swords, 2,000 lances, 300 suits of armour, and 500 shields.
+
+Muhammad sent three leading Muslims to bring him details of the recent developments. He advised the men to openly declare their findings, should they find the Banu Qurayza to be kind, so as to increase the morale of the Muslim fighters. However, he warned against spreading the news of a possible breach of the pact on the Qurayza's part, so as to avoid any panic within Muslim ranks.
+
+#### Medina Cryisis
+
+Muhammad attempted to hide his knowledge of the activities of Banu Qurayza; however, rumors soon spread of a massive assault on the city of Medina from Qurayza's side which severely demoralized the Medinans.
+
+The Muslims found themselves in greater difficulties by day. Food was running short, and nights were colder. The lack of sleep made matters worse. So tense was the situation that, for the first time, the canonical daily prayers were neglected by the Muslim community. Only at night, when the attacks stopped due to darkness, could they resume their regular worship. According to Ibn Ishaq, the situation became serious and fear was everywhere.
+
+Quran describes the situation in surah Al-Ahzab:
+
+    ˹Remember˺ when they came at you from east and west, when your eyes grew wild ˹in horror˺ and your hearts jumped into your throats, and you entertained ˹conflicting˺ thoughts about Allah.
+    
+    Then and there the believers were put to the test, and were violently shaken.
+    
+    And ˹remember˺ when the hypocrites and those with sickness in their hearts said, “Allah and His Messenger have promised us nothing but delusion!”
+    
+    And ˹remember˺ when a group of them said, “O people of Yathrib! There is no point in you staying ˹here˺, so retreat!” Another group of them asked the Prophet’s permission ˹to leave˺, saying, “Our homes are vulnerable,” while ˹in fact˺ they were not vulnerable. They only wished to flee.
+    
+    Had their city been sacked from all sides and they had been asked to abandon faith, they would have done so with little hesitation.
+    
+    They had already pledged to Allah earlier never to turn their backs ˹in retreat˺. And a pledge to Allah must be answered for.
+    
+    Say, ˹O Prophet,˺ “Fleeing will not benefit you if you ˹try to˺ escape a natural or violent death. ˹If it is not your time,˺ you will only be allowed enjoyment for a little while.”
+    
+    Ask ˹them, O  Prophet˺, “Who can put you out of Allah’s reach if He intends to harm you or show you mercy?” They can never find any protector or helper besides Allah.
+    
+    Allah knows well those among you who discourage ˹others from fighting˺, saying ˹secretly˺ to their brothers, “Stay with us,” and who themselves hardly take part in fighting.
+    
+    ˹They are˺ totally unwilling to assist you. When danger comes, you see them staring at you with their eyes rolling like someone in the throes of death. But once the danger is over, they slash you with razor-sharp tongues, ravenous for ˹worldly˺ gains. Such people have not ˹truly˺ believed, so Allah has rendered their deeds void. And that is easy for Allah.
+    
+    They ˹still˺ think that the enemy alliance has not ˹yet˺ withdrawn. And if the allies were to come ˹again˺, the hypocrites would wish to be away in the desert among nomadic Arabs, ˹only˺ asking for news about you ˹believers˺. And if the hypocrites were in your midst, they would hardly take part in the fight.
+    
+    Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
+    
+    When the believers saw the enemy alliance, they said, “This is what Allah and His Messenger had promised us. The promise of Allah and His Messenger has come true.” And this only increased them in faith and submission.
+    Surah Al-Ahzab 33:10-22
+
+### Muslims Response
+
+Immediately after hearing the rumors about the Qurayza, Muhammad had sent 100 men to the inner city for its protection. Later he sent 300 horsemen (cavalry was not needed at the trench) as well to protect the city. The loud voices, in which the troops prayed every night, created the illusion of a large force.
+
+The crisis showed Muhammad that many of his men had reached the limits of their endurance. He sent word to Ghatafan, trying to pay for their defection and offering them a third of Medina's date harvest if they withdrew. Although the Ghatafan demanded half, they eventually agreed to negotiate with Muhammad on those terms. Before Muhammad began the order of drafting the agreement, he consulted the Medinan leaders. They sharply rejected the terms of the agreement, protesting Medina had never sunk to such levels of ignominy. The negotiations were broken off. While the Ghatafan did not retreat they had compromised themselves by entering into negotiations with Medina, and the Confederacy's internal dissension had thereby been increased.
+
+At about that point, Muhammad received a visit from Nuaym ibn Masud, an Arab leader who was well-respected by the entire confederacy, but who had, unknown to them, secretly converted to Islam. Muhammad asked him to end the siege by creating discord amongst Confederates.
+
+> William Montgomery Watt:
+> The whole was a battle of wits in which Muslims had the best of it; without cost to themselves they weakened the enemy and increased the dissension.
+
+Nuaym then came up with an efficient stratagem. He first went to the Banu Qurayza and warned them about the intentions of the rest of the Confederacy. If the siege fails, he said, the Confederacy will not be afraid to abandon the Jews, leaving them at the mercy of Muhammad. The Qurayza should thus demand Confederate leaders as hostages in return for cooperation. This advice touched upon the fears the Qurayza had already harbored.
+
+Next Nuaym went to Abu Sufyan, the Confederate leader, warning him that the Qurayza had defected to Muhammad. He stated that the tribe intended to ask the Confederacy for hostages, ostensibly in return for cooperation, but really to hand over to Muhammad. Thus the Confederacy should not give a single man a hostage. Nuaym repeated the same message to other tribes in the Confederacy
+
+### Collapse of the Confederacy
+Nuaym's stratagem worked. After consulting, the Confederate leaders sent Ikrimah ibn Abi Jahl to the Qurayza, signaling a united invasion of Medina. The Qurayza, however, demanded hostages as a guarantee that the Confederacy would not desert them. The Confederacy, considering that the Qurayza might give the hostage to Muhammad, refused. Messages were repeatedly sent back and forth between the parties, but each held to its position stubbornly.
+
+Abu Sufyan summoned Huyayy ibn Akhtab, informing him of Qurayza's response. Huyayy was taken aback, and Abu Sufyan branded him as a "traitor". Fearing for his life, Huyayy fled to the Qurayza's strongholds.
+
+The Bedouins, the Ghatafan, and other Confederates from Najd had already been compromised by Muhammad's negotiations. They had taken part in the expedition in hopes of plunder, rather than for personal reasons. They lost hope as chances of success dwindled, uninterested in continuing the siege. The two confederate armies were marked by recriminations and mutual distrust.
+
+The provisions of the Confederate armies were running out. Horses and camels were dying of hunger and wounds. For days the weather had been exceptionally cold and wet. Violent winds blew out the campfires, taking away from the Confederate army their source of heat. The Muslim camp, however, was sheltered from such winds. The enemy’s tents were torn up, their fires were extinguished, the sand and rain beat in their faces and they were terrified by the portents against them. They had already well nigh fallen out among themselves. During the night the Confederate armies withdrew, and by morning the ground was cleared of all enemy forces.
+
+### Aftermath
 
 The siege was a "battle of wits", in which the Muslims tactically overcame their opponents while suffering very few casualties. Efforts to defeat the Muslims failed, and Islam became influential in the region. As a consequence, the Muslim army besieged the area of the Banu Qurayza tribe, leading to their surrender.
 
@@ -5170,7 +5253,14 @@ The defeat caused the Meccans to lose their trade and much of their prestige.
 
 Following the retreat of the Confederate army, the Banu Qurayza neighborhoods were besieged by the Muslims for their treachery. After a 25-day siege of their neighborhood, the Banu Qurayza unconditionally surrendered. When the Banu Qurayza tribe surrendered, the Muslim army seized their stronghold and their possessions for their acts. On the request of the Banu Aus, who were allied to the Qurayza, Muhammad chose one of them, Sa'ad ibn Mu'adh, as an arbitrator to pronounce judgment upon them. Sa'ad, who later died of his wounds from the battle, decreed the sentence, in which some of the men fighters shall be killed and some of their women and children enslaved. Muhammad approved of this decision, and the next day the sentence was carried out.
 
+The failure of the siege marked the beginning of Muhammad's undoubted ascendency in the city of Medina. The Meccans had exerted their utmost strength to dislodge Muhammad from Medina, and this defeat caused them to lose their trade with Syria and much of their prestige with it. Watt conjectures that the Meccans at this point began to contemplate that conversion to Islam would be the most prudent option.
+
+> On the day of Al-Ahzab (i.e. clans) the Prophet said, (After this battle) we will go to attack them (i.e. the infidels) and they will not come to attack us."
+> Sahih al-Bukhari 4109
+
 </details><details><summary>
+
+# PROOFREADINGPROOFREADINGPROOFREADING
 
 ## Abu Dharr Al-Ghifari comes to Medina with all his tribe
 
@@ -5189,7 +5279,7 @@ According to some narrations, Abu Dharr was the fifth person to embrase Islam.
 
 </details><details><summary>
 
-## <b>628</b>: Treaty of Hudaybiyyah
+## 628: Treaty of Hudaybiyyah
 
 </summary>
 
