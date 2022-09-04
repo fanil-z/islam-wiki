@@ -5260,22 +5260,19 @@ The failure of the siege marked the beginning of Muhammad's undoubted ascendency
 
 </details><details><summary>
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
 ## Abu Dharr Al-Ghifari comes to Medina with all his tribe
 
 </summary>
 
-> Abu Dharr comes to the prophet Muhammadﷺ   in early years of preaching in Mecca. The prophet Muhammadﷺ   sends him back to his tribe to preach and wait for the news of the victory of Islam. 
-> One day a tribe of horses and camels rush to Medina and people are scared because they think an army is coming to attack muslims.
-> Abu Dharr says: "Oh Messenger of Allah, here is every single one of the Al Ghifarr." and the prophet Muhammadﷺ   replies: "May Allah forgive the entirety of Ghifarr."
+Abu Dharr hears the news about prophet Muhammad preaching in Mecca and sends his brother to the messenger and his brother returns and says 'I found a man who recites beautiful kalam and I don't think it's poetry, and I also saw that he teaches good things, good characteristics'. Then Abu Dharr comes himself to the prophet Muhammadﷺ   and becomes a muslim. The prophet Muhammadﷺ   sends him back to his tribe to preach and wait for the news of the victory of Islam. 
 
-As the hadith says: "If anybody wants to see the abstinent from the dunya of Eesa (as), then he shoul look at Abu Dharr al-Ghifari.
+According to some narrations, Abu Dharr was the fifth person to embrase Islam. And his tribe Al-Ghifar were known to be bandits who used to ride caravans. 
 
-He sends his brother to the messenger and his brother returns and says: I found a man who recites beautiful kalam and I don't think it's poetry, and I also saw that he teaches good things, good characteristics.
+More than 15 years later, a tribe of horses and camels rush to Medina and muslims are scared because they think an army is coming to attack muslims. The travellers were no other than the tribe of Al Ghifarr who all became muslims and came to serve the prophet Muhammad ﷺ  .
 
-Al-Ghifar were known to be bandits who used to ride caravans.
-According to some narrations, Abu Dharr was the fifth person to embrase Islam.
+Abu Dharr says: "Oh Messenger of Allah, here is every single one of the Al Ghifarr." and prophet Muhammad ﷺ   replies: "May Allah forgive the entirety of Ghifarr."
+
+> The hadith says: "If anybody wants to see the abstinent from the dunya of Eesa (as), then he should look at Abu Dharr al-Ghifari".
 
 </details><details><summary>
 
@@ -5283,43 +5280,106 @@ According to some narrations, Abu Dharr was the fifth person to embrase Islam.
 
 </summary>
 
-A peace agreement is signed between Muhammad's Muslims and the people of Mecca.
+Treaty of Hudaybiyyah is a peace agreement signed between prophet Muhammad'sﷺ   Muslims and the people of Mecca.
 
-Muhammad had a premonition that he entered Mecca and did tawaf around the Ka'bah. His companions in Madinah were delighted when he told them about it. They all revered Mecca and the Kaaba and they learned to do tawaf there. In 628, Muhammad and a group of 1,400 Muslims marched peacefully without arms towards Mecca, in an attempt to perform the Umrah (pilgrimage). They were dressed as pilgrims, and brought sacrificial animals, hoping that the Quraish would honour the Arabian custom of allowing pilgrims to enter the city. The Muslims had left Medina in a state of ihram, a premeditated spiritual and physical state which restricted their freedom of action and prohibited fighting. This, along with the paucity of arms carried, indicated that the pilgrimage was always intended to be peaceful.
+The Kaaba in Makkah was built by the Prophets Abraham and his son, Ismael. They consecrated it as the spiritual center of the world of the monotheists. And now Kaaba was the “Qibla” of the Muslims which means that they had to turn toward it when offering their prayers. But the custodians of the Kaaba were the idolaters of Makkah, and they were using it as the national pantheon of polytheism, housing in it 360 idols of their tribes.
 
-Muhammad and his followers camped outside of Mecca, and Muhammad met with Meccan emissaries who wished to prevent the pilgrims' entry into Mecca. After negotiations, the two parties decided to resolve the matter through diplomacy rather than warfare, and a treaty was drawn up.
+By ancient Arab custom, everyone was free to visit the Kaaba – unarmed. Also, by ancient custom, fighting of any kind was prohibited during the four sacred months of the year. One of these months was Zilqa'ada, the 11th month of the calendar.
 
-#### Conditional points of the treaty
+The Muslims longed to see what for them was the House of God. Therefore, in Zilqa'ada of the sixth year after the Migration, prophet Muhammad ﷺ   declared that he would visit Makkah to perform Umra or the Lesser Pilgrimage – unarmed but with his followers. With this intent, he left Medina in late February A.D. 628 with 1400 of his followers. They had taken camels and other animals for sacrifice but no weapons except their swords.
+
+When this caravan of the pilgrims reached the outskirts of Makkah, prophet Muhammad ﷺ   was informed that the idolaters would not allow him to enter the city, and that, they would use force to prevent him from doing so. This report caused great agitation among the Muslims. They halted near a well in a place called Hudaybiyya in the north of Makkah.
+
+Prophet Muhammad ﷺ   sent a message to the Quraysh that he wished only to make the customary seven circuits of the Kaaba, sacrifice the animals, and then return to Medina, with his followers. The Quraysh did not agree. Many other messages were sent but the Quraysh said that they would not admit the Muslims into Makkah.
+
+Eventually, prophet Muhammad ﷺ   ordered Umar bin al-Khattab to go to Makkah to explain to the idolaters the purpose of the visit of the Muslims, to assure them that they (the Muslims) had no intention of fighting against anyone, and to give them a pledge that after performing the rites of Umra they would leave Makkah immediately and would return to Medina.
+
+But Umar refused to go. He said that there was no one in Makkah to protect him. He suggested, however, that prophet Muhammad ﷺ   ought to send Uthman bin Affan with his message to Makkah since the idolaters would not do him any harm.
+
+The idolaters welcomed Uthman and told him that he was free to perform the Umra. But he said that he alone could not perform Umra, and that they had to admit the \prophet Muhammad ﷺ   and all the Muslims with him, into the city. This was not acceptable to the Quraysh, and it was reported that they had arrested him. It was even rumored that they had killed him.
+
+When the rumors of Uthman's execution reached prophet Muhammad ﷺ  , he construed the action of the Quraysh as an ultimatum, and asked the Muslims to renew their pledge of fealty to him. All Muslims pledged their obedience to the Messenger of God regardless of the events which might take place thenceforth.
+
+This pledge is called the “Pledge of Ridhwan” or the “Covenant of Fealty,” and those Muslims who gave it, are called the “Companions of the Tree,” because prophet Muhammad ﷺ   stood under a tree as they filed past him renewing their oath of allegiance to him. Their numbers are given as 1400.
+
+The resolution of the Muslims to dare the consequences appears to have put the Quraysh in a more reasonable frame of mind, as they realized that their intransigence could lead to unnecessary bloodshed. Uthman, it turned out, had not been killed as it had been rumored but had only been arrested, and now they released him – an act reflecting a change in their attitude.
+
+Also reflective of this change was the selection by them of one, Suhayl bin Amr, whom they sent to the camp of the Muslims to conclude a treaty with prophet Muhammad ﷺ  . Suhayl was a man known to be a skillful but not an inflexible negotiator.
+
+Suhayl arrived in Hudaybiyya and opened negotiations with prophet Muhammad ﷺ  . After long and wearisome discussions and debate they succeeded in hammering out a treaty.
+
+### Conditional points of the treaty
 
 After a long discussion, both parties agreed with some conditional points, such as:
 
-* The Messenger of Allah will have to return to Medina instead of having entered Mecca that year. The Muslim shall perform their pilgrimage in the upcoming year and they would stay in peace at Mecca for three days including the years onward with no arms except sheathed swords.
-* There will be a truce between both parties for ten years, whereby during this period all the people may enjoy safety and harmony.
-* Whoever wishes to enter into a covenant with the Prophet will be allowed to do so, and whoever wishes to enter into a covenant with the Quraish will be allowed to do so. Whoever enters into any one of the parties will be considered part of that party.  Likewise, any sort of aggression against them will be considered aggression against that party.
-* Whoever flees to Muhammad from Mecca without the permission of his guardians will be sent back to the Quraysh, but whoever comes to the Quraysh from the Muslims will not be sent back to the Muslims. The writer of the treaty was Ali Ibn Abi Talib.
+1. The Messenger of Allah will have to return to Medina instead of having entered Mecca that year. The Muslim shall perform their pilgrimage in the upcoming year and they would stay in peace at Mecca for three days including the years onward with no arms except sheathed swords.
+2. There will be peace between both parties for ten years, whereby during this period all the people may enjoy safety and harmony.
+3. Whoever wishes to enter into a covenant with the Prophet will be allowed to do so, and whoever wishes to enter into a covenant with the Quraish will be allowed to do so. Whoever enters into any one of the parties will be considered part of that party. Likewise, any sort of aggression against them will be considered aggression against that party.
+4. Whoever flees to prophet Muhammad ﷺ   from Mecca without the permission of his guardians will be sent back to the Quraysh, but whoever comes to the Quraysh from the Muslims will not be sent back to the Muslims. 
 
-The Treaty is very important in Islam, as it was an indirect recognition of the Islamic state in Medina. The treaty also allowed the Muslims who were still in Mecca to practice Islam publicly. Further, as there was no longer a constant struggle between the Muslims and the polytheists, many people saw Islam in a new light, which led to many more people accepting Islam.[citation needed] In addition, the Treaty of Hudaybiyyah paved the way for the conquering of other tribes, through the use of treaties with the Muslims. The treaty also serves as an example that Islam was not merely spread with the sword as Muhammad had an army that could have attacked Mecca, but Muhammad chose to make a peace treaty. After the polytheists broke the treaty, he marched on Makkah and conquered the polytheists.
+The writer of the treaty was Ali Ibn Abi Talib. Dictating to Ali, the Prophet said: “Write, In the name of Allah, the Most Merciful, the Most Beneficent.” Suhayl, the Makkan envoy, at once raised objection, and said, “Do not write this. Instead, write, ‘In Thy name O Allah.'“ The Prophet complied with this demand.
 
-The oath that Muhammad took "under the tree" at al-Hudaybiyyah made him a true ruler over parts of western Arabia. In early Islamic Egypt, having a forefather who had "pledged allegiance under the tree 🌳" conferred considerable social prestige.
+The Prophet next asked Ali to write: “This is a treaty of peace between Muhammad, the Messenger of God and the Quraysh...” Suhayl again objected, and said: “If we had acknowledged you a messenger of God, why would we be fighting against you? Therefore, do not write the words, ‘the Messenger of God,' and write only your own name and the name of your father.”
 
-A verse of the Quran was revealed about the treaty, which means:
+The Prophet was agreeable to comply with this demand also but Ali had already written the words, “Muhammad, the Messenger of God,” and he refused to delete them. He said to his master: “This high rank has been bestowed upon you by Allah Himself, and I shall never delete the words ‘Messenger of Allah' with my hand.” Thereupon, the Prophet took the pen in his own hand, and deleted the words which were offensive to the idolaters.
+
+The Treaty of Hudaybiyya was signed on two copies, one for each party.
+
+The Treaty is very important in Islam, as it was an indirect recognition of the Islamic state in Medina. The treaty also allowed the Muslims who were still in Mecca to practice Islam publicly. Further, as there was no longer a constant struggle between the Muslims and the polytheists, many people saw Islam in a new light, which led to many more people accepting Islam.
+
+In addition, the Treaty of Hudaybiyyah paved the way for the conquering of other tribes, through the use of treaties with the Muslims. The treaty also serves as an example that Islam was not merely spread with the sword as prophet Muhammad ﷺ   had an army that could have attacked Mecca, but prophet Muhammad ﷺ   chose to make a peace treaty. Only after the polytheists broke the treaty, he marched on Makkah and conquered the polytheists.
+
+The oath that prophet Muhammad ﷺ   took "under the tree" at al-Hudaybiyyah made him a true ruler over parts of western Arabia. In early Islamic Egypt, having a forefather who had "pledged allegiance under the tree 🌳" conferred considerable social prestige.
+
+Umar and some others were angry at the idea of treating with these pagans. The future caliph came to upbraid the Prophet. He declared later that if he had a hundred men on his side, he would have seceded. But prophet Muhammad ﷺ   was immovable. 
+
+The Muslims were sulkily silent when told by prophet Muhammad ﷺ   to shave their heads and offer their sacrifices. At last (by the advice of his wife, Umm Salamah), he performed the operations himself, and his followers did the same.
+
+His mission accomplished, prophet Muhammad ﷺ  , the Messenger of God, left Hudaybiyya with the pilgrims, to return to Medina. He was still at seven days' journey from Medina, when a verse of the Quran was revealed about the Treaty of Hudaybiyah:
 
     "Verily we have granted thee a manifest victory"
-    Quran 48:1
+    Quran Surah Fath 48:1
+
+    Allah's Good Pleasure was on the Believers when they swore Fealty to thee under the Tree: He knew what was in their hearts, and He sent down Tranquillity to them; and He rewarded them with a speedy Victory;
+
+    And many gains will they acquire (besides): and Allah is Exalted in Power, Full of Wisdom.
+
+    Allah has promised you many gains that ye shall acquire, and He has given you these beforehand; and He has restrained the hands of men from you; that it may be a Sign for the Believers, and that He may guide you to a Straight Path;
+
+    And other gains (there are), which are not within your power, but which Allah has compassed: and Allah has power over all things.
+    
+    If the Unbelievers should fight you, they would certainly turn their backs; then would they find neither protector nor helper.
+
+    (Such has been) the practice (approved) of Allah already in the past: no change wilt thou find in the practice (approved) of Allah.
+
+    And it is He Who has restrained their hands from you and your hands from them in the midst of Makka, after that He gave you the victory over them. And Allah sees well all that ye do.
+
+    They are the ones who denied Revelation and hindered you from the Sacred Mosque and the sacrificial animals, detained from reaching their place of sacrifice. Had there not been believing men and believing women whom ye did not know that ye were trampling down and on whose account a crime would have accrued to you without (your) knowledge, (Allah would have allowed you to force your way, but He held back your hands) that He may admit to His Mercy whom He will. If they had been apart, We should certainly have punished the Unbelievers among them with a grievous Punishment.
+
+    While the Unbelievers got up in their hearts heat and cant - the heat and cant of ignorance,- Allah sent down His Tranquillity to his Messenger and to the Believers, and made them stick close to the command of self-restraint; and well were they entitled to it and worthy of it. And Allah has full knowledge of all things.
+
+    Truly did Allah fulfil the vision for His Messenger: ye shall enter the Sacred Mosque, if Allah wills, with minds secure, heads shaved, hair cut short, and without fear. For He knew what ye knew not, and He granted, besides this, a speedy victory.
+
+    It is He Who has sent His Messenger with Guidance and the Religion of Truth, to proclaim it over all religion: and enough is Allah for a Witness.
+
+    Muhammad is the messenger of Allah; and those who are with him are strong against Unbelievers, (but) compassionate amongst each other. Thou wilt see them bow and prostrate themselves (in prayer), seeking Grace from Allah and (His) Good Pleasure. On their faces are their marks, (being) the traces of their prostration. This is their similitude in the Taurat; and their similitude in the Gospel is: like a seed which sends forth its blade, then makes it strong; it then becomes thick, and it stands on its own stem, (filling) the sowers with wonder and delight. As a result, it fills the Unbelievers with rage at them. Allah has promised those among them who believe and do righteous deeds forgiveness, and a great Reward.
+    Quran, Surah Fath Ayah 18-29
 
 </details><details><summary>
 
-## <b>628-629</b>: Letters to Kings, Conquest of Khaybar
+# PROOFREADINGPROOFREADINGPROOFREADING
+
+## 628-629: Letters to Kings, Conquest of Khaybar
 
 </summary>
 
-Around the end of the 6 AH and the beginning of the 7 AH (628 CE), Muhammadﷺ   sent letters to various heads of state asking them to accept Islam and to worship only one God. Notable among them were Heraclius, the emperor of Byzantium; Khosrau II, the emperor of Persia; the Negus of Ethiopia; Muqawqis, the ruler of Egypt; Harith Gassani, the governor of Syria; and Munzir ibn Sawa, the ruler of Bahrain.
+Around the end of the 6 AH and the beginning of the 7 AH (628 CE), prophet Muhammad ﷺ   sent letters to various heads of state asking them to accept Islam and to worship only one God. Notable among them were Heraclius, the emperor of Byzantium; Khosrau II, the emperor of Persia; the Negus of Ethiopia; Muqawqis, the ruler of Egypt; Harith Gassani, the governor of Syria; and Munzir ibn Sawa, the ruler of Bahrain.
 
-In the 6 AH, Khalid ibn al-Walid accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
+In the 6 AH, **Khalid ibn al-Walid** accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
 
 </details><details><summary>
 
-## Umrah of the prophet Muhammadﷺ
+## Umrah of the prophet Muhammad ﷺ
 
 </summary>
 </details><details><summary>
