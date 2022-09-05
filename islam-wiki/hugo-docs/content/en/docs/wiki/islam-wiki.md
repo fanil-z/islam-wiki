@@ -5367,24 +5367,104 @@ His mission accomplished, prophet Muhammad ﷺ  , the Messenger of God, left Hud
 
 </details><details><summary>
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
-## 628-629: Letters to Kings, Conquest of Khaybar
+## 628-629: Letters to Kings
 
 </summary>
 
 Around the end of the 6 AH and the beginning of the 7 AH (628 CE), prophet Muhammad ﷺ   sent letters to various heads of state asking them to accept Islam and to worship only one God. Notable among them were Heraclius, the emperor of Byzantium; Khosrau II, the emperor of Persia; the Negus of Ethiopia; Muqawqis, the ruler of Egypt; Harith Gassani, the governor of Syria; and Munzir ibn Sawa, the ruler of Bahrain.
 
-In the 6 AH, **Khalid ibn al-Walid** accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Muhammad however granted the Jewish request to retain the lands under their control. In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days.
+E. Von Grunebaum
+
+> In 629, Mohammed sent letters to six rulers - the Persian king, the Byzantine emperor, the Negus of Abyssinia, the governor of Egypt, a Ghassanid prince, and a chief of the Banu Hanifa in south-east Arabia, inviting them to Islam. (Classical Islam - A History 600-1258)
+>
+> Muhammad was God's Messenger not only for the Arabs but for the whole world. It was his duty to deliver God's last message to all mankind, and he did. Professor Margoliouth, however, considers these letters a prelude to aggression and conquest. He says:
+>
+> About the time of the campaign of Khaibar, he (Mohammed) published his program of world-conquest by sending letters to the rulers of whose fame he had heard. (Mohammed and the Rise of Islam, 1931)
+>
+It is true that the program of Muhammad, the Messenger of God, was one of “world-conquest,” but not by force of arms. His aim was to conquer the minds and the hearts of men and women, which Islam did in his day, and is still doing today.
+>
+> In sending these letters, the Prophet was prompted by his desire that all men should live in obedience to the commandments and laws of God. Obedience to those commandments and laws alone can guarantee the peace, happiness and welfare of mankind in this world, and its salvation in the Hereafter.
 
 </details><details><summary>
 
-## Umrah of the prophet Muhammad ﷺ
+## 629: Conquest of Khaybar
 
 </summary>
+  
+In the 6 AH, **Khalid ibn al-Walid** accepted Islam who later was to play a decisive role in the expansion of Islamic empire. In the 7 AH, the Jewish leaders of Khaybar – a place some 200 miles from Medina – started instigating the Jewish and Ghatafan tribes against Medina. When negotiation failed, Muhammad ordered the blockade of the Khaybar forts, and its inhabitants surrendered after some days. The lands of Khaybar came under Muslim control. Prophet Muhammad ﷺ   however granted the Jewish request to retain the lands under their control. 
+
+<aside>
+Khaybar is a township 90 miles north of Medina, in a harra or volcanic tract, well-watered with many springs issuing forth from its basaltic rocks. It has an excellent irrigation system and produces rich harvests of dates and grain.
+
+Long before the time of Prophet Muhammad ﷺ  , the valley of Khaybar and other valleys in its north and south, were colonized by the Jews. As noted before, these Jews were not only the best farmers of the country, they were also its leaders in industry and business, and they enjoyed a monopoly of the armaments industry.
+
+In the times of the Prophet ﷺ  , the best arsenals of Arabia were all in Khaybar. Those Jews who had been banished from Medina, had also resettled in Khaybar, and they were noted for their skills in metallurgy.
+</aside>
+
+The Qaynuqa were banished from Medina. Chiefly they were metalworkers, having learned the art of beating out the splendid shining armor, the moon-curved swords and sun-catching helmets that glorified warfare in the desert. They made fine bronze armor, beaten and burnished, with helmets to match and gleaming swords whose swift cut could make the very air whistle. (Muhammad – the Messenger of God)
+
+The Jews of Khaybar also heard about the Treaty of Hudaybiyya and its terms. Just as the Quraysh in Makkah and Umar bin al-Khattab and some other “hawks” among the Muslims in Medina had interpreted the treaty as the “surrender” of the Muslims, so also did the Jews of Khaybar consider it a symptom of the incipient decline of the power of the State of Medina.
+
+Banking on this theory of “decline,” they began to instigate the Arab tribes between Khaybar and Medina to attack the Muslims. One of these tribes was the Ghatafan, the allies of the Jews of Khaybar.
+
+They began to send their raiding expeditions into the pastures around Medina. One of these pastures belonged to the Prophet himself. On one occasion, the son of Abu Dharr el-Ghiffari was grazing the camels of the Prophet ﷺ   when the Ghatafan struck. They killed him, and captured his mother who was with him, and they drove with them the herd of camels. The Muslims, however, were able, just in time, to overtake the marauders and to rescue the wife of Abu Dharr el-Ghiffari.
+
+Prophet Muhammad ﷺ   decided to put an end to these gratuitous provocation. He thought that it would not be prudent to wait until the Jews and their allies laid another siege to Medina, and that it would be better to forestall them. He, therefore, ordered the Muslims to mobilize, and to march on Khaybar.
+
+In September 628 the Prophet ﷺ   left Medina with 1600 soldiers. Some Muslim women also accompanied the army to work as nurses and to give first aid to the wounded and the sick.
+
+Khaybar had eight fortresses. The strongest and the most important of them all was the fortress of al-Qamus. The captain of its garrison was a famous champion called Merhab. He had, under his command, the best fighting men of Khaybar, and they were the best-equipped soldiers of the time in all Arabia.
+
+The campaign of Khaybar was one of the greatest. The masses of Jews living in Khaybar were the strongest, the richest, and the best equipped for war of all the peoples of Arabia. (The Life of Muhammad, Cairo, 1935)
+
+The Muslims, however, were able to capture all the fortresses of Khaybar except al-Qamus which proved to be impregnable.
+
+Ibn Ishaq:
+Burayda b. Sufyan b. Farwa al-Aslami told me from his father Sufyan b. Amr b. Al-Akwa: the Apostle ﷺ   sent Abu Bakr with his banner against one of the forts of Khaybar. He fought but returned having suffered losses and not taken it. On the morrow he sent Umar and the same thing happened. The Apostle said: “Tomorrow I will give the flag to a man who loves Allah and His Apostle. Allah will conquer it by his means. He is no runaway.” Next day he gave the flag to Ali. (The Life of the Messenger of God)
+
+Ali was no giant, but he made up for his lack of height by his great breadth and prodigious strength. Today he was formidable in a scarlet tunic over which he wore his shining breastplate and backplate. On his head gleamed a spiked helmet encrusted with silver. In his right hand he brandished Mohammed's own scimitar, Dhu'l-Fiqar, which had been entrusted to him with the black banner. Ali led his forces and fought valiantly. In the engagement, he lost his armor and, shielding himself with a portal he had seized, he continued to fight until the fortress was stormed by his troops. The same portal was used by Ali as a little bridge to enable the Muslim soldiers to enter the houses within the fortress.
+
+### The Results of the Conquest of Khaybar
+
+The conquest of Khaybar is a landmark in the history of Islam as it is the beginning of the Islamic State and Empire.
+
+Khaybar was the first campaign in which non-Muslims were made the subjects of the Islamic State. It was the first time that the principles of government in Islam were defined and applied. Therefore, Khaybar is the first successful campaign of Islam.
+
+At Khaybar, the nascent Islamic State acquired new subjects and new territories. It was the beginning, not only of the Islamic State but also of its expansion. 
+
+Before the conquest of Khaybar, the Muslims were destitutes or semi-destitutes. Khaybar suddenly made them rich. 
+
+The Muhajireen in Medina had no means of making a living and therefore had no steady income. They had barely managed to survive until the conquest of Khaybar. Once Khaybar was conquered, there was a sudden change in their fortunes.
+
+The conquest of Khaybar conferred unlimited benefits upon the Muslims; some of them were:
+1. Immense quantities of gold and silver that the Jews had been accumulating for many generations.
+2. The finest arsenals of Arabia containing the newest weapons of the times such as swords, spears, lances, maces, shields, armor, bows and arrows.
+3. Vast herds of horses, camels and cattle, and flocks of sheep and goats.
+4. Rich arable lands with palm groves.
+
+> Imam Bukhari has quoted Abdullah bin Umar bin al-Khattab as saying: “We were hungry at all times until the conquest of Khaybar.” 
+
+> Also, imam Bukhari has quoted Aisha, the wife of the Prophet ﷺ  , as saying: “It was not until the conquest of Khaybar that I could eat dates to my heart's content.”
+
 </details><details><summary>
 
-## **630**: Mecca becomes Muslim
+## 🕋 Umrah of the prophet Muhammad ﷺ   (The First Pilgrimage)
+
+</summary>
+
+In 629 CE (7 AH), in accordance with the terms of the Hudaybiyyah treaty, Muhammad and the Muslims performed their lesser pilgrimage (Umrah) to Mecca and left the city after three days. Umrah of Dhu'l-Qada (Pilgrimage of the 11th month) was the first pilgrimage that the Islamic prophet Muhammad and the Muslims made after the Migration to Medina. It took place on the morning of the fourth day of Dhu al-Qi'dah 7 AH (629 CE), after the Treaty of Hudaybiyyah 6 AH (628 CE). The entire event was three days long.
+
+A pilgrimage that occurs during the month of Dhu al-Hijjah is named a "major pilgrimage", or just "pilgrimage" (حَـجّ, Ḥajj), while pilgrimages of all other months are called "minor pilgrimage" (عُـمْـرَة, ‘Umrah).
+
+Ar-Raḥīq Al-Makhtūm ( ٱلـرَّحِـيْـق ٱلْـمَـخْـتُـوْم, "The Sealed Nectar"), in the chapter The Compensatory ‘Umrah (Lesser Pilgrimage) the event is described as follows:
+
+> When Dhul Qa‘da month approached towards the close of the seventh year A.H., the Prophet ordered his people, and the men who witnessed Al-Hudaibiyah Truce Treaty in particular, to make preparations to perform the lesser pilgrimage. He proceeded with 2000 men besides some women and children [Fath Al-Bari 7/700], and 60 camels 🐫🐫🐫 for sacrifice, to visit the Holy Sanctuary in Makkah. The Muslims took their weapons with them fearing the treachery of the Quraishites, but left them with a party of two hundred men at a place some eight miles from Makkah. They entered the city with the swords in their scabbards [Za'd Al-Ma'ad 2/151; Fath Al-Bari 7/700], with the Prophet at their head on his she-camel 🐫, Al-Qaswa’, while the surrounding Companions attentively focusing their look on him, all saying: "Here I am! at Your service O Allâh!" The Quraishites had left the place and retired to their tents on the adjoining hills. The Muslims performed the usual circumambulation around Kaaba 🕋 vigorously and briskly; and on recommendation by the Prophet they did their best to appear strong and steadfast in their circumambulation as the polytheists had spread rumours that they were weak because the fever of Yathrib (Madinah) had sapped their strength. They were ordered to run in the first three rounds and then walk in the remaining ones. The Makkans meanwhile aligned on the top of Qu‘aiqa‘an Mount watching the Muslims, tongue-tied at witnessing their strength and devotion.
+
+</details><details><summary>
+
+# PROOFREADINGPROOFREADINGPROOFREADING
+
+## 629: Mecca becomes Muslim
 
 </summary>
 
