@@ -67,6 +67,12 @@ This closely intersects with another topic I wanted to analyze as a longread, wh
 
 ### Reality of Jahannam
 
+Hellfire is a roaring raging beast held by 70 thousand chains, each chain held by 70 thousand angels.
+
+prophet SAW told Umar, ya Umar, if you did the deeds of 70 prophets, you would still be afraid at that moment. every person, prophets, believers, unbelievers will fall to their knees at that moment. All they are saying is 'Oh Allah, protect us. Oh Allah, protect us.'
+
+https://www.youtube.com/watch?v=shlegLdVy_c
+
 Easy Entrance: “Paradise is surrounded by difficulties and Fire is surrounded by temptations” [Bukhari].
 
 Eternal: "O Jannatis, now there will be no death; O Jahannamis now there will be no death; On hearing this call , the Jannatis will be delighted and the Jahanamis will become more depressed." [Bukhari] 

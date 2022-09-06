@@ -5082,6 +5082,22 @@ Fatima and Ali were survived by four children: Hasan, Husayn, Zaynab and Umm Kul
 
 </details><details><summary>
 
+## Battle of Porridge
+
+</summary>
+
+> The Campaign of As-Sawiq was called after the type of **porridge** that Abu Sufyan and his companions threw from their camels to lighten their loads in order to flee from any encounter with the Prophet (peace be upon him).
+
+When Safwan ibn Omaiyah, the Jews, and the hypocrites were conducting their hostile intrigues and plots, Abu Sufyan was planning to carry out some military hostilities in oder to reply quickly to their loses at Badr. These aimed at saving the face of his people and impressing on the Arabs that Quraish was still a strong military power, after their defeat at Badr, and after the Arabs started to think little about them. Abu Sufyan had taken an oath that he would not approach any of his wives until he had taken revenge from Muhammed. He was not brave enough to attack Medinah in broad daylight, so he infiltrated the outskirts of Medinah at night.
+
+Abu Sufyan led 200 riders and entered the outskirts of a place called Al-Uraid, staying over night with Banu An-Nadeer in the Jewish district of Khaybar. He knocked on the door of Huyai ibn Akhtab, one of the Jewish leaders and the father of Safiyah, a Mother of the Believers. However, Huyai was too scared to open the door for him. Therefore, Abu Sufyan left and went to Salam ibn Mashkam, the chief of Banu An-Nadeer and their treasurer. He used to keep their money and jewellery, which he then lent to the peple of Mecca. Salam entertained Abu Sufyan, offered him food and wine, and gave him a full account of the news of the Muslims.
+
+In the morning, Abu Sufyan dispatched men from Quraish, who went to a suburb of Medina and burnt the palm trees there. They also found in the area two Muslims from the Ansar, Mabid ibn Amr and his companion, so they killed them and then left to return to their base. The incident became known to the people in the city, and as a result, The Prophet (peace be upon him) left with 200 Muhajareen (Immigrants) and Ansar to catch the men from Quraish, leaving Basheer ibn Abdul-Munthir to run the affairs In Medina.
+
+The Prophet (peace be upon him) and his Companions reached the area of Qirqirah Al-Kudr, but Abu Sufyan and the disbelievers managed to escape after they had thrown aside many of their goods and much barley porridge called As-Sawiq that the Arabs used to prepare. This was in order to lighten their loads and escape any confrontation with the Muslims. The Prophet (peace be upon him) had left Abu Lubabah ibn Amir in Medina to run the affairs there in the Prophet’s absence. Abu Lubabah is the same Companion that was left to dispose of matters in Medina during the battles of Badr and Banu Qainuqa. The Prophet (peace be upon him) returned to Medina 5 days later.
+
+</details><details><summary>
+
 ## 625: ⚔️ Battle of Uhud
 
 </summary>
@@ -5144,7 +5160,7 @@ The two armies would meet again in 627 at the Battle of the Trench, in which the
 
 > Narrated Anas: When it was the day of uhud, the people left the Prophet while Abu Talha was in front of the Prophet shielding him with his leather shield. Abu Talha was a skillful archer who used to shoot violently. He broke two or three arrow bows on that day. If a man carrying a quiver full of arrows passed by, the Prophet would say (to him), put (scatter) its contents for Abu Talha." The Prophet would raise his head to look at the enemy, whereupon Abu Talha would say, "Let my father and mother be sacrificed for you ! Do not raise your head, lest an arrow of the enemy should hit you. (Let) my neck (be struck) rather than your neck." I saw 'Aisha, the daughter of Abu Bakr, and Um Sulaim rolling up their dresses so that I saw their leg-bangles while they were carrying water skins on their backs and emptying them in the mouths of the (wounded) people. They would return to refill them and again empty them in the mouths of the (wounded) people. The sword fell from Abu Talha's hand twice or thrice (on that day).  (Book #59, Hadith #393)
 
-Uhud is the day of Talha. Talha distinguished himself at the Battle of Uhud by keeping close to Muhammad while most of the Muslim army fled. He protected Muhammad's face from an arrow by taking the shot in his own hand, as a result of which his index and middle fingers were cut. He was also hit twice in the head, and it was said that he suffered a total of 39 or 75 wounds. Toward the end of the battle, Talha fainted from his heavy injuries, Abu Bakar soon reached their location to check Muhammad condition first, who immediately instructing Abu Bakar to check the condition of Talha, who already passed out due to his severe bloodloss. and his hand was left paralysed. For this heroic defence of Muhammad, Talha earned the byname "the living martyr". Talha is said to be the anonymous believer counted as a "martyr" in Quran 33:23. Abu Bakr also called the battle of Uhud "the day of Talha". Talha is among ten who were promised Paradise.
+Uhud is the day of Talha. Talha distinguished himself at the Battle of Uhud by keeping close to prophet Muhammad while most of the Muslim army fled. He protected Muhammad's face from an arrow by taking the shot in his own hand, as a result of which his index and middle fingers were cut. He was also hit twice in the head, and it was said that he suffered a total of 39 or 75 wounds. Toward the end of the battle, Talha fainted from his heavy injuries, Abu Bakar soon reached their location to check prophet Muhammad condition first, who immediately instructing Abu Bakr to check the condition of Talha, who already passed out due to his severe bloodloss. and his hand was left paralysed. For this heroic defence of prophet Muhammad, Talha earned the byname "the living martyr". Talha is said to be the anonymous believer counted as a "martyr" in Quran 33:23. Abu Bakr also called the battle of Uhud "the day of Talha". Talha is among ten who were promised Paradise.
 
 > Narrated Abu Talha: Slumber overtook us during the battle of uhud while we were in the front files. My sword would fall from my hand and I would pick it up, and again it would fall down and I would pick it up again.  (Book #60, Hadith #85)
 
@@ -5462,23 +5478,66 @@ Ar-Raḥīq Al-Makhtūm ( ٱلـرَّحِـيْـق ٱلْـمَـخْـتُـ�
 
 </details><details><summary>
 
+## Battle of Mu'tah
+
+</summary>
+
+The Battle of Mu'tah (Arabic: مَعْرَكَة مُؤْتَة, romanized: Maʿrakah Muʿtah, or Arabic: غَزْوَة مُؤْتَة Ghazwah Muʿtah) took place in September 629 (1 Jumada al-Awwal 8 AH), between the forces of Muhammad and the army of the Byzantine Empire and their Ghassanid vassals. It took place in the village of Mu'tah at the east of the Jordan River and Karak in Karak Governorate.
+
+In 629 the christian arab tribe of ghassan was ruled by Shorhail, a prince who was a vassal of the Byzantine emperor. He was one of those rulers who had received letters from Muhammad Mustafa inviting them to accept Islam. In those days he held court in Mootah, a town east of the Dead Sea. When the Prophet's emissary, Harith bin Umayr, arrived at his court bearing the letter for him, he ordered his execution.
+
+The murder of Harith bin Umayr was an unprovoked outrage, and the killing of an ambassador is considered an unpardonable crime in many nations. The Prophet decided to take punitive action. He equipped an army of 3000 men, and sent it under the command of his friend and freedman, Zayd bin Haritha, to Mootah, to demand reparations. At the same time, he designated a chain of command and responsibility. In the event of Zayd's death, the command of the army was to pass on to Jaafer ibn Abi Talib. If he too were to be killed, then the third general was to be Abdullah ibn Rawaha.
+
+When Shorhail heard that an army was approaching his capital from Medina, he also mobilized his men, and was soon ready to meet it. He deployed his troops on the south-side, out of the walls of Mootah. They were composed of the Roman garrison of Mootah, and the freshly raised tribal levies. When the Muslims arrived and took stock of the situation, they realized that it was going to be an unequal fight as they were heavily outnumbered by the enemy.
+
+The Muslim leaders held a war council. Zayd bin Haritha proposed that they immediately send a messenger to the Prophet apprising him of the imbalance in the strength of the two forces, and requesting him to send reinforcements.
+
+But Abdullah bin Rawaha opposed him, and said that the decision to fight or not to fight did not rest upon their numbers, and if they were outnumbered by the enemy, it was immaterial for them. “We fight to win the crown of martyrdom, and not the laurels of victory, and here is our chance; let us not miss it,” he said.
+
+Abdullah bin Rawaha clinched the debate with his powerful argument, and the Muslims advanced to meet the enemy. The Muslims engaged the Byzantines at their camp by the village of Musharif and then withdrew towards Mu'tah. It was here that the two armies fought. Some Muslim sources report that the battle was fought in a valley between two heights, which negated the Byzantines' numerical superiority.
+
+At the very first clash of arms, Zayd bin Haritha, the first general of the Muslims, was killed. Jaghfar ibn Abi Talib took the banner. WJaghfar fought heroically and was also killed. His body was brought into the camp. Abdullah bin Umar bin al-Khattab, who was with the army, says that he counted the wounds on the hero's body, and found more than fifty of them, and they were all in front. Jaafer had dared sword and spear even after the loss of his arms, but had not flinched.
+
+When all three generals appointed by the Prophet had been killed, the Muslims were left leaderless for a time. Then Khalid bin al-Walid who was also fighting in the ranks, seized the banner, and managed to rally the Muslims.
+
+At night the armies disengaged, and this gave him the opportunity to reorganize his men. He is said to have fought a defensive action on the following day but realizing that it was impossible to win a victory, ordered a retreat from Mootah, and succeeded in bringing the remnants of the army back to Medina.
+
+After the Muslim forces arrived at Medina, they were reportedly berated for withdrawing and accused of fleeing. Salamah ibn Hisham, brother of Amr ibn Hishām (Abu Jahl) was reported to have prayed at home rather than going to the mosque to avoid having to explain himself. Muhammad ordered them to stop, saying that they would return to fight the Byzantines again.
+
+Next morning in the mosque, the Prophet announced that he had, in a vision, seen the martyrs of Mootah in Paradise, reclining upon couches, but Jaafer was there in the guise of an angel with two wings, stained on their feathers with the blood of martyrdom. It was as a result of this vision that the martyr has since been known as Jaafer the Flyer, Jaafer at-Tayyar. 
+
+</details><details><summary>
+
 # PROOFREADINGPROOFREADINGPROOFREADING
 
 ## 629: Mecca becomes Muslim
 
 </summary>
 
-In 629 CE, The Banu Bakr tribe, an ally of Quraysh, attacked the Muslims' ally tribe Banu Khuza'a, and killed several of them. The Quraysh openly helped Banu Bakr in their attack, which in return, violated the terms of the Treaty of Hudaybiyyah. Of the three options now advanced by Muhammad, they decided to cancel the Treaty of Hudaybiyyah. Muhammad started taking preparation for Mecca campaign. 
+The Quraysh had been unable to exploit their own victory over the Muslims at the battle of Uhud, but when the latter were defeated at the battle of Mootah by the Christians, they were tempted to exploit the Christian victory, and to restore the pre-Hudaybiyya conditions in Arabia. The Muslim defeat at Mootah played a key role in the events preceding the fall of Makkah in 630.
+
+Muhammad Husayn Haykal:
+
+We may recall that as soon as Khalid and the army returned to Medinah without the proofs of victory (at the battle of Mootah), they were called deserters. Many soldiers and commanders felt so humiliated that they stayed at home in order not to be seen and insulted in public. The campaign of Mootah gave the Quraysh the impression that the Muslims and their power had now been destroyed and that both their dignity and the fear which they previously inspired in others had all but disappeared.
+
+This made the Quraysh incline strongly to the conditions prevalent before the Treaty of Hudaybiyya. They thought that they could now launch a war against which the Muslims were incapable of defending themselves, not to speak of counterattacking or making retaliation. (The Life of Muhammad, Cairo, 1935)
+
+According to the terms of the Treaty of Hudaybiyya, the Arab tribes were free to enter into treaty relations with either the Muslims or the Quraysh. Taking advantage of this stipulation, the tribe of Banu Khoza'a wrote a treaty of friendship with the Prophet of Islam, and another tribe – Banu Bakr – became an ally of the Quraysh. Hostility had existed between these two tribes since pre-Islamic times but now both had to abide by the terms of the Treaty of Hudaybiyya, and to refrain from attacking each other
+
+But eighteen months after the Treaty of Hudaybiyya had been signed, a band of the warriors of Banu Bakr suddenly attacked Banu Khoza'a in their homes at night. The time of this attack is given as late Rajab of 8 A.H. (November 629).
+
+The Khoza'a had done nothing to provoke this attack. They took refuge in the precincts of the Kaaba but their enemies pursued them even there, and killed a number of them. Others saved their lives by seeking the protection of Budail bin Waraqa and his friend, Rafa'a, in their houses, in Makkah.
+
+In 629 CE, the Banu Bakr tribe, an ally of Quraysh, attacked the Muslims' ally tribe Banu Khuza'a, and killed several of them. The Quraysh openly helped Banu Bakr in their attack, which in return, violated the terms of the Treaty of Hudaybiyyah. Of the three options now advanced by Muhammad, they decided to cancel the Treaty of Hudaybiyyah. Muhammad started taking preparation for Mecca campaign. 
 
 On 29 November 629 (6th of Ramadan, 8 AH), Muhammad set out with 10,000 companions, and stopped at a nearby place from Mecca called Marr-uz-Zahran. When Meccan leader Abu Sufyan came to gather intelligence, he was detected and arrested by the guards. Umar ibn al-Khattab wanted the execution of Abu Sufyan for his past offenses, but Muhammad spared his life after he converted to Islam. On 11 December 629 (18th of Ramadan, 8 AH), he entered Mecca almost unresisted, and declared a general amnesty for all those who had committed offences against Islam and himself. 
 
-He then destroyed the idols – placed in and around the Kaaba – reciting the Quranic verse: "Say, the truth has arrived, and falsehood perished. Verily, the falsehood is bound to perish" (Quran 17:81). William Muir comments, "The magnanimity with which Muhammad treated a people who had so long hated and rejected him is worthy of all admiration."
+He then destroyed the idols – placed in and around the Kaaba – reciting the Quranic verse: `"Say, the truth has arrived, and falsehood perished. Verily, the falsehood is bound to perish"` (Quran 17:81). William Muir comments, "The magnanimity with which Muhammad treated a people who had so long hated and rejected him is worthy of all admiration."
 
 ### Destroying idols in Kaaba
 
-Narrated `Abdullah bin Mas`ud:
-
-The Prophet (ﷺ) entered Mecca and (at that time) there were three hundred-and-sixty idols around the Kaaba. He started stabbing the idols with a stick he had in his hand and reciting: "Truth (Islam) has come and Falsehood (disbelief) has vanished."
+Narrated Abdullah bin Masud:
+> The Prophet ﷺ   entered Mecca and (at that time) there were three hundred-and-sixty idols around the Kaaba. He started stabbing the idols with a stick he had in his hand and reciting: "Truth (Islam) has come and Falsehood (disbelief) has vanished."
 
 ### Bilal climbs up the roof of Kaaba and says the adhan
 
