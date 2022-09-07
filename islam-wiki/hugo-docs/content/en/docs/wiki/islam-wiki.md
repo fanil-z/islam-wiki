@@ -5514,11 +5514,10 @@ Next morning in the mosque, the Prophet announced that he had, in a vision, seen
 
 </summary>
 
-The Quraysh had been unable to exploit their own victory over the Muslims at the battle of Uhud, but when the latter were defeated at the battle of Mootah by the Christians, they were tempted to exploit the Christian victory, and to restore the pre-Hudaybiyya conditions in Arabia. The Muslim defeat at Mootah played a key role in the events preceding the fall of Makkah in 630.
+### Quraish break Treaty of Hudaybiyah
 
 Muhammad Husayn Haykal:
-
-We may recall that as soon as Khalid and the army returned to Medinah without the proofs of victory (at the battle of Mootah), they were called deserters. Many soldiers and commanders felt so humiliated that they stayed at home in order not to be seen and insulted in public. The campaign of Mootah gave the Quraysh the impression that the Muslims and their power had now been destroyed and that both their dignity and the fear which they previously inspired in others had all but disappeared.
+As soon as Khalid and the army returned to Medinah without the proofs of victory (at the battle of Mootah), they were called deserters. Many soldiers and commanders felt so humiliated that they stayed at home in order not to be seen and insulted in public. The campaign of Mootah gave the Quraysh the impression that the Muslims and their power had now been destroyed and that both their dignity and the fear which they previously inspired in others had all but disappeared.
 
 This made the Quraysh incline strongly to the conditions prevalent before the Treaty of Hudaybiyya. They thought that they could now launch a war against which the Muslims were incapable of defending themselves, not to speak of counterattacking or making retaliation. (The Life of Muhammad, Cairo, 1935)
 
@@ -5528,13 +5527,67 @@ But eighteen months after the Treaty of Hudaybiyya had been signed, a band of th
 
 The Khoza'a had done nothing to provoke this attack. They took refuge in the precincts of the Kaaba but their enemies pursued them even there, and killed a number of them. Others saved their lives by seeking the protection of Budail bin Waraqa and his friend, Rafa'a, in their houses, in Makkah.
 
-In 629 CE, the Banu Bakr tribe, an ally of Quraysh, attacked the Muslims' ally tribe Banu Khuza'a, and killed several of them. The Quraysh openly helped Banu Bakr in their attack, which in return, violated the terms of the Treaty of Hudaybiyyah. Of the three options now advanced by Muhammad, they decided to cancel the Treaty of Hudaybiyyah. Muhammad started taking preparation for Mecca campaign. 
+In 629 CE, the Banu Bakr tribe, an ally of Quraysh, attacked the Muslims' ally tribe Banu Khuza'a, and killed several of them. The Quraysh openly helped Banu Bakr in their attack, which in return, violated the terms of the Treaty of Hudaybiyyah. Of the three options now advanced by Muhammad, the Quraish decided to cancel the Treaty of Hudaybiyyah. Muhammad started taking preparation for Mecca campaign. 
 
-On 29 November 629 (6th of Ramadan, 8 AH), Muhammad set out with 10,000 companions, and stopped at a nearby place from Mecca called Marr-uz-Zahran. When Meccan leader Abu Sufyan came to gather intelligence, he was detected and arrested by the guards. Umar ibn al-Khattab wanted the execution of Abu Sufyan for his past offenses, but Muhammad spared his life after he converted to Islam. On 11 December 629 (18th of Ramadan, 8 AH), he entered Mecca almost unresisted, and declared a general amnesty for all those who had committed offences against Islam and himself. 
+The hotheads of the Quraysh had been quick to repudiate the Treaty of Hudaybiyya but very soon their more realistic and discreet leaders realized that the answer they had sent to Medina was a blunder as it had been dictated, not by prudence and sagacity, but by presumption and arrogance.
 
-He then destroyed the idols – placed in and around the Kaaba – reciting the Quranic verse: `"Say, the truth has arrived, and falsehood perished. Verily, the falsehood is bound to perish"` (Quran 17:81). William Muir comments, "The magnanimity with which Muhammad treated a people who had so long hated and rejected him is worthy of all admiration."
+And when they thought of what the consequences of their action could be, they decided to act immediately to avert disaster. But how? After an animated discussion, they agreed that Abu Sufyan should go to Medina, and should try to persuade the Prophet to renew the Treaty of Hudaybiyya.
+
+When Abu Sufyan arrived in Medina, he first went to see his daughter, Umm Habiba – one of the wives of the Prophet. As he was going to sit on a rug, she pulled it from under him, and said: “You are an unclean idolater, and I cannot allow you to sit on the rug of the Messenger of God.” She treated him as if he was an untouchable pariah.
+
+Shaken by such a reception, he left her, and went to the mosque hoping to see the Prophet himself. But the latter did not give him audience. He then solicited the aid of Abu Bakr, Umar and Ali but all of them told him that they could not intercede for him with the Prophet, and he returned to Makkah empty-handed.
+
+The Quraysh had broken the pledge, and the envoys of Khozaa were still in Medina, demanding justice. If the Prophet had condoned the crime of the Quraysh, he would have seriously compromised his own position in the sight of all Arabs. He could not allow this to happen. Eventually, the Prophet decided to capture Makkah, and he ordered the Muslims to mobilize.
+
+### March to Mecca
+
+The army of Islam left Medina on the tenth of Ramadan of 8 A.H. (February 1, 630). The news that an army was marching southwards, spread rapidly in the desert, and even reached Makkah itself. Those members of the clan of Banu Hashim who were still in Makkah, decided, upon hearing this news, to leave the city and to meet the advancing army. Among them were Abbas bin Abdul Muttalib, the uncle of the Prophet; Aqeel bin Abi Talib, and Abu Sufyan bin al-Harith bin Abdul Muttalib, his cousins. They joined the army of Islam, and reentered Makkah with it.
+
+In the afternoon of the 19th of Ramadan, the army arrived in Merr ad-Dharan in the north of Makkah, and halted there to spend the night. At night the Prophet ordered his soldiers to light little fires, and the whole plain lit up with thousands of bonfires.
+
+Abu Sufyan and Hakim bin Hizam had also left Makkah to investigate the reports of the invasion by the Muslims. Riding north on the road to Medina, they also arrived in Merr ad-Dharan, and were dumb-founded to see countless little fires burning in the valley. When they realized they were in the camp of the Muslims, they were greatly troubled not knowing what they could do to save themselves or their city.
+
+Abbas bin Abdul Muttalib also had great anxiety for the safety of the Makkans. He feared that if they offered resistance, they would be massacred. He was riding the white mule of the Prophet through the camp, when at its southern perimeter, he suddenly ran into Abu Sufyan and Hakim bin Hizam.
+
+He told them that they could see the numbers of the Muslims, and that the Quraysh had no power to resist them. Abu Sufyan asked him what he ought to do. Abbas told him to ride behind him on his mule, and that he would take him to the Prophet, and would try to get safe-conduct for him. Hakim bin Hizam returned to Makkah to report on what he had seen and heard. Abbas and Abu Sufyan rode through the Muslim camp Presently, they rode past the tent of Umar, and he wanted to know who were the two visitors.
+
+When Umar recognized Abu Sufyan, he was thrilled, and said to him: “O enemy of God, at last you are in my power, and now I am going to kill you.” But Abbas told him that he (Abu Sufyan) was under his protection. Thereupon Umar rushed to see the Prophet and solicited his permission to kill him. But the Prophet just told Abbas to bring him on the following morning.
+
+Early next morning, Abbas, Abu Sufyan and Umar, all three appeared before the tent of the Prophet. Umar was raring to kill Abu Sufyan but the Prophet restrained him, and invited the latter to accept Islam. Abu Sufyan was not very eager to accept Islam but Abbas told him that if he didn't, then Umar would kill him, and he would never return to Makkah. Faced by the specter of death, Abu Sufyan declared the Shahadah which formally admitted him to the community of the Muslims.
+
+Abbas also requested the Prophet to grant Abu Sufyan some favor which he would equate with a “distinction.” The Prophet said that all those Makkans who would enter Abu Sufyan's house, or would stay in their own houses, or would enter the precincts of the Kaaba, would be safe from all harm. Abu Sufyan was very proud that the Prophet had declared his house to be a sanctuary for the idolaters of Makkah. His latter-day friends and admirers are flaunting his “distinction” right to this day.
+
+### Entering Mecca
+
+It was Friday, Ramadan 20, 8 A.H. (February 11, 630) when the army of Islam broke camp at Merr ad-Dharan, and marched toward Makkah. Abbas and Abu Sufyan stood on the brow of an eminence to watch the squadrons march past them. The latter was much impressed by the order, the discipline, the numbers and the espirit de corps of the formations, and said to Abbas:
+
+“Your nephew has truly won a great kingdom and great power.” Abbas snapped: “Woe to you! This is prophethood and not a kingdom.” Abu Sufyan had never seen such an awesome sight before, and with his pagan reflexes, and extremely limited vision, could interpret it only in terms of material power. But he realized that the game for him and the idolaters was over at last, and the only important thing now was to save his and their lives.
+
+Abu Sufyan rushed back to Makkah, and entering the precincts of the Kaaba, called out aloud: “O Makkans! Muhammad has arrived with his army, and you have no power to oppose him. Those of you who enter my house, would be safe from harm, and now only your unconditional surrender can save you from massacre.”
+
+Abu Sufyan was surrounded by other citizens of Makkah, and one of them asked him: “Your house can accommodate only a few people. How can so many people find sanctuary in it?” He said: “All those people who stay in their own houses or enter the precincts of the Kaaba, would also be safe.” This ordinance meant that all that the idolaters would have to do to save their lives, would be to stay indoors, and to refrain from challenging the invaders.
+
+Mohammed, who knew not what resistance he might meet with, made a careful distribution of his forces as he approached Mecca. While the main body marched directly forward, strong detachments advanced over the hills on each side. To Ali who commanded a large body of cavalry, was confided the sacred banner, which he was to plant on Mount Hadjun, and maintain it there until joined by the Prophet. Express orders were given to all the generals to practice forbearance, and in no instance to make the first attack.
+
+Muhammad, the Messenger of God, entered Makkah from the north. Usama, the son of his friend and the martyr of Mootah, Zayd bin Haritha, was riding pillion with him. Muhammad's head was bowed low, and he was reciting the chapter from Qur’an called “The Victory.”
+
+Ali carried the banner of Islam as he rode at the head of the cavalry. The Prophet ordered Zubayr bin al-Awwam to enter the city from the west, and Khalid bin al-Walid from the south. He gave strict orders to his army not to kill anyone except in self-defense. He had long desired to destroy the idols in Kaaba but he wished to do so without any bloodshed. His orders were clear and explicit; nevertheless, Khalid killed 28 Makkans at the southern gate of the city. He said he had met resistance.
 
 ### Destroying idols in Kaaba
+
+The Muslim occupation of Mecca was virtually bloodless. The fiery Khalid bin Waleed killed a few people at the southern gate and was sharply reprimanded by Mohammed for doing so.
+
+Eight years earlier Muhammad had left Makkah as a fugitive with a price on his head, and now he was entering the same city as its conqueror. His manner, however, bespoke not of pride or even of exultation but of gratitude and humility – gratitude to God for His mercy in bestowing success upon His humble slave, and humility in the contemplation of the vanity of worldly glory, and the evanescence of all things human.
+
+The Prophet rode into the precincts of the Kaaba, dismounted from his camel, called his cousin, Ali ibn Abi Talib, and both of them entered the Kaaba, cognizant of the Divine Commandment to the Prophets, Abraham (Ibrahim) and Ismael:
+
+...and We covenanted with Abraham and Ismael that they should sanctify My house... (Chapter 2; verse 125)
+
+The Prophet and Ali found the House of God (Kaaba) in a state of defilement; it had become a pantheon of 360 idols, and it had to be sanctified. The Prophet knocked down each idol as he read the following verse from Qur’an:
+
+Truth has come, and Falsehood has vanished. For Falsehood is (by its nature) bound to vanish. (Chapter 17; verse 81)
+
+
 
 Narrated Abdullah bin Masud:
 > The Prophet ﷺ   entered Mecca and (at that time) there were three hundred-and-sixty idols around the Kaaba. He started stabbing the idols with a stick he had in his hand and reciting: "Truth (Islam) has come and Falsehood (disbelief) has vanished."
