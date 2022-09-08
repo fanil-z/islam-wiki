@@ -5508,8 +5508,6 @@ Next morning in the mosque, the Prophet announced that he had, in a vision, seen
 
 </details><details><summary>
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
 ## 629: Mecca becomes Muslim
 
 </summary>
@@ -5571,28 +5569,80 @@ Mohammed, who knew not what resistance he might meet with, made a careful distri
 
 Muhammad, the Messenger of God, entered Makkah from the north. Usama, the son of his friend and the martyr of Mootah, Zayd bin Haritha, was riding pillion with him. Muhammad's head was bowed low, and he was reciting the chapter from Qur’an called “The Victory.”
 
+    Indeed, We have granted you a clear triumph ˹O Prophet˺
+
+    so that Allah may forgive you for your past and future shortcomings, perfect His favour upon you, guide you along the Straight Path,
+
+    and so that Allah will help you tremendously.
+
+    He is the One Who sent down serenity upon the hearts of the believers so that they may increase even more in their faith. To Allah ˹alone˺ belong the forces of the heavens and the earth. And Allah is All-Knowing, All-Wise.
+
+    So He may admit believing men and women into Gardens under which rivers flow—to stay there forever—and absolve them of their sins. And that is a supreme achievement in the sight of Allah.
+
+    Also ˹so that˺ He may punish hypocrite men and women and polytheistic men and women, who harbour evil thoughts of Allah. May ill-fate befall them! Allah is displeased with them. He has condemned them and prepared for them Hell. What an evil destination!
+
+    To Allah ˹alone˺ belong the forces of the heavens and the earth. And Allah is Almighty, All-Wise.
+    Quran, Surah Al-Fath 1-7
+
 Ali carried the banner of Islam as he rode at the head of the cavalry. The Prophet ordered Zubayr bin al-Awwam to enter the city from the west, and Khalid bin al-Walid from the south. He gave strict orders to his army not to kill anyone except in self-defense. He had long desired to destroy the idols in Kaaba but he wished to do so without any bloodshed. His orders were clear and explicit; nevertheless, Khalid killed 28 Makkans at the southern gate of the city. He said he had met resistance.
 
 ### Destroying idols in Kaaba
 
-The Muslim occupation of Mecca was virtually bloodless. The fiery Khalid bin Waleed killed a few people at the southern gate and was sharply reprimanded by Mohammed for doing so.
+The Muslim occupation of Mecca was virtually bloodless. Khalid bin Waleed killed a few people at the southern gate and was reprimanded by Muhammad for doing so.
 
 Eight years earlier Muhammad had left Makkah as a fugitive with a price on his head, and now he was entering the same city as its conqueror. His manner, however, bespoke not of pride or even of exultation but of gratitude and humility – gratitude to God for His mercy in bestowing success upon His humble slave, and humility in the contemplation of the vanity of worldly glory, and the evanescence of all things human.
 
 The Prophet rode into the precincts of the Kaaba, dismounted from his camel, called his cousin, Ali ibn Abi Talib, and both of them entered the Kaaba, cognizant of the Divine Commandment to the Prophets, Abraham (Ibrahim) and Ismael:
 
-...and We covenanted with Abraham and Ismael that they should sanctify My house... (Chapter 2; verse 125)
+    ...and We covenanted with Abraham and Ismael that they should sanctify My house... (Chapter 2; verse 125)
 
-The Prophet and Ali found the House of God (Kaaba) in a state of defilement; it had become a pantheon of 360 idols, and it had to be sanctified. The Prophet knocked down each idol as he read the following verse from Qur’an:
+The Prophet found the House of God (Kaaba) in a state of defilement; it had become a pantheon of 360 idols, and it had to be sanctified. The Prophet knocked down each idol as he read the following verse from Qur’an:
 
-Truth has come, and Falsehood has vanished. For Falsehood is (by its nature) bound to vanish. (Chapter 17; verse 81)
-
-
+    Truth has come, and Falsehood has vanished. For Falsehood is (by its nature) bound to vanish. (Chapter 17; verse 81)
 
 Narrated Abdullah bin Masud:
 > The Prophet ﷺ   entered Mecca and (at that time) there were three hundred-and-sixty idols around the Kaaba. He started stabbing the idols with a stick he had in his hand and reciting: "Truth (Islam) has come and Falsehood (disbelief) has vanished."
 
 ### Bilal climbs up the roof of Kaaba and says the adhan
+
+When all the idols had been destroyed, all images had been effaced, and all vestiges of polytheism had been obliterated, Muhammad ﷺ  , the Messenger of God, ordered Bilal to call out Adhan. Bilal climbed up to the roof of Kaaba, called Adhan and the valley of Makkah rang out with his rich and sonorous takbir. The Prophet then made the seven circuits of the Kaaba, and offered prayer of thanksgiving to his Creator.
+
+### Prophet Muhammad ﷺ   Forgives Quraish
+
+In the meantime, the Quraysh had gathered in the court of the Kaaba awaiting the Prophet. They hoped that he would give them audience before giving a verdict on their fate.
+
+Presently the Prophet appeared at the threshold of the Kaaba. He surveyed the crowd in front of him and addressed it as follows:
+
+> There is no god but Allah. He is One and all Alone, and He has no partners. All praise and thanks to Him. He has fulfilled His promise. He has helped His slave to victory, and He has dispersed the gangs of his enemies.
+>
+> ‘O people! Listen to me. All the arrogance, the distinctions, the pride, and all the claims of blood of the Times of Ignorance are under my feet today.
+> 
+> ‘O Quraysh! Allah has destroyed the arrogance of the Times of Ignorance, and He has destroyed the pride of race. All men are the children of Adam, and Adam was a handful of dust.”
+
+The Prophet then read the following verse from Qur’an:
+
+    O People! We created you from a male and a female and distributed you among tribes and families for the facility of reference only. But in the sight of God only those people have a place of honor who are God-fearing and God-loving. Verily, God is knowledgeable and understanding. 
+    Chapter 49; verse 13
+
+This verse is the Magna Carta of the equality and brotherhood of all men in Islam. There cannot be any distinction between men on the grounds of race, color, nationality, family or wealth. But whereas Islam destroys all other distinctions, it upholds a distinction of its own, and that is the distinction of faith and character.
+
+Muhammad then posed a question to the Quraysh: “How do you think, I am going to treat you now?” They said: “You are a generous brother, and the son of a generous brother. We expect only charity and forgiveness from you.” He said: “I will tell you what Joseph said to his brothers,
+
+    ‘There is no blame on you today.' (Quran, Chapter 12 verse 92)
+
+"Go now; all of you are my freedmen.”
+
+The Prophet declared a general amnesty in Makkah. The amnesty extended even to the apostates. He forbade his army to plunder the city or to seize anything that belonged to the Quraysh. Quraysh had left nothing undone to compass his destruction, and the destruction of Islam; but in his hour of triumph, he condoned all their crimes and transgressions.
+
+The Quraysh, at first, were incredulous. They could not believe their own ears. How could Muhammad resist the temptation to kill them all, after all that they had done to him in more than two decades, and especially now that he had so much power in his hand? The unwillingness of Muhammad to use his power was something that utterly surpassed the comprehension of the polytheists of Makkah. Considerable time passed before the meaning of the intent of Muhammad sank into their minds, and the amnesty began to look possible and real to them.
+
+The aim of Muhammad, the Apostle of Peace, was to capture Makkah without bloodshed, and in this he was successful. It was here that he revealed himself, in the words of Al-Qur’an al-Majid “a mercy for all mankind.”
+
+History cannot furnish an example of such forbearance. Not only the pagans were not exterminated; not only they did not have to pay any penalty for their crimes of the past; they were not even disturbed in the possession of the houses which the Muhajireen had left in Makkah, and which they had occupied.
+
+From the Kaaba, the Prophet went to Mount Safa, and the people of Makkah came to acknowledge him as their sovereign in his dual character – as Messenger of God, and as their temporal ruler. All men gave the pledge of their loyalty to Muhammad by placing their hands on his hand. Next came the turn of women to take the oath of loyalty. But he did not want to touch the hand of any woman who was not his wife. He, therefore, ordered Umar bin al-Khattab to accept the pledge of women on his behalf.
+
+# PROOFREADINGPROOFREADINGPROOFREADING
 
 ### Khaled ibn al-Waleed destroys temples of Al-Uzza
 
