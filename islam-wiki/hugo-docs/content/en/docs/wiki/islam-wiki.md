@@ -5642,19 +5642,39 @@ History cannot furnish an example of such forbearance. Not only the pagans were 
 
 From the Kaaba, the Prophet went to Mount Safa, and the people of Makkah came to acknowledge him as their sovereign in his dual character – as Messenger of God, and as their temporal ruler. All men gave the pledge of their loyalty to Muhammad by placing their hands on his hand. Next came the turn of women to take the oath of loyalty. But he did not want to touch the hand of any woman who was not his wife. He, therefore, ordered Umar bin al-Khattab to accept the pledge of women on his behalf.
 
-# PROOFREADINGPROOFREADINGPROOFREADING
-
-### Khaled ibn al-Waleed destroys temples of Al-Uzza
-
 </details><details><summary>
 
-## Conquest of Arabia
+## Battle of Hunayn
 
 </summary>
 
-Soon after the Mecca conquest, the Banu Hawazin tribe together with the Banu Thaqif tribe gathered a large army, under the leadership of Malik Ibn 'Awf, to attack the Muslims. At this, the Muslim force, which included the newly converts of Mecca, went forward under the leadership of Muhammad, and the two armies met at the valley of Hunayn. Though at first disarrayed at the sudden attack of Hawazin, the Muslim force recollected mainly at the effort of Muhammad, and ultimately defeated the Hawazin. The latter was pursued at various directions. After Malik bin 'Awf along with his men took shelter in the fort of Ta'if, the Muslim army besieged it which however yielded no significant result, compelling them to return Medina. Meanwhile, some newly converts from the Hawazin tribe came to Muhammad and made a plea to release their women and children who had been captivated from the battlefield of Hunayn. Their request was granted by the Muslims.
+The conquest of Makkah triggered the mass conversion of the Arabs to Islam in many parts of the country. But there were some tribes living in the east and south-east of Makkah which did not wish to abjure idolatry.
 
-After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy of the Muslims was somewhat established throughout the Arabian peninsula.Various tribes started to send their representatives to express their loyalty to Muhammad. In the year 9 AH (630 CE), Zakat – which is the obligatory charity in Islam – was introduced and was accepted by most of the people. A few tribes initially refused to pay it, but gradually accepted.
+They were alarmed at the rapid progress of Islam, and they thought that if it continued to spread at the same speed, they would soon be surrounded by the Muslims, and would become isolated from other pagan tribes. Their leaders figured that it would be unwise on their part to let the Muslims consolidate their recent gains and become too strong.
+
+They, therefore, decided to act immediately by attacking the Muslims in Makkah and destroying them. The leading tribes among them were the Thaqeef, Hawazin, Banu Sa'ad and Banu Jashm, all fierce warriors, jealous of their independence and proud of their warlike traditions.
+
+They had noted that Makkah had surrendered to Muhammad without striking a blow but they attributed the failure of the Quraysh to resist him, to their effeminacy. As for themselves, they were confident that they were more than a match on the battle-field for the warriors of Islam or any other warriors.
+
+In late January 630, the Prophet received intelligence that Thaqeef and Hawazin had left their home base, and were moving toward Makkah. When these reports were confirmed, he too ordered a general mobilization in the newly-conquered city.
+
+The Prophet didn't want Makkah to become a battle-ground. He, therefore, hastily left Makkah on January 26, 630 at the head of 12,000 warriors, to meet the enemy. Out of this force, ten thousand men were from Medina, and the other two thousand were recruits from the newly-converted Makkans.
+
+This new army was the largest force ever assembled in Arabia to that date. As its various formations marched out of the city gate, in full panoply of war, Abu Bakr who was watching, was much impressed, and exclaimed: “We cannot be defeated this time because of lack of numbers.”
+
+But very soon he was proven wrong. Muslims were defeated at the beginning even though they were thrice as numerous as the enemy. Qur’an itself called attention of the Muslims, rather pointedly, that numbers alone were no guarantee that they would be victorious.
+
+Though at first disarrayed at the sudden attack of Hawazin, the Muslim force recollected mainly at the effort of Muhammad, and ultimately defeated the Hawazin. The latter was pursued at various directions. After Malik bin 'Awf along with his men took shelter in the fort of Ta'if, the Muslim army besieged it which however yielded no significant result, compelling them to return Medina. Meanwhile, some newly converts from the Hawazin tribe came to Muhammad and made a plea to release their women and children who had been captivated from the battlefield of Hunayn. Their request was granted by the Muslims.
+
+After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy of the Muslims was somewhat established throughout the Arabian peninsula. Various tribes started to send their representatives to express their loyalty to Muhammad. In the year 9 AH (630 CE), Zakat – which is the obligatory charity in Islam – was introduced and was accepted by most of the people. A few tribes initially refused to pay it, but gradually accepted.
+
+</details><details><summary>
+
+# PROOFREADINGPROOFREADINGPROOFREADING
+
+## Tabuk
+
+</summary>
 
 </details>
 
