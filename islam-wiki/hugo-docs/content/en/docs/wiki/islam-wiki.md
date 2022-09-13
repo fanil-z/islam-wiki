@@ -5676,6 +5676,9 @@ After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy 
 
 </summary>
 
+The Expedition of Tabuk, also known as the Expedition of Usra, was a military expedition that was initiated by the Islamic prophet Muhammad in October 630 CE (AH 9). He led a force of as many as 30,000 north to Tabuk, near the Gulf of Aqaba, in present-day northwestern Saudi Arabia.
+
+
 </details>
 
 ### Last Years of The Prophet Muhammad ﷺ
