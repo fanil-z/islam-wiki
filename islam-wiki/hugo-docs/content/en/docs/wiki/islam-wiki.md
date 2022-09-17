@@ -5619,28 +5619,28 @@ Presently the Prophet appeared at the threshold of the Kaaba. He surveyed the cr
 > 
 > ‘O Quraysh! Allah has destroyed the arrogance of the Times of Ignorance, and He has destroyed the pride of race. All men are the children of Adam, and Adam was a handful of dust.”
 
-The Prophet then read the following verse from Qur’an:
+Prophet Muhammad ﷺ   then read the following verse from Qur’an:
 
     O People! We created you from a male and a female and distributed you among tribes and families for the facility of reference only. But in the sight of God only those people have a place of honor who are God-fearing and God-loving. Verily, God is knowledgeable and understanding. 
     Chapter 49; verse 13
 
 This verse is the Magna Carta of the equality and brotherhood of all men in Islam. There cannot be any distinction between men on the grounds of race, color, nationality, family or wealth. But whereas Islam destroys all other distinctions, it upholds a distinction of its own, and that is the distinction of faith and character.
 
-Muhammad then posed a question to the Quraysh: “How do you think, I am going to treat you now?” They said: “You are a generous brother, and the son of a generous brother. We expect only charity and forgiveness from you.” He said: “I will tell you what Joseph said to his brothers,
+Prophet Muhammad ﷺ   then posed a question to the Quraysh: “How do you think, I am going to treat you now?” They said: “You are a generous brother, and the son of a generous brother. We expect only charity and forgiveness from you.” He said: “I will tell you what Joseph said to his brothers,
 
     ‘There is no blame on you today.' (Quran, Chapter 12 verse 92)
 
 "Go now; all of you are my freedmen.”
 
-The Prophet declared a general amnesty in Makkah. The amnesty extended even to the apostates. He forbade his army to plunder the city or to seize anything that belonged to the Quraysh. Quraysh had left nothing undone to compass his destruction, and the destruction of Islam; but in his hour of triumph, he condoned all their crimes and transgressions.
+Prophet Muhammad ﷺ   declared a general amnesty in Makkah. The amnesty extended even to the apostates. He forbade his army to plunder the city or to seize anything that belonged to the Quraysh. Quraysh had left nothing undone to compass his destruction, and the destruction of Islam; but in his hour of triumph, he condoned all their crimes and transgressions.
 
-The Quraysh, at first, were incredulous. They could not believe their own ears. How could Muhammad resist the temptation to kill them all, after all that they had done to him in more than two decades, and especially now that he had so much power in his hand? The unwillingness of Muhammad to use his power was something that utterly surpassed the comprehension of the polytheists of Makkah. Considerable time passed before the meaning of the intent of Muhammad sank into their minds, and the amnesty began to look possible and real to them.
+The Quraysh, at first, were incredulous. They could not believe their own ears. How could prophet Muhammad ﷺ   resist the temptation to kill them all, after all that they had done to him in more than two decades, and especially now that he had so much power in his hand? The unwillingness of prophet Muhammad ﷺ   to use his power was something that utterly surpassed the comprehension of the polytheists of Makkah. Considerable time passed before the meaning of the intent of prophet Muhammad ﷺ   sank into their minds, and the amnesty began to look possible and real to them.
 
-The aim of Muhammad, the Apostle of Peace, was to capture Makkah without bloodshed, and in this he was successful. It was here that he revealed himself, in the words of Al-Qur’an al-Majid “a mercy for all mankind.”
+The aim of prophet Muhammad ﷺ  , the Apostle of Peace, was to capture Makkah without bloodshed, and in this he was successful. It was here that he revealed himself, in the words of Al-Qur’an al-Majid “a mercy for all mankind.”
 
 History cannot furnish an example of such forbearance. Not only the pagans were not exterminated; not only they did not have to pay any penalty for their crimes of the past; they were not even disturbed in the possession of the houses which the Muhajireen had left in Makkah, and which they had occupied.
 
-From the Kaaba, the Prophet went to Mount Safa, and the people of Makkah came to acknowledge him as their sovereign in his dual character – as Messenger of God, and as their temporal ruler. All men gave the pledge of their loyalty to Muhammad by placing their hands on his hand. Next came the turn of women to take the oath of loyalty. But he did not want to touch the hand of any woman who was not his wife. He, therefore, ordered Umar bin al-Khattab to accept the pledge of women on his behalf.
+From the Kaaba, prophet Muhammad ﷺ   went to Mount Safa, and the people of Makkah came to acknowledge him as their sovereign in his dual character – as Messenger of God, and as their temporal ruler. All men gave the pledge of their loyalty to prophet Muhammad ﷺ   by placing their hands on his hand. Next came the turn of women to take the oath of loyalty. But he did not want to touch the hand of any woman who was not his wife. He, therefore, ordered Umar bin al-Khattab to accept the pledge of women on his behalf.
 
 </details><details><summary>
 
@@ -5654,38 +5654,80 @@ They were alarmed at the rapid progress of Islam, and they thought that if it co
 
 They, therefore, decided to act immediately by attacking the Muslims in Makkah and destroying them. The leading tribes among them were the Thaqeef, Hawazin, Banu Sa'ad and Banu Jashm, all fierce warriors, jealous of their independence and proud of their warlike traditions.
 
-They had noted that Makkah had surrendered to Muhammad without striking a blow but they attributed the failure of the Quraysh to resist him, to their effeminacy. As for themselves, they were confident that they were more than a match on the battle-field for the warriors of Islam or any other warriors.
+They had noted that Makkah had surrendered to prophet Muhammad ﷺ   without striking a blow but they attributed the failure of the Quraysh to resist him, to their effeminacy. As for themselves, they were confident that they were more than a match on the battle-field for the warriors of Islam or any other warriors.
 
-In late January 630, the Prophet received intelligence that Thaqeef and Hawazin had left their home base, and were moving toward Makkah. When these reports were confirmed, he too ordered a general mobilization in the newly-conquered city.
+In late January 630, prophet Muhammad ﷺ   received intelligence that Thaqeef and Hawazin had left their home base, and were moving toward Makkah. When these reports were confirmed, he too ordered a general mobilization in the newly-conquered city.
 
-The Prophet didn't want Makkah to become a battle-ground. He, therefore, hastily left Makkah on January 26, 630 at the head of 12,000 warriors, to meet the enemy. Out of this force, ten thousand men were from Medina, and the other two thousand were recruits from the newly-converted Makkans.
+Prophet Muhammad ﷺ   didn't want Makkah to become a battle-ground. He, therefore, hastily left Makkah on January 26, 630 at the head of 12,000 warriors, to meet the enemy. Out of this force, ten thousand men were from Medina, and the other two thousand were recruits from the newly-converted Makkans.
 
 This new army was the largest force ever assembled in Arabia to that date. As its various formations marched out of the city gate, in full panoply of war, Abu Bakr who was watching, was much impressed, and exclaimed: “We cannot be defeated this time because of lack of numbers.”
 
 But very soon he was proven wrong. Muslims were defeated at the beginning even though they were thrice as numerous as the enemy. Qur’an itself called attention of the Muslims, rather pointedly, that numbers alone were no guarantee that they would be victorious.
 
-Though at first disarrayed at the sudden attack of Hawazin, the Muslim force recollected mainly at the effort of Muhammad, and ultimately defeated the Hawazin. The latter was pursued at various directions. After Malik bin 'Awf along with his men took shelter in the fort of Ta'if, the Muslim army besieged it which however yielded no significant result, compelling them to return Medina. Meanwhile, some newly converts from the Hawazin tribe came to Muhammad and made a plea to release their women and children who had been captivated from the battlefield of Hunayn. Their request was granted by the Muslims.
+Though at first disarrayed at the sudden attack of Hawazin, the Muslim force recollected mainly at the effort of Prophet Muhammad ﷺ  , and ultimately defeated the Hawazin. The latter was pursued at various directions. After Malik bin 'Awf along with his men took shelter in the fort of Ta'if, the Muslim army besieged it which however yielded no significant result, compelling them to return Medina. Meanwhile, some newly converts from the Hawazin tribe came to prophet Muhammad ﷺ   and made a plea to release their women and children who had been captivated from the battlefield of Hunayn. Their request was granted by the Muslims.
 
-After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy of the Muslims was somewhat established throughout the Arabian peninsula. Various tribes started to send their representatives to express their loyalty to Muhammad. In the year 9 AH (630 CE), Zakat – which is the obligatory charity in Islam – was introduced and was accepted by most of the people. A few tribes initially refused to pay it, but gradually accepted.
+After the Mecca conquest and the victory at the Battle of Hunayn, the supremacy of the Muslims was somewhat established throughout the Arabian peninsula. Various tribes started to send their representatives to express their loyalty to the prophet ﷺ  . In the year 9 AH (630 CE), Zakat – which is the obligatory charity in Islam – was introduced and was accepted by most of the people. A few tribes initially refused to pay it, but gradually accepted.
 
 </details><details><summary>
-
-# PROOFREADINGPROOFREADINGPROOFREADING
 
 ## Tabuk
 
 </summary>
 
-The Expedition of Tabuk, also known as the Expedition of Usra, was a military expedition that was initiated by the Islamic prophet Muhammad in October 630 CE (AH 9). He led a force of as many as 30,000 north to Tabuk, near the Gulf of Aqaba, in present-day northwestern Saudi Arabia.
+The Expedition of Tabuk, also known as the Expedition of Usra, was a military expedition that was initiated by the Islamic prophet Muhammad ﷺ   in October 630 CE (AH 9). He led a force of as many as 30,000 north to Tabuk, near the Gulf of Aqaba, in present-day northwestern Saudi Arabia.
 
+> Prophet Muhammad ﷺ   and his forces marched northwards to Tabuk, near the Gulf of Aqaba in October 630 (Rajab AH 9). It was his largest and last military expedition. Ali ibn Abi Talib, who participated in several other expedition, did not participate in the Tabuk expedition upon prophet Muhammad's instructions, as he held command at Medina. After arriving at Tabuk and camping there, Muslim army prepared to face the Byzantine invasion. Prophet Muhammad ﷺ   spent twenty days at Tabuk, scouting the area, making alliances with local chiefs. With no sign of the Byzantine army, he decided to return to Medina. Though Prophet Muhammad ﷺ   did not encounter a Byzantine army at Tabuk, according to the Oxford Encyclopedia of the Islamic World, "this show of force demonstrated his intention to challenge the Byzantines for control of the northern part of the caravan route from Mecca to Syria".
+
+The battle of Mootah in which the Muslims were defeated, was fought in September 629. Their defeat was interpreted in many circles as a sign of decline in the power of the new Islamic State. The Arab freebooters must have found it very tempting to attack Medina after this fancied decline. But in the summer of 630, rumors were circulating in Medina that it were not the North Arabian tribes but the Roman troops which were massing at the Syrian frontier for an invasion of Hijaz.
+
+Prophet Muhammad ﷺ   decided to take preventive action for the defense of Medina, and ordered his followers to prepare themselves for a long campaign in the north.
+
+It was the month of September, and the weather in Hijaz that year was exceedingly hot. Furthermore, a protracted draught threatened the province with conditions of semi-famine. The response of the Muslims, therefore, to the call-up was very lukewarm. They did not wish to leave their homes at a time like this.
+
+The hypocrites in Medina seized this opportunity to plant disaffection in the minds of the neophytes in Islam. They not only did not take part in the campaign but also tried to dissuadeothers from doing so.
+
+In an attempt to undermine the will and purpose of the Muslims, they began to spread alarmist stories that the antagonists this time were not the poor, ill-equipped, backward and ignorant tribal levies which fought without order and without discipline but the Romans who were the most civilized and the most powerful nation in the world, and who, in effect, would exterminate them (the Muslims).
+
+Nevertheless, many Muslims responded to the appeal of the Prophet, and took up arms to defend the faith. When a head-count was taken, there were found to be 30,000 volunteers. It was the largest force ever assembled in Arabia until then.
+
+The Prophet appointed Ali ibn Abi Talib his viceroy in Medina during his own absence. He selected Ali to be his viceroy for the following reasons:
+
+For the hypocrites there was nothing more disagreeable than to see Ali in authority over them. When the army left Medina, they began to whisper that the Apostle had left Ali in Medina because he wanted to get rid of him.
+
+Ali was mortified to hear that his master had found him a “burden.” He, therefore, immediately went after the army and overtook it at Jorf. The Apostle was surprised to see him but when he (Ali) explained why he came, he (the Apostle) said:
+
+> “These people are liars. I left you in Medina to represent me in my absence. Are you not content to be to me what Aaron was to Moses except that there will not be any prophet after me.”
+
+After a laborious march the army arrived at the Syrian frontier, and halted at a hamlet called Tabuk but the Prophet could find no sign of the Roman army or of any other army or enemy. The frontier was peaceful and quiet. The reports he had heard in Medina about an imminent invasion by the Romans, were false.
+
+Peace and tranquillity on the Syrian frontier is another proof that the Romans considered the battle of Mootah as nothing more than a foray by a band of desert Arabs. If Mootah had been such a titanic battle as some Muslim historians claim it was, the Romans would have maintained their garrisons on the border. But they didn't maintain even pickets much less garrisons!
+
+The Messenger of God then pondered the next step to be taken in Tabuk.
+
+Calling a council of war, he (Mohammed) propounded thequestion whether or not to continue forward (from Tabuk). To this Omar replied drily: “If thou has the command of God to proceed further, do so.” “If I had the command of God to proceed further,” observed Mohammed, “I should not have asked thy counsel.” (The Life of Mohammed)
+
+Eventually, the Prophet decided not to advance into Syria but to return to Medina.
+
+The army spent ten days in Tabuk. Though it had not been engaged in any action, its presence at the frontier had some salutary effects. Many northern tribes of Bedouins accepted Islam. Dauma-tul-Jandal, a strategic post between Medina and Syria, was acquired as new territory.
+
+Just before the army left Tabuk, the monks of the monastery of St. Catherine in the valley of Sinai, came to see the Prophet. He gave them audience, and granted them a charter which is comparable to the Charter of Medina which he had granted to the Jews. Its main terms were:
+1. The Muslims would protect the churches and monasteries of the Christians. They would not demolish any church property either to build mosques or to build houses for the Muslims.
+2. All ecclesiastical property (of the Christians) would be exempt from every tax.
+3. No ecclesiastical authority would ever be forced by the Muslims to abandon his post.
+4. No Christian would ever be forced by the Muslims to become a convert to Islam.
+5. If a Christian woman marries a Muslim, she would have full freedom to follow her own religion.
+
+The army recuperated from the toil and fatigue of the long journey, and the Prophet gave it the signal to return home. He arrived in Medina after an absence of one month.
 
 </details>
 
 ### Last Years of The Prophet Muhammad ﷺ
 
+# PROOFREADINGPROOFREADINGPROOFREADING
+
 <details><summary>
 
-## **632**: Farewell Hajj Pilgrimage
+## 632: Farewell Hajj Pilgrimage
 
 </summary>
 
@@ -5697,7 +5739,7 @@ Next year, In 632 CE, Muhammad performed hajj and taught Muslims first-hand the 
 
 </details><details><summary>
 
-## **632**: Death of Prophet Muhammadﷺ
+## 632: Death of Prophet Muhammadﷺ
 
 </summary>
 
@@ -5721,7 +5763,7 @@ Soon after his return from the pilgrimage, Muhammad fell ill and suffered for se
 
 <details><summary>
 
-## **632-634**: Abu Bakr
+## 632-634: Abu Bakr
 
 </summary>
 
@@ -5780,7 +5822,7 @@ Abu Bakr was aware of Umar's power and ability to succeed him. His was perhaps o
 
 </details><details><summary>
 
-## **634-644**: Umar ibn al-Khattab
+## 634-644: Umar ibn al-Khattab
 
 </summary>
 
@@ -5934,7 +5976,7 @@ Umar died on 3 November 644; on 7 November Uthman succeeded him as caliph.
 
 </details><details><summary>
 
-## **644-656**: Uthman ibn Affan
+## 644-656: Uthman ibn Affan
 
 </summary>
 
@@ -6004,7 +6046,7 @@ In June 656, a group of rebels climbed from the back of Uthman's house, crept in
 
 </details><details><summary>
 
-## **656-661**: Ali ibn Abi Talib
+## 656-661: Ali ibn Abi Talib
 
 </summary>
 
@@ -6042,7 +6084,7 @@ According to Heck, Ali also forbade Muslim fighters from looting and instead dis
 
 </details><details><summary>
 
-## **661**: Hasan ibn Ali
+## 661: Hasan ibn Ali
 
 </summary>
 
@@ -6080,7 +6122,7 @@ They did not have buildings, they did not even have a government. They were neve
   
 </details><details><summary>
 
-## 661 - 680: Khalifate of Muawiyyah
+## 661-680: Khalifate of Muawiyyah
 
 </summary>
   
@@ -6125,7 +6167,7 @@ Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Hu
 </summary>
 </details><details><summary>
 
-## **603 - 680**: Abu Huraira 🐈 (603 - 680)
+## 603-680: Abu Huraira 🐈 (603 - 680)
 
 </summary>
 
@@ -6235,7 +6277,7 @@ The honorific title al-Imam al-A'zam ("the greatest leader") was granted to him 
 
 </details><details><summary>
 
-## **732**: Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations)
+## 732: Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations)
 
 </summary>
 </details><details><summary>
@@ -6268,11 +6310,15 @@ Peoplee who played a vast role in shaping of sciences during the Islamic Golden 
 
 paper production from China, translation of Ancient Greek philosophers' works and other, House of Wisdom in Baghdad,  
 
-</details><details>
-    <summary>Caliphate of Harun al-Rushdi</summary>
+</details><details><summary>
+
+### Caliphate of Harun al-Rushdi
+
+</summary>
+
 A great cultural renaissance in Baghdad and other cities of the empire. Besides patronizing scholarship, science and arts, the caliph also encourages the study of fiqh and the anthologization of ahadith which will enable the formation of a coherent body of Islamic law (Shariah).  
-</details><details>
-    <summary>711 - 795: imam Al-Malik ibn Anas</summary>
+
+</details><details><summary>711-795: imam Al-Malik ibn Anas</summary>
 Malik ibn Anas, founder of the Maliki school of jurisprudence.
 
 Reverently known as al-Imām Mālik (ٱلْإِمَام مَالِك) by Sunni Muslims, was an Arab Muslim jurist, theologian, and hadith traditionist. 
@@ -6304,8 +6350,7 @@ Malik considered following the sunnah of Muhammad to be of capital importance fo
 
 Malik is famous for declaring: "The shield of the 'alim is: 'I do not know.' If he neglects it, he will receive a mortal blow." Elsewhere, a certain Khālid ibn Khidāsh related: "I travelled all the way from Iraq to see Mālik about forty questions. He did not answer me except on five. Then he said: ʿIbn ʿIjlān used to say: If the 'alim bypasses 'I do not know,' he will receive a mortal blow." Likewise, al-Haytham ibn Jamīl said: "I saw Mālik ibn Anas being asked forty-eight questions, and he replied to thirty-two of them: 'I do not know.'" Later on, Malik's disciple, Ibn Wahb, related: "I heard ʿAbd Allāh ibn Yazīd ibn Hurmuz say: 'The 'ulema must instill in those who sit with him the phrase 'I do not know' until it becomes a foundational principle (asl) before them and they seek refuge in it from danger."
 
-</details><details>
-    <summary>Imam Al-Shafi'i (767 - 820)</summary>
+</details><details><summary>Imam Al-Shafi'i (767 - 820)</summary>
 
 Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī ( أَبُو عَبْدِ ٱللهِ مُحَمَّدُ بْنُ إِدْرِيسَ ٱلشَّافِعِيُّ, 767–19 January 820 CE) was an Arab Muslim theologian, writer, and scholar, who was the first contributor of the principles of Islamic jurisprudence (Uṣūl al-fiqh). Often referred to as 'Shaykh al-Islām', al-Shāfi‘ī was one of the four great Sunni Imams, whose legacy on juridical matters and teaching eventually led to the formation of Shafi'i school of fiqh (or Madh'hab). He was the most prominent student of Imam Malik ibn Anas, and he also served as the Governor of Najar. Born in Gaza in Palestine (Jund Filastin), he also lived in Mecca and Medina in the Hejaz, Yemen, Egypt, and Baghdad in Iraq.
 
@@ -6377,13 +6422,17 @@ He authored more than 100 books. But most them have not reached us. The extant w
 * Al sunan al Ma’thour
 * Jma’ al ilm
 
-</details><details>
-    <summary> Rabiah</summary>
-first great woman mystic  </details>
+</details><details><summary>
 
-<details><summary>
+## Rabiah
 
-## 780 - 855: Ahmad ibn Hanbal
+</summary>
+
+First great woman mystic. 
+
+</details><details><summary>
+
+## 780-855: Ahmad ibn Hanbal
 
 </summary>
 a hero of the ahl al-hadith
@@ -6422,8 +6471,11 @@ Ahmad ibn Hanbal favoured Ijtihad and rejected Taqlid; the practise of blind adh
 
 "I am amazed at those people who know that a Sanad (i.e. Chain of Transmission) is authentic and yet, in spite of this, they follow the opinion of Sufyan, for Allah (Glorified beHe), says: {And let those who oppose the Messenger's commandment (i.e. his Sunnah - legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them}. (An-Nur: 63) Do you know what that Fitnah is? That Fitnah is Shirk (polytheism). Maybe the rejection of some of his words would cause one to doubt and deviate in his heart and thereby be destroyed."
 
-</details><details>
-    <summary>Al-Bukhari (810 - 870)</summary>
+</details><details><summary>
+
+## Al-Bukhari (810-870)
+
+</summary>
 
 Muhammad ibn Isma'il ibn Ibrahim (محمد ابن اسماعيل ابن ابراهيم, ; 19 July 810 – 1 September 870), better known as al-Bukhari ( البخاری, ), commonly referred to as Imam al-Bukhari or Imam Bukhari, was a Persian Islamic scholar who was born in Bukhara (early Khorasan and present day Uzbekistan). He compiled the hadith collection known as Sahih al-Bukhari, regarded by Sunni Muslims as the most authentic (sahih) hadith collections. He also wrote other books such as Al-Adab al-Mufrad.
 
@@ -6431,30 +6483,58 @@ Muhammad ibn Ismaʿil al-Bukhari al-Juʿfi was born after the Jumu'ah prayer,13 
 
 His father, Ismail ibn Ibrahim, a scholar of hadith, was a student and associate of Malik ibn Anas. Some Iraqi scholars related hadith narrations from him.
 
-</details><details>
-    <summary>al-Tabari (839 - 923)</summary>
-Muhammad ibn Jarir ibn Yazid (Arabic: محمد ابن جرير ابن يزيد, romanized: Muḥammad ibn Jarīr ibn Yazīd; c. 839–923), more commonly known as al-Tabari (Arabic: الطبري, romanized: al-Ṭabarī), or alternatively as Abu Jafar (Arabic: أبو جعفر, romanized: Abū Jaʿfar), was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Qur'anic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine."
+</details><details><summary>
+
+## Al-Tabari (839-923)
+
+</summary>
+Muhammad ibn Jarir ibn Yazid ( محمد ابن جرير ابن يزيد, ), more commonly known as al-Tabari, or alternatively as Abu Jafar, was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Qur'anic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine."
 
 His most influential and best known works are his Qur'anic commentary, known in Arabic as Tafsir al-Tabari, and his historical chronicle History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk), often referred to Tarikh al-Tabari.
 
 Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed his own interpretation of Islamic jurisprudence. His understanding of fiqh was both sophisticated and remarkably fluid and, as such, he continued to develop his ideas and thoughts on juristic matters right to the end of his life. Al-Tabari's school of thought (madhhab) flourished among Sunni ulama for two centuries after his death, before it eventually became extinct. It was usually designated by the name Jariri. 
-</details><details>
-<summary>Yaqub ibn Ishaq al-Kindi, the first of the Muslim Faylasuf</summary>
 
-</details><details>
-    <summary>historian Abu Jafar al-Tabari</summary>
+</details><details><summary>
 
-</details><details>
-    <summary>Hasan al Ashari</summary>
+## Yaqub ibn Ishaq al-Kindi
 
-</details><details>
-    <summary>Ibn Hazm</summary>
+</summary>
+
+The first of the Muslim Faylasuf.
+
+</details><details><summary>
+
+## Historian Abu Jafar al-Tabari
+
+</summary>
+
+</details><details><summary>
+
+## Hasan Al-Ashari
+
+</summary>
+
+</details><details><summary>
+
+## Ibn Hazm
+
+</summary>
+
 poet, vizier, theologian
-</details><details>
-    <summary>Abu Nasr al-Farabi</summary>
-Faylasuf and court musician in Aleppo
-</details><details>
-    <summary>972: Fatimids build the madrasah of al-Azhar in Cairo</summary>
+
+</details><details><summary>
+
+## Abu Nasr al-Farabi
+
+</summary>
+
+Faylasuf and court musician in Aleppo.
+
+</details><details><summary>
+
+## 972: Fatimids build the madrasah of al-Azhar in Cairo
+
+</summary>
 
 The Al-Azhar University (جامعة الأزهر (الشريف), , "the University of (the honorable) Al-Azhar") is a public university in Cairo, Egypt. Associated with Al-Azhar Mosque in Islamic Cairo, it is Egypt's oldest degree-granting university – and the world's second oldest degree granting university – and is renowned as the most prestigious university for Islamic learning. In addition to higher education, Al-Azhar oversees a national network of schools with approximately two million students. As of 1996, over 4,000 teaching institutes in Egypt were affiliated with the university.
 
@@ -6474,7 +6554,11 @@ In the 12th century, following the overthrow of the Isma'ili Fatimid dynasty, Sa
 
 Saladin introduced the college system in Egypt, which was also adopted in Al-Azhar. Under this system, the college was a separate institution within the mosque compound, with its own classrooms, dormitories and a library.
 
-</details><details><summary>980 - 1037 ibn Sina (Avicenna)</summary>
+</details><details><summary>
+
+## 980-1037 ibn Sina (Avicenna)
+
+</summary>
 
 Ibn Sina (Persian: ابن سینا; 980 – June 1037 CE), commonly known in the West as Avicenna (/ˌævɪˈsɛnə, ˌɑːvɪ-/), was a Persian polymath who is regarded as one of the most significant physicians, astronomers, philosophers, and writers of the Islamic Golden Age, and the father of early modern medicine.Sajjad H. Rizvi has called Avicenna "arguably the most influential philosopher of the pre-modern era". He was a Muslim Peripatetic philosopher influenced by Greek Aristotelian philosophy. Of the 450 works he is believed to have written, around 240 have survived, including 150 on philosophy and 40 on medicine.
 
@@ -6563,25 +6647,25 @@ Along with Rhazes, Abulcasis, Ibn al-Nafis and al-Ibadi, Avicenna is considered 
 
 </details><details><summary>
 
-## 922 - Volga Bulgaria adopts Islams
+## 922: Volga Bulgaria adopts Islams
 
 </summary>
 
 </details><details><summary>
 
-## 990 - 1118 The Seljuk Empire
+## 990-1118: The Seljuk Empire
 
 </summary>
 
 </details><details><summary>
 
-## 990: The Seljuk Turkish family from Central Asia convert to Islam
+## 990: The Seljuk Turkish family from Central Asia converts to Islam
 
 </summary>
 
 </details><details><summary>
 
-## 1065 - 1067: The Nizamiyyah madrasah is built in Baghdad
+## 1065-1067: The Nizamiyyah madrasah is built in Baghdad
 
 </summary>
 
@@ -6591,10 +6675,10 @@ One of his most important legacies was founding madrasa in cities throughout the
 
 </details><details><summary>
 
-## 1058-1111 Imam Al-Ghazali
+## 1058-1111: Imam Al-Ghazali
 
 </summary> 
-Al-Ghazali was a Persian polymath. He is known as one of the most prominent and influential philosophers, theologians, jurists, logicians and mystics of Islam.
+Abu Hamid Al-Ghazali was a Persian polymath. He is known as one of the most prominent and influential philosophers, theologians, jurists, logicians and mystics of Islam.
 
 He is considered to be the 5th century's Mujaddid, a renewer of the faith, who, according to the prophetic hadith, appears once every 100 years to restore the faith of the Islamic Community. His works were so highly acclaimed by his contemporaries that al-Ghazali was awarded the honorific title "Proof of Islam" (Ḥujjat al-Islām).
 
@@ -6882,7 +6966,11 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 # 11. Current State of the Islamic World
 *******************************************
 
-<details><summary>Islamic Countries</summary>
+<details><summary>
+
+## Islamic Countries
+
+</summary>
 
 This must be derived into a separate article. 
 
@@ -7035,14 +7123,11 @@ Events that are yet to happen:
 * The blowing in the Trumpet by the Angel Israfil, upon which everyone will faint except as Allah wills (Sahih Muslim, Book 041: 7023)
 * The second blowing in the Trumpet, upon which everyone will be resurrected (Sahih Muslim, Book 041: 7023)
 
-
 the moaques will become palaces
 
 just find the hadith that mentions 10 signs
 
 increase of riba ,  noone will be able to escape the dust of it
-
-
 
 </details>
 
@@ -7455,11 +7540,10 @@ People will run around and they will not care about their brothers, wives or rel
 
 And then will be the intercession of prophet Muhammad SAW.
 
-There wil be intercession of some people if Allah gives permission. Allah will allow children who died during childhood to intercede on behalf of their parents. There is no guarantee that their shafa'a will be accepted. If Allah allows, their shafa'ah will be accepted. 
+There wil be intercession of some people if Allah gives permission. Allah will allow children who died during childhood to intercede on behalf of their parents. There is no guarantee that their shafa'a will be accepted. If Allah allows, their shafa'ah will be accepted.
+
 At the time of panic, Allah will honor some people to speak and to intercede.
 The higher their iman, the more people will be allowed for them to intercede.
-
-
 
 </details><details><summary>
 
