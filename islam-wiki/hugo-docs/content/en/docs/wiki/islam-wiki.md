@@ -5727,23 +5727,98 @@ The army recuperated from the toil and fatigue of the long journey, and the Prop
 
 <details><summary>
 
+## The Year of Delegations
+
+</summary>
+
+During the last ten years of his life, the Prophet of Islam had organized eighty expeditions which left Medina on various missions – some warlike and others peaceful. Ali's expedition to Yemen is of especial interest because it was the last of them all. No other expedition left Medina in the lifetime of the Prophet.
+
+The year 10 A.H. (A.D. 631) is called the Year of the Delegations. Many Arab tribes sent delegations to Medina both to accept Islam, and to give Muhammad Mustafa their pledge of allegiance as their temporal sovereign.
+
+In year one of Hijri (A.D. 622) Medina had the status of a city-state but within ten years it had burgeoned into the capital of a “national” state. The whole peninsula had acknowledged its spiritual and temporal authority. Muhammad Mustafa, may God bless him and his house, had established internal peace in the whole country, and had taken effective steps to safeguard the “national” interests of the Muslim umma. There was no threat to the security of the Islamic State from any external aggression.
+
+The Jews and the Christians were paying taxes or tribute (Jizya). They were enjoying all the rights of citizenship of the Islamic State, and they were enjoying full religious freedom. The Arabs, most of them now converted to Islam, were on the eve of a vigorous “national” renaissance. These were only a few of the countless blessings that Islam had brought to the Arabian pennsula.
+
+</details><details><summary>
+
 ## 632: Farewell Hajj Pilgrimage
 
 </summary>
 
-This is the only Hajj pilgrimage in which prophet Muhammadﷺ   articipates.
+This is the only Hajj pilgrimage in which prophet Muhammad ﷺ   participates.
 
-In 631 CE, during the Hajj season, Muhammad appointed Abu Bakr to lead 300 Muslims to the pilgrimage in Mecca. As per old custom, many pagans from other parts of Arabia came to Mecca to perform pilgrimage in pre-Islamic manner. Ali, at the direction of Muhammad, delivered a sermon stipulating the new rites of Hajj and abrogating the pagan rites. He especially declared that no unbeliever, pagan, and naked man would be allowed to circumambulate the Kaaba from the next year. After this declaration was made, a vast number of people of Bahrain, Yemen, and Yamama, who included both the pagans and the people of the book, gradually embraced Islam. 
+In 631 CE, during the Hajj season, prophet Muhammad ﷺ   appointed Abu Bakr to lead 300 Muslims to the pilgrimage in Mecca. As per old custom, many pagans from other parts of Arabia came to Mecca to perform pilgrimage in pre-Islamic manner. Ali, at the direction of prophet Muhammad ﷺ  , delivered a sermon stipulating the new rites of Hajj and abrogating the pagan rites. He especially declared that no unbeliever, pagan, and naked man would be allowed to circumambulate the Kaaba from the next year. After this declaration was made, a vast number of people of Bahrain, Yemen, and Yamama, who included both the pagans and the people of the book, gradually embraced Islam. 
 
-Next year, In 632 CE, Muhammad performed hajj and taught Muslims first-hand the various rites of Hajj. On the 9th of Dhu al-Hijjah, from Mount Arafat, he delivered his Farewell Sermon in which he abolished old blood feuds and disputes based on the former tribal system, repudiated racial discrimination, and advised people to "be good to women". According to Sunni tafsir, the following Quranic verse was delivered during this event: "Today I have perfected your religion, and completed my favours for you and chosen Islam as a religion for you" (Quran 5:3).
+Next year, In 632 CE, prophet Muhammad ﷺ   performed hajj and taught Muslims first-hand the various rites of Hajj. On the 9th of Dhu al-Hijjah, from Mount Arafat, he delivered his Farewell Sermon in which he abolished old blood feuds and disputes based on the former tribal system, repudiated racial discrimination, and advised people to "be good to women". According to Sunni tafsir, the following Quranic verse was delivered during this event: "Today I have perfected your religion, and completed my favours for you and chosen Islam as a religion for you" (Quran 5:3).
 
+In dhul-qidah, (the 11th month of the islamic calendar) of the year 10 A.H., Muhammad Mustafa, the Messenger of God, announced that he would visit Makkah to perform Hajj. The news spread in the country and an immense number of Muslims gathered in Medina to accompany him to Makkah. Their numbers are estimated at more than 100,000.
+
+Before his departure, he appointed Abu Dujana Ansari as governor of Medina during his own absence. On the 25th of Dhul-Qidah, he left Medina, accompanied by all his wives.
+
+The Muslims observed every move, every act, and every gesture of the Prophet on this occasion, and everything that he did, became a precedent for all time, to be imitated by all Muslims.
+
+After the fall of Mecca, Muhammad performed (for the second time since his Emigration) the rite of the Umra, the ritual processions around the Kaaba, and the journeys between Safa and Marwa (400 yards apart). But he had not participated in the Hajj...He may have had some idea of depaganizing the Hajj.
+
+After the capture of Mecca, in the following Dhu'l-Hijja, Attab, the governor whom Muhammad had installed in Mecca, conducted the ceremony; both Muslims and pagans took part.
+
+The following year, Dhu'l-Hijja of the year 9 (March-April 631), Muhammad still hung back from joining the Hajj. He had not yet finalized his teaching on every detail of the pilgrimage and was unwilling to perform the rites in company with pagans. He sent Abu Bakr to preside over the ceremonies. He was overtaken on the way by Ali, who was the bearer of a brand new revelation from on high which it was his business to see implemented.
+
+Pagans generally were to take no further part in the pilgrimage. On the expiry of the sacred truce of four months, all who had not been converted or made a special agreement with Muhammad, would be dealt with as enemies. This was the last year that pagans were permitted to join the Hajj.
+
+One year later, in Dhu'l-Hajj of the year 10 (March 632), the Prophet announced that he would personally conduct the ceremony, now that the temple and shrines were purified of all pagan presence. He reached Mecca on 5 Dhu'l-Hajj (3rd March). On 8 Dhu'l-Hijja, the ceremonies began. All eyes were fixed on the Prophet because his behavior during the rites would become law.
+
+### Farewell Speech
+
+This sermon was delivered on the Ninth day of Dhul-Hijjah, 10 A.H. ( 623AD) in the Uranah valley of Mount Arafat in Mecca. It was the occasion of annual rites of Haj. It is also known as the Farewell Pilgrimage.
+ 
+After praising and thanking Allah the Prophet (p.b.u.h.) began with the words:
+ 
+> "O People! Lend me an attentive ear, for I know not whether after this year I shall ever be amongst you again. Therefore, listen carefully to what I am saying and take these words to those who could not be present here today."
+>
+> "O People! just as you regard this month, this day ,this city as sacred ,so regard the life and property of every Muslim a sacred trust. Return the goods entrusted to you to their rightful owners. Hurt no one so that no one may hurt you. Remember that you will indeed meet your Lord, and that he will indeed reckon your deeds."
+>
+> "Allah has forbidden you to take usury, therefore all interest obligation shall henceforth be waived. Your capital is yours to keep .You will neither inflict nor suffer any inequality. Allah has judged that there shall be no interest and that all interest due to Abbas Ibn 'Aal-Muttalib be waived."
+> 
+> "Every right arising out of homicide in pre-Islamic days is henceforth waived and the first such right that I waive is that arising from the murder of Rabiah ibni al-Harithiah."
+>
+> "O men! the unbelievers indulge in tampering with the calendar in order to make permissible that which Allah forbade, and to prohibit what Allah has made permissible. With Allah the months are twelve in number. Four of them are holy, there are sucessive and one occurs singly between the months of Jumada and Shaban."
+>
+> "Beware of Satan, for the safety of your religion. He has lost all hope that he will be able to lead you astray in big things so beware of following him in small things."
+> 
+> "O People it is true that you have certain rights with regard to your women but they also have rights over you. Remember that you have taken them as your wives only under Allah's trust and with His permission. If they abide by your right then to them belongs the right to be fed and clothed in kindness. Do treat your women well and be kind to them for they are your partners and committed helpers. And it is your right that they do not make friends with any one of whom you do not approve, as well never to be unchaste."
+>
+> "O People! listen to me in earnest, worship Allah, say your five daily prayers, fast during month of Ramadan, and give your wealth in Zakat .Perform Haj if you can afford it."
+>
+> "All mankind is from Adam and Eve, an Arab has no superiority over a non-Arab nor a non-Arab has any superiority over an Arab; also a White has no superiority over a Black nor a Black has any superiority over a White except by piety and good action. Learn that every Muslim is a brother to every Muslim and that the Muslims constitute one brotherhood. Nothing shall be legitimate to a Muslim which belongs to a fellow Muslim unless it was given freely and willingly."
+>
+> "Do not therefore do injustice to yourselves. Remember one day you will meet Allah and answer your deeds. So beware, do not astray from the path of righteousness after I am gone."
+>
+> "O People! No Prophet or apostle will come after me and no new faith will be born. Reason well, therefore O People! and understand words that I convey to you. I leave behind me two things, the Quran and the Sunnah and if you follow these you will never go astray."
+>
+> "All those who listen to me shall pass on my words to others and those to others again; and may the last ones understand my words better than those who listen to me directly."
+>
+> "O Allah, be my witness, that I have conveyed your message to Your people."
+> 
+As part of this sermon, the prophet recited to them a revelation from Allah, which he had just received, and which completed the Quran, for it was the last passage to be revealed:
+
+    This day the disbeliever's despair of prevailing against your religion, so fear them not, but fear Me (Allah)! This day have I perfected for you, your religion and fulfilled My favor unto you, and it hath been My good pleasure to choose Islam for you as your religion. 
+    Quran, Surah 5, Ayah 3
+
+> The sermon was repeated sentence by sentence by Safwan's brother Rabiah (RA), who had powerful voice, at the request of the Prophet and he faithfully, proclaimed to over ten thousand gathered on the occasion. Towards the end of his sermon, the Prophet asked "O people, have I faithfully delivered unto you my message?" A powerful murmur of assents "O Allah! yes!" arose from thousands of pilgrims and the vibrant words "Allahumma Na'm," rolled like thunder throughout the valley. 
+
+The Prophet raised his forefinger and said: `"O Allah bear witness that I have conveyed your message to your people."`
+ 
 </details><details><summary>
 
 ## 632: Death of Prophet Muhammadﷺ
 
 </summary>
 
-Soon after his return from the pilgrimage, Muhammad fell ill and suffered for several days with fever, head pain, and weakness. He was confined to bed by Abu Bakr. During his illness, he appointed Abu Bakr to lead the prayers in the mosque. He ordered to donate the last remaining coins in his house as charity. He died on June 8 632, in Medina, at the age of 62 or 63, in the house of his wife Aisha.
+Soon after his return from the pilgrimage, prophet Muhammad ﷺ   fell ill and suffered for several days with fever, head pain, and weakness. He was confined to bed by Abu Bakr. During his illness, he appointed Abu Bakr to lead the prayers in the mosque. He ordered to donate the last remaining coins in his house as charity. He died on June 8 632, in Medina, at the age of 62 or 63, in the house of his wife Aisha.
+
+Narrated Al-Qasim bin Muhammad:
+
+> Aisha, (complaining of headache) said, "Oh, my head"! Allah's Messenger (ﷺ) said, "If it happens while I am still living (i.e. if you pass away during my lifetime) then I would ask Allah's Forgiveness for you and pray for you." Aisha said, "Wa thuklayah! By Allah, I think you want me to die; and If this should happen, you would spend the last part of the day as a groom with one of your wives!" The Prophetﷺ   said, "Nay, I should say, 'Oh my head!' I felt like sending someone to call Abu Bakr and his son, and appoint him as my successor lest some people claimed something or some others wished something, but then I said (to myself), 'Allah would not allow it to be otherwise, and the Muslims would prevent it to be otherwise"."
 
 </details>
 
