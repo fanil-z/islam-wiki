@@ -5777,7 +5777,7 @@ After praising and thanking Allah the Prophet (p.b.u.h.) began with the words:
 >
 > "O People! just as you regard this month, this day ,this city as sacred ,so regard the life and property of every Muslim a sacred trust. Return the goods entrusted to you to their rightful owners. Hurt no one so that no one may hurt you. Remember that you will indeed meet your Lord, and that he will indeed reckon your deeds."
 >
-> "Allah has forbidden you to take usury, therefore all interest obligation shall henceforth be waived. Your capital is yours to keep .You will neither inflict nor suffer any inequality. Allah has judged that there shall be no interest and that all interest due to Abbas Ibn 'Aal-Muttalib be waived."
+> "Allah has forbidden you to take usury, therefore all interest obligation shall henceforth be waived. Your capital is yours to keep. You will neither inflict nor suffer any inequality. Allah has judged that there shall be no interest and that all interest due to Abbas Ibn 'Aal-Muttalib be waived."
 > 
 > "Every right arising out of homicide in pre-Islamic days is henceforth waived and the first such right that I waive is that arising from the murder of Rabiah ibni al-Harithiah."
 >
@@ -5787,7 +5787,7 @@ After praising and thanking Allah the Prophet (p.b.u.h.) began with the words:
 > 
 > "O People it is true that you have certain rights with regard to your women but they also have rights over you. Remember that you have taken them as your wives only under Allah's trust and with His permission. If they abide by your right then to them belongs the right to be fed and clothed in kindness. Do treat your women well and be kind to them for they are your partners and committed helpers. And it is your right that they do not make friends with any one of whom you do not approve, as well never to be unchaste."
 >
-> "O People! listen to me in earnest, worship Allah, say your five daily prayers, fast during month of Ramadan, and give your wealth in Zakat .Perform Haj if you can afford it."
+> "O People! listen to me in earnest, worship Allah, say your five daily prayers, fast during month of Ramadan, and give your wealth in Zakat. Perform Hajj if you can afford it."
 >
 > "All mankind is from Adam and Eve, an Arab has no superiority over a non-Arab nor a non-Arab has any superiority over an Arab; also a White has no superiority over a Black nor a Black has any superiority over a White except by piety and good action. Learn that every Muslim is a brother to every Muslim and that the Muslims constitute one brotherhood. Nothing shall be legitimate to a Muslim which belongs to a fellow Muslim unless it was given freely and willingly."
 >
@@ -5810,15 +5810,53 @@ The Prophet raised his forefinger and said: `"O Allah bear witness that I have c
  
 </details><details><summary>
 
-## 632: Death of Prophet Muhammadﷺ
+## 632: Death of Prophet Muhammad ﷺ
 
 </summary>
 
-Soon after his return from the pilgrimage, prophet Muhammad ﷺ   fell ill and suffered for several days with fever, head pain, and weakness. He was confined to bed by Abu Bakr. During his illness, he appointed Abu Bakr to lead the prayers in the mosque. He ordered to donate the last remaining coins in his house as charity. He died on June 8 632, in Medina, at the age of 62 or 63, in the house of his wife Aisha.
+Soon after his return from the pilgrimage, prophet Muhammad ﷺ   fell ill and suffered for several days with fever, head pain, and                         dweakness. He was confined to bed by Abu Bakr. During his illness, he appointed Abu Bakr to lead the prayers in the mosque. He ordered to donate the last remaining coins in his house as charity. He died on June 8 632, in Medina, at the age of 62 or 63, in the house of his wife Aisha.
+
+The health of the Prophet grew worse. His last days were remarkable for the calmness and serenity of his mind. He was able, though weak and feeble, to lead the public prayers until within three days of his death. He requested that he might be permitted to stay at Aisha's house close to the mosque during his illness, an arrangement to which his other wives assented. As long as his strength lasted, he took part in the public prayers. The last time he appeared in the mosque he addressed the congregation, after the usual prayers were over, in the following words: "0 Muslims, if I have wronged anyone of you, here I am to answer for it; if I owe anything to anyone, all I may happen to possess belongs to you." A man in the crowd rose and claimed three dirhams which he had given to a poor man at the request of the Prophet. They were immediately paid back with these words: "Better to blush in this world than in the next."
+
+The Prophet then prayed and implored Allah's mercy for those who had fallen in the persecution of their enemies. He recommended to all his followers the observance of religious duties and the leading of a life of peace and goodwill. Then he spoke with emotion and with a voice still so powerful as to reach beyond the outer doors of the mosque: "By the Lord in Whose hand lies the soul of Muhammad as to myself, no man can lay hold on me in any matter; I have not made lawful anything excepting what Allah has made lawful; nor have I prohibited anything but that which Allah in His Book has prohibited."
+
+Then turning to the women who sat close by, he exclaimed: "0 Fatimah, my daughter, and Safia, my aunt, work you both that which will procure your acceptance with the Lord, for verily I have no power to save you in any wise." He then rose and re-entered the house of Aisha.
 
 Narrated Al-Qasim bin Muhammad:
 
 > Aisha, (complaining of headache) said, "Oh, my head"! Allah's Messenger (ﷺ) said, "If it happens while I am still living (i.e. if you pass away during my lifetime) then I would ask Allah's Forgiveness for you and pray for you." Aisha said, "Wa thuklayah! By Allah, I think you want me to die; and If this should happen, you would spend the last part of the day as a groom with one of your wives!" The Prophetﷺ   said, "Nay, I should say, 'Oh my head!' I felt like sending someone to call Abu Bakr and his son, and appoint him as my successor lest some people claimed something or some others wished something, but then I said (to myself), 'Allah would not allow it to be otherwise, and the Muslims would prevent it to be otherwise"."
+
+### False Prophets
+
+A force was now being prepared under Usama, Ibn Zaid, whose father was killed at Muta, against the Byzantines, to exact the long-delayed reparation for the murder of the envoy to Syria. However, the news of the Prophet's sickness and failing health caused that expedition to be stopped. This news was soon noised abroad and produced disorder in some districts. Three pretenders had arisen who gave themselves out as prophets and tried by all kinds of imposture to win over their tribes. The most dangerous of these pretenders was known as Al Aswad. He was a chief of Yemen and a man of great wealth and sagacity, as well as a clever conjurer. He soon succeeded in gaining over his tribesmen and, with their help, reduced to subjection many of the neighboring towns. He killed Shahr, whom the Prophet had appointed as Governor of Sana in the place of his father Bazan, who had just died. Bazan had been the viceroy of Yemen under Chosroes of Persia; after he had adopted Islam he was allowed by the Prophet to remain as Governor of Yemen. He was able to convert to Islam all the Persian colony in that province. Al-Aswad, the conjurer, had now killed Shahr, but soon after he was massacred by the Persians of Yemen.
+
+The other two pretenders, Tulayha and Haroun by name, were not suppressed until after the death of the Prophet, during the reign of Abu Bakr. Haroun, better known as Mussaylamah, addressed to the Prophet a letter which ran as follows: "From Mussaylamah the Prophet of Allah, to Muhammad the Prophet of Allah. Peace be to you. I am your partner. Let the exercise of authority be divided between us. Half the earth will be mine, and half will belong to your Quraish. But the Quraish are too greedy to be satisfied with a just division." To this letter the Prophet replied as follows: "From Muhammad the Messenger of Allah, to Mussaylamah the liar. Peace be to those who follow the right path. The earth belongs to Allah. It is He Who makes to reign whomsoever He pleases. Only those will prosper who fear the Lord."
+
+### Burial of the Prophet
+
+Al-Abbas, the Prophet's uncle, presided at the preparation for the burial, and the body was duly washed and perfumed.
+
+There was some dispute between the Quraish and the Ansars as to the place of burial; however, Abu Bakr settled the dispute by affirming that he had heard the Prophet say that a prophet should be buried at the very spot where he died. A grave was accordingly dug in the ground within the house of Aisha and under the bed on which the Prophet died. In this grave the body was buried, and the usual rites were performed by those who were present.
+
+Thus ended the glorious life of the Prophet Muhammad ﷺ  . May the peace and blessings of Allah be upon him.
+
+### Speech of Abu Bakr 
+
+A few hours after he returned from the mosque, the Prophet died while laying his head on the bosom of Aisha. As soon as the Prophet's death was announced, a crowd of people gathered at the door of the house of Aisha, exclaiming: "How can our messenger be dead?" Umar said: "No, he is not dead; he will be restored to us, and those are traitors to the cause of Islam who say he is dead. If they say so let them be cut in pieces."
+
+But Abu Bakr entered the house at this moment, and after he had touched the body of the Prophet with a demonstration of profound affection, he appeared at the door and addressed the crowd with the following speech:
+
+When Prophet Muhammad passed away the Muslims were devastated, some even refused to accept that the Prophet had died. Their hearts were broken. 
+
+Although overwhelmed by grief, Abu Bakr addressed the people, he praised and glorified God and said, “Whoever worshipped Muhammad should know that Muhammad is dead, but whoever worshipped God, then God is Ever-living and shall never die.” He then recited verses from the Qur’an.
+
+    "(O Muhammad) Verily you will die, and they also will die."
+    Qur’an 39:30
+
+    "Muhammad is no more than a Messenger, and indeed (many) Messengers have passed away before him. If he dies or is killed, will you then turn back on your heels (as disbelievers)? And he who turns back on his heels, not the least harm will he do to God, and God will give reward to those who are grateful." 
+    Qur’an 3:144
+
+During this great crisis, the devastated Muslims chose Abu Bakr as their leader. 
 
 </details>
 
@@ -5835,14 +5873,15 @@ Narrated Al-Qasim bin Muhammad:
 </figure>-->
 
 <img src="/early_islamic_expansion.png" alt="Early Expansion"> 
-
+<small> Early Islamic Expansion (622-850)</small>
+ 
 <details><summary>
 
 ## 632-634: Abu Bakr
 
 </summary>
 
-After Prophet Muhammadﷺ   died, Abu Bakr is elected as his khalifah (representative).
+After Prophet Muhammad ﷺ   dies, Abu Bakr is elected as his khalifah (representative).
 
 Abu Bakr (أبو بكر,, 573 – 23 August 634) was the founder and first caliph of the Rashidun Caliphate ruling from June 632 until his death. He was the most prominent companion, closest advisor and a father-in-law of the Islamic prophet Muhammad (c. 570–632).
 
