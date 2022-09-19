@@ -5979,21 +5979,21 @@ Burial. According to the will of Abu Bakr, his dead body was prepared for burial
 
 </summary>
 
+During the khaliphate of Umar: 
 * The Muslim armies conquer Iraq, Syria and Egypt.
-* Khaled ibn al-Waalid
 * 638 Muslims conquer Jerusalem, which becomes the third holiest city in the Islamic world after Mecca and Medina.
 * 641 Muslims control Syria, Palestine and Egypt. They have defeated the Persian Empire. The garrison towns of Kufah, Basrah, Fustat are built to house the Muslim troops.
 * 644 Khalif Umar is assassinated by a Persian prisoner of war. Uthman ibn Affan is elected the third caliph.
 
-Umar ibn al-Khaṭṭāb (عمر بن الخطاب, also spelled Omar, c. 583/584 – 644) was the second Rashidun caliph, ruling from August 634 until his assassination in 644. He succeeded Abu Bakr (r. 632–634) as the second caliph of the Rashidun Caliphate on 23 August 634. Umar was a senior companion and father-in-law of the Islamic prophet Muhammad. He was also an expert Muslim jurist known for his pious and just nature, which earned him the epithet al-Farooq ("the one who distinguishes (between right and wrong)").
+Umar ibn al-Khaṭṭāb (عمر بن الخطاب, also spelled Omar, c. 583/584 – 644) was the second Rashidun caliph, ruling from August 634 until his assassination in 644. He succeeded Abu Bakr (r. 632–634) as the second caliph of the Rashidun Caliphate on 23 August 634. Umar was a senior companion and father-in-law of the Islamic prophet Muhammad. He was also an expert Muslim jurist known for his pious and just nature.
 
-Umar initially opposed Muhammad, his distant Qurayshite kinsman and later son-in-law. Following his conversion to Islam in 616, he became the first Muslim to openly pray at the Kaaba. Umar participated in almost all battles and expeditions under Muhammad, who bestowed the title al-Faruq ('the Distinguisher') upon Umar, for his judgements. After Muhammad's death in June 632, Umar pledged allegiance to Abu Bakr (r. 632–634) as the first caliph and served as the closest adviser to the latter until August 634, when the dying Abu Bakr nominated Umar as his successor.
+Umar initially opposed Muhammad, his distant Qurayshite kinsman and later son-in-law. Following his conversion to Islam in 616, he became the first Muslim to openly pray at the Kaaba. Umar participated in almost all battles and expeditions under Muhammad, who bestowed the title al-Faruq ('the one who distinguishes (between right and wrong') upon Umar, for his judgements. After Muhammad's death in June 632, Umar pledged allegiance to Abu Bakr (r. 632–634) as the first caliph and served as the closest adviser to the latter until August 634, when the dying Abu Bakr nominated Umar as his successor.
 
 Under Umar, the caliphate expanded at an unprecedented rate, ruling the Sasanian Empire and more than two-thirds of the Byzantine Empire. His attacks against the Sasanian Empire resulted in the conquest of Persia in less than two years (642–644). According to Jewish tradition, Umar set aside the Christian ban on Jews and allowed them into Jerusalem and to worship. Umar was assassinated by the Persian slave Abu Lu'lu'a Firuz in 644.
 
 Umar is generally viewed by historians to be one of the most powerful and influential Muslim caliphs in history. He is revered in the Sunni Islamic tradition as a great just ruler and paragon of Islamic virtues, and some hadiths identify him as the second greatest of the Sahabah after Abu Bakr.
 
-#### Initial challenges
+### Initial challenges
 
 Even though almost all of the Muslims had given their pledge of loyalty to Umar, he was feared more than loved. According to Muhammad Husayn Haykal, the first challenge for Umar was to win over his subjects and the members of Majlis al Shura.
 
@@ -6001,18 +6001,17 @@ Umar was a gifted orator, and he used his ability to improve his reputation amon
 
 Muhammad Husayn Haykal wrote that Umar's stress was on the well-being of the poor and underprivileged. In addition to this, Umar, in order to improve his reputation and relation with the Banu Hashim, the tribe of Ali, delivered to the latter his disputed estates in Khaybar. He followed Abu Bakr's decision over the disputed land of Fidak, continuing to treat it as state property. In the Ridda wars, thousands of prisoners from rebel and apostate tribes were taken away as slaves during the expeditions. Umar ordered a general amnesty for the prisoners, and their immediate emancipation. This made Umar quite popular among the Bedouin tribes. With the necessary public support on his side, Umar took the bold decision of recalling Khalid ibn Walid from supreme command on the Roman front.
 
-#### Political and Civil Administration
+### Political and Civil Administration
 
 The government of Umar was a unitary government, where the sovereign political authority was the caliph. The empire of Umar was divided into provinces and some autonomous territories, e.g., Azerbaijan and Armenia, that had accepted the suzerainty of the caliphate. The provinces were administered by the provincial governors or Wali, personally and fastidiously selected by Umar. Provinces were further divided into about 100 districts. Each district or main city was under the charge of a junior governor or Amir, usually appointed by Umar himself, but occasionally also appointed by the provincial governor. Other officers at the provincial level were:
+* Katib, the Chief Secretary
+* Katib-ud-Diwan, the Military Secretary
+* Sahib-ul-Kharaj, the Revenue Collector
+* Sahib-ul-Ahdath, the Police chief
+* Sahib-Bait-ul-Mal, the Treasury Officer
+* Qadi, the Chief Judge
 
-* Katib, the Chief Secretary.
-* Katib-ud-Diwan, the Military Secretary.
-* Sahib-ul-Kharaj, the Revenue Collector.
-* Sahib-ul-Ahdath, the Police chief.
-* Sahib-Bait-ul-Mal, the Treasury Officer.
-* Qadi, the Chief Judge.
-
-In some districts there were separate military officers, though the Wali was, in most cases, the Commander-in-chief of the army quartered in the province.
+In some districts, there were separate military officers, though the Wali was, in most cases, the Commander-in-chief of the army quartered in the province.
 
 Every appointment was made in writing. At the time of appointment an instrument of instructions was issued with a view to regulating the Wali's conduct. On assuming office, the Wali was required to assemble the people in the main mosque, and read the instrument of instructions before them.
 
@@ -6020,15 +6019,14 @@ Umar's general instructions to his officers were:
 
 > Remember, I have not appointed you as commanders and tyrants over the people. I have sent you as leaders instead, so that the people may follow your example. Give the Muslims their rights and do not beat them lest they become abused. Do not praise them unduly, lest they fall into the error of conceit. Do not keep your doors shut in their faces, lest the more powerful of them eat up the weaker ones. And do not behave as if you were superior to them, for that is tyranny over them.
 
-Various other strict codes of conduct were to be obeyed by the governors and state officials. The principal officers were required to travel to Mecca on the occasion of the Hajj, during which people were free to present any complaint against them. In order to minimize the chances of corruption, Umar made it a point to pay high salaries to the staff. Provincial governors received as much as five to seven thousand dirham annually besides their shares of the spoils of war (if they were also the commander in chief of the army of their sector). Under Umar the empire was divided into the following provinces:
-
+Various other strict codes of conduct were to be obeyed by the governors and state officials. The principal officers were required to travel to Mecca on the occasion of the Hajj, during which people were free to present any complaint against them. In order to minimize the chances of corruption, Umar made it a point to pay high salaries to the staff. Provincial governors received as much as five to seven thousand dirham annually besides their shares of the spoils of war (if they were also the commander in chief of the army of their sector). Under Umar, the empire was divided into the following provinces:
 * Mecca (Arabia)
 * Medina (Arabia)
 * Basra (Iraq)
 * Kufa (Iraq)
 * Jazira, in the upper reaches of the Tigris and Euphrates
 * Syria
-* Iliyā' (إلياء) (Palestine)
+* Iliyā' (Palestine)
 * Ramlah (Palestine)
 * Upper Egypt
 * Lower Egypt
@@ -6036,7 +6034,7 @@ Various other strict codes of conduct were to be obeyed by the governors and sta
 * Azerbaijan (Persia)
 * Fars (Persia)
 
-Umar was first to establish a special department for the investigation of complaints against the officers of the State. This department acted as the Administrative court, where the legal proceedings were personally led by Umar. The department was under the charge of Muhammad ibn Maslamah, one of Umar's most trusted men. In important cases Muhammad ibn Maslamah was deputed by Umar to proceed to the spot, investigate the charge and take action. Sometimes an Inquiry Commission was constituted to investigate the charge. On occasion, the officers against whom complaints were received were summoned to Medina, and charged in Umar's administrative court. Umar was known for this intelligence service through which he made his officials accountable. This service was also said to have inspired fear in his subjects.
+Umar was first to establish a special department for the investigation of complaints against the officers of the State. This department acted as the Administrative court, where the legal proceedings were personally led by Umar. The department was under the charge of Muhammad ibn Maslamah, one of Umar's most trusted men. In important cases, Muhammad ibn Maslamah was deputed by Umar to proceed to the spot, investigate the charge and take action. Sometimes an Inquiry Commission was constituted to investigate the charge. On occasion, the officers against whom complaints were received were summoned to Medina, and charged in Umar's administrative court. Umar was known for this intelligence service through which he made his officials accountable. This service was also said to have inspired fear in his subjects.
 
 Umar was a pioneer in some affairs:
 
@@ -6045,11 +6043,13 @@ Umar was a pioneer in some affairs:
 * He was the first to discipline the people when they became disordered.
 * Another important aspect of Umar's rule was that he forbade any of his governors and agents from engaging in any sort of business dealings whilst in a position of power. An agent of Umar by the name of Al Harith ibn K'ab ibn Wahb was once found to have extra money beyond his salary and Umar enquired about his wealth. Al Harith replied that he had some money and he engaged in trade with it. Umar said: By Allah, we did not send you to engage in trade! and he took from him the profits he had made.
 
-#### Canals
+### Canals
 
-Since Medina, with a rapidly growing population, was at risk of recurring famines when crops were lacking, Umar sought to facilitate the import of grain. He ordered the building of a canal connecting the Nile to the Red Sea and an improvement of port infrastructure on the Arabian coast. When Basra was established during Umar's rule, he started building a nine-mile canal from the Tigris to the new city for irrigation and drinking water. Al-Tabari reports that Utba ibn Ghazwan built the first canal from the Tigris River to the site of Basra when the city was in the planning stage. After the city was built, Umar appointed Abu Musa Ashaari (17-29/638 – 650) as its first governor. He began building two important canals, the al-Ubulla and the Ma'qil, linking Basra with the Tigris River. These two canals were the basis for the agricultural development for the whole Basra region and used for drinking water. Umar also adopted a policy of assigning barren lands to those who undertook to cultivate them. This policy continued during the Umayyad period and resulted in the cultivation of large areas of barren lands through the construction of irrigation canals by the state and by individuals.
+Since Medina, with a rapidly growing population, was at risk of recurring famines when crops were lacking, Umar sought to facilitate the import of grain. He ordered the building of a canal connecting the Nile to the Red Sea and an improvement of port infrastructure on the Arabian coast. When Basra was established during Umar's rule, he started building a nine-mile canal from the Tigris to the new city for irrigation and drinking water. 
 
-#### Reforms
+Al-Tabari reports that Utba ibn Ghazwan built the first canal from the Tigris River to the site of Basra when the city was in the planning stage. After the city was built, Umar appointed Abu Musa Ashaari (17-29/638 – 650) as its first governor. He began building two important canals, the al-Ubulla and the Ma'qil, linking Basra with the Tigris River. These two canals were the basis for the agricultural development for the whole Basra region and used for drinking water. Umar also adopted a policy of assigning barren lands to those who undertook to cultivate them. This policy continued during the Umayyad period and resulted in the cultivation of large areas of barren lands through the construction of irrigation canals by the state and by individuals.
+
+### Reforms
 
 Under Umar's leadership, the empire expanded; accordingly, he began to build a political structure that would hold together the vast territory. He undertook many administrative reforms and closely oversaw public policy, establishing an advanced administration for the newly conquered lands, including several new ministries and bureaucracies, and ordered a census of all the Muslim territories. During his rule, the garrison cities (amsar) of Basra and Kufa were founded or expanded. In 638, he extended and renovated the Masjid al-Haram (Grand Mosque) in Mecca and al-Masjid al-Nabawi (Mosque of the Prophet) in Medina.
 
@@ -7198,6 +7198,8 @@ Gog and Magog (Arabic: يأجوج ومأجوج) are mentioned in the Quran as do
 
 The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
 
+### Ribah
+
 </details>
 
 # 12. Yawm Al Qiyamah (Apocalypse)
@@ -7329,19 +7331,23 @@ According to Sahih Muslim, the Prophet said:
 
 > Then a people whom Allah had protected from him (dajjal) would come to Isa, son of Maryam, and he would wipe their faces and would inform them of their ranks in Paradise and it would be under such conditions that Allah would reveal to Isa (alaihis salam) these words: I have brought forth from amongst My servants such people against whom none would be able to fight; you take these people safely to Tur, and then Allah would send Gog and Magog and they would swarm down from every slope. The first of them would pass the lake of Tiberias and drink out of it. And when the last of them would pass, he would say: There was once water there.
 
-</details>
+</details><details><summary>
 
-<details>
-    <summary>3 sinkings (swallowings) of the earth</summary> 
+## 3 sinkings (swallowings) of the earth
+
+</summary> 
+
 (maybe major earthquakes). One in the east, one in the west and one in Arabia.
-</details>
 
-<details>
-    <summary>A fire would come out of Yemen</summary> 
+</details><details><summary>
+
+## A fire would come out of Yemen
+
+</summary> 
+
 The fire will make people run towards the place of Judgement 
-</details>
 
-<details><summary>
+</details><details><summary>
 
 ## Isa will return to the Earth and defeat Dajjal
 
@@ -7392,10 +7398,12 @@ The time of war will have come to an end,[64] and the Muslims will use the shiel
 
 ʿĪsā (AS) will remain on earth for forty years after killing the Dajjāl and then pass away. The Muslims will offer the funeral prayer for him, and bury him.
 
-</details>
+</details><details><summary>
 
-<details>
-    <summary>The Smoke (Ad-Dukhan)</summary> 
+## The Smoke (Ad-Dukhan)
+
+</summary> 
+
 The Day of Judgement will not take place until you experience Ad Dukhaw. a smoke that will appear in the sky. you will see it, you will feel it. some hadiths say "dark smoke". it will come into everyone. Smoke will come upon the believers like a flu or cold. and it will come upon non-believers causing disaster death, severe ilness and loding consciousness.
 
 The Smoke is mentioned in the Quran.
@@ -7403,13 +7411,20 @@ The Smoke is mentioned in the Quran.
     "Then wait for the Day when the sky will bring a visible smoke, covering the people; this is a painful torment. [They will say], “Our Lord, remove from us the torment; indeed, we are believers.” How can they be reminded when a messenger has already come to them, making things clear."
     Quran surah Ad Dukhan
 
-</details><details>
-    <summary>The Sun will come up from the West 🌄</summary> 
-and since then, the repentance will not be anymore accepted.
-</details>
+</details><details><summary>
 
-<details>
-    <summary>The Beast appears on the Earth</summary> 
+### Sun will come up from the West 🌄
+
+</summary> 
+
+and since then, the repentance will not be anymore accepted.
+
+</details><details><summary>
+
+## The Beast appears on the Earth
+
+</summary> 
+
 The Beast will come out at that time. and it will leave marks on people as believer or non-believer.
 
 The Beast of the Earth (Arabic: دَابَّة الأَرْض, romanized: Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Qur'an mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
@@ -7419,31 +7434,38 @@ The Beast of the Earth (Arabic: دَابَّة الأَرْض, romanized: Dābba
 
 Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
 
-</details><details>
-  <summary>the fire will come out and it will spread.
+</details><details><summary>
+
+## Fire will come out and it will spread.
+
 </summary> 
+
 The fire will come out and it will spread, making people come to the destination where the Judgement will take place.
 
 </details>
 
 ### 12.3 Al Qiyamah (The Hereafter)
-
 *******************************************
 
-<details><summary>What happens after The End</summary> 
+<details><summary>
+
+### What happens after The End
+
+</summary> 
 Allahu 'Alim.
 
-There is no explicit order of events in the Quran and Sunna
-As Saffaranini said there will be 8 things
-Resurrection (Al Baghf)
-coming out of the grave and running aroung (An Nushurr)
-The gathering (Al Hashshar)
-Al Quyama -- The standing up
-The showing of the deeds (Al Ard)
-The judgement on the left and right side (Hisab)
-The Scales (Al Mizan)
+There is no explicit order of events in the Quran and Sunna.
 
-He didn't mention thta Allah and angels will come in rows, the blowing of the trumpet, Shafagha, seeing of Allah, The Cistern (the pool), Sirat, Wurud, The Qantara (open area in front of Jannah).
+As Saffaranini said there will be 8 things:
+* Resurrection (Al Baghf)
+* Coming out of the grave and running aroung (An Nushurr)
+* The gathering (Al Hashshar)
+* Al Quyama -- The standing up
+* The showing of the deeds (Al Ard)
+* The judgement on the left and right side (Hisab)
+* The Scales (Al Mizan)
+
+He didn't mention that Allah and angels will come in rows, the blowing of the trumpet, Shafagha, seeing of Allah, The Cistern (the pool), Sirat, Wurud, The Qantara (open area in front of Jannah).
 
 </details><details><summary>
 
@@ -7486,11 +7508,11 @@ Source: Musnad Aḥmad 18534
 
 Grade: Sahih (authentic) according to Al-Arna’ut
 
-In the name of Allah, The Almighty Creator, Owner of Life and Death.
+    In the name of Allah, The Almighty Creator, Owner of Life and Death.
 
 Holy Quran - As-Sajda 32:11
 
-(Muhammad), say “The angel of death, who is appointed over everyone of you, will cause you to die and to your Lord you will all return”
+    (Muhammad), say “The angel of death, who is appointed over everyone of you, will cause you to die and to your Lord you will all return”
 
 In Islam, when someone is about to die then few things will happen:
 
@@ -7500,15 +7522,13 @@ When a good person dies (a person who did good deeds): The Angel of Death will a
 When an evil person dies (a person who committed sins, bad deed): The Angel of Death will appear as a very terrifying entity, his look will be so terrifying that the person would not bare to look at him. To the extend his soul would want to run away hiding from the Angel of Death. The Angel will not great such person with Salam (peace), The Angel will violently tear away the soul from his body, so violent that the person would feel terrifying pain as if he would feel sharp rose thorns ripping him apart from the inside out. That’s how violent the Angel will rip apart the soul of the person who committed evil.
 Holy Quran - An-Naazi’aat 79:1
 
-By the angels who violently tear-out the souls of the disbelievers from their bodies.
+    By the angels who violently tear-out the souls of the disbelievers from their bodies.
 
 Holy Quran - An-Naazi’aat 79:2
 
-By the angels who gently release the souls of the believers.
+    By the angels who gently release the souls of the believers.
 
-———————————————-
-
-This is the reason why in Islam, we are all encouraged to do goodness because no body knows when we are going to die. We are encouraged to do good deeds because if we die when we are doing good, then we will have a peaceful death, the angels will welcome you, and God will be pleased with you that you died right just after doing good.
+This is the reason why in Islam, we are all encouraged to do goodness because nobody knows when we are going to die. We are encouraged to do good deeds because if we die when we are doing good, then we will have a peaceful death, the angels will welcome you, and God will be pleased with you that you died right just after doing good.
 
 Islam teaches us to constantly be prepared for death for death can come at any moment, it can come today, tomorrow, in one month, in months, in years, we do not know. SO we always must be prepared for it.
 
@@ -7520,7 +7540,7 @@ The human being will certainly experience the agony of death.
 
 Holy Quran - Qaaf 50:22
 
-(HE will be told), “You were completely heedless of this day. We have removed the veil from your eyes and your vision will now be sharp and strong”
+(He will be told), “You were completely heedless of this day. We have removed the veil from your eyes and your vision will now be sharp and strong”
 
 The veil that hides the world of the unseen will be removed moments before death, so that the dying person would be aware of what is going and so that the dying person would start seeing the Angel of Death with his own eyes.
 
@@ -7747,11 +7767,8 @@ Not everyone consigned to hell will remain there, as it is believed by both scho
 
 Narrated Abu Huraira:
 
-The people said, "O Allah's Messenger (ﷺ)! Shall we see our Lord on the Day of Resurrection?" He replied, "Do you have any doubt in seeing the full moon on a clear (not cloudy) night?" They replied, "No, O Allah's Messenger (ﷺ)!" He said, "Do you have any doubt in seeing the sun when there are no clouds?" They replied in the negative. He said, "You will see Allah (your Lord) in the same way. On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities; and only this nation (Muslims) will be left with its hypocrites. Allah will come to them and say, 'I am Your Lord.' They will say, 'We shall stay in this place till our Lord comes to us and when our Lord will come, we will recognize Him. Then Allah will come to them again and say, 'I am your Lord.' They will say, 'You are our Lord.' Allah will call them, and As-Sirat (a bridge) will be laid across Hell and I (Muhammad) shall be the first amongst the Apostles to cross it with my followers. Nobody except the Apostles will then be able to speak and they will be saying then, 'O Allah! Save us. O Allah Save us.' There will be hooks like the thorns of Sa'dan in Hell. Have you seen the thorns of Sa'dan ?" The people said, "Yes." He said, "These hooks will be like the thorns of Sa'dan but nobody except Allah knows their greatness in size and these will entangle the people according to their deeds; some of them will fall and stay in Hell forever; others will receive punishment (torn into small pieces) and will get out of Hell, till when Allah intends mercy on whomever He likes amongst the people of Hell, He will order the angels to take out of Hell those who worshipped none but Him alone. The angels will take them out by recognizing them from the traces of prostrations, for Allah has forbidden the (Hell) fire to eat away those traces. So they will come out of the Fire, it will eat away from the whole of the human body except the marks of the prostrations. At that time they will come out of the Fire as mere skeletons. The Water of Life will be poured on them and as a result they will grow like the seeds growing on the bank of flowing water. Then when Allah had finished from the Judgments amongst his creations, one man will be left between Hell and Paradise and he will be the last man from the people of Hell to enter paradise. He will be facing Hell, and will say, 'O Allah! Turn my face from the fire as its wind has dried me and its steam has burnt me.' Allah will ask him, "Will you ask for anything more in case this favor is granted to you?' He will say, "No by Your (Honor) Power!" And he will give to his Lord (Allah) what he will of the pledges and the covenants. Allah will then turn his face from the Fire. When he will face Paradise and will see its charm, he will remain quiet as long as Allah will. He then will say, 'O my Lord! Let me go to the gate of Paradise.' Allah will ask him, 'Didn't you give pledges and make covenants (to the effect) that you would not ask for anything more than what you requested at first?' He will say, 'O my Lord! Do not make me the most wretched, amongst Your creatures.' Allah will say, 'If this request is granted, will you then ask for anything else?' He will say, 'No! By Your Power! I shall not ask for anything else.' Then he will give to his Lord what He will of the pledges and the covenants. Allah will then let him go to the gate of Paradise. On reaching then and seeing its life, charm, and pleasure, he will remain quiet as long as Allah wills and then will say, 'O my Lord ! Let me enter Paradise.' Allah will say, May Allah be merciful unto you, O son of Adam! How treacherous you are! Haven't you made covenants and given pledges that you will not ask for anything more that what you have been given?' He will say, 'O my Lord! Do not make me the most wretched amongst Your creatures.' So Allah will laugh and allow him to enter Paradise and will ask him to request as much as he likes. He will do so till all his desires have been fulfilled . Then Allah will say, 'Request more of such and such things.' Allah will remind him and when all his desires and wishes; have been fulfilled, Allah will say "All this is granted to you and a similar amount besides." Abu Said Al-Khudri, said to Abu Huraira, 'Allah's Messenger (ﷺ) said, "Allah said, 'That is for you and ten times more like it.' "Abu Huraira said, "I do not remember from Allah's Messenger (ﷺ) except (his saying), 'All this is granted to you and a similar amount besides." Abu Said said, "I heard him saying, 'That is for you and ten times more the like of it." 
-</details>
-
-<details>
-  <summary>
+The people said, "O Allah's Messenger ﷺ  ! Shall we see our Lord on the Day of Resurrection?" He replied, "Do you have any doubt in seeing the full moon on a clear (not cloudy) night?" They replied, "No, O Allah's Messenger ﷺ   !" He said, "Do you have any doubt in seeing the sun when there are no clouds?" They replied in the negative. He said, "You will see Allah (your Lord) in the same way. On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities; and only this nation (Muslims) will be left with its hypocrites. Allah will come to them and say, 'I am Your Lord.' They will say, 'We shall stay in this place till our Lord comes to us and when our Lord will come, we will recognize Him. Then Allah will come to them again and say, 'I am your Lord.' They will say, 'You are our Lord.' Allah will call them, and As-Sirat (a bridge) will be laid across Hell and I (Muhammad) shall be the first amongst the Apostles to cross it with my followers. Nobody except the Apostles will then be able to speak and they will be saying then, 'O Allah! Save us. O Allah Save us.' There will be hooks like the thorns of Sa'dan in Hell. Have you seen the thorns of Sa'dan ?" The people said, "Yes." He said, "These hooks will be like the thorns of Sa'dan but nobody except Allah knows their greatness in size and these will entangle the people according to their deeds; some of them will fall and stay in Hell forever; others will receive punishment (torn into small pieces) and will get out of Hell, till when Allah intends mercy on whomever He likes amongst the people of Hell, He will order the angels to take out of Hell those who worshipped none but Him alone. The angels will take them out by recognizing them from the traces of prostrations, for Allah has forbidden the (Hell) fire to eat away those traces. So they will come out of the Fire, it will eat away from the whole of the human body except the marks of the prostrations. At that time they will come out of the Fire as mere skeletons. The Water of Life will be poured on them and as a result they will grow like the seeds growing on the bank of flowing water. Then when Allah had finished from the Judgments amongst his creations, one man will be left between Hell and Paradise and he will be the last man from the people of Hell to enter paradise. He will be facing Hell, and will say, 'O Allah! Turn my face from the fire as its wind has dried me and its steam has burnt me.' Allah will ask him, "Will you ask for anything more in case this favor is granted to you?' He will say, "No by Your (Honor) Power!" And he will give to his Lord (Allah) what he will of the pledges and the covenants. Allah will then turn his face from the Fire. When he will face Paradise and will see its charm, he will remain quiet as long as Allah will. He then will say, 'O my Lord! Let me go to the gate of Paradise.' Allah will ask him, 'Didn't you give pledges and make covenants (to the effect) that you would not ask for anything more than what you requested at first?' He will say, 'O my Lord! Do not make me the most wretched, amongst Your creatures.' Allah will say, 'If this request is granted, will you then ask for anything else?' He will say, 'No! By Your Power! I shall not ask for anything else.' Then he will give to his Lord what He will of the pledges and the covenants. Allah will then let him go to the gate of Paradise. On reaching then and seeing its life, charm, and pleasure, he will remain quiet as long as Allah wills and then will say, 'O my Lord ! Let me enter Paradise.' Allah will say, May Allah be merciful unto you, O son of Adam! How treacherous you are! Haven't you made covenants and given pledges that you will not ask for anything more that what you have been given?' He will say, 'O my Lord! Do not make me the most wretched amongst Your creatures.' So Allah will laugh and allow him to enter Paradise and will ask him to request as much as he likes. He will do so till all his desires have been fulfilled. Then Allah will say, 'Request more of such and such things.' Allah will remind him and when all his desires and wishes; have been fulfilled, Allah will say "All this is granted to you and a similar amount besides." Abu Said Al-Khudri, said to Abu Huraira, 'Allah's Messenger ﷺ   said, "Allah said, 'That is for you and ten times more like it.' "Abu Huraira said, "I do not remember from Allah's Messenger ﷺ   except (his saying), 'All this is granted to you and a similar amount besides." Abu Said said, "I heard him saying, 'That is for you and ten times more the like of it." 
+</details><details><summary>
 
 ## Sirat bridge over Jahannam
 
@@ -7765,19 +7782,21 @@ Then bridge of Qantarah to allow people complete their arguments. People will fo
     And we removed every grudge from their hearts. They will be brothers, reclining on thrones that Day, looking at one another.
     Quran 15:47
 
-</details>
+</details><details><summary>
 
-<details>
-<summary>Al Ar'af</summary>
+## Al Ar'af
+
+</summary>
 
 There will be a barrier [ḥijāb] between Paradise and Hell. And on the heights [al-aʿrāf] of that barrier˺ will be people who will recognize ˹the residents of˺ both by their appearance. They will call out to the residents of Paradise, "Peace be upon you!" They will have not yet entered Paradise, but eagerly hope to (Q.7:46).
 
 As for who the inhabitants of the inhabits al-aʿrāf are, the "majority of exegetes" support the theory that they are persons whose actions balance in terms of merit and demerit -- whose good deeds keep them from the Fire and whose evil deeds keep them from the Garden. They will be the last to enter the Garden, at the mercy of their Lord.
 
-</details>
+</details><details><summary>
 
-<details>
-  <summary>Opening the Gates of Paradise</summary>
+## Opening the Gates of Paradise
+
+</summary>
 
 In the hadith about intercession that the Prophet (blessings and peace of Allah be upon him) said: “I will come to the gate of Paradise on the Day of Resurrection and will ask for it to be opened. The keeper will say: ‘Who are you?’ I will say, ‘Muhammad.’ He will say: ‘I was commanded not to open it for anyone before you.” Narrated by Muslim (197)
 
