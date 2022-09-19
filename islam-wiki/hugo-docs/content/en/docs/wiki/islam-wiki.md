@@ -5840,6 +5840,26 @@ There was some dispute between the Quraish and the Ansars as to the place of bur
 
 Thus ended the glorious life of the Prophet Muhammad ﷺ  . May the peace and blessings of Allah be upon him.
 
+    as a witness and a bringer ofglad tidings, a warner and a summoner unto Allah by His permission, and a lamp that gives light 
+    Qur'an, 33:45-46
+ 
+    the one who was sent as a mercy and blessing to mankind 
+    Qur'an, 21:10
+ 
+He left the temporal world, but the message he brought to mankind is eternal.
+ 
+    Now has come unto you light from Allah and a clear book whereby Allah guides him who seeks His pleasure unto the paths ofpeace. He brings them out of the darkness into the light by His decree and guides them unto a straight path.
+    Qur'an, 5:16
+ 
+    A Book which We have revealed to you (O Muhammad!) so that you may thereby bring forth mankind from darkness unto the light, by the permission of their Lord, unto the path of Him, the Exalted in power, the One worthy of all praise. 
+    Qur'an, 14:2
+
+    O people! There has come to you an admonition from your Lord which is a healing for what is in the breasts, and a guidance and mercy for the believers. 
+    Qur'an, 10:57
+ 
+    Accept what the Messenger gives you and stay away from whatever he forbids you. 
+    Qur'an, 59:7
+
 ### Speech of Abu Bakr 
 
 A few hours after he returned from the mosque, the Prophet died while laying his head on the bosom of Aisha. As soon as the Prophet's death was announced, a crowd of people gathered at the door of the house of Aisha, exclaiming: "How can our messenger be dead?" Umar said: "No, he is not dead; he will be restored to us, and those are traitors to the cause of Islam who say he is dead. If they say so let them be cut in pieces."
@@ -5883,7 +5903,7 @@ During this great crisis, the devastated Muslims chose Abu Bakr as their leader.
 
 After Prophet Muhammad ﷺ   dies, Abu Bakr is elected as his khalifah (representative).
 
-Abu Bakr (أبو بكر,, 573 – 23 August 634) was the founder and first caliph of the Rashidun Caliphate ruling from June 632 until his death. He was the most prominent companion, closest advisor and a father-in-law of the Islamic prophet Muhammad (c. 570–632).
+Abu Bakr (أبو بكر,, 573 – 23 August 634) was the founder and first caliph of the Rashidun Caliphate ruling from June 632 until his death. He was the most prominent companion, closest advisor and a father-in-law of the Islamic prophet Muhammad ﷺ  (c. 570–632).
 
 Abu Bakr was born in 573 CE to Abu Quhafa and Umm Khayr. He belonged to the tribe of Banu Taym. In the Age of Ignorance, he was a monotheist and condemned idol-worshipping. As a wealthy trader, Abu Bakr used to free slaves. Following his conversion to Islam in 610, Abu Bakr served as a close aide to Muhammad, who bestowed on him the title al-Siddiq ('the Truthful'). The former took part in almost all battles under the Islamic prophet. He extensively contributed his wealth in support of Muhammad's work and also accompanied Muhammad, on his migration to Medina. By the invitations of Abu Bakr, many prominent Sahabis became Muslims. He remained the closest advisor to Muhammad, being present at almost all his military conflicts. In the absence of Muhammad, Abu Bakr led the prayers and expeditions.
 
@@ -5919,24 +5939,43 @@ As we know, Zakat is the third pillar of Islam. The Qur’an mentions it on seve
 
 ## Preservation of The Quran
 
-> Umar and Abu Bakr told Zayd to compile and write The Quran because many khafiz die in one of the battles of riddah.
+> Umar and Abu Bakr told Zayd to compile and write The Quran because many khafiz died in one of the battles of riddah.
 
-Abu Bakr was instrumental in preserving the Quran in written form. After the Battle of Yamama in 632, numerous memorizers of the Quran had been killed. Umar fearing that the Quran may become lost or corrupted, Umar requested that Abu Bakr authorise the compilation and preservation of the scriptures in written format. The caliph was initially hesitant, being quoted as saying, "How can we do that which the Messenger of Allah, may Allah bless and keep him, did not himself do?" He eventually relented, however, and appointed Zayd ibn Thabit, who had previously served as one of the scribes of Muhammad, for the task of gathering the scattered verses. 
+Abu Bakr was instrumental in preserving the Quran in written form. After the Battle of Yamama in 632, numerous memorizers of the Quran had been killed. Fearing that the Quran may become lost or corrupted, Umar requested that Abu Bakr authorize the compilation and preservation of the scriptures in written format. The caliph was initially hesitant, being quoted as saying, "How can we do that which the Messenger of Allah, may Allah bless and keep him, did not himself do?" He eventually relented, however, and appointed Zayd ibn Thabit, who had previously served as one of the scribes of Muhammad, for the task of gathering the scattered verses. 
 
 The fragments were recovered from every quarter, including from the ribs of palm branches, scraps of leather, stone tablets and "from the hearts of men". The collected work was transcribed onto sheets and compiled in the sequence that had been instructed by Muhammad, as opposed to the order in which they had been revealed. The complete work was then verified through comparison with Quran memorisers. 
 
 The finished codex, termed the Mus'haf, was presented to Abu Bakr, who prior to his death, bequeathed it to his successor Umar. Upon Umar's own death, the Mus'haf was left to his daughter Hafsa, who had been one of the wives of Muhammad. It was this volume, borrowed from Hafsa, which formed the basis of Uthman's legendary prototype, which became the definitive text of the Quran. All later editions are derived from this original.
 
-* Story of how Abu Bakr died
-  Abu Bakr appointed Umar as his successor before dying in 634 CE. Due to his strict and autocratic nature, Umar was not a very popular figure among the notables of Medina and members of Majlis al Shura; accordingly, high-ranking companions of Abu Bakr attempted to discourage him from naming Umar. Nevertheless, Abu Bakr decided to make Umar his successor. Umar was well known for his extraordinary willpower, intelligence, political astuteness, impartiality, justice, and care for the poor. Abu Bakr is reported to have said to the high-ranking advisers:
+Abu Bakr appointed Umar as his successor before dying in 634 CE. Due to his strict and autocratic nature, Umar was not a very popular figure among the notables of Medina and members of Majlis al Shura; accordingly, high-ranking companions of Abu Bakr attempted to discourage him from naming Umar. Nevertheless, Abu Bakr decided to make Umar his successor. Umar was well known for his extraordinary willpower, intelligence, political astuteness, impartiality, justice, and care for the poor. Abu Bakr is reported to have said to the high-ranking advisers:
 
 His (Umar's) strictness was there because of my softness when the weight of Caliphate will be over his shoulders he will remain no longer strict. If I will be asked by God to whom I have appointed my successor, I will tell him that I have appointed the best man among your men.
 
 Abu Bakr was aware of Umar's power and ability to succeed him. His was perhaps one of the smoothest transitions of power from one authority to another in the Muslim lands. Before his death, Abu Bakr called Uthman to write his will in which he declared Umar his successor. In his will he instructed Umar to continue the conquests on Iraqi and Syrian fronts.
 
+### Death of Abu Bakr
+
+Abu Bakr developed high fever, and was confined to bed. His illness prolonged, and when his condition worsened, he felt that his end was near. Some companions called on him to inquire about his welfare. They said, "O Vicegerent of the Apostle of God, may we call a physician to examine you". He said that the physician had already visited him. They inquired as to what had the physician said. Abu Bakr said that the physician had said that he would do what he would do.
+
+Refund of the amount drawn from the treasury. When Abu Bakr felt that his end was near, he wanted to know what amount he had drawn from the State treasury as allowance for the office of the Caliph. He was told that this amount was six thousand dirhams. He directed that the plot of land which belonged to him should be sold, and from the sale proceeds, the amount of six thousand dirhams should be paid to the State treasury. He next took stock of the personal fortune that he had acquired since becoming the Caliph. These assets included a slave, a camel, and some cloth. He directed that these assets should be handed over to the new Caliph. When in pursuance of the will of Abu Bakr, the amount of six thousand dirhams and other assets were handed over to the new Caliph, Umar, the new Caliph wept and said, "O Abu Bakr, may God bless you; you have made the task of your successor most difficult."
+
+Property bequeathed to Ayesha. Abu Bakr had bequeathed some property to Ayesha. Now that he was on deathbed he desired that the property should be divided among her two brothers and three sisters in accordance with the Islamic Law. Ayesha said that they were two sisters, Asma and herself, and inquired as to who was the third sister? Abu Bakr said that his wife Habiba was pregnant, and he had a feeling that the child would be a girl. Indeed after the death of Abu Bakr, a girl was born to Habiba, who was named Umm Kulthum. Ayesha complied with the wish of her father and released the property in her charge for distribution among her brothers and sisters.
+
+The Coffin. Abu Bakr next asked Ayesha as to how many pieces of cloth were used for the coffin of the Holy Prophet. Ayesha said that three pieces had been used in the coffin of the Holy Prophet. Abu Bakr thereupon desired that for his coffin as well, three pieces should be used. He wanted that the two sheets that he was wearing should be washed and used for his coffin, while the third piece might be purchased. Ayesha said that they were not so poor as not to afford to purchase all the three pieces required for the coffin. Abu Bakr said, "No, the new material will be of more use to the living than the dead. The cloth for the dead body is merely meant to absorb blood and pus, and it is not necessary that the cloth should be new."
+
+The day of death. Abu Bakr inquired of Ayesha as to what was the day on which the Holy Prophet had died. She replied that the day was Monday. Abu Bakr next inquired as to what was the day that day. She said that it was Monday. Abu Bakr said that in that case he would die that day. He desired that if he died that day, he should be buried the same day.
+
+Last moments of Abu Bakr. As Abu Bakr lay on the deathbed, Ayesha wailed: "And one so unsullied in honor that the cloud draws moisture from his face; the protection of orphans. the defense of widows." Abu Bakr said, "No, this encomium must be reserved for the Holy Prophet alone". Ayesha said: "Wealth is of no avail to a man; on the day when the death-rattle is in his throat, and his breast is contracted by it." Abu Bakr uncovered his face and said, "It is not so, Say that the agony of death shall come in truth; this, O man, is what you sought to avoid." He swooned, and on regaining consciousness, he recited: "The companionship of the most high. The companionship of the most high."
+
+> O Allah, forgive me and have mercy upon me, and join me with the highest companions (in Paradise).
+
+With these words of the Holy Quran on his lips, Abu Bakr expired. From God he had come and to God he returned. It was 22nd of Jamadi-ul-Akhir of 13 A.H. corresponding to 23rd of August, 534 C.E. The day was Monday. His death took place between the hours of the Maghrib and Isha prayers. He was 63 years at the time of his death. That was the exact age at which the Holy Prophet had died.
+
+Burial. According to the will of Abu Bakr, his dead body was prepared for burial by his wife Asma b Umas. She was helped by his son Abdul Rahman. The funeral prayer was led by Umar. He was buried the same night in the house of Ayesha by the side of the grave of the Holy Prophet. In life, Abu Bakr had the honor of being a bosom companion of the Holy Prophet, after death he had also the honor of resting by the side of the Master.
+
 </details><details><summary>
 
-## 634-644: Umar ibn al-Khattab
+## 634-644: Umar ibn Al-Khattab
 
 </summary>
 
