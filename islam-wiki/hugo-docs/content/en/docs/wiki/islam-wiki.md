@@ -6059,13 +6059,42 @@ Umar was founder of Fiqh, or Islamic jurisprudence. He is regarded by Sunni Musl
 
 In 641, he established Bayt al-mal, a financial institution and started annual allowances for the Muslims. As a leader, Umar was known for his simple, austere lifestyle. Rather than adopt the pomp and display affected by the rulers of the time, he continued to live much as he had when Muslims were poor and persecuted. 
 
-#### Establishment of Islamic Calendar
+### Establishment of Islamic Calendar
 
-In 638, the fourth year of Umar as caliph and the seventeenth year since the Hijra, he decreed that the Islamic calendar should be counted from the year of the Hijra of Muhammad from Mecca to Medina.
+In 638, the fourth year of Umar as caliph and the seventeenth year since the Hijra, he decreed that the Islamic calendar should be counted from the year of the Hijra of prophet Muhammad ﷺ   from Mecca to Medina.
 
-#### Visit to Jerusalem in 637 CE
+### Visit to Jerusalem in 637 CE
 
-#### Conquests
+During the period of the Second Caliph Umar Ibn al-Khattab, the Muslim forces, under the command of Abu Ubaydah, lay siege to Jerusalem. The Patriarch of the city, Sophronius, stated that he would negotiate only with Caliph Umar and that nobody enters Jerusalem before Caliph Umar. On hearing this Caliph Umar informed that he was on his way.
+
+Accompanied by a servant, Caliph Umar rode on camelback to Jerusalem though he could have been accompanied by an entourage that could have made the ground tremble under the hooves of horses. He did so to show simplicity and ensure that Allah alone deserves all the glories.
+
+On reaching Jerusalem, it was the servant’s turn to ride the camel and as a mark of respect and to ensure that the people see Caliph Umar, he wanted the Caliph to ride the camel. However Caliph Umar refused and entered Jerusalem on foot while the servant rode the camel to the shock and surprise of everyone including Patriarch Sophronius. On reaching the place Caliph Umar continued the journey on foot carrying his shoes in hand under the astonished gaze of the people.
+
+The Muslims who saw this spectacle recited the short prayers that refer to Allah’s absolute greatness and uniqueness. Caliph Umar walked to the army wearing modest threadbare clothes. The Christians who watched everything from the walls of Jerusalem were amazed at the strange simplicity, unable to believe that this simple man could be the leader of those well equipped armies.
+
+Abu Ubaidah who could not contain himself on seeing this unprecedented show of humility rushed to Umar’s side saying” today you have performed a magnificent deed before the people, perhaps you might….? Umar slapped him on the chest and criticized him saying “I wish someone other than you, Abu Ubaydah, had said this. We were a humiliated people and Allah honored us with Islam. We were weak and He gave us strength”.
+
+The Patriarch who saw the unfolding scenes with great admiration said to his people that nobody in the world would be able to stand up to these people and advised them to surrender to be saved. Negotiation took place and a famous treaty called 'Umariyya Covenant” was concluded. This treaty is still preserved in the Church of the Holy Sepulchre in Jerusalem.
+
+The Christians requested that Jews, who were not there before the conquest, be forbidden to enter Jerusalem and Umar accepted. Yet on his part Umar offered members of all faiths safety in Jerusalem and protection for their beliefs and their holy places, forbidding them to be desecrated or destroyed.
+
+After the treaty was signed the key to the city was formally handed over in 637 AC. The gates of Jerusalem were opened and Caliph Umar entered along a promenade that led him to the Church of the Holy Sepulchre. Caliph Umar was inside and the Patriarch said to him “pray”. However Caliph Umar declined, fearing it might establish a precedent that would threaten the church's continued use as a Christian house of worship. Instead he prayed in an area to the south of the church, now the site of the Mosque of Umar in Jerusalem.
+
+In doing so Caliph Umar showed the world the meaning of tolerance and generosity in victory and strength. It was the greatness of Islam that shone in his spirit and was reflected in his ethics though he was a person known for his firmness and courage.  
+Caliph Umar then asked to be taken to the site of Masjid Al Aqsa. He could not find, but patriarch showed him the way.
+
+On arrival, accompanied by hundreds of Muslims, he found the area covered in dust and debris. He rolled up his sleeves and began sweeping and clearing the mosque immediately. On seeing this other Muslims including army generals and soldiers joined him in cleaning the place. Once cleaned up Caliph Umar took off his cloak, prayed and left there. It was the first prayer of Muslims in the Masjid Al Aqsa after the Prophet Muhammad (pbuh).
+
+Caliph Umar immediately ordered the restoration of the mosque. A huge timber mosque, Masjid Al Marwani, with a capacity to accommodate 3000 worshippers was erected on this site at the southernmost wall of the Noble Sanctuary. They then started praying in this holy place. This was the most peaceful manner Jerusalem was conquered and great status of this mosque was restored after the affront committed by the Christians.
+
+Under Caliph Umar’s generosity those who wanted to leave were allowed to do so with all their possessions while others who opted to stay were guaranteed protection for their lives, property and places of worship. Later Caliph Umar reversed the four hundred year Christian ban on Jews, allowed them to return to Jerusalem and granted Christians free use of their holy sites .Thus he turned Jerusalem into a city where Jews, Christians, and Muslims lived in tolerance, peace and harmony.
+
+This opened the doors to the Jews who were denied access to Jerusalem. Throughout the Muslim rule of Jerusalem,from 637 to 1917 except for two relatively short periods, Jerusalem maintained its rightful title of 'The Holy City'.    
+
+For details, see [Caliph Umar's Peaceful Entry to Jerusalem](https://sailanmuslim.com/islam-2/caliph-umars-peaceful-entry-to-jerusalem-by-latheef-farook/).
+
+### Conquests
 
 Umar's caliphate is notable for its vast conquests, aided by brilliant field commanders, he was able to incorporate present day Iraq, Iran, Azerbaijan, Armenia, Georgia, Syria, Jordan, Palestine, Lebanon, Egypt, and part of Afghanistan, Turkmenistan and south western Pakistan into the Caliphate. During his reign, the Byzantines lost more than three fourths of their territory and in Persia, the Sassanid Empire ceased to exist.
 
@@ -6079,7 +6108,7 @@ Prior to his death in 644, Umar had ceased all military expeditions apparently t
 
 </summary>
 
-Khalid ibn al-Walid ibn al-Mughira al-Makhzumi (خالد بن الوليد بن المغيرة المخزومي, ; died 642) was an Arab Muslim commander in the service of the Islamic prophet Muhammad and the Rashidun caliphs Abu Bakr (r. 632–634) and Umar (r. 634–644). He played the leading military role in the Ridda wars against rebel tribes in Arabia in 632–633, the initial campaigns in Sasanian Iraq in 633–634 and the conquest of Byzantine Syria in 634–638.
+Khalid ibn al-Walid ibn al-Mughira al-Makhzumi (died 642) was an Arab Muslim commander in the service of the Islamic prophet Muhammad and the Rashidun caliphs Abu Bakr (r. 632–634) and Umar (r. 634–644). He played the leading military role in the Ridda wars against rebel tribes in Arabia in 632–633, the initial campaigns in Sasanian Iraq in 633–634 and the conquest of Byzantine Syria in 634–638.
 
 A horseman of the Quraysh tribe's aristocratic clan, the Makhzum, which ardently opposed Muhammad, Khalid played the instrumental role in defeating the Muslims at the Battle of Uhud in 625. Following his conversion to Islam in 627 or 629, he was made a commander by Muhammad, who bestowed on him the title Sayf Allah ('the Sword of God'). Khalid coordinated the safe withdrawal of Muslim troops during the abortive expedition to Mu'ta against the Arab allies of the Byzantines in 629 and led the Bedouin contingents of the Muslim army during the capture of Mecca and the Battle of Hunayn in c. 630. After Muhammad's death, Khalid was appointed to suppress or subjugate Arab tribes in Najd and the Yamama (both regions in central Arabia) opposed to the nascent Muslim state, defeating the rebel leaders Tulayha at the Battle of Buzakha in 632 and Musaylima at the Battle of Aqraba in 633.
 
