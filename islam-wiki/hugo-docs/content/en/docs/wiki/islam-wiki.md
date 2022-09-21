@@ -6118,25 +6118,24 @@ Khalid is generally considered by historians to be one of early Islam's most sea
 
 </details>
 
-#### Great famine
+### Great famine
 
 In 638 CE, Arabia fell into severe drought followed by a famine. Soon after, the reserves of food at Medina began to run out. Umar ordered caravans of supplies from Syria and Iraq, and personally supervised their distribution. His actions saved countless lives throughout Arabia. The first governor to respond was Abu Ubaidah ibn al-Jarrah, the governor of Syria and supreme commander of the Rashidun army.
 
 Later, Abu Ubaidah paid a personal visit to Medina and acted as an officer of disaster management, which was headed personally by Umar. For internally displaced people, Umar hosted a dinner every night at Medina.
 
-#### Great plague
-
+### Great plague
 While famine was ending in Arabia, many districts in Syria and Palestine were devastated by plague. While Umar was on his way to visit Syria, at Elat, he was received by Abu Ubaidah ibn al-Jarrah, governor of Syria, who informed him about the plague and its intensity, and suggested that Umar go back to Medina. Umar tried to persuade Abu Ubaidah to come with him to Medina, but he declined to leave his troops in that critical situation. Abu Ubaidah died in 639 of the plague, which also cost the lives of 25,000 Muslims in Syria. After the plague had weakened, in late 639, Umar visited Syria for political and administrative re-organization, as most of the veteran commanders and governors had died of the plague.
 
-#### Welfare state
+### Welfare state
 
-To be close to the poor, Umar lived in a simple mud hut without doors and walked the streets every evening. After consulting with the poor, Umar established the first welfare state, Bayt al-mal.The Bayt al-mal aided the Muslim and non-Muslim poor, needy, elderly, orphans, widows, and the disabled. The Bayt al-mal ran for hundreds of years, from the Rashidun Caliphate in the 7th century through the Umayyad period (661–750) and well into the Abbasid era. Umar also introduced a child benefit and pensions for the children and the elderly.
+To be close to the poor, Umar lived in a simple mud hut without doors and walked the streets every evening. After consulting with the poor, Umar established the first welfare state, Bayt al-mal. The Bayt al-mal aided the Muslim and non-Muslim poor, needy, elderly, orphans, widows, and the disabled. The Bayt al-mal ran for hundreds of years, from the Rashidun Caliphate in the 7th century through the Umayyad period (661–750) and well into the Abbasid era. Umar also introduced a child benefit and pensions for the children and the elderly.
 
-#### Free trade
+### Free trade
 
 Local populations of Jews and Christians, persecuted as religious minorities and taxed heavily to finance the Byzantine–Sassanid Wars, often aided Muslims to take over their lands from the Byzantines and Persians, resulting in exceptionally speedy conquests. As new areas were attached to the Caliphate, they also benefited from free trade, while trading with other areas in the Caliphate (to encourage commerce, in Islam trade is not taxed, but wealth is subject to the zakat). Since the so-called Constitution of Medina, drafted by Muhammad, the Jews and the Christians continued to use their own laws in the Caliphate and had their own judges.
 
-#### Assassination
+### Assassination
 
 In 644, Umar was assassinated by a Persian slave named Abu Lu'lu'a Firuz. His motivation for the assassination is not clear. One possible explanation was that it was done in response to the Muslim conquest of Persia. The assassination was planned several months earlier. In October 644, Umar undertook a Hajj to Mecca, during which the assassins pronounced Umar's imminent death that year, and the massive crowd of the congregation was used by the conspirators as a veil to hide themselves.
 
@@ -6146,7 +6145,7 @@ Umar died of the wounds three days later on Wednesday 3 November 644 (26 Dhu al-
 
 He was buried at the Green Dome in al-Masjid al-Nabawi alongside Muhammad and caliph Abu Bakr by the permission of Aisha.
 
-#### Selecting Next Caliph
+### Selecting Next Caliph
 
 On his deathbed, Umar vacillated on his succession. Umar finally appointed a committee of six persons to choose a caliph from amongst them: Abdur Rahman bin Awf, Saad ibn Abi Waqqas, Talha ibn Ubaidullah, Uthman ibn Affan, Ali ibn Abi Talib and Zubayr ibn al-Awwam.
 
@@ -6163,7 +6162,7 @@ Umar died on 3 November 644; on 7 November Uthman succeeded him as caliph.
 </summary>
 
 * 644-650 Muslims conquer Cyprus, Tripoli in North Africa and establish Muslim rule in Afghanistan and Sind.
-* 650 Uthman orders the establishment of one "true" Quran while destroying the others.
+* 650 Uthman orders the establishment of one "true" Quran while destroying other variations.
 * 656 Caliph Uthman is assassinated by malcontent Muslims soldiers, who acclaim Ali ibn Abu Talib as the new caliph, but not all accept Ali's rule.
 
 Uthman (Arabic: عثمان, romanized: ʿUthmān; c. 576 or 579 – June 656), also spelled Osman, was the third Rashidun caliph, ruling from November 644 until his assassination. He ruled for twelve years, the longest of all Rashidun caliphs, and during his reign, the Rashidun Caliphate reached its greatest extent. He is known for having ordered the compilation of the first standard version of the Quran.
@@ -6174,17 +6173,17 @@ Uthman continued his predecessor's policies of centralization and expansion, but
 
 Uthman is viewed by historians to be one of the most successful caliphs. From an expansionist perspective, he is regarded as skilled in conflict management, as is evident from how he dealt with the heated and troubled early Muslim conquered territories. In Sunni Islam, Uthman is considered a devout and pious caliph, and also viewed as the third most righteous companion of Muhammad.
 
-#### Election
+### Election
 
 In 644, the second caliph Umar was brutally wounded by the Persian slave Abu Lu'lu'a Firuz. Umar, on his deathbed, formed a committee (shūra) of six people to choose the next caliph from amongst themselves. The committee included Uthman, his brother-in-law Ali, childhood friend Abd al-Rahman ibn Awf, and three of Muhammad's other prominent companions Talha ibn Ubayd Allah, Zubayr ibn al-Awwam and Sa'd ibn Abi Waqqas. Umar commanded that, after his death, the committee should reach a final decision within three days, and the next caliph should take the oath of office on the fourth day.
 
-On 6 November 644, the process took place, in which Talha was absent. Uthman and Ali voted for each other, Zubayr favored the former, and Sa'd supported the latter.  Following Abd al-Rahman's decision, the committee officially chose Uthman the third caliph and pledged their allegiance (ba'yah).
+On 6 November 644, the process took place, in which Talha was absent. Uthman and Ali voted for each other, Zubayr favored the former, and Sa'd supported the latter. Following Abd al-Rahman's decision, the committee officially chose Uthman the third caliph and pledged their allegiance (ba'yah).
 
-#### Compilation of the Quran
+### Compilation of the Quran
 
 In about 650 CE, Uthman began noticing slight differences in pronunciation of the Quran as Islam expanded beyond the Arabian Peninsula into Persia, the Levant, and North Africa. In order to preserve the sanctity of the text, he ordered a committee headed by Zayd ibn Thabit to use caliph Abu Bakr's copy and prepare a standard copy of the Qur'an. Thus, within 20 years of Muhammad's death, the Quran was committed to written form. That text became the model from which copies were made and promulgated throughout the urban centers of the Muslim world, and other versions are believed to have been destroyed.
 
-#### Economic and social administration
+### Economic and social administration
 
 Uthman was a shrewd businessman and a successful trader from his youth, which contributed greatly to the Rashidun Empire. Umar had established a public allowance and, on assuming office, Uthman increased it by about 25%. Umar had placed a ban on the sale of lands and the purchase of agricultural lands in conquered territories. Uthman withdrew these restrictions, in view of the fact that the trade could not flourish. Uthman also permitted people to draw loans from the public treasury. Under Umar, it had been laid down as a policy that the lands in conquered territories were not to be distributed among the combatants, but were to remain the property of the previous owners. The army felt dissatisfied at this decision, but Umar suppressed the opposition with a strong hand. Uthman followed the policy devised by Umar and there were more conquests, and the revenues from land increased considerably.
 
