@@ -6247,13 +6247,19 @@ The issue of his right in the post-Muhammad caliphate caused a major rift betwee
 
 After Uthman was killed, Ali was elected as the next Caliph, which coincided with the first civil wars between Muslims. Ali faced two separate opposition forces: a group led by Aisha, Talha, and Zubayr in Mecca, who wanted to convene a council to determine the caliphate; and another group led by Mu'awiya in the Levant, who demanded revenge for Uthman's blood. He defeated the first group in the Battle of the Camel; but in the end, the Battle of Siffin with Mu'awiya was militarily ineffective, and led to an arbitration which ended politically against him. Then, in the year 38 AH (658-659), he fought with the Kharijites - who considered Ali's acceptance of arbitration as heresy, and revolted against him - in Nahrawan and defeated them. Ali was eventually killed in the mosque of Kufa by the sword of one of the Kharijites, Ibn Muljam Moradi, and was buried outside the city of Kufa. Later his shrine and the city of Najaf were built around his tomb. Despite the impact of religious differences on Muslim historiography, sources agree that Ali strictly observed religious duties and avoided worldly possessions. Some writers accused him of a lack of political skill and flexibility. According to Wilferd Madelung, Ali did not want to involve himself in the game of political deception which deprived him of success in life, but, in the eyes of his admirers, he became an example of the piety of the primary un-corrupted Islam, as well as the chivalry of pre-Islamic Arabia. Several books are dedicated to the hadiths, sermons, and prayers narrated by him.
 
-#### Election
+### Ali during Khalifate of Umar
+
+On his death bed, Abu Bakr nominated Umar as his successor. Ali not only took the oath of allegiance to Umar but also married his daughter Umm Kulthum to Umar, and quite contrary to the biased allegations, perfect cordiality prevailed between Ali and Umar. Ali held the office of the Chief Justice. He acted as the principal Counselor of Umar. He acted as Chief Secretary as well. The services of Ali were highly appreciated by Umar. In these circumstances the views expressed in some quarters that Umar was the worst enemy of Ali is far from truth and cannot be accepted.
+
+When Umar passed away, Ali mourned his death in the following terms: "May God bless the soul of Umar. He made things straight. He cured the malady. He enforced the Shari'ah. He established law and order. He was noble, virtuous, and free from faults. He availed of what was good of the caliphate and avoided what was evil thereof. He obeyed God, and served His cause well. After his passing away the people have taken to different paths where those who have strayed cannot find the way, and those who have followed the straight way cannot long keep it."
+
+### Election
 
 When Uthman was killed in 656 CE by rebels from Egypt, Kufa and Basra, the potential candidates for caliphate were Ali and Talha. The Umayyads had fled Medina, and the Egyptians, prominent Muhajirun, and Ansar had gained control of the city. Among the Egyptians, Talha enjoyed some support. However, the Basrians and Kufis, who had heeded Ali's opposition to the use of violence, and most of the Ansar openly supported Ali's caliphate, and finally got the upper hand.
 
 The caliphate was offered to Ali and he accepted the position after a few days. According to Madelung, many of Muhammad's companions expressed the wish to pledge allegiance to him after the assassination of Uthman. At first, Ali declined. It has been suggested that the assassination of Uthman created an atmosphere of tumult and panic. This atmosphere might have compelled Ali into accepting the caliphate to prevent further chaos.
 
-#### Ruling style
+### Ruling style
 
 By virtue of his kinship with Muhammad and his profound knowledge of Islam's roots, Ali laid claim to the religious authority to interpret the Quran and Sunnah to meet the needs of a rapidly-changing caliphate.
 
@@ -6261,7 +6267,7 @@ Ali opposed a centralized control over provincial revenues, favoring an equal di
 
 According to Heck, Ali also forbade Muslim fighters from looting and instead distributed the taxes as salaries among the warriors, in equal proportions. This might have been the first subject of the dispute between Ali and the group that later constituted the Kharijites. Since the majority of Ali's subjects were nomads and peasants, he was concerned with agriculture. In particular, he instructed his top general, Malik al-Ashtar, to pay more attention to land development than short-term taxation.
 
-#### Battle of the Camel
+### Battle of the Camel
 
 </details><details><summary>
 
