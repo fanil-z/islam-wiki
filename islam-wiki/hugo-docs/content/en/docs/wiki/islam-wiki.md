@@ -30,6 +30,8 @@ author: fanil
 > 
 > [Fair Use Law](https://www.findlaw.com/smallbusiness/intellectual-property/fair-use-law.html)
 >
+> [alim.org](https://www.alim.org/history)
+>
 > Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
 > 
 > According to Islamic tradition, every nation had its prophet. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned in this guide because there was no authentic hadith about this particular prophet in Islamic tradition.
@@ -5973,6 +5975,26 @@ With these words of the Holy Quran on his lips, Abu Bakr expired. From God he ha
 
 Burial. According to the will of Abu Bakr, his dead body was prepared for burial by his wife Asma b Umas. She was helped by his son Abdul Rahman. The funeral prayer was led by Umar. He was buried the same night in the house of Ayesha by the side of the grave of the Holy Prophet. In life, Abu Bakr had the honor of being a bosom companion of the Holy Prophet, after death he had also the honor of resting by the side of the Master.
 
+### Speech of Ali
+
+When Abu Bakr died in 634 C.E., Ali delivered an oration which was not only a faithful summing up of the character and personality of Abu Bakr, but was also a masterpiece of oratory. The speech has been preserved, and quoted hereunder in full:
+
+> "Mercy of God on you O Abu Bakr! You were an affectionate Companion and friend of the Prophet of Allah, a source of joy to him, and who knew his secrets, and enjoyed the privilege of being consulted by him. You were the first person to embrace Islam. You had the purest faith, and your belief in Islam was unshakable. Of all, you feared Allah most, and you were the source of the greatest advantage to his faith. You had been with the Prophet more than any one else, and your love for Islam was superior to others. A blessing to the Companions, you were the best of associates, master of many virtues, excelling others in accomplishments, and superior to all in position. 
+>
+> You resembled the Holy Prophet more than any other person in the uprightness of character and conduct and in kindness and excellence. Your rank was noble, and your position sublime and you enjoyed the greatest confidence of the Prophet. May God reward you for your services to Islam and the Prophet. For the Prophet you were like his very sight and hearing. You corroborated the truth of his message at a time when everybody belied him; and so you were called "As-Sadiq' (the veracious) by Allah in His revelations. He says, 'The one who came with the Truth and the one who corroborated the truth. The One who came with the Truth was Muhammad, and the one who corroborated the Truth was Abu Bakr. You supported him when others had deserted, and you remained firm in helping him in misfortunes when others had withdrawn their support. In the days of hardship you were his best companion; you were the second of the two, and his companion in the Cave. You were the person on whom God conferred tranquillity of mind.
+> 
+> You were the only companion of the Prophet in his migration to Madina, and you were his Caliph among his followers, and in the religion of Allah. You discharged the functions of the Khilafat in a most excellent manner at a moment when the people had taken to apostasy, and exhibited much firmness in enforcing the commands of Allah as had never been exhibited by the Khalifa of any other prophet. You rose to the occasion when your colleagues showed lassitude, and you became bold when they exhibited weakness. You were strong when they were weak. You retained your adherence to the ways of the Prophet when others had deviated from them. You were his true Caliph with no dispute or difference, although this gave offense to hypocrites, and umbrage to the infidels. You stuck to the commands of Allah when others showed cowardice. You remained firm when others went astray.
+>
+> You had the lowest voice, and the highest distinction. Your conversation was most salutary, and your reasoning was forceful. Your silence was longest in duration, and your speech was most eloquent. You were bravest among men, You were well informed about matters. Your action was most dignified. You were the leader of the believers. You came towards the faith when others were away from it. Indeed you acted 1ike a kind father to the believers, and your filial affection made them your children. You bore the heavy burden which they could not, and you preferred to do what they had omitted. You preserved that what they had lost. You taught them what they knew not. You took the risk when they were helpless. You did not lose patience, when they were inpatient. You redressed the grievances of those who asked for justice. They turned to you for guidance, and you guided them to success. They got through you what they had never dreamt of. For the infidels you were a source of terrible punishment and great fear. For the believers you were all kindness, affection and protection. 
+>
+> You fed in the atmosphere of piety, you attained its noble reward, and won in superiority. Your argument was never weak and your judgment was never faulty. You were never guilty of cowardice, and your heart was never crooked or misdirected. You were like a rock which stands firm in the face of hard blows of dashing winds and waves. You were as the Prophet of Allah has said, the most generous of men in friendship and in giving money. Again as he said, you were weak in body, but strong in enforcing the commands of Allah. You were humble in your manners, but dignified in the estimation of God. You were great in the eyes of men, and you commanded respect with them. No one could even as much as wink at you, nor could any one taunt you. You were kind to all and partial to none. The weak and the humble were strong with you as you made secure their rights. The strong were weak and humble with you as you made them surrender the rights of others. No matter those who were near you, and those who were far from you were all equal. Those who obeyed and feared Allah were nearest to you. 
+> 
+> Your dignity lay in righteousness, truth and benevolence. Your word was imperative and definite. Your command was mild and cautious. Your judgment was fair and wise. You extirpated evil and made way for the Truth clear. You solved difficulties. You extinguished the fires of evil and discord. You brought moderation to the Faith, strength to belief, firmness to Islam and the Muslims, and triumph to the command of Allah. You were a source of grief to the infidels. Because of your extraordinary qualities, you have created difficulties for your successors who would have to work hard to maintain the standards set by you. Evidently, you attained a high position in doing good. You are far above mourning and lamentation. Mourning for you is great in the Heaven. 
+> 
+> Your death has broken the back bone of the people, and we recite the verse 'From God you came, and to God you have returned'. We submit to what has been ordained by Allah, and are ready to obey His commands. By Allah never shall the Muslims suffer after the death of the Prophet, a calamity greater than your death. You were a source of honor, protection and support to the Faith and for the believers you were a stronghold and a place of refuge. For the hypocrites you were all strictness and terror. May Allah take you near to your Prophet, and may He not deprive us of the fruits of your efforts and may we not be misled after you. 
+>
+> We recite once again 'From God you came and to God you have returned'. May your soul rest in peace!"
+
 </details><details><summary>
 
 ## 634-644: Umar ibn Al-Khattab
@@ -6268,6 +6290,16 @@ Ali opposed a centralized control over provincial revenues, favoring an equal di
 According to Heck, Ali also forbade Muslim fighters from looting and instead distributed the taxes as salaries among the warriors, in equal proportions. This might have been the first subject of the dispute between Ali and the group that later constituted the Kharijites. Since the majority of Ali's subjects were nomads and peasants, he was concerned with agriculture. In particular, he instructed his top general, Malik al-Ashtar, to pay more attention to land development than short-term taxation.
 
 ### Battle of the Camel
+
+### Death of Ali
+
+The more you go into dunya
+the more lonely you become
+My journey is for Jannah
+and I don't have enough good deeds
+and the travel is very long
+
+Upon hearing this, tears appeared on the face of Muawiyah, and he said: "Yes, that was Ali".
 
 </details><details><summary>
 
