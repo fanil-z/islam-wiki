@@ -6291,6 +6291,8 @@ According to Heck, Ali also forbade Muslim fighters from looting and instead dis
 
 ### Battle of the Camel
 
+The Battle of the Camel, also known as the Battle of Jamel or the Battle of Basra, took place outside of Basra, Iraq, in 36 AH/656 CE. The battle was fought between the army of the fourth caliph, Ali, on one side, and the rebel army led by Aisha, Talha and Zubayr, on the other side. The Aisha's party had revolted against Ali ostensibly to avenge the assassination of the third caliph, Uthman. Both the efforts of Ali to save Uthman and the leading roles of Aisha and Talha in inciting Muslims against Uthman are well-cited. Ali emerged victorious from this battle in which Talha and Zubayr were both killed and Aisha was captured and sent back to Hejaz.
+
 ### Death of Ali
 
 The more you go into dunya
