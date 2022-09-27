@@ -6289,17 +6289,32 @@ Ali opposed a centralized control over provincial revenues, favoring an equal di
 
 According to Heck, Ali also forbade Muslim fighters from looting and instead distributed the taxes as salaries among the warriors, in equal proportions. This might have been the first subject of the dispute between Ali and the group that later constituted the Kharijites. Since the majority of Ali's subjects were nomads and peasants, he was concerned with agriculture. In particular, he instructed his top general, Malik al-Ashtar, to pay more attention to land development than short-term taxation.
 
-### Battle of the Camel
+### First Fitnah
+
+#### Battle of the Camel
 
 The Battle of the Camel, also known as the Battle of Jamel or the Battle of Basra, took place outside of Basra, Iraq, in 36 AH/656 CE. The battle was fought between the army of the fourth caliph, Ali, on one side, and the rebel army led by Aisha, Talha and Zubayr, on the other side. The Aisha's party had revolted against Ali ostensibly to avenge the assassination of the third caliph, Uthman. Both the efforts of Ali to save Uthman and the leading roles of Aisha and Talha in inciting Muslims against Uthman are well-cited. Ali emerged victorious from this battle in which Talha and Zubayr were both killed and Aisha was captured and sent back to Hejaz.
 
+#### Battle with Muawiyah
+
+<img src="/first_fitnah.png" alt="Early Expansion"> 
+
+
 ### Death of Ali
 
-The more you go into dunya
-the more lonely you become
-My journey is for Jannah
-and I don't have enough good deeds
-and the travel is very long
+Ali was assassinated at the age of 62 or 63 by a Kharijite, ibn Muljam, who wanted revenge for the Battle of Nahrawan. Another report indicates that Ibn Muljam, along with two other Karijites, decided to assassinate Ali, Mu'awiya, and Amr ibn al-As simultaneously in order to rid Islam of the three men, who, in their view, were responsible for the civil war, but only succeeded in killing Ali. The date of his death has been reported differently. According to Shaykh al-Mufid, he was wounded on the 19th of Ramadan 40 AH (26 January 661 AD) and died two days later. Ali barred his sons from retaliating against the Kharijites, instead stipulating that, if he survived, Ibn Muljam would be pardoned whereas if he died, Ibn Muljam should be given only one equal hit, regardless of whether or not he died from the hit. Ali's eldest son, Hasan, followed these instructions and Ibn Muljam was executed in retaliation. According to some accounts, Ali had long known about his fate, either by his own premonition or through Muhammad, who had told Ali that his beard would be stained with the blood of his head. It is emphasized mainly in Shia sources that Ali, despite being aware of his fate at the hands of Ibn Muljam, did not take any action against him because, in Ali's words, "Would you kill one who has not yet killed me?"
+
+According to Shaykh al-Mufid, Ali did not want his grave to be exhumed and profaned by his enemies. He thus asked to be buried secretly. It was revealed later during the Abbasid caliphate by Ja'far al-Sadiq that the grave was some miles from Kufa, where a sanctuary arose later and the city Najaf was built around it.
+
+There is a narration that when Ali died, Muawuyah asked Ali's student to describe his teacher. The student recited the following poetry about Ali:
+
+> The more you go into dunya, the more lonely you become
+> 
+> My journey is for Jannah
+> 
+> and I don't have enough good deeds
+> 
+> and the travel is very long
 
 Upon hearing this, tears appeared on the face of Muawiyah, and he said: "Yes, that was Ali".
 
