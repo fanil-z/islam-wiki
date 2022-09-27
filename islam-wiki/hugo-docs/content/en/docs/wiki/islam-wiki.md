@@ -6324,11 +6324,11 @@ Upon hearing this, tears appeared on the face of Muawiyah, and he said: "Yes, th
 
 </summary>
 
-Hasan ibn Ali (حسن ابن علي, ; 625 – 2 April 670) was the eldest son of Ali and Fatima and a grandson of the Islamic prophet Muhammad. He briefly ruled as caliph from January 661 until August 661. He is considered the second Shia Imam, succeeding Ali and preceding his brother, Husayn. In Sunni Islam, Hasan is considered one of the greatest sahaba and part of Muhammad's family. Part of the ahl al-bayt and the ahl al-kisa, he participated in the event of Mubahala. Muhammad described Hasan and Husayn as "the masters of youth in Paradise".
+Hasan ibn Ali (حسن ابن علي, ; 625 – 2 April 670) was the eldest son of Ali and Fatima and a grandson of the prophet Muhammad ﷺ  . He briefly ruled as caliph from January 661 until August 661. He is considered the second Shia Imam, succeeding Ali and preceding his brother, Husayn. In Sunni Islam, Hasan is considered one of the greatest sahaba and part of prophet Muhammad's ﷺ   family. Part of the ahl al-bayt and the ahl al-kisa, he participated in the event of Mubahala. Muhammad ﷺ   described Hasan and Husayn as "the masters of youth in Paradise".
 
-During the caliphate of Ali (r. 656 – 661), Hasan accompanied him in the military campaigns of the First Muslim Civil War. After Ali's assassination in 661, Hasan was subsequently acknowledged caliph in Kufa. His sovereignty was unrecognized by Syria's governor Mu'awiya I (r. 661 – 680), who led an army into Kufa to press the former for abdication. In response, Hasan sent a vanguard under Ubayd Allah ibn al-Abbas to block Mu'awiya's advance until he arrived with the main army. Meanwhile, Hasan was severely wounded in an abortive assassination attempt made by the Kharijites, a faction opposed to both Ali and Mu'awiya. This attack demoralized Hasan's army, and many deserted. On the other hand, Ubayd Allah and most of his troops defected after Mu'awiya bribed him. In August 661 (Rabi al-Thani 41 AH), Hasan signed a peace treaty with Mu'awiya on the basis that the latter should rule in compliance with the Quran and the sunna, a council appointed his successor, and his supporters received amnesty. Hasan retired from politics and abdicated in Medina where he eventually died either by a long-term illness or poisoning at the instigation of Mu'awiya, who wanted to install his son Yazid (r. 680–683), as his successor.
+During the caliphate of Ali (r. 656 – 661), Hasan accompanied him in the military campaigns of the First Muslim Civil War. After Ali's assassination in 661, Hasan was subsequently acknowledged caliph in Kufa. His sovereignty was unrecognized by Syria's governor Mu'awiya I (r. 661 – 680), who led an army into Kufa to press the former for abdication. In response, Hasan sent a vanguard under Ubaydallah ibn al-Abbas to block Mu'awiya's advance until he arrived with the main army. Meanwhile, Hasan was severely wounded in an abortive assassination attempt made by the Kharijites, a faction opposed to both Ali and Mu'awiya. This attack demoralized Hasan's army, and many deserted. On the other hand, Ubaydallah and most of his troops defected after Mu'awiya bribed him. In August 661 (Rabi al-Thani 41 AH), Hasan signed a peace treaty with Mu'awiya on the basis that the latter should rule in compliance with the Quran and the sunna, a council appointed his successor, and his supporters received amnesty. Hasan retired from politics and abdicated in Medina where he eventually died either by a long-term illness or poisoning at the instigation of Mu'awiya, who wanted to install his son Yazid (r. 680–683), as his successor.
 
-Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying that he had intended to surrender from the beginning and fought half-heartedly. His supporters maintain that Hasan's abdication was inevitable after his soldiers mutinied, and he was motivated by the desire for unity and peace in the Muslim community; Muhammad reportedly predicted that Hasan would make peace among the Muslims. Another Sunni hadith (also attributed to Muhammad) predicted that the prophetic succession would endure for thirty years, which may have been interpreted by at least some early Sunni scholars as evidence that Hasan's caliphate was rightly-guided (rāshid).
+Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying that he had intended to surrender from the beginning and fought half-heartedly. His supporters maintain that Hasan's abdication was inevitable after his soldiers mutinied, and he was motivated by the desire for unity and peace in the Muslim community; prophet Muhammad ﷺ   reportedly predicted that Hasan would make peace among the Muslims. Another Sunni hadith (also attributed to Muhammad) predicted that the prophetic succession would endure for thirty years, which may have been interpreted by at least some early Sunni scholars as evidence that Hasan's caliphate was rightly-guided (rāshid).
 
 </details><details><summary>
 
@@ -6336,9 +6336,19 @@ Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying
 
 </summary>
 
-Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammadﷺ   died, Arabs conquered both of these empires.
+Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad ﷺ   died, Arabs conquered both of these empires.
 
 They did not have buildings, they did not even have a government. They were never united. by modern historic scholars considers this as the same if Escimoes of 2000's conquerred Russia and USA.
+
+The early Muslim conquests (Arabic: ٱلْفُتُوحَاتُ ٱلْإِسْلَامِيَّةُ, al-Futūḥāt al-Islāmiyya), also referred to as the Arab conquests[4] and the early Islamic conquests began with the Islamic prophet Muhammad in the 7th century. He established a new unified polity in the Arabian Peninsula which under the subsequent Rashidun and Umayyad Caliphates saw a century of rapid expansion. According to the Scottish historian James Buchan, “in speed and extent, the first Arab conquests were matched only by those of Alexander the Great, and they were more lasting.”
+
+The resulting empire stretched from parts of Central Asia and the Indian subcontinent, across the Middle East, North Africa, the Caucasus, and parts of Southwest Europe (Sicily and the Iberian Peninsula to the Pyrenees). Edward Gibbon writes in The History of the Decline and Fall of the Roman Empire:
+
+Under the last of the Umayyads, the Arabian empire extended two hundred days journey from east to west, from the confines of Tartary and India to the shores of the Atlantic Ocean ... We should vainly seek the indissoluble union and easy obedience that pervaded the government of Augustus and the Antonines; but the progress of Islam diffused over this ample space a general resemblance of manners and opinions. The language and laws of the Quran were studied with equal devotion at Samarcand and Seville: the Moor and the Indian embraced as countrymen and brothers in the pilgrimage of Mecca; and the Arabian language was adopted as the popular idiom in all the provinces to the westward of the Tigris.
+
+The Muslim conquests brought about the collapse of the Sassanid Empire and a great territorial loss for the Byzantine Empire. The reasons for the Muslim success are hard to reconstruct in hindsight, primarily because only fragmentary sources from the period have survived. Fred McGraw Donner suggests that formation of a state in the Arabian peninsula and ideological (i.e., religious) coherence and mobilization was a primary reason why the Muslim armies in the space of a hundred years were able to establish one of the largest pre-modern empires until that time. Estimates of the total area of the combined territory held by the Islamic Caliphate at its peak have been as high as thirteen million square kilometers, or five million square miles. Most historians agree as well that the Sassanid Persian and Byzantine Roman empires were militarily and economically exhausted from decades of fighting one another.
+
+It has been suggested that some Jews and Christians in the Sassanid Empire and Jews and Monophysites in Syria were dissatisfied and welcomed the Muslim forces, largely because of religious conflict in both empires. At other times, such as in the Battle of Firaz, Arab Christians allied themselves with the Persians and Byzantines against the invaders. In the case of Byzantine Egypt, Palestine and Syria, these lands had been reclaimed from the Persians only a few years before.
 
 </details>
 
@@ -6350,12 +6360,6 @@ They did not have buildings, they did not even have a government. They were neve
 ## Umayyad Dinasty Era
 
 </summary>
-</details><details><summary>
-
-## Umayyad Dinasty Era
-
-</summary>
-  
 </details><details><summary>
 
 ## 661-680: Khalifate of Muawiyyah
