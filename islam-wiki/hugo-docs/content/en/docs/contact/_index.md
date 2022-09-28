@@ -1,0 +1,1 @@
+Please feel free to send a feedback to islam-wiki@proton.me if you have any suggestions or corrections.

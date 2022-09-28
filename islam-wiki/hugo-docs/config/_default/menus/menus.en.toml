@@ -1,40 +1,17 @@
-[[docs]]
-  name = "Prologue"
+[[main]]
+  name = "Contacts"
+  url = "/docs/contact"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
-
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
-
-[[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 30
-
-[[main]]
-  name = "Prophets"
-  url = "/docs/prophets/"
-  weight = 10
-
-[[main]]
-  name = "Concept"
-  url = "/concept"
-  weight = 10
-
-[[main]]
-  name = "Islam and Science"
-  url = "/docs/islam_and_science/"
-  weight = 20
 
 [[main]]
   name = "Wiki"
   url = "/docs/wiki/islam-wiki"
   weight = 5
+
+[[main]]
+  name = "Prophets"
+  url = "/docs/prophets"
+  weight = 6
 
 [[social]]
   name = "GitHub"

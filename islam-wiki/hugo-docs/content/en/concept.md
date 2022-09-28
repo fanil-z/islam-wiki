@@ -84,6 +84,8 @@ I need to relisten some lectures from Seerah of prophet Muhammad SAW and finish 
 
 https://miro.com/app/board/o9J_kqBzhXk=/
 
+Recently I became a fan of [The Pudding](https://pudding.cool) and how they play with CSS and JS to create interactive data visuals like for example [this article about Aztec mythology](https://pudding.cool/2022/06/aztec-gods/).
+
 Need to do
 ===========
 ## STAGE 1. World History Map (General) 

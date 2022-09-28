@@ -53,7 +53,7 @@ author: fanil
 [6. Jewish Kings and Prophets](#6-jewish-kings-and-prophets) </br>
 [7. Isa (Jesus) and Family of Imran](#7-isa-jesus-and-family-of-imran) </br>
 [8. Pre-Islamic Arabia 🐫 🌴 🕋](#8-pre-islamic-arabia---) </br>
-[9. History of Islam](#9-history-of-islam) </br><!--
+[9. History of Islam](#9-history-of-islam-) </br><!--
    [9.1. Prophet Muhammad  ﷺ   ](#91-prophet-muhammad-saw) </br>
    [9.2 The Rashidun (Righteous Khalifs)](#91-prophet-muhammad-saw) </br>
    [9.3 The Islamic Golden Age](#93-the-islamic-golden-age) </br> -->
@@ -3952,11 +3952,11 @@ According to biographers, Prophet Muhammad ﷺ   lived a simple and austere life
 
 </details>
 
-### Meccan Period
+### 9.1.1 Meccan Period
 
 <details><summary>
 
-## **570**: The Prophet Muhammad ﷺ   is born
+## 570: The Prophet Muhammad ﷺ   is born
 
 </summary>
 
@@ -4107,11 +4107,11 @@ After freeing Zayd married Zaynab from Quraish. Zayd has a blessing of being the
 
 </details>
 
-### Iqra: First Revelation 📗
+### 9.1.2 Iqra: First Revelation 📗
 
 <details><summary>
 
-## **610**: First Surah of The Quran
+## 610: First Surah of The Quran
 
 </summary>
 
@@ -4342,7 +4342,7 @@ Umar personally informed Abu Jahl. This is one the funniest stories of early Isl
 
 </details><details><summary>
 
-## **610**: Boycott of Muslims
+## 610: Boycott of Muslims
 
 </summary>
 Then the Quraysh plotted amongst themselves about the companions of the Messenger of Allah who had entered Islam with him from amongst their tribes. Each tribe pounced upon any of its own who were Muslims, tormented them and forced them out from their religion.
@@ -4808,7 +4808,7 @@ With regard to the first Companions of the Prophet ﷺ   to emigrate, Al-Bara’
 
 </details>
 
-### Medina Period 🕌
+### 9.1.3 Medina Period 🕌
 
 <details><summary>
 
@@ -5723,9 +5723,7 @@ The army recuperated from the toil and fatigue of the long journey, and the Prop
 
 </details>
 
-### Last Years of The Prophet Muhammad ﷺ
-
-# PROOFREADINGPROOFREADINGPROOFREADING
+### 9.1.4 Last Years of Prophet Muhammad ﷺ
 
 <details><summary>
 
@@ -6340,7 +6338,7 @@ Arabia at that time was between two greatest super empires the Byzantine and Per
 
 They did not have buildings, they did not even have a government. They were never united. by modern historic scholars considers this as the same if Escimoes of 2000's conquerred Russia and USA.
 
-The early Muslim conquests (Arabic: ٱلْفُتُوحَاتُ ٱلْإِسْلَامِيَّةُ, al-Futūḥāt al-Islāmiyya), also referred to as the Arab conquests[4] and the early Islamic conquests began with the Islamic prophet Muhammad in the 7th century. He established a new unified polity in the Arabian Peninsula which under the subsequent Rashidun and Umayyad Caliphates saw a century of rapid expansion. According to the Scottish historian James Buchan, “in speed and extent, the first Arab conquests were matched only by those of Alexander the Great, and they were more lasting.”
+The early Muslim conquests (Arabic: ٱلْفُتُوحَاتُ ٱلْإِسْلَامِيَّةُ, al-Futūḥāt al-Islāmiyya), also referred to as the Arab conquests and the early Islamic conquests began with the Islamic prophet Muhammad in the 7th century. He established a new unified polity in the Arabian Peninsula which under the subsequent Rashidun and Umayyad Caliphates saw a century of rapid expansion. According to the Scottish historian James Buchan, “in speed and extent, the first Arab conquests were matched only by those of Alexander the Great, and they were more lasting.”
 
 The resulting empire stretched from parts of Central Asia and the Indian subcontinent, across the Middle East, North Africa, the Caucasus, and parts of Southwest Europe (Sicily and the Iberian Peninsula to the Pyrenees). Edward Gibbon writes in The History of the Decline and Fall of the Roman Empire:
 
@@ -6352,7 +6350,7 @@ It has been suggested that some Jews and Christians in the Sassanid Empire and J
 
 </details>
 
-# 9.3 Fitnah (Civil Conflict) and years before Golden Age
+# 9.3 Fitnah (Civil Conflicts) and years before Golden Age
 *******************************************
 
 <details><summary>
@@ -6360,6 +6358,60 @@ It has been suggested that some Jews and Christians in the Sassanid Empire and J
 ## Umayyad Dinasty Era
 
 </summary>
+
+<details><summary>
+
+## Yazid I
+
+</summary></details><details><summary>
+
+## Muawiya II
+
+</summary>
+</details><details><summary>
+
+## Marwan I 
+
+</summary>
+
+Cousin of Uthman.
+
+</details><details><summary>
+
+## 685 - 705: Califate of Abd al-Malik
+
+</summary>
+
+Abd al-Malik manages to restore Umayyad rule.
+
+</details><details><summary> 
+
+## 705 - 715: Califate of al-Walid
+
+</summary>
+
+</details><details><summary>
+
+## 717 - 720: Califate of Umar II
+
+</summary>
+
+</details><details><summary>
+
+## 720 - 724: Califate of Yazid II
+
+</summary>
+
+</details><details><summary>
+
+## 724 - 743: Califate of Hisham I
+
+</summary>
+
+</details>
+
+
+
 </details><details><summary>
 
 ## 661-680: Khalifate of Muawiyyah
@@ -6375,12 +6427,6 @@ It has been suggested that some Jews and Christians in the Sassanid Empire and J
 </details><details><summary>
 
 ## Death of Hasan ibn Ali in Medina
-
-</summary>
-  
-</details><details><summary>
-
-## Yazid I
 
 </summary>
   
@@ -6433,23 +6479,39 @@ Abu Hurairah 🐈 were recorded has participated during the Expedition of Dhat a
 
 Later, Abu Hurairah 🐈 were sent as Muezzin to al-Ala al-Hadhrami. And Muhammad entrusted him with some works such as preserving Ramadan zakat funds.
 
-</details>
+</details><details><summary>
 
-* Muawiya II
-* Marwan I -- cousin of Uthman
-* 685 - 705: Califate of Abd al-Malik, who manages to restore Umayyad rule. 
-* 691: The Dome of the Rock is completed in Jerusalem. Building of the Al-Aqsa mosque.
-* 705 - 715: Califate of al-Walid
-* 717 - 720: Califate of Umar II
-* 720 - 724: Califate of Yazid II
-* 724 - 743: Califate of Hisham I
-* 642 - 728: Hasan al-Basri, hadith scholar, religious reformer and ascetic.
-* 762 The foundation of Baghdad, which becomes the new Abbasid capital.
-* 775 - 785: Califate of al-Maghdi. He encourages the development of fiqh, acknowledge the piety of the religious movement.
+## 691: Building of the Al-Aqsa mosque.
 
-<details><summary>
+</summary>
 
-## **732**: Abu Hanifa pioneers the study of fiqh
+The Dome of the Rock is completed in Jerusalem. 
+
+</details><details><summary>
+
+## 642 - 728: Hasan al-Basri
+
+</summary>
+
+Hasan al-Basri is a hadith scholar, religious reformer and ascetic.
+
+</details><details><summary>
+
+## 762 The foundation of Baghdad, which becomes the new Abbasid capital
+
+</summary>
+ 
+</details><details><summary>
+
+## 775 - 785: Califate of al-Maghdi
+
+</summary>
+
+Al-Maghdi encourages the development of fiqh, acknowledge the piety of the religious movement.
+
+</details><details><summary>
+
+## 732: Abu Hanifa pioneers the study of fiqh
 
 </summary>
 
@@ -6517,12 +6579,12 @@ The honorific title al-Imam al-A'zam ("the greatest leader") was granted to him 
 
 </details><details><summary>
 
-## 732: Muhammad ibn Iskhak writes the first seerah and introduces the isnad (chain of narrations)
+## 732: Muhammad ibn Iskhak writes the first seerah and introduces isnad (chain of narrations)
 
 </summary>
 </details><details><summary>
 
-## Ibn Hisham (Muhammad ibn Iskhak's student) shortens the seerah of the prophet Muhammad.
+## Ibn Hisham (Muhammad ibn Iskhak's student) shortens the seerah of prophet Muhammad ﷺ
 
 </summary></details>
 
@@ -6552,7 +6614,7 @@ paper production from China, translation of Ancient Greek philosophers' works an
 
 </details><details><summary>
 
-### Caliphate of Harun al-Rushdi
+## Caliphate of Harun al-Rushdi
 
 </summary>
 
