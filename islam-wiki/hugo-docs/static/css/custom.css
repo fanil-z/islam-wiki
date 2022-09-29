@@ -63,6 +63,7 @@ h3, .h3 {
 h1, .h1 {
 	font-size: 32px !important;
 	font-weight: 500 !important;
+  margin-top: 5rem !important;
 }
 
 h2, .h2 {

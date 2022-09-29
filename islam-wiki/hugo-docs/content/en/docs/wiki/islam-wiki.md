@@ -7351,7 +7351,7 @@ The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocen
 
 </details>
 
-# 12. Yawm Al Qiyamah (Apocalypse)
+# 12. Yawm Al Qiyamah (The Apocalypse)
 *******************************************
 
 ### 12.1 Minor Signs of The Day of Judgement
@@ -7432,6 +7432,9 @@ the moaques will become palaces
 just find the hadith that mentions 10 signs
 
 increase of riba ,  noone will be able to escape the dust of it
+
+Muslims will lose Constantinople (Istanbul). 
+Then Constantinople will be re-conquerred and then Dajjal will appear. When Dajjal appears, the safest place will be Madinah and Makkah.
 
 </details>
 
@@ -7562,7 +7565,7 @@ The Smoke is mentioned in the Quran.
 
 </details><details><summary>
 
-### Sun will come up from the West 🌄
+## Sun will come up from the West 🌄
 
 </summary> 
 
@@ -7598,7 +7601,7 @@ The fire will come out and it will spread, making people come to the destination
 
 <details><summary>
 
-### What happens after The End
+## What happens after The End
 
 </summary> 
 Allahu 'Alim.
