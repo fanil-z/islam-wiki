@@ -4,9 +4,9 @@ author: fanil
 
 ---
 
-<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline </b></p>
+<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline* </b></p>
 
-*According to Islamic Sources
+*_According to Islamic Sources_
 
 <!--
 <p style="font-size: 15px"><i>*including creation of the Universe and development of Abrahamic religions according to Islamic sources</i> ☪️<i>.</i></p>
@@ -6382,7 +6382,7 @@ Cousin of Uthman.
 
 </summary>
 
-Abd al-Malik manages to restore Umayyad rule.
+Abd al-Malik manages to restore Umayyad rule. Orders to build the Al Aqsa mosque.
 
 </details><details><summary> 
 
@@ -6440,42 +6440,44 @@ Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Hu
 
 </details><details><summary>
 
-## Murder of Huseyn and his family
+## Murder of Huseyn ibn Ali and his family
 
 </summary>
 
-Muslims of Kufah, who claim themselves Shiah i-Ali (Partisans of Ali) acclaim Husain, the second son of Ali ibn Abi-Talib, as khalif.
 
 </details><details><summary>
 
 ## Division of Muslims to Sunni and Shia
 
 </summary>
+
+The killing of the grandson of Muhammad shocked the Muslim community. The image of Yazid suffered and gave rise to sentiment that he was impious. Prior to the Battle of Karbala, the Muslim community was divided into two political factions. Nonetheless, a religious sect with distinct theological doctrines and specific set of rituals had not developed. Karbala gave this early political party of pro-Alids a distinct religious identity and helped transform it into a distinct religious sect. Heinz Halm writes: "There was no religious aspect to Shi'ism prior to 680. The death of the third imam and his followers marked the 'big bang' that created the rapidly expanding cosmos of Shi'ism and brought it into motion."
+
 </details><details><summary>
 
 ## 603-680: Abu Huraira 🐈 (603 - 680)
 
 </summary>
 
-Abdur-Rahman ibn Sakhr Al-Dawsri Al-Zahrani (عبد الرحمن بن صخر الدوسري‎; c. 603 – 680), better known as Abu Hurayrah 🐈 (or Hurairah 🐈; Arabic: أبو هريرة, translates to the father of the kitten 🐈), was one of the companions of Islamic prophet Muhammad and, according to Sunni Islam, the most prolific narrator of hadith.
+Abdur-Rahman ibn Sakhr Al-Dawsri Al-Zahrani (603 – 680), better known as Abu Hurayrah (or Hurairah 🐈; Arabic: أبو هريرة, translates to the "father of the kitten 🐈"), was one of the companions of Islamic prophet Muhammad and, according to Sunni Islam, the most prolific narrator of hadith.
 
 He was known by the kunyah Abu Hurayrah 🐈 "Father of a Kitten", in reference to his attachment to cats 🐈🐈, and he was a member of Suffah. Later during caliphate era, Abu Hurairah 🐈 served as Ulama teacher, governor, soldier, and Hadith auditor. Among his other epithets is ذو الوينسين or "Possessor of the Two Elbows", as his own narrations claim Prophet Muhammad praised him for his sturdy elbows and righteous character.
 
-    "I was called Abu Hurairah 🐈 because I would tend to the goats of my family, and one day I found a stray kitten 🐈 which I placed in my sleeve. When I returned to my people they heard the kitten purr 🐈 in my sleeve and they asked, "What is that, O 'Abd Shams?" I replied, "A kitten I found 🐈." "So you are Abu Hurairah 🐈 (Father of cats 🐈)," they responded and the name stuck thereafter."
+    "I was called Abu Hurairah because I would tend to the goats of my family, and one day I found a stray kitten which I placed in my sleeve. When I returned to my people they heard the kitten purr in my sleeve and they asked, "What is that, O 'Abd Shams?" I replied, "A kitten I found." "So you are Abu Hurairah (Father of cats 🐈🐈)," they responded and the name stuck thereafter."
 
-Abu Hurairah 🐈 acknowledged by Muslim scholars for his extraordinary photographic memory which allowed him to memorize massive numbers of over 5,000 hadiths which later produced more than 500,000 chain narrations, or Isnad which make Abu Hurairah 🐈 an exemplar role model for Hadith studies scholars. It is said by Abu Hurairah 🐈 himself the only one who surpassed him regarding hadith were Abd Allah ibn Amr ibn al-As, another companion who serve as writer assistant of Muhammad and author of "Al-Sahifah al-Sadiqah", the first Hadith book in history.
+Abu Hurairah acknowledged by Muslim scholars for his extraordinary photographic memory which allowed him to memorize massive numbers of over 5,000 hadiths which later produced more than 500,000 chain narrations, or Isnad which make Abu Hurairah an exemplar role model for Hadith studies scholars. It is said by Abu Hurairah himself the only one who surpassed him regarding hadith were Abdallah ibn Amr ibn al-As, another companion who serve as writer assistant of Muhammad and author of "Al-Sahifah al-Sadiqah", the first Hadith book in history.
 
-Abu Hurairah 🐈 hadiths has been used by most, if not all scholars of Islam across the ages for Islamic learning about Aqidah, Islamic eschatology, Tafsir, Fiqh, Biographical evaluation, Prophetic biography, and Fatwa verdicts.
+Abu Hurairah hadiths has been used by most, if not all scholars of Islam across the ages for Islamic learning about Aqidah, Islamic eschatology, Tafsir, Fiqh, Biographical evaluation, Prophetic biography, and Fatwa verdicts.
 
-According to al-Dhahabi, Abu Hurairah 🐈 hailed from the Arab tribe of Zahran of the prominent clan of Banu Daws and was born in the region of Al-Baha which was in Asir at that time. It is unclear as to what his real name is, the most popular opinion being that it was 'Abd al-Raḥmān ibn Ṣakhr (عبد الرحمن بن صخر).
+According to al-Dhahabi, Abu Hurairah hailed from the Arab tribe of Zahran of the prominent clan of Banu Daws and was born in the region of Al-Baha which was in Asir at that time.
 
 #### Life as Muslim
 
-Abu Hurairah 🐈 embraced Islam through Tufayl ibn Amr, the chieftain of his tribe, as Tufayl had returned to his village after meeting Muhammad and became a Muslim in the early years of his mission. Abu Hurairah was one of the first to respond to his call, unlike the majority of Tufayl's tribesmen, who embraced Islam later. Abu Hurairah 🐈 accompanied Tufayl to Mecca to meet Muhammad who renamed him Abd al-Rahman ("servant of the Merciful") from Abd al Sham, or some said Abd al Ghanm.
+Abu Hurairah embraced Islam through Tufayl ibn Amr, the chieftain of his tribe, as Tufayl had returned to his village after meeting Muhammad and became a Muslim in the early years of his mission. Abu Hurairah was one of the first to respond to his call, unlike the majority of Tufayl's tribesmen, who embraced Islam later. Abu Hurairah accompanied Tufayl to Mecca to meet Muhammad who renamed him Abd al-Rahman ("servant of the Merciful") from Abd al Sham, or some said Abd al Ghanm.
 
-During his early years embracing Islam in Medina, Abu Hurairah 🐈 became disciple of Suffah. Abu Hurayrah 🐈 spent 2 years 3 months approximately in the company of Muhammad and went on expeditions and journeys with him. However, according to Safiur Rahman Mubarakpuri in his The Sealed Nectar, the Dhat ar-Riqa' campaign took place after the fall of Khaybar and not as part of the invasion of the Najd. This is supported by the fact that Abu Hurairah 🐈 and Abu Musa al-Ash'ari witnessed the battle as Abu Hurairah embraced Islam only some days before Khaybar, and Abu Musa Al-Ash'ari came back from Abyssinia and joined Muhammad at Khaybar. The rules relating to the prayer of fear which Muhammad observed at Dhat Ar-Riqa' campaign, were revealed at the Invasion of the 'Asfan and this, scholars such as al-Dhahabi, has recorded the invasion were took place after the Battle of the Trench, which nodded by Mubarakpuri. Nevertheless, consensus of Muslim historians has placed that Abu Hurairah 🐈 came into historical record after the battle of khaybar. Then he afterwards participated in battle of Mu'tah, conquest of Mecca, battle of Hunayn, and Expedition of Tabuk.
+During his early years embracing Islam in Medina, Abu Hurairah became disciple of Suffah. Abu Hurayrah spent 2 years 3 months approximately in the company of Muhammad and went on expeditions and journeys with him. However, according to Safiur Rahman Mubarakpuri in his The Sealed Nectar, the Dhat ar-Riqa' campaign took place after the fall of Khaybar and not as part of the invasion of the Najd. This is supported by the fact that Abu Hurairah and Abu Musa al-Ash'ari witnessed the battle as Abu Hurairah embraced Islam only some days before Khaybar, and Abu Musa Al-Ash'ari came back from Abyssinia and joined Muhammad at Khaybar. The rules relating to the prayer of fear which Muhammad observed at Dhat Ar-Riqa' campaign, were revealed at the Invasion of the 'Asfan and this, scholars such as al-Dhahabi, has recorded the invasion were took place after the Battle of the Trench, which nodded by Mubarakpuri. Nevertheless, consensus of Muslim historians has placed that Abu Hurairah came into historical record after the battle of khaybar. Then he afterwards participated in battle of Mu'tah, conquest of Mecca, battle of Hunayn, and Expedition of Tabuk.
 
-Abu Hurairah 🐈 were recorded has participated during the Expedition of Dhat al-Riqa'which took place in the Najd, a large area of tableland in the Arabian Peninsula in Rabi' al-Thani or Jumada al-awwal, 4 AH (or the beginning of 5 AH), as Muhammad received the news that certain tribes of the Ghatafan were assembling at Dhat al-Riqa' with suspicious purposes. The Muslim fighters penetrated deep into their land until they reached a spot called Nakhla, where they came across some bedouins of Ghatafan.
+Abu Hurairah were recorded has participated during the Expedition of Dhat al-Riqa'which took place in the Najd, a large area of tableland in the Arabian Peninsula in Rabi' al-Thani or Jumada al-awwal, 4 AH (or the beginning of 5 AH), as Muhammad received the news that certain tribes of the Ghatafan were assembling at Dhat al-Riqa' with suspicious purposes. The Muslim fighters penetrated deep into their land until they reached a spot called Nakhla, where they came across some bedouins of Ghatafan.
 
 Later, Abu Hurairah 🐈 were sent as Muezzin to al-Ala al-Hadhrami. And Muhammad entrusted him with some works such as preserving Ramadan zakat funds.
 
