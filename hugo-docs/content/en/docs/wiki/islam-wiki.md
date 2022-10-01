@@ -6572,7 +6572,7 @@ There is a great hadith that shows the character of prophet Muhammad and the clo
 
 </details><details><summary>
 
-## 691: Building of the Al-Aqsa mosque.
+## 691: Building of Al-Aqsa Mosque in Jerusalem
 
 </summary>
 
@@ -6588,7 +6588,7 @@ Hasan al-Basri is a hadith scholar, religious reformer and ascetic.
 
 </details><details><summary>
 
-## 762 The foundation of Baghdad, which becomes the new Abbasid capital
+## 762 Foundation of Baghdad that becomes new Abbasid capital
 
 </summary>
  
@@ -6606,7 +6606,7 @@ Al-Maghdi encourages the development of fiqh, acknowledge the piety of the relig
 
 </summary>
 
-Abū Ḥanīfa al-Nuʿmān ibn Thābit b. Zūṭā ibn Marzubān ( أبو حنيفة نعمان بن ثابت بن زوطا بن مرزبان; c. 699 – 767 CE), known as Abū Ḥanīfa for short, or reverently as Imam Abū Ḥanīfa by Sunni Muslims, was an 8th-century Sunni Muslim theologian and jurist of Persian origin, who became the eponymous founder of the Hanafi school of Sunni jurisprudence, which has remained the most widely practiced law school in the Sunni tradition, predominates in Central Asia, Afghanistan, Persia (until the 16th century), Balkans, Russia, Chechnya, Pakistan, Bangladesh, Muslims in India, Turkey, and some parts of the Arab world.
+Abū Ḥanīfa al-Nuʿmān ibn Thābit b. Zūṭā ibn Marzubān (699 – 767 CE), known as Abū Ḥanīfa for short, or reverently as Imam Abū Ḥanīfa by Sunni Muslims, was an 8th-century Sunni Muslim theologian and jurist of Persian origin, who became the eponymous founder of the Hanafi school of Sunni jurisprudence, which has remained the most widely practiced law school in the Sunni tradition, predominates in Central Asia, Afghanistan, Persia (until the 16th century), Balkans, Russia, Chechnya, Pakistan, Bangladesh, Muslims in India, Turkey, and some parts of the Arab world.
 
 Some followers call him al-Imām al-Aʿẓam ("The Greatest Imam") and Sirāj al-aʾimma ("The Lamp of the Imams") in Sunni Islam.
 
@@ -6614,7 +6614,7 @@ Born to a Muslim family in Kufa, Abu Hanifa is known to have travelled to the He
 
 ### Early life and scholarship
 
-There is scant biographical information about Abu Hanifa. It is generally known that he worked a producer and seller of "khazz", a type of silk clothing material. He attended lectures on jurisprudence by the Kufan scholar Hammad ibn Abi Sulayman (d. 737). He also possibly learnt jurisprudence (fiqh) by the Meccan scholar Ata ibn Abi Rabah (d. c. 733) while on Hajj. According to the historian Joseph Schacht, other scholars Abu Hanifa is held to have learned from should be "treated with caution".
+There is scant biographical information about Abu Hanifa. It is generally known that he worked as a producer and seller of "khazz", a type of silk clothing material. He attended lectures on jurisprudence by the Kufan scholar Hammad ibn Abi Sulayman (d. 737). He also possibly learnt jurisprudence (fiqh) by the Meccan scholar Ata ibn Abi Rabah (d. c. 733) while on Hajj. According to the historian Joseph Schacht, other scholars Abu Hanifa is held to have learned from should be "treated with caution".
 
 Abu Hanifa succeeded Hammad, when the latter died, as the principal authority on Islamic law in Kufa and the chief representative of the Kufan school of jurisprudence. Abu Hanifa gradually gained influence as an authority on legal questions, founding a moderate rationalist school of Islamic jurisprudence that was named after him.
 
@@ -6670,12 +6670,12 @@ The honorific title al-Imam al-A'zam ("the greatest leader") was granted to him 
 
 </details><details><summary>
 
-## 732: Muhammad ibn Iskhak writes the first seerah and introduces isnad (chain of narrations)
+## 732: Muhammad ibn Iskhak writes first seerah and introduces Isnad (chain of narrations)
 
 </summary>
 </details><details><summary>
 
-## Ibn Hisham (Muhammad ibn Iskhak's student) shortens the seerah of prophet Muhammad ﷺ
+## Ibn Hisham (Muhammad ibn Iskhak's student) shortens seerah of prophet Muhammad ﷺ
 
 </summary></details>
 
@@ -6689,7 +6689,37 @@ The Islamic Golden Age was a period of cultural, economic, and scientific flouri
 
 The period is traditionally said to have ended with the collapse of the Abbasid caliphate due to Mongol invasions and the Siege of Baghdad in 1258. A few scholars date the end of the golden age around 1350 linking with the Timurid Renaissance, while several modern historians and scholars place the end of the Islamic Golden Age as late as the end of 15th to 16th centuries meeting with the Islamic gunpowder empires.
 
-Peoplee who played a vast role in shaping of sciences during the Islamic Golden Age:
+Science and technology in the Islamic world adopted and preserved knowledge and technologies from contemporary and earlier civilizations, including Persia, Egypt, India, China, and Greco-Roman antiquity, while making numerous improvements, innovations and inventions.
+
+A list of some of the inventions of the Islamic Golden Age:
+* Algebra
+* Hospitals
+* Universities
+* Surgery
+* Modern optics
+* Experimental scientific method
+* Coffee
+* First flying machine
+* Windmill
+* Hand-operated cranes
+* Earliest classification of chemical substances
+* Chemical synthesis
+* Damascus steel
+* Automatic controls (valves, timing devices, delay systems)
+* Programmable machines
+* Chess
+* Glass manufacturing
+* Mental institute
+* Kerosene and petroleum distillation
+* Shale oil extraction
+* Hard soap
+* Observatorium
+* Drug trials
+* Magnifying glass
+* Hyperbolic geometry
+* Spinning wheel
+
+People who played a vast role in shaping of sciences during the Islamic Golden Age:
 
 * Al-Zahrawi
 * Abbas ibn Firnas
@@ -6701,7 +6731,7 @@ Peoplee who played a vast role in shaping of sciences during the Islamic Golden 
 * Alhazen
 * Ibn Khaldun
 
-paper production from China, translation of Ancient Greek philosophers' works and other, House of Wisdom in Baghdad,  
+Paper production from China, translation of Ancient Greek philosophers' works and other, House of Wisdom in Baghdad.
 
 </details><details><summary>
 
@@ -6711,10 +6741,16 @@ paper production from China, translation of Ancient Greek philosophers' works an
 
 A great cultural renaissance in Baghdad and other cities of the empire. Besides patronizing scholarship, science and arts, the caliph also encourages the study of fiqh and the anthologization of ahadith which will enable the formation of a coherent body of Islamic law (Shariah).  
 
-</details><details><summary>711-795: imam Al-Malik ibn Anas</summary>
+</details><details><summary>
+
+## 711-795: imam Al-Malik ibn Anas
+
+</summary>
+
 Malik ibn Anas, founder of the Maliki school of jurisprudence.
 
-Reverently known as al-Imām Mālik (ٱلْإِمَام مَالِك) by Sunni Muslims, was an Arab Muslim jurist, theologian, and hadith traditionist. 
+Reverently known as al-Imām Mālik by Sunni Muslims, was an Arab Muslim jurist, theologian, and hadith traditionist. 
+
 His grandfather Malik ibn Abi Amir was a student of the second Caliph of Islam Umar and was one of those involved in the collection of the parchments upon which Quranic texts were originally written when those were collected during the Caliph Uthman era. 
 
 Born in the city of Medina, Malik rose to become the premier scholar of prophetic traditions in his day, which he sought to apply to "the whole legal life" in order to create a systematic method of Muslim jurisprudence which would only further expand with the passage of time. Referred to as the "Imam of Medina" by his contemporaries, Malik's views in matters of jurisprudence were highly cherished both in his own life and afterwards, and he became the founder of one of the four schools of Sunni law, the Maliki, which became the normative rite for the Sunni practice of much of North Africa, Al-Andalus (until expulsion of Muslims), a vast portion of Egypt, and some parts of Syria, Yemen, Sudan, Iraq, and Khorasan, and the prominent Sufi orders, including the Shadiliyya and the Tijaniyyah.
@@ -6733,19 +6769,26 @@ Muhammad reportedly said in a hadith authenticated by Muhammad ibn Isa at-Tirmid
 
 ### Mysticism
 
-On the basis of several early traditions, it is evident that Malik held the early Sufis and their practices in high regard. It is related, moreover, that Malik was a strong proponent of combining the "inward science" ('ilm al-bātin) of mystical knowledge with the "outward science" of jurisprudence. For example, the famous twelfth-century Maliki jurist and judge Qadi Iyad, later venerated as a saint throughout the Iberian Peninsula, narrated a tradition in which a man asked Malik "about something in the inward science," to which Malik replied: "Truly none knows the inward science except those who know the outward science! When he knows the outward science and puts it into practice, God shall open for him the inward science - and that will not take place except by the opening of his heart and its enlightenment." In other similar traditions, it is related that Malik said: "He who practices Sufism (tasawwuf) without learning Sacred Law corrupts his faith (tazandaqa), while he who learns Sacred Law without practicing Sufism corrupts himself (tafassaqa). Only he who combines the two proves true (tahaqqaqa)."
+On the basis of several early traditions, it is evident that Malik held the early Sufis and their practices in high regard. It is related, moreover, that Malik was a strong proponent of combining the "inward science" ('ilm al-bātin) of mystical knowledge with the "outward science" of jurisprudence. For example, the famous twelfth-century Maliki jurist and judge Qadi Iyad, later venerated as a saint throughout the Iberian Peninsula, narrated a tradition in which a man asked Malik "about something in the inward science," to which Malik replied: "Truly none knows the inward science except those who know the outward science! When he knows the outward science and puts it into practice, God shall open for him the inward science -- and that will not take place except by the opening of his heart and its enlightenment." In other similar traditions, it is related that Malik said: "He who practices Sufism (tasawwuf) without learning Sacred Law corrupts his faith (tazandaqa), while he who learns Sacred Law without practicing Sufism corrupts himself (tafassaqa). Only he who combines the two proves true (tahaqqaqa)."
 
 ### Sunnah of Muhammad
 
-Malik considered following the sunnah of Muhammad to be of capital importance for every Muslim. It is reported that he said: "The sunnah is Noah's Ark. Whoever boards it is saved, and whoever remains away from it perishes."
+Malik considered following the sunnah of Muhammad to be of capital importance for every Muslim. 
+
+It is reported that he said: 
+>"The sunnah is Noah's Ark. Whoever boards it is saved, and whoever remains away from it perishes."
 
 ### "I do not know"
 
-Malik is famous for declaring: "The shield of the 'alim is: 'I do not know.' If he neglects it, he will receive a mortal blow." Elsewhere, a certain Khālid ibn Khidāsh related: "I travelled all the way from Iraq to see Mālik about forty questions. He did not answer me except on five. Then he said: ʿIbn ʿIjlān used to say: If the 'alim bypasses 'I do not know,' he will receive a mortal blow." Likewise, al-Haytham ibn Jamīl said: "I saw Mālik ibn Anas being asked forty-eight questions, and he replied to thirty-two of them: 'I do not know.'" Later on, Malik's disciple, Ibn Wahb, related: "I heard ʿAbd Allāh ibn Yazīd ibn Hurmuz say: 'The 'ulema must instill in those who sit with him the phrase 'I do not know' until it becomes a foundational principle (asl) before them and they seek refuge in it from danger."
+Malik is famous for declaring: "The shield of the 'alim is: `I do not know.` If he neglects it, he will receive a mortal blow." Elsewhere, a certain Khālid ibn Khidāsh related: "I travelled all the way from Iraq to see Mālik about forty questions. He did not answer me except on five. Then he said: ʿIbn ʿIjlān used to say: If the 'alim bypasses `'I do not know,'` he will receive a mortal blow." Likewise, al-Haytham ibn Jamīl said: "I saw Mālik ibn Anas being asked forty-eight questions, and he replied to thirty-two of them: `'I do not know.'`" Later on, Malik's disciple, Ibn Wahb, related: "I heard ʿAbd Allāh ibn Yazīd ibn Hurmuz say: 'The 'ulema must instill in those who sit with him the phrase 'I do not know' until it becomes a foundational principle (asl) before them and they seek refuge in it from danger."
 
-</details><details><summary>Imam Al-Shafi'i (767 - 820)</summary>
+</details><details><summary>
 
-Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī ( أَبُو عَبْدِ ٱللهِ مُحَمَّدُ بْنُ إِدْرِيسَ ٱلشَّافِعِيُّ, 767–19 January 820 CE) was an Arab Muslim theologian, writer, and scholar, who was the first contributor of the principles of Islamic jurisprudence (Uṣūl al-fiqh). Often referred to as 'Shaykh al-Islām', al-Shāfi‘ī was one of the four great Sunni Imams, whose legacy on juridical matters and teaching eventually led to the formation of Shafi'i school of fiqh (or Madh'hab). He was the most prominent student of Imam Malik ibn Anas, and he also served as the Governor of Najar. Born in Gaza in Palestine (Jund Filastin), he also lived in Mecca and Medina in the Hejaz, Yemen, Egypt, and Baghdad in Iraq.
+## Imam Al-Shafi'i (767 - 820)
+
+</summary>
+
+Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī (767–19 January 820 CE) was an Arab Muslim theologian, writer, and scholar, who was the first contributor of the principles of Islamic jurisprudence (Uṣūl al-fiqh). Often referred to as 'Shaykh al-Islām', al-Shāfi‘ī was one of the four great Sunni Imams, whose legacy on juridical matters and teaching eventually led to the formation of Shafi'i school of fiqh (or Madh'hab). He was the most prominent student of Imam Malik ibn Anas, and he also served as the Governor of Najar. Born in Gaza in Palestine (Jund Filastin), he also lived in Mecca and Medina in the Hejaz, Yemen, Egypt, and Baghdad in Iraq.
 
 ### Early life
 
@@ -6775,7 +6818,7 @@ Al-Shāfi'ī eventually returned to Baghdad in 810 CE. By this time, his stature
 
 In 814 CE, al-Shāfi'ī decided to leave Baghdad for Egypt. The precise reasons for his departure from Iraq are uncertain, but it was in Egypt that he would meet another tutor, Sayyida Nafisa bint Al-Hasan, who would also financially support his studies, and where he would dictate his life's works to students. Several of his leading disciples would write down what al-Shāfi'ī said, who would then have them read it back aloud so that corrections could be made. Al-Shāfi'ī biographers all agree that the legacy of works under his name are the result of those sessions with his disciples.
 
-Nafisa was a descendant of Muhammad, through his grandson Hasan ibn Ali, who married another descendant of Muhammad, that is Ishaq al-Mu'tamin, the son of the Imam Ja'far al-Sadiq, who was reportedly a teacher of ash-Shafi'i's teacher Malik ibn Anas and Abu Hanifah. Thus all of the four great Imams of Sunni Fiqh (Abu Hanifah, Malik, his student Ash-Shafi'i, and his student Ibn Hanbal) are connected to Imam Ja'far from the Bayt (Household) of Muhammad, whether directly or indirectly.
+Nafisa was a descendant of Muhammad ﷺ  , through his grandson Hasan ibn Ali, who married another descendant of Muhammad ﷺ  , that is Ishaq al-Mu'tamin, the son of the  Ja'far al-Sadiq, who was reportedly a teacher of ash-Shafi'i's teacher Malik ibn Anas and Abu Hanifah.
 
 ### Legacy
 
@@ -6783,26 +6826,28 @@ Nafisa was a descendant of Muhammad, through his grandson Hasan ibn Ali, who mar
 
 Al-Shāfi'ī is credited with creating the essentials of the science of fiqh (the system of Islamic jurisprudence). He designated the four principles/sources/components of fiqh, which in order of importance are:
 
-1. The Qur’an.
-2. Hadith. i.e collections of the words, actions, and silent approval of Muhammad. (Together with the Qur'an these make up "revealed sources".).
-3. Ijma. i.e. the consensus of the (pure traditional) Muslim community.  consensus or agreement of the Islamic community on a point of Islamic law.
-4. Qiyas. i.e. the method of analogy. Qiyas (Arabic: قياس) is the process of deductive analogy in which the teachings of the hadith are compared and contrasted with those of the Quran, in order to apply a known injunction (nass) to a new circumstance and create a new injunction. 
+1. `The Quran`.
+2. `Hadith`. i.e collections of the words, actions, and silent approval of Muhammad. (Together with the Qur'an these make up "revealed sources".).
+3. `Ijma`. i.e. the consensus of the (pure traditional) Muslim community. Consensus or agreement of the Islamic community on a point of Islamic law.
+4. `Qiyas`. i.e. the method of analogy. Qiyas (Arabic: قياس)  is the process of deductive analogy in which the teachings of the hadith are compared and contrasted with those of the Quran, in order to apply a known injunction (nass) to a new circumstance and create a new injunction. 
 
 With this systematisation of shari'a, he provided a legacy of unity for all Muslims and forestalled the development of independent, regionally based legal systems. The four Sunni legal schools or madhhabs keep their traditions within the framework that Shafi'i established. One of the schools – Shafi'i fiqh – is named for Al-Shāfi‘ī. It is followed in many different places in the Islamic world: Indonesia, Malaysia, Egypt, Ethiopia, Somalia, Yemen , west of Iran,as well as Sri Lanka and southern parts of India, especially in the Malabar coast of North Kerala and Canara region of Karnataka.
 
-Al-Shāfi‘ī emphasised the final authority of a hadith of Muhammad so that even the Qur'an was "to be interpreted in the light of traditions (i.e. hadith), and not vice versa." While traditionally the Quran is considered above the Sunna in authority, Al-Shafi'i "forcefully argued" that the sunna stands "on equal footing with the Quran", (according to scholar Daniel Brown) for – as Al-Shafi'i put it – "the command of the Prophet is the command of Almighty Allah ."
+Al-Shāfi‘ī emphasised the final authority of a hadith of Muhammad ﷺ   so that even the Qur'an was "to be interpreted in the light of traditions (i.e. hadith), and not vice versa." While traditionally the Quran is considered above the Sunna in authority, Al-Shafi'i "forcefully argued" that the sunna stands "on equal footing with the Quran", (according to scholar Daniel Brown) for – as Al-Shafi'i put it – "the command of the Prophet is the command of Almighty Allah ."
 
 Al-Shāfi‘ī "insists time after time that nothing can override the authority of the Prophet, even if it be attested only by an isolate tradition, and that every well-authenticated tradition going back to the Prophet has precedence over the opinions of his Companions, their Successors, and later authorities."
 
-The focus by the Muslim community on ahadith of Muhammad and disinterest in ahadith of Muhammad's companions (whose ahadith were commonly used before Al-Shāfi‘ī since most of whom survived him and spread his teachings after his death) is thought (by scholar Joseph Schacht) to reflect the success of Al-Shāfi‘ī's doctrine.
+The focus by the Muslim community on ahadith of Muhammad ﷺ   and disinterest in ahadith of Muhammad's companions (whose ahadith were commonly used before Al-Shāfi‘ī since most of whom survived him and spread his teachings after his death) is thought (by scholar Joseph Schacht) to reflect the success of Al-Shāfi‘ī's doctrine.
 
-Al-Shāfi‘ī influence was such that he changed the use of the term Sunnah, "until it invariably meant only the Sunnah of the Prophet" (according to John Burton this was his "principle achievement"). While earlier, sunnah had been used to refer to tribal manners and customs, (and while Al-Shāfi‘ī distinguished between the non-authoritative "sunnah of the Muslims" that was followed in practice, and the "sunnah of the Prophet" that Muslims should follow), sunnah came to mean the Sunnah of Muhammad.
+Al-Shāfi‘ī influence was such that he changed the use of the term Sunnah, "until it invariably meant only the Sunnah of the Prophet" (according to John Burton this was his "principle achievement"). While earlier, sunnah had been used to refer to tribal manners and customs, (and while Al-Shāfi‘ī distinguished between the non-authoritative "sunnah of the Muslims" that was followed in practice, and the "sunnah of the Prophet" that Muslims should follow), sunnah came to mean the Sunnah of prophet Muhammad ﷺ  .
 
 In the Islamic sciences, Burton credits him with "the imposition of a formal theoretical distinction" between `the Sunnah of the Prophet` and the Quran, "especially where the two fundamental sources appeared to clash".
 
 #### Kalam
 
-Al-Shafi'i was part of those early traditionalist theologians who strongly opposed Kalam and criticised the speculative theologians for abandoning the Qur'an and Sunnah through their adoption of Kalam.
+Kalam ("Islamic scholastic theology" or "speculative theology") is the philosophical study of Islamic doctrine ('aqa'id).
+
+Al-Shafi'i was part of those early traditionalist theologians who strongly opposed Kalam and criticised the speculative theologians for abandoning the Quran and Sunnah through their adoption of Kalam.
 
 #### Books
 
@@ -6817,18 +6862,10 @@ He authored more than 100 books. But most them have not reached us. The extant w
 
 </details><details><summary>
 
-## Rabiah
-
-</summary>
-
-First great woman mystic. 
-
-</details><details><summary>
-
 ## 780-855: Ahmad ibn Hanbal
 
 </summary>
-a hero of the ahl al-hadith
+A hero of the ahl al-hadith.
 
 Ahmad ibn Hanbal was a Muslim jurist, theologian, ascetic, hadith traditionist, and founder of the Hanbali school of Sunni jurisprudence — one of the four major orthodox legal schools of Sunni Islam.
 
