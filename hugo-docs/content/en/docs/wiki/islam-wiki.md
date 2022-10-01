@@ -6459,13 +6459,13 @@ The killing of the grandson of Muhammad shocked the Muslim community. The image 
 
 </summary>
 
-Abdur-Rahman ibn Sakhr Al-Dawsri Al-Zahrani (603 – 680), better known as Abu Hurayrah (or Hurairah 🐈; Arabic: أبو هريرة, translates to the "father of the kitten 🐈"), was one of the companions of Islamic prophet Muhammad and, according to Sunni Islam, the most prolific narrator of hadith.
+Abdur-Rahman ibn Sakhr Al-Dawsri Al-Zahrani (603 – 680), better known as Abu Hurayrah (or Hurairah 🐈; Arabic: أبو هريرة, translates to the "father of the kitten 🐈"), was a simple man from Yemen but through his enormous efforts rose to one of the highest positions in Islamic history. Abu Hurayrah (R.A.) spent four years (some say two years) in the company of the Prophet Mohammad (S.A.W.) and went on expeditions and journeys with him.
 
 He was known by the kunyah Abu Hurayrah 🐈 "Father of a Kitten", in reference to his attachment to cats 🐈🐈, and he was a member of Suffah. Later during caliphate era, Abu Hurairah 🐈 served as Ulama teacher, governor, soldier, and Hadith auditor. Among his other epithets is ذو الوينسين or "Possessor of the Two Elbows", as his own narrations claim Prophet Muhammad praised him for his sturdy elbows and righteous character.
 
     "I was called Abu Hurairah because I would tend to the goats of my family, and one day I found a stray kitten which I placed in my sleeve. When I returned to my people they heard the kitten purr in my sleeve and they asked, "What is that, O 'Abd Shams?" I replied, "A kitten I found." "So you are Abu Hurairah (Father of cats 🐈🐈)," they responded and the name stuck thereafter."
 
-Abu Hurairah acknowledged by Muslim scholars for his extraordinary photographic memory which allowed him to memorize massive numbers of over 5,000 hadiths which later produced more than 500,000 chain narrations, or Isnad which make Abu Hurairah an exemplar role model for Hadith studies scholars. It is said by Abu Hurairah himself the only one who surpassed him regarding hadith were Abdallah ibn Amr ibn al-As, another companion who serve as writer assistant of Muhammad and author of "Al-Sahifah al-Sadiqah", the first Hadith book in history.
+Abu Hurairah acknowledged by Muslim scholars for his extraordinary photographic memory which allowed him to memorize massive numbers of over 5,000 (about 5374) hadiths which later produced more than 500,000 chain narrations, or Isnad which make Abu Hurairah an exemplar role model for Hadith studies scholars. It is said by Abu Hurairah himself the only one who surpassed him regarding hadith were Abdallah ibn Amr ibn al-As, another companion who serve as writer assistant of Muhammad and author of "Al-Sahifah al-Sadiqah", the first Hadith book in history.
 
 Abu Hurairah hadiths has been used by most, if not all scholars of Islam across the ages for Islamic learning about Aqidah, Islamic eschatology, Tafsir, Fiqh, Biographical evaluation, Prophetic biography, and Fatwa verdicts.
 
@@ -6473,13 +6473,102 @@ According to al-Dhahabi, Abu Hurairah hailed from the Arab tribe of Zahran of th
 
 #### Life as Muslim
 
-Abu Hurairah embraced Islam through Tufayl ibn Amr, the chieftain of his tribe, as Tufayl had returned to his village after meeting Muhammad and became a Muslim in the early years of his mission. Abu Hurairah was one of the first to respond to his call, unlike the majority of Tufayl's tribesmen, who embraced Islam later. Abu Hurairah accompanied Tufayl to Mecca to meet Muhammad who renamed him Abd al-Rahman ("servant of the Merciful") from Abd al Sham, or some said Abd al Ghanm.
+Abu Hurayrah’s (R.A.) father died when he was young. According to some sources, his name at birth was Abdu-Shams.
 
-During his early years embracing Islam in Medina, Abu Hurairah became disciple of Suffah. Abu Hurayrah spent 2 years 3 months approximately in the company of Muhammad and went on expeditions and journeys with him. However, according to Safiur Rahman Mubarakpuri in his The Sealed Nectar, the Dhat ar-Riqa' campaign took place after the fall of Khaybar and not as part of the invasion of the Najd. This is supported by the fact that Abu Hurairah and Abu Musa al-Ash'ari witnessed the battle as Abu Hurairah embraced Islam only some days before Khaybar, and Abu Musa Al-Ash'ari came back from Abyssinia and joined Muhammad at Khaybar. The rules relating to the prayer of fear which Muhammad observed at Dhat Ar-Riqa' campaign, were revealed at the Invasion of the 'Asfan and this, scholars such as al-Dhahabi, has recorded the invasion were took place after the Battle of the Trench, which nodded by Mubarakpuri. Nevertheless, consensus of Muslim historians has placed that Abu Hurairah came into historical record after the battle of khaybar. Then he afterwards participated in battle of Mu'tah, conquest of Mecca, battle of Hunayn, and Expedition of Tabuk.
+Abu Hurayrah became a Muslim at the hands of At-Tufayl ibn Amr (R.A.), the chieftain of the Banu Daws tribe to which he belonged. The Banu Daws lived in the region of Tihamah which stretches along the coast of the Red Sea in southern Arabia. When At-Tufayl (R.A.) returned to his village after meeting the Prophet Mohammad (S.A.W.) and becoming a Muslim in the early years of his mission, Abu Hurayrah (R.A.) was one of the first to respond to his call. He was unlike the majority of the Banu Daws who remained stubborn in their old beliefs for a long time.
 
-Abu Hurairah were recorded has participated during the Expedition of Dhat al-Riqa'which took place in the Najd, a large area of tableland in the Arabian Peninsula in Rabi' al-Thani or Jumada al-awwal, 4 AH (or the beginning of 5 AH), as Muhammad received the news that certain tribes of the Ghatafan were assembling at Dhat al-Riqa' with suspicious purposes. The Muslim fighters penetrated deep into their land until they reached a spot called Nakhla, where they came across some bedouins of Ghatafan.
+When At-Tufayl (R.A.) visited Makkah again, Abu Hurayrah (R.A.) accompanied him. There he had the honor and privilege of meeting the noble Prophet (S.A.W.) who asked him: 
 
-Later, Abu Hurairah 🐈 were sent as Muezzin to al-Ala al-Hadhrami. And Muhammad entrusted him with some works such as preserving Ramadan zakat funds.
+"What is your name?"
+"Abdu Shams - Servant of a Sun," Abu Hurayrah (R.A.) replied.
+"Instead, let it be Abdur-Rahman - the Servant of the Beneficent Allah ," said the Prophet (S.A.W.).
+"Yes, Abdur-Rahman (it shall be) O Messenger of Allah (S.A.W.)," he replied. 
+However, he continued to be known as Abu Hurayrah "the father of a kitten" because like the Prophet (S.A.W.), he was fond of cats and since his childhood often had a cat to play with.
+
+Abu Hurayrah (R.A.) stayed in Tihamah for several years and it was only at the beginning of the seventh year of the Hijrah that he arrived in Madinah with others of his tribe. The Prophet (S.A.W.) had gone on a campaign to Khaybar. Being destitute, Abu Hurayrah (R.A.) took up his place in the Masjid with other of the Ahl as- Suffah. He was single, without wife or child. With him however was his mother who was still a mushrik (non-believer). He longed, and prayed, for her to become a Muslim but she adamantly refused. 
+
+One day, he invited her to have faith in Allah alone and follow His Prophet (S.A.W.) but she uttered some words about the Prophet (S.A.W.) which saddened him greatly. With tears in his eyes, he went to the Holy Prophet (S.A.W.) who said to him: 
+
+"What makes you cry, O Abu Hurayrah?"
+"I have not let up in inviting my mother to Islam but she has always rebuffed me. Today, I invited her again and I heard words from her which I do not like. Do make supplication to Allah Almighty to make the heart of Abu Hurayrah's mother incline to Islam."
+The Prophet (S.A.W.) responded to Abu Hurayrah's (R.A.) request and prayed for his mother. Abu Hurayrah said: 
+
+"I went home and found the door closed. I heard the splashing of water and when I tried to enter my mother’s room, mother said: "Stay where you are, O Abu Hurayrah." And after putting on her clothes, she said, "Enter!" I entered and she said: "I testify that there is no god but Allah and I testify that Muhammad is His Servant and His Messenger."
+"I returned to the Prophet (S.A.W.) weeping with joy just as an hour before I had gone weeping from sadness and said: "I have good news, O Messenger of Allah. God has responded to your prayer and guided the mother of Abu Hurayrah to Islam."
+
+Abu Hurayrah loved the Prophet (S.A.W.) a great deal and found favor with him. He was never tired of looking at the Prophet (S.A.W.) whose face appeared to him as having all the radiance of the sun and he was never tired of listening to him. Often he would praise Allah for his good fortune and say: 
+
+"Praise be to Allah Who has guided Abu Hurayrah to Islam." Praise be to Allah Who has taught Abu Hurayrah the Quran."
+"Praise be to Allah who has bestowed on Abu Hurayrah the companionship of Mohammad (S.A.W)." 
+
+
+### Dedication to learn from Prophet Muhammad
+
+On reaching Madinah after migration, Abu Hurayrah (S.A.) set his heart on attaining knowledge. Zayd ibn Thabit (R.A.) has reported: 
+
+> "While Abu Hurayrah and I and another friend of mine were in the Masjid praying to Allah and performing dhikr to Him, the Messenger of Allah appeared. He came towards us and sat among us. We became silent and he said: "Carry on with what you were doing."
+"So my friend and I made a supplication to Allah before Abu Hurayrah (R.A) did and the Prophet (S.A.W.) began to say Ameen to our dua.
+>
+> "Then Abu Hurayrah (R.A.) made a supplication saying: "O Lord, I ask You for what my two companions have asked and I ask You for knowledge which will not be forgotten."
+"The Prophet (S.A.) said: 'Ameen.' "We then said: 'And we ask Allah for knowledge which will not be forgotten, and the Prophet replied: 'The Dawsi youth has asked for this before you." "With his formidable memory, Abu Hurayrah (R.A.) set out to memorize in the four years that he spent with the Prophet (S.A.W.), the gems of wisdom that emanated from his lips. He realized that he had a great gift and he set about to use it to the full in the service of Islam.
+>
+> He had free time at his disposal. Unlike many of the Muhajirin (immigrants of Makkah), he did not busy himself in the market-places, with buying and selling. Unlike many of the Ansaar (Muslim residents of Madinah), he had no land to cultivate nor crops to tend. He stayed with the Prophet (S.A.W.) in Madinah and went with him on journeys and expeditions.
+
+Many companions were amazed at the number of hadiths he had memorized and often questioned him on when he had heard a certain hadith and under what circumstances.
+
+Once Marwan ibn al-Hakam (R.A.) wanted to test Abu Hurayrah's (R.A.) power of memory. He sat with him in one room and behind a curtain he placed a scribe, unknown to Abu Hurayrah (R.A.), and ordered him to write down whatever Abu Hurayrah (R.A.) said. A year later, Marwan called Abu Hurayrah (R.A.) again and asked him to recall the same hadiths which the scribe had recorded. It was found that he had forgotten not a single word.
+
+Abu Hurayrah (R.A.) was concerned to teach and transmit the hadiths he had memorized and knowledge of Islam in general. It is reported that one day he passed through the suq (market) of Madinah and naturally saw people engrossed in the business of buying and selling.
+
+"How feeble are you, O people of Madinah!" he said.
+"What do you see that is feeble in us, Abu Hurayrah?" they asked.
+"The inheritance of the Messenger of Allah (S.A.W.) is being distributed and you remain here! Won't you go and take your portion?"
+"Where is this, O Abu Hurayrah?" they asked. "In the Masjid," he replied.
+Quickly they left. Abu Hurayrah (R.A.) waited until they returned. When they saw him, they said: 
+
+"O Abu Hurayrah, we went to the Masjid and entered and we did not see anything being distributed."
+"Didn't you see anyone in the Masjid?" he asked.
+"O yes, we saw some people performing Salat (prayer), some people reading the Quran and some people discussing about what is halal and what is haram."
+"Woe unto you," replied Abu Hurayrah," that is the inheritance of Mohammad (S.A.W.)."
+Abu Hurayrah (R.A.) underwent much hardship and difficulties as a result of his dedicated search for knowledge. He was often hungry and destitute. He said about himself:
+
+The time came of course when the Muslims were blessed with great wealth and material goodness of every description. Abu Hurayrah (R.A.) eventually got his share of wealth. He had a comfortable home, a wife and child. But this turn of fortune did not change his personality. Neither did he forget his days of destitution. He would "I grew up as an orphan and I emigrated as a poor and indigent person. I used to take food for my stomach from Busrah bint Ghazwan. I served people when they returned from journeys and led their camels when they set out. Then Allah caused me to marry her (Busrah). So praise be to Allah who has strengthened his religion and made Abu Hurayrah an imam." (This last statement is a reference to the time when he became governor of Madinah.)
+
+Much of Abu Hurayrah's (R.A.) time would be spent in spiritual exercises and devotion to Allah. Qiyam al-Layl (staying up for the night in prayer and devotion) was a regular practice of his family including his wife and his daughter. He would stay up for a third of the night, his wife for another third and his daughter for a third. In this way, in the house of Abu Hurayrah (R.A.) no hour of the night would pass without ibadah, dhikr and Salat.
+
+### Abu Hurairah During Khalifate of Umar
+
+During the caliphate of Umar ibn Khattab (R.A.), Umar appointed him as governor of Bakrain. Umar (R.A.) was very scrupulous about the type of persons whom he appointed as governors. He was always concerned that his governors should live simply and frugally and not acquire much wealth even though this was through lawful means.
+
+In Bahrain, Abu Hurayrah (R.A.) became quite rich. Umar (R.A) heard of this and recalled him to Madinah. Umar (R.A.) thought he had acquired his wealth through unlawful means and questioned him about where and how he had acquired such a fortune. 
+
+Abu Hurayrah (R.A.) replied: "From breeding horses and gifts which I received."
+"Hand it over to the treasury of the Muslims," ordered Umar (R.A.).
+Abu Hurayrah (R.A.) did as he was told and raised his hands to the heavens and prayed: 
+
+"O Lord, forgive the Amir al-Muminin." 
+Subsequently, Umar (R.A.) asked him to become governor once again but he declined. Umar (R.A.) asked him why he refused and he said:
+
+"So that my honor would not be besmirched, my wealth taken and my back beaten." And he added: "And I fear to judge without knowledge and speak without wisdom."
+Throughout his life Abu Hurayrah (R.A.) remained kind and courteous to his mother. Whenever he wanted to leave home, he would stand at the door of her room and say: As-Salaam-u-Alaykum, yaa ummataah, wa rahrnatullahi wa barakatuhu (peace be on you, mother, and the mercy and blessings of Allah)." She would reply: "Waalayk-um-Asalaam, yaa bunayya, wa rahmatullahi wa barakatuhu (And on you be peace, my son, and the mercy and blessings of Allah)." Often, he would also say: "May Allah have mercy on you as you cared for me when I was small," and she would reply: "May Allah have mercy on you as you delivered me from error when I was old." 
+
+Abu Hurayrah (R.A.) always encouraged other people to be kind and good to their parents.
+
+One day he saw two men walking together, one older than the other. He asked the younger one: 
+
+"What is this man to you?"
+
+"My father," the person replied.
+
+"Don't call him by his name. Don't walk in front of him and don't sit before him," advised Abu Hurayrah (R.A.).
+
+Muslims owe a debt of gratitude to Abu Hurayrah (R.A.) for helping to preserve and transmit the valuable legacy of the Prophet (S.A.W.), may Allah bless him and grant him peace. He died in the year 59 AH when he was seventy-eight years old.
+
+### Prophet Mohammed and Glass of Milk
+
+There is a great hadith that shows the character of prophet Muhammad and the close relationship between Abu Hurairah and the prophet.
+
+> “By Allah except Whom none has the right to be worshipped, (sometimes) I used to lay (asleep) on the ground on my liver (abdomen) because of hunger, and (sometimes) I used to bind a stone over my belly because of hunger. One day I sat by the way from where they (the Prophet ﷺ   and his Companions) used to come out. When Abū Bakr passed by, I asked him about a Verse from Allah’s Book and I asked him only so that he might satisfy my hunger, but he passed by and did not do so. Then ʿUmar passed by me and I asked him about a Verse from Allah’s Book, and I asked him only that he might satisfy my hunger, but he passed by without doing so. Finally Abū al-Qāsim (the Prophet ﷺ  ) passed by me and he smiled when he saw me, for he knew what was in my heart and on my face. He said, ‘O Abā Hirr (Abū Hurayrah)!’ I replied, ‘Labbayk, O Allah’s Messenger ﷺ!’ He said to me, ‘Follow me.’ He left and I followed him. Then he entered the house and I asked permission to enter and was admitted. He found milk in a bowl and said, ‘From where is this milk?’ They said, ‘It has been presented to you by such-and-such man (or by such and such woman).’ He said, ‘O Abā Hirr!’ I said, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘Go and call the people of Ṣuffah to me.’ These people of Ṣuffah were the guests of Islam who had no families, no money, or anybody to depend on. Whenever an object of charity was brought to the Prophet ﷺ  , he would send it to them and would not take anything from it, and whenever any present was given to him, he used to send some for them and take some of it for himself. The order of the Prophet ﷺ   upset me, and I said to myself, ‘How will this little milk be enough for the people of Ṣuffah, though I am more entitled to drink from that milk in order to strengthen myself?’ But behold, the Prophet ﷺ   came and ordered me to give that milk to them. I wondered what will remain of that milk for me, but I could not but obey Allah and His Apostle. So I went to the people of al-Ṣuffah and called them, and they came and asked the Prophet’s permission to enter. They were admitted and took their seats in the house. The Prophet ﷺ   said, ‘O Abā Hirr!’ I said, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘Take it and give it to them.’ So I took the bowl (of milk) and started giving it to one man who would drink his fill and return it to me, whereupon I would give it to another man who, in his turn, would drink his fill and return it to me, and I would then offer it to another man who would drink his fill and return it to me. Finally, after the whole group had drunk their fill, I reached the Prophet ﷺ  , who took the bowl and put it on his hand, looked at me and smiled, and said: ‘O Abā Hirr!’ I replied, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘There only remains you and I.’ I said, ‘You have said the truth, O Allah’s Messenger ﷺ  !’ He said, ‘Sit down and drink.’ I sat down and drank. He said, ‘Drink,’ and I drank. He kept on telling me repeatedly to drink, till I said, ‘No. by Allah Who sent you with the Truth, I have no space for it (in my stomach).’ He said, ‘Hand it over to me.’ When I gave him the bowl, he praised Allah, pronounced Allah’s Name on it, and drank the remaining milk.”
 
 </details><details><summary>
 

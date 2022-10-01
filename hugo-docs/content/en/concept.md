@@ -42,8 +42,6 @@ There are still tonnes of bugs and I quickly realized that my sense of beauty is
 
 The overall stack looks like this:
 
-1. Markdown: the content is written in Markdown files + with some HTML additions.
-2. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
 3. Hugo: a static web-site generator builds a static HTML/CSS/JS website using MD files as a source.
 	- Hyas: I used Hyas to have a good-looking, neat bootstrap layout. 
 		- Hyas depends on Node.js. I installed it on my laptop.
@@ -55,7 +53,10 @@ The overall stack looks like this:
 4. Render or Netlify: static web-files are hosted in Render. up to 100GB is free.
 Generated website is uploaded to a production GitLab repo; Render checks if there is an update in the repo and automatically updates the content.
 5. I bought the domain here:
-6. Scripting. Wrote a basic bash script that pushed latest changes in the source, triggers Hugo to generate the website and pushes to production. Yes, I test on production.
+6. Scripting. Wrote a basic bash script that pushed latest changes in the source, triggers Hugo to generate the website and pushes to production. Yes, testing on production.
+1. Markdown: the content is written in Markdown files + with some HTML additions.
+2. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
+
 
 Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup. I wouldn't recommend Hyas/Doks for beginners or if you want to customize the layout or CSS, there are much simpler themes of Hugo that can be configured in 5 min.
 
@@ -93,6 +94,7 @@ https://miro.com/app/board/o9J_kqBzhXk=/
 
 Wanted to combin the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level higher content planning and too much overhead so I chose the simplest way.
 
+https://nowthisnews.com
 
 # NEXT STEPS
 
