@@ -36,31 +36,8 @@ toc: false
 > May Allah guide us all to the right path.
 
 </details>
-<p style="display:block; margin: 5px; font-size: 16px"><b>Table of Contents</b>:</p>
-<div class="toc">
 
-[0. Before Creation of Humankind](#0-before-creation-of-humankind) </br>
-[1. Adam and Eve](#1-adam-and-eve) </br>
-[2. Early Human Era on Earth](#2-early-human-era-on-earth) </br>
-[3. Nuh (Noah) and Great Flood ⛴🕊⛰](#3-nuh-noah-and-great-flood-) </br>
-[4. Ibrahim (Abraham)](#4-ibrahim--abraham) </br>
-[5. Musa (Moses) and Exodus  🇪🇬 ](#5-musa-and-the-exodus) </br>
-[6. Jewish Kings and Prophets](#6-jewish-kings-and-prophets) </br>
-[7. Isa (Jesus) and Family of Imran](#7-isa-jesus-and-family-of-imran) </br>
-[8. Pre-Islamic Arabia 🐫 🌴 🕋](#8-pre-islamic-arabia---) </br>
-[9. History of Islam](#9-history-of-islam-) </br><!--
-   [9.1. Prophet Muhammad  ﷺ   ](#91-prophet-muhammad-saw) </br>
-   [9.2 The Rashidun (Righteous Khalifs)](#91-prophet-muhammad-saw) </br>
-   [9.3 The Islamic Golden Age](#93-the-islamic-golden-age) </br> -->
-[10. Later History of Islamic Countries](#10-later-history-of-islamic-countries) </br>
-[11. Current State of the Islamic World](#11-current-state-of-the-islamic-world) </br>
-[12. Signs of Day os Judgement](#122-minor-signs-of-the-day-of-judgement) </br>
-[13. Apocalypse (Yawm Al Qiyamah)](#12-yawm-al-qiyamah) </br>
-<!--   [12.1 Major Signs of Al Kiyamah](#122-minor-signs-of-the-day-of-judgement) </br>
-   [12.2 Minor Signs of The Day of Judgement](#122-minor-signs-of-the-day-of-judgement) </br>
-   [12.3 Al Qiyamah (The Hereafter)](#123-al-qiyamah-the-hereafter) </br> -->
-
-</div>
+<details><summary>
 
 # 0. Before Creation of Humankind
 ***************************************
@@ -589,11 +566,14 @@ Conjuring shedim isn't necessarily forbidden, depending on whether or not, autho
 
 Shedim can shapeshift and assume a human form. The Talmud tells of Asmodeus assuming King Solomon's form and ruling in his place for some time. However, he was never seen barefoot because he could not disguise his feet.
 </details>
+</details>
+
+<details><summary>
 
 # 1. Adam and Eve
 *******************************************
 
-<details><summary>
+</summary><details><summary>
 
 ## Adam is created from clay
 
@@ -773,12 +753,14 @@ Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Ear
 
 There is a difference of opinions on the question of where Adam and Eve landed on earth. The majority of tabi'un and sahabi said that Adam came from the Heavens to the land oh Hind (modern day India). Other opinions include taht he landed in Mecca or in Sri-Lanka. When it comes to Hawwah, some say that she came with Adam to Mecca, some say to India with Adam, and most say that she came in Jedda. The place where they came down is not mentioned in the Quran and ahadith, thus these are only presumptions.
 
-</details>
+</details></details>
+
+<details><summary>
 
 # 2. Early Human Era on Earth
 *******************************************
 
-<details><summary>
+</summary><details><summary>
 
 ## Children of Adam and Eve
 
@@ -898,12 +880,14 @@ Consider how Shaitan did not simply suggest to the people to worship idols. He g
 
 Shaitan has been using this trick for ages and continues to do so today. One has to only see the fitnah among people nowadays and compare it with a few decades ago.
 
-</details>
+</details></details>
+
+<details><summary>
 
 # 3. Nuh (Noah) and Great Flood ⛴🕊⛰
 *************************************
 
-<details><summary>
+</summary><details><summary>
 
 ## Story of Nuh Shortly
 
@@ -1145,14 +1129,15 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 
 Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized: Šélaḥ), Salah or Sala (Greek: Σαλά – Salá) or Shelah is an ancestor of the Ishmaelites and Israelites according to the Table of Nations in Genesis 10. He is thus one of the table's “seventy names.” He is also mentioned in Genesis 11:12–15, 1 Chronicles 1:18–24, and Luke 3:35-36. In the ancestral line from Noah to Abraham, he is the son of Arpachshad (in the Masoretic Text and Samaritan Pentateuch) or Cainan (in the Septuagint ) and the father of Eber.
 
-</details>
+</details></details>
+<details><summary>
 
 # 4. Ibrahim (Abraham)
 *******************************************
 
 > ~ 2nd millenium BCE (2100-1900, according to Biblical scholars)
 
-<details><summary>
+</summary><details><summary>
 
 ## Timeline Side-Note
 
@@ -1946,14 +1931,15 @@ Shuayb's mission is often mentioned in the Qur'an with the mission of Noah, Hud,
 
 Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Although Shuaib is frequently identified with the Midianite priest Jethro, most modern scholars reject this identification. Classical commentators, such as Ibn Kathir, say Shuʿayb was a great-grandson of Abraham: Shuʿayb is believed to have been the son of Mikil, son of Issachar, son of Midian, son of Abraham. That would render impossible the identification with Jethro, who lived at the time of Moses, purportedly hundreds of years after Abraham.
 
-</details>
+</details></details>
+<details><summary>
 
 # 5. Musa and the Exodus
 *******************************************
 
 > ~ 1500 BCE
 
-<details><summary>
+</summary><details><summary>
 
 ## Musa -- Moses 🌿🔥
 
@@ -2469,14 +2455,15 @@ Abu Hurairah narrated:
 
 According to Bible, Moses also dies very close to The Promised Land (also known as "The Land of Milk and Honey", is the land which, according to the Tanakh (the Hebrew Bible or Old Testament), God promised and subsequently gave to Abraham and to his descendants).
 
-</details>
+</details></details>
+<details><summary>
 
 # 6. Jewish Prophets and Kings
 *******************************************
 
 > 1st millenium BCE
 
-<details><summary>
+</summary><details><summary>
 
 ## Shammil and Talut -- Samuel and King Saul
 
@@ -2963,12 +2950,13 @@ Uzair (Ezra) lived during the period around 450 B.C. The Jews regarded him with 
 
 According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a group of Jews who venerated Ezra as the son of God. According to Ali, Qastallani held that in the Kitan al-Nikah, that there was a party of Jews who held this belief.
 
-</details>
+</details></details>
+<details><summary>
 
 # 7. Isa (Jesus and Family of Imran)
 *******************************************
 
-<details><summary>
+</summary><details><summary>
 
 ## Maryam (Virgin Mary) is born
 
@@ -3488,12 +3476,13 @@ It is important to take into account that the Bible cannot be fully called the W
 
 * [10 Resons why Jesus is not divine from Islamic perspective](https://www.youtube.com/watch?v=pCuxnu_IGUk)
 
-</details>
+</details></details>
+<details><summary>
 
 # 8. Pre-Islamic Arabia 🐫 🏜️ 🕋
 *******************************************
 
-<details><summary>
+</summary><details><summary>
 
 ## Arabia Before Islam [TBD]
 
@@ -3917,10 +3906,12 @@ Two different narrations from Aisha give these details.
 
 > Khadija then accompanied him to her cousin Waraqah bin Naufil bin Asad bin 'Abdul 'Uzza, who, during the Pre-Islamic Period became a Christian and used to write the writing with Hebrew letters. He would write from the Gospel in Hebrew as much as God wished him to write. He was an old man and had lost his eyesight. Khadija said to Waraqah, "Listen to the story of your nephew, O my cousin!" Waraqah asked, "O my nephew! What have you seen?" God's Apostle described whatever he had seen. Waraqah said, "This was the same one who keeps the secrets whom Allah had sent to Moses (Angel Gabriel). I wish I were young and could live up to the time when your people would turn you out." God's Apostle asked, "Will they drive me out?" Waraqah replied in the affirmative and said, "Anyone (man) who came with something similar to what you have brought was treated with hostility; and if I should remain alive till the day when you will be turned out then I would support you strongly." But after a few days Waraqah died and the Divine Inspiration was also paused for a while.
 
-</details>
+</details></details>
+<details><summary>
 
 # 9. History of Islam ☪
 *******************************************
+</summary>
 
 # 9.1. Prophet Muhammad ﷺ 
 
@@ -7221,11 +7212,12 @@ This is a list of notable people related to the House of Wisdom.
 * Jabir Ibn Hayyan—known for his work with practical metallurgy, his work was translated into Latin During the 12th century
 * Omar Khayyam (1048–1131)—Persian poet, mathematician, and astronomer most famous for his solution of cubic equations
 
-</details>
+</details></details>
+<details><summary>
 
 # 10. Later History of Islamic Countries
 
-<details><summary>
+</summary><details><summary>
 
 ## 1095 - 1099: Crusader conquer Jerusalem, establish states in Palestine, Anatolia and Syria
 
@@ -7386,12 +7378,13 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 
 ## 1556: The Russians conquer Astrakhan
 
-</summary></details>
+</summary></details></details>
+<details><summary>
 
 # 11. Current State of the Islamic World
 *******************************************
 
-<details><summary>
+</summary><details><summary>
 
 ## Islamic Countries
 
@@ -7474,10 +7467,13 @@ The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocen
 
 How Christianity started to allow usury (ribah) and banks appeared.
 
-</details>
+</details></details>
+<details><summary>
 
 # 12. Yawm Al Qiyamah (The Apocalypse)
 *******************************************
+
+</summary>
 
 ### 12.1 Minor Signs of The Day of Judgement
 
@@ -8085,4 +8081,5 @@ According to another tradition recorded by Tirmidhi, the Prophet said,“My Lord
 
 The above report was declared Hasan Gharib by Tirmidhi. However, after mentioning the above in his “Fath”, Ibn Hajr quoted another hadith on the above topic from Ibn Hibb an and Tab arani, which he declared trustworthy. It says,“Then every thousand will intercede for seventy thousand. Thereafter, my Lord will usher in three handfuls of His two Handfuls.” When Umar said “Allah is the Greatest” the Prophet added, “The seventy thousand will be allowed to intercede for their fathers, mothers and family members, and I hope that the handfuls will be from the lowest of my followers.”
 
+</details>
 </details>

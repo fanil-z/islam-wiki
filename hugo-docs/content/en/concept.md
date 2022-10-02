@@ -94,6 +94,29 @@ https://miro.com/app/board/o9J_kqBzhXk=/
 
 Wanted to combin the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level higher content planning and too much overhead so I chose the simplest way.
 
+Published on Render: https://islam-wiki.onrender.com/docs/wiki/islam-wiki
+
+### Note on CSS
+
+THe website wouldn't get the bootstrap css from @hyas node on production builds. I don't know how to fix it, so I just implemented added an additional custom CSS file in the head.html. Using this approach I can actually just use a simple hugo theme and bump the CSS there. I don't know. 
+
+### On this page
+[tableOfContents]
+  endLevel = 4
+  ordered = false
+  startLevel = 1
+
+config/smarkup.html
+
+
+### Disabling TOC
+
+---
+toc: false
+
+---
+in the front matter of the page.
+
 https://nowthisnews.com
 
 # NEXT STEPS
@@ -109,6 +132,11 @@ Requirements:
 2. Recently I became a fan of [The Pudding](https://pudding.cool) and how they play with CSS and JS to create interactive data visuals like for example [this article about Aztec mythology](https://pudding.cool/2022/06/aztec-gods/).
 
 3. Add timeline.
+
+4. I have some thoughts on how to make it user-friendly for mobile users. probably this will require some changes in the H1 structure. For example, we can put the H1 child content inside the details tag and then hide all the content. so that mobile users will se only the H1 headers and they will need to click the header to expand its child H2 headers. This will make it minimalistic and more interactive.
+
+Also, we can remove te on this page section at all as it is useless anyway. instead we can add a button for different depths. For example, show only H1 headers, show h1 & h2 headers, and expand all.
+
 
 Need to do
 ===========
