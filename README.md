@@ -36,6 +36,34 @@ Chronology of Islam (from creation of the Earth and till recent years)
 
 To edit CSS settings, change the `\islam-wiki\hugo-docs\static\css\custom.css` file.
 
+### Note on CSS
+
+THe website wouldn't get the bootstrap css from @hyas node on production builds. I don't know how to fix it, so I just implemented added an additional custom CSS file in the head.html. Using this approach I can actually just use a simple hugo theme and bump the CSS there. I don't know. 
+
 ## Adding JS Scripts
 
 JS scripts are in `single.html`. Need to transform them to separate scripts in the js folder.
+
+## TOC Settings
+
+Change the config/markup.html file.
+
+[tableOfContents]
+  endLevel = 4
+  ordered = false
+  startLevel = 1
+
+### Disabling TOC
+
+To disable the TOC, add the following in the front matter of the page.
+
+---
+toc: false
+
+---
+
+
+# Test Environment
+
+Test version of the website is published on Render: https://islam-wiki.onrender.com/docs/wiki/islam-wiki
+
