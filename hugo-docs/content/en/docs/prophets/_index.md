@@ -1,6 +1,6 @@
+---
+draft: true
+
+---
+
 Parent page
-sdf
-dfadfsd
-
-
-sdfsdf

@@ -1,3 +1,7 @@
+---
+draft: true
+
+---
 
 Family tree of the prophet Muhammad (saw).
 

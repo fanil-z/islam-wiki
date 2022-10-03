@@ -5,7 +5,10 @@ toc: false
 
 ---
 
-<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline </b></p>
+<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline* </b></p>
+
+*_According to Islamic Sources_
+
 
 <details>
 <summary style="color: #878686fc; font-size: 14px; text-align: right;">DISCLAIMER!</summary>

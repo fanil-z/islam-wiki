@@ -1,4 +1,7 @@
+---
+draft: true
 
+---
 
 ## Concept of Coding (Longread)
 ==================

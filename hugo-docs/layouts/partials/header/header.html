@@ -107,23 +107,28 @@
     {{ end -}} -->
 
 
-      <p style="font-size:13px; margin-right:5%; padding-top: 4px">سْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  </p>
+      <p style="font-size:13px; margin-right:5%; padding-top: 4px;">سْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  </p>
+
+      <label style="padding-right: 10px; margin-left:35%">
       {{ partial "read-time.html" . }}
- 
-<!-- #303030 -->
+      </label>
+
+<!-- #303030 --><!--
     <input placeholder="search" type="text" id="searchp" style="color:#303030; font-size: 15px; margin-left:auto; margin-right: 0; border-radius: 5px; display: inline-block; border: 1px solid grey;">
     <input type="button" id="searchbtn" style="color:#303030; font-size: 15px; margin-right:12px; background-color: #4aa3a0; border: none; color: white; display: inline-block; margin: 0 0 0 2px; cursor: pointer; border-radius: 5px; padding: 2px 8px" value="Search" onclick="searchp(document.getElementById('searchp').value)">
-    
+    -->
 
-    <button id="btnExpandHideAllDetails" onclick="openAll()" style="color:#303030; font-size: 15px; margin-right: 0; background-color: #4aa3a0; border: none; color: white; display: inline-block; margin: 0px 0px 0px 10px; cursor: pointer; border-radius: 5px; padding: 2px; width: 87px;">Expand All</button>
-
-    {{ if .Site.Params.options.darkMode -}}
-    
     <input type="checkbox" id="mode">
      <label for="mode">
       <i class="fas fa-sun"></i>
       <i class="fas fa-moon"></i>
     </label>
+
+    <button id="btnExpandHideAllDetails" onclick="openAll()" style="color:#303030; font-size: 15px; margin-right: 0; background-color: #4aa3a0; border: none; color: white; display: inline-block; margin: 0px 0px 0px 10px; cursor: pointer; border-radius: 5px; padding: 2px; width: 87px;">Expand All</button>
+
+    {{ if .Site.Params.options.darkMode -}}
+    
+    
 
     <!--
     <button id="mode1" class="btn btn-link order-md-1" type="button" aria-label="Toggle user interface mode">

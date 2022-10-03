@@ -1,4 +1,7 @@
+---
+draft: true
 
+---
 
 ## Jahannam (Longread)
 ==================

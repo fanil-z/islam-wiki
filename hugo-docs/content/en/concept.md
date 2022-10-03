@@ -26,23 +26,17 @@ maybe make the first post short.
 I'll make a separate post about how the stack behind the website works. Shortly, it is build on the Hugo framework with Hyas 
 
 
-Hello everyone and assalamu aleikum,
+Hello everyone and Assalamu Aleikum,
 
- a static HTML generator Hugo. 
+In order to get some Hugo and CSS practice, I started wrapping up my notes about Islam into a static website, carried away and after one year spending about 15min daily the MD editor showed it will take about 12 hours to read the whole thing.
+When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of the stories from religios texts. After several years of googling nub questions like 'Was Solomon before Moses?' or 'When Soddom and Gomorra happened?' my notes and tables started to grow. That's why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one page and sort them according to a historical timeline.
+Another aspect that always bothers me in large documentation samples is that it is not easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of historical texts, TOC can actually kind of give you a short description of what happened in the correct order. Trying to combine the helicopter view and large portions of text, I've used the standard <details><summary> tags so that details about a historic event appears when you click on the topic.
 
-It's open source, flexible, has a large number of themes including themes for user manuals and API references.
-
-In order to get some Hugo and CSS practice, I started wrapping up my notes about Islam into a static website, carried away and after one year spending about 15min daily the MD editor showed it will take about 12 hours to read the whole page.
-When I only started learning about Biblical and Islamic prophets, I had a hard time trying to figure out the historical order of the stories from religios texts. After several years of googling nub questions like 'Was Solomon before Moses?' or 'When Soddom and Gomorra happened?' my notes and tables started to grow. That's why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one page and sort them according to a historical timeline.
-Another aspect that always bothers me in large documentation samples is that it is not so easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of historical texts, TOC can actually kind of give you a short description of what happened in the correct order. Trying to combine the helicopter view and large portions of text, I've used the standard <details><summary> tags so that details about a historic event appears when you click on the topic.
-
-Should I mention that some parts of a section are copied from Wikipedia page written by OatCookies, Cheezhai, Chewings72, Wulverine claws, Emir of Wikipedia, Funnyhat, Super ninja2, "I dream of horses" and 30 other authors? This gives you thoughts like probably "Super ninja" username was already taken and is there Super ninja3.
-
-There are still tonnes of bugs and I quickly realized that my sense of beauty is not enough to fix all CSS issues.
+To build the website I used the Hugo static HTML generator. Hugo is open source, flexible, has a large number of themes including themes for user manuals and API references.
 
 The overall stack looks like this:
 
-3. Hugo: a static web-site generator builds a static HTML/CSS/JS website using MD files as a source.
+1. Hugo: a static web-site generator builds a static HTML/CSS/JS website using MD files as a source.
 	- Hyas: I used Hyas to have a good-looking, neat bootstrap layout. 
 		- Hyas depends on Node.js. I installed it on my laptop.
 		  Node.js is easy to install on Linux and probably Mac. On Windows, you will also need Chocolatey.
@@ -50,24 +44,24 @@ The overall stack looks like this:
 		- CSS: The theme is cool but I needed to adjust it to my purposes. So, I added the custom CSS file (~150 lines).
 		- JS: added buttons for sending feedback, expanding/hiding details elements all at once, in-page search and dark mode switch toggle.
 		- Hugo is super-flexible and has a large amount of useful features but at the beginning it was hard to navigate through all the functionality and figure out which exactly config files I had to change. Hugo documentation is helpful here. 
-4. Render or Netlify: static web-files are hosted in Render. up to 100GB is free.
+2. Render or Netlify: static web-files are hosted in Render. up to 100GB is free.
 Generated website is uploaded to a production GitLab repo; Render checks if there is an update in the repo and automatically updates the content.
-5. I bought the domain here:
-6. Scripting. Wrote a basic bash script that pushed latest changes in the source, triggers Hugo to generate the website and pushes to production. Yes, testing on production.
-1. Markdown: the content is written in Markdown files + with some HTML additions.
-2. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
+3. A pipeline on render automatically fetches my latest commit in the git repo install all required npm packages, build the website and published it into production. Yes, testing in production.
+I bought the domain here:
+4. 
+5. Markdown: the content is written in Markdown files + with some HTML additions.
+6. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
 
 
 Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup. I wouldn't recommend Hyas/Doks for beginners or if you want to customize the layout or CSS, there are much simpler themes of Hugo that can be configured in 5 min.
 
 gathered from various web resources:
 Islam: A Short History by Karen Armstrong who is a famous historian and a Christian nun.
-my notes on Yasir Qadhi's 114 lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info (actually lot of it) is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them, remove the parts that are not mentioned in The Quran or authentic hadiths, or parts that are too Shia. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state. 
-The bad thing I noticed about Wikipedia is there are a lot of articles written not by Islamic scholars but by Eastern 
+my notes on Yasir Qadhi's 114 lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them, remove the parts that are not mentioned in The Quran or authentic hadiths, or parts that are too Shia. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state. 
 
 Please use the Send feedback button if the order is not correct or if you find something conradicting the Quran or authentic hadith.
 
-Probably I won't be able to finish the whole thing if the content was not about Islam that is exciting to explore. However the most painful part was to gather information on the First Fitnah and how the era of righteous khalifs came to an end after assassination of Ali. Even though the Golden Age of Islam starts right after, for me it is the saddest periods of Islamic history, when we can say that the original ummah of the Prophet Muhammad ceased to exist. May Allah forgive us and guide us to the right path.
+Probably I wouldn't be able to finish the the website if the content was not about Islam which is exciting to explore. However the most painful part was to gather information on the First Fitnah and how the era of righteous khalifs came to an end after assassination of Ali. Even though the Golden Age of Islam starts right after, for me it is the saddest periods of Islamic history, when we can say that the original ummah of the Prophet Muhammad ceased to exist. May Allah forgive us and guide us to the right path.
 
 I also had to spend additional time adding a cat 🐈 every time the name of the noble Abu Huraira comes up because, verily, Abu Huraira that stands for "Father of a kitten" in Arabic. Was totally worth it and I do not consider it as israf of time.
 

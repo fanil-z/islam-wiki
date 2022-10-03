@@ -1,4 +1,7 @@
+---
+draft: true
 
+---
 
 ## Corrupt Monetary System (Longread)
 ==================
