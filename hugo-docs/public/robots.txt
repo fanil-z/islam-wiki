@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://incomparable-beignet-4c7c25.netlify.app/sitemap.xml

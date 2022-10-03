@@ -82,7 +82,7 @@ details summary > * {
 details[open] summary > * {
   font-weight:600 !important;
   font-size: 1.55rem !important;
-  /*color:#4aa3a0 !important;
+ /*color:#4aa3a0 !important;
   background-color: #f2f9f7;*/
   margin-top: 15px !important;
   margin-bottom: 25px !important;
@@ -106,9 +106,25 @@ details#level2[open] summary > * {
   font-size: 1.55rem !important;
 }
 
+[data-dark-mode] summary:hover { 
+  color: black;
+}
+
+[data-dark-mode] details summary::before { 
+  color: yellow !important; 
+}
+
+summary:hover{background:#d7d7d7}
+
+[data-dark-mode] summary:hover{background:#f8f9fa}
+
  /*
 summary {list-style: none}
 summary::-webkit-details-marker {display: none; }
+
+details summary::before { 
+  color: grey; 
+}
 
 <details open>
 <summary style="list-style: none;"> # might neee for H1 details
@@ -193,10 +209,15 @@ input[type="checkbox"]{
 	padding-top: 0 !important;
 }
 
+/*.page-links li:hover {
+  background-color: #f8f9fa;
+  color: #4aa3a0;
+}
+
 .page-links li {
 	font-weight: 600;
 	font-size: 1rem !important;
-}
+}*/
 
 .page-links li ul li {
 	font-size: 0.86rem !important;
@@ -266,3 +287,7 @@ input[type="checkbox"]{
   visibility: visible;
   opacity: 1;
 }
+
+.docs-content {
+    margin-left: 5rem;
+  }

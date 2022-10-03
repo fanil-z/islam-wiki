@@ -1,17 +1,14 @@
 ---
 date: 9 Apr 2022
 author: fanil
-toc: false
+toc: true
 
 ---
 
-<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline* </b></p>
-
-*_According to Islamic Sources_
-
+<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline </b></p>
 
 <details>
-<summary style="color: #878686fc; font-size: 14px; text-align: right;">DISCLAIMER!</summary>
+<summary style="color: #878686fc; font-size: 14px; text-align: left;">DISCLAIMER!</summary>
 
 > Assalamu Aleikum (Peace be upon you), 
 > 
@@ -35,7 +32,7 @@ toc: false
 > 
 > May Allah guide us all to the right path.
 
-</details>
+</details><!--
 <p style="display:block; margin: 5px; font-size: 16px"><b>Table of Contents</b>:</p>
 <div class="toc">
 
@@ -48,19 +45,19 @@ toc: false
 [6. Jewish Kings and Prophets](#6-jewish-kings-and-prophets) </br>
 [7. Isa (Jesus) and Family of Imran](#7-isa-jesus-and-family-of-imran) </br>
 [8. Pre-Islamic Arabia 🐫 🌴 🕋](#8-pre-islamic-arabia---) </br>
-[9. History of Islam](#9-history-of-islam-) </br><!--
+[9. History of Islam](#9-history-of-islam-) </br>
    [9.1. Prophet Muhammad  ﷺ   ](#91-prophet-muhammad-saw) </br>
    [9.2 The Rashidun (Righteous Khalifs)](#91-prophet-muhammad-saw) </br>
-   [9.3 The Islamic Golden Age](#93-the-islamic-golden-age) </br> -->
+   [9.3 The Islamic Golden Age](#93-the-islamic-golden-age) </br> 
 [10. Later History of Islamic Countries](#10-later-history-of-islamic-countries) </br>
 [11. Current State of the Islamic World](#11-current-state-of-the-islamic-world) </br>
 [12. Signs of Day os Judgement](#122-minor-signs-of-the-day-of-judgement) </br>
 [13. Apocalypse (Yawm Al Qiyamah)](#12-yawm-al-qiyamah) </br>
-<!--   [12.1 Major Signs of Al Kiyamah](#122-minor-signs-of-the-day-of-judgement) </br>
+   [12.1 Major Signs of Al Kiyamah](#122-minor-signs-of-the-day-of-judgement) </br>
    [12.2 Minor Signs of The Day of Judgement](#122-minor-signs-of-the-day-of-judgement) </br>
-   [12.3 Al Qiyamah (The Hereafter)](#123-al-qiyamah-the-hereafter) </br> -->
+   [12.3 Al Qiyamah (The Hereafter)](#123-al-qiyamah-the-hereafter) </br> 
 
-</div>
+</div>-->
 
 # 0. Before Creation of Humankind
 ***************************************
@@ -2213,7 +2210,13 @@ Moses prayed to his Lord and He relieved the suffering caused by the flood. The 
 
 Then Allah sent swarms of locusts which ate whatever crops they had grown. The people hurried to Moses, asking him to invoke Allah to remove this affliction and promising they would send the children of Israel with him this time. The locusts departed, but they did not fulfill their promise.
 
-    Almighty Allah said: And indeed We punished the people of Pharaoh with years of drought and shortness of fruits (crops, etc.), that they might remember (take heed). But whenever good came to them, they said: "Ours is this." And if evil afflicted them, they ascribed it to euil omens connected with Moses and those with him. Be informed! Verily, their evil omens are with Allah but most of them know not. They said (to Moses): "Whatever Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) you may bring to us, to work therewith your sorcery on us, we shall never believe in you." So We sent on them: the flood, the locusts, the lice, the frogs, and the blood: (as a succession of) manifest signs, yet they remained arrogant, and they were of those people who were Mujrimeen (criminals, polytheists, sinners, etc.) 
+    Almighty Allah said: And indeed We punished the people of Pharaoh with years of drought and shortness of fruits (crops, etc.), that they might remember (take heed). But whenever good came to them, they said: "Ours is this." 
+
+    And if evil afflicted them, they ascribed it to euil omens connected with Moses and those with him. Be informed! Verily, their evil omens are with Allah but most of them know not. 
+
+    They said (to Moses): "Whatever Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) you may bring to us, to work therewith your sorcery on us, we shall never believe in you." 
+
+    So We sent on them: the flood, the locusts, the lice, the frogs, and the blood: (as a succession of) manifest signs, yet they remained arrogant, and they were of those people who were Mujrimeen (criminals, polytheists, sinners, etc.) 
     Quran Ayah 7:130-133
 
     Almighty Allah also said: But when We removed the punishment from them to a fixed term, which they had to reach, behold! They broke their word! Quran Ayah 7:135
