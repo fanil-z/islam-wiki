@@ -32,32 +32,7 @@ toc: true
 > 
 > May Allah guide us all to the right path.
 
-</details><!--
-<p style="display:block; margin: 5px; font-size: 16px"><b>Table of Contents</b>:</p>
-<div class="toc">
-
-[0. Before Creation of Humankind](#0-before-creation-of-humankind) </br>
-[1. Adam and Eve](#1-adam-and-eve) </br>
-[2. Early Human Era on Earth](#2-early-human-era-on-earth) </br>
-[3. Nuh (Noah) and Great Flood ⛴🕊⛰](#3-nuh-noah-and-great-flood-) </br>
-[4. Ibrahim (Abraham)](#4-ibrahim--abraham) </br>
-[5. Musa (Moses) and Exodus  🇪🇬 ](#5-musa-and-the-exodus) </br>
-[6. Jewish Kings and Prophets](#6-jewish-kings-and-prophets) </br>
-[7. Isa (Jesus) and Family of Imran](#7-isa-jesus-and-family-of-imran) </br>
-[8. Pre-Islamic Arabia 🐫 🌴 🕋](#8-pre-islamic-arabia---) </br>
-[9. History of Islam](#9-history-of-islam-) </br>
-   [9.1. Prophet Muhammad  ﷺ   ](#91-prophet-muhammad-saw) </br>
-   [9.2 The Rashidun (Righteous Khalifs)](#91-prophet-muhammad-saw) </br>
-   [9.3 The Islamic Golden Age](#93-the-islamic-golden-age) </br> 
-[10. Later History of Islamic Countries](#10-later-history-of-islamic-countries) </br>
-[11. Current State of the Islamic World](#11-current-state-of-the-islamic-world) </br>
-[12. Signs of Day os Judgement](#122-minor-signs-of-the-day-of-judgement) </br>
-[13. Apocalypse (Yawm Al Qiyamah)](#12-yawm-al-qiyamah) </br>
-   [12.1 Major Signs of Al Kiyamah](#122-minor-signs-of-the-day-of-judgement) </br>
-   [12.2 Minor Signs of The Day of Judgement](#122-minor-signs-of-the-day-of-judgement) </br>
-   [12.3 Al Qiyamah (The Hereafter)](#123-al-qiyamah-the-hereafter) </br> 
-
-</div>-->
+</details>
 
 # 0. Before Creation of Humankind
 ***************************************
@@ -1144,16 +1119,16 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 
 </details>
 
-# 4. Ibrahim (Abraham)
+# 4. Ibrahim (Abraham) (~ 2100-1900 BCE)
 *******************************************
-
-> ~ 2nd millenium BCE (2100-1900, according to Biblical scholars)
 
 <details><summary>
 
 ## Timeline Side-Note
 
 </summary>
+
+> ~ 2nd millenium BCE (2100-1900, according to Biblical scholars)
 
 Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). The ziggurat of Ur stand in the desert till this day. Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
 
@@ -1945,10 +1920,8 @@ Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Alt
 
 </details>
 
-# 5. Musa and the Exodus
+# 5. Musa and the Exodus (~ 1500 BCE)
 *******************************************
-
-> ~ 1500 BCE
 
 <details><summary>
 
@@ -2474,10 +2447,8 @@ According to Bible, Moses also dies very close to The Promised Land (also known 
 
 </details>
 
-# 6. Jewish Prophets and Kings
+# 6. Jewish Prophets and Kings (1000-0 BCE)
 *******************************************
-
-> 1st millenium BCE
 
 <details><summary>
 
@@ -6530,7 +6501,9 @@ Quickly they left. Abu Hurayrah (R.A.) waited until they returned. When they saw
 "Woe unto you," replied Abu Hurayrah," that is the inheritance of Mohammad (S.A.W.)."
 Abu Hurayrah (R.A.) underwent much hardship and difficulties as a result of his dedicated search for knowledge. He was often hungry and destitute. He said about himself:
 
-The time came of course when the Muslims were blessed with great wealth and material goodness of every description. Abu Hurayrah (R.A.) eventually got his share of wealth. He had a comfortable home, a wife and child. But this turn of fortune did not change his personality. Neither did he forget his days of destitution. He would "I grew up as an orphan and I emigrated as a poor and indigent person. I used to take food for my stomach from Busrah bint Ghazwan. I served people when they returned from journeys and led their camels when they set out. Then Allah caused me to marry her (Busrah). So praise be to Allah who has strengthened his religion and made Abu Hurayrah an imam." (This last statement is a reference to the time when he became governor of Madinah.)
+The time came of course when the Muslims were blessed with great wealth and material goodness of every description. Abu Hurayrah (R.A.) eventually got his share of wealth. He had a comfortable home, a wife and child. But this turn of fortune did not change his personality. Neither did he forget his days of destitution. He would 
+
+>"I grew up as an orphan and I emigrated as a poor and indigent person. I used to take food for my stomach from Busrah bint Ghazwan. I served people when they returned from journeys and led their camels when they set out. Then Allah caused me to marry her (Busrah). So praise be to Allah who has strengthened his religion and made Abu Hurayrah an imam." (This last statement is a reference to the time when he became governor of Madinah.)
 
 Much of Abu Hurayrah's (R.A.) time would be spent in spiritual exercises and devotion to Allah. Qiyam al-Layl (staying up for the night in prayer and devotion) was a regular practice of his family including his wife and his daughter. He would stay up for a third of the night, his wife for another third and his daughter for a third. In this way, in the house of Abu Hurayrah (R.A.) no hour of the night would pass without ibadah, dhikr and Salat.
 
@@ -6548,17 +6521,18 @@ Abu Hurayrah (R.A.) did as he was told and raised his hands to the heavens and p
 Subsequently, Umar (R.A.) asked him to become governor once again but he declined. Umar (R.A.) asked him why he refused and he said:
 
 "So that my honor would not be besmirched, my wealth taken and my back beaten." And he added: "And I fear to judge without knowledge and speak without wisdom."
-Throughout his life Abu Hurayrah (R.A.) remained kind and courteous to his mother. Whenever he wanted to leave home, he would stand at the door of her room and say: As-Salaam-u-Alaykum, yaa ummataah, wa rahrnatullahi wa barakatuhu (peace be on you, mother, and the mercy and blessings of Allah)." She would reply: "Waalayk-um-Asalaam, yaa bunayya, wa rahmatullahi wa barakatuhu (And on you be peace, my son, and the mercy and blessings of Allah)." Often, he would also say: "May Allah have mercy on you as you cared for me when I was small," and she would reply: "May Allah have mercy on you as you delivered me from error when I was old." 
+
+Throughout his life Abu Hurayrah (R.A.) remained kind and courteous to his mother. Whenever he wanted to leave home, he would stand at the door of her room and say: `As-Salaam-u-Alaykum, yaa ummataah, wa rahrnatullahi wa barakatuhu (peace be on you, mother, and the mercy and blessings of Allah).` She would reply: `"Waalayk-um-Asalaam, yaa bunayya, wa rahmatullahi wa barakatuhu (And on you be peace, my son, and the mercy and blessings of Allah)."` Often, he would also say: `"May Allah have mercy on you as you cared for me when I was small,"` and she would reply: "May Allah have mercy on you as you delivered me from error when I was old." 
 
 Abu Hurayrah (R.A.) always encouraged other people to be kind and good to their parents.
 
-One day he saw two men walking together, one older than the other. He asked the younger one: 
-
-"What is this man to you?"
-
-"My father," the person replied.
-
-"Don't call him by his name. Don't walk in front of him and don't sit before him," advised Abu Hurayrah (R.A.).
+> One day he saw two men walking together, one older than the other. He asked the younger one: 
+>
+> "What is this man to you?"
+>
+> "My father," the person replied.
+> 
+> "Don't call him by his name. Don't walk in front of him and don't sit before him," advised Abu Hurayrah (R.A.).
 
 Muslims owe a debt of gratitude to Abu Hurayrah (R.A.) for helping to preserve and transmit the valuable legacy of the Prophet (S.A.W.), may Allah bless him and grant him peace. He died in the year 59 AH when he was seventy-eight years old.
 
@@ -6566,7 +6540,19 @@ Muslims owe a debt of gratitude to Abu Hurayrah (R.A.) for helping to preserve a
 
 There is a great hadith that shows the character of prophet Muhammad and the close relationship between Abu Hurairah and the prophet.
 
-> “By Allah except Whom none has the right to be worshipped, (sometimes) I used to lay (asleep) on the ground on my liver (abdomen) because of hunger, and (sometimes) I used to bind a stone over my belly because of hunger. One day I sat by the way from where they (the Prophet ﷺ   and his Companions) used to come out. When Abū Bakr passed by, I asked him about a Verse from Allah’s Book and I asked him only so that he might satisfy my hunger, but he passed by and did not do so. Then ʿUmar passed by me and I asked him about a Verse from Allah’s Book, and I asked him only that he might satisfy my hunger, but he passed by without doing so. Finally Abū al-Qāsim (the Prophet ﷺ  ) passed by me and he smiled when he saw me, for he knew what was in my heart and on my face. He said, ‘O Abā Hirr (Abū Hurayrah)!’ I replied, ‘Labbayk, O Allah’s Messenger ﷺ!’ He said to me, ‘Follow me.’ He left and I followed him. Then he entered the house and I asked permission to enter and was admitted. He found milk in a bowl and said, ‘From where is this milk?’ They said, ‘It has been presented to you by such-and-such man (or by such and such woman).’ He said, ‘O Abā Hirr!’ I said, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘Go and call the people of Ṣuffah to me.’ These people of Ṣuffah were the guests of Islam who had no families, no money, or anybody to depend on. Whenever an object of charity was brought to the Prophet ﷺ  , he would send it to them and would not take anything from it, and whenever any present was given to him, he used to send some for them and take some of it for himself. The order of the Prophet ﷺ   upset me, and I said to myself, ‘How will this little milk be enough for the people of Ṣuffah, though I am more entitled to drink from that milk in order to strengthen myself?’ But behold, the Prophet ﷺ   came and ordered me to give that milk to them. I wondered what will remain of that milk for me, but I could not but obey Allah and His Apostle. So I went to the people of al-Ṣuffah and called them, and they came and asked the Prophet’s permission to enter. They were admitted and took their seats in the house. The Prophet ﷺ   said, ‘O Abā Hirr!’ I said, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘Take it and give it to them.’ So I took the bowl (of milk) and started giving it to one man who would drink his fill and return it to me, whereupon I would give it to another man who, in his turn, would drink his fill and return it to me, and I would then offer it to another man who would drink his fill and return it to me. Finally, after the whole group had drunk their fill, I reached the Prophet ﷺ  , who took the bowl and put it on his hand, looked at me and smiled, and said: ‘O Abā Hirr!’ I replied, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘There only remains you and I.’ I said, ‘You have said the truth, O Allah’s Messenger ﷺ  !’ He said, ‘Sit down and drink.’ I sat down and drank. He said, ‘Drink,’ and I drank. He kept on telling me repeatedly to drink, till I said, ‘No. by Allah Who sent you with the Truth, I have no space for it (in my stomach).’ He said, ‘Hand it over to me.’ When I gave him the bowl, he praised Allah, pronounced Allah’s Name on it, and drank the remaining milk.”
+> “By Allah except Whom none has the right to be worshipped, (sometimes) I used to lay (asleep) on the ground on my liver (abdomen) because of hunger, and (sometimes) I used to bind a stone over my belly because of hunger. One day I sat by the way from where they (the Prophet ﷺ   and his Companions) used to come out. 
+>
+> When Abū Bakr passed by, I asked him about a Verse from Allah’s Book and I asked him only so that he might satisfy my hunger, but he passed by and did not do so. Then ʿUmar passed by me and I asked him about a Verse from Allah’s Book, and I asked him only that he might satisfy my hunger, but he passed by without doing so. 
+>
+> Finally Abū al-Qāsim (the Prophet ﷺ  ) passed by me and he smiled when he saw me, for he knew what was in my heart and on my face. He said, ‘O Abā Hirr (Abū Hurayrah)!’ I replied, ‘Labbayk (I am here), O Allah’s Messenger ﷺ!’ He said to me, ‘Follow me.’ He left and I followed him. Then he entered the house and I asked permission to enter and was admitted. He found milk in a bowl and said, ‘From where is this milk?’ They said, ‘It has been presented to you by such-and-such man (or by such and such woman).’ He said, ‘O Abā Hirr!’ I said, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘Go and call the people of Ṣuffah to me.’ 
+>
+> These people of Ṣuffah were the guests of Islam who had no families, no money, or anybody to depend on. Whenever an object of charity was brought to the Prophet ﷺ  , he would send it to them and would not take anything from it, and whenever any present was given to him, he used to send some for them and take some of it for himself. The order of the Prophet ﷺ   upset me, and I said to myself, ‘How will this little milk be enough for the people of Ṣuffah, though I am more entitled to drink from that milk in order to strengthen myself?’ But behold, the Prophet ﷺ   came and ordered me to give that milk to them. I wondered what will remain of that milk for me, but I could not but obey Allah and His Apostle. 
+>
+> So I went to the people of al-Ṣuffah and called them, and they came and asked the Prophet’s permission to enter. They were admitted and took their seats in the house. The Prophet ﷺ   said, ‘O Abā Hirr!’ I said, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘Take it and give it to them.’ So I took the bowl (of milk) and started giving it to one man who would drink his fill and return it to me, whereupon I would give it to another man who, in his turn, would drink his fill and return it to me, and I would then offer it to another man who would drink his fill and return it to me.
+>
+> Finally, after the whole group had drunk their fill, I reached the Prophet ﷺ  , who took the bowl and put it on his hand, looked at me and smiled, and said: ‘O Abā Hirr!’ I replied, ‘Labbayk, O Allah’s Messenger ﷺ  !’ He said, ‘There only remains you and I.’ I said, ‘You have said the truth, O Allah’s Messenger ﷺ  !’ He said, ‘Sit down and drink.’ I sat down and drank. He said, ‘Drink,’ and I drank. He kept on telling me repeatedly to drink, till I said, ‘No. by Allah Who sent you with the Truth, I have no space for it (in my stomach).’ He said, ‘Hand it over to me.’ 
+>
+> When I gave him the bowl, he praised Allah, pronounced Allah’s Name on it, and drank the remaining milk.”
 
 </details><details><summary>
 

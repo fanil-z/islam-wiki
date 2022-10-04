@@ -29,7 +29,8 @@ I'll make a separate post about how the stack behind the website works. Shortly,
 Hello everyone and Assalamu Aleikum,
 
 In order to get some Hugo and CSS practice, I started wrapping up my notes about Islam into a static website, carried away and after one year spending about 15min daily the MD editor showed it will take about 12 hours to read the whole thing.
-When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of the stories from religios texts. After several years of googling nub questions like 'Was Solomon before Moses?' or 'When Soddom and Gomorra happened?' my notes and tables started to grow. That's why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one page and sort them according to a historical timeline.
+When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of the stories from religios texts. Quran is also not combined in the chronological order but in the order that was defined by the prophet Muhammad SAW. That's why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one page and sort them according to a historical timeline.
+
 Another aspect that always bothers me in large documentation samples is that it is not easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of historical texts, TOC can actually kind of give you a short description of what happened in the correct order. Trying to combine the helicopter view and large portions of text, I've used the standard <details><summary> tags so that details about a historic event appears when you click on the topic.
 
 To build the website I used the Hugo static HTML generator. Hugo is open source, flexible, has a large number of themes including themes for user manuals and API references.
@@ -44,8 +45,7 @@ The overall stack looks like this:
 		- CSS: The theme is cool but I needed to adjust it to my purposes. So, I added the custom CSS file (~150 lines).
 		- JS: added buttons for sending feedback, expanding/hiding details elements all at once, in-page search and dark mode switch toggle.
 		- Hugo is super-flexible and has a large amount of useful features but at the beginning it was hard to navigate through all the functionality and figure out which exactly config files I had to change. Hugo documentation is helpful here. 
-2. Render or Netlify: static web-files are hosted in Render. up to 100GB is free.
-Generated website is uploaded to a production GitLab repo; Render checks if there is an update in the repo and automatically updates the content.
+2. Render or Netlify: static web-files are hosted in Render. up to 100GB bandwisth a month is free. And 400 total build hours per month for free services and static sites.
 3. A pipeline on render automatically fetches my latest commit in the git repo install all required npm packages, build the website and published it into production. Yes, testing in production.
 I bought the domain here:
 4. 
@@ -59,7 +59,7 @@ gathered from various web resources:
 Islam: A Short History by Karen Armstrong who is a famous historian and a Christian nun.
 my notes on Yasir Qadhi's 114 lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them, remove the parts that are not mentioned in The Quran or authentic hadiths, or parts that are too Shia. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state. 
 
-Please use the Send feedback button if the order is not correct or if you find something conradicting the Quran or authentic hadith.
+Please send your feedback to islam-wiki@proton.me if the order is not correct or if you find something conradicting the Quran or authentic hadith.
 
 Probably I wouldn't be able to finish the the website if the content was not about Islam which is exciting to explore. However the most painful part was to gather information on the First Fitnah and how the era of righteous khalifs came to an end after assassination of Ali. Even though the Golden Age of Islam starts right after, for me it is the saddest periods of Islamic history, when we can say that the original ummah of the Prophet Muhammad ceased to exist. May Allah forgive us and guide us to the right path.
 
@@ -111,6 +111,7 @@ toc: false
 ---
 in the front matter of the page.
 
+https://www.printmag.com/categories/print-awards/
 https://nowthisnews.com
 
 # NEXT STEPS
