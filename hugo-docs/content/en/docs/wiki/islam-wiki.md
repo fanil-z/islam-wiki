@@ -6891,9 +6891,7 @@ Ahmad ibn Hanbal favoured Ijtihad and rejected Taqlid; the practise of blind adh
 
 </summary>
 
-Muhammad ibn Isma'il ibn Ibrahim (محمد ابن اسماعيل ابن ابراهيم, ; 19 July 810 – 1 September 870), better known as al-Bukhari ( البخاری, ), commonly referred to as Imam al-Bukhari or Imam Bukhari, was a Persian Islamic scholar who was born in Bukhara (early Khorasan and present day Uzbekistan). He compiled the hadith collection known as Sahih al-Bukhari, regarded by Sunni Muslims as the most authentic (sahih) hadith collections. He also wrote other books such as Al-Adab al-Mufrad.
-
-Muhammad ibn Ismaʿil al-Bukhari al-Juʿfi was born after the Jumu'ah prayer,13 Shawwal 194 AH in the city of Bukhara in Greater Khorasan (in present-day Uzbekistan).
+Muhammad ibn Isma'il ibn Ibrahim (810 – 870), better known as al-Bukhari, commonly referred to as Imam al-Bukhari or Imam Bukhari, was a Persian Islamic scholar who was born in Bukhara (early Khorasan and present day Uzbekistan). He compiled the hadith collection known as Sahih al-Bukhari, regarded by Sunni Muslims as the most authentic (sahih) hadith collections. He also wrote other books such as Al-Adab al-Mufrad.
 
 His father, Ismail ibn Ibrahim, a scholar of hadith, was a student and associate of Malik ibn Anas. Some Iraqi scholars related hadith narrations from him.
 
@@ -6902,7 +6900,7 @@ His father, Ismail ibn Ibrahim, a scholar of hadith, was a student and associate
 ## Al-Tabari (839-923)
 
 </summary>
-Muhammad ibn Jarir ibn Yazid ( محمد ابن جرير ابن يزيد, ), more commonly known as al-Tabari, or alternatively as Abu Jafar, was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Qur'anic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine."
+Muhammad ibn Jarir ibn Yazid, more commonly known as al-Tabari, or alternatively as Abu Jafar, was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Qur'anic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine.
 
 His most influential and best known works are his Qur'anic commentary, known in Arabic as Tafsir al-Tabari, and his historical chronicle History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk), often referred to Tarikh al-Tabari.
 
@@ -6918,12 +6916,6 @@ The first of the Muslim Faylasuf.
 
 </details><details><summary>
 
-## Historian Abu Jafar al-Tabari
-
-</summary>
-
-</details><details><summary>
-
 ## Hasan Al-Ashari
 
 </summary>
@@ -6934,7 +6926,7 @@ The first of the Muslim Faylasuf.
 
 </summary>
 
-poet, vizier, theologian
+A poet, vizier, theologian.
 
 </details><details><summary>
 
@@ -6946,19 +6938,19 @@ Faylasuf and court musician in Aleppo.
 
 </details><details><summary>
 
-## 972: Fatimids build the madrasah of al-Azhar in Cairo
+## 972: Fatimids build Madrasah of al-Azhar in Cairo
 
 </summary>
 
-The Al-Azhar University (جامعة الأزهر (الشريف), , "the University of (the honorable) Al-Azhar") is a public university in Cairo, Egypt. Associated with Al-Azhar Mosque in Islamic Cairo, it is Egypt's oldest degree-granting university – and the world's second oldest degree granting university – and is renowned as the most prestigious university for Islamic learning. In addition to higher education, Al-Azhar oversees a national network of schools with approximately two million students. As of 1996, over 4,000 teaching institutes in Egypt were affiliated with the university.
+The Al-Azhar University (the University of (the honorable) Al-Azhar) is a public university in Cairo, Egypt. Associated with Al-Azhar Mosque in Islamic Cairo, it is Egypt's oldest degree-granting university – and the world's second oldest degree granting university – and is renowned as the most prestigious university for Islamic learning. In addition to higher education, Al-Azhar oversees a national network of schools with approximately two million students. As of 1996, over 4,000 teaching institutes in Egypt were affiliated with the university.
 
 Founded in 970 or 972 by the Fatimid Caliphate as a centre of Islamic learning, its students studied the Qur'an and Islamic law in detail, along with logic, grammar, rhetoric, and how to calculate the phases of the moon. Today it is the chief centre of Arabic literature and Islamic learning in the world. In 1961 additional non-religious subjects were added to its curriculum.
 
 Its library is considered second in importance in Egypt only to the Egyptian National Library and Archives. In May 2005, Al-Azhar in partnership with a Dubai information technology enterprise, IT Education Project (ITEP) launched the H.H. Mohammed bin Rashid Al Maktoum project to preserve Al Azhar scripts and publish them online (the "Al-Azhar Online Project") to eventually publish online access to the library's entire rare manuscripts collection, comprising about seven million pages of material.
 
-### Beginnings under the Fatimids
+### Beginnings under Fatimids
 
-Al-Azhar is one of the relics of the Isma'ili Shi'a Fatimid dynasty, which claimed descent from Fatimah, daughter of Muhammad and wife of Ali son-in-law and cousin of Muhammad. Fatimah was called al-Zahra (the luminous), and the institution was named in her honor. It was founded as a mosque by the Fatimid commander Jawhar al-Siqilli at the orders of the Caliph and Imam Al-Mu'izz li-Din Allah as he founded the city for Cairo. It was begun (probably on Saturday) in Jumada al-Awwal in the year AH 359 (March/April 970 CE). Its building was completed on the 9th of Ramadan in the year AH 361 (24 June 972 CE). Both Caliph al-Aziz Billah and Caliph Al-Hakim bi-Amr Allah added to its premises. It was further repaired, renovated and extended by al-Mustansir Billah and al-Hafiz li-Din Allah. The Fatimid caliphs always encouraged scholars and jurists to have their study-circles and gatherings in this mosque and thus it was turned into a madrasa which has the claim to be considered as the oldest such institution still functioning.
+Al-Azhar is one of the relics of the Isma'ili Shi'a Fatimid dynasty, which claimed descent from Fatimah, daughter of Muhammad and wife of Ali son-in-law and cousin of Muhammad. Fatimah was called al-Zahra (the luminous), and the institution was named in her honor. It was founded as a mosque by the Fatimid commander Jawhar al-Siqilli at the orders of the Caliph and Imam Al-Mu'izz li-Din Allah as he founded the city for Cairo. It was begun in Jumada al-Awwal in the year AH 359 (March/April 970 CE). Its building was completed on the 9th of Ramadan in the year AH 361 (24 June 972 CE). Both Caliph al-Aziz Billah and Caliph Al-Hakim bi-Amr Allah added to its premises. It was further repaired, renovated and extended by al-Mustansir Billah and al-Hafiz li-Din Allah. The Fatimid caliphs always encouraged scholars and jurists to have their study-circles and gatherings in this mosque and thus it was turned into a madrasa which has the claim to be considered as the oldest such institution still functioning.
 
 Studies began at Al-Azhar in the month of Ramadan, 975. According to Syed Farid Alatas, the Jami'ah had faculties in Islamic law and jurisprudence, Arabic grammar, Islamic astronomy, Islamic philosophy, and logic. The Fatimids gave attention to the philosophical studies at the time when rulers in other countries declared those who were engaged in philosophical pursuits as apostates and heretics. Greek thought found a warm reception with the Fatimids who expanded the boundaries of such studies. They paid much attention to philosophy and gave support to everyone who was known for being engaged in the study of any branch of philosophy. The Fatimid Caliph invited many scholars from nearby countries and paid much attention to college books on various branches of knowledge and in gathering the finest writing on various subjects and this in order to encourage scholars and to uphold the cause of knowledge. These books were destroyed by Saladin.
 
@@ -6968,13 +6960,15 @@ In the 12th century, following the overthrow of the Isma'ili Fatimid dynasty, Sa
 
 Saladin introduced the college system in Egypt, which was also adopted in Al-Azhar. Under this system, the college was a separate institution within the mosque compound, with its own classrooms, dormitories and a library.
 
+[TBD]
+
 </details><details><summary>
 
 ## 980-1037 ibn Sina (Avicenna)
 
 </summary>
 
-Ibn Sina (Persian: ابن سینا; 980 – June 1037 CE), commonly known in the West as Avicenna (/ˌævɪˈsɛnə, ˌɑːvɪ-/), was a Persian polymath who is regarded as one of the most significant physicians, astronomers, philosophers, and writers of the Islamic Golden Age, and the father of early modern medicine.Sajjad H. Rizvi has called Avicenna "arguably the most influential philosopher of the pre-modern era". He was a Muslim Peripatetic philosopher influenced by Greek Aristotelian philosophy. Of the 450 works he is believed to have written, around 240 have survived, including 150 on philosophy and 40 on medicine.
+Ibn Sina (980 – 1037 CE), commonly known in the West as Avicenna, was a Persian polymath who is regarded as one of the most significant physicians, astronomers, philosophers, and writers of the Islamic Golden Age, and the father of early modern medicine.Sajjad H. Rizvi has called Avicenna "arguably the most influential philosopher of the pre-modern era". He was a Muslim Peripatetic philosopher influenced by Greek Aristotelian philosophy. Of the 450 works he is believed to have written, around 240 have survived, including 150 on philosophy and 40 on medicine.
 
 His most famous works are The Book of Healing, a philosophical and scientific encyclopedia, and The Canon of Medicine, a medical encyclopedia which became a standard medical text at many medieval universities and remained in use as late as 1650. Besides philosophy and medicine, Avicenna's corpus includes writings on astronomy, alchemy, geography and geology, psychology, Islamic theology, logic, mathematics, physics, and works of poetry.
 
