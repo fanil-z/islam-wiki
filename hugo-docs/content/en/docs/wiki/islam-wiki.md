@@ -6976,7 +6976,7 @@ Avicenna wrote extensively on early Islamic philosophy, especially the subjects 
 
 Avicenna's Neoplatonic scheme of "emanations" became fundamental in the Kalam (school of theological discourse) in the 12th century.
 
-His Book of Healing became available in Europe in partial Latin translation some fifty years after its composition, under the title Sufficientia, and some authors have identified a "Latin Avicennism" as flourishing for some time, paralleling the more influential Latin Averroism, but suppressed by the Parisian decrees of 1210 and 1215.
+His Book of Healing became available in Europe in partial Latin translation some fifty years after its composition, under the title Sufficientia.
 
 Avicenna's psychology and theory of knowledge influenced William of Auvergne, Bishop of Paris and Albertus Magnus, while his metaphysics influenced the thought of Thomas Aquinas.
 
@@ -6988,7 +6988,7 @@ Avicenna made an argument for the existence of God which would be known as the "
 
 Avicenna was a devout Muslim and sought to reconcile rational philosophy with Islamic theology. His aim was to prove the existence of God and His creation of the world scientifically and through reason and logic. Avicenna's views on Islamic theology (and philosophy) were enormously influential, forming part of the core of the curriculum at Islamic religious schools until the 19th century. Avicenna wrote a number of short treatises dealing with Islamic theology. These included treatises on the prophets (whom he viewed as "inspired philosophers"), and also on various scientific and philosophical interpretations of the Quran, such as how Quranic cosmology corresponds to his own philosophical system. In general these treatises linked his philosophical writings to Islamic religious ideas; for example, the body's afterlife.
 
-There are occasional brief hints and allusions in his longer works, however, that Avicenna considered philosophy as the only sensible way to distinguish real prophecy from illusion. He did not state this more clearly because of the political implications of such a theory, if prophecy could be questioned, and also because most of the time he was writing shorter works which concentrated on explaining his theories on philosophy and theology clearly, without digressing to consider epistemological matters which could only be properly considered by other philosophers.
+There are occasional brief hints and allusions in his longer works, that Avicenna considered philosophy as the only sensible way to distinguish real prophecy from illusion.
 
 Later interpretations of Avicenna's philosophy split into three different schools; those (such as al-Tusi) who continued to apply his philosophy as a system to interpret later political events and scientific advances; those (such as al-Razi) who considered Avicenna's theological works in isolation from his wider philosophical concerns; and those (such as al-Ghazali) who selectively used parts of his philosophy to support their own attempts to gain greater spiritual insights through a variety of mystical means. It was the theological interpretation championed by those such as al-Razi which eventually came to predominate in the madrasahs.
 
@@ -6998,7 +6998,7 @@ Avicenna is generally understood to have been aligned with the Sunni Hanafi scho
 
 ### The Canon of Medicine
 
-Avicenna authored a five-volume medical encyclopedia: The Canon of Medicine (Al-Qanun fi't-Tibb). It was used as the standard medical textbook in the Islamic world and Europe up to the 18th century. The Canon still plays an important role in Unani medicine.
+Avicenna authored a five-volume medical encyclopedia: The Canon of Medicine (Al-Qanun fi't-Tibb). It was used as the `standard medical textbook in the Islamic world and Europe up to the 18th century`. The Canon still plays an important role in Unani medicine.
 
 ### Liber Primus Naturalium
 
@@ -7006,7 +7006,7 @@ Avicenna considered whether events like rare diseases or disorders have natural 
 
 ### The Book of Healing
 
-The Book of Healing (also known as The Cure or Assepha) is a scientific and philosophical encyclopedia written by Abu Ali ibn Sīna (aka Avicenna) from medieval Persia, near Bukhara in Maverounnahr. He most likely began to compose the book in 1014, completed it around 1020, and published it in 1027.
+The Book of Healing (also known as The Cure or Assepha) is a scientific and philosophical encyclopedia written by ibn Sīna. He most likely began to compose the book in 1014, completed it around 1020, and published it in 1027.
 
 This work is Ibn Sina's major work on science and philosophy, and is intended to "cure" or "heal" ignorance of the soul. Thus, despite its title, it is not concerned with medicine.
 
@@ -7017,7 +7017,7 @@ The book is divided into four parts: logic, natural sciences, mathematics (a qua
 Skull of Avicenna, found in 1950 during construction of the new mausoleum
 Avicenna wrote an attack on astrology titled Resāla fī ebṭāl aḥkām al-nojūm, in which he cited passages from the Quran to dispute the power of astrology to foretell the future. He believed that each planet had some influence on the earth, but argued against astrologers being able to determine the exact effects.
 
-Avicenna's astronomical writings had some influence on later writers, although in general his work could be considered less developed than Alhazen or Al-Biruni. One important feature of his writing is that he considers mathematical astronomy as a separate discipline to astrology. He criticized Aristotle's view of the stars receiving their light from the Sun, stating that the stars are self-luminous, and believed that the planets are also self-luminous. He claimed to have observed Venus as a spot on the Sun. This is possible, as there was a transit on 24 May 1032, but Avicenna did not give the date of his observation, and modern scholars have questioned whether he could have observed the transit from his location at that time; he may have mistaken a sunspot for Venus. He used his transit observation to help establish that Venus was, at least sometimes, below the Sun in Ptolemaic cosmology, i.e. the sphere of Venus comes before the sphere of the Sun when moving out from the Earth in the prevailing geocentric model.
+Avicenna's astronomical writings had some influence on later writers, although in general his work could be considered less developed than Alhazen or Al-Biruni. One important feature of his writing is that he considers mathematical astronomy as a separate discipline to astrology. He criticized Aristotle's view of the stars receiving their light from the Sun, stating that the stars are self-luminous, and believed that the planets are also self-luminous. He claimed to have observed Venus as a spot on the Sun. 
 
 He also wrote the Summary of the Almagest, (based on Ptolemy's Almagest), with an appended treatise "to bring that which is stated in the Almagest and what is understood from Natural Science into conformity". For example, Avicenna considers the motion of the solar apogee, which Ptolemy had taken to be fixed.
 
@@ -7027,27 +7027,19 @@ Avicenna was first to derive the attar of flowers from distillation and used ste
 
 Unlike al-Razi, Avicenna explicitly disputed the theory of the transmutation of substances commonly believed by alchemists:
 
-> Those of the chemical craft know well that no change can be effected in the different species of substances, though they can produce the appearance of such change.
+Those of the chemical craft know well that no change can be effected in the different species of substances, though they can produce the appearance of such change.
 
-Four works on alchemy attributed to Avicenna were translated into Latin as:
-
-* Liber Aboali Abincine de Anima in arte Alchemiae
-* Declaratio Lapis physici Avicennae filio sui Aboali
-* Avicennae de congelatione et conglutinatione lapidum
-* Avicennae ad Hasan Regem epistola de Re recta
-
-Liber Aboali Abincine de Anima in arte Alchemiae was the most influential, having influenced later medieval chemists and alchemists such as Vincent of Beauvais.
+Four works on alchemy attributed to Avicenna were translated into Latin. Liber Aboali Abincine de Anima in arte Alchemiae was the most influential, having influenced later medieval chemists and alchemists such as Vincent of Beauvais.
 
 ### Legacy
 
 #### Classical Islamic civilization
 
-Robert Wisnovsky, a scholar of Avicenna attached to McGill University, says that "Avicenna was the central figure in the long history of the rational sciences in Islam, particularly in the fields of metaphysics, logic and medicine" but that his works didn't only have an influence in these "secular" fields of knowledge alone, as "these works, or portions of them, were read, taught, copied, commented upon, quoted, paraphrased and cited by thousands of post-Avicennian scholars—not only philosophers, logicians, physicians and specialists in the mathematical or exact sciences, but also by those who specialized in the disciplines of ʿilm al-kalām (rational theology, but understood to include natural philosophy, epistemology and philosophy of mind) and usūl al-fiqh (jurisprudence, but understood to include philosophy of law, dialectic, and philosophy of language)."
+Robert Wisnovsky, a scholar of Avicenna, says that "Avicenna was the central figure in the long history of the rational sciences in Islam, particularly in the fields of metaphysics, logic and medicine" but that his works didn't only have an influence in these "secular" fields of knowledge alone, as "these works, or portions of them, were read, taught, copied, commented upon, quoted, paraphrased and cited by thousands of post-Avicennian scholars—not only philosophers, logicians, physicians and specialists in the mathematical or exact sciences, but also by those who specialized in the disciplines of ʿilm al-kalām (rational theology, but understood to include natural philosophy, epistemology and philosophy of mind) and usūl al-fiqh (jurisprudence, but understood to include philosophy of law, dialectic, and philosophy of language)."
 
 #### Middle Ages and Renaissance
 
-Inside view of the Avicenna Mausoleum, designed by Hooshang Seyhoun in 1945–1950
-As early as the 14th century when Dante Alighieri depicted him in Limbo alongside the virtuous non-Christian thinkers in his Divine Comedy such as Virgil, Averroes, Homer, Horace, Ovid, Lucan, Socrates, Plato and Saladin. Avicenna has been recognized by both East and West as one of the great figures in intellectual history. Johannes Kepler cites Avicenna's opinion when discussing the causes of planetary motions in Chapter 2 of Astronomia Nova 
+As early as the 14th century when Dante Alighieri depicted him in Limbo alongside the virtuous non-Christian thinkers in his Divine Comedy such as Virgil, Averroes, Homer, Horace, Ovid, Lucan, Socrates, Plato and Saladin. Avicenna has been recognized by both East and West as one of the great figures in intellectual history. Johannes Kepler cites Avicenna's opinion when discussing the causes of planetary motions in Chapter 2 of Astronomia Nova.
 
 George Sarton, the author of The History of Science, described Avicenna as "one of the greatest thinkers and medical scholars in history" and called him "the most famous scientist of Islam and one of the most famous of all races, places, and times". He was one of the Islamic world's leading writers in the field of medicine.
 
@@ -7077,7 +7069,7 @@ Along with Rhazes, Abulcasis, Ibn al-Nafis and al-Ibadi, Avicenna is considered 
 
 </summary>
 
-Nizam al-Mulk (Persian: نظام‌الملک, lit. 'Order of the Realm') was a Persian scholar, political philosopher and vizier of the Seljuk Empire. Rising from a lowly position, he was the de facto ruler of the empire for 20 years after the assassination of sultan Alp Arslan in 1072, serving as the archetypal "good vizier" of Islamic history.
+Nizam al-Mulk (Persian: 'Order of the Realm') was a Persian scholar, political philosopher and vizier of the Seljuk Empire. Rising from a lowly position, he was the de facto ruler of the empire for 20 years after the assassination of sultan Alp Arslan in 1072, serving as the archetypal "good vizier" of Islamic history.
 
 One of his most important legacies was founding madrasa in cities throughout the Seljuk Empire. These were called nezamiyehs after him. He wrote Siyasatnama (Book of Government), a political treatise that uses historical examples to discuss justice, effective rule, and the role of government in Islamic society.
 
