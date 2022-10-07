@@ -7086,15 +7086,15 @@ Al-Ghazali believed that the Islamic spiritual tradition had become moribund and
 
 ### Teachings
 
-Al-Ghazali's contemporary and first biographer, 'Abd al-Ghafir al-Farisi, records merely that al-Ghazali began to receive instruction in fiqh (Islamic jurisprudence) from Ahmad al-Radhakani, a local teacher and Abu ali Farmadi, a Naqshbandi sufi from Tus.  He later studied under al-Juwayni, the distinguished jurist and theologian and "the most outstanding Muslim scholar of his time," in Nishapur, perhaps after a period of study in Gurgan. After al-Juwayni's death in 1085, al-Ghazali departed from Nishapur and joined the court of Nizam al-Mulk, the powerful vizier of the Seljuq empire, which was likely centered in Isfahan. After bestowing upon him the titles of "Brilliance of the Religion" and "Eminence among the Religious Leaders," Nizam al-Mulk advanced al-Ghazali in July 1091 to the "most prestigious and most challenging" professorial position at the time: the Nizamiyya madrasa in Baghdad.
+Al-Ghazali's contemporary and first biographer, 'Abd al-Ghafir al-Farisi, records merely that al-Ghazali began to receive instruction in fiqh (Islamic jurisprudence) from Ahmad al-Radhakani, a local teacher and Abu ali Farmadi, a Naqshbandi sufi from Tus. He later studied under al-Juwayni, the distinguished jurist and theologian and "the most outstanding Muslim scholar of his time," in Nishapur, perhaps after a period of study in Gurgan. After al-Juwayni's death in 1085, al-Ghazali departed from Nishapur and joined the court of Nizam al-Mulk, the powerful vizier of the Seljuq empire, which was likely centered in Isfahan. After bestowing upon him the titles of "Brilliance of the Religion" and "Eminence among the Religious Leaders," Nizam al-Mulk advanced al-Ghazali in July 1091 to the "most prestigious and most challenging" professorial position at the time: the Nizamiyya madrasa in Baghdad.
 
-He underwent a spiritual crisis in 1095, likely suffering from clinical hysteria, abandoned his career and left Baghdad on the pretext of going on pilgrimage to Mecca. Making arrangements for his family, he disposed of his wealth and adopted an ascetic lifestyle. According to biographer Duncan B. Macdonald, the purpose of abstaining from scholastic work was to confront the spiritual experience and more ordinary understanding of "the Word and the Traditions." After some time in Damascus and Jerusalem, with a visit to Medina and Mecca in 1096, he returned to Tus to spend the next several years in 'uzla (seclusion). The seclusion consisted in abstaining from teaching at state-sponsored institutions, but he continued to publish, receive visitors and teach in the zawiya (private madrasa) and khanqah (Sufi lodge) that he had built.
+He underwent a spiritual crisis in 1095, abandoned his career and left Baghdad on the pretext of going on pilgrimage to Mecca. Making arrangements for his family, he disposed of his wealth and adopted an ascetic lifestyle. According to biographer Duncan B. Macdonald, the purpose of abstaining from scholastic work was to confront the spiritual experience and more ordinary understanding of "the Word and the Traditions." After some time in Damascus and Jerusalem, with a visit to Medina and Mecca in 1096, he returned to Tus to spend the next several years in 'uzla (seclusion). The seclusion consisted in abstaining from teaching at state-sponsored institutions, but he continued to publish, receive visitors and teach in the zawiya (private madrasa) and khanqah (Sufi lodge) that he had built.
 
 Fakhr al-Mulk, grand vizier to Ahmad Sanjar, pressed al-Ghazali to return to the Nizamiyya in Nishapur. Al-Ghazali reluctantly capitulated in 1106, fearing rightly that he and his teachings would meet with resistance and controversy. He later returned to Tus and declined an invitation in 1110 from the grand vizier of the Seljuq Sultan Muhammad I to return to Baghdad.
 
-### School Affiliaations
+### School Affiliations
 
-Al-Ghazali contributed significantly to the development of a systematic view of Sufism and its integration and acceptance in mainstream Islam. As a scholar of Sunni Islam, he belonged to the Shafi'i school of Islamic jurisprudence and to the Asharite school of theology. Al-Ghazali received many titles such as Sharaf-ul-Aʾimma (شرف الأئمة), Zayn-ud-dīn (زين الدين) and Ḥujjat-ul-Islām (حجة الإسلام).
+Al-Ghazali contributed significantly to the development of a systematic view of Sufism and its integration and acceptance in mainstream Islam. As a scholar of Sunni Islam, he belonged to the Shafi'i school of Islamic jurisprudence and to the Asharite school of theology.
 
 He is viewed as the key member of the influential Asharite school of early Muslim philosophy and the most important refuter of the Mutazilites. However, he chose a slightly different position in comparison with the Asharites. His beliefs and thoughts differ in some aspects from the orthodox Asharite school.
 
@@ -7102,7 +7102,7 @@ He is viewed as the key member of the influential Asharite school of early Musli
 
 A total of about 70 works can be attributed to Al-Ghazali. He is also known to have written a fatwa against the Taifa kings of Al Andalus, declaring them to be unprincipled, not fit to rule and that they should be removed from power. This fatwa was used by Yusuf ibn Tashfin to justify his conquest of al-Andalus 
 
-### Incoherence of the Philosophers
+### Incoherence of Philosophers
 
 His 11th century book titled The Incoherence of the Philosophers marks a major turn in Islamic epistemology. The encounter with skepticism led al-Ghazali to investigate a form of theological occasionalism, or the belief that all causal events and interactions are not the product of material conjunctions but rather the immediate and present will of God.
 
@@ -7112,18 +7112,21 @@ The Incoherence also marked a turning point in Islamic philosophy in its vehemen
 
 ### The Revival of Religious Sciences (Ihya' Ulum al-Din)
 
-Another of al-Ghazali's major works is Ihya' Ulum al-Din or Ihya'u Ulumiddin (The Revival of Religious Sciences). It covers almost all fields of Islamic sciences: fiqh (Islamic jurisprudence), kalam (theology) and sufism.
+Another of al-Ghazali's major works is Ihya' Ulum al-Din (The Revival of Religious Sciences). It covers almost all fields of Islamic sciences: fiqh (Islamic jurisprudence), kalam (theology) and sufism.
 
-It contains four major sections: Acts of worship (Rub' al-'ibadat), Norms of Daily Life (Rub' al-'adatat), The ways to Perdition (Rub' al-muhlikat) and The Ways to Salvation (Rub' al-munjiyat). The Ihya became the most frequently recited Islamic text after the Qur'an and the hadith. Its great achievement was to bring orthodox Sunni theology and Sufi mysticism together in a useful, comprehensive guide to every aspect of Muslim life and death. The book was well received by Islamic scholars such as Nawawi who stated that: "Were the books of Islam all to be lost, excepting only the Ihya', it would suffice to replace them all."
+It contains four major sections: Acts of worship (Rub' al-'ibadat), Norms of Daily Life (Rub' al-'adatat), The ways to Perdition (Rub' al-muhlikat) and The Ways to Salvation (Rub' al-munjiyat). `The Ihya became the most frequently recited Islamic text after the Qur'an and the hadith.` Its great achievement was to bring orthodox Sunni theology and Sufi mysticism together in a useful, comprehensive guide to every aspect of Muslim life and death. The book was well received by Islamic scholars such as Nawawi who stated that: `"Were the books of Islam all to be lost, excepting only the Ihya', it would suffice to replace them all."`
 
 ### The Alchemy of Happiness
 
-*The Alchemy of Happiness* is a rewritten version of *The Revival of the Religious Sciences.* After the existential crisis that caused him to completely re-examine his way of living and his approach to religion, Al-Ghazali put together The Alchemy of Happiness to reassert his fundamental belief that a connection to God was an integral part of the joy of living. The book is divided into four different sections. The first of these is Knowledge of Self, where Al-Ghazali asserts that while food, sex, and other indulgences might slake humans appetites temporarily, they in turn make a human into an animal, and therefore will never give true happiness and fulfillment. In order to find oneself, people must devote themselves to God by showing restraint and discipline rather than gluttony of the senses*.* The second installment is called Knowledge of God, where Al-Ghazali states that the events that occur during one's life are meant to point an individual towards God, and that God will always be strong, no matter how far humans deviate from His will. The third section of *[The Alchemy of Happiness](https://en.wikipedia.org/wiki/The_Alchemy_of_Happiness "The Alchemy of Happiness")* is Knowledge of the World. Here he states that the world is merely a place where humans learn to love God, and prepare for the future, or the afterlife, the nature of which will be determined by our actions in this phase of our journey to happiness. The final section is Knowledge of the Future World, which details how there are two types of spirits within a man: the angelic spirit and the animal spirit. Al-Ghazali details the types of spiritual tortures unbelievers experience, as well as the path that must be taken in order to attain spiritual enlightenment. This book serves as a culmination of the transformation Ghazali goes through during his spiritual awakening.
+*The Alchemy of Happiness* is a rewritten version of *The Revival of the Religious Sciences.* After the existential crisis that caused him to completely re-examine his way of living and his approach to religion, Al-Ghazali put together The Alchemy of Happiness to reassert his fundamental belief that a connection to God was an integral part of the joy of living. The book is divided into four different sections. The first of these is Knowledge of Self, where Al-Ghazali asserts that while food, sex, and other indulgences might slake humans appetites temporarily, they in turn make a human into an animal, and therefore will never give true happiness and fulfillment. In order to find oneself, people must devote themselves to God by showing restraint and discipline rather than gluttony of the senses. 
+
+The second installment is called Knowledge of God, where Al-Ghazali states that the events that occur during one's life are meant to point an individual towards God, and that God will always be strong, no matter how far humans deviate from His will. 
+
+The third section of *[The Alchemy of Happiness](https://en.wikipedia.org/wiki/The_Alchemy_of_Happiness "The Alchemy of Happiness")* is Knowledge of the World. Here he states that the world is merely a place where humans learn to love God, and prepare for the future, or the afterlife, the nature of which will be determined by our actions in this phase of our journey to happiness. The final section is Knowledge of the Future World, which details how there are two types of spirits within a man: the angelic spirit and the animal spirit. Al-Ghazali details the types of spiritual tortures unbelievers experience, as well as the path that must be taken in order to attain spiritual enlightenment. This book serves as a culmination of the transformation Ghazali goes through during his spiritual awakening.
 
 ### Disciplining the Soul
 
-One of the key sections of Ghazali's Revival of the Religious Sciences is Disciplining the Soul, which focuses on the internal struggles that every Muslim will face over the course of his lifetime. The first chapter primarily focuses on how one can develop himself into a person with positive attributes and good personal characteristics . The second chapter has a more specific focus: sexual satisfaction and gluttony. Here, Ghazali states that indeed every man has these desires and needs, and that it is natural to want these things. However, the Prophet explicitly states that there must be a middle ground for man, in order to practice the tenets of Islam faithfully. The ultimate goal that Ghazali is presenting not only in these two chapters, but in the entirety of The Revival of the Religious Sciences, is that there must be moderation in every aspect of the soul of a man, an equilibrium. These two chapters were the 22nd and 23rd chapters, respectively, in Ghazali's Revival of the Religious Sciences. It's also important to note here that Ghazali draws from Greek as well as Islamic philosophy in crafting this literary staple, even though much of The Incoherence of the Philosophers, his most well known work, takes a critical aim at their perspective.
-
+One of the key sections of Ghazali's Revival of the Religious Sciences is Disciplining the Soul, which focuses on the internal struggles that every Muslim will face over the course of his lifetime. The first chapter primarily focuses on how one can develop himself into a person with positive attributes and good personal characteristics. The second chapter has a more specific focus: sexual satisfaction and gluttony. Here, Ghazali states that indeed every man has these desires and needs, and that it is natural to want these things. However, the Prophet explicitly states that there must be a middle ground for man, in order to practice the tenets of Islam faithfully. The ultimate goal that Ghazali is presenting not only in these two chapters, but in the entirety of The Revival of the Religious Sciences, is that there must be moderation in every aspect of the soul of a man, an equilibrium. These two chapters were the 22nd and 23rd chapters, respectively, in Ghazali's Revival of the Religious Sciences. It's also important to note here that Ghazali draws from Greek as well as Islamic philosophy in crafting this literary staple, even though much of The Incoherence of the Philosophers, his most well known work, takes a critical aim at their perspective.
 
 ### The Eternity of the World
 
@@ -7131,11 +7134,11 @@ Al-Ghazali crafted his rebuttal of the Aristotelian viewpoint on the creation of
 
 ### The Decisive Criterion for Distinguishing Islam from Clandestine Unbelief
 
-Al-Ghazali lays out in The Decisive Criterion for Distinguishing Islam from Clandestine Unbelief his approach to Muslim orthodoxy. Ghazali veers from the often hardline stance of many of his contemporaries during this time period and states that as long as one believes in the Prophet Muhammad and God himself, there are many different ways to practice Islam and that any of the many traditions practiced in good faith by believers should not be viewed as heretical by other Muslims. While Ghazali does state that any Muslim practicing Islam in good faith is not guilty of apostasy, he does outline in The Criterion that there is one standard of Islam that is more correct than the others, and that those practicing the faith incorrectly should be moved to change. In Ghazali's view, only the Prophet himself could deem a faithfully practicing Muslim an infidel, and his work was a reaction to the religious persecution and strife that occurred often during this time period between various Islamic sects.
+Al-Ghazali lays out in The Decisive Criterion for Distinguishing Islam from Clandestine Unbelief his approach to Muslim orthodoxy. Ghazali veers from the often hardline stance of many of his contemporaries during this time period and states that as long as one believes in the Prophet Muhammad and God, there are many different ways to practice Islam and that any of the many traditions practiced in good faith by believers should not be viewed as heretical by other Muslims. While Ghazali does state that any Muslim practicing Islam in good faith is not guilty of apostasy, he does outline in The Criterion that there is one standard of Islam that is more correct than the others, and that those practicing the faith incorrectly should be moved to change. In Ghazali's view, only the Prophet himself could deem a faithfully practicing Muslim an infidel, and his work was a reaction to the religious persecution and strife that occurred often during this time period between various Islamic sects.
 
 ### Works in Persian
 
-Al-Ghazali wrote most of his works in Arabic and few in Persian. His most important Persian work is Kimiya-yi sa'adat (The Alchemy of Happiness). It is al-Ghazali's own Persian version of Ihya' 'ulum al-din (The Revival of Religious Sciences) in Arabic, but a shorter work. It is one of the outstanding works of 11th-century-Persian literature. The book was published several times in Tehran by the edition of Hussain Khadev-jam, a renowned Iranian scholar. It is translated to English, Arabic, Turkish, Urdu, Azerbaijani and other languages.
+Al-Ghazali wrote most of his works in Arabic and few in Persian. His most important Persian work is Kimiya-yi sa'adat (The Alchemy of Happiness). It is al-Ghazali's own Persian version of Ihya' 'ulum al-din in Arabic, but a shorter work. It is one of the outstanding works of 11th-century-Persian literature. The book was published several times in Tehran by the edition of Hussain Khadev-jam, a renowned Iranian scholar.
 
 ### Influence
 
@@ -7143,9 +7146,7 @@ During his life, he wrote over 70 books on science, Islamic reasoning and Sufism
 
 Al-Ghazali likewise assumed a noteworthy part in spreading Sufism and Sharia. He was the first to consolidate the ideas of Sufism into Sharia laws and the first to give a formal depiction of Sufism in his works. His works fortify the position of Sunni Islam, contrasted with different schools of thought.
 
-Al-Ghazali had an important influence on both later Muslim philosophers and Christian medieval philosophers. Margaret Smith writes in her book Al-Ghazali: The Mystic (London 1944): "There can be no doubt that al-Ghazali’s works would be among the first to attract the attention of these European scholars" (page 220). Then she emphasizes, "The greatest of these Christian writers who was influenced by al-Ghazali was St. Thomas Aquinas (1225–1274).
-
-The period following Ghazali "has tentatively been called the Golden Age of Arabic philosophy" initiated by Ghazali's successful integration of logic into the Islamic seminary Madrasah curriculum.
+Al-Ghazali had an important influence on both later Muslim philosophers and Christian medieval philosophers. The period following Ghazali "has tentatively been called the Golden Age of Arabic philosophy" initiated by Ghazali's successful integration of logic into the Islamic seminary Madrasah curriculum.
 
 Al-Ghazali also played a major role in integrating Sufism with Shariah. He was also the first to present a formal description of Sufism in his works. His works also strengthened the status of Sunni Islam against other schools. The Batinite (Ismailism) had emerged in Persian territories and were gaining more and more power during al-Ghazali's period, as Nizam al-Mulk was assassinated by the members of Ismailis. In his Fada'ih al-Batiniyya (The Infamies of the Esotericists) Al-Ghazali declared them unbelievers whose blood may be spilled, and wrote several books on criticism of Baatinyas which significantly weakened their status.
 
@@ -7153,7 +7154,7 @@ Al-Ghazali succeeded in gaining widespread acceptance for Sufism at the expense 
 
 Early childhood development was a central focal point of Al-Ghazali. He worked to influence and develop a program to mold the young minds of children at an early age to develop their mind and character. He stressed that socialization, family, and schools were central in the achievement of language, morality, and behavior. He emphasized incorporating physical fitness such as games that were important in the development of young minds to attract the idea of attending schools and maintaining an education. In addition, he stressed the importance of understanding and sharing cultures in the classrooms to achieve a civic harmony that would be expressed outside the classroom and kindness to one another.
 
-In his writings he placed this responsibility upon the teachers. His treatise on early education centered on Islamic laws, God, and memorizing the Qur'an to achieve literary skill. Ghazali emphasized the importance that there should be a dual respect in regard to the teacher and the pupil. Whereas the teacher guides the student and takes the role of a father figure and offers council to the student, and the student respects the teacher as a patriarch. He stressed that the teacher needed to pay attention to the learning paces of his students so that he could help them be successful in academic achievements.[citation needed]
+In his writings he placed this responsibility upon the teachers. His treatise on early education centered on Islamic laws, God, and memorizing the Qur'an to achieve literary skill. Ghazali emphasized the importance that there should be a dual respect in regard to the teacher and the pupil. Whereas the teacher guides the student and takes the role of a father figure and offers council to the student, and the student respects the teacher as a patriarch. He stressed that the teacher needed to pay attention to the learning paces of his students so that he could help them be successful in academic achievements.
 
 Al-Ghazali was by every indication of his writings a true mystic in the Persian sense. He believed himself to be more mystical or religious than he was philosophical however, he is more widely regarded by some scholars as a leading figure of Islamic philosophy and thought. He describes his philosophical approach as a seeker of true knowledge, a deeper understanding of the philosophical and scientific, and a better understanding of mysticism and cognition.
 
@@ -7165,36 +7166,36 @@ In the contemporary world, Al-Ghazali is renowned not only for his contribution 
 
 </summary>
 
-The House of Wisdom (بيت الحكمة, ), also known as the Grand Library of Baghdad, refers to either a major Abbasid public academy and intellectual center in Baghdad or to a large private library belonging to the Abbasid Caliphs during the Islamic Golden Age. The House of Wisdom was founded either as a library for the collections of the Caliph Harun al-Rashid in the late 8th century (then later turned into a public academy during the reign of Al-Ma'mun) or was a private collection created by Al-Mansur (reign 754–775) to house rare books and collections of poetry in Arabic.
+The House of Wisdom, also known as the Grand Library of Baghdad, refers to either a major Abbasid public academy and intellectual center in Baghdad or to a large private library belonging to the Abbasid Caliphs during the Islamic Golden Age. The House of Wisdom was founded either as a library for the collections of the Caliph Harun al-Rashid in the late 8th century (then later turned into a public academy during the reign of Al-Ma'mun) or was a private collection created by Al-Mansur (reign 754–775) to house rare books and collections of poetry in Arabic.
 
 The House of Wisdom and its contents were destroyed in the Siege of Baghdad in 1258, leaving relatively limited archaeological evidence for the House of Wisdom, such that most knowledge about it is derived from the works of contemporary scholars of the era such as Al-Tabari and Ibn al-Nadim.
 
 ### Notable people
 
 This is a list of notable people related to the House of Wisdom.
-* Abu Ma'shar al-Balkhi (786–886)—leading Persian astrologist in the Abbasid court who translated the works of Aristotle
-* Averroes (1126–1198)—born in Islamic Iberia (modern day Spain), he was a Muslim philosopher who was famous for his commentary on Aristotle
-* Avicenna (980–1037)—Persian philosopher and physician famous for writing The Canon of Medicine, the prevailing medical text in the Islamic World and Europe until the 19th century
-* Al-Ghazali (1058–1111)—Persian theologian who was the author of The Incoherence of the Philosophers, which challenged the philosophers who favored Aristotelianism
-* Muhammad al-Idrisi (1099–1169)—Arab geographer who worked under Roger II of Sicily and contributed to the Map of the World
-* Muhammad ibn Musa al-Khwarizmi (d. 850)—Persian polymath head of the House of Wisdom
-* Al-Kindi (d. 873)—considered to be the among the first Arab philosophers, he combined the ideology of Aristotle and Plato
-* Maslama al-Majriti (950–1007)—Arab mathematician and astronomer who translated Greek texts
-* Hunayn ibn Ishaq (809–873)—Assyrian (Nestorian Christian) scholar and philosopher who was placed in charge of the House of Wisdom. In his lifetime he translated over 116 writings by many of the most significant scholars in history.
-* The Banu Musa brothers—remarkable engineers and mathematicians of Persian descent
-* Sahl ibn Harun (d. 830)—philosopher and polymath
-* Al-Ḥajjāj ibn Yūsuf ibn Maṭar (786–833)—Sabian mathematician and a translator who was known for his translation of Euclid's works
-* Thābit ibn Qurra (826–901)—Sabian mathematician, astronomer and translator who reformed Ptolemaic system. Considered as the founding father of statics.
-* Yusuf Al-Khuri (d. 912)— mathematician and astronomer who was hired as a translator by Banu Musa brothers
-* Qusta Ibn Luqa (820–912)—mathematician and physician who translated Greek texts into Arabic
-* Abu Bishr Matta ibn Yunus (870–940)— Christian physician, scientist and translator
-* Yahya Ibn al-Batriq (796–806)— Assyrian Christian astronomer and translator
-* Yahya ibn Adi (893–974)— Syriac Jacobite Christian philosopher, theologian and translator
-* Sind ibn Ali (d. 864)—astronomer who translated and reworked Zij al-Sindhind
-* Al-Jahiz (781–861)—author and biologist known for Kitāb al-Hayawān and numerous literary works
-* Ismail al-Jazari (1136–1206)—physicist and engineer who is best known for his work in writing The Book of Knowledge of Ingenious Mechanical Devices in 1206
-* Jabir Ibn Hayyan—known for his work with practical metallurgy, his work was translated into Latin During the 12th century
-* Omar Khayyam (1048–1131)—Persian poet, mathematician, and astronomer most famous for his solution of cubic equations
+* Abu Ma'shar al-Balkhi (786–886) — leading Persian astrologist in the Abbasid court who translated the works of Aristotle.
+* Averroes (1126–1198) — born in Islamic Iberia (modern day Spain), he was a Muslim philosopher who was famous for his commentary on Aristotle.
+* Avicenna (980–1037) — Persian philosopher and physician famous for writing The Canon of Medicine, the prevailing medical text in the Islamic World and Europe until the 19th century.
+* Al-Ghazali (1058–1111) — Persian theologian who was the author of The Incoherence of the Philosophers, which challenged the philosophers who favored Aristotelianism.
+* Muhammad al-Idrisi (1099–1169) — Arab geographer who worked under Roger II of Sicily and contributed to the Map of the World.
+* Muhammad ibn Musa al-Khwarizmi (d. 850) — Persian polymath head of the House of Wisdom.
+* Al-Kindi (d. 873) — considered to be the among the first Arab philosophers, he combined the ideology of Aristotle and Plato.
+* Maslama al-Majriti (950–1007) — Arab mathematician and astronomer who translated Greek texts.
+* Hunayn ibn Ishaq (809–873) — Assyrian (Nestorian Christian) scholar and philosopher who was placed in charge of the House of Wisdom. In his lifetime he translated over 116 writings by many of the most significant scholars in history.
+* The Banu Musa brothers — remarkable engineers and mathematicians of Persian descent.
+* Sahl ibn Harun (d. 830) — philosopher and polymath.
+* Al-Ḥajjāj ibn Yūsuf ibn Maṭar (786–833) — Sabian mathematician and a translator who was known for his translation of Euclid's works.
+* Thābit ibn Qurra (826–901) — Sabian mathematician, astronomer and translator who reformed Ptolemaic system. Considered as the founding father of statics.
+* Yusuf Al-Khuri (d. 912) — mathematician and astronomer who was hired as a translator by Banu Musa brothers.
+* Qusta Ibn Luqa (820–912) — mathematician and physician who translated Greek texts into Arabic.
+* Abu Bishr Matta ibn Yunus (870–940) — Christian physician, scientist and translator.
+* Yahya Ibn al-Batriq (796–806) — Assyrian Christian astronomer and translator.
+* Yahya ibn Adi (893–974) — Syriac Jacobite Christian philosopher, theologian and translator.
+* Sind ibn Ali (d. 864) — astronomer who translated and reworked Zij al-Sindhind.
+* Al-Jahiz (781–861) — author and biologist known for Kitāb al-Hayawān and numerous literary works.
+* Ismail al-Jazari (1136–1206) — physicist and engineer who is best known for his work in writing The Book of Knowledge of Ingenious Mechanical Devices in 1206.
+* Jabir Ibn Hayyan — known for his work with practical metallurgy, his work was translated into Latin During the 12th century.
+* Omar Khayyam (1048–1131) — Persian poet, mathematician, and astronomer most famous for his solution of cubic equations.
 
 </details>
 
@@ -7206,10 +7207,10 @@ This is a list of notable people related to the House of Wisdom.
 
 </summary>
 
-1095 Pope Urban II preaches the First Crusade
+1095: Pope Urban II preaches the First Crusade
 
-1099 Crusaders conquer Jerusalem
-     Crusaders establish four Crusader states in Palestine, Anatolia and Syria
+1099: Crusaders conquer Jerusalem
+      Crusaders establish four Crusader states in Palestine, Anatolia and Syria.
 
 </details><details><summary>
 
@@ -7231,7 +7232,9 @@ This is a list of notable people related to the House of Wisdom.
 ## 1220-31: First Mongol raids with immense destruction of cities
 
 </summary>
-The Golden Horde mongols rule the lands north of Caspian and Black Sea and then convert to Islam.
+
+The Golden Horde mongols rule the lands north of Caspian and Black Sea and then start to convert to Islam.
+
 </details><details><summary>
 
 ## 1240: Sufi philosopher Muid ad-Din Al-Arabi
