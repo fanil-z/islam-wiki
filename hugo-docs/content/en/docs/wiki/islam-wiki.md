@@ -6960,7 +6960,15 @@ In the 12th century, following the overthrow of the Isma'ili Fatimid dynasty, Sa
 
 Saladin introduced the college system in Egypt, which was also adopted in Al-Azhar. Under this system, the college was a separate institution within the mosque compound, with its own classrooms, dormitories and a library.
 
-[TBD]
+### Ottoman Period
+
+During the Ottoman period, Al-Azhar regained its status as a favored institution of learning in Egypt, overtaking the madrasas that had been originally instituted by Saladin and greatly expanded by the Mamluks. By the end of the 18th century, Al-Azhar had become inextricably linked to the ulema of Egypt. The ulema also were able to influence the government in an official capacity, with several sheikhs appointed to advisory councils that reported to the pasha (honorary governor), who in turn was appointed for only one year. This period also saw the introduction of more secular courses taught at Al-Azhar, with science and logic joining philosophy in the curriculum.
+
+### XIX-XXI Century
+
+By the mid 19th century, al-Azhar had surpassed Istanbul and was considered the mecca of Sunni legal expertise; a main centre of power in the Islamic world; and a rival to Damascus, Mecca and Baghdad.
+
+In 1961, Al-Azhar was re-established as a university under the government of Egypt's second President Gamal Abdel Nasser when a wide range of secular faculties were added for the first time, such as business, economics, science, pharmacy, medicine, engineering and agriculture. Before that date, the Encyclopaedia of Islam classifies the Al-Azhar variously as madrasa, center of higher learning and, since the 19th century, religious university, but not as a university in the full sense, referring to the modern transition process as "from madrasa to university". Other academic sources also refer to al-Azhar as a madrasa in pre-modern times before its transformation into a university. An Islamic women's faculty was also added in the same year.
 
 </details><details><summary>
 
@@ -7247,33 +7255,39 @@ The Golden Horde mongols rule the lands north of Caspian and Black Sea and then 
 </summary>
 </details><details><summary>
 
-## 1273: Jalal al-Din Rumi in Anatolia, founder of Whirling Dervishes
+## 1273: Rumi in Anatolia, founder of Whirling Dervishes
 
 </summary>
+
+Jalal al-Din Rume is a 13th-century Persian poet, Hanafi faqih, Islamic scholar, Maturidi theologian and Sufi mystic originally from Greater Khorasan in Greater Iran. Rumi's influence transcends national borders and ethnic divisions: Iranians, Tajiks, Turks, Greeks, Pashtuns, other Central Asian Muslims, as well as Muslims of the Indian subcontinent have greatly appreciated his spiritual legacy for the past seven centuries. His poems have been widely translated into many of the world's languages and transposed into various formats. Rumi has been described as the "most popular poet" and the "best selling poet" in the United States.
+
 </details><details><summary>
 
-## 1288: Osman, a ghazi, on the Byzantine frontier, founds the Ottoman dynasty in Anatolia
+## 1288: Osman founds the Ottoman dynasty in Anatolia
 
 </summary>
+
+A ghazi, on the Byzantine frontier, founds the Ottoman dynasty in Anatolia.
+
 </details><details><summary>
 
 ## 1328: Ahmad ibn Taymiyyah in Damascus
 
 </summary>
 
-Ibn Taymiyyah (January 22, 1263 – September 26, 1328; Arabic: ابن تيمية),  Taqī ad-Dīn ʾAḥmad ibn ʿAbd al-Ḥalīm ibn ʿAbd al-Salām al-Numayrī al-Ḥarrānī), was a Sunni ʿĀlim, muhaddith, judge, philosopher, and sometimes controversial thinker and political figure. He is known for his diplomatic involvement with the Ilkhanid ruler Ghazan Khan and for his involvement at the Battle of Marj al-Saffar which ended the Mongol invasions of the Levant. A member of the Hanbali school, Ibn Taymiyyah's iconoclastic views that condemned numerous folk practices associated with saint veneration and the visitation of tomb-shrines; made him unpopular with many scholars and rulers of the time, and he was imprisoned several times.
+Ibn Taymiyyah (1263 – 1328) was a Sunni ʿĀlim, muhaddith, judge, philosopher, and sometimes controversial thinker and political figure. He is known for his diplomatic involvement with the Ilkhanid ruler Ghazan Khan and for his involvement at the Battle of Marj al-Saffar which ended the Mongol invasions of the Levant. A member of the Hanbali school, Ibn Taymiyyah's iconoclastic views that condemned numerous folk practices associated with saint veneration and the visitation of tomb-shrines; made him unpopular with many scholars and rulers of the time, and he was imprisoned several times.
 
 A polarising figure in his own times and in the centuries that followed, Ibn Taymiyyah has emerged as one of the most influential medieval writers in contemporary Sunni Islam. He was also noteworthy for engaging in intense religious polemics that defended Athari school against the followers of rival schools of Kalam (speculative theology); namely Ash'arism and Maturidism. This would prompt numerous clerics and state authorities to accuse Ibn Taymiyyah and his disciples of being guilty of "tashbīh" (anthropomorphism); which eventually led to the censoring of his works and subsequent incarceration. Nevertheless, Ibn Taymiyya's numerous treatises that advocated "creedal Salafism" (al-salafiyya al-iʿtiqādīyya), based on his particular interpretations of the Qur'an and the Sunnah, constitute the most popular classical reference for later Salafi movements.
 
 Ibn Taymiyyah had a simple life, most of which he dedicated to learning, writing, and teaching. He never married nor did he have a female companion throughout his years. Al-Matroudi says that this may be why he was able to engage fully with the political affairs of his time without holding any official position such as that of a judge. An offer of an official position was made to him but he never accepted. His life was that of a religious scholar and a political activist. In his efforts he was persecuted and imprisoned on six occasions with the total time spent inside prison coming to over six years. Other sources say that he spent over twelve years in prison. His detentions were due to certain elements of his creed and his views on some jurisprudential issues. However, according to Yahya Michot, "the real reasons were more trivial". Michot gives five reasons as to why Ibn Taymiyyah was imprisoned, they being: not complying with the "doctrines and practices prevalent among powerful religious and Sufi establishments, an overly outspoken personality, the jealousy of his peers, the risk to public order due to this popular appeal and political intrigues."
 
-Ibn Taymiyyah's attitude towards his own rulers was based on the actions of Muhammad's companions when they made an oath of allegiance to him as follows; "to obey within obedience to God, even if the one giving the order is unjust; to abstain from disputing the authority of those who exert it; and to speak out the truth, or take up its cause without fear in respect of God, of blame from anyone."
+Ibn Taymiyyah's attitude towards his own rulers was based on the actions of Muhammad's ﷺ   companions when they made an oath of allegiance to him as follows; "to obey within obedience to God, even if the one giving the order is unjust; to abstain from disputing the authority of those who exert it; and to speak out the truth, or take up its cause without fear in respect of God, of blame from anyone."
 
 ### Education
 
 In 1269, aged seven, Ibn Taymiyyah, left Harran together with his father and three brothers. The city was completely destroyed by the ensuing Mongol invasion. Ibn Taymiyyah's family moved and settled in Damascus, Syria, which at the time was ruled by the Mamluk Sultanate.
 
-In Damascus, his father served as the director of the Sukkariyya Madrasa, a place where Ibn Taymiyyah also received his early education.[46] Ibn Taymiyyah acquainted himself with the religious and secular sciences of his time. His religious studies began in his early teens, when he committed the entire Qur'an to memory and later on came to learn the Islamic disciplines of the Qur'an. From his father he learnt the religious science of fiqh (jurisprudence) and usul al-fiqh (principles of jurisprudence). Ibn Taymiyyah learnt the works of Ahmad ibn Hanbal, al-Khallal, Ibn Qudamah and also the works of his grandfather, Abu al-Barakat Majd ad-Din. His study of jurisprudence was not limited to the Hanbali tradition but he also learnt the other schools of jurisprudence.
+In Damascus, his father served as the director of the Sukkariyya Madrasa, a place where Ibn Taymiyyah also received his early education. Ibn Taymiyyah acquainted himself with the religious and secular sciences of his time. His religious studies began in his early teens, when he committed the entire Qur'an to memory and later on came to learn the Islamic disciplines of the Qur'an. From his father he learnt the religious science of fiqh (jurisprudence) and usul al-fiqh (principles of jurisprudence). Ibn Taymiyyah learnt the works of Ahmad ibn Hanbal, al-Khallal, Ibn Qudamah and also the works of his grandfather, Abu al-Barakat Majd ad-Din. His study of jurisprudence was not limited to the Hanbali tradition but he also learnt the other schools of jurisprudence.
 
 The number of scholars under which he studied hadith is said to number more than two hundred, four of whom were women. Those who are known by name amount to forty hadith teachers, as recorded by Ibn Taymiyyah in his book called Arbaun Hadithan. Serajul Haque says, based on this, Ibn Taymiyyah started to hear hadith from the age of five. One of his teachers was the first Hanbali Chief Justice of Syria, Shams ud-Din Al-Maqdisi who held the newly created position instituted by Baibars as part of a reform of the judiciary. Al-Maqdisi later on, came to give Ibn Taymiyyah permission to issue Fatawa (legal verdicts) when he became a mufti at the age of 17.
 
@@ -7284,7 +7298,7 @@ Ibn Taymiyyah's secular studies led him to devote attention to Arabic language a
 Umayyad Mosque, a place where Ibn Taimiyya used to give lessons.
 After his father died in 1284, he took up the then vacant post as the head of the Sukkariyya madrasa and began giving lessons on Hadith. A year later he started giving lessons, as chair of the Hanbali Zawiya on Fridays at the Umayyad Mosque, on the subject of tafsir (exegesis of Qur'an). In November 1292, Ibn Taymiyyah performed the Hajj and after returning 4 months later, he wrote his first book aged twenty nine called Manasik al-Hajj (Rites of the Pilgrimage), in which he criticized and condemned the religious innovations he saw take place there. Ibn Taymiyyah represented the Hanbali school of thought during this time. The Hanbali school was seen as the most traditional school out of the four legal systems (Hanafi, Maliki and Shafii) because it was "suspicious of the Hellenist disciplines of philosophy and speculative theology." 
 
-He remained faithful throughout his life to this school, whose doctrines he had mastered, but he nevertheless called for ijtihad (independent reasoning by one who is qualified) and discouraged <span class="tooltip">taqlid<span class="tooltiptext">Taqlid is an Islamic term denoting the conformity of one person to the teaching of another. In contemporary Sunni usage, it is often portrayed in a negative light and translated as "blind imitation". This refers to the perceived stagnation of independent intellectual effort (ijtihad) and uncritical imitation of traditional religious interpretation by the religious establishment in general.</span>
+He remained faithful throughout his life to this school, whose doctrines he had mastered, but he nevertheless called for ijtihad (independent reasoning by one who is qualified) and discouraged <span class="tooltip">taqlid<span class="tooltiptext">Taqlid is an Islamic term denoting the conformity of one person to the teaching of another. In contemporary Sunni usage, it is often portrayed in a negative light and translated as "blind imitation". This refers to the perceived stagnation of independent intellectual effort (ijtihad) and uncritical imitation of traditional religious interpretation by the religious establishment in general.</span></span>
 
 He spent his last fifteen years in Damascus. Aged 50, Ibn Taymiyyah returned to Damascus via Jerusalem on 28 February 1313. Damascus was now under the governorship of Tankiz. There, Ibn Taymiyyah continued his teaching role as professor of Hanbali fiqh. This is when he taught his most famous student, Ibn Qayyim Al-Jawziyya, who went on to become a noted scholar in Islamic history. Ibn Qayyim was to share in Ibn Taymiyyah's renewed persecution.
 
@@ -7294,14 +7308,11 @@ Several of Ibn Taymiyyah's students became scholars in their own right. His stud
 
 In the 21st century, Ibn Taymiyya is one of the most cited medieval authors and his treatises are regarded to be of central intellectual importance by several Islamic revivalist movements. Ibn Taymiyya's disciples, consisting of both Hanbalis and non-Hanbalis, were attracted to his advocacy of Ijtihad outside the established boundaries of the madhabs and shared his taste for activism and religious reform. Some of his unorthodox legal views in the field of Fiqh were also regarded as a challenge by mainstream Fuqaha.
 
-In the pre-modern era, Ibn Taymiyyah was considered a controversial figure within Sunni Islam and had a number of critics during his life and in the centuries thereafter. The Shafi'i scholar Ibn Hajar al-Haytami stated that,
-
-"Make sure you do not listen to what is in the books of Ibn Taymiyya and his student Ibn Qayyim al-Jawziyya and other such people who have taken their own whim as their God, and who have been led astray by God, and whose hearts and ears have been sealed, and whose eyes have been covered by Him... May God forsake the one who follows them, and purify the earth of their likes."
+In the pre-modern era, Ibn Taymiyyah was considered a controversial figure within Sunni Islam and had a number of critics during his life and in the centuries thereafter.
 
 The reputation and stature of Ibn Taymiyya amongst non-Ḥanbalī Sunni scholars would significantly improve between the eighteenth and twentieth centuries. From a little-read scholar considered controversial by many, he would become one of the most popular scholarly figures in the Sunni religious tradition.
 
 Ibn Taymiyya's rejection of some aspects of classical Islamic tradition are believed to have had considerable influence on contemporary militant Islamist movements such as Salafi-Jihadism. Major aspects of his teachings such as upholding the pristine monotheism of the early Muslim generations and campaigns to uproot what he regarded as shirk (idolatry); had a profound influence on Muhammad ibn Abd al-Wahhab, the founder of the Hanbali reform movement practiced in Saudi Arabia, and on other later Sunni scholars. Syrian Salafi theologian Muhammad Rashid Rida (d. 1935 C.E/ 1354 A.H), one of the major modern proponents of his works, designated Ibn Taymiyya as the Mujaddid (renewer) of the Islamic 7th century of Hijri year. Ibn Taymiyyah's doctrinal positions on the necessity of an Islamic political entity and his controversial fatwas, such as his Takfir (declaration of unbelief) of the Mongol Ilkhanates, allowing jihad against other self-professed Muslims, are referenced by al-Qaeda and other jihadist groups to justify militant overthrowal of contemporary governments of the Muslim world.
-</span>.
 
 </details><details><summary>
 
@@ -7318,7 +7329,9 @@ Ibn Taymiyya's rejection of some aspects of classical Islamic tradition are beli
 ## 1453: Mehmed II conquers Constantinople, henceforth known as Istanbul
 
 </summary>
-1453: Mehmed II conquers Constantinople, henceforth known as Istanbul, and makes it the capital of the Ottoman Empire
+
+1453: Mehmed II conquers Constantinople, henceforth known as Istanbul, and makes it the capital of the Ottoman Empire.
+
 </details><details><summary>
 
 ## 1492: The Muslim Kingdom of Granada is conquered by the Catholics
@@ -7336,7 +7349,7 @@ Ibn Taymiyya's rejection of some aspects of classical Islamic tradition are beli
 </summary>
 </details><details><summary>
 
-## 1520-66: Suleiman "the Magnificent" expands the Ottoman Empire and develops its distinctive institutions
+## 1520-66: Suleiman "the Magnificent" expands and develops the Ottoman Empire
 
 </summary>
 </details><details><summary>
