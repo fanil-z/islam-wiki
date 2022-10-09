@@ -7,33 +7,6 @@ toc: true
 
 <p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline </b></p>
 
-<details>
-<summary style="color: #878686fc; font-size: 14px; text-align: left;">DISCLAIMER!</summary>
-
-> Assalamu Aleikum (Peace be upon you), 
-> 
-> ﷽ 
->
-> This guide is compiled from various sources and there may be minor discrepancies and incorrect details. The main purpose of the guide was to combine an overview of the whole timeline of the world as of we know today according to Islamic sources. 
-> 
-> Allahu Alim. Only God knows the ultimate truth. Quran is the only Word of God that reached our time uncorrupted. Quran has many stories confirming some parts about the Biblical prophets. Thus, the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources.
-> 
-> Other sources of this guide include: authentic hadiths, a few non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History", a book "Muhammad, His Biography Based on Earliest Sources". Some parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman) without providing the original source. I am personally not an Islamic scholar, so I tried to stick to aforementioned sources.
-> 
-> [Fair Use Law](https://www.findlaw.com/smallbusiness/intellectual-property/fair-use-law.html)
->
-> [alim.org](https://www.alim.org/history)
->
-> Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God.
-> 
-> According to Islamic tradition, every nation had its prophet. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned in this guide because there was no authentic hadith about this particular prophet in Islamic tradition.
->
-> Please feel free to send feedback if you come across parts that contradict the Quran or an authentic hadith or if the timeline order is incorrect. 
-> 
-> May Allah guide us all to the right path.
-
-</details>
-
 # 0. Before Creation of Humankind
 ***************************************
 
@@ -45,10 +18,7 @@ toc: true
 
 When Prophet Muhammad ﷺ    was asked how this universe started to exist, he said:
 
-كان الله ولم يكن شىء غيره وكان عرشه على الماء وكتب في الذكر كل شىء ثم خلق السماوات والأرض »
-
-Which means: 
->Allāh existed [eternally] and nothing else existed with Him. He created the ^Arsh (Throne) [and placed it] above the water. Then He [ordered the Pen to] write in the (Guarded) Tablet everything that would happen. Then Allāh created the heavens and Earth. [Related by al-Bukhariyy]
+> Allāh existed [eternally] and nothing else existed with Him. He created the 'Arsh (Throne) [and placed it] above the water. Then He [ordered the Pen to] write in the (Guarded) Tablet everything that would happen. Then Allāh created the heavens and Earth. [Related by al-Bukhariyy]
 
 The Prophet ﷺ   answered this question by first stating that Allāh's Existence does not have a beginning, i.e., He is Eternal. There is no one attributed with eternity other than Him. In other words, nothing existed eternally except Allāh, and Allāh created everything, i.e., He brought all the creation from non-existence into existence.
 
@@ -7379,98 +7349,10 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 
 </summary></details>
 
-# 11. Current State of the Islamic World
+# 11. Yawm Al Qiyamah (The Apocalypse)
 *******************************************
 
-<details><summary>
-
-## Islamic Countries
-
-</summary>
-
-This must be derived into a separate article. 
-
-https://www.islamawareness.net  countries here
-
-https://www.nationsonline.org/oneworld/muslim-countries.htm
-https://en.wikipedia.org/wiki/Islam_by_country
-https://www.pewresearch.org/religion/chart/interactive-data-table-world-muslim-population-by-country/
-
-number of muslims
-dynamics of religions
-map
-the state of Islam in countries
-Saudi Arabia
-Qatar
-Egypt Azhar University
-Turkey Turkish mosques and schools
-Indonesia
-Pakistan
-India
-Bangladesh
-Post-Soviet-Union countries: Russia (Dagestan, Tatarstan, Bashkortostan), Kazakhstan, Uzbekistan, Azerbaijan, Kyrgyzstan, Tajikistan)
-Afghanistan
-Tukrkmenistan
-Algeria
-Nigeria
-Morocco
-Yemen
-Iran
-Iraq
-Syria
-Sudan
-Ethiopia
-Malaysia
-Niger
-Tanzania
-Mali
-Senegal
-Tunisia
-
-Uyghurs in China
-other African countries
-
-EU:
-France 6%
-Germany 5% (Turkish mosques, Akhmadiyah, Pakistani mosque)
-
-Only 0.8% in USA. but many islamic universities and wordly-famous sheikhs are there. 
-
-wars
-universities and charity projects
-
-</details><details><summary>
-
-## The World in General
-
-</summary>
-
-In Islam, the arrival of Judgement Day is prophesied in various ḥadīth collections to be preceded by "signs" or portents of its arrival. These signs tend to fall into disruptions in the order of human morality (music, wine drinking, usury, fornication, homosexuality, and disobedience by wives, senseless murders, lying and cheating, disinterest in and ignorance of religion) and the natural world (frequent unexpected deaths, excessive lightning, destructive rainfall, terrible drought, a huge cloud of smoke, the opening up of huge cracks in the earth -- khasf -- to swallow masses of people alive, the sun rising in the west, poisonous winds that kill all the faithful);
-include the appearance of wicked forces such as the AntiChrist figure al-Dajjāl, Gog and Magog, and Sufyani. but also savior(s) the Mahdi and Jesus, who along with divine intervention, will restore order and crush the
-The signs may be divided into "minor" signs (these happen first), or "major" signs. (scholars agree there are ten of these but not what they are). They may also be divided into signs that have already happened, are currently happening, or have yet to happen.
-
-Savior and evil-doing figures that appear in the major signs include:
-
-Al-Masih ad-Dajjal (Arabic: المسيح الدجّال, romanized: al-Masīḥ ad-Dajjāl, lit. 'Deceitful Messiah'), is blind in one eye, and will deceive starving masses -- especially the Jews -- by performing miracles. He will raise an army that will kill and conquer, and corner his nemesis, the Mahdi, along with a small army of Muslim fighters in Jerusalem. Jesus will descend from heaven just in time to kill him and defeat his army.
-
-The Mahdi (Arabic: ٱلْمَهْدِيّ, romanized: al-mahdīy), i.e. the "Rightly Guided One", is a messianic figure descended from Muhammad through Ali, who (with the help of Jesus) will defeat the Dajjal, reestablish Islamic law, rid the world of bid'a (religious innovation), and fill it with justice;
-
-Jesus (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, romanized: ʿĪsā ibn Maryam, lit. 'Isa, son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
-
-Gog and Magog (Arabic: يأجوج ومأجوج) are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
-
-The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
-
-### Ribah
-
-How Christianity started to allow usury (ribah) and banks appeared.
-
-</details>
-
-# 12. Yawm Al Qiyamah (The Apocalypse)
-*******************************************
-
-### 12.1 Minor Signs of The Day of Judgement
+### 11.1 Minor Signs of The Day of Judgement
 
 <details><summary>
 
@@ -7483,11 +7365,13 @@ How Christianity started to allow usury (ribah) and banks appeared.
   These signs are connected to each other. When one comes, the other one follows.
   There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
 
-better to make it in the part 2. First, just the timeline.
-
 after Isa some time will pass and no believer will be left on Earth. The Quran will be lifted.
 
 https://www.youtube.com/watch?v=NrfWxzjXEyw
+
+In Islam, the arrival of Judgement Day is prophesied in various ḥadīth collections to be preceded by "signs" or portents of its arrival. These signs tend to fall into disruptions in the order of human morality (music, wine drinking, usury, fornication, homosexuality, and disobedience by wives, senseless murders, lying and cheating, disinterest in and ignorance of religion) and the natural world (frequent unexpected deaths, excessive lightning, destructive rainfall, terrible drought, a huge cloud of smoke, the opening up of huge cracks in the earth -- khasf -- to swallow masses of people alive, the sun rising in the west, poisonous winds that kill all the faithful);
+include the appearance of wicked forces such as the AntiChrist figure al-Dajjāl, Gog and Magog, and Sufyani. but also savior(s) the Mahdi and Jesus, who along with divine intervention, will restore order and crush the
+The signs may be divided into "minor" signs (these happen first), or "major" signs. (scholars agree there are ten of these but not what they are). They may also be divided into signs that have already happened, are currently happening, or have yet to happen.
 
 Events that have already taken place
 * Splitting of the moon (Sahih Bukhari, Book 56: 830)
@@ -7543,7 +7427,7 @@ Events that are yet to happen:
 * The blowing in the Trumpet by the Angel Israfil, upon which everyone will faint except as Allah wills (Sahih Muslim, Book 041: 7023)
 * The second blowing in the Trumpet, upon which everyone will be resurrected (Sahih Muslim, Book 041: 7023)
 
-the moaques will become palaces
+the mosques will become palaces
 
 just find the hadith that mentions 10 signs
 
@@ -7552,9 +7436,31 @@ increase of riba ,  noone will be able to escape the dust of it
 Muslims will lose Constantinople (Istanbul). 
 Then Constantinople will be re-conquerred and then Dajjal will appear. When Dajjal appears, the safest place will be Madinah and Makkah.
 
+women naked and clothed at the same time.
+
+https://www.youtube.com/watch?v=UPg__x1R3Ng
+
+
+
+Savior and evil-doing figures that appear in the major signs include:
+
+Al-Masih ad-Dajjal (Arabic: المسيح الدجّال, romanized: al-Masīḥ ad-Dajjāl, lit. 'Deceitful Messiah'), is blind in one eye, and will deceive starving masses -- especially the Jews -- by performing miracles. He will raise an army that will kill and conquer, and corner his nemesis, the Mahdi, along with a small army of Muslim fighters in Jerusalem. Jesus will descend from heaven just in time to kill him and defeat his army.
+
+The Mahdi (Arabic: ٱلْمَهْدِيّ, romanized: al-mahdīy), i.e. the "Rightly Guided One", is a messianic figure descended from Muhammad through Ali, who (with the help of Jesus) will defeat the Dajjal, reestablish Islamic law, rid the world of bid'a (religious innovation), and fill it with justice;
+
+Jesus (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, romanized: ʿĪsā ibn Maryam, lit. 'Isa, son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
+
+Gog and Magog (Arabic: يأجوج ومأجوج) are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
+
+The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
+
+### Ribah
+
+How Christianity started to allow usury (ribah) and banks appeared.
+
 </details>
 
-### 12.2 Major Signs of Al Kiyamah
+### 11.2 Major Signs of Al Kiyamah
 
 <details><summary>
 
@@ -7568,7 +7474,7 @@ Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with
 
 </details><details><summary>
 
-## Dajjal - the false Messiah or Anti-Christ
+## Dajjal -- the false Messiah or Anti-Christ
 
 </summary> 
 
@@ -7712,7 +7618,7 @@ The fire will come out and it will spread, making people come to the destination
 
 </details>
 
-### 12.3 Al Qiyamah (The Hereafter)
+### 11.3 Al Qiyamah (The Hereafter)
 *******************************************
 
 <details><summary>
@@ -7754,6 +7660,14 @@ What happens during and after death?
 5. In the grave, two angels Munkar and Nakir with unknown appearence come to the soul and ask the soul who is his Lord, who is the man that was sent to you and what is your religion.
 6. Soul is asked to look to the left, where he sees Hell and frightened. If the person was a believer and done good deeds, angels say that Allah saves you from torment because you were a believer. Then the souls is asked to look to the right where he sees the Heaven. When he sees the Heaven, he asks God to end this world so that he can come to Jannah right now.
 7. (The souls is put to sleep? or also souls can communicate with each other.)
+
+
+ayah about torturemof the grave
+
+Imâm-i Ghazâlî, on the other hand, declares:
+“The torment in the grave will be inflicted on both the soul and the body” (Ihyâ).
+
+(If anyone were to be saved from the squeezing of the grave, Sa’d bin Mu‘adh would have been saved from it.) [Imâm-i Ahmad]
 
 The Unseen World Becomes Visible at Death
 
