@@ -7360,36 +7360,28 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 
 </summary>
 
-* The prophet Muhammad
-* bedouins building towers
-  These signs are connected to each other. When one comes, the other one follows.
-  There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
-
-after Isa some time will pass and no believer will be left on Earth. The Quran will be lifted.
-
-https://www.youtube.com/watch?v=NrfWxzjXEyw
-
 In Islam, the arrival of Judgement Day is prophesied in various ḥadīth collections to be preceded by "signs" or portents of its arrival. These signs tend to fall into disruptions in the order of human morality (music, wine drinking, usury, fornication, homosexuality, and disobedience by wives, senseless murders, lying and cheating, disinterest in and ignorance of religion) and the natural world (frequent unexpected deaths, excessive lightning, destructive rainfall, terrible drought, a huge cloud of smoke, the opening up of huge cracks in the earth -- khasf -- to swallow masses of people alive, the sun rising in the west, poisonous winds that kill all the faithful);
-include the appearance of wicked forces such as the AntiChrist figure al-Dajjāl, Gog and Magog, and Sufyani. but also savior(s) the Mahdi and Jesus, who along with divine intervention, will restore order and crush the
+include the appearance of wicked forces such as the AntiChrist figure al-Dajjāl, Gog and Magog, and Sufyani. but also savior(s) the Mahdi and Jesus, who along with divine intervention, will restore order and crush the Dajjal, gog and Magog will perish as well. Some time after Isa will pass and no believer will be left on Earth. The Quran will be lifted.
+
 The signs may be divided into "minor" signs (these happen first), or "major" signs. (scholars agree there are ten of these but not what they are). They may also be divided into signs that have already happened, are currently happening, or have yet to happen.
 
-Events that have already taken place
-* Splitting of the moon (Sahih Bukhari, Book 56: 830)
+Events that have already taken place:
 * A form of death, which will kill thousands of Muslims (Sahih Bukhari, Vol 4: book 53: 401)
 * A major fighting in Madinah (understood to be the battle of al-Harrah during the caliphate of Yazid)
 * The Muslim conquest of Jerusalem (Sahih Bukhari, Vol 4: book 53: 401)
 * The Muslim conquest of Constantinople (Sahih Muslim, book 41: 6924)
 * Two large groups of Muslims will fight in a war (Sahih Bukhari, Vol 9: book 88: 237)
 * A war between the Muslims and a reddish people with small eyes, wearing sandals made of hair ( Sahih Bukhari, Vol 4: book 52: 179)
+* Splitting of the moon (Sahih Bukhari, Book 56: 830)
 * A peace agreement between the Muslims and non-Muslims from the yellow race (understood to be the Chinese, Mongols etc.)
-30 impostors will appear, each thinking he is a prophet (Sahih Bukhari, Vol 9: book 88: 237)
+* 30 impostors will appear, each thinking he is a prophet (Sahih Bukhari, Vol 9: book 88: 237)
 
 Events that are happening at present:
-* Naked, destitute, barefoot shepherds will compete in building tall buildings (Sahih Bukhari, Vol 1: book 2: 47)
+* `Naked, destitute, barefoot shepherds will compete in building tall buildings` (Sahih Bukhari, Vol 1: book 2: 47)
 * The slave-woman will give birth to her master or mistress (Sahih Bukhari, Vol 6: book 60: 300)
 * A trial (fitnah) which will enter every Arab household (Sahih Bukhari, Vol 4: book 53: 401)
 * Knowledge will be taken away (by the death of people of knowledge), and ignorance will prevail (Sahih Bukhari, Vol 1: book 3: 80)
-Wine (intoxicants, alcohol) will be drunk in great quantities (Sahih Bukhari, Vol 1: book 3: 80)
+* Wine (intoxicants, alcohol) will be drunk in great quantities (Sahih Bukhari, Vol 1: book 3: 80)
 * Zina will become widespread (Sahih Bukhari, Vol 1: book 3: 80)
 * Earthquakes will increase (Sahih Bukhari, Vol 2: book 17: 146)
 * Time will pass more quickly (Sahih Bukhari, Vol 2: book 17: 146)
@@ -7427,6 +7419,16 @@ Events that are yet to happen:
 * The blowing in the Trumpet by the Angel Israfil, upon which everyone will faint except as Allah wills (Sahih Muslim, Book 041: 7023)
 * The second blowing in the Trumpet, upon which everyone will be resurrected (Sahih Muslim, Book 041: 7023)
 
+
+
+
+
+
+
+
+
+
+
 the mosques will become palaces
 
 just find the hadith that mentions 10 signs
@@ -7440,6 +7442,14 @@ women naked and clothed at the same time.
 
 https://www.youtube.com/watch?v=UPg__x1R3Ng
 
+* The prophet Muhammad
+* bedouins building towers
+  These signs are connected to each other. When one comes, the other one follows.
+  There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
+
+
+
+https://www.youtube.com/watch?v=NrfWxzjXEyw
 
 
 Savior and evil-doing figures that appear in the major signs include:
@@ -7452,7 +7462,7 @@ Jesus (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, romanized: ʿĪsā ibn 
 
 Gog and Magog (Arabic: يأجوج ومأجوج) are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
 
-The Sufyani (Arabic: سفیاني) is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
+The Sufyani is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
 
 ### Ribah
 
@@ -7463,6 +7473,7 @@ How Christianity started to allow usury (ribah) and banks appeared.
 ### 11.2 Major Signs of Al Kiyamah
 
 <details><summary>
+
 
 ## Overview
 
