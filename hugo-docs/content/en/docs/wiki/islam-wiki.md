@@ -7352,11 +7352,11 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 # 11. Yawm Al Qiyamah (The Apocalypse)
 *******************************************
 
-### 11.1 Minor Signs of The Day of Judgement
+### 11.1 Signs of The Day of Judgement
 
 <details><summary>
 
-## Minor Signs
+## Signs
 
 </summary>
 
@@ -7419,61 +7419,53 @@ Events that are yet to happen:
 * The blowing in the Trumpet by the Angel Israfil, upon which everyone will faint except as Allah wills (Sahih Muslim, Book 041: 7023)
 * The second blowing in the Trumpet, upon which everyone will be resurrected (Sahih Muslim, Book 041: 7023)
 
-
-
-
-
-
-
-
-
-
-
-the mosques will become palaces
-
-just find the hadith that mentions 10 signs
-
-increase of riba ,  noone will be able to escape the dust of it
-
-Muslims will lose Constantinople (Istanbul). 
-Then Constantinople will be re-conquerred and then Dajjal will appear. When Dajjal appears, the safest place will be Madinah and Makkah.
-
-women naked and clothed at the same time.
-
-https://www.youtube.com/watch?v=UPg__x1R3Ng
-
-* The prophet Muhammad
-* bedouins building towers
-  These signs are connected to each other. When one comes, the other one follows.
-  There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
-
-
-
-https://www.youtube.com/watch?v=NrfWxzjXEyw
-
+There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
 
 Savior and evil-doing figures that appear in the major signs include:
 
-Al-Masih ad-Dajjal (Arabic: المسيح الدجّال, romanized: al-Masīḥ ad-Dajjāl, lit. 'Deceitful Messiah'), is blind in one eye, and will deceive starving masses -- especially the Jews -- by performing miracles. He will raise an army that will kill and conquer, and corner his nemesis, the Mahdi, along with a small army of Muslim fighters in Jerusalem. Jesus will descend from heaven just in time to kill him and defeat his army.
+Al-Masih ad-Dajjal ('Deceitful Messiah'), is blind in one eye, and will deceive starving masses -- especially the Jews -- by performing miracles. He will raise an army that will kill and conquer, and corner his nemesis, the Mahdi, along with a small army of Muslim fighters in Jerusalem. Jesus will descend from heaven just in time to kill him and defeat his army.
 
-The Mahdi (Arabic: ٱلْمَهْدِيّ, romanized: al-mahdīy), i.e. the "Rightly Guided One", is a messianic figure descended from Muhammad through Ali, who (with the help of Jesus) will defeat the Dajjal, reestablish Islamic law, rid the world of bid'a (religious innovation), and fill it with justice;
+The Mahdi, i.e. the "Rightly Guided One", is a messianic figure descended from Muhammad through Ali, who (with the help of Jesus) will defeat the Dajjal, reestablish Islamic law, rid the world of bid'a (religious innovation), and fill it with justice;
 
-Jesus (Arabic: عِيسَى ٱبْنُ مَرْيَمَ, romanized: ʿĪsā ibn Maryam, lit. 'Isa, son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
+Jesus ('Isa son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
 
-Gog and Magog (Arabic: يأجوج ومأجوج) are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
+Gog and Magog are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
 
 The Sufyani is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
 
-### Ribah
+</details><details><summary>
+  
+## What to do if Al Qiyamah starts?
 
-How Christianity started to allow usury (ribah) and banks appeared.
+</summary>
 
+Recently, there seems to be increased awareness and fascination with the end of the world. People of many faiths are starting to think the signs of the last day are all around them, with Christians pointing to some biblical prophecies coming to light, or Jews now ‘back’ in Jerusalem, anticipating the return of their ‘Messiah’.
+
+It is also widely thought amongst many erudite Islamic scholars that we are in the final throes of the last days before the Hour. After all, the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) did once say, whilst gesturing with his index and middle fingers, `“The time of my advent and the Hour are like these two fingers”`. [Al-Bukhari]
+
+> Anas ibn Malik raḍyAllāhu 'anhu (may Allāh be pleased with him) reported that the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, “If the Final Hour comes while you have a palm-cutting in your hands and it is possible to plant it before the Hour comes, you should plant it.” [Al-Abani]
+
+> “A man asked the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) about the Hour (i.e. Day of Judgment) saying, ‘When will the Hour be?’ The Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, ‘What have you prepared for it?'” [Al-Bukhari]
+
+If you are able to do so, you can study the science of Islamic Eschatology (the study of the end of times). Amid all of this worldwide confusion, being able to recognise the signs and get some clarity about the reality of the world you inhabit can certainly be no bad thing.
+Do good deeds
+Abu Hurairah said, “The Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, ‘Hasten to do good deeds before six things happen: the rising of the sun from the west, the smoke, the Dajjal, the beast and (the death) of one of you or the general turmoil. [Muslim]
+Seek refuge
+This essentially means to not engage and invite fitnah. It is better to stay away from situations wherein even the temptation or the threat of fitnah exists, if we are able to do so. Abu Hurairah said, the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, “There will be soon a period of turmoil in which the one who sits will be better than one who stands and the one who stands will be better than one who walks and the one who walks will be better than one who runs. He who would watch them will be drawn by them. So he who finds a refuge or shelter against it should make it as his resort.” [Muslim]
+
+Accept your ‘strangeness!’
+Yes, agreed – it is becoming more and more difficult for us nowadays. But know that this is prophesied and is one of Allah subḥānahu wa ta'āla (glorified and exalted be He)‘s tests for us!’Abdullah bin Mas’ud narrated that the Messenger of Allah ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said: “Indeed Islam began as something strange and it will return to being strange as it began. So Tuba [good tidings] is for the strangers.” [At-Timirdhi] Someone asked, “Who are the strangers?” He said, “The ones who break away from their people (literally, ‘tribes’) for the sake of Islam.”
+Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
+Abu Darda’ reported Allah’s Apostle ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) as saying: “If anyone learns by heart the first ten verses of the Surah Al-Kahf, he will be protected from the Dajjal.” [Muslim] Study the tafsir and you’ll soon see the link between the two – it really is the surah to help us understand the modern age!
+
+<img title="subḥānahu wa ta'āla (glorified and exalted be He)" alt="subḥānahu wa ta'āla (glorified and exalted be He)" class="islamic_graphic" src="//cdn-61dc8321c1ac18f874f6c789.closte.com/wp-content/plugins/islamic-graphics/img/black/png/swt.png" width="25px" height="25px" srcset="https://productivemuslim.com/wp-content/plugins/islamic-graphics/img/black/svg/swt.svg">
+  
 </details>
+
 
 ### 11.2 Major Signs of Al Kiyamah
 
 <details><summary>
-
 
 ## Overview
 
@@ -7482,6 +7474,8 @@ How Christianity started to allow usury (ribah) and banks appeared.
 According to the Prophet (PBUH), there are 10 major signs that will precede the last Hour and will announce of the finality of the Day of Reckoning. These 10 signs are explained in the following hadith:
 
 Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with him) said: The Prophet (peace and blessings of Allaah be upon him) came out to us when we were discussing. He said: “What are you discussing?” They said: “We are talking about the Hour.” He said: “It will never begin until you see ten signs before it.” He mentioned the smoke, the Dajjaal, the Beast, the rising of the sun from its place of setting, the descent of ‘Eesa ibn Maryam (peace and blessings of Allaah be upon him), Ya’jooj and Ma’jooj, and three landslides, one in the east, one in the west and one in the Arabian Peninsula, and the last of that is a fire which will emerge from Yemen and drive the people to their place of gathering (Sahih Muslim, Book 041: 6931)
+
+These signs are connected to each other. When one comes, the other one follows.
 
 </details><details><summary>
 
@@ -7673,7 +7667,7 @@ What happens during and after death?
 7. (The souls is put to sleep? or also souls can communicate with each other.)
 
 
-ayah about torturemof the grave
+ayah about torture in the grave
 
 Imâm-i Ghazâlî, on the other hand, declares:
 “The torment in the grave will be inflicted on both the soul and the body” (Ihyâ).
@@ -7682,9 +7676,7 @@ Imâm-i Ghazâlî, on the other hand, declares:
 
 The Unseen World Becomes Visible at Death
 
-فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُ‌كَ الْيَوْمَ حَدِيدٌ (Now We have removed your veil from you; so your sight today is sharp...50:22). There is a difference of opinion regarding the addressees of this verse. The preferred opinion is that Allah addresses mankind in general. This includes the believers, the unbelievers, the pious and the wicked. Ibn Jarir, Ibn Kathir and others have adopted this interpretation. The analogy drawn here is that this world is like the dream-world and the Hereafter is like the state of wakefulness. When man is in the dream-world, his eyes are closed and cannot perceive by his physical organs of sight the stark realities of the next world. When the physical organs of sight close, his dream-world ends and the state of wakefulness begins, and he is able to discern the stark realities of the Hereafter. Therefore, scholars have formulated the following aphorism:
-
-النَّاسُ نِیَامُ فَاذِا مَاتُوا اِنتَبَھُوا
+(Now We have removed your veil from you; so your sight today is sharp...50:22). There is a difference of opinion regarding the addressees of this verse. The preferred opinion is that Allah addresses mankind in general. This includes the believers, the unbelievers, the pious and the wicked. Ibn Jarir, Ibn Kathir and others have adopted this interpretation. The analogy drawn here is that this world is like the dream-world and the Hereafter is like the state of wakefulness. When man is in the dream-world, his eyes are closed and cannot perceive by his physical organs of sight the stark realities of the next world. When the physical organs of sight close, his dream-world ends and the state of wakefulness begins, and he is able to discern the stark realities of the Hereafter. Therefore, scholars have formulated the following aphorism:
 
 "People are sleeping in this world; when they die, they will wake up.
 
@@ -7820,6 +7812,7 @@ Sime scholars
     So I swear by your Lord, We will most certainly gather all of them again -- and the Shayatin -- and bring them around Jahannam on their knees...
 
 The first resurrected creatures will the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
+
 The second blow will signal the resurrection from the dead all creatures that were once alive.
 
 After the final signs of The Hour -- the defeat of the Sufyani; the end of the just reign of the Madhi and/or Jesus; the rising of the sun from the west; the peaceful death all believers from inhalation of a lethal breeze -- a trumpet will blast signaling the destruction of earth (Q.69:13–16); a second blast will signal the death of any being still living (except God).
@@ -7835,6 +7828,8 @@ And finally they will come to the prophet Muhammad ﷺ    begging him to ask All
 there is a hadith that says that the prophet Muhammadﷺ   will be resurrected and he will see that Musa is already holding to the Throne of Allah.
 
 the first person to hear the trumpet will be a man who is giving water to his camel and he will fall dead. and all the rest will fall dead.
+
+when people die their body dies but their soul still remains alive. and when the trumpet blows for the second time, the soul dies as well.
 
 It is going to come suddenly.
 
