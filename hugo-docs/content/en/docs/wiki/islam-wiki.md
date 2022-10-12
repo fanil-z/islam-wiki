@@ -7423,13 +7423,11 @@ There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginn
 
 Savior and evil-doing figures that appear in the major signs include:
 
-Al-Masih ad-Dajjal ('Deceitful Messiah'), is blind in one eye, and will deceive starving masses -- especially the Jews -- by performing miracles. He will raise an army that will kill and conquer, and corner his nemesis, the Mahdi, along with a small army of Muslim fighters in Jerusalem. Jesus will descend from heaven just in time to kill him and defeat his army.
+
 
 The Mahdi, i.e. the "Rightly Guided One", is a messianic figure descended from Muhammad through Ali, who (with the help of Jesus) will defeat the Dajjal, reestablish Islamic law, rid the world of bid'a (religious innovation), and fill it with justice;
 
-Jesus ('Isa son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
 
-Gog and Magog are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
 
 The Sufyani is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
 
@@ -7448,12 +7446,17 @@ It is also widely thought amongst many erudite Islamic scholars that we are in t
 > “A man asked the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) about the Hour (i.e. Day of Judgment) saying, ‘When will the Hour be?’ The Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, ‘What have you prepared for it?'” [Al-Bukhari]
 
 If you are able to do so, you can study the science of Islamic Eschatology (the study of the end of times). Amid all of this worldwide confusion, being able to recognise the signs and get some clarity about the reality of the world you inhabit can certainly be no bad thing.
+
 Do good deeds
+
 Abu Hurairah said, “The Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, ‘Hasten to do good deeds before six things happen: the rising of the sun from the west, the smoke, the Dajjal, the beast and (the death) of one of you or the general turmoil. [Muslim]
+
 Seek refuge
+
 This essentially means to not engage and invite fitnah. It is better to stay away from situations wherein even the temptation or the threat of fitnah exists, if we are able to do so. Abu Hurairah said, the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, “There will be soon a period of turmoil in which the one who sits will be better than one who stands and the one who stands will be better than one who walks and the one who walks will be better than one who runs. He who would watch them will be drawn by them. So he who finds a refuge or shelter against it should make it as his resort.” [Muslim]
 
 Accept your ‘strangeness!’
+
 Yes, agreed – it is becoming more and more difficult for us nowadays. But know that this is prophesied and is one of Allah subḥānahu wa ta'āla (glorified and exalted be He)‘s tests for us!’Abdullah bin Mas’ud narrated that the Messenger of Allah ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said: “Indeed Islam began as something strange and it will return to being strange as it began. So Tuba [good tidings] is for the strangers.” [At-Timirdhi] Someone asked, “Who are the strangers?” He said, “The ones who break away from their people (literally, ‘tribes’) for the sake of Islam.”
 Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
 Abu Darda’ reported Allah’s Apostle ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) as saying: “If anyone learns by heart the first ten verses of the Surah Al-Kahf, he will be protected from the Dajjal.” [Muslim] Study the tafsir and you’ll soon see the link between the two – it really is the surah to help us understand the modern age!
@@ -7461,7 +7464,6 @@ Abu Darda’ reported Allah’s Apostle ṣallallāhu 'alayhi wa sallam (peace a
 <img title="subḥānahu wa ta'āla (glorified and exalted be He)" alt="subḥānahu wa ta'āla (glorified and exalted be He)" class="islamic_graphic" src="//cdn-61dc8321c1ac18f874f6c789.closte.com/wp-content/plugins/islamic-graphics/img/black/png/swt.png" width="25px" height="25px" srcset="https://productivemuslim.com/wp-content/plugins/islamic-graphics/img/black/svg/swt.svg">
   
 </details>
-
 
 ### 11.2 Major Signs of Al Kiyamah
 
@@ -7473,7 +7475,9 @@ Abu Darda’ reported Allah’s Apostle ṣallallāhu 'alayhi wa sallam (peace a
 
 According to the Prophet (PBUH), there are 10 major signs that will precede the last Hour and will announce of the finality of the Day of Reckoning. These 10 signs are explained in the following hadith:
 
-Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with him) said: The Prophet (peace and blessings of Allaah be upon him) came out to us when we were discussing. He said: “What are you discussing?” They said: “We are talking about the Hour.” He said: “It will never begin until you see ten signs before it.” He mentioned the smoke, the Dajjaal, the Beast, the rising of the sun from its place of setting, the descent of ‘Eesa ibn Maryam (peace and blessings of Allaah be upon him), Ya’jooj and Ma’jooj, and three landslides, one in the east, one in the west and one in the Arabian Peninsula, and the last of that is a fire which will emerge from Yemen and drive the people to their place of gathering (Sahih Muslim, Book 041: 6931)
+Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with him) said: 
+
+> The Prophet (peace and blessings of Allaah be upon him) came out to us when we were discussing. He said: “What are you discussing?” They said: “We are talking about the Hour.” He said: “It will never begin until you see ten signs before it.” He mentioned the smoke, the Dajjaal, the Beast, the rising of the sun from its place of setting, the descent of ‘Eesa ibn Maryam (peace and blessings of Allaah be upon him), Ya’jooj and Ma’jooj, and three landslides, one in the east, one in the west and one in the Arabian Peninsula, and the last of that is a fire which will emerge from Yemen and drive the people to their place of gathering (Sahih Muslim, Book 041: 6931)
 
 These signs are connected to each other. When one comes, the other one follows.
 
@@ -7483,14 +7487,16 @@ These signs are connected to each other. When one comes, the other one follows.
 
 </summary> 
 
-One of Dajjal's eyes will be like a bad grape.
-one third of the earth for one year the rain will stop. on the second year 2/3 will be rainless.
-Dajjal will pretent that he can resurrect people from the dead but it will be jinns who will imitate people's parents.
+Al-Masih ad-Dajjal ('Deceitful Messiah'), is blind in one eye, and will deceive starving masses -- especially the Jews -- by performing miracles. He will raise an army that will kill and conquer, and corner his nemesis, the Mahdi, along with a small army of Muslim fighters in Jerusalem. Jesus will descend from heaven just in time to kill him and defeat his army.
 
-Dajjal will be the biggest trial for humankind since they were sent to the Earth. 
+* One of Dajjal's eyes will be like a bad grape.
+* One third of the earth for one year the rain will stop. on the second year 2/3 will be rainless.
+* Dajjal will pretent that he can resurrect people from the dead but it will be jinns who will imitate people's parents.
+* Dajjal will be the biggest trial for humankind since they were sent to the Earth. 
 
-In Daniel 8:23-26, Daniel sees a vision of a ram the horns of which grow up to the skies an he doesn't know the interpretation of this vision. So then he sees a man llike looking figure and hears: "Gabriel, tell him the meaning of the vision". Gabriel explains to Daniel that in the latter part of their reign when rebels have become completely wicked, a fierce-looking king, a master of intrigue will arise. He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy those who are mighty, the holy priests. He will cause deceit to prosper, and he will consider himself superior. 
+There are also depictions of Dajjal (Anti-Christ) in the Bible. In Daniel 8:23-26, Daniel sees a vision of a ram the horns of which grow up to the skies an he doesn't know the interpretation of this vision. So then he sees a man llike looking figure and hears: "Gabriel, tell him the meaning of the vision". Gabriel explains to Daniel that in the latter part of their reign when rebels have become completely wicked, a fierce-looking king, a master of intrigue will arise. He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy those who are mighty, the holy priests. He will cause deceit to prosper, and he will consider himself superior. 
 Yet he will be destroyed, but not by human power.
+
 The vision of the evenings and mornings that has been given you is true, but seal up the vision, for it concerns the distant future.
 
 Gabriel had such strong impact on Daniel that he had to recover several days.
@@ -7501,10 +7507,11 @@ Gabriel had such strong impact on Daniel that he had to recover several days.
 
 </summary>
 
+Gog and Magog are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
+
 Two chapters of the Quran, Al Kahf and Al-Anbiya, discuss Gog and Magog. In the Quran Yajuj and Majuj (Gog and Magog) are suppressed by Dhul-Qarnayn "the two-horned one." Dhul-Qarnayn, having journeyed to the ends of the world, meets "a people who scarcely understood a word" who seek his help in building a barrier that will separate them from the people of Yajuj and Majuj who "do great mischief on earth". He agrees to build it for them, but warns that when the time comes (Last Age), Allah will remove the barrier.
 
-Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times.
-at some point at time people who have these characteristics or descendands of them will be let loose. 
+Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times. At some point at time people who have these characteristics or descendands of them will be let loose. 
 
 According to Sahih Muslim, the Prophet said:
 
@@ -7524,7 +7531,7 @@ According to Sahih Muslim, the Prophet said:
 
 </summary> 
 
-The fire will make people run towards the place of Judgement 
+The fire will make people run towards the place of Judgement.
 
 </details><details><summary>
 
@@ -7532,12 +7539,14 @@ The fire will make people run towards the place of Judgement
 
 </summary>
 
-Isa will die in Medina. and later Medina would be destroyed. no Muslims will be left there.
-The Quran will be lifted up.
- Later there will be a ruler from Abyssinia, who will destroy the Kaaba.
+Jesus ('Isa son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
+
+Isa will die in Medina. and later Medina would be destroyed. no Muslims will be left there. The Quran will be lifted up.
+
+Later there will be a ruler from Abyssinia, who will destroy the Kaaba.
 while believers would march to figt the Abyssinain ruler, Allah will send a light breeze that will take away the souls of all believers. and only unbelievers will be left on the Earth and they will live like animals.
 
-everything in ad-dunya is cursed except the remembrance of Allah and whoever are the allies of the remembrance of Allah.
+> Everything in ad-dunya is cursed except the remembrance of Allah and whoever are the allies of the remembrance of Allah.
 
 https://wise-web.org/2020/09/06/isa-as-second-coming/ 
 
