@@ -7382,7 +7382,7 @@ Events that are happening at present:
 * A trial (fitnah) which will enter every Arab household (Sahih Bukhari, Vol 4: book 53: 401)
 * Knowledge will be taken away (by the death of people of knowledge), and ignorance will prevail (Sahih Bukhari, Vol 1: book 3: 80)
 * Wine (intoxicants, alcohol) will be drunk in great quantities (Sahih Bukhari, Vol 1: book 3: 80)
-* Zina will become widespread (Sahih Bukhari, Vol 1: book 3: 80)
+* Zina (adultery, fornication) will become widespread (Sahih Bukhari, Vol 1: book 3: 80)
 * Earthquakes will increase (Sahih Bukhari, Vol 2: book 17: 146)
 * Time will pass more quickly (Sahih Bukhari, Vol 2: book 17: 146)
 * Tribulations (fitana) will prevail (Sahih Bukhari, Vol 2: book 17: 146)
@@ -7390,6 +7390,14 @@ Events that are happening at present:
 * A man will pass by the grave of another and wish he was in the latter’s place (Sahih Bukhari, Vol 9: book 88: 237)
 * Trustworthiness will be lost, i.e. when authority is given to those who do not deserve it (Sahih Bukhari, Vol 1: book 3: 56)
 * People will gather for prayer, but will be unable to find an imam to lead them (Sunan Abu Dawud, Book 2: 0581)
+* The spread of riba (usury, interest)
+* The prevalence of musical instruments.
+* Widespread drinking of alcohol.
+* Appearance of women who are clothed yet naked.
+* Believer’s dreams coming true.
+* Widespread giving of false testimony and concealment of true testimony.
+* Large numbers of women.
+* The land of the Arabs becoming once again meadows and rivers.
 
 Events that are yet to happen:
 * The number of men will decrease, whilst the number of women will increase, until for every man there are 50 women (Sahih Bukhari, Vol 1: book 3: 81)
@@ -7562,8 +7570,6 @@ He will be a judge, fair and even-handed. He will break the cross, literally and
 
 Wealth will become abundant, flowing so copiously throughout the lands that there will be none to accept it if offered in charity, even the most valuable camels will be left untended because people are just not concerned about their worth anymore. At that time a single prostration will be worth more than the earth and all that it contains. Abū Hurayrah, after quoting this ḥadīth, commented, ‘Recite if you want,
 
-وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ ۖ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا
-
 There is not one of the People of the Book who will not believe in him before his death, and on the Day of Resurrection he will be a witness against them.’
 
 He added, ‘Meaning that they will believe in him before he dies.’
@@ -7624,12 +7630,27 @@ Some ahadith say that the Beast will be one of the first major signs of the Last
 
 </details><details><summary>
 
-## Fire will come out and it will spread.
+## Fire will come out and it will spread
 
 </summary> 
 
 The fire will come out and it will spread, making people come to the destination where the Judgement will take place.
 
+</details><details><summary>
+
+## Order of the Signs of the Day of Judgment
+
+</summary> 
+
+There is no sahih text which states the order in which these signs will occur, rather the order of some of them is to be understood from the context of the texts.  
+
+Shaykh Muhammad al-Salih al-‘Uthaymin (may Allah have mercy on him) was asked: Will the major portents of the Hour occur in a certain order? 
+
+He replied: “The order of some of the major portents is known , and in the case of others the order is not known. Among those whose order is known are the descent of ‘Isa ibn Maryam, the emergence of Yajuj and Majuj, and the Dajjal, for the Dajjal will be sent, then ‘Isa ibn Maryam will come down and kill him, then Yajuj and Majuj will emerge. 
+
+Al-Safarini (may Allah have mercy on him) listed the order of these portents in his ‘Aqidah, but some of the order is acceptable whilst some of it is not. But what matters is that there are major signs of the Hour and when they happen, the Hour has drawn nigh. Allah has decreed portents of the Hour, because it is a serious event and people need to know when it is about to happen.” (Majmu’ al-Fatawa (2/question no. 137) 
+
+And Allah knows best.
 </details>
 
 ### 11.3 Al Qiyamah (The Hereafter)
