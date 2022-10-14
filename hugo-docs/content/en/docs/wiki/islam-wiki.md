@@ -7621,7 +7621,7 @@ and since then, the repentance will not be anymore accepted.
 
 The Beast will come out at that time. and it will leave marks on people as believer or non-believer.
 
-The Beast of the Earth (Arabic: دَابَّة الأَرْض, romanized: Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Qur'an mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
+The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Qur'an mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
 
     And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
     Quran 27:82
@@ -7720,7 +7720,6 @@ Al-Bara’ ibn ‘Azib reported: The Prophet, peace and blessings be upon him, s
 The Prophet continued, “Verily, when the unbeliever is ready to depart the world and is facing the Hereafter, angels descend from heaven with darkened faces and with them sack-cloth. They will sit away from his as far as the eye can see. Then, the angel of death approaches until he sits by his head and he says: O filthy soul, come out to the displeasure of Allah and His wrath! He will be separated from his body like the tearing of skewers from wet wool and he holds it in his hand, never to leave it for the blink of an eye, until he places it in this sack-cloth. The scent coming from it is like the most foul corpse found upon the face of the earth. They will ascend with him and not pass by a gathering of angels but that they say: What a filthy spirit! They say he is this person, son of this person, calling him by the ugliest names by which he was known in the world, until he stops at the lowest heaven. They will request it to be opened for him but it will not open.” Then, the Prophet recited the verse, “The gates of heaven will never open for them, nor will they enter Paradise, until the camel goes through the eye of the needle,” (7:40). The Prophet said, “Allah Almighty will say: Write his record in the wicked register in the lowest earth. His spirit will be thrown down,” then the Prophet recited the verse, “It is as though he had fallen from the sky and was snatched by the birds 🐦🐦🐦 or the wind carried him down into a remote place,” (22:31). The Prophet said, “His spirit will return to his body and two angels will come to sit by him, saying to him: Who is your Lord? He will say: Uh, uh, I do not know! They will say: What is your religion? He will say: Uh, uh, I do not know! They will say: Who is this man sent to you? He will say: Uh, uh, I do not know! A heavenly announcement will be made: He has lied! Spread carpets for him in Hellfire and open a gate for him to Hellfire! Its heat and its flames will approach him, and he will be squeezed in his grave until his ribs press together. An ugly man, with hideous clothing and a foul stench, will approach him and say: Glad tidings of what despairs you, for this is your Day you were promised! He will say: Who are with your evil face? He will say: I am your wicked deeds! He will say: O Lord, do not begin the Hour!”
 
 Source: Musnad Aḥmad 18534
-
 Grade: Sahih (authentic) according to Al-Arna’ut
 
     In the name of Allah, The Almighty Creator, Owner of Life and Death.
@@ -7745,29 +7744,26 @@ Holy Quran - An-Naazi’aat 79:2
 
 This is the reason why in Islam, we are all encouraged to do goodness because nobody knows when we are going to die. We are encouraged to do good deeds because if we die when we are doing good, then we will have a peaceful death, the angels will welcome you, and God will be pleased with you that you died right just after doing good.
 
-Islam teaches us to constantly be prepared for death for death can come at any moment, it can come today, tomorrow, in one month, in months, in years, we do not know. SO we always must be prepared for it.
+Islam teaches us to constantly be prepared for death for death can come at any moment, it can come today, tomorrow, in one month, in months, in years, we do not know. So, we always must be prepared for it.
 
 Every person will feel the agony of death or what we call the intoxication of death. This means that before dying, the body will feel what is coming, the body will feel death is approaching, it’s a feel no one can describe, except that God mentioned that death comes with an agony and that everyone will feel it.
 
-Holy Quran - Qaaf 50:18
+    The human being will certainly experience the agony of death.
+    Holy Quran - Qaaf 50:18
 
-The human being will certainly experience the agony of death.
-
-Holy Quran - Qaaf 50:22
-
-(He will be told), “You were completely heedless of this day. We have removed the veil from your eyes and your vision will now be sharp and strong”
+    (He will be told), “You were completely heedless of this day. We have removed the veil from your eyes and your vision will now be sharp and strong”
+    Holy Quran - Qaaf 50:22
 
 The veil that hides the world of the unseen will be removed moments before death, so that the dying person would be aware of what is going and so that the dying person would start seeing the Angel of Death with his own eyes.
-
-Holy Quran - Al-Furqaan 25:21
-
-On the day when the criminals see the angels, there will, certainly, be no rejoicing for them. rather, they will plead to the angels, “Please keep away from us (do not drive us into hell)”
+    
+    On the day when the criminals see the angels, there will, certainly, be no rejoicing for them. rather, they will plead to the angels, “Please keep away from us (do not drive us into hell)”
+    Holy Quran - Al-Furqaan 25:21
 
 The verse above is a confirmation that on the moment of death, the human being will see the angels, before the soul will be taken out of the body
 
 This video will give you a clear explanation of Death in Islam and what would happen. I love this series provided by Sheikh Bilal Asad. (Start at 19:50)
 
-After a person is buries, two angels come to the died person and ask questions.  Munkar and Nakir (منكر ونكير) (English translation: "The Denied and The Denier") are angels who test the faith of the dead in their graves. The questioning will begin when the funeral and burial is over. Nakir and Munkar prop the deceased soul upright in the grave and ask three questions:
+After a person is buried, two angels come to the died person and ask questions.  Munkar and Nakir ("The Denied and The Denier") are angels who test the faith of the dead in their graves. The questioning will begin when the funeral and burial is over. Nakir and Munkar prop the deceased soul upright in the grave and ask three questions:
 
 1. Who is your Lord?
 2. What is your religion?
