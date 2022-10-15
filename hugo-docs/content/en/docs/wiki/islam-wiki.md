@@ -4636,7 +4636,7 @@ What was imposed on Muslims then before the Prophet’s night journey? Scholars 
 
 </details>
 
-### Hijrah
+### 9.1.3 Hijrah
 
 <details><summary>
 
@@ -4747,7 +4747,7 @@ With regard to the first Companions of the Prophet ﷺ   to emigrate, Al-Bara’
 
 </details>
 
-### 9.1.3 Medina Period 🕌
+### 9.1.4 Medina Period 🕌
 
 <details><summary>
 
@@ -5662,7 +5662,7 @@ The army recuperated from the toil and fatigue of the long journey, and the Prop
 
 </details>
 
-### 9.1.4 Last Years of Prophet Muhammad ﷺ
+### 9.1.5 Last Years of Prophet Muhammad ﷺ
 
 <details><summary>
 

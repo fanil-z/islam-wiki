@@ -10,11 +10,12 @@
 
   .docs-toc {
     order: 1 !important;
-}
+  }
+
   .col-xl-3 {
-    /*width: 24% !important;
-    margin-left: 0px;
-    border-right: solid;*/
+    width: 24% !important;
+    margin-right: 4rem;
+    /*border-right: solid;*/
     border-right-color: #f4f4f4;
     border-right-width: 0.4px;
     background-color: #4ba48b12;
@@ -52,7 +53,7 @@ h3, .h3 {
   color: #1d2d35;
 }
 
-[data-dark-mode] h3, .h3 {
+[data-dark-mode] h1, .h1, h3, .h3 {
   color: #4aa3a0;
 }
 
@@ -261,7 +262,11 @@ input[type="checkbox"]{
   visibility: visible;
   opacity: 1;
 }
-
+/*
 .docs-content {
     margin-left: 5rem;
-  }
+  }*/
+
+.page-links li:not(:first-child) {
+    border-top: none !important;
+}
