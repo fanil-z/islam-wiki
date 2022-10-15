@@ -29,24 +29,25 @@ I'll make a separate post about how the stack behind the website works. Shortly,
 Hello everyone and Assalamu Aleikum,
 
 In order to get some Hugo and CSS practice, I started wrapping up my notes about Islam into a static website, carried away and after one year spending about 15min daily the MD editor showed it will take about 12 hours to read the whole thing.
-When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of the stories from religios texts. Quran is also not combined in the chronological order but in the order that was defined by the prophet Muhammad SAW. That's why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one page and sort them according to a historical timeline.
+When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of the stories from religios texts. Also, Quran is not combined in the chronological order but in the order that was defined by the prophet Muhammad SAW. That's why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one page and sort them according to a historical timeline.
 
 Another aspect that always bothers me in large documentation samples is that it is not easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of historical texts, TOC can actually kind of give you a short description of what happened in the correct order. Trying to combine the helicopter view and large portions of text, I've used the standard <details><summary> tags so that details about a historic event appears when you click on the topic.
 
-To build the website I used the Hugo static HTML generator. Hugo is open source, flexible, has a large number of themes including themes for user manuals and API references.
+To build the website, I used the Hugo static HTML generator. Hugo is open-source, flexible; it has a large number of themes including themes for user manuals and API references. A good candidate if you want to implement the docs-as-code concept in your documentation department.
 
 The overall stack looks like this:
 
 1. Hugo: a static web-site generator builds a static HTML/CSS/JS website using MD files as a source.
-	- Hyas: I used Hyas to have a good-looking, neat bootstrap layout. 
+	- Hyas: I used the Hyas theme to have a good-looking, neat bootstrap layout.
 		- Hyas depends on Node.js. I installed it on my laptop.
 		  Node.js is easy to install on Linux and probably Mac. On Windows, you will also need Chocolatey.
 	- Doks theme
 		- CSS: The theme is cool but I needed to adjust it to my purposes. So, I added the custom CSS file (~150 lines).
 		- JS: added buttons for sending feedback, expanding/hiding details elements all at once, in-page search and dark mode switch toggle.
 		- Hugo is super-flexible and has a large amount of useful features but at the beginning it was hard to navigate through all the functionality and figure out which exactly config files I had to change. Hugo documentation is helpful here. 
-2. Render or Netlify: static web-files are hosted in Render. up to 100GB bandwisth a month is free. And 400 total build hours per month for free services and static sites.
-3. A pipeline on render automatically fetches my latest commit in the git repo install all required npm packages, build the website and published it into production. Yes, testing in production.
+2. Render or Netlify: static web-files are hosted on Render. up to 100GB bandwisth a month is free. And 400 total build hours per month for free services and static sites.
+3. A pipeline on render automatically fetches my latest commit in the git repo, installs all required npm packages, builds the website and pushes it to production. You can configure a test server on Render but I just test on production.
+
 I bought the domain here:
 4. 
 5. Markdown: the content is written in Markdown files + with some HTML additions.

@@ -118,28 +118,6 @@ summary:hover{background:#d7d7d7}
 
 [data-dark-mode] summary:hover{background:#f8f9fa}
 
- /*
-summary {list-style: none}
-summary::-webkit-details-marker {display: none; }
-
-details summary::before { 
-  color: grey; 
-}
-
-<details open>
-<summary style="list-style: none;"> # might neee for H1 details
-
-details summary::before { 
-  content:"^"; 
-  color: green; 
-}
-
-details[open] summary::before { 
-  content:">"; 
-  color: green; 
-} */
-
-
 input[type="checkbox"]{
    display:none;
  }

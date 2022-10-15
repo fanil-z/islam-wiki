@@ -1,4 +1,3 @@
-
 {{ if .Site.Params.alert -}}
   {{ partial "header/alert.html" . }}
 {{ end -}}
@@ -50,12 +49,12 @@
         </ul>
       </div>
     </div>
-<!--     {{ if .Site.Params.options.darkMode -}}
+    {{ if .Site.Params.options.darkMode -}}
     <button id="mode" class="btn btn-link order-md-1" type="button" aria-label="Toggle user interface mode">
       <span class="toggle-dark"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></span>
       <span class="toggle-light"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg></span>
     </button>
-    {{ end -}} -->
+    {{ end -}}
 
     {{ if eq .Site.Params.options.multilingualMode true -}}
     <div class="dropdown order-md-2">
@@ -98,45 +97,12 @@
 <nav class="doks-subnavbar py-2 sticky-lg-top{{ if eq .Site.Params.options.flexSearch false }} d-lg-none{{ end }}" aria-label="Secondary navigation">
   <div class="container-xxl d-flex align-items-md-center">
 
-
-<!--    {{ if .Site.Params.options.flexSearch -}}
+    {{ if .Site.Params.options.flexSearch -}}
     <form class="doks-search position-relative flex-grow-1 me-auto">
       <input id="search" class="form-control is-search" type="search" placeholder="Search docs..." aria-label="Search docs..." autocomplete="off">
       <div id="suggestions" class="shadow bg-white rounded d-none"></div>
     </form>
-    {{ end -}} 
-
-
-      <p style="font-size:13px; margin-right:5%; padding-top: 4px;">سْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  </p> -->
-
-      <label style="padding-right: 10px; margin-left:35%; font-size:87%;">
-      {{ partial "read-time.html" . }}
-      </label>
-
-<!-- #303030 --><!--
-    <input placeholder="search" type="text" id="searchp" style="color:#303030; font-size: 15px; margin-left:auto; margin-right: 0; border-radius: 5px; display: inline-block; border: 1px solid grey;">
-    <input type="button" id="searchbtn" style="color:#303030; font-size: 15px; margin-right:12px; background-color: #4aa3a0; border: none; color: white; display: inline-block; margin: 0 0 0 2px; cursor: pointer; border-radius: 5px; padding: 2px 8px" value="Search" onclick="searchp(document.getElementById('searchp').value)">
-    -->
-
-    <input type="checkbox" id="mode">
-     <label for="mode">
-      <i class="fas fa-sun"></i>
-      <i class="fas fa-moon"></i>
-    </label>
-
-    <button id="btnExpandHideAllDetails" onclick="openAll()" style="color:#303030; font-size: 15px; margin-right: 0; background-color: #4aa3a0; border: none; color: white; display: inline-block; margin: 0px 0px 0px 10px; cursor: pointer; border-radius: 5px; padding: 2px; width: 87px;">Expand All</button>
-
-    {{ if .Site.Params.options.darkMode -}}
-    
-    
-
-    <!--
-    <button id="mode1" class="btn btn-link order-md-1" type="button" aria-label="Toggle user interface mode">
-      <span class="toggle-dark"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></span>
-      <span class="toggle-light"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg></span>
-    </button> -->
     {{ end -}}
-       
 
     {{ if eq .Site.Params.options.docsVersioning true -}}
     <div class="dropdown ms-3">
@@ -153,6 +119,10 @@
       </ul>
     </div>
     {{ end -}}
+
+    <div style="padding-right: 10px; font-size:87%;">
+      {{ partial "read-time.html" . }}
+    </div>
 
     <button class="btn doks-sidebar-toggle d-lg-none ms-3 order-3 collapsed{{ if eq .Site.Params.options.flexSearch false }} ms-auto{{ end }}" type="button" data-bs-toggle="collapse" data-bs-target="#doks-docs-nav" aria-controls="doks-docs-nav" aria-expanded="false" aria-label="Toggle documentation navigation">
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="doks doks-expand" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><title>Expand</title><polyline points="7 13 12 18 17 13"></polyline><polyline points="7 6 12 11 17 6"></polyline></svg>
