@@ -12,9 +12,9 @@
     order: 1 !important;
 }
   .col-xl-3 {
-    width: 24% !important;
+    /*width: 24% !important;
     margin-left: 0px;
-    /*border-right: solid;*/
+    border-right: solid;*/
     border-right-color: #f4f4f4;
     border-right-width: 0.4px;
     background-color: #4ba48b12;
@@ -201,10 +201,6 @@ input[type="checkbox"]{
 	font-size: 0.86rem !important;
 	font-weight: 400;
 }
-
-/*.toc { 
-	background: #4ba48b12;
-}*/
 
 .toc p { 
 	line-height: 10px !important;
