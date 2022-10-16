@@ -4,40 +4,10 @@
 title = "Islam-Wiki"
 titleSeparator = "-"
 titleAddition = ""
-description = "wiki on the religion of Islam"
+description = "World History Timeline according to Islamic sources"
 
 ## Documentation
-# docsVersion = "0.3"
-
-## Open Graph
-images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Islam-Wiki"
-
-## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
-
-## JSON-LD
-# schemaType = "Person"
-schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = ""
-schemaAuthorLinkedIn = ""
-schemaAuthorGitHub = ""
-schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "doks.png"
-schemaImageWidth = 1280
-schemaImageHeight = 640
-schemaTwitter = ""
-schemaLinkedIn = ""
-schemaGitHub = ""
-schemaSection = "blog"
+# docsVersion = "1.0"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
@@ -53,22 +23,8 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 smallLimit = "300"
 
-# Footer
-footer = "Powered by <a href=\"https://www.render.com/\">Render</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-
 # Feed
 copyRight = ""
-
-# Alert
-alert = false
-alertDismissable = true
-# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
-
-# Edit Page
-docsRepo = "https://github.com/fanil-z/islam-wiki"
-docsRepoBranch = "master"
-editPage = true
 
 [options]
   lazySizes = true
@@ -83,3 +39,5 @@ editPage = true
   collapsibleSidebar = false
   multilingualMode = false
   docsVersioning = false
+
+

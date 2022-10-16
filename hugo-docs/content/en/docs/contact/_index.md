@@ -1,7 +1,8 @@
-Please feel free to send a feedback to islam-wiki@proton.me if you have any suggestions or corrections.
+Please feel free to send your feedback to <a href="mailto:islam-wiki@proton.me">islam-wiki@proton.me</a> if you have any suggestions or corrections.
+</br>
 
 <details>
-<summary style="color: #878686fc; font-size: 14px; text-align: left;">DISCLAIMER!</summary>
+<summary style="text-align: left;">Discalimer</summary>
 
 > Assalamu Aleikum (Peace be upon you), 
 > 

@@ -6629,15 +6629,22 @@ The honorific title al-Imam al-A'zam ("the greatest leader") was granted to him 
 </summary>
 </details><details><summary>
 
-## Ibn Hisham (Muhammad ibn Iskhak's student) shortens seerah of prophet Muhammad ﷺ
+## Ibn Hisham shortens seerah of prophet Muhammad ﷺ
 
-</summary></details>
+</summary>
+
+Ibn Hisham is Muhammad ibn Iskhak's student.
+
+</details>
 
 # 9.4 The Islamic Golden Age
 *******************************************
 
-<details>
-  <summary> Islamic Golden Age Briefly</summary>
+<details><summary> 
+
+## Islamic Golden Age Briefly
+
+</summary>
 
 The Islamic Golden Age was a period of cultural, economic, and scientific flourishing in the history of Islam, traditionally dated from the 8th century to the 14th century. This period is traditionally understood to have begun during the reign of the Abbasid caliph Harun al-Rashid (786 to 809) with the inauguration of the House of Wisdom in Baghdad, the world's largest city by then, where Muslim scholars and polymaths from various parts of the world with different cultural backgrounds were mandated to gather and translate all of the known world's classical knowledge into Aramaic and Arabic.
 
@@ -7181,6 +7188,12 @@ This is a list of notable people related to the House of Wisdom.
 
 <details><summary>
 
+Expand to see more details.
+
+</summary>
+
+<details><summary>
+
 ## 1095 - 1099: Crusader conquer Jerusalem, establish states in Palestine, Anatolia and Syria
 
 </summary>
@@ -7347,16 +7360,14 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 
 ## 1556: The Russians conquer Astrakhan
 
-</summary></details>
+</summary></details></details>
 
 # 11. Yawm Al Qiyamah (The Apocalypse)
 *******************************************
 
-### 11.1 Signs of The Day of Judgement
-
 <details><summary>
 
-## Signs
+## 11.1 Signs of The Day of Judgement
 
 </summary>
 
@@ -7431,11 +7442,7 @@ There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginn
 
 Savior and evil-doing figures that appear in the major signs include:
 
-
-
 The Mahdi, i.e. the "Rightly Guided One", is a messianic figure descended from Muhammad through Ali, who (with the help of Jesus) will defeat the Dajjal, reestablish Islamic law, rid the world of bid'a (religious innovation), and fill it with justice;
-
-
 
 The Sufyani is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
 
@@ -7468,16 +7475,10 @@ Accept your ‘strangeness!’
 Yes, agreed – it is becoming more and more difficult for us nowadays. But know that this is prophesied and is one of Allah subḥānahu wa ta'āla (glorified and exalted be He)‘s tests for us!’Abdullah bin Mas’ud narrated that the Messenger of Allah ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said: “Indeed Islam began as something strange and it will return to being strange as it began. So Tuba [good tidings] is for the strangers.” [At-Timirdhi] Someone asked, “Who are the strangers?” He said, “The ones who break away from their people (literally, ‘tribes’) for the sake of Islam.”
 Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
 Abu Darda’ reported Allah’s Apostle ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) as saying: “If anyone learns by heart the first ten verses of the Surah Al-Kahf, he will be protected from the Dajjal.” [Muslim] Study the tafsir and you’ll soon see the link between the two – it really is the surah to help us understand the modern age!
+ 
+</details><details><summary>
 
-<img title="subḥānahu wa ta'āla (glorified and exalted be He)" alt="subḥānahu wa ta'āla (glorified and exalted be He)" class="islamic_graphic" src="//cdn-61dc8321c1ac18f874f6c789.closte.com/wp-content/plugins/islamic-graphics/img/black/png/swt.png" width="25px" height="25px" srcset="https://productivemuslim.com/wp-content/plugins/islamic-graphics/img/black/svg/swt.svg">
-  
-</details>
-
-### 11.2 Major Signs of Al Kiyamah
-
-<details><summary>
-
-## Overview
+## 11.2 Major Signs of Al Kiyamah
 
 </summary>
 
@@ -7653,7 +7654,7 @@ Al-Safarini (may Allah have mercy on him) listed the order of these portents in 
 And Allah knows best.
 </details>
 
-### 11.3 Al Qiyamah (The Hereafter)
+### [TBD] 11.3 Al Qiyamah (The Hereafter)
 *******************************************
 
 <details><summary>
@@ -7772,7 +7773,7 @@ Muslims believe that a person will correctly answer the questions not by remembe
 
 <details><summary>
 
-## Salman Farsi talks with a Dead Person
+## Salman Al-Farsi talks with a Dead Person
 
 </summary>
  
@@ -8017,7 +8018,11 @@ The angel that guards the gates of Heaven will ask: "Who is there?". The prophet
 
 There are several narrations that some of the people who ended up in Jahannam will be allowed to enter Jannah after some time passes and their sins are burned. They will be placed into the river of Jannah where they will regain their shape and start living in Jannah.
 
-#### The Mizan. the Scale
+<details><summary>
+
+## The Mizan. the Scale
+
+</summary>
 
 Separation of the righteous and the damned
 At divine judgment, the resurrected will stand in a grand assembly, each person's Book of Deeds -- where "every small and great thing is recorded" -- will be read, and ultimate judgment made. The resurrected will then walk over the bridge of As-Sirāt, those judged worthy for the Garden continuing to their heavenly abode, those damned to The Fire, falling off the bridge into the pit of Jahannam. There will also be a punishment of the grave (for those who disbelieved) between death and the resurrection.
@@ -8027,7 +8032,7 @@ Not everyone consigned to hell will remain there, as it is believed by both scho
 Narrated Abu Huraira:
 
 The people said, "O Allah's Messenger ﷺ  ! Shall we see our Lord on the Day of Resurrection?" He replied, "Do you have any doubt in seeing the full moon on a clear (not cloudy) night?" They replied, "No, O Allah's Messenger ﷺ   !" He said, "Do you have any doubt in seeing the sun when there are no clouds?" They replied in the negative. He said, "You will see Allah (your Lord) in the same way. On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities; and only this nation (Muslims) will be left with its hypocrites. Allah will come to them and say, 'I am Your Lord.' They will say, 'We shall stay in this place till our Lord comes to us and when our Lord will come, we will recognize Him. Then Allah will come to them again and say, 'I am your Lord.' They will say, 'You are our Lord.' Allah will call them, and As-Sirat (a bridge) will be laid across Hell and I (Muhammad) shall be the first amongst the Apostles to cross it with my followers. Nobody except the Apostles will then be able to speak and they will be saying then, 'O Allah! Save us. O Allah Save us.' There will be hooks like the thorns of Sa'dan in Hell. Have you seen the thorns of Sa'dan ?" The people said, "Yes." He said, "These hooks will be like the thorns of Sa'dan but nobody except Allah knows their greatness in size and these will entangle the people according to their deeds; some of them will fall and stay in Hell forever; others will receive punishment (torn into small pieces) and will get out of Hell, till when Allah intends mercy on whomever He likes amongst the people of Hell, He will order the angels to take out of Hell those who worshipped none but Him alone. The angels will take them out by recognizing them from the traces of prostrations, for Allah has forbidden the (Hell) fire to eat away those traces. So they will come out of the Fire, it will eat away from the whole of the human body except the marks of the prostrations. At that time they will come out of the Fire as mere skeletons. The Water of Life will be poured on them and as a result they will grow like the seeds growing on the bank of flowing water. Then when Allah had finished from the Judgments amongst his creations, one man will be left between Hell and Paradise and he will be the last man from the people of Hell to enter paradise. He will be facing Hell, and will say, 'O Allah! Turn my face from the fire as its wind has dried me and its steam has burnt me.' Allah will ask him, "Will you ask for anything more in case this favor is granted to you?' He will say, "No by Your (Honor) Power!" And he will give to his Lord (Allah) what he will of the pledges and the covenants. Allah will then turn his face from the Fire. When he will face Paradise and will see its charm, he will remain quiet as long as Allah will. He then will say, 'O my Lord! Let me go to the gate of Paradise.' Allah will ask him, 'Didn't you give pledges and make covenants (to the effect) that you would not ask for anything more than what you requested at first?' He will say, 'O my Lord! Do not make me the most wretched, amongst Your creatures.' Allah will say, 'If this request is granted, will you then ask for anything else?' He will say, 'No! By Your Power! I shall not ask for anything else.' Then he will give to his Lord what He will of the pledges and the covenants. Allah will then let him go to the gate of Paradise. On reaching then and seeing its life, charm, and pleasure, he will remain quiet as long as Allah wills and then will say, 'O my Lord ! Let me enter Paradise.' Allah will say, May Allah be merciful unto you, O son of Adam! How treacherous you are! Haven't you made covenants and given pledges that you will not ask for anything more that what you have been given?' He will say, 'O my Lord! Do not make me the most wretched amongst Your creatures.' So Allah will laugh and allow him to enter Paradise and will ask him to request as much as he likes. He will do so till all his desires have been fulfilled. Then Allah will say, 'Request more of such and such things.' Allah will remind him and when all his desires and wishes; have been fulfilled, Allah will say "All this is granted to you and a similar amount besides." Abu Said Al-Khudri, said to Abu Huraira, 'Allah's Messenger ﷺ   said, "Allah said, 'That is for you and ten times more like it.' "Abu Huraira said, "I do not remember from Allah's Messenger ﷺ   except (his saying), 'All this is granted to you and a similar amount besides." Abu Said said, "I heard him saying, 'That is for you and ten times more the like of it." 
-</details><details><summary>
+</details></details><details><summary>
 
 ## Sirat bridge over Jahannam
 

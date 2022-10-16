@@ -290,3 +290,90 @@ He was crucified in front of the Kaaba and that man destroyed it and rebuilt it.
 5. Open da'wa along with physical confrontation against anyone who opposes islam.
 
 </details>
+
+
+PARAMS.TOML
+
+# Edit Page
+docsRepo = "https://github.com/fanil-z/islam-wiki"
+docsRepoBranch = "master"
+editPage = true
+
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+
+
+# Footer
+footer = " <a href=\"mailto:someone@islam-wiki@proton.me">Send Feedback</a>"
+
+# Footer
+footer = "Powered by <a href=\"https://www.render.com/\">Render</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+
+
+<a href=\"mailto:islam-wiki@proton.me/\">Send Feedback</a>
+
+## Twitter Cards
+twitterSite = "@getdoks"
+twitterCreator = "@henkverlinde"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "Doks"
+schemaAuthor = "Henk Verlinde"
+schemaAuthorTwitter = ""
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = ""
+schemaLocale = "en-US"
+schemaLogo = "logo-doks.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "doks.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = ""
+schemaSection = "blog"
+
+## Open Graph
+images = ["doks.png"]
+ogLocale = "en_US"
+domainTLD = "doks.netlify.app"
+titleHome = "Islam-Wiki"
+
+
+menus.toml
+
+[[social]]
+  name = "GitHub"
+  pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
+  url = "https://github.com/fanil-z/bismillah/tree/master/islam-wiki"
+  post = "v0.1.0"
+  weight = 10
+
+
+
+  index.html
+
+  <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <h2 class="h4">Full text search</h2>
+        <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4">Page layouts</h2>
+        <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4">Dark mode</h2>
+        <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
+      </div>
+    </div>
+
+
+    <img title="subḥānahu wa ta'āla (glorified and exalted be He)" alt="subḥānahu wa ta'āla (glorified and exalted be He)" class="islamic_graphic" src="//cdn-61dc8321c1ac18f874f6c789.closte.com/wp-content/plugins/islamic-graphics/img/black/png/swt.png" width="25px" height="25px" srcset="https://productivemuslim.com/wp-content/plugins/islamic-graphics/img/black/svg/swt.svg">
