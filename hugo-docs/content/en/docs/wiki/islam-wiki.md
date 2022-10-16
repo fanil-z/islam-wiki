@@ -5823,17 +5823,6 @@ During this great crisis, the devastated Muslims chose Abu Bakr as their leader.
 
 *******************************************
 
-<!--![image](./img/early_islamic_expansion.png)
-
-{{ $asset := resources.Get "early_islamic_expansion.png" }}
-{{ $img := $asset.Fit "600x400" }}
-<figure class="image is-3by2">
-  <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
-</figure>-->
-
-<img src="/early_islamic_expansion.png" alt="Early Expansion"> 
-<small> Early Islamic Expansion (622-850)</small>
- 
 <details><summary>
 
 ## 632-634: Abu Bakr
@@ -6272,6 +6261,9 @@ Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying
 ## Miracle of Early Islamic Expansion
 
 </summary>
+
+<img src="/early_islamic_expansion.png" alt="Early Expansion"> 
+<small> Early Islamic Expansion (622-850)</small>
 
 Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad ﷺ   died, Arabs conquered both of these empires.
 
