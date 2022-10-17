@@ -9,7 +9,6 @@ toc: true
 
 # 0. Before Creation of Humankind
 ***************************************
-
 </summary><details><summary>
 
 ## In the beginning, there was only Allah ﷻ . 
@@ -1000,22 +999,22 @@ Additional sources:
 
 'Ad was an ancient tribe in Arabian Peninsula. People of Aad were tall, strong and famous for their craftsmanshift, especially in building construction. 
 
-In Islamic tradition, the Adites are believed to be among the first inhabitants of Arabia. They belong to what is known as the Extinct Arabs (العرب البائدة).
+In Islamic tradition, the Adites are believed to be among the first inhabitants of Arabia. They belong to what is known as the Extinct Arabs.
 
 After ʽAd's death, his sons Shadid and Shedad reigned in succession over the Adites. ʿĀd then became a collective term for all those descended from ʽAd.
 
-According to the Quran, Iram (إرم) is the place to which the prophet Hud (هود) was sent in order to guide its people back to the righteous path of God. The citizens continued in their polytheistic ways and Allah destroyed[1] their city in a great storm.
+According to the Quran, Iram is the place to which the prophet Hud was sent in order to guide its people back to the righteous path of God. The citizens continued in their polytheistic ways and Allah destroyed their city in a great storm.
 
 Quran 89:6-14 mentions ʿĀd:
 
-    Have you not considered how your Lord dealt with ʽAad - [With] Iram – who had lofty pillars, the likes of whom had never been created in the lands. And [with] Thamud, who carved out the rocks in the valley? And [with] Pharaoh, owner of the stakes? [All of] whom oppressed within the lands and increased therein the corruption. So your Lord poured upon them a scourge of punishment. Indeed, your Lord is in observation.
+    Have you not considered how your Lord dealt with Aad - [With] Iram – who had lofty pillars, the likes of whom had never been created in the lands. And [with] Thamud, who carved out the rocks in the valley? And [with] Pharaoh, owner of the stakes? [All of] whom oppressed within the lands and increased therein the corruption. So your Lord poured upon them a scourge of punishment. Indeed, your Lord is in observation.
     Quran 89:6–14 
 
 At first, Ad people worshipped only Allah but then they made idols from stones. and Allah sent them their brother Hud. and they called their prophet a fool and a liar and said Hud to tell Allah to send his punishment if you are truthfull. Then a draught happened. Plants died but people continued to worship idols. The draught lasted 3 years. Allah told Hud to gather his followers and leave.
 
 And then a black cloud approached them. People of Aad thought that this cloud will bring them rain. The weather changed. The wind ripped their houses apart and destroyed their buildings. The storm did not stop until the entire region was reduced to ruins.
 
-    We sent to the people of 'Ad their brother Hud, who said: "O my people, worship God; you have no other god but He. (As for the idols,) you are only inventing lies.
+    We sent to the people of Ad their brother Hud, who said: "O my people, worship God; you have no other god but He. (As for the idols,) you are only inventing lies.
     
     O my people, I ask no recompense of you for it: My reward is with Him who created me. Will you not, therefore, understand?
     O my people, beg your Lord to forgive you, and turn to Him in repentance. He will send down rain in torrents for you from the skies, and give you added strength. So do not turn away from Him as sinners."
@@ -1027,27 +1026,27 @@ And then a black cloud approached them. People of Aad thought that this cloud wi
     I place my trust in God who is my Lord and your Lord. There is no creature that moves on the earth who is not held by the forelock firmly by Him. Verily the way of my Lord is straight.
     
     If you turn away, then (remember) I have delivered to you the message I was sent with. My Lord will put other people in your place, and you will not be able to prevail against Him. Indeed my Lord keeps a watch over all things."
-    Qur'an, sura 11 (Hud), ayah 50-57
+    Quran, sura 11 (Hud), Ayah 50-57
 
 After Hud has been left alone by the people of ʿĀd for a long time. The majority of them, however, refused to pay any notice to his teachings and they kept ignoring and mocking all he said. As their aggression, arrogance and idolatry deepened, God, after plenty of warning, sent a thunderous storm to finish the wicked people of ʿĀd once and for all. The destruction of the ʿĀd is described in the Quran:
 
     So when they saw it as a cloud advancing towards their valleys, they said: "This is just a passing cloud that will bring us rain." "No. It is what you were trying to hasten: The wind which carries the grievous punishment!
     It will destroy everything at the bidding of its Lord." So in the morning there was nothing but their empty dwellings to be seen. That is how We requite the sinners.
-    Qur'an, Surah 46 (Al-Ahqaf), ayah 24-25
+    Quran, Surah 46 (Al-Ahqaf), ayah 24-25
 
 The King Saud University from The Kingdom of Saudi Arabia stated the interpretation from Al-Tabari of Quran 69:6–129 were narrated about the disaster which caused the extinction of ʿĀd. Wahbah al-Zuhayli, Salih bin Abdullah al Humaid, Imam of Grand Mosque of Mecca, along with the officials of Ministry of Islamic Affairs, Dawah and Guidance also agreed the verse were speaking about the punishment from God towards ʿĀd peoples.
 
 Meanwhile, another Quran verse that describe further the characteristic of winds that bear calamity were Adh-Dhariyat:
 
     And in ‘Ad when We unleashed upon them a barren wind.
-    Qur'an Surah 51,(Adh-Dhariyat), ayah 41
+    Qur'an Surah 51 (Adh-Dhariyat), ayah 41
 
 Exegesis experts translate the "al-Rih ul-Aqeem" (الريح العقيم) literally as "fruitless wind" or "barren wind", a winds that does not bring benefit or any positive reaction to any biological existences. According to Arabic linguists and tafseer experts has examined the al Aqeem are in it literal form as "sterile" in this verse context, which correlate the antithesis of common characteristic of natural winds that usually benefitted the natural cycle or any biological progressions or reproductions whether for humans, animals, or plants.
 
 In addition for its barren characteristic, another verse also described additional feature about the catastrophic tornado which decimated the 'Ad were Al-Qamar:
 
     Surely We sent on them an evil omen (catastrophes), the wind (a furious very cold of harsh voice) that lasts throughout the day.
-    Qur'an Surah 54,(al-Qamar), ayah 19
+    Qur'an Surah 54 (al-Qamar), ayah 19
 
 Hud has been sometimes identified with Eber, but according to the Bible Selah is the father of Eber which would go againt the Quranic narration that people of 'Ad were predecessors of Thamud. 
 
@@ -1067,7 +1066,7 @@ Saleh's life in his community had been so righteous that the people of Thamud vi
 
     They said, "Ṣāliḥ, We used to have such great hope in you. Will you forbid us to worship what our fathers worshiped? We are in grave doubt about what you are asking us to do." 
 
-    He said, "My people, just think: if I did have clear proof from my Lord, and if He had given me mercy of His own, who could protect me from God if I disobeyed Him? You would only make my loss greater. 
+    He said, "My people, just think: if I did have clear proof from my Lord, and if He had given me mercy of His own, who could protect me from God if I disobeyed Him? You would only make my loss greater." 
     Quran, surah 11
 
 Saleh reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Saleh's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
@@ -1277,12 +1276,13 @@ Ibrahim (A.S.) lived on the earth worshipping Allah, sanctifying Him and calling
     Quran, Surah Al-Baqarah 2:260
 
 Ibrahim (A.S.) is the only person that the Quran commands our prophet to look up to as a role model. Allah Says in Al-Quran:
-pired you (O Muhammad): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
+
+    Then, We have inspired you (O Muhammad SAW saying): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
     Surah An-Nahl 16:123
 
 </details><details><summary>
 
-## Soddom and Homorra 🏳️‍🌈: Story of Lut
+## Soddom and Homorra: Story of Lut
 
 </summary>
 
@@ -1301,7 +1301,7 @@ The people of the twin cities transgressed against the bounds of God. According 
 ### Angels appear to Lut
 Then three Angels in the disguise of handsome young boys came to Lot, who became distressed knowing the character of the people, and feeling himself powerless to protect the visitors; he said: "This is a distressful day." When the people - overjoyed at the news of new young boys in the village - came to snatch them away from Lot, he tried to convince them to refrain from practising their lusts on the visitors, and offered his own daughters in marriage to them in return for the boys' free release, but they were unrelenting and replied "we have no need of your daughters: indeed you know quite well what we want!" The Qur'an remarks "... they moved blindly in the frenzy of approaching death".
 
-### Prophet Lut advised to leave the place
+### Prophet Lut advised to leave the city
 Lot was powerless to protect the young boys, but they revealed to him that they were indeed Angels sent by Allah to punish the people for their transgressions. They advised Lot to leave the place during the night and not look back, informing him that his wife would be left behind on account of her sinful nature and that they "...were about to bring down upon the folk of this township a fury from the sky because they are evil-doers". Keeping his faith in Allah, Lot left his home and the cities during the night with his family and others who believed in him, and only his wife stayed behind.
 
 The exegetes Ibn Kathir, Qurtubi and Tabari do not read 'daughters' to mean Lot's literal daughters. They argue that since a prophet is like a father to his nation, Lot was directing the evildoers to turn away from their sins and engage in healthy and pious relationships with the daughters of the nation, i.e. women in general.
@@ -1325,14 +1325,14 @@ When morning came, Allah 'turned the cities upside down, and rained down on them
 
 There is a narration that Jibril participated in the desctruction of the cities.
 
-### Differences in stories of the Qur'an and the Bible
+### Differences of stories in Quran and Bible
 The major difference between the story of Lut in the Qur'an and the story of Lot in the Bible is that the Biblical version includes a story of Lot's being induced to incestuous relations with his own daughters. The Qur'an says that Lut is a prophet, and holds that all Prophets were examples of moral and spiritual rectitude. Though it is not altogether clear in the Bible story that Lot consented to his action, in Islam these stories of incest are thus considered to be false.
 
 Sodom and Gomorrah are not mentioned by name in the Qur'an. The Islamic use of the term Sodomite was borrowed therefrom by the Ulama(Scholars) of Islamic law which teach that capital punishment/or flogging is the penalty for this action to be meted out on both the sodomite (the penetrator) and the catamite (the receptive member). These punishments were adopted by the blooming Islamic Empires approximately two centuries after the death of the Prophet Muhammad according to oral traditions and they are not Sunnah.
 
 </details>
 
-## **Descendands of Ibrahim**
+### Descendands of Ibrahim
 
 <details><summary>
 
@@ -1619,7 +1619,7 @@ Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Joseph, son of Jacob, son of Isaac, son 
 
 Yusuf is believed to have been the eleventh son of Yaqub, and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Yusuf." The story begins with Yusuf revealing a dream he had to his father, which Jacob recognizes. In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
 
-The story of Yusuf in the Qurʾān is a continuous narrative. There are more than one hundred verses, and in totality they encompass many years and "present an amazing variety of sciences and characters in a tightly-knit plot, and offer a dramatic illustration of some of the fundamental themes of the Qurʾān." The Qurʾān itself relates to the story's importance in the third verse: "and We narrate unto you aḥsanal-qaṣaṣ (Arabic: أحسن ٱلقصص, "best (or most beautiful) of stories")." Most scholars believe this is referring to Yusuf's story, while others, including Ṭabari, argue it is a reference to the Qurʾān as a whole. It asserts and documents the execution of God's rulings despite the challenge of human intervention (`And Allah hath full power and control over His affairs; but most among mankind know it not`).
+The story of Yusuf in the Qurʾān is a continuous narrative. There are more than one hundred verses, and in totality they encompass many years and "present an amazing variety of sciences and characters in a tightly-knit plot, and offer a dramatic illustration of some of the fundamental themes of the Qurʾān." The Qurʾān itself relates to the story's importance in the third verse: "and We narrate unto you aḥsanal-qaṣaṣ ("best (or most beautiful) of stories")." Most scholars believe this is referring to Yusuf's story, while others, including Ṭabari, argue it is a reference to the Qurʾān as a whole. It asserts and documents the execution of God's rulings despite the challenge of human intervention (`And Allah hath full power and control over His affairs; but most among mankind know it not`).
 
 This is what the story of Yūsuf confirms categorically, for it ends with comfort and marvels, which is described in the Qurʾān. Along with the story there is also some commentary from some leading scholars of Islam.
 
@@ -1637,25 +1637,25 @@ The story begins with a dream and ends with its interpretation. As the sun appea
 According to Ibn Kathir, Yaqub knew that Yusuf would someday become extremely important and would be in a high position, both in this world and the next — he recognized that the stars represented his brothers and the sun and moon represented himself and Yusuf's mother, Rachel. Yaqub advised Yusuf to keep the dream to himself in order to protect him from the jealousy of his brothers, who were already unhappy about the love Yaqub felt for Yusuf. Ya'qub foresaw that Yusuf would be one through whom the prophecy of his grandfather, Ibrahim (Abraham), would be fulfilled, in that his offspring would keep the light of Ibrahim's house alive and spread God's message to mankind. Abu Ya'ala interpreted Yaqub's reaction as an understanding that the planets, sun and moon bowing to Yusuf representing "something dispersed which God united."
 
     Ya'qub told Yusuf: "My son, relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is a clear enemy to humanity. Thus your Lord has selected you and given you knowledge to interpret reports, and has perfected his blessing upon you and upon the family of Yaqub just as he perfected it on your forefathers before: Ibrahim and Is-haq (Isaac). Your Lord is Knowing, Wise" 
-    Qur'an, Surah 12 (Yusuf) Ayat 5-6
+    Quran, Surah 12 (Yusuf) Ayat 5-6
 
 Yusuf did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Yusuf and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.
 
-Yusuf was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (Arabic: حديث, 'narration'):
+Yusuf was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (narration):
 
 Narrated Abu Huraira 🐈:
-> Some people asked the Prophet ﷺ  : "Who is the most honorable amongst the people?" He replied, "The most honorable among them is the one who is the most Allah-fearing." They said, "O Prophet of Allah! We do not ask about this." He said, "Then the most honorable person is Yusuf, Nabiyyullah (Arabic: نبي الله, Prophet of Allah), the son of a Nabiyyillah, the son of a Nabiyyillah, the son of Khalilillah (Arabic: خليل الله, "Friend of Allah")."
+> Some people asked the Prophet ﷺ  : "Who is the most honorable amongst the people?" He replied, "The most honorable among them is the one who is the most Allah-fearing." They said, "O Prophet of Allah! We do not ask about this." He said, "Then the most honorable person is Yusuf, Nabiyyullah (Prophet of Allah), the son of a Nabiyyillah, the son of a Nabiyyillah, the son of Khalilillah (Friend of Allah)."
 > — Sahih al-Bukhari collected by Muhammad al-Bukhari
 
 ### Plot against Yusuf
 
 The Qurʾān continues with Yusuf's brothers plotting to kill him. It relates: "in Yusuf and his brothers are signs for those who seek answers. When Yusuf's brother said about him: "He is more loved by our father than we are, and we are a group. Our father is in clear error. Let us kill Yusuf or cast him to the ground, so that the face of your father will be toward you, and after him you will be a community of the truthful."
 
-But one of the brothers argued against killing him and suggested they throw him into a well, said to be Jubb Yusif ( جب يوسف, "Well of Yusuf"), so that a caravan might pick him up and take him into slavery. Mujahid, a scholar, says that it was Simeon and Suddi says it was Judah while Qatadah and Ibn Is-haq says that it was the eldest, Ruben. Said one of them: "Slay not Yusuf, but if ye must do something, throw him down to the bottom of the well: he will be picked up by some caravan of travellers."
+But one of the brothers argued against killing him and suggested they throw him into a well, said to be Jubb Yusif (Well of Yusuf), so that a caravan might pick him up and take him into slavery. Mujahid, a scholar, says that it was Simeon and Suddi says it was Judah while Qatadah and Ibn Is-haq says that it was the eldest, Ruben. Said one of them: "Slay not Yusuf, but if ye must do something, throw him down to the bottom of the well: he will be picked up by some caravan of travellers."
 
 Killing Yusuf because of jealousy would have been extreme, but scholars also suggested that Yusuf was fairly young when he was thrown into the well, as young as twelve. He would live to be 110 or 120.
 
-The brothers asked their father to let them take Yusuf out to the desert to play and promised to watch him. Yaqub, not thrilled with the idea knowing how much the brothers disliked Yusuf, hesitated. Ṭabari comments that Yaqubs's excuse was that a dhi'b (Arabic: ذئب, wolf) might hurt him. But the brothers insisted. When they had Yusuf alone they threw him into a well and left him there, They returned with a blood stained shirt and lied that he had been attacked by a wolf, but their father did not believe them, as he was a sincere man who loved his son.
+The brothers asked their father to let them take Yusuf out to the desert to play and promised to watch him. Yaqub, not thrilled with the idea knowing how much the brothers disliked Yusuf, hesitated. Ṭabari comments that Yaqubs's excuse was that a dhi'b (wolf) might hurt him. But the brothers insisted. When they had Yusuf alone they threw him into a well and left him there, They returned with a blood stained shirt and lied that he had been attacked by a wolf, but their father did not believe them, as he was a sincere man who loved his son.
 
 The Qur'an says:
 
@@ -1671,13 +1671,13 @@ The Qur'an says:
     They said: "O our father! We went racing with one another, and left Yusuf with our things; and the wolf devoured him.... But thou wilt never believe us even if we tell the truth."
 
     They stained his shirt with false blood. He said: "Nay, but your minds have made up a tale (that may pass) with you, (for me) patience is most fitting: Against that which ye assert, it is Allah (alone) Whose help can be sought"...
-    Qur'an, Surah 12 (Yusuf) Ayat 11-18
+    Quran, Surah 12 (Yusuf) Ayat 11-18
 
 Ṭabari comments that Judah stopped the brothers from causing more harm to Yusuf, and that he would bring him food. Ibn Kathir comments that Reuben suggested that they put him in the pit so that he might return later to bring him home. But when he returned, he found Yusuf gone. "So he screamed and tore his clothes. He put blood on the coat of Yusuf. When Yaqub learned of this, he tore his clothes, wore a black cloak, and was sad for many days. 
 
 ### God's plan to save Yusuf
 
-A passing caravan took Yusuf. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (مصر, Egypt), to a rich man referred to as "Al-'Aziz" ( ٱلعزيز, "Great One", "Nobleman") in the Qur'an, or Potiphar in the Bible. ʿAzīz is also known as Qatafir or Qittin. Yusuf was taken into 'Aziz's home who told his wife to treat him well.
+A passing caravan took Yusuf. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (Egypt), to a rich man referred to as "Al-'Aziz" ("Great One", "Nobleman") in the Qur'an, or Potiphar in the Bible. ʿAzīz is also known as Qatafir or Qittin. Yusuf was taken into 'Aziz's home who told his wife to treat him well.
 
     Then there came a caravan of travellers: they sent their water-carrier (for water), and he let down his bucket (into the well)...He said: "Ah there! Good news! Here is a (fine) young man!" So they concealed him as a treasure. But Allah knoweth well all that they do.
 
@@ -1686,9 +1686,9 @@ A passing caravan took Yusuf. They had stopped by the well hoping to draw water 
     The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: maybe he will bring us much good, or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
 
     When Yusuf attained His full manhood, We gave him power and knowledge: thus do We reward those who do right.
-    Qur'an, Surah 12 (Yusuf) Ayat 19-22
+    Quran, Surah 12 (Yusuf) Ayat 19-22
 
-This is the point of the story that many scholars of Islam report as being central (contrasting to other religious traditions) to Yusuf's story. Under ʿAzīz Misr (عزيز مصر, "The Dear One of Egypt"), Yusuf moves to a high position in his household. Later, the brothers would come to Egypt but would not recognize Yusuf but called him by the same title, "al-ʿAzīz."
+This is the point of the story that many scholars of Islam report as being central (contrasting to other religious traditions) to Yusuf's story. Under ʿAzīz Misr ("The Dear One of Egypt"), Yusuf moves to a high position in his household. Later, the brothers would come to Egypt but would not recognize Yusuf but called him by the same title, "al-ʿAzīz."
 
 While working for 'Aziz, Yusuf grew to be a man. He was constantly approached by the wife of 'Aziz (Imra'at al-'Aziz, presumably Zulayka or Zuleika) who intended to seduce him. Tabari and others are not reticent to point out that Yusuf was mutually attracted to her. Ṭabari, again, says "God turned him away from his desire for evil by giving him a sign that he should not do it." It is also said that after the death of ʿAzīz, Yusuf married Zolayḵā.
 
@@ -1707,7 +1707,7 @@ The account of Yusuf and the wife of 'Aziz is called "Yusuf and Zulaikha," and h
 
 ### Yusuf interprets dreams
 
-This account refers to the interaction between Yusuf and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Yusuf refers to the Egyptian ruler as a malik (ملك, 'king'), not a fir'aun (فرعون, 'pharaoh'). After Yusuf had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Yusuf's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Qur'an or the Bible – and his family. Yusuf asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Yusuf reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Yusuf then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.
+This account refers to the interaction between Yusuf and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Yusuf refers to the Egyptian ruler as a malik (king), not a fir'aun (pharaoh). After Yusuf had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Yusuf's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Qur'an or the Bible – and his family. Yusuf asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Yusuf reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Yusuf then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.
 
 Yusuf had asked the one whom he knew would be released (Ṭabari writes that his name was Nabu) to mention his case to the king. When asked about his time in prison, Ṭabari reports that prophet Muhammad ﷺ   said: "If Yusuf had not said that—meaning what he said (to Nabu)—he would not have stayed in prison as long as he did because he sought deliverance from someone other than God."
 
@@ -1718,7 +1718,7 @@ Scholars debate as to whether Yusuf agreed to interpret the dream right away or 
 Yusuf was brought to king and interpreted the dream.
 
     Yusuf said, "What you cultivate during the next seven years, when the time of harvest comes, leave the grains in their spikes, except for what you eat. After that, seven years of drought will come, which will consume most of what you stored for them. After that, a year will come that brings relief for the people, and they will, once again, press juice." 
-    Qur'an, 12:47-49 
+    Quran, 12:47-49 
 
     When he became aware of Yusuf's innocence, the king said, "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted." 
     Quran 12:54 
@@ -1778,26 +1778,27 @@ It is hard to find sources that consistently agree on the actual dates of Yusuf'
 
 Ayyub (Job) came after Yusuf. The Quran describes Ayyub as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Ayyub never lost faith in God and forever called to God in prayer.
 
-Ibn Ishâq said that the Prophet Ayyub (Job) was Roman. His lineage was Ayyub Ibn Moos Ibn Razih Ibn ‛Ees ibn Ishaq Ibn Ibraheem (may the Peace and Blessings of Allah be upon them all).
+Ibn Ishâq said that the Prophet Ayyub (Job) was Roman. His lineage was Ayyub Ibn Moos Ibn Razih Ibn ‛Ees ibn Ishaq Ibn Ibraheem.
 
 However, others said that his lineage was Ayyub ibn Moos ibn Ra‛ooeel ibn ‛Ees ibn Ishâq ibn Ya’qoob (may the Peace and Blessings of Allah be upon them all).
 
-Ibn Asakir reported that his mother was the daughter of Loot (may the Peace and Blessings of Allah be upon him). It is said that his father was among those who believed in Ibraheem (may the Peace and Blessings of Allah be upon him) on the day he was thrown in the fire and was to be burnt but survived.
-However, of all these opinions, the first opinion is the most popular because he was from the progeny of Ibraheem (may the Peace and Blessings of Allah be upon him). This is seen in the saying of Allah:
+Ibn Asakir reported that his mother was the daughter of Loot. It is said that his father was among those who believed in Ibraheem on the day he was thrown in the fire and was to be burnt but survived.
+However, of all these opinions, the first opinion is the most popular because he was from the progeny of Ibraheem. This is seen in the saying of Allah:
 
     "… and from his offspring Dawood, Sulaymân, Ayyub, Yusuf, Moosa and Hâroon…" 
     Qur’an 6:84
 
-In this verse, the pronoun ‘his’ is referring to Ibraheem and not Nooh (peace be upon them all).
+In this verse, the pronoun ‘his’ is referring to Ibraheem and not Nooh.
 
 He is one of those Prophets who are mentioned specially that they received revelations. This is seen in Soorah an-Nisâ :
 
     "Indeed We have revealed to you as We revealed to Nooh and the Prophets after him. And We revealed to Ibraheem, Isma’eel, Ishâq, Ya’qoob, the tribes, ‘Eesa and Ayyub…" 
     Qur’an 4:163
 
-So the correct opinion is that he is from the progeny of ‛Ees Ibn Ishaq Ibn Ibraheem (may the Peace and Blessings of Allah be upon them all). As regards his wife's name, it is said she was Leea bint Ya‛qoob (may the Peace and Blessings of Allah be upon him). Some others say that her name was Rahmah bint Ifratheem. Yet some others claim that she was Leea bint Mansa Ibn Ya‛qoob (may the Peace and Blessings of Allah be upon him). This is the most popular opinion, and we have mentioned it here.
+So the correct opinion is that he is from the progeny of ‛Ees Ibn Ishaq Ibn Ibraheem. As regards his wife's name, it is said she was Leea bint Ya‛qoob. Some others say that her name was Rahmah bint Ifratheem. Yet some others claim that she was Leea bint Mansa Ibn Ya‛qoob. This is the most popular opinion, and we have mentioned it here.
 
-Allah said: "And Ayyub, when he called to his Lord, saying ‘Harm has inflicted me and You are the Most Merciful.' So We answered him and removed his affliction and We gave him his family and the like of them with them, as a mercy from Us and a reminder to Worshippers.'". (Qur’an 21:83-84)
+    Allah said: "And Ayyub, when he called to his Lord, saying ‘Harm has inflicted me and You are the Most Merciful.' So We answered him and removed his affliction and We gave him his family and the like of them with them, as a mercy from Us and a reminder to Worshippers.'". 
+    Quran 21:83-84
 
 And in Soorah Sâd:
 
@@ -1808,9 +1809,9 @@ And in Soorah Sâd:
     And We gave him his family and the like of thereof, as a mercy from Us and a reminder to those who understand. 
 
     "And take in your hand a bundle of thin grass and strike therewith and do not break your oath." Truly, We found him patient. How excellent a slave. Verily, he was ever oft-returning in repentance." 
-    Qur’an 38:41-44
+    Quran 38:41-44
 
-Qur’anic exegetes, historians and others said that Ayyub (may the peace and blessings of Allah be upon him) was a wealthy man who owned all kinds of wealth, such as cattle, sheep and servants, and vast property in a place called Hoorân. He also had many children and large family.
+Quranic exegetes, historians and others said that Ayyub was a wealthy man who owned all kinds of wealth, such as cattle, sheep and servants, and vast property in a place called Hoorân. He also had many children and large family.
 
 Then all of this was taken away from him. His body was inflicted with different kinds of diseases to such an extent that there was no part of his body that was healthy except his heart and tongue with which he remembered Allah. All throughout this, he remained patient and remembered Allah all the time, during the night and day, and in the morning and the evening.
 
@@ -1824,17 +1825,16 @@ And said:
 > "And man is put to trial according to the strength of his religion thus if his religion was strong, his trial increased." 
 > Ahmad, vol 1, p. 172
 
-Mujahid is reported to have said that the Prophet Ayyub (may the peace and blessings of Allah be upon him) was the first to be inflicted by smallpox.
-Historians and scholars differed as regards the period of time he was inflicted with trials. Wahb ibn Munâbbih said that he suffered for three years, not more not less. Anas on the other hand said that he suffered for about seven years and a few months. Humayd said that the period was eighteen years. The severity of the disease has been described by as-Suddi that it was so severe, that his flesh dropped from his body and nothing remained on him except his bones and muscles. His wife used to bring ashes and spread it under his body. When the trial went for long, she said, "O' Ayyub, if you pray to your Lord, He will free you from this suffering." He answered, "I have lived for seventy years as a healthy person, so can I not be patient for Allah for another seventy years?" she worked for people to earn money in order to feed Ayyub (may the peace and blessings of Allah be upon him) (Tafseer at-Tabari, vol 23 p.107)
+Mujahid is reported to have said that the Prophet Ayyub was the first to be inflicted by smallpox. Historians and scholars differed as regards the period of time he was inflicted with trials. Wahb ibn Munâbbih said that he suffered for three years, not more not less. Anas on the other hand said that he suffered for about seven years and a few months. Humayd said that the period was eighteen years. The severity of the disease has been described by as-Suddi that it was so severe, that his flesh dropped from his body and nothing remained on him except his bones and muscles. His wife used to bring ashes and spread it under his body. When the trial went for long, she said, "O' Ayyub, if you pray to your Lord, He will free you from this suffering." He answered, "I have lived for seventy years as a healthy person, so can I not be patient for Allah for another seventy years?" she worked for people to earn money in order to feed Ayyub (Tafseer at-Tabari, vol 23 p.107)
 
-However, the people then started to be cautious of her and did not employ her because they knew that she was the wife of Ayyub (may the peace and blessings of Allah be upon him) and because of that, they too might get infected by the same illnesses or be put to the same trial. So when she did not find anybody to give work, she went to some of the daughters of high society and sold one of her plait in return for plenty of food. When she came to Ayyub (may the peace and blessings of Allah be upon him) with food, he asked her where did she get the food from. He showed his disapproval but she said, "I worked for the people.” Then when it was the following day and again she did not find anyone who gave her work, she sold the other plait in return for food. She then brought it to Ayyub (peace be upon him). This time Ayyub (peace be upon him) swore that he would not eat the food till she tells him from where she has got it. At that, she removed her headscarf. When Ayyub (peace be upon him) saw her head has been shaved, he supplicated to Allah:
+However, the people then started to be cautious of her and did not employ her because they knew that she was the wife of Ayyub and because of that, they too might get infected by the same illnesses or be put to the same trial. So when she did not find anybody to give work, she went to some of the daughters of high society and sold one of her plait in return for plenty of food. When she came to Ayyub with food, he asked her where did she get the food from. He showed his disapproval but she said, "I worked for the people.” Then when it was the following day and again she did not find anyone who gave her work, she sold the other plait in return for food. She then brought it to Ayyub. This time Ayyub swore that he would not eat the food till she tells him from where she has got it. At that, she removed her headscarf. When Ayyub (peace be upon him) saw her head has been shaved, he supplicated to Allah:
 
     And Ayyub when he called his Lord [saying], "Harm has inflicted me and You are the Most Merciful."
-    Qur’an 21:83
+    Quran 21:83
 
 Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Ubayd ibn Umayr who said: “Ayyub had two brother. One day, they came to him but they could not go near him because of the bad smell which came from his body. So they stood at a distance and one of them said to another, ‘If Allah knew any good in Ayyub, He would not have put him to this trial.’ This grieved Ayyub (peace be upon him) so much that he never got such grief before. He supplicated, ‘O’ Allah, if You know that I never spent a night with a full stomach if I knew someone hungry in that night, then prove me true.’ So he was proved true and a voice came from the heaven confirming his truth that was heard by the two brothers. He then supplicated further, ‘O’ Allah, if You know that I never had two shirts if I knew that someone did not have clothes, then prove me true.’ Again, he was proved true from the heavens while the brothers were listening. Finally, he supplicated, ‘O’ Allah, I seek help from Your Honour.’ When saying that, he fell down in prostration and said, ‘O’ Allah, by Your Honour, I will never lift my head till You cure me from my suffering.’ Then he did not lift his head till he was cured.”
 
-Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Abbâs who said: “ Allah dressed Ayyub (peace be upon him) with a dress from Paradise, then he went aside and sat in a corner. His wife came and did not recognise him. So she asked, ‘O’ slave of Allah, where did the afflicted person go who was here? I am afraid that dogs or wolves have eaten him.’ She kept speaking to him for some time and then he finally said to her, ‘What is wrong with you, I am Ayyub, Allah has indeed returned to me my body.’”
+Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Abbâs who said: “ Allah dressed Ayyub with a dress from Paradise, then he went aside and sat in a corner. His wife came and did not recognise him. So she asked, ‘O’ slave of Allah, where did the afflicted person go who was here? I am afraid that dogs or wolves have eaten him.’ She kept speaking to him for some time and then he finally said to her, ‘What is wrong with you, I am Ayyub, Allah has indeed returned to me my body.’”
 
 Ibn Abbâs said: “Allah returned to him his wealth and children and others twice as many as them.”
 
@@ -1846,19 +1846,20 @@ It is narrated on the authority of Abu Hurayrah that the Prophet peace and bless
 
 In another narration on the authority of Abu Hurayrah that the Prophet peace and blessings be upon him said:
 
->"While Ayyub was bathing naked, golden locusts dropped on him, so he began collecting them in his clothes. So his Lord called him, ‘O’ Ayyub, did I not give you enough, so what do you do?’ Ayyub said, ‘Yes my Lord but there is no sparing from Your blessings for me.’ "Strike with your foot" was the divine order. So Ayyub (peace be upon him) did as ordained and struck the earth with his leg. Allah then caused a cold spring of water to gush forth and ordered him to take bath and drink from it. Allah then removed his suffering and pain, his illnesses and diseases that were both visible and hidden on his body and replaced all that with a healthy body, both visible and hidden. Allah also made him handsome and gave him abundant wealth, to the extent that golden locusts rained on him.
+>"While Ayyub was bathing naked, golden locusts dropped on him, so he began collecting them in his clothes. So his Lord called him, ‘O’ Ayyub, did I not give you enough, so what do you do?’ Ayyub said, ‘Yes my Lord but there is no sparing from Your blessings for me.’ "Strike with your foot" was the divine order. So Ayyub did as ordained and struck the earth with his leg. Allah then caused a cold spring of water to gush forth and ordered him to take bath and drink from it. Allah then removed his suffering and pain, his illnesses and diseases that were both visible and hidden on his body and replaced all that with a healthy body, both visible and hidden. Allah also made him handsome and gave him abundant wealth, to the extent that golden locusts rained on him.
 
-Allah also returned his family as He said,  `We gave to him his family, and the like of them with them.` (Qur’an 21:84) It is said that Allah brought his children back to life. Some others said that Allah gave him other people in place of those who had died, wherein in the Hereafter, Allah will gather them all together. As regards the part of the verse, `A mercy from Us,` (Qur’an 21:83-84) it means that We removed his hardships and cured him from whatever he had as a mercy and grace from Us. The end of the verse, “And a reminder to worshippers” means that what happened to Ayyub (peace be upon him) is a reminder and a lesson for all those who are put to trial concerning their bodies, wealth, and family. All such people should take the example of Prophet of Allah, Ayyub, who was tried by Allah with something that was greater than what others would be inflicted with and despite that, he was patient and had hope that Allah would cure him from that.
+Allah also returned his family as He said,  `We gave to him his family, and the like of them with them.` (Qur’an 21:84) It is said that Allah brought his children back to life. Some others said that Allah gave him other people in place of those who had died, wherein in the Hereafter, Allah will gather them all together. As regards the part of the verse, `A mercy from Us,` (Qur’an 21:83-84) it means that We removed his hardships and cured him from whatever he had as a mercy and grace from Us. The end of the verse, “And a reminder to worshippers” means that what happened to Ayyub is a reminder and a lesson for all those who are put to trial concerning their bodies, wealth, and family. All such people should take the example of Prophet of Allah, Ayyub, who was tried by Allah with something that was greater than what others would be inflicted with and despite that, he was patient and had hope that Allah would cure him from that.
 
-Ayyub (peace be upon him) lived in the Roman land for a further seventy years after his affliction. He preached to them the religion of Monotheism, One God. However, they later changed the religion of Ibraheem (peace be upon him) after his death.
+Ayyub lived in the Roman land for a further seventy years after his affliction. He preached to them the religion of Monotheism, One God. However, they later changed the religion of Ibraheem after his death.
 
 Allah said: `“And take in your hand a bundle of reeds and strike with it, and do not break your oath. And We found him patient, a good slave, verily he was patient. (Qur’an 38:44)`
 
-This speaks about His mercy upon Ayyub (peace be upon him) when Ayyub had sworn that he would whip his wife one hundred lashes. It is said that he made the oath because she sold her plaits. It is also said that Shaytân came to her disguised as a doctor (physician) and described to her some medicines for Ayyub. When she came and informed Ayyub, he knew it was Shaytân and subsequently swore that he would whip her one hundred lashes. When Allah cured him, He told him to take a bundle of reeds, bunch them together as one and then to hit her only once. This one hit was considered one hundred, thus he could fulfill his oath this way.
+This speaks about His mercy upon Ayyub when Ayyub had sworn that he would whip his wife one hundred lashes. It is said that he made the oath because she sold her plaits. It is also said that Shaytân came to her disguised as a doctor (physician) and described to her some medicines for Ayyub. When she came and informed Ayyub, he knew it was Shaytân and subsequently swore that he would whip her one hundred lashes. When Allah cured him, He told him to take a bundle of reeds, bunch them together as one and then to hit her only once. This one hit was considered one hundred, thus he could fulfill his oath this way.
 
 This was a way out and relief for the one who feared Allah and obeyed Him, especially with respect to his wife who bore his illness patiently and had hope. She was a pious, righteous ans rightly guided woman. May Allah be pleased with her.
 
 Ibn Jareer and others mentioned that when Ayyub (peace be upon him) died, he was ninety-three years old. Some others said that he lived longer than that.
+
 Before he passed away, he entrusted his mission to his son Hawmal and after him to his other son Bishr. Many people claim that he was Dhul Kifl. And Allah knows best. These same people also claim that he was Prophet, who died at the age of ninety-five.
 
     And [mention] Ayyub, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." 
@@ -1870,7 +1871,7 @@ Before he passed away, he entrusted his mission to his son Hawmal and after him 
 
 </summary>
 
-Shuaib, Shoaib, Shuayb or Shuʿayb (شعيب,  meaning: "who shows the right path") is an ancient Midianite Nabi (Prophet) in Islam. Shuaib is mentioned in the Quran a total of 11 times. He is believed to have lived after Ibrahim (Abraham), and Muslims believe that he was sent as a prophet to a community: the Midianites, who are also known as the Aṣḥāb al-Aykah ("Companions of the Wood"), since they used to worship a large tree. To the people, Shuaib proclaimed the straight path and warned the people to end their fraudulent ways. When the community did not repent, God destroyed the community.
+Shuaib, Shoaib, Shuayb or Shuʿayb ("who shows the right path") is an ancient Midianite Nabi (Prophet) in Islam. Shuaib is mentioned in the Quran a total of 11 times. He is believed to have lived after Ibrahim (Abraham), and Muslims believe that he was sent as a prophet to a community: the Midianites, who are also known as the Aṣḥāb al-Aykah ("Companions of the Wood"), since they used to worship a large tree. To the people, Shuaib proclaimed the straight path and warned the people to end their fraudulent ways. When the community did not repent, God destroyed the community.
 
 Shuaib is understood by Muslims to have been one of the few Arabian prophets mentioned by name in the Qur'an, the others being Saleh, Hud, and Muhammad. It is said that he was known by Muslims as "the eloquent preacher amongst the prophets", because he was, according to tradition, granted talent and eloquence in his language.
 
@@ -1899,7 +1900,7 @@ Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Alt
 
 </summary>
 
-In Islam, Mūsā ben ʿEmrān (Arabic: موسی بن عمران, lit. 'Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.
+In Islam, Mūsā ben ʿEmrān ('Moses, son of Imran'Amram'Am), is an important prophet and messenger of God (Allah) and is the most frequently mentioned individual in the Quran, with his name being mentioned 136 times and his life being narrated and recounted more than that of any other prophet.
 
 According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of prophet Muhammadﷺ  , and Muslims consider many aspects of the two individuals' lives to be shared. Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution — of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.
 
@@ -1918,7 +1919,7 @@ The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were 
   
 ### Childhood
 
-According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Yusuf). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. (Other stories says that the Pharaoh dreams of a little boy who catches the Pharaoh's crown and destroys it, although there is no authentic Islamic reference to whether the dreams actually occurred.) When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
+According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Yusuf). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
 
     "We recite to you some of the news of Moses and Pharaoh in truth, for a people who believe. Verily, Pharaoh exalted himself in the land and made its people sects, weakening (oppressing) a group (i.e. Children of Israel) among them; killing their sons and letting their females live.  Verily, he was of those who commit great sins and crimes, oppressors, tyrant."
     Quran, 28:3-4
@@ -2868,7 +2869,7 @@ The ninth-century Persian historian Al-Tabari records that, while Jonah was insi
 
 </summary>
 
-Dhu al-Kifl ( ذُو ٱلْكِفْل, ḏū ʾl-kīfl, literally "Possessor of the Kifl "; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-Kifl, or Zu l-Kifl) is an Islamic prophet. Although his identity is unknown, his identity has been theorised and identified as various Hebrew Bible prophets and other figures, most commonly Ezekiel and Gautama Buddha. Dhu al-Kifl is believed to have been exalted by Allah to a high station in life and is chronicled in the Quran as a man of the "Company of the Good". Although not much is known of Dhu al-Kifl from other historical sources, all the writings from classical commentators, such as Ibn Ishaq and Ibn Kathir, speak of Dhu al-Kifl as a prophetic, saintly man who remained faithful in daily prayer and worship.
+Dhu al-Kifl ("Possessor of the Kifl"; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-Kifl, or Zu l-Kifl) is an Islamic prophet. Although his identity is unknown, his identity has been theorised and identified as various Hebrew Bible prophets and other figures, most commonly Ezekiel and Gautama Buddha. Dhu al-Kifl is believed to have been exalted by Allah to a high station in life and is chronicled in the Quran as a man of the "Company of the Good". Although not much is known of Dhu al-Kifl from other historical sources, all the writings from classical commentators, such as Ibn Ishaq and Ibn Kathir, speak of Dhu al-Kifl as a prophetic, saintly man who remained faithful in daily prayer and worship.
 
 Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
 
@@ -3685,7 +3686,7 @@ Hashim tells people to build houses in the Kaaba region
 Hashim established Mecca as a caravan route stop
 Abd-Al Muttalib rediscovers Zamzam well
 
-The Quraysh ( قُرَيْشٌ, ) were a grouping of Arab clans that historically inhabited and controlled the city of Mecca and its Kaaba. The Islamic prophet Muhammad was born into the Hashim clan of the tribe. The Quraysh gained their name when Qusayy ibn Kilab, a sixth-generation descendant of Fihr ibn Malik, gathered together his kinsmen and took control of the Ka'aba. Prior to this, Fihr's offspring lived in scattered, nomadic groups among their Kinana relatives.
+The Quraysh were a grouping of Arab clans that historically inhabited and controlled the city of Mecca and its Kaaba. The Islamic prophet Muhammad was born into the Hashim clan of the tribe. The Quraysh gained their name when Qusayy ibn Kilab, a sixth-generation descendant of Fihr ibn Malik, gathered together his kinsmen and took control of the Ka'aba. Prior to this, Fihr's offspring lived in scattered, nomadic groups among their Kinana relatives.
 
 Ibn Ishaq's account reveals that Mecca in the time of Qusayy and his immediate offspring was not yet a commercial center; rather, the city's economy was based on pilgrimage to the Ka'ba, and "what pass[ed] for municipal offices [designated by Qusayy] have to do only with military operations and with control of the shrine". During that time, the tribesmen of Quraysh were not traders; instead, they were entrusted with religious services, from which they significantly profited. They also profited from taxes collected from incoming pilgrims. Though Qusayy appeared to be the strongman of Quraysh, he was not officially a king of the tribe, but one of many leading sheikhs (tribal chieftains).
 
@@ -3865,11 +3866,9 @@ Two different narrations from Aisha give these details.
 
 # 9. History of Islam ☪
 *******************************************
+# 9.1. Prophet Muhammad ﷺ   
 
-# 9.1. Prophet Muhammad ﷺ 
-
-<details>
-  <summary>Short Summary</summary>
+<details><summary> Short Summary </summary>
 
 **Muḥammad ibn Abd Allah ﷺ**(570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. The Quran, the central religious text of Islam, was revealed to Muhammad ﷺ    by God, and Muhammad ﷺ   was sent to restore Islam, which did not originate with prophet Muhammad ﷺ   but is the true unaltered original monotheistic faith of **Adam**, **Abraham**, **Moses**, **Jesus**, and other prophets. The religious, social, and political tenets that Muhammad ﷺ   established with the Quran became the foundation of Islam and the Muslim world.
 
@@ -3982,7 +3981,7 @@ Muhammad ﷺ   had no particular job at his early youth, but it was reported tha
 
 When he returned, Khadijah noticed, in her money, more profits and blessings than she used to. Her hireling also told her of Muhammad’s good manners, honesty, deep thought, sincerity and faith. All these impressed Khadijah and she realised that she had fallen in love with Muhammad and wished to marry him. Many prominent men had asked for her hand in marriage but she always spurned their advances. She disclosed her wish to her friend Nafisah bint Maniya, who immediately went to Muhammad and broke the good news to him. He agreed and requested his uncles to go to Khadijah’s uncle and talk on this issue. Subsequently, they were married. The marriage contract was witnessed by Bani Hashim and the heads of Mudar. Muhammad ﷺ   did not get married to anyone until she was passed away.
 
-Some narrations say she was 40, ibn Iskhak reposrta that Khadija was 28. They had 6 children. 
+Some narrations say she was 40, ibn Iskhak reports that Khadija was 28. They had 6 children. 
 * Al Kasim died at 6-8.
 * Zaynab
 * Um Kulthum
@@ -4195,7 +4194,7 @@ They [the rabbis] said, "Ask him about three things which we will tell you to as
 
 According to Ibn Ishaq, when Muhammad was informed of the three questions from the rabbis, he said that he would have the answers in the morning but did not say "if God wills it". For fifteen days, Muhammad waited eagerly for the revelation. Muhammad did not answer the question until then. Doubt in Muhammad began to grow amongst the people of Mecca. Then, after fifteen days, Muhammad received the revelation of al-Kahf as an answer to the questions.
 
-Al-Kahf ( الكهف, al-kahf; The Cave) is the 18th chapter (sūrah) of the Quran with 110 verses (āyāt).
+Al-Kahf (The Cave) is the 18th chapter (sūrah) of the Quran with 110 verses (āyāt).
 
 The story of believers falling asleep in a cave for a long time is present also in the Christian tradition, see [Sleepers in the Cave](#sleepers_in_the_cave).
 
@@ -6616,7 +6615,7 @@ The honorific title al-Imam al-A'zam ("the greatest leader") was granted to him 
 
 </details><details><summary>
 
-## 732: Muhammad ibn Iskhak writes first seerah and introduces Isnad (chain of narrations)
+## 732: ibn Iskhaq writes first seerah and introduces Isnad (chain of narrations)
 
 </summary>
 </details><details><summary>
@@ -7354,14 +7353,12 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 
 </summary></details></details>
 
-# 11. Yawm Al Qiyamah (The Apocalypse)
-*******************************************
+# 11. Yawm Al Qiyamah (Day of Judgement)
+********************************************
 
-<details><summary>
+### 11.1 Signs of The End Times
 
-## 11.1 Signs of The Day of Judgement
-
-</summary>
+<details><summary> List of Signs [TBD] </summary>
 
 In Islam, the arrival of Judgement Day is prophesied in various ḥadīth collections to be preceded by "signs" or portents of its arrival. These signs tend to fall into disruptions in the order of human morality (music, wine drinking, usury, fornication, homosexuality, and disobedience by wives, senseless murders, lying and cheating, disinterest in and ignorance of religion) and the natural world (frequent unexpected deaths, excessive lightning, destructive rainfall, terrible drought, a huge cloud of smoke, the opening up of huge cracks in the earth -- khasf -- to swallow masses of people alive, the sun rising in the west, poisonous winds that kill all the faithful);
 include the appearance of wicked forces such as the AntiChrist figure al-Dajjāl, Gog and Magog, and Sufyani. but also savior(s) the Mahdi and Jesus, who along with divine intervention, will restore order and crush the Dajjal, gog and Magog will perish as well. Some time after Isa will pass and no believer will be left on Earth. The Quran will be lifted.
@@ -7468,11 +7465,11 @@ Yes, agreed – it is becoming more and more difficult for us nowadays. But know
 Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
 Abu Darda’ reported Allah’s Apostle ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) as saying: “If anyone learns by heart the first ten verses of the Surah Al-Kahf, he will be protected from the Dajjal.” [Muslim] Study the tafsir and you’ll soon see the link between the two – it really is the surah to help us understand the modern age!
  
-</details><details><summary>
+</details>
 
-## 11.2 Major Signs of Al Kiyamah
+### 11.2 Major Signs of Al Kiyamah
 
-</summary>
+<details><summary> Overview </summary>
 
 According to the Prophet (PBUH), there are 10 major signs that will precede the last Hour and will announce of the finality of the Day of Reckoning. These 10 signs are explained in the following hadith:
 
@@ -7646,9 +7643,8 @@ Al-Safarini (may Allah have mercy on him) listed the order of these portents in 
 And Allah knows best.
 </details>
 
-### [TBD] 11.3 Al Qiyamah (The Hereafter)
+### 11.3 Al Akhirah (The Hereafter) [TBD]
 *******************************************
-
 <details><summary>
 
 ## What happens after The End

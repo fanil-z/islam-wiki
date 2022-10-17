@@ -51,6 +51,8 @@
 
 h3, .h3 {
   color: #1d2d35;
+  font-size: 125% !important;
+  margin-top: 1rem !important;
 }
 
 [data-dark-mode] h1, .h1, h3, .h3 {
@@ -64,7 +66,7 @@ h3, .h3 {
 h1, .h1 {
 	font-size: 32px !important;
 	font-weight: 500 !important;
-  margin-top: 5rem !important;
+  margin-top: 4rem !important;
 }
 
 h2, .h2 {
