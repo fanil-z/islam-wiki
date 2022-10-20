@@ -54,6 +54,8 @@ I bought the domain here:
 6. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
 
 
+btw last year I realized that my father's name Gilmetdeen translates from Arabic as "Knowledge of the relligion" so I bought this domain.
+
 Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup. I wouldn't recommend Hyas/Doks for beginners or if you want to customize the layout or CSS, there are much simpler themes of Hugo that can be configured in 5 min.
 
 gathered from various web resources:

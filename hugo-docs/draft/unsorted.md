@@ -378,7 +378,7 @@ menus.toml
 
     <img title="subḥānahu wa ta'āla (glorified and exalted be He)" alt="subḥānahu wa ta'āla (glorified and exalted be He)" class="islamic_graphic" src="//cdn-61dc8321c1ac18f874f6c789.closte.com/wp-content/plugins/islamic-graphics/img/black/png/swt.png" width="25px" height="25px" srcset="https://productivemuslim.com/wp-content/plugins/islamic-graphics/img/black/svg/swt.svg">
 
-    
+
 <!--![image](./img/early_islamic_expansion.png)
 
 {{ $asset := resources.Get "early_islamic_expansion.png" }}
@@ -386,3 +386,7 @@ menus.toml
 <figure class="image is-3by2">
   <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
 </figure>-->
+
+
+Quran says that the veil will be removed and people will be able to see the unseen.
+sky will be opened.
