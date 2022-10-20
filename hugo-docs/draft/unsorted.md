@@ -390,3 +390,57 @@ menus.toml
 
 Quran says that the veil will be removed and people will be able to see the unseen.
 sky will be opened.
+
+
+/*
+input[type="checkbox"]{
+   display:none;
+ }
+ label{
+   top:12px;
+   right:20px;
+   border:2px solid gray;
+   border-radius:20px;
+   padding:0.5px;
+   padding-left:12px;
+   padding-right:4px;
+   cursor:pointer;
+   margin-left:6px;
+   height:30px;
+ }
+ .content{
+   box-sizing:border-box;
+   transition:.2s;
+ }
+ .fa-sun{
+   color:orange;
+   font-size:18x;
+   text-shadow:0px 0px 12px orange;
+   transform:translateX(18px) !important;
+   transition:.3s;
+ }
+ .fa-moon{
+   color:white;
+   font-size:16px;
+   margin-top:2px;
+   text-shadow:0px 0px 12px white;
+   transform:translateX(-3px) !important;
+   opacity:0;
+   transition:.3s;
+ }
+
+ #mode:checked ~ label > .fa-sun{
+   opacity:0;
+   transform:translateX(-3px) !important;
+ }
+ 
+ #mode:checked ~ label > .fa-moon{
+   opacity:1;
+   transform:translateX(-25px) !important;
+ }
+ */
+
+ /*
+.docs-content {
+    margin-left: 5rem;
+  }*/

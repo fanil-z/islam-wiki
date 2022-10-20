@@ -54,7 +54,7 @@ I bought the domain here:
 6. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
 
 
-btw last year I realized that my father's name Gilmetdeen translates from Arabic as "Knowledge of the relligion" so I bought this domain.
+btw last year I realized that my father's name Gilmetdeen translates from Arabic as "Knowledge of the religion" so I bought this domain.
 
 Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup. I wouldn't recommend Hyas/Doks for beginners or if you want to customize the layout or CSS, there are much simpler themes of Hugo that can be configured in 5 min.
 
@@ -89,7 +89,7 @@ I need to relisten some lectures from Seerah of prophet Muhammad SAW and finish 
 
 https://miro.com/app/board/o9J_kqBzhXk=/
 
-Wanted to combin the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level higher content planning and too much overhead so I chose the simplest way.
+Wanted to combine the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level higher content planning and too much overhead so I chose the simplest way.
 
 Published on Render: https://islam-wiki.onrender.com/docs/wiki/islam-wiki
 
@@ -129,9 +129,19 @@ Requirements:
 
 2. Recently I became a fan of [The Pudding](https://pudding.cool) and how they play with CSS and JS to create interactive data visuals like for example [this article about Aztec mythology](https://pudding.cool/2022/06/aztec-gods/).
 
-3. Add timeline.
+3. Reduce the size of the website to 1,5MB.
+https://habr.com/ru/company/ruvds/blog/692840/
+My friend sent me this blog post about how people make 14KB websites and 56byte stylesheets, and I realized that 2 png images are occupying 91% of my network traffic. It helped me to reduce the weight from 10MB to 2,2MB, which might actually help me remain inside kosten-frei 100GB per month limit in Render.
+	* remove unused css.
+	* buttons and scripts.
 
-4. I have some thoughts on how to make it user-friendly for mobile users. probably this will require some changes in the H1 structure. For example, we can put the H1 child content inside the details tag and then hide all the content. so that mobile users will se only the H1 headers and they will need to click the header to expand its child H2 headers. This will make it minimalistic and more interactive.
+4. Add timeline.
+
+
+
+
+
+[OLD] I have some thoughts on how to make it user-friendly for mobile users. probably this will require some changes in the H1 structure. For example, we can put the H1 child content inside the details tag and then hide all the content. so that mobile users will se only the H1 headers and they will need to click the header to expand its child H2 headers. This will make it minimalistic and more interactive.
 
 Also, we can remove te on this page section at all as it is useless anyway. instead we can add a button for different depths. For example, show only H1 headers, show h1 & h2 headers, and expand all.
 
