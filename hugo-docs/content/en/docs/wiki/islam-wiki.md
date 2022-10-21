@@ -5,7 +5,7 @@ toc: true
 
 ---
 
-<p style="font-size: 2.5rem; font-style: bold;"><b> World History Timeline </b></p>
+<p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b> World History Timeline </b> <div style="font-size: 1rem"> According to Islamic sources (Quran, hadith, tafsir)</div></p>
 
 # 0. Before Creation of Humankind
 ***************************************
@@ -3507,8 +3507,8 @@ Religion in pre-Islamic Arabia included pre-Islamic Arabian polytheism, ancient 
 Other religions were represented to varying, lesser degrees. The influence of the adjacent Roman and Aksumite resulted in Christian communities in the northwest, northeast and south of Arabia. Christianity made a lesser impact, but secured some conversions, in the remainder of the peninsula. With the exception of Nestorianism in the northeast and the Persian Gulf, the dominant form of Christianity was Miaphysitism. The peninsula had been a destination for Jewish migration since pre-Roman times, which had resulted in a diaspora community supplemented by local converts. Additionally, the influence of the Sasanian Empire resulted in Iranian religions being present in the peninsula. While Zoroastrianism existed in the eastern and southern Arabia, there was no existence of Manichaeism in Mecca.
 
 Sam (Shem) was a righteous son of Noah according to the Book of Genesis. Book of Genesis says that descendands of Shem, Ham and Japheth populated Asia, Africa and Europe correspondingly.
-
-<img src="/shem.jpg" alt="Shem, Ham and Japheth"> 
+<!--
+<img src="/shem.jpg" alt="Shem, Ham and Japheth"> -->
 
 Descendends of Shem or Semites include Arabs, Akkadians, Canaanites, Hebrews, some Ethiopians (including the Amhara and the Tigrayans), and Aramaean tribes.
 
@@ -5117,8 +5117,8 @@ The reason for this battle was to save Medina from attack, after Banu Nazir and 
 The outnumbered Muslims opted to engage in a defensive battle by digging deep trenches to act as a barrier along the northern front. The tactic of a defensive trench was introduced by Salman the Persian. Every capable Muslim in Medina including Muhammad contributed to digging the massive trench in six days. The ditch was dug on the northern side only, as the rest of Medina was surrounded by rocky mountains and trees 🌳🌳, impenetrable to large armies (especially cavalry). The digging of the ditch coincided with a near-famine in Medina. Women and children were moved to the inner city. The Medinans harvested all their crops early, so the Confederate armies would have to rely on their own food reserves.
 
 Hoping to make several attacks at once, the confederates persuaded the Muslim-allied Medinan Jews, Banu Qurayza, to attack the city from the south. However, Muhammad's diplomacy derailed the negotiations, and broke up the confederacy against him. The well-organized defenders, the sinking of confederate morale, and poor weather conditions caused the siege to end in a fiasco.
-
-</br><img src="/Battle_of_Trench.jpg" alt="Battle of the Trench"></br> 
+<!--
+</br><img src="/Battle_of_Trench.jpg" alt="Battle of the Trench"></br> -->
 
 The trench, together with Medina's natural fortifications, rendered the confederacy's cavalry (consisting of horses and camels) useless, locking the two sides in a stalemate. 
 
@@ -6222,8 +6222,7 @@ The Battle of the Camel, also known as the Battle of Jamel or the Battle of Basr
 
 #### Battle with Muawiyah
 
-<img src="/first_fitnah.jpg" alt="Early Expansion"> 
-
+<!--<img src="/first_fitnah.jpg" alt="Early Expansion"> -->
 
 ### Death of Ali
 
@@ -7670,6 +7669,14 @@ He didn't mention that Allah and angels will come in rows, the blowing of the tr
 ## Death. What happens when people die
 
 </summary>
+
+* soul is taken from the body
+* soul sees how people bury the body
+* soul is in the grave with the body
+* two angels ask questions
+* Barzakh
+  * soul rests in Barzakh until The Day of Judgement
+  * soul takes punishment until The Day of Judgement 
 
 Before talking about the Hereafter, we must contemplate on what happens after a person dies.
 

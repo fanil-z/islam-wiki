@@ -1,7 +1,7 @@
   code {
     white-space : pre-wrap !important;
     word-break: break-word;
-    background: #f2f9f7 !important; 
+    background: #c9e5dd6b !important; 
   }
 
   [data-dark-mode] code {
@@ -114,12 +114,12 @@ details#level2[open] summary > * {
   font-size: 1.55rem !important;
 }
 
-summary h2:hover {
-  background:#d7d7d7;
+summary:hover {
+  background: #c9e5dd6b;
   border-radius: 6px;
 }
 
-[data-dark-mode] summary h2:hover{
+[data-dark-mode] summary:hover{
   background:#213f3e;
   border-radius: 6px;
 }
