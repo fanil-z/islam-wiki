@@ -447,4 +447,8 @@ input[type="checkbox"]{
 
 
 
+This video will give you a clear explanation of Death in Islam and what would happen. I love this series provided by Sheikh Bilal Asad. (Start at 19:50)
+
+
+(If anyone were to be saved from the squeezing of the grave, Sa’d bin Mu‘adh would have been saved from it.) [Imâm-i Ahmad]
 

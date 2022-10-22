@@ -93,6 +93,9 @@ Wanted to combine the guide from interlinked separate parts where each definitio
 
 Published on Render: https://islam-wiki.onrender.com/docs/wiki/islam-wiki
 
+It it truly amazing that nowadays we can read about any historic event just sitting on a couch and listen to khutbas and lectures of best sheikhs.
+
+
 ### Note on CSS
 
 THe website wouldn't get the bootstrap css from @hyas node on production builds. I don't know how to fix it, so I just implemented added an additional custom CSS file in the head.html. Using this approach I can actually just use a simple hugo theme and bump the CSS there. I don't know. 
