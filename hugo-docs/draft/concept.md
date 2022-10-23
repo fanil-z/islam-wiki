@@ -23,30 +23,70 @@ cloudflare pages
 
 maybe make the first post short.
 
-I'll make a separate post about how the stack behind the website works. Shortly, it is build on the Hugo framework with Hyas 
+ 
 
 
-Hello everyone and Assalamu Aleikum,
 
-In order to get some Hugo and CSS practice, I started wrapping up my notes about Islam into a static website, carried away and after one year spending about 15min daily the MD editor showed it will take about 12 hours to read the whole thing.
-When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of the stories from religios texts. Also, Quran is not combined in the chronological order but in the order that was defined by the prophet Muhammad SAW. That's why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one page and sort them according to a historical timeline.
+--------------------------------------------------------------------------
 
-Another aspect that always bothers me in large documentation samples is that it is not easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of historical texts, TOC can actually kind of give you a short description of what happened in the correct order. Trying to combine the helicopter view and large portions of text, I've used the standard <details><summary> tags so that details about a historic event appears when you click on the topic.
+Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts and dwellings.
 
-To build the website, I used the Hugo static HTML generator. Hugo is open-source, flexible; it has a large number of themes including themes for user manuals and API references. A good candidate if you want to implement the docs-as-code concept in your documentation department.
+In order to get some Hugo and CSS practice, I started wrapping up my notes about Islam into a static website and after one year of spending 20-30 minutes daily, the MD editor showed it would take 12 hours to read the whole thing.
+
+When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of stories from religious texts. Moreover, surahs of the Quran are not combined in the chronological order but in the order that was defined by the prophet Muhammad ﷺ  . That is why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one place and sort them according to a historical timeline.
+
+To build the website, I used a static HTML generator -- Hugo. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
+
+I will try to make a separate post about how the stack behind the website works inshaallah. Shortly, the overall stack looks like this:
+
+1. Hugo: a static web-site generator that builds a static HTML/CSS/JS website using MD files as a source. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
+	- Hyas: I used the Hyas theme to have a good-looking bootstrap layout.
+		- Hyas depends on Node.js and a swarm of npm packages. On Windows, you will also need Chocolatey to configure it.
+		- Doks theme. I had to add and tune some JS/CSS elements to adjust the website to my purposes. Doks is a bit too advanced for a beginner like me so I still has plenty of bugs to fix. There are standard Hugo themes that can be configured in 5 min.
+2. Render: I am hosting the website on Render. Up to 100GB bandwisth a month is free. And 400 total build hours per month for free services and static sites. I also tried Netlify, basically the same functionality.
+3. A pipeline on Render automatically fetches the latest commit in my git repo, installs all required npm packages, builds the website and pushes it to production. You can configure a test server on Render but I just test on my local machine.
+
+the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources.
+> 
+> Other sources of this guide include: authentic hadiths, some non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History", a book "Muhammad, His Biography Based on Earliest Sources". Some parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman) without providing the original source. I tried to stick to aforementioned sources. Mostly it is copy-paste, I have gathered the information, currated it, combined together and did some editing.
+
+
+
+
+-----------------------------------------------------------------------------
+
+
+it is build on the Hugo framework with Hyas
+
+
+
+gathered from various web resources:
+Islam: A Short History by Karen Armstrong who is a famous historian and a Christian nun.
+my notes on Yasir Qadhi's 114 lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them, remove the parts that are not mentioned in The Quran or authentic hadiths, or parts that are too Shia. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state. 
+
+Along the way, I had to add some additional historic events that are not mentioned in the Quran but that affected and shaped the world as we see today.
+
+Another aspect that always bothers me in large documentation samples is that it is not easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of historical texts, TOC can actually provide a short description of what happened in the correct order. 
+
+At first, I wanted to combine the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level-higher content planning and too much overhead so I chose the simplest way.
+
+Trying to combine the helicopter view and large portions of text, I've used the standard <details><summary> tags so that details about a historic event appears when you click on the topic.
+
+
+
 
 The overall stack looks like this:
-
 1. Hugo: a static web-site generator builds a static HTML/CSS/JS website using MD files as a source.
 	- Hyas: I used the Hyas theme to have a good-looking, neat bootstrap layout.
 		- Hyas depends on Node.js. I installed it on my laptop.
-		  Node.js is easy to install on Linux and probably Mac. On Windows, you will also need Chocolatey.
+		  Node.js is easy to install on Linux and probably Mac. On Windows, you will need Chocolatey.
 	- Doks theme
-		- CSS: The theme is cool but I needed to adjust it to my purposes. So, I added the custom CSS file (~150 lines).
+		- CSS: The theme is neat but I needed to adjust it to my purposes. So, I added the custom CSS file (~150 lines).
 		- JS: added buttons for sending feedback, expanding/hiding details elements all at once, in-page search and dark mode switch toggle.
 		- Hugo is super-flexible and has a large amount of useful features but at the beginning it was hard to navigate through all the functionality and figure out which exactly config files I had to change. Hugo documentation is helpful here. 
 2. Render or Netlify: static web-files are hosted on Render. up to 100GB bandwisth a month is free. And 400 total build hours per month for free services and static sites.
-3. A pipeline on render automatically fetches my latest commit in the git repo, installs all required npm packages, builds the website and pushes it to production. You can configure a test server on Render but I just test on production.
+3. A pipeline on Render automatically fetches my latest commit in the git repo, installs all required npm packages, builds the website and pushes it to production. You can configure a test server on Render but I just test on my local machine.
+
 
 I bought the domain here:
 4. 
@@ -54,19 +94,20 @@ I bought the domain here:
 6. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
 
 
-btw last year I realized that my father's name Gilmetdeen translates from Arabic as "Knowledge of the religion" so I bought this domain.
+btw last year I realized that my father's name Gilmetdeen translates from Arabic as "Knowledge of the religion". It is an old Tatar name and I couldn't think of another domain so I bought it.
 
 Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup. I wouldn't recommend Hyas/Doks for beginners or if you want to customize the layout or CSS, there are much simpler themes of Hugo that can be configured in 5 min.
 
-gathered from various web resources:
-Islam: A Short History by Karen Armstrong who is a famous historian and a Christian nun.
-my notes on Yasir Qadhi's 114 lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them, remove the parts that are not mentioned in The Quran or authentic hadiths, or parts that are too Shia. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state. 
+
 
 Please send your feedback to islam-wiki@proton.me if the order is not correct or if you find something conradicting the Quran or authentic hadith.
 
 Probably I wouldn't be able to finish the the website if the content was not about Islam which is exciting to explore. However the most painful part was to gather information on the First Fitnah and how the era of righteous khalifs came to an end after assassination of Ali. Even though the Golden Age of Islam starts right after, for me it is the saddest periods of Islamic history, when we can say that the original ummah of the Prophet Muhammad ceased to exist. May Allah forgive us and guide us to the right path.
 
-I also had to spend additional time adding a cat 🐈 every time the name of the noble Abu Huraira comes up because, verily, Abu Huraira that stands for "Father of a kitten" in Arabic. Was totally worth it and I do not consider it as israf of time.
+I also had to spend additional time adding a cat 🐈 every time the name of the noble Abu Huraira ("Father of a kitten") comes up. Was totally worth it.
+
+
+, verily, Abu Huraira stands for "Father of a kitten" in Arabic. Was totally worth it and I do not consider it as israf of time.
 
 After realizing that you can do so many things without a web server but just with HTML, CSS and JavaScript, I really started to like the simplicity of what's happening behind the building and hosting process.
 Well, maybe the fact that I know very little about building a web server plays a significant role here as well.
@@ -89,11 +130,16 @@ I need to relisten some lectures from Seerah of prophet Muhammad SAW and finish 
 
 https://miro.com/app/board/o9J_kqBzhXk=/
 
-Wanted to combine the guide from interlinked separate parts where each definition can be source for its own wiki page. hugo has functionality for snippets but seemed like it would require one-level higher content planning and too much overhead so I chose the simplest way.
+
 
 Published on Render: https://islam-wiki.onrender.com/docs/wiki/islam-wiki
 
-It it truly amazing that nowadays we can read about any historic event just sitting on a couch and listen to khutbas and lectures of best sheikhs.
+Anas ibn Malik reported that prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." 
+
+and you can really see the evidence of how seeking knowledge became essential for the first generation of Muslims like drinking water.
+ I envy my dear Egyptian friends who study all this in madrasahs when they are young.
+
+We do not appreciate enough how amazing is that nowadays we can find data about any historic event in seconds just sitting on a chair and listen to khutbas and lectures of best sheikhs from any country. That is truly a huge advantage and luxury that scholars of old times never had. Just remember the scholar who had to travel on foot and camels all the way up to Basra in order just to listen for one single hadith because his teacher said that some years ago he heard a man from Basra reporting this hadith. 
 
 
 ### Note on CSS
@@ -238,6 +284,8 @@ Sections
 6. [God's creation compared to computer programming]
 7. Maybe make the interactive chart of connections like in Infinite Jest.
 8. Interactive diagram of how persons good and bad deeds are collected by angels and sent to Jannah and Jahannam where they obtain some form.
+9. amazingness of how first generations of Muslim scholars collected hadith and.
+
 
 Custom Header
 ****************************

@@ -298,7 +298,7 @@ There has been some historical debate among Muslim scholars about the precise me
     245-66 million years ago: 🦖 🦕​ Dinosaurs!! And also crocodiles and cockroaches!!
     ~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
 
-    Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. And after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
+Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. And after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
 
 Before 19th century there was a scientific consensus that the Universe 🌌 is static. But after Einstein's Theory of Relativity, science stated that the Universe is expanding. So, until 19XX science contradicted the Quran. 
 100 years ago, the world’s best scientific minds thought that the universe had always existed. Since it always existed, it didn’t need a Creator.
@@ -355,7 +355,7 @@ There are many types of creatures living on earth, including plants, animals, in
 
 </details><details><summary>
 
-## Era of Jinns (Devils/Spirits)
+## Jinns (Spirits/Devils)
 
 </summary>
 
@@ -505,7 +505,7 @@ The idea that demons have horns seems to have been taken from chapter 13 of the 
 
 ### Shedim in Judaism
 
-Shedim (Hebrew: שֵׁדִים; singular: שֵׁד Shed) are spirits or demons in the Tanakh and Jewish tradition. However, they are not necessarily equivalent to the modern connotation of demons as evil entities.
+Shedim (singular: Shed) are spirits or demons in the Tanakh and Jewish tradition. However, they are not necessarily equivalent to the modern connotation of demons as evil entities.
 
 They appear only twice (always plural) in the Tanakh, at Psalm 106:37 and Deuteronomy 32:17. Both times it deals with child or animal sacrifices. Although the word is traditionally derived from the root šwd (Hebrew: שוד shûd) that conveys the meaning of "acting with violence" or "laying waste," it was possibly a loan-word from Akkadian in which the word shedu referred to a spirit which could be either protective or malevolent. With the translation of Hebrew texts into Greek, under influence of Zoroastrian dualism, shedim were translated into daimonia with implicit negativity. Otherwise, later in Judeo-Islamic culture, shedim became the Hebrew word for Jinn with a morally ambivalent attitude.
 
@@ -3396,17 +3396,29 @@ Fun fact: It is the same Constantine the founder of Constantinople.
 </summary>
 
 > Modern Christianity is based on the following unfortunate turn of eventsm which corrupted original teachings of Jesus:
+>
 > -- 31--36 AD: Paul, who never saw Jesus, proclaimed himself an Apostol.
+>
 > -- Paul preached that Jesus is the son of God to non-Jewish people.
+>
 > -- Paul preached that Jesus died for sins of the humanity.
+>
 > -- Paul preached that people do not need to follow the Law of the Old Testament.
+>
 > -- Modern version of the New Testament mostly consists of Paul's letters that contain many contradictions.
+>
 > -- 150 AD: The first mention of the Trinity appears only some 150 years after Jesus left the earth.
+>
 > -- Early Christians who believed that Jesus was a prophet were prosecuted. After Paul's preaching Christianity divided into two main branches. One of them believed that Jesus as a prophet and a messiah, the others supported Paul's version.
+>
 > -- 312 AD: Roman Emperor Contantine I converted to Christianity.
+>
 > -- 325 AD: Nicaean Creed. Contantine gathers church representatives and they decide that the Paul's version of Christianity will be official, thus declaring Jesus to be the son of God. They also decided that the Spirit is a God as well. This contradicted the original Arbrahamic dogma of a "monotheistic" religion in which there could be only one God. So, they decided that all three Gods are united in one entitity, making it the Trinity and destroying the logic.
+>
 > -- At the Nicaean Creed, Arius (an Alexandrian priest who claimed that God alone is Almighty and Jesus is dependend from God) was declared a herethic and was exiled. 
+>
 > -- After Nicaean Creed, Constantine and the Pauline Church took hundreds of manuscripts and Gospels that contradicted Paul’s views banned and destroyed them. Some of these manuscripts were written by the Disciples themselves. The ancient manuscripts, written initially in the original Aramaic and Hebrew, were destroyed, and only the Greek and Latin manuscripts were spared.
+>
 > -- People from non-Pauline branches of Christianity were persecuted, tortured and killed as herethics. Up until they slowly vanished.
 
 First counsil of Nicaea. After converting to Christianity, the Emperor Constantine contacted the Council of Nicaea to discuss and resolve whether Jesus Christ is the Son of God and other related matters. The council of the Christian leaders at Nicaea understood Paul’s strange belief set as the sect of Christianity they would follow. Constantine was the first Emperor to make Christianity a state religion after Christians had been persecuted and killed for three hundred years — simply for being Christian. The worship of the Roman sun god was rampant during this period.
@@ -7679,12 +7691,6 @@ He didn't mention that Allah and angels will come in rows, the blowing of the tr
   * soul takes punishment until The Day of Judgement 
 
 Before talking about the Hereafter, we must contemplate on what happens after a person dies.
-
-
-
-
-
-
 
 
 
