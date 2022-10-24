@@ -8125,12 +8125,23 @@ The people said, "O Allah's Messenger ﷺ  ! Shall we see our Lord on the Day of
 </summary>
 
 People will need to cross the bridge that lays above Jahannam.
-and the Prophet Muhammad is waiting on the other side of Sirat with a cup from his fountain.
+
+And the Prophet Muhammad is waiting on the other side of Sirat with a cup from his fountain (Kawthar).
+
+### Kawthar
+
 Whoever drinks from Kawthar will not feel thirst ever again.
+
 Then bridge of Qantarah to allow people complete their arguments. People will forgive each other. this will cause the delay because they didn forgive them in dunya.
 
     And we removed every grudge from their hearts. They will be brothers, reclining on thrones that Day, looking at one another.
     Quran 15:47
+
+> Narrated Sahl ibn Sa'd : I heard the Prophet saying, "I am your predecessor at the Lake-Fount (Kauthar), and whoever will come to it, will drink from it, and whoever will drink from it, will never become thirsty after that. There will come to me some people whom I know and they know me, and then a barrier will be set up between me and them." Abu Sa'id Al-Khudri added that the Prophet further said: "I will say those people are from me. It will be said, 'You do not know what changes and new things they did after you.' Then I will say, 'Far removed (from mercy), far removed (from mercy), those who changed (the religion) after me! "
+
+> Narrated Asma' : The Prophet said, "I will be at my Lake-Fount (Kauthar) waiting for whoever will come to me. Then some people will be taken away from me whereupon I will say, 'My followers!' It will be said, 'You do not know they turned Apostates as renegades (deserted their religion).'" (Ibn Abi Mulaika said, "Allah, we seek refuge with You from turning on our heels from the (Islamic) religion and from being put to trial").
+
+> Narrated 'Abdullah : The Prophet said, "I am your predecessor at the Lake-Fount (Kauthar) and some men amongst you will be brought to me, and when I will try to hand them some water, they will be pulled away from me by force whereupon I will say, 'O Lord, my companions!' Then the Almighty will say, 'You do not know what they did after you left, they introduced new things into the religion after you.'"
 
 </details><details><summary>
 
