@@ -129,6 +129,7 @@ My Ghostwriter editor says the reading time of the whole thing is 6 hours. I won
 I need to relisten some lectures from Seerah of prophet Muhammad SAW and finish the History of Islam section.
 
 https://miro.com/app/board/o9J_kqBzhXk=/
+https://docs.gitbook.com
 
 
 
@@ -136,8 +137,8 @@ Published on Render: https://islam-wiki.onrender.com/docs/wiki/islam-wiki
 
 Anas ibn Malik reported that prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." 
 
-and you can really see the evidence of how seeking knowledge became essential for the first generation of Muslims like drinking water.
- I envy my dear Egyptian friends who study all this in madrasahs when they are young.
+and you can see the evidence of how seeking knowledge became essential like drinking water for the first generation of Muslims.
+I envy my dear Egyptian friends who study all this in madrasahs when they are young.
 
 We do not appreciate enough how amazing is that nowadays we can find data about any historic event in seconds just sitting on a chair and listen to khutbas and lectures of best sheikhs from any country. That is truly a huge advantage and luxury that scholars of old times never had. Just remember the scholar who had to travel on foot and camels all the way up to Basra in order just to listen for one single hadith because his teacher said that some years ago he heard a man from Basra reporting this hadith. 
 

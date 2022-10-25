@@ -7442,10 +7442,6 @@ There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginn
 
 Savior and evil-doing figures that appear in the major signs include:
 
-The Mahdi, i.e. the "Rightly Guided One", is a messianic figure descended from Muhammad through Ali, who (with the help of Jesus) will defeat the Dajjal, reestablish Islamic law, rid the world of bid'a (religious innovation), and fill it with justice;
-
-The Sufyani is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
-
 </details><details><summary>
   
 ## What to do if Al Qiyamah starts?
@@ -7559,9 +7555,19 @@ while believers would march to figt the Abyssinain ruler, Allah will send a ligh
 
 https://wise-web.org/2020/09/06/isa-as-second-coming/ 
 
+### Mahdi
+
+Mahdi will not know that he is Mahdi and Alla will prepare him in one ocassion. His name will be Muhammad and his father's name will be Abdallah.
+
+A king will die and his sons will start fighting for power and Mahdi will leave Medina to Mecca not to get involved in the turmoil. But people will follow him to Mecca and give him bayat in Al Haram. Then an army will come to Mecca to kill Mahdi but the earth will swallow the army leaving only several people to tell the story.
+
+The Sufyani is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
+
 While the Mahdī is ruling as the Imām or Khalīfah of the Muslims, and preparing for battle against the forces of the Dajjāl in Syria, shortly after having conquered Constantinople, ʿĪsā b. Maryam (AS) will return to earth. He will descend close to the white minaret to the east of Damascus just before Fajr time.
 
 The Mahdī and others will ask him to lead them in prayer but he will refuse saying, ‘Your Imām should lead, as a grace from Allāh.’"
+
+### Isa defeats Dajjal
 
 After they have prayed Fajr, the Muslims will go out to face him; this will be the final battle fought between them and the armies of the Dajjāl. The very fragrance of the breath of ʿĪsā will kill any disbeliever it reaches, and it will extend out for as far as the eye can see. The battle will be so fierce that the forces of the Dajjāl will flee and hide behind boulders and trees, but those boulders and trees themselves will cry out, ‘Muslims, there is a Jew behind me, come kill him!’ except for the Gharqad tree because that is a tree of the Jews.
 
@@ -8159,20 +8165,19 @@ As for who the inhabitants of the inhabits al-aʿrāf are, the "majority of exeg
 
 </summary>
 
-In the hadith about intercession that the Prophet (blessings and peace of Allah be upon him) said: "I will come to the gate of Paradise on the Day of Resurrection and will ask for it to be opened. The keeper will say: ‘Who are you?’ I will say, ‘Muhammad.’ He will say: ‘I was commanded not to open it for anyone before you." Narrated by Muslim (197)
+> In the hadith about intercession that the Prophet (blessings and peace of Allah be upon him) said: "I will come to the gate of Paradise on the Day of Resurrection and will ask for it to be opened. The keeper will say: ‘Who are you?’ I will say, ‘Muhammad.’ He will say: ‘I was commanded not to open it for anyone before you." Narrated by Muslim (197)
 
-Another report in the Sahihayn is in different words,"The first group to enter Paradise will be glittering like the moon (as it appears) on a full moon night. Those to follow them will be like the most shiny star in the sky. They will not spit therein, nor blow their noses, nor attend a nature’s call. Their combs will be of gold and silver, and sweat of misk. Their incense of pearls, and aloe wood used for fire. Their spouses will be wide-eyed Houries. All of them on one nature, on the face of their father Adam, sixty feet (tall) in the heaven."
+Another report in the Sahihayn is in different words.
+
+> "The first group to enter Paradise will be glittering like the moon (as it appears) on a full moon night. Those to follow them will be like the most shiny star in the sky. They will not spit therein, nor blow their noses, nor attend a nature’s call. Their combs will be of gold and silver, and sweat of misk. Their incense of pearls, and aloe wood used for fire. Their spouses will be wide-eyed Houries. All of them on one nature, on the face of their father Adam, sixty feet (tall) in the heaven."
 
 There are a few other reports about those who will enter first through the gates of Paradise. The following is in the Sahihayn: Abu Hurayrah reported the Prophet as having (once) said, "Seventy-thousand of my Ummah will enter Paradise, their faces shining as bright as the moon on a full moon night." Abu Hurayrah said, "At that `Ukk asha got up lifting a shroud on him and said, ‘Messenger of Allah. Supplicate to Allah that He place me as one of them.‘ He said, ‘O Allah, make him one of them.‘ Then another man of the Ansar stood up and said, ‘Messenger of Allah. Supplicate to Allah that He place me as one of them.’ He replied, ‘`Ukk asha overtook you therewith." According to another report (of Bukhari and Muslim), the Prophet (saws) said,"Surely, seventy thousand of my followers, or seven hundred thousand, the first of whom will not enter Paradise until the last of them enters. Their faces shining bright like the moon on a full-moon night."
 
-According to another tradition recorded by Tirmidhi, the Prophet said,"My Lord has promised me that He will admit seventy thousand of my followers into Paradise, without they undergoing any reckoning or any punishment, along with another seventy thousand and (over and above them) three handfuls from the Handfuls of my Lord" (Ibn Kathir).
+> According to another tradition recorded by Tirmidhi, the Prophet said,"My Lord has promised me that He will admit seventy thousand of my followers into Paradise, without they undergoing any reckoning or any punishment, along with another seventy thousand and (over and above them) three handfuls from the Handfuls of my Lord" (Ibn Kathir).
 
 The above report was declared Hasan Gharib by Tirmidhi. However, after mentioning the above in his "Fath", Ibn Hajr quoted another hadith on the above topic from Ibn Hibb an and Tab arani, which he declared trustworthy. It says,"Then every thousand will intercede for seventy thousand. Thereafter, my Lord will usher in three handfuls of His two Handfuls." When Umar said "Allah is the Greatest" the Prophet added, "The seventy thousand will be allowed to intercede for their fathers, mothers and family members, and I hope that the handfuls will be from the lowest of my followers."
 
-
-
-
-when people enter Jannah, they will be told that they will be forever young, don't be sad or sick and stay there forever.
+When people enter Jannah, they will be told that they will be forever young, don't be sad or sick and they will stay in Paradise forever.
 
 Allah says I will be forever pleased with you. and people will see Allah.
 
