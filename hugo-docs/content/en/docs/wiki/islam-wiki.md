@@ -7723,7 +7723,30 @@ What happens during and after death?
 Imâm-i Ghazâlî, on the other hand, declares:
 "The torment in the grave will be inflicted on both the soul and the body" (Ihyâ).
 
+<details><summary>
+
+### Generosity and Forgetfulness before Death
+
+</summary>
+
+Imam Zaynu '1-'Abidin (A) said: “Allah has said, I do not hesitate in any order, except the death of a believer - he dislikes death and I do not like displeasing him-; So when time comes for him to die, Allah sends two angels (or, according to other traditions, two flowers) to him: one is called “Muskhiyyah” - one who makes him generous - and the other is called “Munsiyyah” - one who makes him forget. Thus, the Muskhiyya makes him generous with his family wealth (he willingly leaves every thing behind) and the Munsiyyah makes him forget all worldly affairs.
+ 
+Anyhow, when Muskhiyyah and Munsiyyah have done their work, the Angel of Death (Malak-ul-Maui) arrives and tells him not to worry: “By Allah, I am kinder to you than your father. Now, open your eyes and look.” Then his spiritual eyes are opened and he sees (in his vision) the faces of the Messenger of Allah (S) and the Imams (A), is informed who they are, and is given the good tidings that he would be their companion. Then he hears a call:
+
+    "O thou tranquil soul, return to thy Lord, well pleased, well pleasing (to Him): enter thou amongst My servants, and enter thou My paradise".
+    Qur'an, 89:27-30
+ 
+At that time, the believer's only wish is to die as soon as possible so that he may reach that caller.
+ 
+Thus, the believer leaves this world without any sorrow and without any care. And Allah gives him death when he himself desires death above all things, so that he may reach the Messenger of Allah and the Imams (peace be on them all).
+ 
+But for the hypocrites and the unbelievers the story is completely different.
+
+</details><details><summary>
+
 ### The Unseen world becomes visible moments before death
+
+</summary>
 
     Now We have removed your veil from you; so your sight today is sharp
     Quran 50:22. 
@@ -7749,7 +7772,11 @@ In Islam, when someone is about to die then few things will happen:
 
 Few moments before death, the person would start to see what is usually unseen for the human eyes (God describe this as the eyes being unveiled to finally see the truth).
 
+</details><details><summary>
+
 ### Angel of Death departs the soul from the body
+
+</summary>
 
 The Angel of Death will come to the person but how the look of the Angel of Death depends on the state of the person (which means how the Angel will appear is determined by the deeds of the person: Good deeds or bad deeds).
 
@@ -7800,6 +7827,25 @@ Source: Musnad Aḥmad 18534
 
 Grade: Sahih (authentic) according to Al-Arna’ut
 
+</details><details><summary>
+
+### Barzakh
+
+</summary>
+
+“Barzakh” literally means 'barrier'. In the Qur'an, it has been used for the period between death and the Day of Resurrection.
+
+“And behind them is the Barzakh (barrier) till the Day they will be Resurrected”. (Qur'an, 23:100).
+ 
+Our 6th Imam (A) has said that “We will intercede on your behalf on the Day of Judgement; but by Allah, I am worried about you for the period when you would be in Barzakh”.6
+ 
+Imam (A) has referred in this Hadith to the fact that the sinning believers will get their punishment during this period, as will be explained later on.
+
+</details><details><summary>
+
+## Two Angels question the soul
+
+</summary>
 
 After a person is buried, two angels come to the died person and ask questions.  Munkar and Nakir ("The Denied and The Denier") are angels who test the faith of the dead in their graves. The questioning will begin when the funeral and burial is over. Nakir and Munkar prop the deceased soul upright in the grave and ask three questions:
 
@@ -7811,9 +7857,9 @@ A righteous believer will respond correctly, saying that their Lord is Allah, th
 
 Muslims believe that a person will correctly answer the questions not by remembering the answers before death but by their iman (faith) and deeds such as salat (prayer) and shahadah (the Islamic profession of faith).
 
-<details><summary>
+</details><details><summary>
 
-## Salman Al-Farsi talks with a Dead Person
+## Hadith: Salman Al-Farsi talks to a Dead Person
 
 </summary>
  
