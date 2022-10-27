@@ -29,42 +29,64 @@ maybe make the first post short.
 
 --------------------------------------------------------------------------
 
-Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts and dwellings.
+Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts, our minds, and our dwellings.
 
-In order to get some Hugo and CSS practice, I started wrapping up my notes about Islam into a static website and after one year of spending 20-30 minutes daily, the MD editor showed it would take 12 hours to read the whole thing.
+When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of stories from religious texts. Surahs of the Quran are not written in the chronological order. I was struggling to get the whole picture, so in order to combine different pieces together, I have wrapped up my notes about Islam into a static website. The main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one place and sort them according to a historical timeline. Along the way, I had to add additional historic events that are not mentioned in the Quran but that affected and shaped the world as we see today.
 
-When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of stories from religious texts. Moreover, surahs of the Quran are not combined in the chronological order but in the order that was defined by the prophet Muhammad ﷺ  . That is why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one place and sort them according to a historical timeline.
+After testing several frameworks, I went forward with Hugo, which we also use  in MBition. Hugo is an extremely fast static HTML generator. It is open-source, flexible, has themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
 
-To build the website, I used a static HTML generator -- Hugo. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
-
-I will try to make a separate post about how the stack behind the website works inshaallah. Shortly, the overall stack looks like this:
+The overall stack looks like this:
 
 1. Hugo: a static web-site generator that builds a static HTML/CSS/JS website using MD files as a source. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
 	- Hyas: I used the Hyas theme to have a good-looking bootstrap layout.
 		- Hyas depends on Node.js and a swarm of npm packages. On Windows, you will also need Chocolatey to configure it.
 		- Doks theme. I had to add and tune some JS/CSS elements to adjust the website to my purposes. Doks is a bit too advanced for a beginner like me so I still has plenty of bugs to fix. There are standard Hugo themes that can be configured in 5 min.
-2. Render: I am hosting the website on Render. Up to 100GB bandwisth a month is free. And 400 total build hours per month for free services and static sites. I also tried Netlify, basically the same functionality.
-3. A pipeline on Render automatically fetches the latest commit in my git repo, installs all required npm packages, builds the website and pushes it to production. You can configure a test server on Render but I just test on my local machine.
+2. Render: I am hosting the website on Render. Up to 100GB bandwith and 400 total build hours is free of charge. I also tried Netlify, basically the same functionality.
+3. A pipeline on Render fetches the latest commit in my git repo, installs all required npm packages, builds the website and pushes it to production. You can configure a test server on Render but I just test on my local machine.
 
-the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources.
-> 
-> Other sources of this guide include: authentic hadiths, some non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History", a book "Muhammad, His Biography Based on Earliest Sources". Some parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman) without providing the original source. I tried to stick to aforementioned sources. Mostly it is copy-paste, I have gathered the information, currated it, combined together and did some editing.
+The core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources.
+ 
+> Other sources of this guide include: authentic hadiths, some non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History", a book "Muhammad, His Biography Based on Earliest Sources". Some parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman). I tried to stick to aforementioned sources. Mostly it is copy-paste, I have gathered the information, currated it, combined together, and did some editing.
+
+my notes on Yasir Qadhi's 114 lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them, remove the parts that are not mentioned in The Quran or authentic hadiths, or parts that are too Shia. Also, I started to create summaries of some sections and reorganize them, but decided to publish it because I want to take a break and learn to properly read the Quran in Arabic.
 
 
+Islam teaches to finish what you started and there are still many bugs and I have to finish the most interesting sections: Al Qiyamat--the Eshcatonian part, about death and what happens on the other side. 
 
+I've spent 20-30 minutes a day for a year. Slowly it got into shape, Alhamdulillah. I had some good time trying to gather particles of an endless puzzle and intend to continue, if God wills.
+
+Our prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." and it amazes me how seeking knowledge became essential like drinking water for the first generation of Muslims, true ummah of Al Nabi ﷺ  . I envy my dear Egyptian brothers who study all this in madrasahs when they are young.
+
+We do not appreciate enough that nowadays we can find data about any hadith, any historic event in seconds and listen to khutbas and lectures of best sheikhs from all over the world. That is truly a huge advantage and luxury that scholars of old times never had. Just see the beginning of a hadith narrated by Jābir ibn Abdullah.
+
+> It reached me that a man heard a Hadith from the Messenger of Allah ﷺ  , so I purchased a camel, then traveled quickly to him. I travelled for one month until I reached Sham.
+
+The man was Abdullah ibn Unays. I said to the doorman, tell him Jābir is at the door. He replied, “Ibn Abdullah?” I said, “Yes.” He came out dragging his thobe. He hugged me and I hugged him.
+
+I said to him, “It has reached me that there is a Hadith which you heard from the Messenger of Allah ﷺ   concerning the retribution. I was afraid that you might die, or I might die before I heard it.”
+
+Abdullah ibn Unays then reports an interesting hadith, the full version of which is in the Day of Judgement section.
+
+Peace and blessings be upon you
 
 -----------------------------------------------------------------------------
 
+Traveler: He is the noble companion Jābir ibn Abdullah ibn Amr ibn Harām. He narrated 1,540 Hadith. He fought in 19 battles alongside the Messenger of Allah ﷺ. His father was a companion. His seven sisters were all companions.
+
+Narrator: He is the noble companion Abdullah ibn Unays. He prayed towards both Qiblas. He smashed the idols of Bani Salamah.
+
+Abdullah ibn Unays said, “I heard the Messenger of Allah ﷺ  , ‘The people will be gathered on the Day of Standing—and he pointed with his hand towards Sham. They will be gathered naked, uncircumcised, and buhman.’ We said, ‘And what is buhman?’ He ﷺ   replied, ‘They will not have anything with them. Then a Caller will call out with a voice heard equally by those far and near (saying), ‘I am the King, I am the Reckoner. It is not befitting that anyone from the inhabitants of the Hellfire should enter the Hellfire while someone from the inhabitants of Paradise owes him a right, until he settles it. And it is not befitting that anyone from the inhabitants of Paradise enters Paradise while someone from the inhabitants of the Hellfire owes him a right, until he settles it, even if it is only a slap.’’ We said, ‘And how will this be, when we will stand before Allah, naked, uncircumcised, without anything?’ He ﷺ   replied, ‘With good deeds and bad deeds.’” (Al-Adab Al-Mufrad, #970, declared Hasan by al-Albani)
 
 it is build on the Hugo framework with Hyas
 
+I started wrapping up my notes about Islam into a static website and after one year of spending 20-30 minutes daily, the MD editor showed it would take 12 hours to read the whole thing.
 
 
 gathered from various web resources:
 Islam: A Short History by Karen Armstrong who is a famous historian and a Christian nun.
-my notes on Yasir Qadhi's 114 lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them, remove the parts that are not mentioned in The Quran or authentic hadiths, or parts that are too Shia. Also, I started to create summaries of some sections and reorganize them, but decided to publish it as is hoping that some day I can edit it to the okay state. 
 
-Along the way, I had to add some additional historic events that are not mentioned in the Quran but that affected and shaped the world as we see today.
+
+and logic behind the selected layout
 
 Another aspect that always bothers me in large documentation samples is that it is not easy to create a proper helicopter view of the whole thing. TOC helps you to navigate but doesn't give a summary. However in terms of historical texts, TOC can actually provide a short description of what happened in the correct order. 
 
@@ -94,7 +116,7 @@ I bought the domain here:
 6. GitLab: source files for content + CSS, JS, themes are stored in GitLab.
 
 
-btw last year I realized that my father's name Gilmetdeen translates from Arabic as "Knowledge of the religion". It is an old Tatar name and I couldn't think of another domain so I bought it.
+btw last year I realized that my father's name Gilmetdeen means "Knowledge of the religion" in Arabic. It is an old Tatar name; I couldn't think of another domain so I bought it.
 
 Hugo has good documentation, but custom themes mostly written by front-end enthusiasts almost don't have documentation, which leaves you to reverse engineer the setup. I wouldn't recommend Hyas/Doks for beginners or if you want to customize the layout or CSS, there are much simpler themes of Hugo that can be configured in 5 min.
 
@@ -113,6 +135,8 @@ After realizing that you can do so many things without a web server but just wit
 Well, maybe the fact that I know very little about building a web server plays a significant role here as well.
 
 I really need to finish the Eschatonian part, for now it's hard to figure out the order of events in the signs of Day of Judgement and Al Qiyamah itself. So the section has the [TBD] tag. Actually, The Apocalypse and jinns (spirits and devils) are two topics that I find the most interest among non-Muslim people as well.
+
+
 
 The main page markdown file is 8000 lines. Islam teaches to finish what you started, so I tried to spend on this at least 20 minutes a day. Slowly it got into shape, Alhamdulillah. I had some good time trying to gather particles of an endless puzzle.
 but there are still many bugs left.

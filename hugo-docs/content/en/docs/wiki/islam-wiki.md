@@ -1105,7 +1105,7 @@ In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is s
 
 Archaeologist and biblical scholar William F. Albright maintained (c. 1961) that the narratives of Abraham and Jacob could be dated to about the 19th century BCE.
 
-There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The Jewish sources claim that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. There is scientific evidence that Homo-Sapiens existed for several hundred thousand years, and there is no contradiction to the Quran because there is no certain timeline given in The Book. Also, the prophet Muhammad ﷺ    said that the distance between me and Al Kiyamah is like distance between my two fingers.
+There is no agreed opinion on how many generations passed from Adam till Nuh, from Nuh till Ibrahim. The Jewish sources claim that the humanity lived only 6000 years but Muslims don't have this fixed timeline, we can extrapolate. There is scientific evidence that Homo-Sapiens existed for several hundred thousand years, and there is no contradiction to the Quran because there is no certain timeline given in The Book. Also, the prophet Muhammad ﷺ    said that the distance between me and Al Qiyamah is like distance between my two fingers.
 
 The best answer to this issue is Allahu 'Alim, God knows best.
 
@@ -7438,7 +7438,7 @@ Events that are yet to happen:
 * The blowing in the Trumpet by the Angel Israfil, upon which everyone will faint except as Allah wills (Sahih Muslim, Book 041: 7023)
 * The second blowing in the Trumpet, upon which everyone will be resurrected (Sahih Muslim, Book 041: 7023)
 
-There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Kiyamah while planting a palm seed, continue planting the seed.
+There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Qiyamah while planting a palm seed, continue planting the seed.
 
 Savior and evil-doing figures that appear in the major signs include:
 
@@ -7474,7 +7474,7 @@ Abu Darda’ reported Allah’s Apostle ṣallallāhu 'alayhi wa sallam (peace a
  
 </details>
 
-### 11.2 Major Signs of Al Kiyamah
+### 11.2 Major Signs of Al Qiyamah
 
 <details><summary> Overview </summary>
 
@@ -8068,7 +8068,7 @@ creations will be in a state of fear and panic. Their necks are stretched, their
 
 the ones who rejected prophet Muhammad will wish that the aerth swallowed them.
 
-Quran says "Don't ever think that Allah is unaware" the Justice will be done.
+Quran says `"Don't ever think that Allah is unaware"`, the Justice will be done.
 
 The sun will come close to mankind and people will start to sweat according to their sinfulness. others will be in sweat by their ankles, some will be in sweat up their chest, some will drown completely in their sweat.
 
@@ -8087,6 +8087,23 @@ Hadith from Abu Huraira:
 > Anyone who owns gold or silver that he doesn't pay zakat on it, that zakat will turn into fire that will be used to burn his sides in a day that will stretch to 50 thousand years. Then he will see whether he will go to Heaven or Hell.
 
 There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long.
+
+### People settle their debdt among each other
+
+People will be all gathered in a white space without mountains naked. And they will have to handle between each other all their debts, all unfinished business.
+>
+> The Hadith as narrated by Jābir ibn Abdullah.
+>
+> It reached me that a man heard a Hadith from the Messenger of Allah ﷺ  , so I purchased a camel, then traveled quickly to him. I travelled for one month until I reached Sham.
+>
+> The man was Abdullah ibn Unays. I said to the doorman, tell him Jābir is at the door. He replied, “Ibn Abdullah?” I said, “Yes.” He came out dragging his thobe. He hugged me and I hugged him.
+>
+> I said to him, “It has reached me that there is a Hadith which you heard from the Messenger of Allah ﷺ   concerning the retribution. I was afraid that you might die, or I might die before I heard it.”
+>
+> Abdullah ibn Unays said, “I heard the Messenger of Allah ﷺ  , ‘The people will be gathered on the Day of Standing—and he pointed with his hand towards Sham. They will be gathered naked, uncircumcised, and buhman.’ We said, ‘And what is buhman?’ He ﷺ   replied, ‘They will not have anything with them. Then a Caller will call out with a voice heard equally by those far and near (saying), ‘I am the King, I am the Reckoner. It is not befitting that anyone from the inhabitants of the Hellfire should enter the Hellfire while someone from the inhabitants of Paradise owes him a right, until he settles it. And it is not befitting that anyone from the inhabitants of Paradise enters Paradise while someone from the inhabitants of the Hellfire owes him a right, until he settles it, even if it is only a slap.’’ We said, ‘And how will this be, when we will stand before Allah, naked, uncircumcised, without anything?’ He ﷺ   replied, ‘With good deeds and bad deeds.’”
+> Al-Adab Al-Mufrad, #970, declared Hasan by al-Albani
+
+
 
 ### People ask prophet Muhammad ﷺ   to speak to God
 

@@ -452,3 +452,25 @@ This video will give you a clear explanation of Death in Islam and what would ha
 
 (If anyone were to be saved from the squeezing of the grave, Sa’d bin Mu‘adh would have been saved from it.) [Imâm-i Ahmad]
 
+In order to get some Hugo and CSS practice,
+but in the order that was defined by the prophet Muhammad ﷺ  . That is why the main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one place and sort them according to a historical timeline.
+
+I started wrapping up my notes about Islam into a static website and after one year of spending 20-30 minutes daily, the MD editor showed it would take 12 hours to read the whole thing.
+
+
+To build the website, I used a static HTML generator -- Hugo. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
+
+I will try to make a separate post about how the stack behind the website works inshaallah. Shortly, the overall stack looks like this:
+
+1. Hugo: a static web-site generator that builds a static HTML/CSS/JS website using MD files as a source. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
+  - Hyas: I used the Hyas theme to have a good-looking bootstrap layout.
+    - Hyas depends on Node.js and a swarm of npm packages. On Windows, you will also need Chocolatey to configure it.
+    - Doks theme. I had to add and tune some JS/CSS elements to adjust the website to my purposes. Doks is a bit too advanced for a beginner like me so I still has plenty of bugs to fix. There are standard Hugo themes that can be configured in 5 min.
+2. Render: I am hosting the website on Render. Up to 100GB bandwisth a month is free. And 400 total build hours per month for free services and static sites. I also tried Netlify, basically the same functionality.
+3. A pipeline on Render automatically fetches the latest commit in my git repo, installs all required npm packages, builds the website and pushes it to production. You can configure a test server on Render but I just test on my local machine.
+
+the core structure of this guide is based on narrations of the Quran. Tafsir and verses are copied from various open sources.
+> 
+> Other sources of this guide include: authentic hadiths, some non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History", a book "Muhammad, His Biography Based on Earliest Sources". Some parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman) without providing the original source. I tried to stick to aforementioned sources. Mostly it is copy-paste, I have gathered the information, currated it, combined together and did some editing.
+
+
