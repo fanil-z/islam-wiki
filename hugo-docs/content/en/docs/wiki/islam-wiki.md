@@ -7440,37 +7440,41 @@ Events that are yet to happen:
 
 There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Qiyamah while planting a palm seed, continue planting the seed.
 
-Savior and evil-doing figures that appear in the major signs include:
-
 </details><details><summary>
   
 ## What to do if Al Qiyamah starts?
 
 </summary>
 
-Recently, there seems to be increased awareness and fascination with the end of the world. People of many faiths are starting to think the signs of the last day are all around them, with Christians pointing to some biblical prophecies coming to light, or Jews now ‘back’ in Jerusalem, anticipating the return of their ‘Messiah’.
+Many of the signs of the Day of Judgement mentioned in hadith has already appeared. The Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) did once say, whilst gesturing with his index and middle fingers, `"The time of my advent and the Hour are like these two fingers"`. [Al-Bukhari]
 
-It is also widely thought amongst many erudite Islamic scholars that we are in the final throes of the last days before the Hour. After all, the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) did once say, whilst gesturing with his index and middle fingers, `"The time of my advent and the Hour are like these two fingers"`. [Al-Bukhari]
+### Continue planting a seed
 
 > Anas ibn Malik raḍyAllāhu 'anhu (may Allāh be pleased with him) reported that the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, "If the Final Hour comes while you have a palm-cutting in your hands and it is possible to plant it before the Hour comes, you should plant it." [Al-Abani]
 
-> "A man asked the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) about the Hour (i.e. Day of Judgment) saying, ‘When will the Hour be?’ The Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, ‘What have you prepared for it?'" [Al-Bukhari]
+### Prepare for the Hour
 
-If you are able to do so, you can study the science of Islamic Eschatology (the study of the end of times). Amid all of this worldwide confusion, being able to recognise the signs and get some clarity about the reality of the world you inhabit can certainly be no bad thing.
+> "A man asked the Prophet ﷺ   about the Hour (i.e. Day of Judgment) saying, ‘When will the Hour be?’ The Prophet ﷺ   said, ‘What have you prepared for it?'" [Al-Bukhari]
 
-Do good deeds
+Prophet Muhammad ﷺ   also said `Seeking knowledge is an obligation upon every Muslim.` Study the Quran and hadith about the End Times. When the turmoil and the end times come, the more you know what to expect, the better you may react to it in the right way.
 
-Abu Hurairah said, "The Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, ‘Hasten to do good deeds before six things happen: the rising of the sun from the west, the smoke, the Dajjal, the beast and (the death) of one of you or the general turmoil. [Muslim]
+### Do good deeds
 
-Seek refuge
+> Abu Hurairah said, "The Prophet ﷺ   said, ‘Hasten to do good deeds before six things happen: the rising of the sun from the west, the smoke, the Dajjal, the beast and (the death) of one of you or the general turmoil. [Muslim]
 
-This essentially means to not engage and invite fitnah. It is better to stay away from situations wherein even the temptation or the threat of fitnah exists, if we are able to do so. Abu Hurairah said, the Prophet ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said, "There will be soon a period of turmoil in which the one who sits will be better than one who stands and the one who stands will be better than one who walks and the one who walks will be better than one who runs. He who would watch them will be drawn by them. So he who finds a refuge or shelter against it should make it as his resort." [Muslim]
+### Do not engage in fitnah (turmoil)
 
-Accept your ‘strangeness!’
+Abu Hurairah said, the Prophet ﷺ   said, "There will be soon a period of turmoil in which the one who sits will be better than one who stands and the one who stands will be better than one who walks and the one who walks will be better than one who runs. He who would watch them will be drawn by them. So he who finds a refuge or shelter against it should make it as his resort." [Muslim]
 
-Yes, agreed – it is becoming more and more difficult for us nowadays. But know that this is prophesied and is one of Allah subḥānahu wa ta'āla (glorified and exalted be He)‘s tests for us!’Abdullah bin Mas’ud narrated that the Messenger of Allah ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) said: "Indeed Islam began as something strange and it will return to being strange as it began. So Tuba [good tidings] is for the strangers." [At-Timirdhi] Someone asked, "Who are the strangers?" He said, "The ones who break away from their people (literally, ‘tribes’) for the sake of Islam."
+### Get ready to be strange for others
+
+> ’Abdullah bin Mas’ud narrated that the Messenger of Allah ﷺ   said: "Indeed Islam began as something strange and it will return to being strange as it began. So Tuba [good tidings] is for the strangers." [At-Timirdhi] Someone asked, "Who are the strangers?" He ﷺ   said, "The ones who break away from their people (literally, ‘tribes’) for the sake of Islam."
+
+### Protection from Dajjal
+
 Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
-Abu Darda’ reported Allah’s Apostle ṣallallāhu 'alayhi wa sallam (peace and blessings of Allāh be upon him) as saying: "If anyone learns by heart the first ten verses of the Surah Al-Kahf, he will be protected from the Dajjal." [Muslim] Study the tafsir and you’ll soon see the link between the two – it really is the surah to help us understand the modern age!
+
+> Abu Darda’ reported Allah’s Apostle ﷺ   as saying: "If anyone learns by heart the first ten verses of the Surah Al-Kahf, he will be protected from the Dajjal." [Muslim]
  
 </details>
 
@@ -7498,6 +7502,39 @@ Al-Masih ad-Dajjal ('Deceitful Messiah'), is blind in one eye, and will deceive 
 * One third of the earth for one year the rain will stop. on the second year 2/3 will be rainless.
 * Dajjal will pretent that he can resurrect people from the dead but it will be jinns who will imitate people's parents.
 * Dajjal will be the biggest trial for humankind since they were sent to the Earth. 
+
+> Narrated Mu'adh ibn Jabal: The Prophet ﷺ   said: The flourishing state of Jerusalem will be when Yathrib is in ruins, the ruined state of Yathrib will be when the great war comes, the outbreak of the great war will be at the conquest of Constantinople and the conquest of Constantinople when the Dajjal (Antichrist) comes forth. He (the Prophet) struck his thigh or his shoulder with his hand and said: This is as true as you are here or as you are sitting (meaning Mu'adh ibn Jabal).
+
+Thawban ibn Kaidad narrated that prophet Muhammad ﷺ   said:
+
+> "There will be 30 dajjals among my Ummah. Each one will claim that he is a prophet; but I am the last of the Prophets (Seal of the Prophets), and there will be no Prophet after me."
+> Related by Ahmad ibn Hanbal as a sound hâdith.
+
+Abu Hurairah narrated that prophet Muhammad ﷺ   said:
+
+> "The Hour will not be established until two big groups fight each other whereupon there will be a great number of casualties on both sides and they will be following one and the same religious doctrine, until about 30 dajjals appear, and each of them will claim that he is Allah's Apostle..."
+> Sahih al-Bukhari, Volume 9, Book 88: Afflictions and the End of the World, Hâdith Number 237.
+
+Prophet Muhammad ﷺ   also stated that the last of these dajjals would be the Islamic Antichrist, al-Masih ad-Dajjal (lit. 'the Deceitful Messiah'). The Dajjal is never mentioned in the Quran but he's mentioned and described in the ḥadīth. Like in Christianity, the Dajjal is said to emerge out in the east, although the specific location varies among the various sources. The Dajjal will imitate the miracles performed by ʿĪsā (Jesus), such as healing the sick and raising the dead, the latter done with the aid of demons (Shayāṭīn). He will deceive many people, such as weavers, magicians, half-castes, and children of prostitutes, but the majority of his followers will be Jews.
+
+Hadith also report on the “Greater Signs” of the end, which include the appearance of the Antichrist (Dajjal) and the reappearance of the prophet Jesus to join in battle with him at Dabbiq in Syria, as well as the arrival of the Mahdī, the “guided one.” As another hadith attributed to Alī ibn Abī Talib puts it, “Most of the Dajjal’s followers are Jews and children of fornication; God will kill him in Syria, at a pass called the Pass of Afiq, after three hours are gone from the day, at the hand of Jesus".
+
+Jews are prophesied to be followers of the dajjal, as narrated by Anas bin Malik.
+
+> Seventy thousand of the Jews of Isbahan will follow the Dajjal, wearing Tayalisahs.
+> Sahih Muslim 2944
+
+Samra ibn Jundab reported that once prophet Muhammad ﷺ  , while delivering a ceremonial speech at an occasion of a solar eclipse, said:
+
+> Verily by Allah, the Last Hour will not come until 30 dajjals will appear and the final one will be the One-eyed False Messiah.
+> Related by Imam Ahmed and Imam Tabarani as a sound hâdith.
+
+Anas ibn Malik narrated that prophet Muhammad ﷺ   said:
+
+> There is never a prophet who has not warned the Ummah of that one-eyed liar; behold he is one-eyed and your Lord is not one-eyed. Dajjal is blind of one eye. On his forehead are the letters k. f. r. (Kafir) between the eyes of the Dajjal, which every Muslim would be able to read."
+> Sahih Muslim, Book 41: The Book Pertaining to the Turmoil and Portents of the Last Hour, Chapter 7: The Turmoil Would Go Like The Mounting Waves of the Ocean, Ahâdith 7007-7009.
+
+### Dajjal in the Bible
 
 There are also depictions of Dajjal (Anti-Christ) in the Bible. In Daniel 8:23-26, Daniel sees a vision of a ram the horns of which grow up to the skies an he doesn't know the interpretation of this vision. So then he sees a man llike looking figure and hears: "Gabriel, tell him the meaning of the vision". Gabriel explains to Daniel that in the latter part of their reign when rebels have become completely wicked, a fierce-looking king, a master of intrigue will arise. He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy those who are mighty, the holy priests. He will cause deceit to prosper, and he will consider himself superior. 
 Yet he will be destroyed, but not by human power.
