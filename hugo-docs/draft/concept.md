@@ -22,9 +22,19 @@ cloudflare pages
 
 
 maybe make the first post short.
+yes
 
- 
 
+Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts, our minds, and our dwellings.
+I've gathered stories of prophets from the Quran, hadith, tafsir, a small portion of the Old Testament using various open sources and wrapped up my notes in a static website.
+The website is build on Hugo and Hyas frameworks, pipelined and hosted on Render.
+It was a good CSS/JS/Bootstrap practice and I had a good time trying to gather particles of an endless puzzle. If God wills, I intend to continue and fix some bugs, finish the sections about death, the Apocalypse, and about what happens on the other side.
+السلام عليكم ورحمة الله وبركاته
+
+ after I learn to properly read the Quran.
+
+
+ Abdallah teaches me to properly read the Quran.
 
 
 --------------------------------------------------------------------------
@@ -57,7 +67,7 @@ I've spent 20-30 minutes a day for a year. Slowly it got into shape, Alhamdulill
 
 Our prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." and it amazes me how seeking knowledge became essential like drinking water for the first generation of Muslims, true ummah of Al Nabi ﷺ  . I envy my dear Egyptian brothers who study all this in madrasahs when they are young.
 
-We do not appreciate enough that nowadays we can find data about any hadith, any historic event in seconds and listen to khutbas and lectures of best sheikhs from all over the world. That is truly a huge advantage and luxury that scholars of old times never had. Just see the beginning of a hadith narrated by Jābir ibn Abdullah.
+We do not appreciate enough that nowadays we can find data about any hadith, any historic event in seconds and listen to khutbas and lectures of best sheikhs from all over the world. That is truly a huge advantage and luxury that scholars of old times never had. Just read this hadith narrated by Jābir ibn Abdullah who travelled one month on a camel to listen to a one single hadith.
 
 > It reached me that a man heard a Hadith from the Messenger of Allah ﷺ  , so I purchased a camel, then traveled quickly to him. I travelled for one month until I reached Sham.
 

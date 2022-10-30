@@ -474,3 +474,12 @@ the core structure of this guide is based on narrations of the Quran. Tafsir and
 > Other sources of this guide include: authentic hadiths, some non-authentic hadith, the Bible (Old Testament), some opinions of great islamic scholars of the past, a book by Karen Armstrong "Islam: A Short History", a book "Muhammad, His Biography Based on Earliest Sources". Some parts are derived from youtube lectures of sheikhs of our time (mostly Yasir Qadhi and Omar Suleiman) without providing the original source. I tried to stick to aforementioned sources. Mostly it is copy-paste, I have gathered the information, currated it, combined together and did some editing.
 
 
+
+Recently, there seems to be increased awareness and fascination with the end of the world. People of many faiths are starting to think the signs of the last day are all around them, with Christians pointing to some biblical prophecies coming to light, or Jews now ‘back’ in Jerusalem, anticipating the return of their ‘Messiah’.
+
+It is also widely thought amongst many erudite Islamic scholars that we are in the final throes of the last days before the Hour. After all, 
+
+you have to learn about your religion in order to be able to defend your beliefs. and in the first place defend it against your own doubts. otherwise, there is a high probability that you will lose it by time or you will get astray.
+
+hedonism, love for this dunya is a black hole.
+

@@ -1091,6 +1091,8 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 # 4. Ibrahim (Abraham) (~ 2100-1900 BCE)
 *******************************************
 
+### 4.1. Story of Ibrahim
+
 <details><summary>
 
 ## Timeline Side-Note
@@ -1332,7 +1334,7 @@ Sodom and Gomorrah are not mentioned by name in the Qur'an. The Islamic use of t
 
 </details>
 
-### Descendands of Ibrahim
+### 4.2 Descendands of Ibrahim
 
 <details><summary>
 
@@ -3447,10 +3449,15 @@ It is important to take into account that the Bible cannot be fully called the W
 
 </details>
 
-# 8. Pre-Islamic Arabia 🐫 🏜️ 🕋
+# 8. History of Islam ☪
 *******************************************
 
 <details><summary>
+
+# 8.1. Pre-Islamic Arabia 🐫 🏜️ 🕋
+*******************************************
+
+</summary><details><summary>
 
 ## Arabia Before Islam [TBD]
 
@@ -3874,11 +3881,11 @@ Two different narrations from Aisha give these details.
 
 > Khadija then accompanied him to her cousin Waraqah bin Naufil bin Asad bin 'Abdul 'Uzza, who, during the Pre-Islamic Period became a Christian and used to write the writing with Hebrew letters. He would write from the Gospel in Hebrew as much as God wished him to write. He was an old man and had lost his eyesight. Khadija said to Waraqah, "Listen to the story of your nephew, O my cousin!" Waraqah asked, "O my nephew! What have you seen?" God's Apostle described whatever he had seen. Waraqah said, "This was the same one who keeps the secrets whom Allah had sent to Moses (Angel Gabriel). I wish I were young and could live up to the time when your people would turn you out." God's Apostle asked, "Will they drive me out?" Waraqah replied in the affirmative and said, "Anyone (man) who came with something similar to what you have brought was treated with hostility; and if I should remain alive till the day when you will be turned out then I would support you strongly." But after a few days Waraqah died and the Divine Inspiration was also paused for a while.
 
-</details>
+</details></details><details><summary style="background-color: #8f7db947; border-radius: 5px;">
 
-# 9. History of Islam ☪
-*******************************************
-# 9.1. Prophet Muhammad ﷺ   
+# 8.2. Prophet Muhammad  ﷺ   
+
+</summary>
 
 <details><summary> Short Summary </summary>
 
@@ -3902,7 +3909,7 @@ According to biographers, Prophet Muhammad ﷺ   lived a simple and austere life
 
 </details>
 
-### 9.1.1 Meccan Period
+### 8.2.1 Meccan Period
 
 <details><summary>
 
@@ -4057,7 +4064,7 @@ After freeing Zayd married Zaynab from Quraish. Zayd has a blessing of being the
 
 </details>
 
-### 9.1.2 Iqra: First Revelation 📗
+### 8.2.2 Iqra: First Revelation 📗
 
 <details><summary>
 
@@ -4647,7 +4654,7 @@ What was imposed on Muslims then before the Prophet’s night journey? Scholars 
 
 </details>
 
-### 9.1.3 Hijrah
+### 8.2.3 Hijrah
 
 <details><summary>
 
@@ -4758,7 +4765,7 @@ With regard to the first Companions of the Prophet ﷺ   to emigrate, Al-Bara’
 
 </details>
 
-### 9.1.4 Medina Period 🕌
+### 8.2.4 Medina Period 🕌
 
 <details><summary>
 
@@ -5673,7 +5680,7 @@ The army recuperated from the toil and fatigue of the long journey, and the Prop
 
 </details>
 
-### 9.1.5 Last Years of Prophet Muhammad ﷺ
+### 8.2.5 Last Years of Prophet Muhammad ﷺ
 
 <details><summary>
 
@@ -5828,13 +5835,12 @@ Although overwhelmed by grief, Abu Bakr addressed the people, he praised and glo
 
 During this great crisis, the devastated Muslims chose Abu Bakr as their leader. 
 
-</details>
+</details></details><details><summary>
 
-# 9.2 The Rashidun (Righteous Khalifs)
-
+# 8.3 The Rashidun (Righteous Khalifs)
 *******************************************
 
-<details><summary>
+</summary><details><summary>
 
 ## 632-634: Abu Bakr
 
@@ -6289,12 +6295,12 @@ The Muslim conquests brought about the collapse of the Sassanid Empire and a gre
 
 It has been suggested that some Jews and Christians in the Sassanid Empire and Jews and Monophysites in Syria were dissatisfied and welcomed the Muslim forces, largely because of religious conflict in both empires. At other times, such as in the Battle of Firaz, Arab Christians allied themselves with the Persians and Byzantines against the invaders. In the case of Byzantine Egypt, Palestine and Syria, these lands had been reclaimed from the Persians only a few years before.
 
-</details>
+</details></details><details><summary>
 
-# 9.3 Fitnah (Civil Conflicts) and years before Golden Age
+# 8.4 Fitnah (Civil Conflicts)
 *******************************************
 
-<details><summary>
+</summary><details><summary>
 
 ## Umayyad Dinasty Era
 
@@ -6637,12 +6643,12 @@ The honorific title al-Imam al-A'zam ("the greatest leader") was granted to him 
 
 Ibn Hisham is Muhammad ibn Iskhak's student.
 
-</details>
+</details></details><details><summary>
 
-# 9.4 The Islamic Golden Age
+# 8.5 The Islamic Golden Age
 *******************************************
 
-<details><summary> 
+</summary><details><summary> 
 
 ## Islamic Golden Age Briefly
 
@@ -7184,17 +7190,11 @@ This is a list of notable people related to the House of Wisdom.
 * Jabir Ibn Hayyan — known for his work with practical metallurgy, his work was translated into Latin During the 12th century.
 * Omar Khayyam (1048–1131) — Persian poet, mathematician, and astronomer most famous for his solution of cubic equations.
 
-</details>
+</details></details><details><summary>
 
-# 10. Later History of Islamic Countries
+# 8.6 Later History of Islamic Countries
 
-<details><summary>
-
-Expand to see more details.
-
-</summary>
-
-<details><summary>
+</summary><details><summary>
 
 ## 1095 - 1099: Crusader conquer Jerusalem, establish states in Palestine, Anatolia and Syria
 
@@ -7364,10 +7364,10 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 
 </summary></details></details>
 
-# 11. Yawm Al Qiyamah (Day of Judgement)
+# 9. Yawm Al Qiyamah (Day of Judgement)
 ********************************************
 
-### 11.1 Signs of The End Times
+### 9.1 Signs of The End Times
 
 <details><summary> List of Signs [TBD] </summary>
 
@@ -7478,7 +7478,7 @@ Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
  
 </details>
 
-### 11.2 Major Signs of Al Qiyamah
+### 9.2 Major Signs of Al Qiyamah
 
 <details><summary> Overview </summary>
 
@@ -7655,7 +7655,11 @@ The Smoke is mentioned in the Quran.
 
 </summary> 
 
-and since then, the repentance will not be anymore accepted.
+Sun will come up from the West and since then, the repentance will not be accepted anymore. Abu Huraira reported: 
+
+> The Messenger of Allah, peace and blessings be upon him, said, “Whoever repents before the sun rises from the west, Allah will accept his repentance.”
+> Source: Ṣaḥīḥ Muslim 2703
+> Grade: Sahih (authentic) according to Muslim
 
 </details><details><summary>
 
@@ -7694,10 +7698,13 @@ He replied: "The order of some of the major portents is known , and in the case 
 
 Al-Safarini (may Allah have mercy on him) listed the order of these portents in his ‘Aqidah, but some of the order is acceptable whilst some of it is not. But what matters is that there are major signs of the Hour and when they happen, the Hour has drawn nigh. Allah has decreed portents of the Hour, because it is a serious event and people need to know when it is about to happen." (Majmu’ al-Fatawa (2/question no. 137) 
 
+<img src="/eschatology.PNG" alt="Early Expansion" width="85%" height="85%">
+
+
 And Allah knows best.
 </details>
 
-### 11.3 Al Akhirah (The Hereafter) [TBD]
+# 10. Al Akhirah (The Hereafter) [TBD]
 *******************************************
 <details><summary>
 
@@ -7893,6 +7900,13 @@ After a person is buried, two angels come to the died person and ask questions. 
 A righteous believer will respond correctly, saying that their Lord is Allah, that Muhammad is their prophet and that their religion is Islam. If the deceased answers correctly, the time spent awaiting the resurrection is pleasant and may enter heaven. Those who do not answer as described above are chastised until the day of judgment. There is belief that the fire of hell can already be seen in Barzakh, and that the spiritual pain caused by this can lead to purification of the soul.
 
 Muslims believe that a person will correctly answer the questions not by remembering the answers before death but by their iman (faith) and deeds such as salat (prayer) and shahadah (the Islamic profession of faith).
+
+</details><details><summary>
+
+## People wait for the Day of Judgement
+
+</summary>
+
 
 </details><details><summary>
 
@@ -8125,10 +8139,14 @@ Hadith from Abu Huraira:
 
 There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long.
 
+</details><details><summary>
+
 ### People settle their debdt among each other
 
+</summary>
+
 People will be all gathered in a white space without mountains naked. And they will have to handle between each other all their debts, all unfinished business.
->
+
 > The Hadith as narrated by Jābir ibn Abdullah.
 >
 > It reached me that a man heard a Hadith from the Messenger of Allah ﷺ  , so I purchased a camel, then traveled quickly to him. I travelled for one month until I reached Sham.
@@ -8140,9 +8158,11 @@ People will be all gathered in a white space without mountains naked. And they w
 > Abdullah ibn Unays said, “I heard the Messenger of Allah ﷺ  , ‘The people will be gathered on the Day of Standing—and he pointed with his hand towards Sham. They will be gathered naked, uncircumcised, and buhman.’ We said, ‘And what is buhman?’ He ﷺ   replied, ‘They will not have anything with them. Then a Caller will call out with a voice heard equally by those far and near (saying), ‘I am the King, I am the Reckoner. It is not befitting that anyone from the inhabitants of the Hellfire should enter the Hellfire while someone from the inhabitants of Paradise owes him a right, until he settles it. And it is not befitting that anyone from the inhabitants of Paradise enters Paradise while someone from the inhabitants of the Hellfire owes him a right, until he settles it, even if it is only a slap.’’ We said, ‘And how will this be, when we will stand before Allah, naked, uncircumcised, without anything?’ He ﷺ   replied, ‘With good deeds and bad deeds.’”
 > Al-Adab Al-Mufrad, #970, declared Hasan by al-Albani
 
-
+</details><details><summary>
 
 ### People ask prophet Muhammad ﷺ   to speak to God
+
+</summary>
 
 During that time people will be so exasperated, so that some will be ready to go to Jahannam.
 
@@ -8154,7 +8174,11 @@ Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, n
 
 And finally they will come to the prophet Muhammad ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad ﷺ    will say "This is a job for me".
 
+</details><details><summary>
+
 ### Intercessions
+
+</summary>
 
 hadith:
 > Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
