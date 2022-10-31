@@ -7728,6 +7728,54 @@ He didn't mention that Allah and angels will come in rows, the blowing of the tr
 
 </details><details><summary>
 
+## Hadith: Salman Al-Farsi talks to a Dead Person
+
+</summary>
+ 
+It seems proper to give here a short account of the conversation which Salman, the Persian, had had with a dead person. It is a lengthy tradition, but of great benefit.
+ 
+Asbagh bin Nubata (r.a.) was a trusted companion of Ameerul Mumeneen Ali (AS). He went to see Salman Farsi (r.a.) who had settled in Madain. Asbagh (r.a.) says:
+ 
+"I found him very sick, near his death. He told me: 'O Asbagh, the Messenger of Allah had informed me that, at the time of my death, a dead person would talk to me. Now, put me on a wooden plank and take me to the graveyard. On reaching the grave-yard, Salman faced towards Qibla and in a loud voice saluted the dead. Nobody replied. After saluting them several times without getting any reply, Salman said: "O Inhabitants of these graves, I am Salman, a slave of the Messenger of Allah. The Prophet had told me that at the time of my death a dead person would converse with me. Now, if that time has arrived, then, for the sake of Allah and His Messenger, please talk to me".
+ 
+Suddenly someone responded to his Salaam, and said: "O people who build and plant, and ultimately the buildings turn into ruins and gardens decay; ask me what you want, I will reply".
+ 
+Salman (r.a.) asked: "Are you from the people of Paradise or of Hell?" The dead man said that he was from the people of Paradise.
+ 
+Salman requested him to describe how he died and what agonies he had to undergo at that time. He replied:
+ 
+"O Salman, please do not ask this. By Allah, if someone had snipped my flesh (by scissors) in little bits and removed the flesh from the bones, it would have been easier than the agony of death. O Salman, I always did good deeds in your world, always prayed on time, used to recite the Qur'an, was good to my parents, lived on lawful earnings. Then I fell ill and my life came to its end. At that time, a very tall person, with a frightening countenance, stood in the air before me. He pointed to my eyes and they lost their sight; to my ears and they became deaf; to my tongue and it lost its speech. I asked him who he was and why he was doing it to me. He said: I am the angel of death; your life has ended in this world. You have to go from here to another world'.
+ 
+Then two persons came to me, one of them sat on my right, the other on the left. They informed me that they were the two angels who had written all my deeds in the worldly life. One, whose name was 'Raqueeb' gave my record of good deeds, on reading which I was much pleased. Then the other angel, whose name was 'Ateed', gave me the other record, a complete record of my sins; and on reading that I was very sad.
+ 
+Then the Angel of Death came nearer and removed my soul through my nose, and I have not forgotten its agony yet. Seeing me dead, my relatives and family members started crying. The Angel of Death said: "Why are you crying? I have not done any injustice that you are complaining of. When his life came to end, I removed his soul on the command of Allah. And I will come to you so many times."
+ 
+Then another Angel took my soul and I was brought to heaven where I was asked about my deeds, viz. prayers, fasts, Zakat, Khums, Hajj, Jihad, recitation of the Qur'an, obedience to the parents etc. Likewise, I was asked whether I had murdered any one, or taken some one's property without any right, or been unjust to other people and such things.
+ 
+Then that same Angel brought my soul back to earth. At that time the person who wanted to wash my body (Ghassal) removed my clothes and started the ritual washing (Ghusl). My soul cried out: "O servant of Allah, have mercy On this weak and broken body. By Allah, all its veins, whence I have come out, have been broken; and its limbs are like they have been minced". My soul was imploring him in such a touching way that if the Ghassal were to hear it, he would have left washing the dead bodies altogether.
+Then they covered me with Kafan (shroud), gave me Hunut, prayed upon me. When they laid me in the grave, I was so much frightened that words cannot describe it.
+ 
+When they closed my grave, my soul entered my body again. An Angel, Munabbih (One who awakens, reminds) by name, came to me and made me sit. He ordered me to write down all the deeds which I had done in the world. I said that I did not remember. He said: 'I will go on reminding, you go on writing'. I said: 'Where is the paper?' He said: "This Kafan of yours will do for paper'. I said: 'Where can I find a pen?' He said: 'Your finger will be your pen'. I asked about the ink and was told that my saliva will work like ink.
+ 
+When I had written all my deeds, the Angel put my writing around my neck like a band, it is as Allah says in the Qur'an:
+
+    "And the bird (i.e., deed done by one) of every man have We bound about his neck, and We shall produce unto him, on the Day of Resurrection, a book (in which his actions will be recorded) which he will find open, (it will be said to him) read thy book; thine own self will be a sufficient reckoner against thee." 
+    Qur'an, 17:13-14
+
+In other traditions, the name of the angel, who comes in the grave and guides in writing the deeds of the Mayyit, is given as "Ruman".
+ 
+Then an angel, very frightening, Munkar by name, came to me with a fiery club, and asked me: "Who is your Lord? Who are your Prophet and Imams? What is your religion?" I was so afraid that I became totally confused; my limbs were trembling; I could not understand what to reply. In that confusion, the Mercy of Allah supported me, and my heart became tranquil, and I replied; "Allah (His Power is Great) is my Lord; and Muhammad is my Prophet, and Ali bin Abi Talib is my Imam and Islam is my religion; and the Qur'an is my Book and the Kaaba is my Quibla".
+ 
+Then another Angel, who is called Nakir, interrogated me in the same manner about my beliefs. By Grace of Allah, I replied his questions also and said: "I bear witness that there is no god except Allah, and that Muhammad is His Messenger, and that Ali and his sinless progeny are the proofs of Allah, and that Paradise is Haqq (a Fact, Truth) and the Fire (of Hell) is true, and Sirat (Path) is true, and the Balance (of deeds) is true and the Questioning of Munkar and Nakir in the grave is true, and Resurrection is true, and raising (of dead) is true, and flying of the books (in which deeds of a person are recorded) is true, and that the Hour (Day of Judgement) is sure to come, there is no doubt in it, and that Allah will raise all the dead who are in the grave".
+ 
+Hearing these true answers, the angels said to me: "Sleep as a bride sleeps" (without any worry); they opened a door of Paradise towards my head, and the breeze of Paradise came to me, and my grave (which previously looked like a prison) become a vast place extending beyond my vision, and the whole place became a garden.
+ 
+O Salman, a man must remember his Lord at all times, and must spend his life in His obedience, because death is a sure thing and every one will have to face all those things which I have told you."
+ 
+Asbagh (r.a.) said: "When the voice stopped, Salman (r.a.) told me to take him back home, there he lay on the ground and looking towards heavens prayed to Allah, and left this world."
+
+</details><details><summary>
+
 ## Death. What happens when people die
 
 </summary>
@@ -7873,17 +7921,9 @@ Grade: Sahih (authentic) according to Al-Arna’ut
 
 </details><details><summary>
 
-### Barzakh
+## Squeezing of the grave
 
 </summary>
-
-“Barzakh” literally means 'barrier'. In the Qur'an, it has been used for the period between death and the Day of Resurrection.
-
-“And behind them is the Barzakh (barrier) till the Day they will be Resurrected”. (Qur'an, 23:100).
- 
-Our 6th Imam (A) has said that “We will intercede on your behalf on the Day of Judgement; but by Allah, I am worried about you for the period when you would be in Barzakh”.6
- 
-Imam (A) has referred in this Hadith to the fact that the sinning believers will get their punishment during this period, as will be explained later on.
 
 </details><details><summary>
 
@@ -7910,51 +7950,72 @@ Muslims believe that a person will correctly answer the questions not by remembe
 
 </details><details><summary>
 
-## Hadith: Salman Al-Farsi talks to a Dead Person
+## Barzakh
 
 </summary>
- 
-It seems proper to give here a short account of the conversation which Salman, the Persian, had had with a dead person. It is a lengthy tradition, but of great benefit.
- 
-Asbagh bin Nubata (r.a.) was a trusted companion of Ameerul Mumeneen Ali (AS). He went to see Salman Farsi (r.a.) who had settled in Madain. Asbagh (r.a.) says:
- 
-"I found him very sick, near his death. He told me: 'O Asbagh, the Messenger of Allah had informed me that, at the time of my death, a dead person would talk to me. Now, put me on a wooden plank and take me to the graveyard. On reaching the grave-yard, Salman faced towards Qibla and in a loud voice saluted the dead. Nobody replied. After saluting them several times without getting any reply, Salman said: "O Inhabitants of these graves, I am Salman, a slave of the Messenger of Allah. The Prophet had told me that at the time of my death a dead person would converse with me. Now, if that time has arrived, then, for the sake of Allah and His Messenger, please talk to me".
- 
-Suddenly someone responded to his Salaam, and said: "O people who build and plant, and ultimately the buildings turn into ruins and gardens decay; ask me what you want, I will reply".
- 
-Salman (r.a.) asked: "Are you from the people of Paradise or of Hell?" The dead man said that he was from the people of Paradise.
- 
-Salman requested him to describe how he died and what agonies he had to undergo at that time. He replied:
- 
-"O Salman, please do not ask this. By Allah, if someone had snipped my flesh (by scissors) in little bits and removed the flesh from the bones, it would have been easier than the agony of death. O Salman, I always did good deeds in your world, always prayed on time, used to recite the Qur'an, was good to my parents, lived on lawful earnings. Then I fell ill and my life came to its end. At that time, a very tall person, with a frightening countenance, stood in the air before me. He pointed to my eyes and they lost their sight; to my ears and they became deaf; to my tongue and it lost its speech. I asked him who he was and why he was doing it to me. He said: I am the angel of death; your life has ended in this world. You have to go from here to another world'.
- 
-Then two persons came to me, one of them sat on my right, the other on the left. They informed me that they were the two angels who had written all my deeds in the worldly life. One, whose name was 'Raqueeb' gave my record of good deeds, on reading which I was much pleased. Then the other angel, whose name was 'Ateed', gave me the other record, a complete record of my sins; and on reading that I was very sad.
- 
-Then the Angel of Death came nearer and removed my soul through my nose, and I have not forgotten its agony yet. Seeing me dead, my relatives and family members started crying. The Angel of Death said: "Why are you crying? I have not done any injustice that you are complaining of. When his life came to end, I removed his soul on the command of Allah. And I will come to you so many times."
- 
-Then another Angel took my soul and I was brought to heaven where I was asked about my deeds, viz. prayers, fasts, Zakat, Khums, Hajj, Jihad, recitation of the Qur'an, obedience to the parents etc. Likewise, I was asked whether I had murdered any one, or taken some one's property without any right, or been unjust to other people and such things.
- 
-Then that same Angel brought my soul back to earth. At that time the person who wanted to wash my body (Ghassal) removed my clothes and started the ritual washing (Ghusl). My soul cried out: "O servant of Allah, have mercy On this weak and broken body. By Allah, all its veins, whence I have come out, have been broken; and its limbs are like they have been minced". My soul was imploring him in such a touching way that if the Ghassal were to hear it, he would have left washing the dead bodies altogether.
-Then they covered me with Kafan (shroud), gave me Hunut, prayed upon me. When they laid me in the grave, I was so much frightened that words cannot describe it.
- 
-When they closed my grave, my soul entered my body again. An Angel, Munabbih (One who awakens, reminds) by name, came to me and made me sit. He ordered me to write down all the deeds which I had done in the world. I said that I did not remember. He said: 'I will go on reminding, you go on writing'. I said: 'Where is the paper?' He said: "This Kafan of yours will do for paper'. I said: 'Where can I find a pen?' He said: 'Your finger will be your pen'. I asked about the ink and was told that my saliva will work like ink.
- 
-When I had written all my deeds, the Angel put my writing around my neck like a band, it is as Allah says in the Qur'an:
 
-    "And the bird (i.e., deed done by one) of every man have We bound about his neck, and We shall produce unto him, on the Day of Resurrection, a book (in which his actions will be recorded) which he will find open, (it will be said to him) read thy book; thine own self will be a sufficient reckoner against thee." 
-    Qur'an, 17:13-14
+"Barzakh" literally means 'barrier'. In the Qur'an, it has been used for the period between death and the Day of Resurrection.
 
-In other traditions, the name of the angel, who comes in the grave and guides in writing the deeds of the Mayyit, is given as "Ruman".
+    "And behind them is the Barzakh (barrier) till the Day they will be Resurrected."
+    Quran, 23:100
+
+Al-Barzakh is the period between a person's death and his resurrection on the Day of Resurrection. Whoever dies as a Muslim, obeying Allah, will be in a blessed state, and whoever dies as a disbeliever, disobeying Allah, will be punished. The punishments vary according to the sins committed. 
+
+    The Fire, they are exposed to it, morning and afternoon. And on the Day when the Hour will be established (it will be said to the angels): "Cause Firaun’s (Pharaoh) people to enter the severest torment!"
+    Quran, surah Ghafir 40:46
+
+### 3 Goups in Barzakh [TBD]
+
+The question of reward and punishment in Barzakh is very complicated. Allah decides every thing according to His own plan, which, of course, is based upon mercy and justice -justice for all and mercy for the believers. Obviously, every case is dealt with on its own merit. Therefore, it is very difficult to lay down any hard and fast rule. Still, what appears from the traditions of the Masumeen (A) may be summed up as follows:
  
-Then an angel, very frightening, Munkar by name, came to me with a fiery club, and asked me: "Who is your Lord? Who are your Prophet and Imams? What is your religion?" I was so afraid that I became totally confused; my limbs were trembling; I could not understand what to reply. In that confusion, the Mercy of Allah supported me, and my heart became tranquil, and I replied; "Allah (His Power is Great) is my Lord; and Muhammad is my Prophet, and Ali bin Abi Talib is my Imam and Islam is my religion; and the Qur'an is my Book and the Kaaba is my Quibla".
+Different types of people get different types of treatment after death and before the Day of Resurrection.
  
-Then another Angel, who is called Nakir, interrogated me in the same manner about my beliefs. By Grace of Allah, I replied his questions also and said: "I bear witness that there is no god except Allah, and that Muhammad is His Messenger, and that Ali and his sinless progeny are the proofs of Allah, and that Paradise is Haqq (a Fact, Truth) and the Fire (of Hell) is true, and Sirat (Path) is true, and the Balance (of deeds) is true and the Questioning of Munkar and Nakir in the grave is true, and Resurrection is true, and raising (of dead) is true, and flying of the books (in which deeds of a person are recorded) is true, and that the Hour (Day of Judgement) is sure to come, there is no doubt in it, and that Allah will raise all the dead who are in the grave".
+First: there are true believers, perfect in their faith and virtuous in their deeds. They lived a blameless life, and if there was some mistake or sin (because 'to err is human') their worldly troubles (illness, poverty, death of near and dear ones, troublesome neighbours or tyrant spouse etc.) and/ or agony at the time of death were sufficient to be counted as its retribution and atonement.
  
-Hearing these true answers, the angels said to me: "Sleep as a bride sleeps" (without any worry); they opened a door of Paradise towards my head, and the breeze of Paradise came to me, and my grave (which previously looked like a prison) become a vast place extending beyond my vision, and the whole place became a garden.
+Allah knows that they deserve reward. Still, the Day of Judgement has not arrived, and they cannot be sent to the Paradise straight away. By the rule of the Law, they should be left without any reward till they are resurrected; but the Mercy of Allah decrees that they should not be left in abeyance. Therefore, they are questioned about their beliefs, and on giving correct answers, they enter a state of Bliss, which gives them the satisfaction of knowing that their future is assured: They find pleasure and happiness in their grave, and wait eagerly for the Day of Resurrection.
  
-O Salman, a man must remember his Lord at all times, and must spend his life in His obedience, because death is a sure thing and every one will have to face all those things which I have told you."
+Second: the confirmed unbelievers and hypocrites, whose lives are devoid of any good deed. Or if there was any good deed, the worldly blessings (health, wealth, good family and friends, prestige and power etc. etc.) and /or the ease at the time of death were sufficient rewards.
  
-Asbagh (r.a.) said: "When the voice stopped, Salman (r.a.) told me to take him back home, there he lay on the ground and looking towards heavens prayed to Allah, and left this world."
+Allah knows that their place is Jahannam (Hell); but He will not send them there before the Day of Judgement. So, to give them a fore-taste of their punishment, they are questioned about their beliefs, and when they do not give correct answers, their graves are turned into punishment cells. And they wish the Qiyamat would not come at all.
+ 
+Here it shoud be mentioned that the reward or punishment of Barzakh is different from that of Paradise or Hell. The reward or punishment of Barzakh is for the soul only. It is for this reason that we do not see anyone being rewarded or punished in the grave. In the traditions of Masumeen (A), it has been compared to happy dreams or nightmares. The person who is dreaming is going through all the tortures in the dreams; but the man sitting besides him does not realize what is going on. Likewise, the joys of dream are not known to others at all.
+ 
+But again it is not a strict rule. Some exceptions have been observed whereas the dead-body was found enjoying some rewards, (a heavenly rose put near his nose, for example) or undergoing some torture (a scorpion stinging at the toe, for instance). But these are the exceptions that prove the rule.
+ 
+The third Group is of those who are neither perfect believers nor confirmed unbelievers. The children, the lunatics, those who because of one reason or another were not in a position to differentiate between the right and the wrong path, those who were so far from Islamic environment that they were not aware of the truth of Islam, those who did not know about Islam but at the same time were not enemies of Islam, those whose religious beliefs were not based upon logical understanding but they just followed what their families were following; even those non-believers who love the Holy Prophet (S) and his Ahlul-Bait, without knowing that they were the True Guides sent by Allah: all such people come under this group.
+ 
+Such people will not be subject to the questioning and squeeze of grave. They will be left in a state like deep slumber; and Allah will decide about them on the Day of Judgement. Till then, there is neither reward nor punishment for them.14
+
+After these three main groups, there still remains a group in between, which must be described here to complete the picture. This group is of those believers who had committed so many sins that could not be wiped out by worldly troubles and agony of death. Now, if Allah decides that such a believer should come on the Day of Judgement clean from all blemishes and free from all sins, then He may put him under punishment during the Barzakh period. And it is this punishment which has been referred to in the Hadith of Imam Jafer Sadiq (A) which was mentioned earlier:
+“We will intercede on your behalf on the Day of Judgement; but, by Allah, I am worried about you whilst you would be in Barzakh.”
+ 
+On the other hand, if Allah decides to leave his case in suspense till Qiyamat, then it will fall under 3rd group.
+ 
+Anyhow, all these things depend upon the justice and mercy of Allah. We have not been told enough to know all the details about all the groups.
+ 
+It is about the first and second groups (as well as the last mentioned believers who will be punished in Barzakh) that the Holy Prophet (S) has said: “When one dies his Qiyamat starts!” In this sense the Barzakh is called “Qiyamat-e-Sughra” (the lesser Qiyamat)
+ 
+The reader is now advised to read again the traditions given in lesson 17; so that he may understand many references which might have remained a mystery at first.
+
+### Punishment in Barzakh
+
+The punishments vary according to the sins committed. A hadeeth was narrated in Saheeh al-Bukhari which describes the torments of al-barzakh which will befall some of those who committed major sins. 
+
+Samurah ibn Jundub (may Allah be pleased with him) narrated that the Messenger of Allah (peace and blessings of Allah be upon him) often used to ask his Companions, ‘Did any one of you see a dream?’ So dreams would be described to him by those who Allah willed should speak. One morning, the Prophet (peace and blessings of Allah be upon him) said:
+
+“Last night, two people came to me (in a dream), and woke me up and said, ‘Let’s go!’ I set out with them, and we came across a man who was lying down, with another man standing over him, holding a big rock. He threw the rock at the man's head, smashing it. 
+
+The rock rolled away, and the one who had thrown it followed it, and picked it up. By the time he came back to the man, his head had been restored to its former state. Then he (the one who had thrown the rock) did the same as he had done before. I said to my two companions, ‘Subhan Allah! Who are these two persons?’ They said, ‘Move on!’ So we went on, and came to a man who was lying flat on his back, with another man standing over him, holding an iron hook. He put the hook in the man's mouth and tore off that side of his face to the back (of his neck), and he tore his nose and his eye from front to back in a similar manner. Then he turned to the other side of the man's face and did likewise. No sooner had he finished the second side but the first side was restored to its former state, then he went back and did the same thing again. I said to my two companions, ‘Subhan Allah! Who are these two persons?’ 
+
+They said, ‘Move on!’ So we went on, and came to something like a tannoor (a kind of oven, lined with clay, usually used for baking bread).  – I think the Prophet (peace and blessings of Allah be upon him) said, in that oven there was much noise and voices. The Prophet (peace and blessings of Allah be upon him) added:  - We  looked into it and saw naked men and  women. A flame of fire was reaching them from underneath, and when it reached them, they cried out loudly. I asked them, ‘Who are these?’ They said to me,  ‘Move on!’ So we went on and came to a river – I think he said, red like blood. – In the river there was a man swimming, and on the bank there was a man who had gathered many stones. Whilst the swimmer was swimming, the man who had gathered the stones approached him. The swimmer opened his mouth and the man on the bank threw a stone into it, then the swimmer carried on swimming. 
+
+Each time he came back, he opened his mouth again, and the man on the bank threw another stone into his mouth. I said to my two companions, ‘Who are these two persons?’ They said, ‘Move on, move on!’ We went on and came to a man who had the most repulsive appearance imaginable. Beside him there was a fire, which he was kindling, and he was running around it. I asked my companions, ‘Who is this man?’ They said, ‘Move on, move on!’ So we went on until we reached a garden of deep green dense vegetation, with all kinds of spring colours. In the midst of this garden was a very tall man, whose head I could hardly see because of his great height. Around him there were children, a great number such as I have never seen. I said to my companions, ‘who is this man, and who are these children?’ 
+
+They said, ‘Move on, move on!’ So we went on, until we came to a huge garden, bigger and better than any I have ever seen. My two companions said to me, ‘Go up.’ So we went up into it, until we reached a city built of gold and silver bricks. We went to the gate and asked for it to be opened. It was opened and we entered the city, where we found men with one side of their bodies more handsome than the most handsome person you have ever seen, and the other side uglier than the ugliest person you have ever seen. My two companions ordered those men to throw themselves into the river. There was a river flowing through the city, and its water was pure white. The men went and threw themselves in the river, and came out with the ugliness in their bodies gone, and they were in the best shape. (My two companions) said to me, ‘This is the Paradise of ‘Aden (the Garden of Eden), and that is your place.’ I looked up and saw a palace like a white cloud. They said to me, ‘That is your place.’ I said to them, ‘May Allah bless you both, let me enter it.’ 
+
+They said, ‘For now you will not enter it, but you shall enter it (one day).’ I said to them, I have seen many wonders this night. What do all these things mean that I have seen?’ They said: ‘We will tell you. The first man you came across, whose head was being smashed with the rock, is the man who studies the Quran then he neither recites it nor acts upon it, and he goes to sleep, neglecting the obligatory prayers. The man you came across whose mouth, nose and ears were being torn from front to back, is the man who goes out of his house in the morning and tells a lie that is so serious that it spreads all over the world. The naked men and women whom you saw in a structure that resembled an oven are the adulterers and adulteresses. The man you saw swimming in the river with rocks being thrown into his mouth is the one who consumed riba (usury). 
+
+The ugly-looking man whom you saw kindling a fire and walking around it was Malik, the keeper of Hell. The tall man whom you saw in the garden was Ibraheem, and the children around him were the children who died (young) in a state of fitrah (natural state of mankind, i.e., Islam).’ – Some of the Muslims asked, ‘O Messenger of Allah, what about the children of the mushrikeen?’ He said, ‘And the children of the mushrikeen too.’ – ‘As for the men who were half handsome and half ugly, they were people who had mixed a good deed with another deed that was bad, but Allah forgave them.’”  (Narrated by Muslim, no. 7047)
 
 </details></details><details><summary>
 
@@ -8141,7 +8202,7 @@ There are different interpretations. There is clearly evidence that for some peo
 
 </details><details><summary>
 
-### People settle their debdt among each other
+## People settle their debdt among each other
 
 </summary>
 
@@ -8160,7 +8221,7 @@ People will be all gathered in a white space without mountains naked. And they w
 
 </details><details><summary>
 
-### People ask prophet Muhammad ﷺ   to speak to God
+## People ask prophet Muhammad ﷺ   to speak to God
 
 </summary>
 
@@ -8176,7 +8237,7 @@ And finally they will come to the prophet Muhammad ﷺ    begging him to ask All
 
 </details><details><summary>
 
-### Intercessions
+## Intercessions
 
 </summary>
 
@@ -8258,7 +8319,11 @@ People will need to cross the bridge that lays above Jahannam.
 
 And the Prophet Muhammad is waiting on the other side of Sirat with a cup from his fountain (Kawthar).
 
-### Kawthar
+</details><details><summary>
+
+## Kawthar
+
+</summary>
 
 Whoever drinks from Kawthar will not feel thirst ever again.
 
