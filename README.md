@@ -7,7 +7,7 @@ Chronology of Islam (from creation of the Earth and till recent years)
 
 ## Dependencies
 
-* node.js (This will automatically install npm.)
+* node.js (This will also automatically install npm.)
 
 ## Building Website
 
@@ -38,7 +38,7 @@ To edit CSS settings, change the `\islam-wiki\hugo-docs\static\css\custom.css` f
 
 ### Note on CSS
 
-THe website wouldn't get the bootstrap css from @hyas node on production builds. I don't know how to fix it, so I just implemented added an additional custom CSS file in the head.html. Using this approach I can actually just use a simple hugo theme and bump the CSS there. I don't know. 
+THe website wouldn't get the bootstrap css from @hyas node on production builds. I don't know how to fix it, so I just implemented added an additional custom CSS file in the head.html. Using this approach I can actually just use a simple hugo theme and bump the CSS there. Need to fix this issue anyway.
 
 ### Summary Before Marker Color
 
