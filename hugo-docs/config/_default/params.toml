@@ -32,11 +32,11 @@ copyRight = ""
   instantPage = true
   flexSearch = true
   darkMode = true
-  bootStrapJs = false
+  bootStrapJs = true
   breadCrumb = false
   highLight = true
   kaTex = false
-  collapsibleSidebar = false
+  collapsibleSidebar = true
   multilingualMode = false
   docsVersioning = false
 

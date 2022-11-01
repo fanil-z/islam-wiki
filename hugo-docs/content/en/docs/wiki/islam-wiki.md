@@ -3296,7 +3296,7 @@ Early Christians were all Jews as Jesus himself.
 
 </details><details><summary>
 
-## How Paul corrupted Christianity
+## How Paul corrupted teachings of Jesus
 
 </summary>
 
@@ -3349,7 +3349,7 @@ Paul never met Jesus in person. Paul brought many innovations from Greek mytholo
 
 </details><details><summary>
 
-## "Trinity" appeared 150 years later after Jesus
+## "Trinity" appears 150 years later after Jesus
 
 </summary>
 
@@ -5922,7 +5922,7 @@ Burial. According to the will of Abu Bakr, his dead body was prepared for burial
 
 When Abu Bakr died in 634 C.E., Ali delivered an oration which was not only a faithful summing up of the character and personality of Abu Bakr, but was also a masterpiece of oratory. The speech has been preserved, and quoted hereunder in full:
 
-> "Mercy of God on you O Abu Bakr! You were an affectionate Companion and friend of the Prophet of Allah, a source of joy to him, and who knew his secrets, and enjoyed the privilege of being consulted by him. You were the first person to embrace Islam. You had the purest faith, and your belief in Islam was unshakable. Of all, you feared Allah most, and you were the source of the greatest advantage to his faith. You had been with the Prophet more than any one else, and your love for Islam was superior to others. A blessing to the Companions, you were the best of associates, master of many virtues, excelling others in accomplishments, and superior to all in position. 
+> "Mercy of God on you, O Abu Bakr! You were an affectionate Companion and friend of the Prophet of Allah, a source of joy to him, and who knew his secrets, and enjoyed the privilege of being consulted by him. You were the first person to embrace Islam. You had the purest faith, and your belief in Islam was unshakable. Of all, you feared Allah most, and you were the source of the greatest advantage to his faith. You had been with the Prophet more than any one else, and your love for Islam was superior to others. A blessing to the Companions, you were the best of associates, master of many virtues, excelling others in accomplishments, and superior to all in position. 
 >
 > You resembled the Holy Prophet more than any other person in the uprightness of character and conduct and in kindness and excellence. Your rank was noble, and your position sublime and you enjoyed the greatest confidence of the Prophet. May God reward you for your services to Islam and the Prophet. For the Prophet you were like his very sight and hearing. You corroborated the truth of his message at a time when everybody belied him; and so you were called "As-Sadiq' (the veracious) by Allah in His revelations. He says, 'The one who came with the Truth and the one who corroborated the truth. The One who came with the Truth was Muhammad, and the one who corroborated the Truth was Abu Bakr. You supported him when others had deserted, and you remained firm in helping him in misfortunes when others had withdrawn their support. In the days of hardship you were his best companion; you were the second of the two, and his companion in the Cave. You were the person on whom God conferred tranquillity of mind.
 > 
@@ -7490,9 +7490,38 @@ Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with
 
 These signs are connected to each other. When one comes, the other one follows.
 
+    Do they wait but that come unto them the angels (of death; or those who would bring the doom of the unbelievers) or comes (the final order of) thy Lord, or come some of the signs of thy Lord? On the day when come some of the signs of thy Lord, its faith shall profit not a soul -Which believed not before, or earned not good through its faith. Say, wait you: verily we too are waiting.
+    Quran, 6:158 
+
 </details><details><summary>
 
-## Dajjal -- the false Messiah or Anti-Christ
+## The Beast appears on the Earth
+
+</summary> 
+
+The Beast will come out at that time. The Beast it will leave marks on people as believer or non-believer. Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
+
+The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Qur'an mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
+
+    And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast (Dabbat'ul-Ardh) to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
+    And on the day when We will collect from every people a party from those who believed our signs; then will they be formed into groups.
+    Quran 27:82-83
+
+Dabbat'ul-Ardh means a “walker of the earth”. Allah says in the Qur'an:
+“And when the word shall come to pass on them, We shall bring forth unto them a Walking one from the earth who shall speak unto them that people believed not in our signs.
+ 
+This gathering of a group from every people will happen in Raj'at (Return) and will precede Qiyamat (because in Qiyamat all people will be gathered, not just a group from them.) And at that time a “Walker of the Earth” will be brought forth to speak to the people.
+ 
+Accroding to Shia sources, there is a narration from Ali ibn Abi-Talib:
+> Appearance of Dabbat'ul-Ardh, from near (the Hill) Safa (near Kaaba); with it will be the ring of Sulayman, and the walking stick (staff) of Musa. It will put the ring (seal) on the face of every believer, and it will be printed (branded) there, 'He is truly a believer'; and will put it on the face of every unbeliever, and it will write thereon “He is truly a non-believer.” Then the believer will say, “Woe unto thee, O non-believer!” and verily the non-believer will say: “Tuba for thee, O Believer, I would have liked to be like thee today, so that I also could succeed.
+> 
+> Then that Dabbat'ul-Ardh will raise its head, and all between east and west will see it by the permission of Allah, after the rising of the sun from its setting place. At that time 'Tauba' (Repentance) will be revoked. So from that time no repentance will be accepted, nor any (good) deed will be credited (i.e. from that time, the accounts of the deeds will be closed); and will not benefit any soul its faith which had not believed before or had not earned good (deeds) in its faith.
+
+(Dabbat-ul-ard will touch a Believer with the staff of Musa. Then “He is destined for Paradise” will be written on his forehead, and his face will glitter. It will hit a disbeliever with the seal of Sulaiman. Then “He is destined for Hell” will be written on his forehead, and his face will blacken.) [Tirmidhi]
+
+</details><details><summary>
+
+## Dajjal -- False Messiah or Anti-Christ
 
 </summary> 
 
@@ -7646,8 +7675,18 @@ The Day of Judgement will not take place until you experience Ad Dukhaw. a smoke
 
 The Smoke is mentioned in the Quran.
 
-    "Then wait for the Day when the sky will bring a visible smoke, covering the people; this is a painful torment. [They will say], "Our Lord, remove from us the torment; indeed, we are believers." How can they be reminded when a messenger has already come to them, making things clear."
-    Quran surah Ad Dukhan
+    Then wait for the Day when the sky will bring a visible smoke, covering the people; this is a painful torment. [They will say], "Our Lord, remove from us the torment; indeed, we are believers." How can they be reminded when a messenger has already come to them, making things clear.
+    
+    and yet they turned their backs unto him and said: '(He is) tutored (by other humans), a mad man.
+
+    Verily, We shall remove the torment a little; (but) verily you shall return (unto evil).
+    
+    (Then shall come) the Day. We shall seize (them) with a great seizure; verily, We shall retribute.
+    Quran, Ad Dukhan 44:10-16
+ 
+According to many traditions, these Ayats refer to the smoke which will appear near the Day of Judgement. It will penetrate into ears (and eyes), and people's heads will look like they have been roasted. But it will not trouble the believers very much; they will feel irritation just like in common cold. And the whole earth will be just like a house in which fire has been lighted and the house has no window or ventilation. This condition will remain for forty days.
+ 
+This Sign will be a warning; and as appears from the Ayat, people will be given a chance to come onto right path, and mend their ways. The words “We shall remove the torment a little” show that the Smoke will be removed, but the next words “Verily, you shall return (unto evil)” show that after its removal, not many people will heed to the voice of reason. Perhaps they will invent some physical or geographical reason for that calamity, and will forget their pledges to Allah that “Verily, (now) we are believers.”
 
 </details><details><summary>
 
@@ -7660,21 +7699,6 @@ Sun will come up from the West and since then, the repentance will not be accept
 > The Messenger of Allah, peace and blessings be upon him, said, “Whoever repents before the sun rises from the west, Allah will accept his repentance.”
 > Source: Ṣaḥīḥ Muslim 2703
 > Grade: Sahih (authentic) according to Muslim
-
-</details><details><summary>
-
-## The Beast appears on the Earth
-
-</summary> 
-
-The Beast will come out at that time. and it will leave marks on people as believer or non-believer.
-
-The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Qur'an mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
-
-    And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
-    Quran 27:82
-
-Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
 
 </details><details><summary>
 
@@ -7794,11 +7818,8 @@ Before talking about the Hereafter, we must contemplate on what happens after a 
 
 the one who has many sins will ask to go back to dunya ad repent and be good
 
-
-This death that you run away from will grab you
-
-
-
+    Say: "Verily, the death that you run away from will surely grab you, then you will be sent back to (Allah), the All-Knower of the unseen and the seen, and He will inform you of what you used to do."
+    Quran, Chapter 62 Al-Jumuah (Friday)
 
 
 People who die end up in the Barzak. It is the world of souls where they wait for their resurrection and the Final Judjement. Barzakh (برزخ,  "limbo, barrier, partition" is an Arabic word meaning "obstacle", "hindrance", "separation", or "barrier") in Islam designates a place separating the living from the hereafter or a phase/"stage" between an individual's death and their resurrection in "the Hereafter".
@@ -7914,10 +7935,16 @@ The verse above is a confirmation that on the moment of death, the human being w
 #### Taking the soul of an unbeliever
 
 > The Prophet ﷺ   continued, "Verily, when the unbeliever is ready to depart the world and is facing the Hereafter, angels descend from heaven with darkened faces and with them sack-cloth. They will sit away from his as far as the eye can see. Then, the angel of death approaches until he sits by his head and he says: O filthy soul, come out to the displeasure of Allah and His wrath! He will be separated from his body like the tearing of skewers from wet wool and he holds it in his hand, never to leave it for the blink of an eye, until he places it in this sack-cloth. The scent coming from it is like the most foul corpse found upon the face of the earth. They will ascend with him and not pass by a gathering of angels but that they say: What a filthy spirit! They say he is this person, son of this person, calling him by the ugliest names by which he was known in the world, until he stops at the lowest heaven. They will request it to be opened for him but it will not open." Then, the Prophet recited the verse, `"The gates of heaven will never open for them, nor will they enter Paradise, until the camel goes through the eye of the needle," (7:40)`. The Prophet said, "Allah Almighty will say: Write his record in the wicked register in the lowest earth. His spirit will be thrown down," then the Prophet recited the verse, `"It is as though he had fallen from the sky and was snatched by the birds 🐦🐦🐦 or the wind carried him down into a remote place," (22:31)`. The Prophet said, "His spirit will return to his body and two angels will come to sit by him, saying to him: Who is your Lord? He will say: Uh, uh, I do not know! They will say: What is your religion? He will say: Uh, uh, I do not know! They will say: Who is this man sent to you? He will say: Uh, uh, I do not know! A heavenly announcement will be made: He has lied! Spread carpets for him in Hellfire and open a gate for him to Hellfire! Its heat and its flames will approach him, and he will be squeezed in his grave until his ribs press together. An ugly man, with hideous clothing and a foul stench, will approach him and say: Glad tidings of what despairs you, for this is your Day you were promised! He will say: Who are with your evil face? He will say: I am your wicked deeds! He will say: O Lord, do not begin the Hour!"
+>
+> Source: Musnad Aḥmad 18534. Grade: Sahih (authentic) according to Al-Arna’ut
 
-Source: Musnad Aḥmad 18534
+    Until, when death overtakes any of them, he says, "O Lord; cause me to return (to life), so that I may do that which is right which I had neglected." By no means. Verily these are (mere) words which he speaks (he will not change his ways) and behind them there is a bar (partition) until the day they shall be resurrected
+    Quran, 23:99-100
 
-Grade: Sahih (authentic) according to Al-Arna’ut
+    They (the unbelievers) shall say (on the Day of Resurrection). "O Lord, thou hast given us death twice, and thou hast twice given us life; and we confess our sins; is there, therefore, any way to get forth (from retribution)?"
+    Qur'an, 40:11
+
+According to many traditions, two deaths and two lives mean death in this world, then resurrection in the grave for questioning, then death in the grave after questioning, then resurrection on the Day of Reckoning.
 
 </details><details><summary>
 
