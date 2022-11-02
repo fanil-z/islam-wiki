@@ -7389,6 +7389,7 @@ Events that have already taken place:
 
 Events that are happening at present:
 * `Naked, destitute, barefoot shepherds will compete in building tall buildings` (Sahih Bukhari, Vol 1: book 2: 47)
+There were two tipes of tribes in Saudi Arabia: city people and bedouns.This hadith is related to bedoun tribes that throughout history lived in poverty. Even during Islamic Golden Age they lived in the desert with their tribe and camels; they didn't even have houses. In the 13th century, 700 years ago, imam Qurtubi said this is the prediction of a reversal in society whereby the people of the desert will take over the construction of affairs and rule every region by force. They will become extremely rich and their primary concern will be to erect tall buildings and take pride in them. 
 * The slave-woman will give birth to her master or mistress (Sahih Bukhari, Vol 6: book 60: 300)
 * A trial (fitnah) which will enter every Arab household (Sahih Bukhari, Vol 4: book 53: 401)
 * Knowledge will be taken away (by the death of people of knowledge), and ignorance will prevail (Sahih Bukhari, Vol 1: book 3: 80)
