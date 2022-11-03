@@ -3201,8 +3201,6 @@ After defeating Dajjal, Isa will work as a judge. There will be a good life for 
 
 Īsā (AS) will remain on earth for forty years after killing the Dajjāl and then pass away. The Muslims will offer the funeral prayer for him, and bury him.
 
-For details, see #Isa will return to the Earth and defeat Dajjal.
-
 </details><details><summary>
 
 ## Apostles (Disciples of Jesus)
@@ -3609,8 +3607,6 @@ The period in the Arabian history which preceded the birth of Islam is known as 
 6. Christians. The Romans had converted the north Arabian tribe of Ghassan to Christianity. Some clans of Ghassan had migrated to and had settled in Hijaz. In the south, there were many Christians in Yemen where the creed was originally brought by the Ethiopian invaders. Their strong center was the town of Najran.
 
 7. Monotheists There was a small group of monotheists present in Arabia on the eve of the rise of Islam. Its members did not worship idols, and they were the followers of the Prophet Abraham.
-
-For details, see [Arabia Before Islam](https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/arabia-islam)
 
 ### Poetry
 
@@ -7389,7 +7385,7 @@ Events that have already taken place:
 
 Events that are happening at present:
 * `Naked, destitute, barefoot shepherds will compete in building tall buildings` (Sahih Bukhari, Vol 1: book 2: 47)
-There were two tipes of tribes in Saudi Arabia: city people and bedouns.This hadith is related to bedoun tribes that throughout history lived in poverty. Even during Islamic Golden Age they lived in the desert with their tribe and camels; they didn't even have houses. In the 13th century, 700 years ago, imam Qurtubi said this is the prediction of a reversal in society whereby the people of the desert will take over the construction of affairs and rule every region by force. They will become extremely rich and their primary concern will be to erect tall buildings and take pride in them. 
+There were two types of tribes in Saudi Arabia: city people and bedouns.This hadith is related to bedoun tribes that throughout history lived in poverty. Even during Islamic Golden Age they lived in the desert with their tribe and camels; they didn't even have houses. In the 13th century, 700 years ago, imam Qurtubi said this is the prediction of a reversal in society whereby the people of the desert will take over the construction of affairs and rule every region by force. They will become extremely rich and their primary concern will be to erect tall buildings and take pride in them. 
 * The slave-woman will give birth to her master or mistress (Sahih Bukhari, Vol 6: book 60: 300)
 * A trial (fitnah) which will enter every Arab household (Sahih Bukhari, Vol 4: book 53: 401)
 * Knowledge will be taken away (by the death of people of knowledge), and ignorance will prevail (Sahih Bukhari, Vol 1: book 3: 80)
@@ -7439,7 +7435,7 @@ Events that are yet to happen:
 * The blowing in the Trumpet by the Angel Israfil, upon which everyone will faint except as Allah wills (Sahih Muslim, Book 041: 7023)
 * The second blowing in the Trumpet, upon which everyone will be resurrected (Sahih Muslim, Book 041: 7023)
 
-There is a hadith that prophet Muhammad ﷺ    said, If you encounter the beginning of Al Qiyamah while planting a palm seed, continue planting the seed.
+There is a hadith that prophet Muhammad ﷺ    said, "If you encounter the beginning of Al Qiyamah while planting a palm seed, continue planting the seed".
 
 </details><details><summary>
   
@@ -7575,19 +7571,41 @@ Gabriel had such strong impact on Daniel that he had to recover several days.
 
 </details><details><summary>
 
-## Gog and Magog (Yadjuj and Madjuj)
+## Gog and Magog (Yajuj and Majuj)
 
 </summary>
+
+    Until, when Ya’jooj and Ma’jooj are let loose (from their barrier), and they swiftly swarm from every mound. And the true promise (Day of Resurrection) shall draw near (to fulfillment) 
+    Quran, Surah al-Anbiyaa:96-97
 
 Gog and Magog are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
 
 Two chapters of the Quran, Al Kahf and Al-Anbiya, discuss Gog and Magog. In the Quran Yajuj and Majuj (Gog and Magog) are suppressed by Dhul-Qarnayn "the two-horned one." Dhul-Qarnayn, having journeyed to the ends of the world, meets "a people who scarcely understood a word" who seek his help in building a barrier that will separate them from the people of Yajuj and Majuj who "do great mischief on earth". He agrees to build it for them, but warns that when the time comes (Last Age), Allah will remove the barrier.
 
-Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times. At some point at time people who have these characteristics or descendands of them will be let loose. 
+    Then he followed (another) way, until, when he reached between two mountains, he found, before (near) them (those two mountains), a people who scarcely understood a word. They said: "O Dhoo’l-Qarnayn! Verily! Ya’jooj and Ma’jooj are doing great mischief in the land. Shall we then pay you a tribute in order that you might erect a barrier between us and them?" 
+    He said: "That (wealth, authority and power) in which my Lord has established me is better (than your tribute). So help me with strength (of men), I will erect between you and them a barrier. Give me pieces (blocks) or iron," then, when he had filled up the gap between the two mountain-cliffs, he said, "Blow," till when he had made it (red as) fire, he said, "Bring me molten copper to pour over it." 
+    So they [Ya’jooj and Ma’jooj] were made powerless to scale it or dig through it. (Dhoo’l-Qarnayn) said: "This is a mercy from my Lord, but when the Promise of my Lord comes, He shall level it down to the ground. And the Promise of my Lord is ever true." And on that Day [i.e., the day Ya’jooj and Ma’jooj will come out], We shall leave them to surge like waves on one another, and the Trumpet will be blown, and We shall collect them all together.
+    Quran, Surah al-Kahf 18:92-99
+
+Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times. At some point at time people who have these characteristics or descendands of them will be let loose.
+
+### Destruction and death of Yajuj and Majuj by Eesa (Jesus)
+
+After Prophet Jesus (Eesa) (AS) will kill the Dajjal (Anti-Christ), Allah will inform him about the arrival of this disbelieving tribe that is undefeated and he will take refuge in the Mount of Toor until Allah will destroy them.
 
 According to Sahih Muslim, the Prophet said:
 
 > Then a people whom Allah had protected from him (dajjal) would come to Isa, son of Maryam, and he would wipe their faces and would inform them of their ranks in Paradise and it would be under such conditions that Allah would reveal to Isa (alaihis salam) these words: I have brought forth from amongst My servants such people against whom none would be able to fight; you take these people safely to Tur, and then Allah would send Gog and Magog and they would swarm down from every slope. The first of them would pass the lake of Tiberias and drink out of it. And when the last of them would pass, he would say: There was once water there.
+
+Hadith is narrated by Imam Ahmed in his Musnad that the Prophet Muhammad ﷺ  said: 
+>"Verily, Gog and Magog dig through the dam every day, till they could see the sun rays (through it), and their leader would say: ‘Go back and you will finish it tomorrow.’ On the next day, they find it as strong as before. Till when their appointed term comes and Allah desires to send them against mankind, they dig it till they could see the sun rays (through it) and their leader says: ‘Go back and you will finish it tomorrow, if Allah wills!’ On the next day, they find it as they had left the day before and they dig through it and come against mankind. They will drink (every drop of water they pass by). The people will resort to strongholds. And, Gog and Magog will throw their arrows towards the sky. When they come back to them stained with what looks like blood, they will say: ‘We have defeated the people on earth and those in the heaven as well.’ Then, Allah the Almighty will send against them worms in their necks that will kill them all. Allah’s Messenger ﷺ   said: “By Him in Whose Hand Muhammad’s soul rests! Living creatures of the earth would go fat and be thankful due to eating their flesh and (drinking their) blood." 
+>(Also transmitted by Imam Ahmed on the authority of Hasan Ibn Musa after Sufyan after Qatadah and by At-Tirmidhi on the authority of Abu, Awanah after Qatadah.)
+
+Al-Nawaas ibn Sam’aan reported that Prophet ﷺ  , while describing the signs of the Day of judgement said: 
+> “… and Allah will send Ya’jooj and Ma’jooj, swiftly swarming from every mound. They will pass the lake of Tiberias [in Palestine] and will drink everything that is in it. Then the last of them will pass by and will say, ‘There used to be water here once.’ The Prophet of Allah, Eesaa (Jesus), and his companions, will be besieged until a bull’s head will be more precious to one of them than a hundred dinars are to any of you today. Eesaa (Jesus) and his companions will pray to Allah, and Allah will send a kind of worm (like that found in the noses of camels and sheep) on their (Ya’jooj and Ma’jooj) necks, and they will fall down dead, all at once. Then Eesaa (Jesus) and his companions will come down out of the place where they were besieged, and they will find hardly a hand span of land that is not filled with the stench (of Ya’jooj and Ma’jooj), so Eesaa (Jesus) and his companions will pray to Allah, and He will send birds like the necks of camels to carry them away and throw them wherever Allah wills.”
+> (Reported by Muslim, 18/68).
+
+After the end of Gog Magog, the other signs of the arrival of day of judgment will come shortly one after another till the trumpet will be blown and the world in its present state will end.
 
 </details><details><summary>
 
@@ -7838,6 +7856,28 @@ Imâm-i Ghazâlî, on the other hand, declares:
 "The torment in the grave will be inflicted on both the soul and the body" (Ihyâ).
 
 <details><summary>
+
+### What is a soul?
+
+</summary>
+
+    And they ask you [O Muhammad] concerning the rooh [the spirit]. Say: "The rooh: it is one of the things, the knowledge of which is only with my Lord. And of knowledge, you (mankind) have been given only a little." 
+    Quran, Surah al-Israa 17:85
+
+This following hadith is about the incident when the Jews asked Prophet Muhammad about Ruh (Soul) and the Prophet ﷺ   replied after getting the divine inspiration.
+
+#### Entering of the soul in the human body
+
+> “The Messenger of Allah ﷺ  , who is the most truthful (of human beings) and his being truthful (is a fact) told us: ‘The constituents of one of you is gathered in his mother’s womb for forty days, then it becomes a clot of blood within another period of forty days. Then it becomes a lump of flesh, and forty days later, Allah sends His angel to it to breathe into it the soul. The angel comes with instructions concerning four things, so the angel writes down his livelihood, his death, his deeds and whether he will doomed or blessed.” 
+> (Reported by Muslim, 1528).
+
+#### The soul during death 
+
+According to hadith, when a person dies, the soul goes from the bottom of the body to the top before it leaves the body and the eyes roll-up as the soul leaves the body. According to hadith narrated by Umm Salama, she said that 
+
+> The Messenger of Allah ﷺ   entered upon Abu Salamah (after he had died) and his eyes were open, so he closed them then said, ‘When the soul is taken, the eyes follow it.’ (Reported by Sahih Muslim, 1528).
+
+</details><details><summary>
 
 ### Generosity and Forgetfulness before Death
 
