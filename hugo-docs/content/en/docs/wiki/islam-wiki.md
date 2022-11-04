@@ -3285,13 +3285,6 @@ The Apostolic Age is named after the Apostles and their missionary activities. I
 
 The earliest followers of Jesus were a sect of apocalyptic Jewish Christians within the realm of Second Temple Judaism. The early Christian groups were strictly Jewish, such as the Ebionites, and the early Christian community in Jerusalem, led by James the Just, brother of Jesus. According to Acts 9,they described themselves as "disciples of the Lord" and [followers] "of the Way", and according to Acts 11, a settled community of disciples at Antioch were the first to be called "Christians". 
 
-Early Christians were all Jews as Jesus himself.
-* They were fulfilling the covenant by circumsising their male children; 
-* They did not eat pork;
-* They worshiped one God and prayed to God alone;
-* They greeted each other with "Shalom!" (Peace!)
-* And they considered Jesus to be a promied Messiah
-
 </details><details><summary>
 
 ## How Paul corrupted teachings of Jesus
@@ -7751,75 +7744,11 @@ And Allah knows best.
 *******************************************
 <details><summary>
 
-## What happens after The End
-
-</summary> 
-Allahu 'Alim.
-
-There is no explicit order of events in the Quran and Sunna.
-
-As Saffaranini said there will be 8 things:
-* Resurrection (Al Baghf)
-* Coming out of the grave and running aroung (An Nushurr)
-* The gathering (Al Hashshar)
-* Al Quyama -- The standing up
-* The showing of the deeds (Al Ard)
-* The judgement on the left and right side (Hisab)
-* The Scales (Al Mizan)
-
-He didn't mention that Allah and angels will come in rows, the blowing of the trumpet, Shafagha, seeing of Allah, The Cistern (the pool), Sirat, Wurud, The Qantara (open area in front of Jannah).
-
-</details><details><summary>
-
-## Hadith: Salman Al-Farsi talks to a Dead Person
-
-</summary>
- 
-It seems proper to give here a short account of the conversation which Salman, the Persian, had had with a dead person. It is a lengthy tradition, but of great benefit.
- 
-Asbagh bin Nubata (r.a.) was a trusted companion of Ameerul Mumeneen Ali (AS). He went to see Salman Farsi (r.a.) who had settled in Madain. Asbagh (r.a.) says:
- 
-"I found him very sick, near his death. He told me: 'O Asbagh, the Messenger of Allah had informed me that, at the time of my death, a dead person would talk to me. Now, put me on a wooden plank and take me to the graveyard. On reaching the grave-yard, Salman faced towards Qibla and in a loud voice saluted the dead. Nobody replied. After saluting them several times without getting any reply, Salman said: "O Inhabitants of these graves, I am Salman, a slave of the Messenger of Allah. The Prophet had told me that at the time of my death a dead person would converse with me. Now, if that time has arrived, then, for the sake of Allah and His Messenger, please talk to me".
- 
-Suddenly someone responded to his Salaam, and said: "O people who build and plant, and ultimately the buildings turn into ruins and gardens decay; ask me what you want, I will reply".
- 
-Salman (r.a.) asked: "Are you from the people of Paradise or of Hell?" The dead man said that he was from the people of Paradise.
- 
-Salman requested him to describe how he died and what agonies he had to undergo at that time. He replied:
- 
-"O Salman, please do not ask this. By Allah, if someone had snipped my flesh (by scissors) in little bits and removed the flesh from the bones, it would have been easier than the agony of death. O Salman, I always did good deeds in your world, always prayed on time, used to recite the Qur'an, was good to my parents, lived on lawful earnings. Then I fell ill and my life came to its end. At that time, a very tall person, with a frightening countenance, stood in the air before me. He pointed to my eyes and they lost their sight; to my ears and they became deaf; to my tongue and it lost its speech. I asked him who he was and why he was doing it to me. He said: I am the angel of death; your life has ended in this world. You have to go from here to another world'.
- 
-Then two persons came to me, one of them sat on my right, the other on the left. They informed me that they were the two angels who had written all my deeds in the worldly life. One, whose name was 'Raqueeb' gave my record of good deeds, on reading which I was much pleased. Then the other angel, whose name was 'Ateed', gave me the other record, a complete record of my sins; and on reading that I was very sad.
- 
-Then the Angel of Death came nearer and removed my soul through my nose, and I have not forgotten its agony yet. Seeing me dead, my relatives and family members started crying. The Angel of Death said: "Why are you crying? I have not done any injustice that you are complaining of. When his life came to end, I removed his soul on the command of Allah. And I will come to you so many times."
- 
-Then another Angel took my soul and I was brought to heaven where I was asked about my deeds, viz. prayers, fasts, Zakat, Khums, Hajj, Jihad, recitation of the Qur'an, obedience to the parents etc. Likewise, I was asked whether I had murdered any one, or taken some one's property without any right, or been unjust to other people and such things.
- 
-Then that same Angel brought my soul back to earth. At that time the person who wanted to wash my body (Ghassal) removed my clothes and started the ritual washing (Ghusl). My soul cried out: "O servant of Allah, have mercy On this weak and broken body. By Allah, all its veins, whence I have come out, have been broken; and its limbs are like they have been minced". My soul was imploring him in such a touching way that if the Ghassal were to hear it, he would have left washing the dead bodies altogether.
-Then they covered me with Kafan (shroud), gave me Hunut, prayed upon me. When they laid me in the grave, I was so much frightened that words cannot describe it.
- 
-When they closed my grave, my soul entered my body again. An Angel, Munabbih (One who awakens, reminds) by name, came to me and made me sit. He ordered me to write down all the deeds which I had done in the world. I said that I did not remember. He said: 'I will go on reminding, you go on writing'. I said: 'Where is the paper?' He said: "This Kafan of yours will do for paper'. I said: 'Where can I find a pen?' He said: 'Your finger will be your pen'. I asked about the ink and was told that my saliva will work like ink.
- 
-When I had written all my deeds, the Angel put my writing around my neck like a band, it is as Allah says in the Qur'an:
-
-    "And the bird (i.e., deed done by one) of every man have We bound about his neck, and We shall produce unto him, on the Day of Resurrection, a book (in which his actions will be recorded) which he will find open, (it will be said to him) read thy book; thine own self will be a sufficient reckoner against thee." 
-    Qur'an, 17:13-14
-
-In other traditions, the name of the angel, who comes in the grave and guides in writing the deeds of the Mayyit, is given as "Ruman".
- 
-Then an angel, very frightening, Munkar by name, came to me with a fiery club, and asked me: "Who is your Lord? Who are your Prophet and Imams? What is your religion?" I was so afraid that I became totally confused; my limbs were trembling; I could not understand what to reply. In that confusion, the Mercy of Allah supported me, and my heart became tranquil, and I replied; "Allah (His Power is Great) is my Lord; and Muhammad is my Prophet, and Ali bin Abi Talib is my Imam and Islam is my religion; and the Qur'an is my Book and the Kaaba is my Quibla".
- 
-Then another Angel, who is called Nakir, interrogated me in the same manner about my beliefs. By Grace of Allah, I replied his questions also and said: "I bear witness that there is no god except Allah, and that Muhammad is His Messenger, and that Ali and his sinless progeny are the proofs of Allah, and that Paradise is Haqq (a Fact, Truth) and the Fire (of Hell) is true, and Sirat (Path) is true, and the Balance (of deeds) is true and the Questioning of Munkar and Nakir in the grave is true, and Resurrection is true, and raising (of dead) is true, and flying of the books (in which deeds of a person are recorded) is true, and that the Hour (Day of Judgement) is sure to come, there is no doubt in it, and that Allah will raise all the dead who are in the grave".
- 
-Hearing these true answers, the angels said to me: "Sleep as a bride sleeps" (without any worry); they opened a door of Paradise towards my head, and the breeze of Paradise came to me, and my grave (which previously looked like a prison) become a vast place extending beyond my vision, and the whole place became a garden.
- 
-O Salman, a man must remember his Lord at all times, and must spend his life in His obedience, because death is a sure thing and every one will have to face all those things which I have told you."
- 
-Asbagh (r.a.) said: "When the voice stopped, Salman (r.a.) told me to take him back home, there he lay on the ground and looking towards heavens prayed to Allah, and left this world."
-
-</details><details><summary>
-
 ## Death. What happens when people die
+
+</summary><details><summary>
+
+## Overview
 
 </summary>
 
@@ -7834,12 +7763,10 @@ Asbagh (r.a.) said: "When the voice stopped, Salman (r.a.) told me to take him b
 Before talking about the Hereafter, we must contemplate on what happens after a person dies.
 
 
-
-the one who has many sins will ask to go back to dunya ad repent and be good
+The one who has many sins will ask to go back to dunya and repent and be good:
 
     Say: "Verily, the death that you run away from will surely grab you, then you will be sent back to (Allah), the All-Knower of the unseen and the seen, and He will inform you of what you used to do."
     Quran, Chapter 62 Al-Jumuah (Friday)
-
 
 People who die end up in the Barzak. It is the world of souls where they wait for their resurrection and the Final Judjement. Barzakh (برزخ,  "limbo, barrier, partition" is an Arabic word meaning "obstacle", "hindrance", "separation", or "barrier") in Islam designates a place separating the living from the hereafter or a phase/"stage" between an individual's death and their resurrection in "the Hereafter".
 
@@ -7852,10 +7779,7 @@ What happens during and after death?
 5. In the grave, two angels Munkar and Nakir with unknown appearence come to the soul and ask the soul who is his Lord, who is the man that was sent to you and what is your religion.
 6. Soul is asked to look to the left, where he sees Hell and frightened. If the person was a believer and done good deeds, angels say that Allah saves you from torment because you were a believer. Then the souls is asked to look to the right where he sees the Heaven. When he sees the Heaven, he asks God to end this world so that he can come to Jannah right now.
 
-Imâm-i Ghazâlî, on the other hand, declares:
-"The torment in the grave will be inflicted on both the soul and the body" (Ihyâ).
-
-<details><summary>
+</details><details><summary>
 
 ### What is a soul?
 
@@ -7876,6 +7800,13 @@ This following hadith is about the incident when the Jews asked Prophet Muhammad
 According to hadith, when a person dies, the soul goes from the bottom of the body to the top before it leaves the body and the eyes roll-up as the soul leaves the body. According to hadith narrated by Umm Salama, she said that 
 
 > The Messenger of Allah ﷺ   entered upon Abu Salamah (after he had died) and his eyes were open, so he closed them then said, ‘When the soul is taken, the eyes follow it.’ (Reported by Sahih Muslim, 1528).
+
+#### The soul during sleep
+
+The soul leaves the body during our sleep.
+
+    It is Allah Who takes away the souls at the time of their death, and those that die not during their sleep. He keeps those (souls) for which He has ordained death and sends the rest for a term appointed. Verily, in this are signs for a people who think deeply"
+    Surah Az-Zumar 39:42
 
 </details><details><summary>
 
@@ -7910,20 +7841,6 @@ There is a difference of opinion regarding the addressees of this verse. The pre
 Therefore, scholars have formulated the following aphorism:
 >"People are sleeping in this world; when they die, they will wake up.
 
-Also, souls leave the body during our sleep.
-
-    It is Allah Who takes away the souls at the time of their death, and those that die not during their sleep. He keeps those (souls) for which He has ordained death and sends the rest for a term appointed. Verily, in this are signs for a people who think deeply"
-    Surah Az-Zumar 39:42
-
-
-
-    In the name of Allah, The Almighty Creator, Owner of Life and Death.
-
-    (Muhammad), say "The angel of death, who is appointed over everyone of you, will cause you to die and to your Lord you will all return"
-    Holy Quran - As-Sajda 32:11
-
-In Islam, when someone is about to die then few things will happen:
-
 Few moments before death, the person would start to see what is usually unseen for the human eyes (God describe this as the eyes being unveiled to finally see the truth).
 
 </details><details><summary>
@@ -7931,6 +7848,11 @@ Few moments before death, the person would start to see what is usually unseen f
 ### Angel of Death departs the soul from the body
 
 </summary>
+
+    In the name of Allah, The Almighty Creator, Owner of Life and Death.
+
+    (Muhammad), say "The angel of death, who is appointed over everyone of you, will cause you to die and to your Lord you will all return"
+    Quran, Surah As-Sajda 32:11
 
 The Angel of Death will come to the person but how the look of the Angel of Death depends on the state of the person (which means how the Angel will appear is determined by the deeds of the person: Good deeds or bad deeds).
 
@@ -7993,6 +7915,9 @@ According to many traditions, two deaths and two lives mean death in this world,
 
 </summary>
 
+Imâm-i Ghazâlî declares:
+"The torment in the grave will be inflicted on both the soul and the body" (Ihyâ).
+
 </details><details><summary>
 
 ## Two Angels question the soul
@@ -8014,7 +7939,6 @@ Muslims believe that a person will correctly answer the questions not by remembe
 ## People wait for the Day of Judgement
 
 </summary>
-
 
 </details><details><summary>
 
@@ -8085,7 +8009,84 @@ They said, ‘For now you will not enter it, but you shall enter it (one day).�
 
 The ugly-looking man whom you saw kindling a fire and walking around it was Malik, the keeper of Hell. The tall man whom you saw in the garden was Ibraheem, and the children around him were the children who died (young) in a state of fitrah (natural state of mankind, i.e., Islam).’ – Some of the Muslims asked, ‘O Messenger of Allah, what about the children of the mushrikeen?’ He said, ‘And the children of the mushrikeen too.’ – ‘As for the men who were half handsome and half ugly, they were people who had mixed a good deed with another deed that was bad, but Allah forgave them.’”  (Narrated by Muslim, no. 7047)
 
+</details><details><summary>
+
+## Hadith: Salman Al-Farsi talks to a Dead Person
+
+</summary>
+ 
+It seems proper to give here a short account of the conversation which Salman, the Persian, had had with a dead person. It is a lengthy tradition, but of great benefit.
+ 
+Asbagh bin Nubata (r.a.) was a trusted companion of Ameerul Mumeneen Ali (AS). He went to see Salman Farsi (r.a.) who had settled in Madain. Asbagh (r.a.) says:
+ 
+"I found him very sick, near his death. He told me: 'O Asbagh, the Messenger of Allah had informed me that, at the time of my death, a dead person would talk to me. Now, put me on a wooden plank and take me to the graveyard. On reaching the grave-yard, Salman faced towards Qibla and in a loud voice saluted the dead. Nobody replied. After saluting them several times without getting any reply, Salman said: "O Inhabitants of these graves, I am Salman, a slave of the Messenger of Allah. The Prophet had told me that at the time of my death a dead person would converse with me. Now, if that time has arrived, then, for the sake of Allah and His Messenger, please talk to me".
+ 
+Suddenly someone responded to his Salaam, and said: "O people who build and plant, and ultimately the buildings turn into ruins and gardens decay; ask me what you want, I will reply".
+ 
+Salman (r.a.) asked: "Are you from the people of Paradise or of Hell?" The dead man said that he was from the people of Paradise.
+ 
+Salman requested him to describe how he died and what agonies he had to undergo at that time. He replied:
+ 
+"O Salman, please do not ask this. By Allah, if someone had snipped my flesh (by scissors) in little bits and removed the flesh from the bones, it would have been easier than the agony of death. O Salman, I always did good deeds in your world, always prayed on time, used to recite the Qur'an, was good to my parents, lived on lawful earnings. Then I fell ill and my life came to its end. At that time, a very tall person, with a frightening countenance, stood in the air before me. He pointed to my eyes and they lost their sight; to my ears and they became deaf; to my tongue and it lost its speech. I asked him who he was and why he was doing it to me. He said: I am the angel of death; your life has ended in this world. You have to go from here to another world'.
+ 
+Then two persons came to me, one of them sat on my right, the other on the left. They informed me that they were the two angels who had written all my deeds in the worldly life. One, whose name was 'Raqueeb' gave my record of good deeds, on reading which I was much pleased. Then the other angel, whose name was 'Ateed', gave me the other record, a complete record of my sins; and on reading that I was very sad.
+ 
+Then the Angel of Death came nearer and removed my soul through my nose, and I have not forgotten its agony yet. Seeing me dead, my relatives and family members started crying. The Angel of Death said: "Why are you crying? I have not done any injustice that you are complaining of. When his life came to end, I removed his soul on the command of Allah. And I will come to you so many times."
+ 
+Then another Angel took my soul and I was brought to heaven where I was asked about my deeds, viz. prayers, fasts, Zakat, Khums, Hajj, Jihad, recitation of the Qur'an, obedience to the parents etc. Likewise, I was asked whether I had murdered any one, or taken some one's property without any right, or been unjust to other people and such things.
+ 
+Then that same Angel brought my soul back to earth. At that time the person who wanted to wash my body (Ghassal) removed my clothes and started the ritual washing (Ghusl). My soul cried out: "O servant of Allah, have mercy On this weak and broken body. By Allah, all its veins, whence I have come out, have been broken; and its limbs are like they have been minced". My soul was imploring him in such a touching way that if the Ghassal were to hear it, he would have left washing the dead bodies altogether.
+Then they covered me with Kafan (shroud), gave me Hunut, prayed upon me. When they laid me in the grave, I was so much frightened that words cannot describe it.
+ 
+When they closed my grave, my soul entered my body again. An Angel, Munabbih (One who awakens, reminds) by name, came to me and made me sit. He ordered me to write down all the deeds which I had done in the world. I said that I did not remember. He said: 'I will go on reminding, you go on writing'. I said: 'Where is the paper?' He said: "This Kafan of yours will do for paper'. I said: 'Where can I find a pen?' He said: 'Your finger will be your pen'. I asked about the ink and was told that my saliva will work like ink.
+ 
+When I had written all my deeds, the Angel put my writing around my neck like a band, it is as Allah says in the Qur'an:
+
+    "And the bird (i.e., deed done by one) of every man have We bound about his neck, and We shall produce unto him, on the Day of Resurrection, a book (in which his actions will be recorded) which he will find open, (it will be said to him) read thy book; thine own self will be a sufficient reckoner against thee." 
+    Qur'an, 17:13-14
+
+In other traditions, the name of the angel, who comes in the grave and guides in writing the deeds of the Mayyit, is given as "Ruman".
+ 
+Then an angel, very frightening, Munkar by name, came to me with a fiery club, and asked me: "Who is your Lord? Who are your Prophet and Imams? What is your religion?" I was so afraid that I became totally confused; my limbs were trembling; I could not understand what to reply. In that confusion, the Mercy of Allah supported me, and my heart became tranquil, and I replied; "Allah (His Power is Great) is my Lord; and Muhammad is my Prophet, and Ali bin Abi Talib is my Imam and Islam is my religion; and the Qur'an is my Book and the Kaaba is my Quibla".
+ 
+Then another Angel, who is called Nakir, interrogated me in the same manner about my beliefs. By Grace of Allah, I replied his questions also and said: "I bear witness that there is no god except Allah, and that Muhammad is His Messenger, and that Ali and his sinless progeny are the proofs of Allah, and that Paradise is Haqq (a Fact, Truth) and the Fire (of Hell) is true, and Sirat (Path) is true, and the Balance (of deeds) is true and the Questioning of Munkar and Nakir in the grave is true, and Resurrection is true, and raising (of dead) is true, and flying of the books (in which deeds of a person are recorded) is true, and that the Hour (Day of Judgement) is sure to come, there is no doubt in it, and that Allah will raise all the dead who are in the grave".
+ 
+Hearing these true answers, the angels said to me: "Sleep as a bride sleeps" (without any worry); they opened a door of Paradise towards my head, and the breeze of Paradise came to me, and my grave (which previously looked like a prison) become a vast place extending beyond my vision, and the whole place became a garden.
+ 
+O Salman, a man must remember his Lord at all times, and must spend his life in His obedience, because death is a sure thing and every one will have to face all those things which I have told you."
+ 
+Asbagh (r.a.) said: "When the voice stopped, Salman (r.a.) told me to take him back home, there he lay on the ground and looking towards heavens prayed to Allah, and left this world."
+
 </details></details><details><summary>
+
+## Day of Judgement Overview
+
+</summary> 
+
+Allahu 'Alim.
+
+There is no explicit order of events in the Quran and Sunna.
+
+As Saffaranini said there will be 8 things:
+* First blow of the Trumpet: Destruction of the Earth
+* Second blow of the Trumpet: Resurrection (Al Baghf)
+* Coming out of the grave and running aroung (An Nushurr)
+* The gathering (Al Hashshar)
+* Al Quyama -- The standing up
+* The showing of the deeds (Al Ard)
+* The judgement on the left and right side (Hisab)
+* The Scales (Al Mizan)
+* Sirat bridge crossing
+* Kawthar
+* The hereafter
+  * Jannah (Paradise)
+  * Al-Ar'af 
+  * Jahannam (Hell)
+    * Some people after they have received their punishment will be brought back to Jannah 
+
+Also, not mentioned above: angels will come in rows, Shafagha, seeing of Allah, The Cistern (the pool), Wurud, The Qantara (open area in front of Jannah).
+
+</details><details><summary>
 
 ## Israfil Blows the Trumpet the first time
 
