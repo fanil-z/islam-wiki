@@ -27,15 +27,6 @@ The Prophet ﷺ   answered this question by first stating that Allāh's Existenc
 
 </summary>
 
-### Water
-
-Allâh, taâlâ, did not create all the creations at one time. Had He willed for this, it would have occurred. Rather, in six yawm, He created the heavens and Earth ; and for Earth Allāh created rivers, mountains, and valleys. 
-
-The first creation is water. The Prophet, sallallahu alayhi wa sallam, said:
-> « Allāh created everything from water. » [Related by Ibn Hibban]
-
-Allah knows best. This means that Allāh created water before creating light, darkness, Earth, the heavens, the Throne, or the Guarded Tablet. Allāh made water the origin for other creations. He created the Throne from water. Then He created the Upper Pen, then the Guarded Tablet. After these creations, Allāh created the rest of the creations: the Earth, heavens, animals, mountains, trees 🌳, and rivers. Adam, peace be upon him, was of the last kind of creation, humans.
-
 ### The Throne
 
 One of the first creations of Allah was the Throne (Al-'Arsh). The Arsh is a platform with pillars. It is considered to be the largest of bodies that Allāh created, and it is the ceiling of Paradise.
@@ -73,15 +64,35 @@ It was narrated in the description of the Guarded Tablet that it is a white pear
 
 Allāh ordered the Pen to write. The Pen wrote, by the Will of Allāh, without anyone holding it. It wrote on the Guarded Tablet what was and what will be in this life until its end. Fifty thousand (50,000) years after this event, Allāh created the heavens and Earth in six (6) yawm. No person is born and no drop of water falls except in accordance to what was written in the Guarded Tablet.
 
+### Water
+
+In some narrations, water was created before the Throne.
+
+Allâh, taâlâ, did not create all the creations at one time. Had He willed for this, it would have occurred. Rather, in six yawm, He created the heavens and Earth ; and for Earth Allāh created rivers, mountains, and valleys. 
+
+The first creation is water. The Prophet, sallallahu alayhi wa sallam, said:
+> « Allāh created everything from water. » [Related by Ibn Hibban]
+
+Allah knows best. This means that Allāh created water before creating light, darkness, Earth, the heavens, the Throne, or the Guarded Tablet. Allāh made water the origin for other creations. He created the Throne from water. Then He created the Upper Pen, then the Guarded Tablet. After these creations, Allāh created the rest of the creations: the Earth, heavens, animals, mountains, trees 🌳, and rivers. Adam, peace be upon him, was of the last kind of creation, humans.
+
 </details><details><summary>
 
 ## The Seven Heavens
 
 </summary>
 
+    God it is who has created seven heavens, and similar number of the earths. The commandments come down among them slowly.. 
+    Quran 65:12
+
+    Have not "those who disbelieve" known that heavens and earth were of one piece, We parted them and, We made every living thing of water, will they not then believe?"
+    Qur'an 21:30
+
 After Allāh created the Earth, He created the seven heavens. Each heaven is a solid body that is held up without any pillars. The heavens are separated. From one heaven to the other is a distance of five hundred (500) years, and every heaven has a gate.
 
 The first heaven is so far away from the Earth. Some people are unable to encompass this to the extent that they believe that the space which contains the stars and planets is the entire universe. They also falsely believe that it extends without an end. There is no point to their claims, because Allāh told us in the Qur’an and the Prophet also informed us in his Hadith what is contradictory to their claims. Paradise exists above the seventh heaven.
+
+    The heavens, We have built with power, And We are expanding it.
+    Qur'an 51:47
 
 </details><details><summary>
 
@@ -4908,6 +4919,14 @@ In Sha'aban (8th month) of the second year of Hijra, fasting during the month of
 
 In the same year, another tax, Zakat-ul-Mal, was imposed upon the Muslims. This tax is assessed at the rate of 2.5 per cent of a Muslim's wealth. In the times of the Prophet, this tax was paid into the Bayt-ul-Mal or public treasury, and was spent on the welfare of the poor and the sick members of the community. But if there is no Bayt-ul-Mal, the Muslims must pay it to the deserving poor, the widows, the orphans and those members of the community who have no means of supporting themselves.
 
+Zakat is one of 5 pillars of Islam.
+
+> Ibn Umar reported: The Prophet, peace and blessings be upon him, said, “Never do people withhold alms from their wealth but that a portion from the sky will be held back; were it not for the animals, it would never rain.”
+>
+> Source: al-Mu’jam al-Kabīr 13454
+>
+> Grade: Sahih (authentic) according to Al-Albani
+
 </details><details><summary>
 
 ## 624: ⚔️ Battle of Badr
@@ -7752,6 +7771,10 @@ And Allah knows best.
 
 </summary>
 
+    Everyone is going to taste death, and We shall make a trial of you with evil and with good, and to Us you will be returned. 
+    Quran (Surah Al-Anbiya:21)
+
+The chronology of what happens with the soul after a person dies:
 * soul is taken from the body
 * soul sees how people bury the body
 * soul is in the grave with the body
@@ -7761,7 +7784,6 @@ And Allah knows best.
   * soul takes punishment until The Day of Judgement 
 
 Before talking about the Hereafter, we must contemplate on what happens after a person dies.
-
 
 The one who has many sins will ask to go back to dunya and repent and be good:
 
@@ -7933,6 +7955,16 @@ After a person is buried, two angels come to the died person and ask questions. 
 A righteous believer will respond correctly, saying that their Lord is Allah, that Muhammad is their prophet and that their religion is Islam. If the deceased answers correctly, the time spent awaiting the resurrection is pleasant and may enter heaven. Those who do not answer as described above are chastised until the day of judgment. There is belief that the fire of hell can already be seen in Barzakh, and that the spiritual pain caused by this can lead to purification of the soul.
 
 Muslims believe that a person will correctly answer the questions not by remembering the answers before death but by their iman (faith) and deeds such as salat (prayer) and shahadah (the Islamic profession of faith).
+
+The answer are not answered by tongue but they are answered by heart. People will not be able to give the right answer if they did not live upon these words.
+
+</details><details><summary>
+
+## People meet their Good Deeds
+
+</summary>
+
+I am your good deeds. I am the prayers you prayed, I am zakat you paid
 
 </details><details><summary>
 
@@ -8116,31 +8148,58 @@ On the other hand, a Hadeeth reads: "Then the Trumpet will be blown, and no one 
 
 </summary>
 
-After the first blow the Destruction of everything on the Earth will start.
+After the first blow, everything on the Earth will be destroyed. And the heavens will be rolled up.
+
+    The day when, We shall roll up the heavens as a recorder rolls up a written scroll. As We began the first creation We shall repeat it.
+    Quran 21:104
+
+    When earth is shaken with her final earthquake.
+    Quran 99:1
+
+    When the sky will be like molten copper and the hills will be like flakes of wool.
+    Quran:70:8-9
+
+I've come across this interesting theory of physics of Destruction of the earth on the Day of Judgement: [Physics of the Day of Judgement](https://www.islamicity.org/6377/the-physics-of-the-day-of-judgement/).
+
+<img src="/reverse-gravity.jpg" alt="Theory of Reverse Gravity"> 
+
+Shortly: 
+* The earth's gravity will be reversed.
+* The planet earth will explode and it will be turned inside out making a hollow sphere.
+* The sphere's inner surface will be white and smooth.
+* In the center of the sphere, black holes will open like portals to other dimansions. From them the angels will descend. 
 
 #### Every Living Creature Dies
 
+    The earth with the mountains shall be lifted and crushed with one crash. 
+    Qur'an 69:14
+
+    A day when the heaven with the clouds will be rent asunder, And the angels will be sent down, a grand descent.
+    Quran:25:25
+
 When the destruction begins, every living thing on Earth dies. Animals, people, jinn. There is no authentic source that says that angels will die as well but there are some narrations with weak isnad that suggest that. 
+
+> Narrated Abu Huraira: The Prophet said, "The sun and the moon will be folded up (deprived of their light) on the Day of Resurrection."
 
 There is a narration that after the trumpet is blown, Iblis goes from one side of the Earth to another trying to escape death. But the Angel of Death somes to him and he dies.
 
 Shaytan (Satan), who gave up the hope of divine mercy, and completely became alone as a result of assuming self-importance when he was commanded to prostrate for Hazrat Adam (peace be upon him), started to worry about his life. Then he begged Allah as follows: "Give me respite till the day they are raised up."  (Qur’an, al-A'raf, 7/14). What is meant by "till the day they are raised up" is the second blowing of the Sur (the trumpet of the day of Judgement) by the angel Israfel. (Qur’an, Az-Zumar, 39/68) (Qur’an, Al-Mutaffifin, 83/6).
 
-As Satan knew that after resurrection there will no more be resurrecting, he was thinking that by asking for a respite he would be saved from death. His begging for immortality was answered as "Be you among those who have respite." (Qur’an, Al-Araf, 7/15) with the condition "Till the Day of the Time Appointed." (Qur’an, Al-Hijr, 15/38). What is meant by "Till the Day of the Time Appointed.", is the first blowing of the Sur (Qur’an, An-Naml, 27/87).
+As Satan knew that after resurrection there will no more be resurrecting, he was thinking that by asking for a respite he would be saved from death. His begging for immortality was answered as `"Be you among those who have respite." (Qur’an, Al-Araf, 7/15)` with the condition `"Till the Day of the Time Appointed." (Qur’an, Al-Hijr, 15/38)`. What is meant by "Till the Day of the Time Appointed.", is the first blowing of the Sur (Qur’an, An-Naml, 27/87).
 
 There is a hadith with a weak chain of narrations:
 
-The prophet ﷺ   said after the horn is blown and the only ones that stand are the ones that your Lord willed, Allah SWT will have in front of Him Jibreel, Israfeel, Mikail, and angel of death. Those who apportion the command of Allah and Allah asks the angel of death who remain and he says O Allah Your Noble Face, your servant me, your servant Mikail, your servant Israfeel, and your servant Jibreel, Allah says take the soul of Mikail.
-
-Then Allah says who remain he Azrail said O Allah You, me, Jibreel and Israfeel. And Allah says take the soul of Israfeel and Israfeel's soul is taken and Allah says who remain O Allah Your Noble Face, me and Jibreel.And Allah says take the soul of Jibreel.
-
-The prophet ﷺ   said Jibreel would fall on his face as his wings spread glorifying Allah the Most High. He would die in Tasbih, subhanallah. Then Allah says who remain. O Allah it's just me and You, and Allah says to the angel of death to die and he dies.
-
-And then Allah SWT says Every single soul perishes. And only the Noble Face of Your Lord remain, and Allah SWT would ask Himself " To Whom Belong The Dominion Today ? " Allah SWT says to Himself " To Allah The One, The Subduer"
-
-Where are the ones with pride, the one with glory? 
-
-In another version, eight angels who carry the Throne of Allah die before the Angel of Death.
+> The prophet ﷺ   said after the horn is blown and the only ones that stand are the ones that your Lord willed, Allah SWT will have in front of Him Jibreel, Israfeel, Mikail, and angel of death. Those who apportion the command of Allah and Allah asks the angel of death who remain and he says O Allah Your Noble Face, your servant me, your servant Mikail, your servant Israfeel, and your servant Jibreel, Allah says take the soul of Mikail.
+>
+> Then Allah says who remain he Azrail said O Allah You, me, Jibreel and Israfeel. And Allah says take the soul of Israfeel and Israfeel's soul is taken and Allah says who remain O Allah Your Noble Face, me and Jibreel.And Allah says take the soul of Jibreel.
+>
+> The prophet ﷺ   said Jibreel would fall on his face as his wings spread glorifying Allah the Most High. He would die in Tasbih, subhanallah. Then Allah says who remain. O Allah it's just me and You, and Allah says to the angel of death to die and he dies.
+>
+> And then Allah SWT says Every single soul perishes. And only the Noble Face of Your Lord remain, and Allah SWT would ask Himself " To Whom Belong The Dominion Today? " Allah SWT says to Himself " To Allah The One, The Subduer"
+>
+> Where are the ones with pride, the one with glory? 
+>
+> In another version, eight angels who carry the Throne of Allah die before the Angel of Death.
 
 </details><details><summary>
 
@@ -8152,6 +8211,9 @@ In another version, eight angels who carry the Throne of Allah die before the An
     Does man not remember that We created him (once) before, when he was nothing?
     So I swear by your Lord, We will most certainly gather all of them again -- and the Shayatin -- and bring them around Jahannam on their knees...
     Quran, Surah Maryam
+
+    It is God, Who sends the winds and they raise a cloud, Then leads it to a dead land and revives the earth after its death. Such is the Resurrection.
+    Qur'an 35:9
 
 The first resurrected creature will be the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
 
@@ -8205,7 +8267,6 @@ The dead will then be resurrected and Afterlife commence with yet another trumpe
     Nay! he (Muhammad ) has come with the truth (i.e. Allah’s Religion – Islamic Monotheism and this Qur’an) and he confirms the Messengers (before him who brought Allah’s religion – Islamic Monotheism).
     Quran, Surah As-Saffaat
 
-
 [The Day of Judgement lectures by  sheikh Yasir Qadhi](https://www.youtube.com/watch?v=sg0IlOvTklI&list=PLYZxc42QNctXqgEpxF8L-ZItU3uBAjtOR&index=6)
 
 There is a hadith that says that the prophet Muhammadﷺ   will be resurrected and he will see that Musa is already holding to the Throne of Allah.
@@ -8222,19 +8283,18 @@ some will be resureccted deaf and blind. some of those who rejected signs will b
 
 People will see Jahannam.
 
-ibn Abbas said that Judgement Day is a very very long day.
-it will feel like many many lifetimes. ibn Abbas said to the Harajite that the punishment willl be in stages.
+Ibn Abbas said that Judgement Day is a very very long day. It will feel like many many lifetimes. ibn Abbas said to the Harajite that the punishment willl be in stages.
 
 Shahid will be resurrected with their scars red as blood and they will smell of musk.
 
 People who died in ihram will be resurrected in ihram.
 
-Arrogant people will be resurrected as small as ants.
+Arrogant people will be resurrected small as ants.
 
 People will be recognized for what they used to do in this dunya.
 The one who made athan will be known. 
 
-People will resurrected naked and later some of people will be clothed.
+People will be resurrected naked and later some of people will be clothed.
 
 The first to come out of the grave is prophet Muhammad SAW. The first to be clothed will be Ibrahim AS.
 
@@ -8245,9 +8305,9 @@ Hadith says people will be resurrected on a land pure white and clean and flat, 
 
 The one who calls, his voice will be hear, the one who wants to see will be seen.
 
-creations will be in a state of fear and panic. Their necks are stretched, their hearts are empty in their chests, their eyes are glazed.
+Creations will be in a state of fear and panic. Their necks are stretched, their hearts are empty in their chests, their eyes are glazed.
 
-the ones who rejected prophet Muhammad will wish that the aerth swallowed them.
+The ones who rejected prophet Muhammad will wish that the earth swallowed them.
 
 Quran says `"Don't ever think that Allah is unaware"`, the Justice will be done.
 
@@ -8271,9 +8331,16 @@ There are different interpretations. There is clearly evidence that for some peo
 
 </details><details><summary>
 
-## People settle their debdt among each other
+## People settle their debts among each other
 
 </summary>
+
+Qiyamah literally means "to stand up" or "to prepare". There are three reasons why the Day of Judgment was given this name. First, we stand up to Allah on that day and are held accountable. Secondly, people will be brought to testify against each other and will get up on that day to do so. Finally, on that Day, the balance will be prepared to weigh the good deeds and the sins.
+
+People will somehow see their deeds. Good deeds and bad deeds of a person will become as some sort currency.
+
+    We warn you of doom at hand. A day when a man will look on that his own hand has sent before, And the non-believers will cry: "Wish that we were dust." 
+    Quran 78:40
 
 People will be all gathered in a white space without mountains naked. And they will have to handle between each other all their debts, all unfinished business.
 
@@ -8287,6 +8354,11 @@ People will be all gathered in a white space without mountains naked. And they w
 >
 > Abdullah ibn Unays said, “I heard the Messenger of Allah ﷺ  , ‘The people will be gathered on the Day of Standing—and he pointed with his hand towards Sham. They will be gathered naked, uncircumcised, and buhman.’ We said, ‘And what is buhman?’ He ﷺ   replied, ‘They will not have anything with them. Then a Caller will call out with a voice heard equally by those far and near (saying), ‘I am the King, I am the Reckoner. It is not befitting that anyone from the inhabitants of the Hellfire should enter the Hellfire while someone from the inhabitants of Paradise owes him a right, until he settles it. And it is not befitting that anyone from the inhabitants of Paradise enters Paradise while someone from the inhabitants of the Hellfire owes him a right, until he settles it, even if it is only a slap.’’ We said, ‘And how will this be, when we will stand before Allah, naked, uncircumcised, without anything?’ He ﷺ   replied, ‘With good deeds and bad deeds.’”
 > Al-Adab Al-Mufrad, #970, declared Hasan by al-Albani
+
+Not only people and jinn but also animals will settle their debts.
+
+> Abu Hurairah (May Allah bepleased with him) reported: Messenger of Allah (sallallaahu alayhi wa sallam) said, “On the Resurrection Day, the rights will be paid to those to whom they are due so much so that a hornless sheep will be retaliated for by punishing the horned sheep which broke its horns”.
+[Muslim].
 
 </details><details><summary>
 
@@ -8323,6 +8395,10 @@ There wil be intercession of some people if Allah gives permission. Allah will a
 
 At the time of panic, Allah will honor some people to speak and to intercede.
 The higher their iman, the more people will be allowed for them to intercede.
+
+Abu Umamah (May Allah be pleased with him) reported:
+
+> I heard the Messenger of Allah ﷺ   saying, “Read the Qur'an, for it will come as an intercessor for its reciters on the Day of Resurrection.” [Muslim]
 
 </details><details><summary>
 
@@ -8435,12 +8511,12 @@ There are a few other reports about those who will enter first through the gates
 
 The above report was declared Hasan Gharib by Tirmidhi. However, after mentioning the above in his "Fath", Ibn Hajr quoted another hadith on the above topic from Ibn Hibb an and Tab arani, which he declared trustworthy. It says,"Then every thousand will intercede for seventy thousand. Thereafter, my Lord will usher in three handfuls of His two Handfuls." When Umar said "Allah is the Greatest" the Prophet added, "The seventy thousand will be allowed to intercede for their fathers, mothers and family members, and I hope that the handfuls will be from the lowest of my followers."
 
-When people enter Jannah, they will be told that they will be forever young, don't be sad or sick and they will stay in Paradise forever.
+When people enter Jannah, they will be told that they will be forever young, don't be sad or sick and they will stay in Paradise forever. It would take thousand years to pass by your property.
 
-Allah says I will be forever pleased with you. and people will see Allah.
 
-There's nothing in Jannah more beautiful than seeing Allah.
+Allah says I will be forever pleased with you. and people will see Allah. There's nothing in Jannah more beautiful than seeing Allah.
 
-it would take thousand years to pass by your property
+    Some faces that Day will be shining and radiant, looking at their Lord… 
+    Surah Al-Qiyamah:22-3
 
 </details>
