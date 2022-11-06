@@ -35,6 +35,17 @@ There is a Hadith that means the seven heavens in relation to the Kursiyy are li
 
 The Quran mentions the throne some 25 times (33 times as Al-'Arsh). 'Ali ibn Abi Talib, said: "Allah created the Throne as an indication of His power, not for taking it as a place for Himself."
 
+    Indeed, your Lord is Allah, who created the heavens and the earth in six days and then established Himself above the Throne (Arsh), arranging the matter [of His creation]. There is no intercessor except after His permission. That is Allah, your Lord, so worship Him. Then will you not remember?
+    Quran, surah Yunus 10:3
+
+Bearers of the Throne or hamlat al-arsh are a group of angels. The Quran mentions them in Quran 40:7 and Quran 69:17. The portrayal of these angels is comparable to the seraphim in the Book of Revelation. They might be identified with cherubim or seraphim of Jewish traditions.
+
+    Those who bear the Throne, and all who are round about it, hymn the praises of their Lord and believe in Him and ask forgiveness for those who believe (saying): Our Lord! Thou comprehendest all things in mercy and knowledge, therefor forgive those who repent and follow Thy way. Ward off from them the punishment of hell.
+    Quran 40:7
+
+    And the angels will be on its sides, and eight will, that Day, bear the Throne of thy Lord above them.
+    Quran 69:17
+
 ### Al-Qalam (The Pen)
 
 ‘Ubadah ibn al-Samit reported: The Prophet, peace and blessings be upon him, said, "Verily, the first to be created by Allah was the pen." Sunan al-Tirmidhī 3319 
@@ -62,7 +73,7 @@ The Maaliki scholar, Al-Qurtubi, may Allah have mercy upon him, mentioned in his
 
 It was narrated in the description of the Guarded Tablet that it is a white pearl and its edge is made of red ruby. Its width is the traveling distance of five hundred (500) years.
 
-Allāh ordered the Pen to write. The Pen wrote, by the Will of Allāh, without anyone holding it. It wrote on the Guarded Tablet what was and what will be in this life until its end. Fifty thousand (50,000) years after this event, Allāh created the heavens and Earth in six (6) yawm. No person is born and no drop of water falls except in accordance to what was written in the Guarded Tablet.
+Allāh ordered the Pen to write. The Pen wrote, by the Will of Allāh, without anyone holding it. It wrote on the Guarded Tablet what was and what will be in this life until its end. According to some narrations, fifty thousand (50,000) years after this event, Allāh created the heavens and Earth in six yawm. No person is born and no drop of water falls except in accordance to what was written in the Guarded Tablet.
 
 ### Water
 
@@ -7383,6 +7394,8 @@ In Islam, the arrival of Judgement Day is prophesied in various ḥadīth collec
 include the appearance of wicked forces such as the AntiChrist figure al-Dajjāl, Gog and Magog, and Sufyani. but also savior(s) the Mahdi and Jesus, who along with divine intervention, will restore order and crush the Dajjal, gog and Magog will perish as well. Some time after Isa will pass and no believer will be left on Earth. The Quran will be lifted.
 
 The signs may be divided into "minor" signs (these happen first), or "major" signs. (scholars agree there are ten of these but not what they are). They may also be divided into signs that have already happened, are currently happening, or have yet to happen.
+
+The first minor sogn was the coming of the prophet Muhammad SAW.
 
 Events that have already taken place:
 * A form of death, which will kill thousands of Muslims (Sahih Bukhari, Vol 4: book 53: 401)
