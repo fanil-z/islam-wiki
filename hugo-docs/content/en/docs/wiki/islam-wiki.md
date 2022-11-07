@@ -111,15 +111,33 @@ The first heaven is so far away from the Earth. Some people are unable to encomp
 
 </summary>
 
+    No! Indeed, these verses are a reminder;
+    So whoever wills may remember it.
+    [It is recorded] in honored sheets
+    Exalted and purified
+    [Carried] by the hands of messenger-angels,
+    Noble and dutiful.
+    Quran 80-Surah Abasa ( He frowned ) 11-16
+
 Allah created angels from nur (luminous light).
 
 One of the Islamic major characteristic of angels their lack of bodily desires: they never get tired, do not eat or drink, and have no anger. As with other monotheistic religions, angels are characteristics of their purity and obedience to God. They have different roles, including their praise of God, interacting with humans in ordinary life, defending against devils and carrying on natural phenomena. Islam acknowledges the concept of angels both as anthropomorphic creatures with wings and abstract forces advising good. Belief in angels is one of the main articles of faith in Islam.
 
-Angels are dwellers of the seven heavens.
+Angels are dwellers of the seven heavens. Angels worship and exalt Allah.
+
+    Indeed, those who are near your Lord are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate.
+    Quran, 7-Surah Al-A’raf (The Heights) 206
 
 ### Jibril
 
-<span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. Jibrīl is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
+<span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. 
+
+Jibrīl (Ruh or The Spirit) is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). 
+
+    The angels and the Spirit descend therein by permission of their Lord for every matter.
+    Quran, 97-Surah Al-Qadr (The Night of Decree) 4
+
+Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
 
 Muslims also revere Gabriel for a number of events predating what they regard as the first revelation, narrated in the Quran. Muslims believe that Gabriel was the angel who informed Zachariah (Zakariyyā) of John's birth, as well as Mary (Maryam) of the future nativity of Jesus; and that Gabriel was one of three angels who had earlier informed Abraham (ʾIbrāhīm) of the birth of Isaac (ʾIsḥāq). Gabriel also makes a famous appearance in the Hadith of Gabriel, in which he questions Muhammad on the core tenets of Islam.
 
@@ -130,7 +148,7 @@ Accordingly, in Islam, Gabriel is believed to have helped Muhammad overcome his 
 Some mentions of Jibril in the Bible:
 * Daniel saw Gabriel.
 * Ezekiel saw Gabriel.
-* Gabriel came to Zakariyah and tells him that his prayers are heard and that they his wife will give birth to John.
+* Gabriel came to Zakariyah and told him that his prayers are heard and that they his wife will give birth to John.
 
 Jibril came to Maryam and told the good news that she will give birth to a child Isa.
 
@@ -164,6 +182,29 @@ Mentioned in Quran:
 * **Harut** and **Marut**, often depicted as angels who taught the humans in Babylon magic; mentioned in Quran (2:102).
 
 Also, there is a hadith about **Munkar** and **Nakir**, two angels that question the souls of people in the grave after they die. For details, see [#barzakh](#barzakh).
+
+### Angels Messengers
+
+    [All] praise is [due] to Allah, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allah is over all things competent.
+    Quran, 35-Surah Fatir (The Orignator) 1
+
+    And [by] the winds that spread [clouds]
+    And those [angels] who bring criterion
+    And those [angels] who deliver a message
+    As justification or warning
+    Quran, 77-Surah Al-Mursalat (Those sent forth) 3-6
+
+### Angels who write deeds of humans
+
+    And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein
+    When the two receivers receive, seated on the right and on the left
+    Man does not utter any word except that with him is an observer prepared [to record]
+    Quran, 50-Surah Qaf (The Letter Qaf) 16-18
+
+### Angels Protectors
+
+    There is no soul but that it has over it a protector.
+    Quran, 86-Surah At-Tariq (The Night-Comer)
 
 </details><details><summary>
 
@@ -8341,6 +8382,11 @@ Hadith from Abu Huraira:
 > Anyone who owns gold or silver that he doesn't pay zakat on it, that zakat will turn into fire that will be used to burn his sides in a day that will stretch to 50 thousand years. Then he will see whether he will go to Heaven or Hell.
 
 There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long.
+
+### Heaven will split open
+
+    And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent.
+    Quran, 25-Surah Al-Furqan (The Criterion) 25
 
 </details><details><summary>
 
