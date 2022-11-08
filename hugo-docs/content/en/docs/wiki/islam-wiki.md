@@ -128,6 +128,15 @@ Angels are dwellers of the seven heavens. Angels worship and exalt Allah.
     Indeed, those who are near your Lord are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate.
     Quran, 7-Surah Al-A’raf (The Heights) 206
 
+    [The angels say], ‘ There is not among us any except that he has a known position.
+    And indeed, we are those who line up [for prayer].
+    And indeed, we are those who exalt Allah.’
+    Quran, 37-Surah As-Saaffat (Those Ranges in Ranks) 164-166
+
+    To Him belongs whoever is in the heavens and the earth. And those near Him are not prevented by arrogance from His worship, nor do they tire.
+    They exalt [Him] night and day [and] do not slacken.
+    Quran, 21-Surah Al-Anbiya (The Prophets) 19-20
+
 ### Jibril
 
 <span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. 
@@ -138,6 +147,11 @@ Jibrīl (Ruh or The Spirit) is the angel who communicated with all of the prophe
     Quran, 97-Surah Al-Qadr (The Night of Decree) 4
 
 Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
+
+    Say, "Whoever is an enemy to Gabriel – it is [none but] he who has brought the Qur’an down upon your heart, [O Muhammad], by permission of Allah, confirming that which was before it and as guidance and good tidings for the believers."
+          
+    Whoever is an enemy to Allah and His angels and His messengers and Gabriel and Michael – then indeed, Allah is an enemy to the disbelievers.
+    Quran, 2-Surah Al-Baqarah (The Cow) 97-98
 
 Muslims also revere Gabriel for a number of events predating what they regard as the first revelation, narrated in the Quran. Muslims believe that Gabriel was the angel who informed Zachariah (Zakariyyā) of John's birth, as well as Mary (Maryam) of the future nativity of Jesus; and that Gabriel was one of three angels who had earlier informed Abraham (ʾIbrāhīm) of the birth of Isaac (ʾIsḥāq). Gabriel also makes a famous appearance in the Hadith of Gabriel, in which he questions Muhammad on the core tenets of Islam.
 
@@ -185,6 +199,14 @@ Also, there is a hadith about **Munkar** and **Nakir**, two angels that question
 
 ### Angels Messengers
 
+    He sends down the angels, with the inspiration of His command, upon whom He wills of His servants, [telling them], "Warn that there is no deity except Me; so fear Me."
+    Quran, 16-Surah An-Nahl (The Bees) 2
+
+    By those [angels] lined up in rows
+    And those who drive [the clouds]
+    And those who recite the message
+    Quran, 37-Surah As-Saaffat (Those Ranges in Ranks) 1-3
+
     [All] praise is [due] to Allah, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allah is over all things competent.
     Quran, 35-Surah Fatir (The Orignator) 1
 
@@ -194,6 +216,11 @@ Also, there is a hadith about **Munkar** and **Nakir**, two angels that question
     As justification or warning
     Quran, 77-Surah Al-Mursalat (Those sent forth) 3-6
 
+Angels came to prophet Ibrahim and prophet Lut to tell about the fate of Soddom and Homorra and good news that Ibrahim is going to have a son.
+
+    And certainly did Our messengers come to Abraham with good tidings; they said, "Peace." He said, "Peace," and did not delay in bringing [them] a roasted calf.
+    Quran, 11-Surah Hud 69
+
 ### Angels who write deeds of humans
 
     And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein
@@ -201,10 +228,30 @@ Also, there is a hadith about **Munkar** and **Nakir**, two angels that question
     Man does not utter any word except that with him is an observer prepared [to record]
     Quran, 50-Surah Qaf (The Letter Qaf) 16-18
 
+    Or do they think that We hear not their secrets and their private conversations? Yes, [We do], and Our messengers are with them recording.
+    Quran, 43-Surah Az-Zukhruf (The Gold Adornment) 80
+
+    And indeed, [appointed] over you are keepers, 
+    Noble and recording
+    They know whatever you do.
+    Quran, 82-Surah Al-Infitar (The Cleaving) 10-12
+
 ### Angels Protectors
 
     There is no soul but that it has over it a protector.
     Quran, 86-Surah At-Tariq (The Night-Comer)
+
+    For each one are successive [angels] before and behind him who protect him by the decree of Allah. Indeed, Allah will not change the condition of a people until they change what is in themselves. And when Allah intends for a people ill, there is no repelling it. And there is not for them besides Him any patron.
+    Quran, 13-Surah Ar-Ra’d (The Thunder) 11
+
+### Angels ask Allah to forgive believers
+
+    Those [angels] who carry the Throne and those around it exalt [Allah] with praise of their Lord and believe in Him and ask forgiveness for those who have believed, [saying], "Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.
+      
+    Our Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their fathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise.
+
+    And protect them from the evil consequences [of their deeds]. And he whom You protect from evil consequences that Day – You will have given him mercy. And that is the great attainment."
+    Quran, 40-Surah Ghafir (The Forgiver God) 7-9
 
 </details><details><summary>
 
@@ -216,7 +263,7 @@ Jannah (Paradise) and Jahannam (Hell) were created before its future habitats. T
 
 Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 
-"Paradise and Hell have already been created. They will never come to an end or cease to exist. Allah ﷻ  created Paradise and Hell before the rest of creation, and He ﷻ  created inhabitants for each of them. Whoever He  ﷻ wishes (will enter) Paradise by His grace and mercy, and whoever He  ﷻ wishes (will enter Hell) as a result of His justice. Every person will behave according to that for which he was created, and his destiny will be that for which he was created; good deeds and evil deeds are foreordained for all men".
+"Paradise and Hell have already been created. They will never come to an end or cease to exist. Allah ﷻ  created Paradise and Hell before the rest of creation, and He ﷻ  created inhabitants for each of them. Whoever He ﷻ  wishes (will enter) Paradise by His grace and mercy, and whoever He ﷻ  wishes (will enter Hell) as a result of His justice. Every person will behave according to that for which he was created, and his destiny will be that for which he was created; good deeds and evil deeds are foreordained for all men".
 
 > Abu Hurairah [ra] narrated that the Messenger of Allah ﷺ   said:
 > "When Allah created Jannah and Hellfire, He sent Gabriel to Jannah, saying, ‘look at it and at what I have prepared therein for its inhabitants.’ 
@@ -397,7 +444,6 @@ This verse does not just tell us that the universe has expanded. The arabic ‘l
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
 * [Just to realize how small we are](https://www.youtube.com/watch?v=Iy7NzjCmUf0)
 * [Sheikh Yasir Qadhi on Adam and theory of evolution](https://www.youtube.com/watch?v=vAljUIFEtcE&list=PLYZxc42QNctXcCQZyZs48hAN90YJgnOnJ&index=31)
-
   
 </details><details><summary>
 
@@ -410,7 +456,7 @@ This verse does not just tell us that the universe has expanded. The arabic ‘l
 
 After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work. A distinct point is made to counter the Biblical idea of a day of rest: "We created the heavens and the earth and all that is between them in six youm, nor did any sense of weariness touch Us" (50:38).
 
-Allah  ﷻ is never "done" with His work, because the process of creation is ongoing. Each new child who is born, every seed that sprouts into a sapling, every new species that appears on earth, is part of the ongoing process of Allah's creation. 
+Allah ﷻ  is never "done" with His work, because the process of creation is ongoing. Each new child who is born, every seed that sprouts into a sapling, every new species that appears on earth, is part of the ongoing process of Allah's creation. 
 
     "He it is Who created the heavens and the earth in six youm, then established Himself on the Throne. He knows what enters within the heart of the earth, and what comes forth out of it, what comes down from heaven, and what mounts up to it. And He is with you wherever you may be. And Allah sees well all that you do" (57:4).
 
@@ -3540,8 +3586,9 @@ Hadith from Sahih Muslim, the prophet Muhammad ﷺ    said:
 > He chose Banu Hashim from Quraish.
 > He chose me from Banu Hashim.
 
+<!--
 <img src="/pre-islamic-arabia.jpg" alt="Early Expansion"> 
-
+-->
 Arab traditions relating to the origins and classification of the Arabian tribes is based on biblical genealogy. The general consensus among 14th-century Arabic genealogists was that Arabs were three kinds:
 * "Perishing Arabs": These are the ancients of whose history little is known. They include ʿĀd, Thamud, Tasm, Jadis, Imlaq and others. Jadis and Tasm perished because of genocide. ʿĀd and Thamud perished because of their decadence. Some people in the past doubted their existence, but Imlaq is the singular form of 'Amaleeq and is probably synonymous to the biblical Amalek.
 * "Pure Arabs" (Qahtanite): These are traditionally considered to have originated from the progeny of Ya'rub bin Yashjub bin Qahtan so were also called Qahtanite Arabs.
@@ -5824,7 +5871,22 @@ As part of this sermon, the prophet recited to them a revelation from Allah, whi
 > The sermon was repeated sentence by sentence by Safwan's brother Rabiah (RA), who had powerful voice, at the request of the Prophet and he faithfully, proclaimed to over ten thousand gathered on the occasion. Towards the end of his sermon, the Prophet asked "O people, have I faithfully delivered unto you my message?" A powerful murmur of assents "O Allah! yes!" arose from thousands of pilgrims and the vibrant words "Allahumma Na'm," rolled like thunder throughout the valley. 
 
 The Prophet raised his forefinger and said: `"O Allah bear witness that I have conveyed your message to your people."`
- 
+
+</details><details><summary>
+
+## 5 Pillars of Islam
+
+</summary>
+
+    Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allah, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakah; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+    Quran, 2-Surah Al-Baqarah (The Cow) 177
+
+    The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."
+    Quran, 2-Surah Al-Baqarah (The Cow) 285
+
+    O you who have believed, believe in Allah and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allah, His angels, His books, His messengers, and the Last Day has certainly gone far astray.
+    Quran, 4-Surah An-Nisa (The Women) 136
+
 </details><details><summary>
 
 ## 632: Death of Prophet Muhammad ﷺ
@@ -6337,8 +6399,8 @@ Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying
 ## Miracle of Early Islamic Expansion
 
 </summary>
-
-<img src="/early_islamic_expansion.jpg" alt="Early Expansion"> 
+<!--
+<img src="/early_islamic_expansion.jpg" alt="Early Expansion"> -->
 <small> Early Islamic Expansion (622-850)</small>
 
 Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad ﷺ   died, Arabs conquered both of these empires.
@@ -8387,6 +8449,16 @@ There are different interpretations. There is clearly evidence that for some peo
 
     And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent.
     Quran, 25-Surah Al-Furqan (The Criterion) 25
+
+### The Day will last like 50 thousand years
+
+    The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years.
+    70-Surah Al-Ma’arij (The Ways of Ascent) 4
+
+### Everyone will be silent
+
+    The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.
+    Quran, 78-Surah An-Naba’ (The Great News) 38
 
 </details><details><summary>
 
