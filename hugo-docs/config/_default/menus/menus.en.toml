@@ -1,3 +1,9 @@
+
+[[main]]
+  name = "Contacts"
+  url = "/docs/wiki/links"
+  weight = 11
+
 [[main]]
   name = "Contacts"
   url = "/docs/contact"

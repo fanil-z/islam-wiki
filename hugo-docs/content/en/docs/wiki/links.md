@@ -5,8 +5,8 @@ Sources used in the wiki:
 * "Islam. A Short History" by Karen Armstrong
 * "Muhammad: His Life Based on the Earliest Sources" by Martin Lings
 * [al-islam.org (Shia sources)](https://www.al-islam.org/day-judgement-sayyid-saeed-akhtar-rizvi)
-* 
-
+* Most of the seerah are based on ibn Hisham's book, which is the short version of Ibn Iskhak's book
+* [Quranic Ayah divided into themes](https://quranverses.net/category/the-pillars-of-faith/)
 
 
 

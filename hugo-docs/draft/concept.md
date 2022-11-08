@@ -26,9 +26,9 @@ yes
 
 
 Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts, our minds, and our dwellings.
-I've gathered stories of prophets from the Quran, hadith, tafsir, a small portion of the Old Testament using various open sources and wrapped up my notes in a static website.
-The website is build on Hugo and Hyas frameworks, pipelined and hosted on Render.
-It was a good CSS/JS/Bootstrap practice and I had a good time trying to gather particles of an endless puzzle. If God wills, I intend to continue and fix some bugs, finish the sections about death, the Apocalypse, and about what happens on the other side.
+I have gathered stories of prophets from the Quran, hadith, tafsir, a small portion of the Old Testament using various open sources and wrapped up my notes in a static website.
+The website is build on Hugo and Hyas frameworks, pipelined and hosted on Render. Sources are written in Markdown.
+Our prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." I have had a good time trying to gather particles of an endless puzzle. It was good CSS/JS/Bootstrap practice. If God wills, I intend to continue and fix some bugs, finish the sections about death, the Apocalypse, and about what happens on the other side.
 السلام عليكم ورحمة الله وبركاته
 
  after I learn to properly read the Quran.
@@ -38,6 +38,8 @@ It was a good CSS/JS/Bootstrap practice and I had a good time trying to gather p
 
 
 --------------------------------------------------------------------------
+
+scripts take up to 400KB
 
 Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts, our minds, and our dwellings.
 

@@ -34,3 +34,9 @@ when the person does the final tawwaf, it is as if he is pure as his monther gav
 The true Hajj has no reward other than Jannah.
 
 Umar said those who have means to go to Hajj and didn't go, I might as well put jizyah on them.
+
+# Links
+
+* hujjaj.co traveller's tips: https://www.youtube.com/watch?v=Eryvb08ocDA
+* [Hajj Guide by Omar Suleiman]()
+* Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()

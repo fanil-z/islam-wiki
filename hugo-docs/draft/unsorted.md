@@ -93,6 +93,14 @@ ledge not far above.
 
 🚸🏔️
 
+people will witness their janazah and the burial ceremony. and the burial itself.
+
+
+there is a hadith that if you stop paying zakat then rain will stop coming. and there will be cases that the rain would not fall at all if it wasn't for animals. because they deserve the rain.
+
+an opressor will be your ruler
+
+
 devil is derived from Diabolos the root is from Iblis.
 Shatana - the one far away.
 Iblis is the leader of the shayateen. anybody who brings you far away from Allah. Shayateen may also be people
@@ -483,3 +491,10 @@ you have to learn about your religion in order to be able to defend your beliefs
 
 hedonism, love for this dunya is a black hole.
 
+## Punishment
+
+Punishment can happen in this world and in the Hereafter.
+
+
+
+those believers who had committed so many sins that could not be wiped out by worldly troubles and agony of death. Now, if Allah decides that such a believer should come on the Day of Judgement clean from all blemishes and free from all sins, then He may put him under punishment during the Barzakh period. And it is this punishment which has been referred to in the Hadith of Imam Jafer Sadiq (A) which was mentioned earlier:

@@ -137,9 +137,14 @@ Angels are dwellers of the seven heavens. Angels worship and exalt Allah.
     They exalt [Him] night and day [and] do not slacken.
     Quran, 21-Surah Al-Anbiya (The Prophets) 19-20
 
+Angels never disobey Allah.
+
+    O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allah in what He commands them but do what they are commanded.
+    Quran, 66-Surah At-Tahrim (The Prohibition) 6
+
 ### Jibril
 
-<span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to Muhammad, verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. 
+<span style="color: green"><b>Jibril</b></span> (Gabriel) or the Ruh is venerated as one of the primary archangels and as the Angel of Revelation in Islam. Jibrīl is regarded as the archangel responsible for revealing the Quran to prophet Muhammad ﷺ  , verse by verse; he is primarily mentioned in the verses 2:97, 2:98, and 66:4 of the Quran, although the Quranic text doesn't explicitly refer to him as an angel. 
 
 Jibrīl (Ruh or The Spirit) is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). 
 
@@ -198,6 +203,9 @@ Mentioned in Quran:
 Also, there is a hadith about **Munkar** and **Nakir**, two angels that question the souls of people in the grave after they die. For details, see [#barzakh](#barzakh).
 
 ### Angels Messengers
+
+    Allah chooses from the angels messengers and from the people. Indeed, Allah is Hearing and Seeing.
+    Quran, 22-Surah Al-Hajj (The Pilgrimage) 75
 
     He sends down the angels, with the inspiration of His command, upon whom He wills of His servants, [telling them], "Warn that there is no deity except Me; so fear Me."
     Quran, 16-Surah An-Nahl (The Bees) 2
