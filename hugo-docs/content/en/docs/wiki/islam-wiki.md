@@ -7989,6 +7989,9 @@ Therefore, scholars have formulated the following aphorism:
 
 Few moments before death, the person would start to see what is usually unseen for the human eyes (God describe this as the eyes being unveiled to finally see the truth).
 
+    And the intoxication of death will bring the truth; that is what you were trying to avoid.
+    Quran, 50-Surah Qaf (The Letter Qaf) 19
+
 </details><details><summary>
 
 ### Angel of Death departs the soul from the body
@@ -8030,6 +8033,14 @@ The veil that hides the world of the unseen will be removed moments before death
     Holy Quran - Al-Furqaan 25:21
 
 The verse above is a confirmation that on the moment of death, the human being will see the angels, before the soul will be taken out of the body.
+
+    No! When the soul has reached the collar bones
+    And it is said, "Who will cure [him]?"
+    And the dying one is certain that it is the [time of] separation
+          
+    And the leg is wound about the leg,
+    To your Lord, that Day, will be the procession.
+    Quran, 75-Surah Al-Qiyamah (The Resurrection) 26-30
 
 #### Taking the soul of a believer
 
@@ -8088,17 +8099,11 @@ The answer are not answered by tongue but they are answered by heart. People wil
 
 </summary>
 
-I am your good deeds. I am the prayers you prayed, I am zakat you paid
+I am your good deeds. I am the prayers you prayed, I am zakat you paid.
 
 </details><details><summary>
 
-## People wait for the Day of Judgement
-
-</summary>
-
-</details><details><summary>
-
-## Barzakh
+## People wait for the Day of Judgement in Barzakh
 
 </summary>
 
@@ -8342,6 +8347,9 @@ There is a hadith with a weak chain of narrations:
 The first resurrected creature will be the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
 
 The second blow will signal the resurrection from the dead of all creatures that were once alive.
+ 
+    From the earth We created you, and into it We will return you, and from it We will extract you another time.
+    Quran, 20-Surah Taha 55
 
 The dead will then be resurrected and Afterlife commence with yet another trumpet blast, (different sources give different numbers of trumpet blasts) The first to arise will be Muhammad, followed by the other members of the Muslim community. with all gathering at the place of assembly [al-maḥshar]. In between resurrection and the actual judgement will be an agonizing wait (Q.21:103, Q.37:20) for the unbelievers.
 
