@@ -334,10 +334,31 @@ Jannah is very beautiful.
 
 Jannah has many trees 🌳🌳, rivers, and birds 🐦🐦🐦 with beautiful sounds. It has all what one would like. Allāh created Adam in Paradise.
 
+    Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment.
+    Quran, 85-Surah Al-Burooj (The Big Stars)
+
+    Indeed, the righteous will be among shades and springs
+    And fruits from whatever they desire
+    [Being told], ‘ Eat and drink in satisfaction for what you used to do.
+    Indeed, We thus reward the doers of good.
+    Quran, 77-Surah Al-Mursalat (Those sent forth) 41-44
+
 The Quran describes Paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels. 
 
 Each person that goes to Jannah is greeted by angels from every gate with the words, "Peace be upon you, because ye have endured with patience; how excellent a reward is paradise!" (Q13:24) Each person lives near to the Lord in a garden (3:15) of perpetual bliss (13:23). In paradise, people would have "whatever they wish for" (Q25:16).  In each garden is a mansion (9:72), a high throne (88:10–16) of dignity (52:20) in a grove of cool shade (36:56–57), an adorned couch (18:31), rows of cushions, rich carpets spread out, a cup (Q88:10–16) full of wine (52:23), and every meat (52:22) and fruit (Q36:56–57) that is like the food on Earth (Q2:25). Each person is adorned in golden and pearl bracelets (Q35:33) and green garments of fine silk and brocade (Q18:31).
 
+    Indeed, the righteous will be among gardens and rivers
+    In a seat of honor near a Sovereign, Perfect in Ability.
+    Quran, 54-Surah Al-Qamar (The Moon) 54-55
+
+    This is a reminder. And indeed, for the righteous is a good place of return
+    Gardens of perpetual residence, whose doors will be opened to them.
+    Reclining within them, they will call therein for abundant fruit and drink.
+    And with them will be women limiting [their] glances and of equal age.
+    This is what you, [the righteous], are promised for the Day of Account.
+    Indeed, this is Our provision; for it there is no depletion
+    Quran, 38-Surah Sad (The Letter Sad) 49-54
+    
 Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompanied by any children that did not go to Jahannam (Q52:21), and attended to by servant-boys with the spotless appearance similar to a protected pearls (Q52:24). The Believers Men will get untouched (Q55:56) virgin companions of equal age (56:35-38) and have large, beautiful eyes (37:48).
 
 Jannah is described as an eternal dwelling (Q3:136), with its supreme felicity and greatest bliss being God's good pleasure (Q9:72).
@@ -8417,6 +8438,9 @@ People will see Jahannam.
 
 Ibn Abbas said that Judgement Day is a very very long day. It will feel like many many lifetimes. ibn Abbas said to the Harajite that the punishment willl be in stages.
 
+    And when Paradise is brought near
+    Quran, 81-Surah At-Takwir (The Overthrowing) 13
+
 Shahid will be resurrected with their scars red as blood and they will smell of musk.
 
 People who died in ihram will be resurrected in ihram.
@@ -8645,6 +8669,12 @@ As for who the inhabitants of the inhabits al-aʿrāf are, the "majority of exeg
 ## Opening the Gates of Paradise
 
 </summary>
+
+    [To the righteous it will be said], ‘ O reassured soul
+    Return to your Lord, well-pleased and pleasing [to Him] 
+    And enter among My [righteous] servants
+    And enter My Paradise.
+    Quran, 89-Surah Al-Fajr (The Dawn) 27-30
 
 > In the hadith about intercession that the Prophet (blessings and peace of Allah be upon him) said: "I will come to the gate of Paradise on the Day of Resurrection and will ask for it to be opened. The keeper will say: ‘Who are you?’ I will say, ‘Muhammad.’ He will say: ‘I was commanded not to open it for anyone before you." Narrated by Muslim (197)
 
