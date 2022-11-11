@@ -358,7 +358,7 @@ Each person that goes to Jannah is greeted by angels from every gate with the wo
     This is what you, [the righteous], are promised for the Day of Account.
     Indeed, this is Our provision; for it there is no depletion
     Quran, 38-Surah Sad (The Letter Sad) 49-54
-    
+
 Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompanied by any children that did not go to Jahannam (Q52:21), and attended to by servant-boys with the spotless appearance similar to a protected pearls (Q52:24). The Believers Men will get untouched (Q55:56) virgin companions of equal age (56:35-38) and have large, beautiful eyes (37:48).
 
 Jannah is described as an eternal dwelling (Q3:136), with its supreme felicity and greatest bliss being God's good pleasure (Q9:72).
@@ -8682,18 +8682,69 @@ Another report in the Sahihayn is in different words.
 
 > "The first group to enter Paradise will be glittering like the moon (as it appears) on a full moon night. Those to follow them will be like the most shiny star in the sky. They will not spit therein, nor blow their noses, nor attend a nature’s call. Their combs will be of gold and silver, and sweat of misk. Their incense of pearls, and aloe wood used for fire. Their spouses will be wide-eyed Houries. All of them on one nature, on the face of their father Adam, sixty feet (tall) in the heaven."
 
-There are a few other reports about those who will enter first through the gates of Paradise. The following is in the Sahihayn: Abu Hurayrah reported the Prophet as having (once) said, "Seventy-thousand of my Ummah will enter Paradise, their faces shining as bright as the moon on a full moon night." Abu Hurayrah said, "At that `Ukk asha got up lifting a shroud on him and said, ‘Messenger of Allah. Supplicate to Allah that He place me as one of them.‘ He said, ‘O Allah, make him one of them.‘ Then another man of the Ansar stood up and said, ‘Messenger of Allah. Supplicate to Allah that He place me as one of them.’ He replied, ‘`Ukk asha overtook you therewith." According to another report (of Bukhari and Muslim), the Prophet (saws) said,"Surely, seventy thousand of my followers, or seven hundred thousand, the first of whom will not enter Paradise until the last of them enters. Their faces shining bright like the moon on a full-moon night."
+There are a few other reports about those who will enter first through the gates of Paradise. The following is in the Sahihayn: Abu Hurayrah reported the Prophet as having (once) said, "Seventy-thousand of my Ummah will enter Paradise, their faces shining as bright as the moon on a full moon night." Abu Hurayrah said, "At that Ukk asha got up lifting a shroud on him and said, "Messenger of Allah. Supplicate to Allah that He place me as one of them." He said, "O Allah, make him one of them." Then another man of the Ansar stood up and said, "Messenger of Allah. Supplicate to Allah that He place me as one of them." He replied, "Ukk asha overtook you therewith." According to another report (of Bukhari and Muslim), the Prophet (saws) said,"Surely, seventy thousand of my followers, or seven hundred thousand, the first of whom will not enter Paradise until the last of them enters. Their faces shining bright like the moon on a full-moon night."
 
 > According to another tradition recorded by Tirmidhi, the Prophet said,"My Lord has promised me that He will admit seventy thousand of my followers into Paradise, without they undergoing any reckoning or any punishment, along with another seventy thousand and (over and above them) three handfuls from the Handfuls of my Lord" (Ibn Kathir).
 
 The above report was declared Hasan Gharib by Tirmidhi. However, after mentioning the above in his "Fath", Ibn Hajr quoted another hadith on the above topic from Ibn Hibb an and Tab arani, which he declared trustworthy. It says,"Then every thousand will intercede for seventy thousand. Thereafter, my Lord will usher in three handfuls of His two Handfuls." When Umar said "Allah is the Greatest" the Prophet added, "The seventy thousand will be allowed to intercede for their fathers, mothers and family members, and I hope that the handfuls will be from the lowest of my followers."
 
-When people enter Jannah, they will be told that they will be forever young, don't be sad or sick and they will stay in Paradise forever. It would take thousand years to pass by your property.
+    But those who believed and did righteous deeds – We charge no soul except [within] its capacity. Those are the companions of Paradise; they will abide therein eternally.
+          
+    And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allah, who has guided us to this; and we would never have been guided if Allah had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
+          
+    And the companions of Paradise will call out to the companions of the Fire, "We have already found what our Lord promised us to be true. Have you found what your Lord promised to be true?" They will say, "Yes." Then an announcer will announce among them, "The curse of Allah shall be upon the wrongdoers."
+    Quran, 7-Surah Al-A’raf (The Heights) 42-44
 
+When people enter Jannah, they will be told that they will be forever young, don't be sad or sick and they will stay in Paradise forever. It would take thousand years to pass by your property.
 
 Allah says I will be forever pleased with you. and people will see Allah. There's nothing in Jannah more beautiful than seeing Allah.
 
     Some faces that Day will be shining and radiant, looking at their Lord… 
-    Surah Al-Qiyamah:22-3
+    Quran, Surah Al-Qiyamah:22-3
+
+    Say, ‘ Is that better or the Garden of Eternity which is promised to the righteous? It will be for them a reward and destination.
+          
+    For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.
+    Quran, 25-Surah Al-Furqan (The Criterion) 15-16
+
+    And the forerunners, the forerunners
+    Those are the ones brought near [to Allah]
+    In the Gardens of Pleasure,
+    A [large] company of the former peoples
+    And a few of the later peoples,
+    On thrones woven [with ornament],
+    Reclining on them, facing each other.
+    There will circulate among them young boys made eternal
+    With vessels, pitchers and a cup [of wine] from a flowing spring
+    No headache will they have therefrom, nor will they be intoxicated
+    And fruit of what they select
+    And the meat of fowl, from whatever they desire.
+    And [for them are] fair women with large, [beautiful] eyes,
+    The likenesses of pearls well-protected,
+    As reward for what they used to do.
+    They will not hear therein ill speech or commission of sin
+    Only a saying: "Peace, peace."
+    The companions of the right – what are the companions of the right?
+    [They will be] among lote trees with thorns removed
+    And [banana] trees layered [with fruit]
+    And shade extended
+    And water poured out
+    And fruit, abundant [and varied],
+    Neither limited [to season] nor forbidden,
+    And [upon] beds raised high.
+    Indeed, We have produced the women of Paradise in a [new] creation
+    And made them virgins,
+    Devoted [to their husbands] and of equal age,
+    For the companions of the right [who are]
+    A company of the former peoples
+    And a company of the later peoples.
+    Quran, 56-Surah Al-Waqi’ah (The Event) 10-40
+
+    Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation
+    They and their spouses – in shade, reclining on adorned couches
+    For them therein is fruit, and for them is whatever they request [or wish]
+          
+    [And] "Peace," a word from the Merciful Lord.
+    Quran, 36-Surah Ya-seen 55-58
 
 </details>

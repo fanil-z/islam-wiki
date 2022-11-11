@@ -40,3 +40,15 @@ Umar said those who have means to go to Hajj and didn't go, I might as well put 
 * hujjaj.co traveller's tips: https://www.youtube.com/watch?v=Eryvb08ocDA
 * [Hajj Guide by Omar Suleiman]()
 * Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()
+* [some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
+* [professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
+
+
+
+
+ask Sherry about his umrah
+
+
+It is weird to write about hajj. sometimes I just imagine myself entering ikhram or on the Mount Arafat and start crying. It gets emotional when you feel that the prophet Muhammad SAW went through the same steps. In Islam, intention is more important than the result. and if I die tomorrow and if my intention to make hajj is sincere, then it means that my hajj will already be accepted and I will die as a hajji even without going to hajj.
+
+O good people, please wish that Allah accepts my hajj.

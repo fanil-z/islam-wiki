@@ -131,8 +131,11 @@ summary h2 {
 summary h1 {
   font-weight: 600 !important;
   font-size: 1.55rem !important;
-  color: #dee2e6 !important;
   font-weight: 400 !important;
+}
+
+[data-dark-mode] summary h1 {
+  color: #dee2e6 !important;
 }
 
  #btnExpandHideAllDetails {
