@@ -18,6 +18,16 @@ Concept
 updated npm packages and somehow fixed the bug with css not compiling.
 cloudflare pages
 
+
+domain options
+
+gilmetdeen.com
+gilmetdeen.org
+gilmetdeen.info
+gilmetdeen.space
+
+huraira.info
+
 ## Description
 
 
@@ -26,6 +36,8 @@ yes
 
 
 Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts, our minds, and our dwellings.
+I wanted to have a better understanding so
+
 I have gathered stories of prophets from the Quran, hadith, tafsir, a small portion of the Old Testament using various open sources and wrapped up my notes in a static website.
 The website is build on Hugo and Hyas frameworks, pipelined and hosted on Render. Sources are written in Markdown.
 Our prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." I have had a good time trying to gather particles of an endless puzzle. It was good CSS/JS/Bootstrap practice. If God wills, I intend to continue and fix some bugs, finish the sections about death, the Apocalypse, and about what happens on the other side.

@@ -535,6 +535,18 @@ They have the power to choose between true and false, right and wrong as Allah s
 
 [Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
 
+Allah knows best.
+
+[War between Angels and Jinn by Omar Suleiman](https://www.youtube.com/watch?v=YjaBqZYmnr8&list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv&index=36)
+
+At-Tabari narrated in his Tafseer from Ibn ‘Abbas (may Allah be pleased with him) that he said: 
+
+> The first ones to dwell on earth were the jinn, and they caused mischief therein, shedding blood and killing one another. 
+
+It was narrated from ar-Rabee‘ ibn Anas that he said: 
+
+> Allah created the angels on Wednesday, and He created the jinn on Thursday and He created Adam on Friday. Then some of the jinn disbelieved, and the angels used to come down to earth to fight them, and there was bloodshed and corruption on earth. 
+
 The jinn started living on the earth before humans and they didn't behave good and didn't treat the creatures on the earth in a good manner.
 
 Satan or Iblis is one of the first jinns. He was the best among the jinn and he was even raised to the rank of angels. But there was evil in his heart and he wanted to rule his own kingdom. He asked Allah to send him and some angels to destroy the transgressing jinn on the earth and Allah gave the permission.
