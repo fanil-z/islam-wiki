@@ -2,7 +2,7 @@
 date: 9 Apr 2022
 author: fanil
 toc: true
-
+title: World History Timeline
 ---
 
 <p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b> World History Timeline </b> <div style="font-size: 1rem"> According to Islamic sources (Quran, hadith, tafsir)</div></p>
@@ -15,7 +15,7 @@ toc: true
 
 </summary>
 
-When Prophet Muhammad ﷺ    was asked how this universe started to exist, he said:
+When Prophet Muhammad ﷺ   was asked how this universe started to exist, he said:
 
 > Allāh existed [eternally] and nothing else existed with Him. He created the 'Arsh (Throne) [and placed it] above the water. Then He [ordered the Pen to] write in the (Guarded) Tablet everything that would happen. Then Allāh created the heavens and Earth. [Related by al-Bukhariyy]
 
@@ -468,7 +468,6 @@ The Holy Quran describes this perfectly:
 
 This verse does not just tell us that the universe has expanded. The arabic ‘la-mūsiʿūna’ tells us that the universe is continuing to expand.
 
-* [Watch a good video](https://www.youtube.com/watch?v=xFXxJva_99c)
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
 * [Just to realize how small we are](https://www.youtube.com/watch?v=Iy7NzjCmUf0)
@@ -480,7 +479,7 @@ This verse does not just tell us that the universe has expanded. The arabic ‘l
 
 </summary>
 
-    Allah  ﷻ  created the Heavens and the Earth and all kinds of beasts. 
+    Allah ﷻ   created the Heavens and the Earth and all kinds of beasts. 
     The Quran, surah Lukman
 
 After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work. A distinct point is made to counter the Biblical idea of a day of rest: "We created the heavens and the earth and all that is between them in six youm, nor did any sense of weariness touch Us" (50:38).
@@ -490,6 +489,9 @@ Allah ﷻ  is never "done" with His work, because the process of creation is ong
     "He it is Who created the heavens and the earth in six youm, then established Himself on the Throne. He knows what enters within the heart of the earth, and what comes forth out of it, what comes down from heaven, and what mounts up to it. And He is with you wherever you may be. And Allah sees well all that you do" (57:4).
 
 There are many types of creatures living on earth, including plants, animals, insects, all kinds of microorganisms, human. There are also creature that are not visible for a human eye: the jinn.
+
+    With Him are the keys of the unseen—no one knows them except Him. And He knows what is in the land and sea. Not even a leaf falls without His knowledge, nor a grain in the darkness of the earth or anything—green or dry—but is ˹written˺ in a perfect Record.
+    Quran, Al-Am'an
 
 </details><details><summary>
 
@@ -553,6 +555,8 @@ Satan or Iblis is one of the first jinns. He was the best among the jinn and he 
 
 After the battle there were only a small amount of jinn left here and there.
 
+[Omar Suleiman on creation of evil](https://www.youtube.com/watch?v=vKCasKaQS0g&list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv&index=15)
+
 ### Disobedience of Iblis (Satan)
 
 Iblis wanted his own Kingdom, and Allah wanted to test him.
@@ -581,7 +585,7 @@ The Messenger of Allah (blessings and peace of Allah be upon him) said: "Allah, 
 
 In the story of Solomon jinns appear as nature spirits comparable to Talmudic shedim. Solomon was gifted by God to talk to animals and spirits. God granted him authority over the rebellious jinn and devils forcing them to build the First Temple in Jerusalem.
 
-In addition, the Qur’an also mentions Ifrit in sura al-Naml (The Ant) verse 39.
+In addition, the Quran also mentions Ifrit in sura al-Naml (The Ant) verse 39.
 Ifrit who brought Suleiman smo's throne.
 
 The Qur'an relates that Solomon died while he was leaning on his staff. As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them, so they continued to work. They realized the truth only when Allah sent a creature to crawl out of the ground and gnaw at Solomon's staff until his body collapsed. The Qurʾan then comments that if they had known the unseen, they would not have stayed in the humiliating torment of being enslaved.
@@ -7700,6 +7704,8 @@ Al-Masih ad-Dajjal ('Deceitful Messiah'), is blind in one eye, and will deceive 
 
 > Narrated Mu'adh ibn Jabal: The Prophet ﷺ   said: The flourishing state of Jerusalem will be when Yathrib is in ruins, the ruined state of Yathrib will be when the great war comes, the outbreak of the great war will be at the conquest of Constantinople and the conquest of Constantinople when the Dajjal (Antichrist) comes forth. He (the Prophet) struck his thigh or his shoulder with his hand and said: This is as true as you are here or as you are sitting (meaning Mu'adh ibn Jabal).
 
+Before coming of Dajjal, there will be years of deception.
+
 Thawban ibn Kaidad narrated that prophet Muhammad ﷺ   said:
 
 > "There will be 30 dajjals among my Ummah. Each one will claim that he is a prophet; but I am the last of the Prophets (Seal of the Prophets), and there will be no Prophet after me."
@@ -7729,10 +7735,11 @@ Anas ibn Malik narrated that prophet Muhammad ﷺ   said:
 > There is never a prophet who has not warned the Ummah of that one-eyed liar; behold he is one-eyed and your Lord is not one-eyed. Dajjal is blind of one eye. On his forehead are the letters k. f. r. (Kafir) between the eyes of the Dajjal, which every Muslim would be able to read."
 > Sahih Muslim, Book 41: The Book Pertaining to the Turmoil and Portents of the Last Hour, Chapter 7: The Turmoil Would Go Like The Mounting Waves of the Ocean, Ahâdith 7007-7009.
 
+[Omar Suleiman about Dajjal](https://www.youtube.com/watch?v=rUUnHTWfMZg)
+
 ### Dajjal in the Bible
 
-There are also depictions of Dajjal (Anti-Christ) in the Bible. In Daniel 8:23-26, Daniel sees a vision of a ram the horns of which grow up to the skies an he doesn't know the interpretation of this vision. So then he sees a man llike looking figure and hears: "Gabriel, tell him the meaning of the vision". Gabriel explains to Daniel that in the latter part of their reign when rebels have become completely wicked, a fierce-looking king, a master of intrigue will arise. He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy those who are mighty, the holy priests. He will cause deceit to prosper, and he will consider himself superior. 
-Yet he will be destroyed, but not by human power.
+There are also depictions of Dajjal (Anti-Christ) in the Bible. In Daniel 8:23-26, Daniel sees a vision of a ram the horns of which grow up to the skies an he doesn't know the interpretation of this vision. So then he sees a man llike looking figure and hears: "Gabriel, tell him the meaning of the vision". Gabriel explains to Daniel that in the latter part of their reign when rebels have become completely wicked, a fierce-looking king, a master of intrigue will arise. He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy those who are mighty, the holy priests. He will cause deceit to prosper, and he will consider himself superior. Yet he will be destroyed, but not by human power.
 
 The vision of the evenings and mornings that has been given you is true, but seal up the vision, for it concerns the distant future.
 

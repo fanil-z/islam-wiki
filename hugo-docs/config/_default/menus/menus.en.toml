@@ -1,8 +1,8 @@
 
 [[main]]
-  name = "Contacts"
+  name = "Links"
   url = "/docs/wiki/links"
-  weight = 11
+  weight = 20
 
 [[main]]
   name = "Contacts"

@@ -2,26 +2,66 @@
 draft: true
 
 ---
+<p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b>Ultimate Guide for Hajj </b> <div style="font-size: 1rem"> from a person who has never done hajj yet</div></p>
 
+# Kaaba and Hajj Background
+-----------------------------------------------
+<details><summary>
 
-# Background
+## Some earliest reports about Kaaba
+
+</summary>
+Some reports teach that it was in Makkah that our father Adam (‘alayhi al-salam) longed to go back to paradise and be in the presence of Allah. To console his loneliness, Allah commanded him to do tawaf around the space of the current Ka‘bah. And Adam did, and felt whole again.
+
+Other texts teach that Nuh (’alayhi al-salam), Ibrahim (’alayhi al-salam), and many prophets before them (’alayhim al-salam), all did tawaf around Allah’s sacred House.
+
+Their spiritual energy and legacy fills the air. You will be walking in the footsteps and the heart-steps of Rasulullah (sallalahu ’alayhi wasallam) and his noble companions.
+
+</details><details><summary>
 
 ## Ibrahim AS established Hajj
+
+</summary>
+
 Hajjar and Ismail
 Ibrahim and Ismail build the Kaaba
 
+</details><details><summary>
+
 ## Quraish and Idols
+
+</summary>
+
+</details><details><summary>
 
 ## Prophet Muhammad SAW reestablishes Hajj
 
-# Hajj types
+</summary></details>
+
+# Hajj Types
+-------------------------------------------------
+
+<details><summary>
 
 ## Hajj-ul-Ifrad
+
+</summary></details><details><summary>
+
 ## Hajj-ul-Qiran
+
+</summary></details><details><summary>
+
 ## Hajj-ul-Tamattu
 
-# How to perform Hajj
+</summary></details>
 
+# Praparing for Hajj
+-----------------------------------------------------------
+
+# How to perform Hajj
+-----------------------------------------------------------
+
+[Step-by-Step Hajj Guide](https://www.islamic-relief.org.uk/islamic-resources/hajj-in-islam/hajj-guide/)
 
 when a person decides to do pilgrimage and undertakes this journey, he becomes a guest of Allah.
 
@@ -43,6 +83,10 @@ dhul Hijja
 ## Medina??
 
 ## Entering Ikhram
+
+### Talbiyah
+
+One enters into ihram with talbiyah. Talbiyah is the heart’s most profound surrender to the invitation and call of Allah: Here I come to You, my Lord, here I come – fully and forever.
 
 	Labayk Allahuma labaik
 
@@ -76,7 +120,13 @@ I am in the place of Abraham and I am doing what Abraham did.
 
 
 
-# Links
+# Reference
+
+<details><summary>
+
+## List of references used in this guide
+
+</summary>
 
 * hujjaj.co traveller's tips: https://www.youtube.com/watch?v=Eryvb08ocDA
 * [Hajj Guide by Omar Suleiman]()
@@ -84,6 +134,66 @@ I am in the place of Abraham and I am doing what Abraham did.
 * [Hajj Documentary -- Sacred Journey](https://www.youtube.com/watch?v=liPFurz5Rn0) 
 * [some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
 * [professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
+
+</details>
+
+
+
+
+
+
+
+
+Ihram
+Sandals
+Shoe bag
+
+20 Dec 2022 finish the wiki
+20 Apr 2023 finish the Hajj post
+
+- learn the required duas and labaik
+- ticket
+- visa
+- hotels
+- Quran in Arabic with English translation
+- earplugs
+
+- more walk
+- more sports
+- less israf of time
+
+Ask for forgiveness
+
+Wear face mask where possible
+
+Vitamin C
+
+Notebook with the plan map and duas for Arafat
+
+Energy bars for snacks
+
+[Valuable Tips for Hajj](https://www.islamicity.org/12445/getting-ready-for-hajj-physically-mentally-and-spiritually/)
+
+Make sa’i (the walk between the hills of Safa and Marwa) on the 4th floor roof extension area, which is usually empty and has a wonderful view during Fajr (pre-dawn prayer) time.
+
+few people would remind themselves saying, “La jidaal,” or “No arguing,”
+
+make incessant talbiyah [Labbayk Allahuma labbayk - I respond to Your call O Allah, I respond to Your call], and embody your submission to Allah (swt).
+
+Use the full day of Arafah for worship—not just the time after Asr (late afternoon prayer).
+
+The Prophet ﷺ  used to make dua the entire day and intensified the supplication after Asr.
+
+Side point: plan to avoid the bathrooms at Muzdalifah.  Eat and drink accordingly and use the bathrooms in Arafah before getting on the bus to Muzdalifah.
+
+An experienced Hajji advised: “Treat tawaf  (walking 7 times around the Kabah) like prayer and strive for khushoo [concentration].” The virtue of tawaf is well known: it is recommended to perform tawaf in the Haram before praying 2 rakahs (units of prayer) as the ‘greeting’ of the masjid! One idea is to pick different dua or prayers for each round, or to pick the first round for seeking forgiveness, the second round for making dua for the community, etc. Performing tawaf can be a struggle given all the distractions. Try to avoid congested areas and the 2nd floor wheelchair drivers (who go fast and end up hitting peoples’ ankles).  One recommendation is to avoid the first and second floor and only make tawaf and sai on the relatively un-crowded rooftop.
+Ask Allah for help.
+
+
+
+
+
+
 
 
 
@@ -99,3 +209,6 @@ It is weird to write about hajj. sometimes I just imagine myself entering ikhram
 O good people, please wish that Allah accepts my hajj.
 
 It is still 240 days till hajj
+
+
+
