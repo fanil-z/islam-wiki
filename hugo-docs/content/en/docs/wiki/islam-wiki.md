@@ -2,10 +2,10 @@
 date: 9 Apr 2022
 author: fanil
 toc: true
-title: World History Timeline
+
 ---
 
-<p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b> World History Timeline </b> <div style="font-size: 1rem"> According to Islamic sources (Quran, hadith, tafsir)</div></p>
+<h1 style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"> World History Timeline  <div style="font-size: 1rem; color: #dee2e6 !important"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
 
 # 0. Before Creation of Humankind
 ***************************************
@@ -461,16 +461,14 @@ Einstein’s equations tell us that the universe is expanding. This discovery su
 
 For decades thereafter, scientists thought the universe exploded out of the Big Bang, and has been slowing down ever since. But they were wrong. The universe’s expansion has recently been speeding up. This mysterious re-expansion is driven by what we call dark energy. About 5 billion years ago, this mysterious anti-gravity began pushing the universe outwards once more.
 
-The Holy Quran describes this perfectly:
+The Holy Quran describes this as:
 
     "And We have built the heaven with might and We continue to expand it indeed."
     Quran 51:48
 
-This verse does not just tell us that the universe has expanded. The arabic ‘la-mūsiʿūna’ tells us that the universe is continuing to expand.
-
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
-* [Just to realize how small we are](https://www.youtube.com/watch?v=Iy7NzjCmUf0)
+* [Just about how small we are](https://www.youtube.com/watch?v=Iy7NzjCmUf0)
 * [Sheikh Yasir Qadhi on Adam and theory of evolution](https://www.youtube.com/watch?v=vAljUIFEtcE&list=PLYZxc42QNctXcCQZyZs48hAN90YJgnOnJ&index=31)
   
 </details><details><summary>
@@ -500,14 +498,18 @@ There are many types of creatures living on earth, including plants, animals, in
 </summary>
 
 > [short version]
-> Allah ﷻ  created jinns from fire.
-> The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Only a few jinn survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation. However, because of their prior creation, the jinn would attribute themselves to a superiority over humans and envy them for their place and rank on earth.
+>
+> Allah ﷻ  created jinns from fire. Jinns live on the same planet as humans. Jinn are able to see humans, humans are not able to see the jinn. There is a rule for the jinn not to cross the barrier between their world and human world, and the tresspassers will be asked for it.
+>
+> The community of the jinn race were like those of humans, but then corruption and injustice among them increased and all warnings sent by God were ignored. Consequently, God sent his angels to battle the infidel jinn. Only a few jinn survived, and were ousted to far islands or to the mountains. With the revelation of Islam, the jinn were given a new chance to access salvation.
+>
 > Jinn can be bad and they also can be good and righteous jinn who worship God alone.
-> Jinn are able to see humans, humans are not able to see the jinn. There is a rule for the jinn not to cross the barrier between their world and human world, and the tresspassers will be asked for it.
+>
+> Satan was the best among jinns but he transgressed and disobeyed Allah, and swore to be an enemy to Adam and his descendands.
 
 ### Who are the Jinn?
 
-Allah created jinns from smokeless fire 🔥, the edge of the flame. Jinns live in the same earth as we do but they are hidden from our sight. Humans cannot see jinns, jinns can see humans but they cannot see angels.
+Allah created jinns from smokeless fire 🔥, the edge of the flame. Jinns live in the same earth as we do but they are hidden from our sight. Humans cannot see jinns, jinns can see humans and jinns cannot see angels.
 
 The lives of jinn are very similar to the humans, they eat, they drink, they marry, they have their children, and even they are instructed and guided the same way as humans. We can understand this statement by the following verse of Surah Al-An’am.
 
@@ -519,7 +521,12 @@ This verse shows that messengers were not only sent down to guide the humans but
 Jinns have males and females, they have different religions, tribes, nations.
 The jinn live in the parallel world to the humans and since they live in the different dimension the flow of time there is different too. Hence, the lifespan of jinn is different and believed to be much longer than the human lifespan.
 
-Jinns are the only creatures besides human beings that have a free will and they will be judged according to their deeds.
+Al-Safaareeni mentioned a hadith which says: “The jinn produce offspring, just as the sons of Adam produce offspring, but they are greater in number.” Allah (swt) told us that the Satan has offspring. Allah says, rebuking those who take the Satan and his offspring as friends.
+
+    "Will you then take him (iblees) and his offspring as protectors and helper rather than Me while they are enemies to you?"
+    Quran 18: 50
+
+Jinns are the only creatures besides human beings that have a free will and they will be judged according to their deeds. Jinns are capable of deciding things on their own and just as with us, can do things opposing God's commands.
 
 Jinn are mentioned approximately 29 times in the Quran.
 
@@ -533,13 +540,23 @@ They have the power to choose between true and false, right and wrong as Allah s
     And among us are the righteous, and among us are [others] not so; we were [of] divided ways.
     Quran, Surah Al-Jinn 72:11
 
+### The dwelling places, gathering and haunts of the jinn
+
+The jinn inhabit the same earth on which we live, and they tend to gather in greater numbers in ruins and deserted places, and in dirty places such as bathrooms, privies, garbage dumps and graveyards. Hence – as Ibn Taymiyah said – many of the ‘syaikhs’ who are accompanied by the devils dwell in many of these places.
+
+There are hadiths which forbid praying in bathrooms, because of the impurity in such places, and because they are the abode of the devils, and in graveyards because that is a means that leads to shirk.
+
+They often gather in places where they can cause mischief, such as marketplaces. Salman advised some of his companions,” Do not, if possible, be the first person to enter the marketplace, or the last one to leave, because it is the battle-ground of the devils, and in it he sets up his banner.”
+
+The devils stay in the houses in which people live, but they may be expelled by saying bismillah, remembering Allah and reciting Qur’an, especially surah Al-Baqarah and ayat al-Kursi. The Messenger (saw) mentioned that the devils spread out and increase when darkness falls, hence he commanded us to keep our children inside at dusk. The devils flee from the adhan, and in Ramadhan the devils are chained up. 
+
 ### ⚔️ War Between Jinn and Angels
 
-[Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including sahaba.]
+[Most of information in this section cannot be found in the Quran and the Sunnah. But it is derived from early interpretators of the Quran, including the ones from sahaba.]
+
+* [War between Angels and Jinn by Omar Suleiman](https://www.youtube.com/watch?v=YjaBqZYmnr8&list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv&index=36)
 
 Allah knows best.
-
-[War between Angels and Jinn by Omar Suleiman](https://www.youtube.com/watch?v=YjaBqZYmnr8&list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv&index=36)
 
 At-Tabari narrated in his Tafseer from Ibn ‘Abbas (may Allah be pleased with him) that he said: 
 
@@ -557,6 +574,8 @@ After the battle there were only a small amount of jinn left here and there.
 
 [Omar Suleiman on creation of evil](https://www.youtube.com/watch?v=vKCasKaQS0g&list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv&index=15)
 
+The biblical version is a little different. The war between angels lead by Michael and "fallen angels" lead by dragon or serpent is mentioned in the New Testament.
+
 ### Disobedience of Iblis (Satan)
 
 Iblis wanted his own Kingdom, and Allah wanted to test him.
@@ -566,6 +585,7 @@ Allah said that He will create a new creation -- Adam -- and make him the khalif
 Satan disobeyed God and promised that he will lead humankind astray. 
 
     I will come from in front of them and I will come from behind them, from their right and their left; nor will you find that most of them are grateful." except for those of them who were righteous.
+    Quran
 
 ### Shaytan are Enemies to Humans
 
@@ -615,7 +635,7 @@ In Islamic tradition, Muhammad was sent as a prophet to both human and jinn comm
 
 At the time of Prophet Mohammad (P.B.U.H), a group of jinn were turned into Muslims when they heard the recitation of Holy Quran. At that time Allah revealed the following verses of Surah Jinn on Prophet Mohammad (P.B.U.H),
 
-    Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
+    Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Quran. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
     Quran 72:1-2
 
 ### The Shaitan
@@ -656,6 +676,10 @@ Demons can take any desired appearance, even that of an "angel of light".
 The Devil has been popularly symbolized as various animals, including the serpent 🐍, the goat and the dragon.
 
 The idea that demons have horns seems to have been taken from chapter 13 of the Book of Revelation. This idea has also been associated with the depiction of certain ancient gods like Moloch and the shedu, etc., which were portrayed as bulls, as men with the head of a bull, or wearing bull horns as a crown.
+
+In the Gospel of Luke, it is stated that demons walk "arid places", and finding no rest return to their previous home:
+
+"When an impure spirit comes out of a person, it goes through arid places seeking rest and does not find it. Then it says, ‘I will return to the house I left.’ When it arrives, it finds the house swept clean and put in order. Then it goes and takes seven other spirits more wicked than itself, and they go in and live there. And the final condition of that person is worse than the first."
 
 ### Shedim in Judaism
 
