@@ -576,20 +576,29 @@ After the battle there were only a small amount of jinn left here and there.
 
 The biblical version is a little different. The war between angels lead by Michael and "fallen angels" lead by dragon or serpent is mentioned in the New Testament.
 
-### Disobedience of Iblis (Satan)
+### Iblis (Satan)
 
-Iblis wanted his own Kingdom, and Allah wanted to test him.
+Iblis was amongst the best of jinn. Some narrations say he worshipped Allah in all of the heavens and he was raised almost to the rank of angels. Then he came to Allah and asked to send him and some angels to punish the transgressing jinn who were living on the earth. So they started destroying the jinn that lived on earth. Only a scarce amount of jinn remained here and there. and Allah knew that Iblis wanted his own kingdom for himself. so He created Adam to test Iblis, to reveal his intentions.
 
-Allah said that He will create a new creation -- Adam -- and make him the khalifa on earth. Allah told angels and Iblis to prostrate before Adam. Iblis refused to prostrate because of his arrogance. So Allah banished Iblis from heaven but Iblis asked for respite until humans are resurrected and he was granted respite.
+Allah said that He will create a new creation -- Adam -- and make him the khalifa on earth. Allah told angels and Iblis to prostrate before Adam. Iblis refused to prostrate because of his arrogance, he refused to follow God's command.
 
-Satan disobeyed God and promised that he will lead humankind astray. 
+    And We have certainly created you, [O Mankind], and given you [human] form. Then We said to the angels, "Prostrate to Adam"; so they prostrated, except for Iblees. He was not of those who prostrated.
+    Quran, Chapter 7 sūrat l-aʿrāf (The Heights)
+
+So Allah banished Iblis from heaven but Iblis asked for respite until humans are resurrected and he was granted respite. 
+
+Satan disobeyed God and made a vow that he will lead Adam and his descendands astray. 
 
     I will come from in front of them and I will come from behind them, from their right and their left; nor will you find that most of them are grateful." except for those of them who were righteous.
     Quran
 
+Iblis has children. 
+
+Iblis uses waswasa to influence humans. And the waswasa does not work on devout worshippers of Allah.
+
 ### Shaytan are Enemies to Humans
 
-Iblis tricked Adam and Eve and managed to get them out of Heaven. He made himself many followers among jinn. So they all started leading descendands of Adam astray. This special type of jinn are called shayatin (devils). According to most sources, After Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
+Iblis tricked Adam and Eve and managed to get them out of Heaven. He made himself many followers among jinn. So they all started leading descendands of Adam astray. This special type of jinn are called shayatin (devils). According to most sources, after Satan disobeyed Allah and vowed to lead humans astray, some jinns followed Satan, and they became shayatin, whose job is to lead people astray. and when a person is born, a shayatin is assigned to follow this person every day and whisper bad thoughts.
 
 Each person has a shaytan (or a bad jinn) assigned to follow him anywhere and misguide him and lead him astray so that he forgets about Allah, does not repent for his sins and eventually ends up in hell.
 
@@ -597,9 +606,12 @@ Allah has already made us aware of this in the Surah Al-Araf, verse 27:
 
     "O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe".
 
-The above verse states that jinn have the power to see humans and to take possessions on the humans. The only way to keep ourselves safe from the evil beings is to pray five times, to walk on the path which Allah and His messenger (P.B.U.H) has shown us, and to follow the teaching of Quran, Sunnah, and Hadith.
+The above verse states that jinn have the power to see humans and to take possessions on the humans. The only way to keep ourselves safe from the evil beings is to pray five times, to walk on the path which Allah and His messenger ﷺ   has shown us, and to follow the teaching of Quran, Sunnah, and Hadith.
 
-The Messenger of Allah (blessings and peace of Allah be upon him) said: "Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’" End quote from Ta’weel Mukhtalaf al-Hadith.
+The Messenger of Allah ﷺ   said: "Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’" End quote from Ta’weel Mukhtalaf al-Hadith.
+
+    "Will you o human beings take him and his children as allies while he is your enemy."
+    Surah 18:50
 
 ### Suleyman (Solomon) Had Power Over Jinn
 
@@ -615,7 +627,7 @@ The Qur'an relates that Solomon died while he was leaning on his staff. As he re
 
 ### Jinn and Magic
 
-In other instances, the Quran tells about Pagan Arabs, calling jinn for help, instead of God. The Quran reduced the status of jinn from that of tutelary deities to that of minor spirits, usually paralleling humans.
+The Quran tells about Pagan Arabs, calling jinn for help, instead of God.
 
     And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." 
 
@@ -624,29 +636,19 @@ In other instances, the Quran tells about Pagan Arabs, calling jinn for help, in
 
 ### Jinns flying to heavens
 
-Before the revelation of the Quran, the Jinn were allowed to enter heavens to listen to angels. This was the way they could tell what's is decreed in some acpects of this dunya. After the first surah of the Quran came to the prophet Muhammad (pbuh), some obstacle appeared between jinn and heavens so they could not tresspass it no more.
+Before the revelation of the Quran, the Jinn were allowed to enter heavens to listen to angels. This was the way they could tell what is decreed in some acpects of this dunya. After the first surah of the Quran came to the prophet Muhammad ﷺ  , some obstacle appeared between jinn and heavens so they could not tresspass it no more.
 
     "And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames."
     Quran, Surah Al-Jinn 72:8
 
-### Prophet Muhammad Talked to Jinns
+### Prophet Muhammad Talked to Jinn
 
 In Islamic tradition, Muhammad was sent as a prophet to both human and jinn communities, and that prophets and messengers were sent to both communities. Traditionally, the 72nd surah, Al-Jinn, named after them, is held to tell about the revelation to jinn and several stories mention one of Muhammad's followers accompanied him, witnessing the revelation to the jinn.
 
-At the time of Prophet Mohammad (P.B.U.H), a group of jinn were turned into Muslims when they heard the recitation of Holy Quran. At that time Allah revealed the following verses of Surah Jinn on Prophet Mohammad (P.B.U.H),
+At the time of Prophet Mohammad ﷺ  , a group of jinn were turned into Muslims when they heard the recitation of Holy Quran. At that time, Allah revealed the following verses of Surah Jinn:
 
     Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Quran. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
     Quran 72:1-2
-
-### The Shaitan
-
-Iblis was amongst the best of jinn. some narrations say he worshipped Allah in all of the heavens and he was raised almost to the rank of angels. Then he came to Allah and asked to send him and some angels to punish the transgressing jinn who were living on the earth. So they started destroying the jinn that lived on earth only a scarce amount of them remained here and there. and Allah knew that Iblis wants his own kingdom for himself. so He created Adam to test Iblis, to reveal his intentions. And He asked angels and IBlis to bow before Adam which he disobeyed refused to do.  
-
-    "Will you o human beings take him and his children as allies while he is your enemy."
-    Surah 18:50
-
-Shaitan has children. 
-Shaitan uses waswasa to influence humans. And the waswasa does not work on devout worshippers of Allah.
 
 ### Classification of Jinn
 
@@ -814,7 +816,7 @@ From these two individuals, generations of human beings have inhabited the earth
     "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women…." 
     Quran [4:1]
 
-The hadith or traditions of Prophet Muhammad (pbuh) further reveal that Eve was created from Adam’s rib which was taken while he was asleep. The narrations that describe this story of the rib is often used to emphasize being gentle and kind to women. 
+The hadith or traditions of Prophet Muhammad ﷺ   further reveal that Eve was created from Adam’s rib which was taken while he was asleep. The narrations that describe this story of the rib is often used to emphasize being gentle and kind to women. 
 
 "O Muslims! I advise you to be gentle with women, for they are created from a rib, and the most crooked portion of the rib is its upper part. If you try to straighten it, it will break, and if you leave it, it will remain crooked; so I urge you to take care of the women." [Sahih al-Bukhari 5185; Sahih Muslim 8:3468]
 
@@ -888,7 +890,7 @@ Despite being forgiven, Adam and Eve were no longer granted the comforts of para
 
 Furthermore, Adam is informed by God that he and his progeny will be sent guidance during their time on Earth. In contrast, Satan, unlike Adam, had not begged for forgiveness and had instead requested respite: a chance to mislead and reveal the inadequacy of mankind. God facilitated this request, but warned that Satan would be powerless over the believers. 
 
-Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Earth, Adam (pbuh) assumes the role as the first Prophet and the father of mankind. 
+Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Earth, Adam ﷺ   assumes the role as the first Prophet and the father of mankind. 
 
 There is a difference of opinions on the question of where Adam and Eve landed on earth. The majority of tabi'un and sahabi said that Adam came from the Heavens to the land oh Hind (modern day India). Other opinions include taht he landed in Mecca or in Sri-Lanka. When it comes to Hawwah, some say that she came with Adam to Mecca, some say to India with Adam, and most say that she came in Jedda. The place where they came down is not mentioned in the Quran and ahadith, thus these are only presumptions.
 
@@ -957,7 +959,7 @@ According to Genesis 4:25, Seth was born after Abel's murder by Cain, and Eve be
 
 </summary>
 
-Idris was born when Adam pbuh was alive. Idris is mentioned in the Quran that he was of high class and a prophet. According to some narrations, Idris was the first to write.
+Idris was born when Adam ﷺ   was alive. Idris is mentioned in the Quran that he was of high class and a prophet. According to some narrations, Idris was the first to write.
 
 Idris is mentioned twice in the Quran, where he is described as a wise man. In surah 19 of the Quran, God says:
 
@@ -1000,13 +1002,13 @@ There was a time of righteous people. Pople lived in tawhid and five of them wer
 
 Ibn Abbas said in his commentary of the above ayah: "These were idols of Prophet Nuh's nation which in time ended up among the Arabs... These idols were named after some righteous men among Nuh's people..." [Sahih Al-Bukhari]
 
-Long before the arrival of Prophet Nuh (pbuh) people used to practice Tawheed. They worshipeed none but Allah as taught by Prophet Adam (pbuh). Among them were some righteous men, who were well-known for their piety and devotion. When these righteous men died, shaitaan came to the people and inspired them to make statues of them. bearing their names. The intention was to remember their devotion to Allah and to encourage people to be more like them.
+Long before the arrival of Prophet Nuh ﷺ   people used to practice Tawheed. They worshipeed none but Allah as taught by Prophet Adam ﷺ  . Among them were some righteous men, who were well-known for their piety and devotion. When these righteous men died, shaitaan came to the people and inspired them to make statues of them. bearing their names. The intention was to remember their devotion to Allah and to encourage people to be more like them.
 
 People agreed to this seemingly noble idea. They placed the statues where those righteous people used to frequently meet. But they did not worship them.
 
 However, years later, after that generation died, people slowly forgot the purpose of those statues. Shaitaan now came to their descendants and told them that their predecessors used to worship these statues for rain and other blessings. Due to a lack of knowledge, they were fooled by Shaitaan into worshiping the idols, which then their descendants followed as well.
 
-Thus, Shaitaan introduced idol worship among the people of Nuh, peace be upon him. So strong was their belief in the idols that later when Prophet Nuh, peace be upon him, asked them to worship Allah alone, they would not listen.
+Thus, Shaitaan introduced idol worship among the people of Nuh ﷺ  . So strong was their belief in the idols that later when Prophet Nuhﷺ    asked them to worship Allah alone, they would not listen.
 
     "They put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance."
     Quran 71:7
@@ -1457,7 +1459,7 @@ Ibrahim (A.S.) lived on the earth worshipping Allah, sanctifying Him and calling
 
 Ibrahim (A.S.) is the only person that the Quran commands our prophet to look up to as a role model. Allah Says in Al-Quran:
 
-    Then, We have inspired you (O Muhammad SAW saying): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
+    Then, We have inspired you (O Muhammad, saying): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
     Surah An-Nahl 16:123
 
 </details><details><summary>
@@ -1620,7 +1622,7 @@ While Hajar is running from one hill to the other, God sends them an angel that 
 
 When she returns to Ishmael, she finds either him or an angel scratching the ground with their heel or finger, whereupon water begins flowing and Hajar collects some or dams it up. This spring or well is known as Zamzam which fulfills the thirst of piligrims in Mecca p to recent days. The name of the well comes from the phrase Zomë Zomë, meaning "stop flowing", a command repeated by Hajar during her attempt to contain the spring water. 
 
-> The Prophet (PBUH) said, "The best water on the face of the earth is the water of Zamzam; it is a kind of food and a healing from sickness."
+> The Prophet ﷺ   said, "The best water on the face of the earth is the water of Zamzam; it is a kind of food and a healing from sickness."
 >Saheeh al-Jaami, 3302
 
 </details><details><summary>
@@ -1674,26 +1676,23 @@ In pre-Islamic times, there were three distinct groups of Arabs- the Ba'ida, Ari
 
 </summary>
 
-God had ordered Adam to build the Kaaba after his fall from the Garden of Eden. However, years had passed, the Kaaba was heavily damaged in the long course of time and was almost demolished. Therefore, God showed Ibrahim where the Kaaba was and ordered him and his son Ismail to build it once again. The Kaaba was in the same region Ibrahim left Hajar and Ismail, that is, Mecca.The prophet Ibrahim (PBUH) received an order from Allah Almighty to rebuild this holy structure and immediately set to work with his son Ismael.
+God had ordered Adam to build the Kaaba after his fall from the Garden of Eden. However, years had passed, the Kaaba was heavily damaged in the long course of time and was almost demolished. Therefore, God showed Ibrahim where the Kaaba was and ordered him and his son Ismail to build it once again. The Kaaba was in the same region Ibrahim left Hajar and Ismail, that is, Mecca. The prophet Ibrahim ﷺ   received an order from Allah Almighty to rebuild this holy structure and immediately set to work with his son Ismael.
 
 There are many versions of the construction of the Kaaba that differ in fairly significant ways, although all have Ibrahim build or cleanse the Kaaba and then immediately after, or at an unknown time, God called Ibrahim to establish the Hajj, or pilgrimage. These narratives differ in when these events occurred, if and how there was supernatural involvement, the inclusion or omission of the Black Stone, and whether Ismail assisted his father. Of those that say Ismail took part in the construction, most describe Ibrahim visited Ismail a third time in Mecca, during which they raised the Kaaba. Some say Ismail looked for a final stone, but Ibrahim did not accept the one he brought back. Instead an angel had brought the Black Stone, which Ibrahim put into place. Ismail was left at the Kaaba, in charge of its care and to teach others about the Hajj. The starting of the Hajj has many versions, and some scholars believe this reflects the late association of Ibrahim with the Hajj after Islam had developed to help remove its connection to early pagan rituals.
 
 Adam's altar and the stone were said to have been lost during Noah's Flood and forgotten. Ibrahim (Abraham) was said to have later found the Black Stone at the original site of Adam's altar when the angel Jibrail revealed it to him. Ibrahim ordered his son Ismael to build a new temple, the Kaaba, into which the stone was to be embedded.
 
-    وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ
-
     And [mention] when We made the House a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform Tawaf and those who are staying [there] for worship and those who bow and prostrate [in prayer].
     Quran 2:125
 
-Then when the time for building the Ka'bah came, during one of Ibrahim's subsequent visits from Sham (Syria and Palestine) to Makkah and his family, he said to his son Isma'il: "O Isma'il! Allah has given me an order." Isma'il said: "Do what your Lord has ordered you to do." Ibrahim asked: "Will you help me?" Isma'il said: "I will help you." Ibrahim said: "Allah has ordered me to build a house here," pointing to a hillock higher than the land surrounding it. The Prophet (pbuh) added: "Then they raised the foundations of the House (i.e., the Ka'bah). Isma'il brought the stones and Ibrahim was building, and when the walls became high, Isma'il brought this stone and put it for Ibrahim who stood over it and carried on building, while Isma'il was handing him the stones, and both of them were praying to Allah to accept their service.
+Then when the time for building the Ka'bah came, during one of Ibrahim's subsequent visits from Sham (Syria and Palestine) to Makkah and his family, he said to his son Isma'il: "O Isma'il! Allah has given me an order." Isma'il said: "Do what your Lord has ordered you to do." Ibrahim asked: "Will you help me?" Isma'il said: "I will help you." Ibrahim said: "Allah has ordered me to build a house here," pointing to a hillock higher than the land surrounding it. The Prophet ﷺ   added: "Then they raised the foundations of the House (i.e., the Ka'bah). Isma'il brought the stones and Ibrahim was building, and when the walls became high, Isma'il brought this stone and put it for Ibrahim who stood over it and carried on building, while Isma'il was handing him the stones, and both of them were praying to Allah to accept their service.
 
-      وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ
     And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], "Our Lord, accept [this] from us. Indeed You are the Hearing, the Knowing.
     Quran 2:127
 
-The stone over which Ibrahim stood and built is called maqam Ibrahim (Ibrahim's station). It is still in existence today and is revered by all Muslims. Even some religious rituals are directly associated with it. Just like Prophet Adam, Ibrahim, too, is said to have built the Ka'bah using building materials from five special earthly mounts: Hira', Tur Sina', Tur Zayta', Jabal Lubnan and al-Judiyy. For the foundations, he used only materials from Hira' (or the Nur hill), where Prophet Muhammad (pbuh) received his first revelation.
+The stone over which Ibrahim stood and built is called maqam Ibrahim (Ibrahim's station). It is still in existence today and is revered by all Muslims. Even some religious rituals are directly associated with it. Just like Prophet Adam, Ibrahim, too, is said to have built the Ka'bah using building materials from five special earthly mounts: Hira', Tur Sina', Tur Zayta', Jabal Lubnan and al-Judiyy. For the foundations, he used only materials from Hira' (or the Nur hill), where Prophet Muhammad ﷺ   received his first revelation.
 
-If the last account entails any symbolic significance, then it will be with respect to the notion that it was emblematically appropriate to use materials for the Ka'bah groundwork or foundations from a hill where the final prophethood contact between the heavens and the earth was made, and where Prophet Muhammad's mission officially commenced. Such was an occurrence that, as a matter of fact, signified the climax of Ibrahim's own mission and efforts, because he besought God to make happen that which indeed many centuries later started to happen on the Hira' (Nur) hill in the Hira' cave. It therefore was not by chance that in the course of constructing the Ka'bah Ibrahim prayed to God about Muhammad (pbuh) and about the substance of his forthcoming mission.
+If the last account entails any symbolic significance, then it will be with respect to the notion that it was emblematically appropriate to use materials for the Ka'bah groundwork or foundations from a hill where the final prophethood contact between the heavens and the earth was made, and where Prophet Muhammad's mission officially commenced. Such was an occurrence that, as a matter of fact, signified the climax of Ibrahim's own mission and efforts, because he besought God to make happen that which indeed many centuries later started to happen on the Hira' (Nur) hill in the Hira' cave. It therefore was not by chance that in the course of constructing the Ka'bah Ibrahim prayed to God about Muhammad ﷺ   and about the substance of his forthcoming mission.
 
 Having completed to build Kaba, they opened their hands in supplication to Allah Almighty and prayed:
 
@@ -1704,7 +1703,7 @@ Hence, Ibrahim laid the spiritual foundation of Prophet Muhammad's mission by in
 
 Allah Almighty did not leave this sincere supplication unanswered and sent a descendant of Ismael, the prophet Muhammad ﷺ, , the chief of the prophets to the world. The Pride of the Universe ﷺ  proclaimed this truth as,
 
-> "I am the supplication of my forefather Ibrahim (pbuh)."
+> "I am the supplication of my forefather Ibrahim ﷺ  ."
 > Ibn Hisham, Sira: 1/175; Tabari, Tarikh: 2/128.
 
 ### The Black Stone
@@ -2007,12 +2006,12 @@ And said:
 
 Mujahid is reported to have said that the Prophet Ayyub was the first to be inflicted by smallpox. Historians and scholars differed as regards the period of time he was inflicted with trials. Wahb ibn Munâbbih said that he suffered for three years, not more not less. Anas on the other hand said that he suffered for about seven years and a few months. Humayd said that the period was eighteen years. The severity of the disease has been described by as-Suddi that it was so severe, that his flesh dropped from his body and nothing remained on him except his bones and muscles. His wife used to bring ashes and spread it under his body. When the trial went for long, she said, "O' Ayyub, if you pray to your Lord, He will free you from this suffering." He answered, "I have lived for seventy years as a healthy person, so can I not be patient for Allah for another seventy years?" she worked for people to earn money in order to feed Ayyub (Tafseer at-Tabari, vol 23 p.107)
 
-However, the people then started to be cautious of her and did not employ her because they knew that she was the wife of Ayyub and because of that, they too might get infected by the same illnesses or be put to the same trial. So when she did not find anybody to give work, she went to some of the daughters of high society and sold one of her plait in return for plenty of food. When she came to Ayyub with food, he asked her where did she get the food from. He showed his disapproval but she said, "I worked for the people." Then when it was the following day and again she did not find anyone who gave her work, she sold the other plait in return for food. She then brought it to Ayyub. This time Ayyub swore that he would not eat the food till she tells him from where she has got it. At that, she removed her headscarf. When Ayyub (peace be upon him) saw her head has been shaved, he supplicated to Allah:
+However, the people then started to be cautious of her and did not employ her because they knew that she was the wife of Ayyub and because of that, they too might get infected by the same illnesses or be put to the same trial. So when she did not find anybody to give work, she went to some of the daughters of high society and sold one of her plait in return for plenty of food. When she came to Ayyub with food, he asked her where did she get the food from. He showed his disapproval but she said, "I worked for the people." Then when it was the following day and again she did not find anyone who gave her work, she sold the other plait in return for food. She then brought it to Ayyub. This time Ayyub swore that he would not eat the food till she tells him from where she has got it. At that, she removed her headscarf. When Ayyub ﷺ   saw her head has been shaved, he supplicated to Allah:
 
     And Ayyub when he called his Lord [saying], "Harm has inflicted me and You are the Most Merciful."
     Quran 21:83
 
-Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Ubayd ibn Umayr who said: "Ayyub had two brother. One day, they came to him but they could not go near him because of the bad smell which came from his body. So they stood at a distance and one of them said to another, ‘If Allah knew any good in Ayyub, He would not have put him to this trial.’ This grieved Ayyub (peace be upon him) so much that he never got such grief before. He supplicated, ‘O’ Allah, if You know that I never spent a night with a full stomach if I knew someone hungry in that night, then prove me true.’ So he was proved true and a voice came from the heaven confirming his truth that was heard by the two brothers. He then supplicated further, ‘O’ Allah, if You know that I never had two shirts if I knew that someone did not have clothes, then prove me true.’ Again, he was proved true from the heavens while the brothers were listening. Finally, he supplicated, ‘O’ Allah, I seek help from Your Honour.’ When saying that, he fell down in prostration and said, ‘O’ Allah, by Your Honour, I will never lift my head till You cure me from my suffering.’ Then he did not lift his head till he was cured."
+Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Ubayd ibn Umayr who said: "Ayyub had two brother. One day, they came to him but they could not go near him because of the bad smell which came from his body. So they stood at a distance and one of them said to another, ‘If Allah knew any good in Ayyub, He would not have put him to this trial.’ This grieved Ayyub ﷺ   so much that he never got such grief before. He supplicated, ‘O’ Allah, if You know that I never spent a night with a full stomach if I knew someone hungry in that night, then prove me true.’ So he was proved true and a voice came from the heaven confirming his truth that was heard by the two brothers. He then supplicated further, ‘O’ Allah, if You know that I never had two shirts if I knew that someone did not have clothes, then prove me true.’ Again, he was proved true from the heavens while the brothers were listening. Finally, he supplicated, ‘O’ Allah, I seek help from Your Honour.’ When saying that, he fell down in prostration and said, ‘O’ Allah, by Your Honour, I will never lift my head till You cure me from my suffering.’ Then he did not lift his head till he was cured."
 
 Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Abbâs who said: " Allah dressed Ayyub with a dress from Paradise, then he went aside and sat in a corner. His wife came and did not recognise him. So she asked, ‘O’ slave of Allah, where did the afflicted person go who was here? I am afraid that dogs or wolves have eaten him.’ She kept speaking to him for some time and then he finally said to her, ‘What is wrong with you, I am Ayyub, Allah has indeed returned to me my body.’"
 
@@ -3368,12 +3367,12 @@ Sahih al-Bukhari, Volume 3, Book 43: Kitab-ul-Ilm (Book of Knowledge), Hâdith N
 > Allah's Apostle said, "The Hour will not be established until the son of Mary (i.e. Jesus) descends amongst you as a just ruler, he will break the cross, kill the swine, and abolish the Jizya tax. Money will be in abundance so that nobody will accept it (as charitable gifts)."
 > Narrated by Abu Huraira 🐈.
 
-In another hadith, the Prophet (SAW) said: 
+In another hadith, the Prophet Muhammad ﷺ   said: 
 > "I hope that I would live long enough to see ʿĪsā, but if my death comes before that, whoever meets him should convey my salām to him."
 
-ʿĪsā (AS) will not have returned as a new Prophet but rather as follower of the Prophet Muḥammad (SAW), adhering to the Sharīʿah he brought. As such, he will accede to the authority of the Khalīfah at the time, the Mahdī. Allāh’s Messenger (SAW) said, "How will you be when the son or Maryam descends amongst you, judging by the law of the Qurʾān and not the law of the Injīl?" and he once told ʿUmar b. al-Khaṭṭāb, "Were Mūsā alive today, he would have no option but to follow me."
+ʿĪsā (AS) will not have returned as a new Prophet but rather as follower of the Prophet Muḥammad ﷺ  , adhering to the Sharīʿah he brought. As such, he will accede to the authority of the Khalīfah at the time, the Mahdī. Allāh’s Messenger ﷺ   said, "How will you be when the son or Maryam descends amongst you, judging by the law of the Qurʾān and not the law of the Injīl?" and he once told ʿUmar b. al-Khaṭṭāb, "Were Mūsā alive today, he would have no option but to follow me."
 
-The ummah of Islām will start with the best of people and end with the best of people. The Prophet (SAW) said, "An ummah that has me at its beginning, the Mahdī in its middle, and ʿIsā at its end can never be destroyed."
+The ummah of Islām will start with the best of people and end with the best of people. The Prophet ﷺ   said, "An ummah that has me at its beginning, the Mahdī in its middle, and ʿIsā at its end can never be destroyed."
 
 After defeating Dajjal, Isa will work as a judge. There will be a good life for some time untill Yajuj and Majuj come out of their dwelling places. Isa and the ummah will make dua against them and Allah will save the people.
 
@@ -3500,7 +3499,7 @@ The Bible clearly states the imprtance of following the law.
 
 Almost all the concepts of the modern-day teachings of Christianity, including the concept of Jesus Christ being the son of God and Atonement, are from Paul — and not from the teachings of Jesus Christ. As such, the teachings of Paul contradict the teachings of Jesus.
 
-While Prophets of God performed miracles to prove they were sent from God, such as when Jesus Christ healed leprosy and the blind, Paul did not perform any miracles or show any proof whatsoever that he was carrying the Word of God or even the words of the Prophet Jesus PBUH. Paul changed his name from Saul to distance himself from his former reputation as an enemy of Jesus Christ and a prosecutor of Jesus Christ’s disciples.
+While Prophets of God performed miracles to prove they were sent from God, such as when Jesus Christ healed leprosy and the blind, Paul did not perform any miracles or show any proof whatsoever that he was carrying the Word of God or even the words of the Prophet Jesus ﷺ  . Paul changed his name from Saul to distance himself from his former reputation as an enemy of Jesus Christ and a prosecutor of Jesus Christ’s disciples.
 
 Paul met the disciples of Christ occasionally but was not fortunate enough to live in their company. When he later came into the picture after the departure of Jesus Christ, he made some severe changes to the religion to win over the Gentiles (non-Jewish people). He introduced what became vital concepts of Christianity, including the idea that Christ is the Son of God, that he sacrificed himself on the cross to save humanity, and that all one needs to do to earn Paradise is to believe Christ died for his sins. Half of the New Testament is written by this man who never met Jesus Christ in his lifetime.
 
@@ -3524,7 +3523,7 @@ Paul never met Jesus in person. Paul brought many innovations from Greek mytholo
 
 Since the innovative teachings of Paul appealed to the Gentiles (non-Jewish people), Jesus’ faithful followers were unable to stop Paul’s misguidance. Although the first Christians were Unitarians who asserted the unity of God and would have rejected the doctrine of the Trinity, Jesus Christ’s message of the absolute Oneness of God lasted in its original purity for only a short time, then diminished over the years. The very first Christians were not Trinitarians and, in fact, never had heard of the Trinity, as many current-day Biblical scholars acknowledge.
 
-Some Christians developed different beliefs about the Prophet Jesus PBUH over the next few centuries. They claimed that he was divine, calling him the Son of God, which eventually became the dominant Christian belief. Sadly, Christian leaders took Paul’s beliefs as their religion even though his teachings contradict the Bible, and Christian leaders abandoned the actual teachings of Jesus Christ. Many Biblical scholars recognize and admit that the formulation of modern Christianity did not begin with Jesus Christ; instead, the faith started with Paul, as shocking as that sounds. Sadly, Paul, not Jesus Christ, is the true founder of modern Christianity. Today, only Muslims follow the actual teachings of Jesus Christ, which we will prove later in this book.
+Some Christians developed different beliefs about the Prophet Jesus ﷺ   over the next few centuries. They claimed that he was divine, calling him the Son of God, which eventually became the dominant Christian belief. Sadly, Christian leaders took Paul’s beliefs as their religion even though his teachings contradict the Bible, and Christian leaders abandoned the actual teachings of Jesus Christ. Many Biblical scholars recognize and admit that the formulation of modern Christianity did not begin with Jesus Christ; instead, the faith started with Paul, as shocking as that sounds. Sadly, Paul, not Jesus Christ, is the true founder of modern Christianity. Today, only Muslims follow the actual teachings of Jesus Christ, which we will prove later in this book.
 
 About a 150 years later, after the departure of Jesus Christ, a Church father by the name of Tertullian began teaching and spreading the concept of the Trinity. 
 
@@ -4020,7 +4019,7 @@ Ubaydullah ibn Jahsh remained in his state of confusion until he became a Muslim
 ### Zayd ibn Amr
 **Zayd ibn Amr ibn Nufayl** (died 605) was a monotheist who lived in Mecca shortly before Islam. 
 
-> They said to one another: "You know, by Allah, that your people are not following anything (any true path), and they have deviated from the religion of their father Ibrahim (Peace be upon him);(Abraham). What is this stone that we circumambulate, which can neither hear nor see, and can neither cause harm nor bring benefit? O people! find yourselves a religion, for you are not following anything!" So they split up and traveled to different lands seeking the religion of Ibraahem.
+> They said to one another: "You know, by Allah, that your people are not following anything (any true path), and they have deviated from the religion of their father Ibrahim ﷺ   (Abraham). What is this stone that we circumambulate, which can neither hear nor see, and can neither cause harm nor bring benefit? O people! find yourselves a religion, for you are not following anything!" So they split up and traveled to different lands seeking the religion of Ibraahem.
 
 He told priests and jews that this is not the religion of Ibrahim. Said ibn Zayd, his son, is one of the ten promised Paradise. 
 
@@ -4203,7 +4202,7 @@ As they were saying this, Muhammad ﷺ   walked in. Everyone rejoiced when they 
 
 They explained to him the problem. Muhammad ﷺ   took off his robe and lay it on the ground, then put the stone on it and said: "Let one person from each clan hold my robe and then lift it up, together."
 
-Therefore, they lifted it all together to the position where the stone was to be laid, and Muhammad ﷺ   placed it in its place with his hands and they were all happy and satisfied. The argument ended in peace, by Allah’s wisdom, Abu Umayyah had the brains to think quickly and guided his people, and Muhammad (SAW) had the ability to judge and put them in the right direction that led to a peaceful solution. Tribes rejoiced for handling this issue without bloodshed.
+Therefore, they lifted it all together to the position where the stone was to be laid, and Muhammad ﷺ   placed it in its place with his hands and they were all happy and satisfied. The argument ended in peace, by Allah’s wisdom, Abu Umayyah had the brains to think quickly and guided his people, and prophet Muhammad ﷺ   had the ability to judge and put them in the right direction that led to a peaceful solution. Tribes rejoiced for handling this issue without bloodshed.
 
 They changed the Kaaba:
 
@@ -4627,11 +4626,11 @@ The events of Isra and Miʿraj are mentioned briefly in the Quran and then furth
 
 Miraj is a personal gift to the prophet Muhammad ﷺ   from Allah ST.
 
-Al-Isra’ wal-Mi’raj took place during a time when the Prophet (saw) was facing intense hardship and pain. The Quraysh, who were his tribe and his family, constantly ridiculed, humiliated and oppressed the Prophet (saw) and his followers. Moreover, the Prophet (saw) had just faced the Year of Sorrow (’Aam al-Huzn), during which he (saw) lost his beloved wife Khadijah (ra), and his uncle Abu Talib, who was his protector and ally.
+Al-Isra’ wal-Mi’raj took place during a time when the Prophet ﷺ   was facing intense hardship and pain. The Quraysh, who were his tribe and his family, constantly ridiculed, humiliated and oppressed the Prophet ﷺ   and his followers. Moreover, the Prophet ﷺ   had just faced the Year of Sorrow (’Aam al-Huzn), during which he ﷺ   lost his beloved wife Khadijah (ra), and his uncle Abu Talib, who was his protector and ally.
 
-In addition to all these burdens, when the Prophet (saw) had travelled to Ta’if to spread the Islamic message, the people of Ta’if had rejected him in the most cruel way, sending their children into the streets to stone him until he left the city.
+In addition to all these burdens, when the Prophet ﷺ   had travelled to Ta’if to spread the Islamic message, the people of Ta’if had rejected him in the most cruel way, sending their children into the streets to stone him until he left the city.
 
-Having gone through so much grief and suffering, the Prophet Muhammad (saw) was given a truly beautiful and comforting gift. He was transported not only to the Sacred Sanctuary and through the skies, but ultimately into the Divine Presence, the source of all comfort and hope. One of the most important lessons of Al-Isra’ wal-Mi’raj, therefore, is that ‘with every hardship [there will be] ease’ (The Noble Qur’an, 94: 5).  
+Having gone through so much grief and suffering, the Prophet Muhammad ﷺ   was given a truly beautiful and comforting gift. He was transported not only to the Sacred Sanctuary and through the skies, but ultimately into the Divine Presence, the source of all comfort and hope. One of the most important lessons of Al-Isra’ wal-Mi’raj, therefore, is that `‘with every hardship [there will be] ease’` (The Noble Qur’an, 94: 5).  
 
 There are so many narrations about Isra and Miraj. Almost half of the hadith from the Meccan period are about Isra and Miraj.
 
@@ -4653,19 +4652,19 @@ Within the Quran, chapter (surah) 17 al-Isra, was named after the Isra', and the
 
 Jibreel came to the prophet Muhammad ﷺ   and took him to Kaaba. He prayed two raqah then Jibreel opened up his chest and washed his heart in a golden bowl inside of which was Zamzam. Probably this was done to prepare the prophet for the Isra.
 
-When the Prophet ﷺ   was sleeping in the house of Umm Hani (ra) in Makkah he said, ‘the roof of my house was opened and the Angel Jibril [as] descended’ (Bukhari). Scholars reconciling between various narrations, say the Prophet (saw) was then taken to the Hijr, the semi-circular wall of the Ka‘bah, where the Prophet ﷺ   said that Jibril (as), ‘opened my chest, and washed it with Zamzam water. Then he brought a golden tray full of wisdom and faith, and having poured its contents into my chest, he closed it’. [Bukhari]
+When the Prophet ﷺ   was sleeping in the house of Umm Hani (ra) in Makkah he said, ‘the roof of my house was opened and the Angel Jibril [as] descended’ (Bukhari). Scholars reconciling between various narrations, say the Prophet ﷺ   was then taken to the Hijr, the semi-circular wall of the Ka‘bah, where the Prophet ﷺ   said that Jibril (as), ‘opened my chest, and washed it with Zamzam water. Then he brought a golden tray full of wisdom and faith, and having poured its contents into my chest, he closed it’. [Bukhari]
 
 The Prophet ﷺ   continued, ‘I was then brought a white beast which is called al-Buraq [from the Arabic word barq, meaning lightning], bigger than a donkey and smaller than a mule. Its stride was as long as the eye could reach’. [Muslim]
 
-It is narrated by Anas (ra) that Buraq was, ‘saddled and reined, but he shied from him (saw). So Jibril [as] said to him, "Is it from Muhammad ﷺ   that you do this? For nobody has ridden you who is more honourable to Allah than him!" He said, "Then he started sweating profusely"’. [Tirmidhi]
+It is narrated by Anas (ra) that Buraq was, ‘saddled and reined, but he shied from him ﷺ  . So Jibril [as] said to him, "Is it from Muhammad ﷺ   that you do this? For nobody has ridden you who is more honourable to Allah than him!" He said, "Then he started sweating profusely"’. [Tirmidhi]
 
-At several points along the journey, Jibra’eel (as) stopped Buraq and told the Prophet (saw), ‘Dismount and pray’. The first stop was at ‘the place of emigration’ i.e. Madinah - and soon after this night the Prophet (saw) would meet the Ansar and migrate to Madinah. The second stop was at Mount Sinai, where Allah (swt) revealed the Torah to Musa (as). The third stop was at Bethlehem, where ’Isa (as) was born.
+At several points along the journey, Jibra’eel (as) stopped Buraq and told the Prophet ﷺ  , ‘Dismount and pray’. The first stop was at ‘the place of emigration’ i.e. Madinah - and soon after this night the Prophet ﷺ   would meet the Ansar and migrate to Madinah. The second stop was at Mount Sinai, where Allah (swt) revealed the Torah to Musa (as). The third stop was at Bethlehem, where ’Isa (as) was born.
 
 The fourth stop was the grave of Musa (as), ‘I happened to pass by Musa [as] on the night of my Night journey by the red sandhill whilst he was standing praying in his grave’ (Muslim). We know that his grave is located, ‘a stone’s throw’ away from the holy land of the Blessed Masjid Al-Aqsa (Bukhari). This incident clearly shows us an example of what the Messenger of Allah ﷺ   said about Prophets (as) after they pass away that, ‘The Prophets are alive in their graves praying’ (Abu Ya‘la).
 
 ### Arriving at Al-Aqsa
 
-Finally, the Messenger of Allah ﷺ   arrived in the holy city of Al-Quds (Jerusalem) and he said, ’When we reached Bait al-Maqdis [literally ‘the holy house’ another name for the Blessed Masjid Al-Aqsa] Jibril (as) pointed with his finger causing a crack in the rock, and he tied the Buraq to it [at the western wall of the noble sanctuary]’ (Tirmidhi). Waiting inside were all 124,000 Prophets (as). Jibra’eel (as) led the Prophet ﷺ   to the front, and he (saw) led them all in prayer in this blessed space.
+Finally, the Messenger of Allah ﷺ   arrived in the holy city of Al-Quds (Jerusalem) and he said, ’When we reached Bait al-Maqdis [literally ‘the holy house’ another name for the Blessed Masjid Al-Aqsa] Jibril (as) pointed with his finger causing a crack in the rock, and he tied the Buraq to it [at the western wall of the noble sanctuary]’ (Tirmidhi). Waiting inside were all 124,000 Prophets (as). Jibra’eel (as) led the Prophet ﷺ   to the front, and he ﷺ   led them all in prayer in this blessed space.
 
 Some narrations indicate that the Prophet ﷺ   prayed ‘two units of prayer’ (Muslim) to greet the Masjid (known as Tahiyyat al-Masjid). This is one of the first examples of this established Sunnah of the Prophet ﷺ  . It is also mentioned that Jibril (as) called the Adhan (call to prayer) before this practice was even established later in Madinah and that the angels from the heavens descended to pray behind all the Prophets in this sacred place.
 
@@ -4680,18 +4679,18 @@ The Messenger of Allah ﷺ   also said, ’The Prophets were presented to me, an
 
 Following this, the Prophet ﷺ   said, ‘Then I came out and Jibril (as) brought me a vessel of wine and a vessel of milk. Then I chose the milk, and Jibril (as) said, "You have chosen the natural state (Fitrah)"’ (Muslim).
 
-The dominant opinion is that the Prophet ﷺ   alongside Jibril (as) then proceeded to the Noble Rock (as-Sakhrah al-Musharrafah) that is currently housed by the holy Dome of the Rock Masjid at the centre of the noble sanctuary (al-Haram ash-Sharif) of the Blessed Masjid Al-Aqsa. He (saw) ascended into the heavens for the next part of this incredible journey, the Mi‘raj, the Ascension.
+The dominant opinion is that the Prophet ﷺ   alongside Jibril (as) then proceeded to the Noble Rock (as-Sakhrah al-Musharrafah) that is currently housed by the holy Dome of the Rock Masjid at the centre of the noble sanctuary (al-Haram ash-Sharif) of the Blessed Masjid Al-Aqsa. He ﷺ   ascended into the heavens for the next part of this incredible journey, the Mi‘raj, the Ascension.
 
 ### Al-Miraj
 
 Source: [Al-Miraj: The Story of Ascention to the Skies](https://muslimhands.org.uk/latest/2021/03/al-isra-wal-miraj-the-story-of-the-ascension-to-the-skies)
 
-    "He [saw] certainly saw some of his Lord’s greatest signs".
+    "He certainly saw some of his Lord’s greatest signs".
     The Noble Qur’an, 53:18
 
 The word Al-Mi’raj is a noun of instrument in Arabic morphology, which literally means ‘an instrument you use to ascend’. 
 
-The Prophet ﷺ  , ’saw the wide-eyed maidens of Paradise at the left of the Rock [at the Dome of the Rock Masjid]. He greeted them and they returned his greeting. Then he asked them something and they replied with an answer that cools the eyes. Then the Prophet ﷺ   was brought the ladder by which the spirits of the children of Adam (as) ascend. Creation never saw a more beautiful object. It had alternate stairs of silver and gold and came down from the Highest and Amplest Garden of Paradise, Jannat al-Firdaws. It was encrusted with pearls and surrounded with angels on its right and left’. [The Prophet’s Night Journey and Heavenly Ascent by Sayyid Muhammad ibn Alawi al-Maliki]
+The Prophet ﷺ   saw the wide-eyed maidens of Paradise at the left of the Rock [at the Dome of the Rock Masjid]. He greeted them and they returned his greeting. Then he asked them something and they replied with an answer that cools the eyes. Then the Prophet ﷺ   was brought the ladder by which the spirits of the children of Adam (as) ascend. Creation never saw a more beautiful object. It had alternate stairs of silver and gold and came down from the Highest and Amplest Garden of Paradise, Jannat al-Firdaws. It was encrusted with pearls and surrounded with angels on its right and left’. [The Prophet’s Night Journey and Heavenly Ascent by Sayyid Muhammad ibn Alawi al-Maliki]
 
 The Messenger of Allah ﷺ   also said that, ‘a ladder was brought to me finer than any I have ever seen. It was that to which the dying man looks when death approaches’. [The Life of Muhammad ﷺ   by Ibn Ishaq]
 
@@ -4727,13 +4726,13 @@ I asked Jibril [as], "Who is he?" He replied, "He is Adam [as] and the people on
 
 #### The Second to Sixth Sky
 
-Then the Prophet ﷺ   continued to ascend the layers of sky with Jibril (as). Again, permission was sought to enter, and the angelic guards were delighted and welcomed the Messenger of Allah (saw).
+Then the Prophet ﷺ   continued to ascend the layers of sky with Jibril (as). Again, permission was sought to enter, and the angelic guards were delighted and welcomed the Messenger of Allah ﷺ  .
 
 At the second sky, he met the maternal cousins, the Prophets Isa (as) and Yahya (as).
 
-At the third sky, the Prophet (saw) met the Prophet Yusuf (as) whom he described as having ‘been given half of (world) beauty’ [Muslim]. The Messenger of Allah (saw) had himself been blessed with all beauty, ma sha’ Allah!
+At the third sky, the Prophet ﷺ   met the Prophet Yusuf (as) whom he described as having ‘been given half of (world) beauty’ [Muslim]. The Messenger of Allah ﷺ   had himself been blessed with all beauty, ma sha’ Allah!
 
-At the fourth sky, the Prophet (saw) met the Prophet Idris (as) whose soul was taken there, and he is praised in the Qur’an: ‘We raised him to a lofty position’. [The Noble Qur’an, 19:57]
+At the fourth sky, the Prophet ﷺ   met the Prophet Idris (as) whose soul was taken there, and he is praised in the Qur’an: ‘We raised him to a lofty position’. [The Noble Qur’an, 19:57]
 
 At the fifth sky, he met the Prophet Harun (as); and in the sixth sky, he met Prophet Harun’s younger brother, the Prophet Musa (as).
 
@@ -4741,16 +4740,16 @@ Some narrations mention that Musa (as) was seen crying and a voice was heard say
 
 Musa has the second largest ummah after the prophet Muhammad  ﷺ   .
 
-At each one of these levels, these Prophets (as) welcomed the Prophet (saw) and supplicated good for him saying, ‘Welcome O pious Prophet and pious brother!’ [Bukhari]
+At each one of these levels, these Prophets (as) welcomed the Prophet ﷺ   and supplicated good for him saying, ‘Welcome O pious Prophet and pious brother!’ [Bukhari]
 
 #### The Seventh Sky
-At the seventh sky, the Prophet (saw) met his greatest ancestor, the Prophet Ibrahim (as) who was ‘reclining his back against al-Bait al-Ma‘mur. And there enter into it seventy thousand angels every day, never to return to it (again)’. [Muslim]
+At the seventh sky, the Prophet ﷺ   met his greatest ancestor, the Prophet Ibrahim (as) who was ‘reclining his back against al-Bait al-Ma‘mur. And there enter into it seventy thousand angels every day, never to return to it (again)’. [Muslim]
 
 (Bait al-Ma’mur literally means ‘the much-visited House’. It is the heavenly Ka‘bah directly above the one on earth).
 
-Like Adam (as), Ibrahim (as) greeted the Prophet (saw) saying, ‘Welcome O pious Prophet and pious son!’ [Bukhari]
+Like Adam (as), Ibrahim (as) greeted the Prophet ﷺ   saying, ‘Welcome O pious Prophet and pious son!’ [Bukhari]
 
-In another narration, Ibrahim (as) conveyed his salaams to the Ummah of the Prophet (saw) and advised us that, ‘Paradise has pure soil and delicious water, and that it is a flat treeless plain, and that its seeds are (saying), SubhanAllah (Glory be to Allah), Alhamdulillah (All praise belongs to Allah), La ilaaha ill-Allah (There is no god but Allah), and Allahu Akbar (Allah is the Greatest)’. [Tirmidhi]
+In another narration, Ibrahim (as) conveyed his salaams to the Ummah of the Prophet ﷺ   and advised us that, ‘Paradise has pure soil and delicious water, and that it is a flat treeless plain, and that its seeds are (saying), SubhanAllah (Glory be to Allah), Alhamdulillah (All praise belongs to Allah), La ilaaha ill-Allah (There is no god but Allah), and Allahu Akbar (Allah is the Greatest)’. [Tirmidhi]
 
 Ibrahim AS said we must plant the plants in Jannah ourselves, every dhikr becomes a tree 🌳 in Jannah.
 
@@ -4785,7 +4784,7 @@ At the end of this journey, the Prophet ﷺ   was brought into the Divine Presen
 
 We do not know a great about what was privately discussed between Allah and His beloved ﷺ  , with Allah simply stating:
     
-    "Then Allah revealed to His servant [saw] what He revealed". 
+    "Then Allah revealed to His servant what He revealed". 
     The Noble Qur’an, 53:10
 
 The Prophet ﷺ   mentioned, 
@@ -4799,7 +4798,7 @@ The prophet Muhammad ﷺ   would pray 50 rakat every day.
 
 Finally, the Prophet ﷺ   was taken back down to the Blessed Masjid Al-Aqsa and returned to Makkah on the Buraq.
 
-As he was transported home, he saw various caravans heading towards Makkah, which he would later describe to the Quraish as proof that he really had made this miraculous journey. Allah even displayed Bait al-Maqdis to the Prophet (saw), while the Quraish were cross-examining him in the Hijr of the Ka‘bah [Bukhari]. The entire journey had taken place in a small portion of a night, and there were many who would mock the Prophet ﷺ   for making such a claim.
+As he was transported home, he saw various caravans heading towards Makkah, which he would later describe to the Quraish as proof that he really had made this miraculous journey. Allah even displayed Bait al-Maqdis to the Prophet ﷺ  , while the Quraish were cross-examining him in the Hijr of the Ka‘bah [Bukhari]. The entire journey had taken place in a small portion of a night, and there were many who would mock the Prophet ﷺ   for making such a claim.
 
 For the Muslims, however, the story was a source of wonder and hope, as it continues to be for us today. On this night, the best of creation ﷺ   was given the honour of travelling to various blessed places on earth, then ascending the levels of sky and being finally welcomed into the Divine Presence! All this to honour the beloved Prophet ﷺ   and `‘to show him some of Our signs!’` [The Noble Qur’an, 17:1]
 </details><details><summary>
@@ -4808,9 +4807,9 @@ For the Muslims, however, the story was a source of wonder and hope, as it conti
 
 </summary>
 
-Praying 5 times a day was made obligatory when the Prophet (peace be upon him) was taken on his night journey and ascended to heaven.
+Praying 5 times a day was made obligatory when the Prophet Muhammad ﷺ   was taken on his night journey and ascended to heaven.
 
-Salah (صلاة, plural salawat, lit. 'prayer'), also known as namāz (Persian: نماز) and also spelled salat, are prayers performed by Muslims. Facing the qibla, the direction of the Kaaba with respect to those praying, Muslims pray first standing and later kneeling or sitting on the ground, reciting prescribed prayers and phrases from the Quran as they bow and prostrate themselves in between. Salah is composed of prescribed repetitive cycles of bows and prostrations, called rakat (sing. rak'ah). The number of rak'ahs, also known as units of prayer, varies from prayer to prayer. Ritual purity and wudu are prerequisites for performing the prayers.
+Salah (plural salawat, lit. 'prayer'), also known as namāz (Persian: نماز) and also spelled salat, are prayers performed by Muslims. Facing the qibla, the direction of the Kaaba with respect to those praying, Muslims pray first standing and later kneeling or sitting on the ground, reciting prescribed prayers and phrases from the Quran as they bow and prostrate themselves in between. Salah is composed of prescribed repetitive cycles of bows and prostrations, called rakat (sing. rak'ah). The number of rak'ahs, also known as units of prayer, varies from prayer to prayer. Ritual purity and wudu are prerequisites for performing the prayers.
 
 The daily obligatory prayers collectively form the second of the five pillars in Islam, observed five times every day at prescribed times. These are Fajr (observed at dawn), Zuhr (observed at noon), Asr (observed late in the afternoon), Maghrib (observed after sunset), and Isha (observed at dusk). Salah can be performed either in solitude, or collectively (known as jama'ah). When performed in jama'ah, worshippers line up in parallel rows behind a leader, known as the imam.
 
@@ -5221,15 +5220,17 @@ Fatima and Ali were survived by four children: Hasan, Husayn, Zaynab and Umm Kul
 
 </summary>
 
-> The Campaign of As-Sawiq was called after the type of **porridge** that Abu Sufyan and his companions threw from their camels to lighten their loads in order to flee from any encounter with the Prophet (peace be upon him).
+> The Campaign of As-Sawiq was called after the type of **porridge** that Abu Sufyan and his companions threw from their camels to lighten their loads in order to flee from any encounter with the Prophet ﷺ  .
+> 
+> This battle is of no significance but I added it because it is very funny.
 
 When Safwan ibn Omaiyah, the Jews, and the hypocrites were conducting their hostile intrigues and plots, Abu Sufyan was planning to carry out some military hostilities in oder to reply quickly to their loses at Badr. These aimed at saving the face of his people and impressing on the Arabs that Quraish was still a strong military power, after their defeat at Badr, and after the Arabs started to think little about them. Abu Sufyan had taken an oath that he would not approach any of his wives until he had taken revenge from Muhammed. He was not brave enough to attack Medinah in broad daylight, so he infiltrated the outskirts of Medinah at night.
 
 Abu Sufyan led 200 riders and entered the outskirts of a place called Al-Uraid, staying over night with Banu An-Nadeer in the Jewish district of Khaybar. He knocked on the door of Huyai ibn Akhtab, one of the Jewish leaders and the father of Safiyah, a Mother of the Believers. However, Huyai was too scared to open the door for him. Therefore, Abu Sufyan left and went to Salam ibn Mashkam, the chief of Banu An-Nadeer and their treasurer. He used to keep their money and jewellery, which he then lent to the peple of Mecca. Salam entertained Abu Sufyan, offered him food and wine, and gave him a full account of the news of the Muslims.
 
-In the morning, Abu Sufyan dispatched men from Quraish, who went to a suburb of Medina and burnt the palm trees there. They also found in the area two Muslims from the Ansar, Mabid ibn Amr and his companion, so they killed them and then left to return to their base. The incident became known to the people in the city, and as a result, The Prophet (peace be upon him) left with 200 Muhajareen (Immigrants) and Ansar to catch the men from Quraish, leaving Basheer ibn Abdul-Munthir to run the affairs In Medina.
+In the morning, Abu Sufyan dispatched men from Quraish, who went to a suburb of Medina and burnt the palm trees there. They also found in the area two Muslims from the Ansar, Mabid ibn Amr and his companion, so they killed them and then left to return to their base. The incident became known to the people in the city, and as a result, The Prophet Muhammad ﷺ   left with 200 Muhajareen (Immigrants) and Ansar to catch the men from Quraish, leaving Basheer ibn Abdul-Munthir to run the affairs In Medina.
 
-The Prophet (peace be upon him) and his Companions reached the area of Qirqirah Al-Kudr, but Abu Sufyan and the disbelievers managed to escape after they had thrown aside many of their goods and much barley porridge called As-Sawiq that the Arabs used to prepare. This was in order to lighten their loads and escape any confrontation with the Muslims. The Prophet (peace be upon him) had left Abu Lubabah ibn Amir in Medina to run the affairs there in the Prophet’s absence. Abu Lubabah is the same Companion that was left to dispose of matters in Medina during the battles of Badr and Banu Qainuqa. The Prophet (peace be upon him) returned to Medina 5 days later.
+The Prophet ﷺ   and his Companions reached the area of Qirqirah Al-Kudr, but Abu Sufyan and the disbelievers managed to escape after they had thrown aside many of their goods and much barley porridge called As-Sawiq that the Arabs used to prepare. This was in order to lighten their loads and escape any confrontation with the Muslims. The Prophet ﷺ   had left Abu Lubabah ibn Amir in Medina to run the affairs there in the Prophet’s absence. Abu Lubabah is the same Companion that was left to dispose of matters in Medina during the battles of Badr and Banu Qainuqa. The Prophet (peace be upon him) returned to Medina 5 days later.
 
 </details><details><summary>
 
@@ -5237,7 +5238,7 @@ The Prophet (peace be upon him) and his Companions reached the area of Qirqirah 
 
 </summary>
 
-The Battle of Uhud (غَزْوَة أُحُد,) was fought on Saturday, 23 March 625 AD (7 Shawwal, 3 AH), in the valley north of Mount Uhud. The Qurayshi Meccans, led by Abu Sufyan ibn Harb, commanded an army of 3,000 men toward Muhammad's stronghold in Medina. The battle was the only battle throughout the Muslim–Quraysh War in which the Muslims did not manage to defeat their enemy and it came just a year after the Battle of Badr.
+The Battle of Uhud was fought on Saturday, 23 March 625 AD (7 Shawwal, 3 AH), in the valley north of Mount Uhud. The Qurayshi Meccans, led by Abu Sufyan ibn Harb, commanded an army of 3,000 men toward Muhammad's stronghold in Medina. The battle was the only battle throughout the Muslim–Quraysh War in which the Muslims did not manage to defeat their enemy and it came just a year after the Battle of Badr.
 
 Abu Sufyan became the de facto leader of the Quraish after the death of Amr ibn Hishām at Badr nine months prior. Wanting to avenge the Meccan's losses at the Battle of Badr, he marched upon Medina from Makkah on 10 December 624 AD with a force three times stronger than that of the Meccans at Badr. Another reason for the battle was to protect the trade route of Abu Sufyan's caravans. The Battle of Uhud was the second military encounter between the Meccans and the Muslims and the first one in which the Muslims were on the defensive side. The Muslims readied for war soon afterward and the two armies fought in the valley below the northern face of Mount Uhud.
 
@@ -5904,7 +5905,7 @@ One year later, in Dhu'l-Hajj of the year 10 (March 632), the Prophet announced 
 
 This sermon was delivered on the Ninth day of Dhul-Hijjah, 10 A.H. ( 623AD) in the Uranah valley of Mount Arafat in Mecca. It was the occasion of annual rites of Haj. It is also known as the Farewell Pilgrimage.
  
-After praising and thanking Allah the Prophet (p.b.u.h.) began with the words:
+After praising and thanking Allah, the Prophet ﷺ   began with the words:
  
 > "O People! Lend me an attentive ear, for I know not whether after this year I shall ever be amongst you again. Therefore, listen carefully to what I am saying and take these words to those who could not be present here today."
 >
@@ -6061,17 +6062,17 @@ Abu Bakr's first address as caliph:
 
 The wars against apostasy were fought for the cause of the poor and to restore their right to benefit from Zakat that was made compulsory by God on the wealth of the rich, and these wars took place when some people tried to rob the poor of their rights.  
 
-After the death of the Prophet (peace be upon him), some Arab tribes declined to pay Zakat by saying: "We used to give Zakat to Muhammad. But now Muhammad is no more, and hence we are not obliged to give Zakat." Some of them renounced Islam while others did not but refused to pay Zakat. Some senior companions of the Prophet (pbuh), including Umar Bin Khattab, were against being tough on this matter so as not to cause Islamic society to disintegrate and lose its strength. But the Caliph Abu Bakr was firm and tough on this issue. He considered those who refused to pay Zakat as apostates, and in this respect, there was a famous saying of Abu Bakr: "By Allah, if they withhold the rope of a camel they used to give in Zakat to Allah’s Messenger, I will fight them for it."
+After the death of the Prophet ﷺ  , some Arab tribes declined to pay Zakat by saying: "We used to give Zakat to Muhammad. But now Muhammad is no more, and hence we are not obliged to give Zakat." Some of them renounced Islam while others did not but refused to pay Zakat. Some senior companions of the Prophet ﷺ  , including Umar Bin Khattab, were against being tough on this matter so as not to cause Islamic society to disintegrate and lose its strength. But the Caliph Abu Bakr was firm and tough on this issue. He considered those who refused to pay Zakat as apostates, and in this respect, there was a famous saying of Abu Bakr: "By Allah, if they withhold the rope of a camel they used to give in Zakat to Allah’s Messenger, I will fight them for it."
 
-Abu Bakr mobilized armies to fight apostates and those who refused to pay Zakat, in addition to those who made undue claims to prophethood like Musailama, the liar, of Yamama. This man arrived in Madinah and embraced Islam during the period of the Prophet (pbuh). After returning to his people of Bani Hanifa, he told them: "I had reached agreement with Muhammad to divide the prophethood between me and him." Musailama informed his people that he had annulled the obligatory prayer, permitted adultery, and the drinking of liquor. He also sent a message to the Prophet (pbuh) in which he said: "From Musailama, the messenger of Allah to Muhammad, the messenger of Allah: I share the authority with you now: you have half of the earth and it is for me the remaining half. But the Quraish are oppressors."  
+Abu Bakr mobilized armies to fight apostates and those who refused to pay Zakat, in addition to those who made undue claims to prophethood like Musailama, the liar, of Yamama. This man arrived in Madinah and embraced Islam during the period of the Prophet ﷺ  . After returning to his people of Bani Hanifa, he told them: "I had reached agreement with Muhammad to divide the prophethood between me and him." Musailama informed his people that he had annulled the obligatory prayer, permitted adultery, and the drinking of liquor. He also sent a message to the Prophet ﷺ   in which he said: "From Musailama, the messenger of Allah to Muhammad, the messenger of Allah: I share the authority with you now: you have half of the earth and it is for me the remaining half. But the Quraish are oppressors."  
 
-The Prophet (pbuh) sent a reply message saying: "From Muhammad, the messenger of Allah, to Musailama, the liar. Peace be upon those who followed the righteous path. After all, the earth belongs to Allah. He gives this to be inherited by those whom He wishes from among His subjects, and the ultimate reward is for those who are pious."
+The Prophet ﷺ   sent a reply message saying: "From Muhammad, the messenger of Allah, to Musailama, the liar. Peace be upon those who followed the righteous path. After all, the earth belongs to Allah. He gives this to be inherited by those whom He wishes from among His subjects, and the ultimate reward is for those who are pious."
 
 Musailama was one of the apostates with whom Abu Bakr decided to fight.
 
 Accordingly, he mobilized an army under the command of Khaled Bin Al-Waleed who was able to kill Musailama and return his people to Islam by encouraging them to observe the pillars of Islam, including the payment of Zakat.
 
-As we know, Zakat is the third pillar of Islam. The Qur’an mentions it on several occasions together with performing obligatory prayer. A Hadith, reported by Ibn Umar from the Prophet (pbuh), says: "I was ordered to fight the people until they say there is no God but Allah and Muhammad is the messenger of Allah, as well as to perform prayer and give Zakat." – Bukhari and Muslim.   
+As we know, Zakat is the third pillar of Islam. The Qur’an mentions it on several occasions together with performing obligatory prayer. A Hadith, reported by Ibn Umar from the Prophet ﷺ  , says: "I was ordered to fight the people until they say there is no God but Allah and Muhammad is the messenger of Allah, as well as to perform prayer and give Zakat." – Bukhari and Muslim.   
 
 ## Preservation of The Quran
 
@@ -6240,7 +6241,7 @@ After the treaty was signed the key to the city was formally handed over in 637 
 In doing so Caliph Umar showed the world the meaning of tolerance and generosity in victory and strength. It was the greatness of Islam that shone in his spirit and was reflected in his ethics though he was a person known for his firmness and courage.  
 Caliph Umar then asked to be taken to the site of Masjid Al Aqsa. He could not find, but patriarch showed him the way.
 
-On arrival, accompanied by hundreds of Muslims, he found the area covered in dust and debris. He rolled up his sleeves and began sweeping and clearing the mosque immediately. On seeing this other Muslims including army generals and soldiers joined him in cleaning the place. Once cleaned up Caliph Umar took off his cloak, prayed and left there. It was the first prayer of Muslims in the Masjid Al Aqsa after the Prophet Muhammad (pbuh).
+On arrival, accompanied by hundreds of Muslims, he found the area covered in dust and debris. He rolled up his sleeves and began sweeping and clearing the mosque immediately. On seeing this other Muslims including army generals and soldiers joined him in cleaning the place. Once cleaned up Caliph Umar took off his cloak, prayed and left there. It was the first prayer of Muslims in the Masjid Al Aqsa after the Prophet Muhammad ﷺ  .
 
 Caliph Umar immediately ordered the restoration of the mosque. A huge timber mosque, Masjid Al Marwani, with a capacity to accommodate 3000 worshippers was erected on this site at the southernmost wall of the Noble Sanctuary. They then started praying in this holy place. This was the most peaceful manner Jerusalem was conquered and great status of this mosque was restored after the affront committed by the Christians.
 
@@ -7676,11 +7677,11 @@ Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
 
 <details><summary> Overview </summary>
 
-According to the Prophet (PBUH), there are 10 major signs that will precede the last Hour and will announce of the finality of the Day of Reckoning. These 10 signs are explained in the following hadith:
+According to the Prophet ﷺ  , there are 10 major signs that will precede the last Hour and will announce of the finality of the Day of Reckoning. These 10 signs are explained in the following hadith:
 
 Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with him) said: 
 
-> The Prophet (peace and blessings of Allaah be upon him) came out to us when we were discussing. He said: "What are you discussing?" They said: "We are talking about the Hour." He said: "It will never begin until you see ten signs before it." He mentioned the smoke, the Dajjaal, the Beast, the rising of the sun from its place of setting, the descent of ‘Eesa ibn Maryam (peace and blessings of Allaah be upon him), Ya’jooj and Ma’jooj, and three landslides, one in the east, one in the west and one in the Arabian Peninsula, and the last of that is a fire which will emerge from Yemen and drive the people to their place of gathering (Sahih Muslim, Book 041: 6931)
+> The Prophet ﷺ   came out to us when we were discussing. He said: "What are you discussing?" They said: "We are talking about the Hour." He said: "It will never begin until you see ten signs before it." He mentioned the smoke, the Dajjaal, the Beast, the rising of the sun from its place of setting, the descent of ‘Eesa ibn Maryam ﷺ  , Ya’jooj and Ma’jooj, and three landslides, one in the east, one in the west and one in the Arabian Peninsula, and the last of that is a fire which will emerge from Yemen and drive the people to their place of gathering (Sahih Muslim, Book 041: 6931)
 
 These signs are connected to each other. When one comes, the other one follows.
 
