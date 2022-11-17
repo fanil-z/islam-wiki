@@ -436,15 +436,12 @@ There has been some historical debate among Muslim scholars about the precise me
     600 million years ago: Animals appeared.
     245-66 million years ago: 🦖 🦕​ Dinosaurs!! And also crocodiles and cockroaches!!
     ~200.000 years ago: Modern Homo-Sapiens appeared. Scientific Adam and mithochondrial Eve is estimated by geneologists 140-200k years ago.
-
-Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. And after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
+        - Evolution is an instrument of God. Evolution changed the shape of all animals on Earth but Adam and Eve were created by Allah directly. And after the first humans Adam and Eve were created, evolution continued to affect them because it is in their genes. Humans have bodies of Homo-Sapiens but not only the body defines a human. 
 
 Before 19th century there was a scientific consensus that the Universe 🌌 is static. But after Einstein's Theory of Relativity, science stated that the Universe is expanding. So, until 19XX science contradicted the Quran. 
 100 years ago, the world’s best scientific minds thought that the universe had always existed. Since it always existed, it didn’t need a Creator.
 
-Einstein changed all that.
-
-Einstein's ‘field equations’ suggested that the universe was expanding like a balloon. The mathematician and Belgian Priest, George Lemaître, realised that this expansion had to have started from somewhere. It must have come from an initial, dense point. This idea became known as the Big Bang. Today, it is the basis for understanding the origin of the universe.
+Einstein changed all that. Einstein's ‘field equations’ suggested that the universe was expanding like a balloon. The mathematician and Belgian Priest, George Lemaître, realised that this expansion had to have started from somewhere. It must have come from an initial, dense point. This idea became known as the Big Bang. Today, it is the basis for understanding the origin of the universe.
 
 What few people know however is that the Holy Quran described the Big Bang perfectly, 1400 years earlier.
 
@@ -457,11 +454,9 @@ The verse further says that water is the basis of life. This is now an accepted 
 
 For many centuries the Quran contradicted the established opinion of scientists who thought that the universe was static. 
 
-Einstein’s equations tell us that the universe is expanding. This discovery surprised everyone.
+Einstein’s equations tell us that the universe is expanding. This discovery surprised everyone. For decades thereafter, scientists thought the universe exploded out of the Big Bang, and has been slowing down ever since. But they were wrong. The universe’s expansion has recently been speeding up. This mysterious re-expansion is driven by what we call dark energy. About 5 billion years ago, this mysterious anti-gravity began pushing the universe outwards once more.
 
-For decades thereafter, scientists thought the universe exploded out of the Big Bang, and has been slowing down ever since. But they were wrong. The universe’s expansion has recently been speeding up. This mysterious re-expansion is driven by what we call dark energy. About 5 billion years ago, this mysterious anti-gravity began pushing the universe outwards once more.
-
-The Holy Quran describes this as:
+The Holy Quran says:
 
     "And We have built the heaven with might and We continue to expand it indeed."
     Quran 51:48
@@ -3274,19 +3269,8 @@ Almighty Allah refuted the claims of the Jews and the Christians in many verses 
     But it is not suitable for (the Majesty of) the Most Beneficent (Allah) that He should beget a son (or offspring or children). There is none in the heavens and the earth but comes unto the Most Beneficent (Allah) as a slave. Verily He knows each one of them, and has counted them a full counting And everyone of them will come to Him alone on the Day of Resurrection (without any helper, or protector or defender).
     Quran Ayah 19:88-95
 
-    Almighty Allah commanded: 0 people of the Scripture (Jews and Christians)! Do not exceed the limits in your religion, nor say of Allah aught but the truth. The Messiah Jesus, son of Mary was (no more than) a Messenger of Allah and His Word, ("Be" - and he was) which He bestowed on Mary and a spirit (Ruh) created by Him; so believe in Allah and His Messengers. Say not: 'Three (trinity)!" Cease! (It is) better for you. For Allah is (the only) One Ilah (God), Glory be to Him (Far Exalted is He) above having a son. To Him belongs all that is in the heavens and all that is in the earth. And Allah is All-Sufficient as a Disposer of affairs.
+    Almighty Allah commanded: O people of the Scripture (Jews and Christians)! Do not exceed the limits in your religion, nor say of Allah aught but the truth. The Messiah Jesus, son of Mary was (no more than) a Messenger of Allah and His Word, ("Be" - and he was) which He bestowed on Mary and a spirit (Ruh) created by Him; so believe in Allah and His Messengers. Say not: 'Three (trinity)!" Cease! (It is) better for you. For Allah is (the only) One Ilah (God), Glory be to Him (Far Exalted is He) above having a son. To Him belongs all that is in the heavens and all that is in the earth. And Allah is All-Sufficient as a Disposer of affairs.
     Quran Ayah 4:171-173
-
-### Quran disclaims Trinity
-
-    Allah the Exalted warned: Surely they have disbelieved who say: 'Allah is the Messiah (Jesus), son of Mary." But the Messiah (Jesus) said: "O Children of Israel! Worship Allah, my Lord and your Lord." Verily whosoever sets up partners in worship with Allah, then Allah has forbidden Paradise for him, and the Fire will be his abode. And for the Zalimun (polytheists and wrong-doers) there are no helpers.
-
-    Surely disbelievers are those who said: 'Allah is the third of the three (in a Trinity)." But there is no Ilah (god) (none who has the right to be worshipped) but One Ilah (God- Allah). And if they cease not from what they say verily a painful torment will befall the disbelievers among them.
-
-    Will they not repent to Allah and ask His Forgiveness? For Allah is Oft-Forgiving Most Merciful.
-
-    The Messiah (Jesus), son of Mary, was no more than a Messenger; many were the Messengers that passed a way before him. His mother (Mary) was a Siddiqah i.e. she believed in the Words of Allah and His Books. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded a way (from the truth). 
-    Quran Ayah 6:72-75
 
 ### Miracles performed by Isa
 
@@ -3526,6 +3510,18 @@ Since the innovative teachings of Paul appealed to the Gentiles (non-Jewish peop
 Some Christians developed different beliefs about the Prophet Jesus ﷺ   over the next few centuries. They claimed that he was divine, calling him the Son of God, which eventually became the dominant Christian belief. Sadly, Christian leaders took Paul’s beliefs as their religion even though his teachings contradict the Bible, and Christian leaders abandoned the actual teachings of Jesus Christ. Many Biblical scholars recognize and admit that the formulation of modern Christianity did not begin with Jesus Christ; instead, the faith started with Paul, as shocking as that sounds. Sadly, Paul, not Jesus Christ, is the true founder of modern Christianity. Today, only Muslims follow the actual teachings of Jesus Christ, which we will prove later in this book.
 
 About a 150 years later, after the departure of Jesus Christ, a Church father by the name of Tertullian began teaching and spreading the concept of the Trinity. 
+
+### Quran disclaims Trinity
+
+    Allah the Exalted warned: Surely they have disbelieved who say: "Allah is the Messiah (Jesus), son of Mary." But the Messiah (Jesus) said: "O Children of Israel! Worship Allah, my Lord and your Lord." Verily whosoever sets up partners in worship with Allah, then Allah has forbidden Paradise for him, and the Fire will be his abode. And for the Zalimun (polytheists and wrong-doers) there are no helpers.
+
+    Surely disbelievers are those who said: "Allah is the third of the three (in a Trinity)." But there is no Ilah (god) (none who has the right to be worshipped) but One Ilah (God- Allah). And if they cease not from what they say verily a painful torment will befall the disbelievers among them.
+
+    Will they not repent to Allah and ask His Forgiveness? For Allah is Oft-Forgiving Most Merciful.
+
+    The Messiah (Jesus), son of Mary, was no more than a Messenger; many were the Messengers that passed a way before him. His mother (Mary) was a Siddiqah i.e. she believed in the Words of Allah and His Books. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded a way (from the truth). 
+    Quran Ayah 6:72-75
+
 
 </details><details><summary>
 
