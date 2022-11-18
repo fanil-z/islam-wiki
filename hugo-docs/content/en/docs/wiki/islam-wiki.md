@@ -5,7 +5,7 @@ toc: true
 
 ---
 
-<h1 style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"> World History Timeline  <div style="font-size: 1rem; color: #dee2e6 !important"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
+<h1 style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"> World History Timeline  <div style="font-size: 1rem; font-weight:200; color: #dee2e6 !important"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
 
 # 0. Before Creation of Humankind
 ***************************************
@@ -399,6 +399,9 @@ According to hadith, there are eight doors of Jannah. Their names are as followi
 
 </summary>
 
+    It is Allah Who has made for you the earth as a resting place, and the sky as a canopy, and has given you shape - and made your shapes beautiful -, and has provided for you Sustenance
+    Quran, surah Gafir 40:64
+
 The Qur'an says that the heavens and the earth were joined together as one "unit of creation", after which they were "cloven asunder".
 
     The heavens and the earth were joined together as one unit, before We clove them asunder 
@@ -422,6 +425,9 @@ The Qur'an further states that Allah created the sun, the moon, and the planets,
     "The heavens, We have built them with power. And verily, We are expanding it" (51:47)
 
 There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered. In the beginning of 20th century, the consensus among scientists was that the universe is static. So, the science was contradicting the Quran until Einstein discovered the theory of relativity.
+
+    "(Such is) the artistry of Allah, Who disposes of all things in perfect order" 
+    Quran, surah Al-Naml 27:88
 
 </details><details><summary>
 
@@ -722,7 +728,7 @@ According to Quranic creation narrative, Godﷻ   informed angels that He was go
 
 While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes🐒. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
 
-The Qur'an describes how Allah created Adam.
+The Quran describes how Allah created Adam.
 
     "We created man from sounding clay, from mud moulded into shape..." 
     (Quran 15:26)
