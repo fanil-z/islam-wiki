@@ -731,10 +731,10 @@ While Islam recognizes the general idea of the development of life in stages, ov
 The Quran describes how Allah created Adam.
 
     "We created man from sounding clay, from mud moulded into shape..." 
-    (Quran 15:26)
+    Quran 15:26
     
     "He began the creation of man from clay, and made his progeny from a quintessence of fluid"
-    (Quran 32:7-8) 
+    Quran 32:7-8 
 
 According to a hadith, Allah created the body of Adam and it lay still for some time. During that time Iblis went through Adam's body and got thoughts that he will be able to control Adam because his body was hollow.
 
@@ -742,15 +742,17 @@ Then, Allahﷻ   breathed a soul into Adam.
 
 There is a hadith from Abu Huraira 🐈: 
 
-    When Allah breathed a soul into Adam, Adam sneezed and said "Alhamdulillah!" (Praise to God!). Allah replied "Yarmukallah, o Adam (Let God give you of His Mercy!). Go to those angels that sit in the gathering and say to them "Assalamu Aleykum!" (Peace be upon you). Angels replied "Waaleykum Assalam wa Rahmatullah (And peace to you and mercy)!" 
-    When Adam returned to his Lord, He said: "Indeed, this will be your greeting, and greeting of your sons among each other".
-
-    The hadith further says that then Allah opened His hand and showed Adam all of his descendands. Each person had his life expectancy written on his forehead. Adam saw a man whose light was one of the brightest and he asked "Who is this man?". Allah replied "This is Dawud (David) and he is prescribed to live 40 years". Adam said "Oh my Lord, extend his life", Allah replied "This is the term I prescribed him". Adam asked again "Oh my Lord, I give him 60 of my years" for which Allah replied "Let it be your way".
-    Sheikh Al-Albani called this hadith authentic.
+> When Allah breathed a soul into Adam, Adam sneezed and said "Alhamdulillah!" (Praise to God!). Allah replied "Yarmukallah, o Adam (Let God give you of His Mercy!). Go to those angels that sit in the gathering and say to them "Assalamu Aleykum!" (Peace be upon you). Angels replied "Waaleykum Assalam wa Rahmatullah (And peace to you and mercy)!" 
+>
+> When Adam returned to his Lord, He said: "Indeed, this will be your greeting, and greeting of your sons among each other".
+>
+> The hadith further says that then Allah opened His hand and showed Adam all of his descendands. Each person had his life expectancy written on his forehead. Adam saw a man whose light was one of the brightest and he asked "Who is this man?". Allah replied "This is Dawud (David) and he is prescribed to live 40 years". Adam said "Oh my Lord, extend his life", Allah replied "This is the term I prescribed him". Adam asked again "Oh my Lord, I give him 60 of my years" for which Allah replied "Let it be your way".
+>
+> Sheikh Al-Albani called this hadith authentic.
 
 Allah gave Adam knowledge and taught him names. One of the version of interpretation is that Adam was taught the names of animals and birds 🐦. The other version is that he was taught speech.
 
-### Every human souls testifies in front of God
+### Every human soul testifies in front of God
 
 Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allahﷻ   told angels that He knows what they know not.
 
@@ -770,7 +772,7 @@ According to hadith:
 * He had a beautiful voice.
 * The prophet Adam used to talk with his children with clear words and not with signs.
 * The prophet Adam knew all the names of the creations such as the name of the sky, the earth, the sea, the air, the angel, the jinn, and the like.
-* The prophet Adam Plants and Harvests.
+* The prophet Adam plants and harvests.
 * Allāh created in our master Adam the knowledge of the matters of earning a living.
 * Allāh created in Adam the knowledge of how to plant seeds, vegetables, and fruits, and how to harvest.
 * There is a narration that Adam Alayhissalam was the first to build the first place of worship -- The Kaabah.
@@ -801,13 +803,15 @@ Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted t
 ## Creation of Hawwah (Eve)
 
 </summary>
+
 Adam’s spouse, although commonly referred to as Eve or Hawa, is not mentioned by name in the Quran despite being referred to in many places. The details regarding how Eve was created are not mentioned in the Quran. However, it is made evident that Eve was created from Adam.
 
 While the creation of Eve is not described in detail, the Qur'an does make it clear that a "mate" was created with Adam, from the same nature and soul. 
 
-    It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her in love (7:189). 
+    It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her in love
+    Quran 7:189 
 
-She is not mentioned by name in the Qur'an, but in Islamic tradition she is known as "Hawwa" (Eve).
+She is not mentioned by name in the Quran, but in Islamic tradition she is known as "Hawwa" (Eve).
 
 From these two individuals, generations of human beings have inhabited the earth. 
 
@@ -819,13 +823,13 @@ From these two individuals, generations of human beings have inhabited the earth
 
 The hadith or traditions of Prophet Muhammad ﷺ   further reveal that Eve was created from Adam’s rib which was taken while he was asleep. The narrations that describe this story of the rib is often used to emphasize being gentle and kind to women. 
 
-"O Muslims! I advise you to be gentle with women, for they are created from a rib, and the most crooked portion of the rib is its upper part. If you try to straighten it, it will break, and if you leave it, it will remain crooked; so I urge you to take care of the women." [Sahih al-Bukhari 5185; Sahih Muslim 8:3468]
+> "O Muslims! I advise you to be gentle with women, for they are created from a rib, and the most crooked portion of the rib is its upper part. If you try to straighten it, it will break, and if you leave it, it will remain crooked; so I urge you to take care of the women." [Sahih al-Bukhari 5185; Sahih Muslim 8:3468]
 
 ### Adam and Eve are placed in Paradise
 After Eve was created, the couple was given a place in heaven.
 
     And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree 🌳, lest you be among the wrongdoers." 
-    Quran [2:35]
+    Quran 2:35
 
 Eve was created to accompany Adam as his companion and life partner, and they were instructed to live together in tranquility. In heaven, Adam and Eve were free to eat and enjoy everything with the exception of one tree 🌳. 
 
@@ -842,7 +846,7 @@ The Quran does not describe what kind of tree it was, however, this prohibition 
 In the Quran, the forbidden tree served as a test for Adam and Eve. Furthermore, God warned Adam and Eve that the devil was an enemy and that they should be on their guard. 
 
     So We said, "O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer." 
-    Quran [20:117]
+    Quran 20:117
 
 Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispering into their hearts. Claiming to be a sincere advisor, he planted in their minds ideas that would make the forbidden tree appealing. Thoughts of the tree preoccupied both Adam and Eve. Forgetting the warning, they gave in and erred.
 
@@ -851,7 +855,7 @@ Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispe
     And he swore [by Allah ] to them, "Indeed, I am to you from among the sincere advisors." 
       
     So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?" 
-    Quran [7:20-22]
+    Quran 7:20-22
 
 By forgetting God’s command, Adam and Eve bore equal responsibility for their error. This too was a test for Satan, who in fact, furthered his disobedience by exploiting mankind through their desires. 
 
@@ -866,12 +870,12 @@ Through this test, God prepared Adam for his role on earth, as a caretaker and a
 After eating from the tree, Adam and Eve became ashamed and deeply regretted their actions. They acknowledged their errors and sought mercy, repenting sincerely.
 
     "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers."
-    Quran [7:23]
+    Quran 7:23
 
 The story of Adam and Eve in the Quran teaches the virtue of repentance and supplication. Adam and Eve recognized their errors and prayed for forgiveness. This, in turn, earned them Allah’s forgiveness and guidance.
 
     "Then his Lord chose him and turned to him in forgiveness and guided [him]." 
-    Quran [20:122]
+    Quran 20:122
 
 </details><details><summary>
 
@@ -882,18 +886,18 @@ The story of Adam and Eve in the Quran teaches the virtue of repentance and supp
 In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. 
 
     "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful." 
-    Quran [2:37]
+    Quran 2:37
 
 Despite being forgiven, Adam and Eve were no longer granted the comforts of paradise and would be sent to Earth. It is important to note that since Allah had mentioned Adam’s mission on Earth long before his test, Adam and Eve’s appointment to earth is not viewed as punishment, instead, it aligns with God’s Plan. The Quran describes the Earth to Adam and Eve as a place in which to reside and enjoy for a period of time, until the day they die and are resurrected (Quran 7:24-25). 
 
     We said, "Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance – there will be no fear concerning them, nor will they grieve. And those who disbelieve and deny Our signs – those will be companions of the Fire; they will abide therein eternally." 
-    Quran [2:38-39]
+    Quran 2:38-39
 
 Furthermore, Adam is informed by God that he and his progeny will be sent guidance during their time on Earth. In contrast, Satan, unlike Adam, had not begged for forgiveness and had instead requested respite: a chance to mislead and reveal the inadequacy of mankind. God facilitated this request, but warned that Satan would be powerless over the believers. 
 
 Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Earth, Adam ﷺ   assumes the role as the first Prophet and the father of mankind. 
 
-There is a difference of opinions on the question of where Adam and Eve landed on earth. The majority of tabi'un and sahabi said that Adam came from the Heavens to the land oh Hind (modern day India). Other opinions include taht he landed in Mecca or in Sri-Lanka. When it comes to Hawwah, some say that she came with Adam to Mecca, some say to India with Adam, and most say that she came in Jedda. The place where they came down is not mentioned in the Quran and ahadith, thus these are only presumptions.
+There is a difference of opinions on the question of where Adam and Eve landed on earth. The majority of tabi'un and sahabi said that Adam came from the Heavens to the land oh Hind (modern day India). Other opinions include that he landed in Mecca or in Sri-Lanka. When it comes to Hawwah, some say that she came with Adam to Mecca, some say to India with Adam, and most say that she came in Jedda. The place where they came down is not mentioned in the Quran and ahadith, thus these are only presumptions.
 
 </details>
 
@@ -905,6 +909,7 @@ There is a difference of opinions on the question of where Adam and Eve landed o
 ## Children of Adam and Eve
 
 </summary>
+
 Adam and Eve were descended from Heaven and they began their life on earth. Allah had prepared them in many ways. Allah gave them the experience of struggling against whisperings and tricks of shaytan. He taugh Adam the names of certain things and instructed in its properties and usefulness. Adam took his position as a caretaker of the earth.
 
 Adam (as) was the first prophet of God, who was responsible for teaching his wife and children how to worship Allah (swt) and seek his forgiveness. Adam established the laws of God and set about trying to support his family and learning to subdue and care for the earth. His task was to raise children, cultivate, construct and populate. He was to raise children who would live according to God's instructions and care for and improve the earth.
@@ -919,22 +924,42 @@ Quran says that the first place of worship was built in the current location of 
     "The first sanctuary ever constructed for mankind was that at Bakkah (the old title of Makkah), a fortunate location and advice for the worlds".
     Quran
 
+### Islam teaches to eliminate racism
+
+> Abu Huraira reported: The Prophet, peace and blessings be upon him, said, “Verily, Allah has removed from you the pride of the time of ignorance with its boasting of ancestors. Verily, one is only a righteous believer or a miserable sinner. All of the people are the children of Adam, and Adam was created from dust.”
+> 
+> Source: Sunan al-Tirmidhī 3955
+> Grade: Sahih (authentic) according to Al-Albani
+
 </details><details><summary>
 
 ## Habyl and Qabyl -- Abel and Cain: First Murder
 
 </summary>
 
-Habyl and Qabyl (Abel and Cain). Cain tilted the land while Abel raised cattle. 
+Habyl and Qabyl (Abel and Cain) we children of Adam and Eve. Cain tilted the land while Abel raised cattle. 
 
 Both the brothers were asked to offer up individual sacrifices to God. God accepted Abel's sacrifice because of Abel's righteousness and Cain, out of jealousy, threw a rock at Abel, leading to the first murder in human history: the murder of Abel by Cain. 27th verse of chapter 5 (sūrat al-Māidah). 
 
-Shaytan taught him how to kill. Cain regretted that he killed his brother and became of the regretful.
+    And (O Muhammad) recite to them (the Jews) the story of the two sons of Adam (Habil and Qabil) in truth; 
+
+    when each offered a sacrifice (to Allah), it was accepted from the one but not from the other. 
+
+    The latter said to the former: "I will surely kill you." The former said: "Verily, Allah accepts only from those who are Al-Muttaqun (the pious)." "If you do stretch your hand against me to kill me, I shall never stretch my hand against you to kill you: for I fear Allah, the Lord of the Alamin (mankind, jinn, and all that exists)."
+
+    "Verily, I intend to let you draw my sin on yourself as well as yours, then you will be one of the dwellers of the Fire; and that is the recompense of the Zalimin (polytheists and wrong-doers);" So the Nafs (self) of the other (latter one) encouraged him and made fair-seeming to him the murder of his brother; he murdered him and became one of the losers. 
+    Quran, surah Al-Maidah, 5:27-30
+
+Shaytan taught Cain how to kill. Cain regretted that he killed his brother and became of the regretful.
+
+There are different narrations on the reason of the sacrifice. Here is one of the hadith:
+
+> Narrated As-Sadiy on the authority of Abu Malik and Abu Salih after Ibn Abbas and on the authority of Ibn Masud and other Companions that Adam (Peace be upon him) used to get the male brought by one birth married to the female brought by the other. Hence, it was supposed that Abel would get married to Cain's sister who was better and more beautiful than anyone else. At the same time, Cain wanted to keep her for himself. Adam (Peace be upon him) ordered him to allow' Abel to marry her, but he totally refused. Then, Adam (Peace be upon him) ordered both (Abel and Cain) to offer a sacrifice to Allah Almighty. Meanwhile, Adam set forth towards Mecca to perform Pilgrimage. Just before leaving, Adam tried to entrust (the affairs of) his children to the heavens, the earth and finally to the mountains, but all declined to shoulder the (heavy) trust. Thereupon, Cain accepted the trust and after Adam went away they (Abel and Cain) offered their sacrifices to Allah. Abel offered a fat she-goat, while Cain offered a bundle of bad plants. Later, a fire came down from heaven and consumed the sacrifice offered by Abel and left untouched that of Cain. Cain became livid with rage and said to his brother: I will kill you so as not to marry my sister, Abel said: "Verily, Allah accepts only from those who are Al-Muttaqun (the pious)".
 
 Cain did not know what to do with his brother's corpse. Allah sent two ravens that began fighting, causing the death of one. The victorious bird used its beak and claws to dig a hole in the ground, wolled the victim bird into it and covered it with sand.
 
     Then Allah sent a crow searching in the ground to show him how to hide the disgrace of his brother. He said: "O woe to me! Have I failed to be like this crow and hide the body of my brother? And he became of the regretful."
-    Quran (5:31)
+    Quran 5:31
 
 This was the first murder and burial on earth by a man.
 
@@ -980,9 +1005,11 @@ Islamic literature narrates that Idris was made prophet at around 40, which para
 
 Exegesis narrates that Idris was among "the first men to use the pen as well as being one of the first men to observe the movement of the stars and set out scientific weights and measures." These attributes remain consistent with the identification of Enoch with Idris, as these attributes make it clear that Idris would have most probably lived during the Generations of Adam, the same era during which Enoch lived. Ibn Arabi described Idris as the "prophet of the philosophers" and a number of works were attributed to him. Some scholars wrote commentaries on these supposed works, all while Idris was also credited with several inventions, including the art of making garments.
 
-The commentator Ibn Ishaq narrated that he was the first man to write with a pen and that he was born when Adam still had 308 years of his life to live. In his commentary on the Quranic verses 19:56-57, the commentator Ibn Kathir narrated "During the Night Journey, the Prophet passed by him in fourth heaven. In a hadith, Ibn Abbas asked Ka’b what was meant by the part of the verse which says, "And We raised him to a high station." Ka’b explained: Allah revealed to Idris: ‘I would raise for you every day the same amount of the deeds of all Adam’s children’ – perhaps meaning of his time only. So Idris wanted to increase his deeds and devotion. 
+The commentator Ibn Ishaq narrated that he was the first man to write with a pen and that he was born when Adam still had 308 years of his life to live. In his commentary on the Quranic verses 19:56-57, the commentator Ibn Kathir narrated:
 
-A friend of his from the angels visited and Idris said to him: ‘Allah has revealed to me such and such, so could you please speak to the angel of death, so I could increase my deeds.’ The angel carried him on his wings and went up into the heavens. When they reached the fourth heaven, they met the angel of death who was descending down towards earth. The angel spoke to him about what Idris had spoken to him before. The angel of death said: ‘But where is Idris?’ He replied, ‘He is upon my back.’ The angel of death said: ‘How astonishing! I was sent and told to seize his soul in the fourth heaven. I kept thinking how I could seize it in the fourth heaven when he was on the earth?’ Then he took his soul out of his body, and that is what is meant by the verse: ‘And We raised him to a high station.’
+> "During the Night Journey, the Prophet passed by him in fourth heaven. In a hadith, Ibn Abbas asked Ka’b what was meant by the part of the verse which says, "And We raised him to a high station." Ka’b explained: Allah revealed to Idris: "I would raise for you every day the same amount of the deeds of all Adam’s children" – perhaps meaning of his time only. So Idris wanted to increase his deeds and devotion. 
+>
+> A friend of his from the angels visited and Idris said to him: "Allah has revealed to me such and such, so could you please speak to the angel of death, so I could increase my deeds." The angel carried him on his wings and went up into the heavens. When they reached the fourth heaven, they met the angel of death who was descending down towards earth. The angel spoke to him about what Idris had spoken to him before. The angel of death said: "But where is Idris?" He replied, "He is upon my back." The angel of death said: "How astonishing! I was sent and told to seize his soul in the fourth heaven. I kept thinking how I could seize it in the fourth heaven when he was on the earth?" Then he took his soul out of his body, and that is what is meant by the verse: "And We raised him to a high station."
 
 Early accounts of Idris' life attributed "thirty portions of revealed scripture" to him. Therefore, Idris was understood by many early commentators to be both a prophet as well as a messenger. Several modern commentators have linked this sentiment with Biblical apocrypha such as the Book of Enoch and the Second Book of Enoch.
 
@@ -1009,9 +1036,9 @@ People agreed to this seemingly noble idea. They placed the statues where those 
 
 However, years later, after that generation died, people slowly forgot the purpose of those statues. Shaitaan now came to their descendants and told them that their predecessors used to worship these statues for rain and other blessings. Due to a lack of knowledge, they were fooled by Shaitaan into worshiping the idols, which then their descendants followed as well.
 
-Thus, Shaitaan introduced idol worship among the people of Nuh ﷺ  . So strong was their belief in the idols that later when Prophet Nuhﷺ    asked them to worship Allah alone, they would not listen.
+Thus, Shaitaan introduced idol worship among the people of Nuh ﷺ  . So strong was their belief in the idols that later when Prophet Nuh ﷺ    asked them to worship Allah alone, they would not listen.
 
-    "They put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance."
+    They put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance.
     Quran 71:7
 
 ### How Shaitan Plans his Tricks
@@ -1023,7 +1050,7 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 </details>
 
 # 3. Nuh (Noah) and Great Flood ⛴🕊⛰
-*************************************
+****************************************
 
 <details><summary>
 
@@ -1031,10 +1058,14 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 
 </summary>
 
-> **Nuh**ﷺ    is the second most narrated prophet in the Quran. he was the first prophet who was sent to people who were committing shirk. 
+> **Nuh** ﷺ    is the second most narrated prophet in the Quran. he was the first prophet who was sent to people who were committing shirk. 
+>
 > 950 years he has been giving da'wah to his people, only about 10 to 80 people believed him. And after all these years he lost hope and made dua to Allah not to leave disbelievers on earth.
-> Allah told Nuh to build a huge arc, take onboard the believers and pairs of animals. Then the great flood began, water was coming both from rains and from the ground. All disbelievers drowned. Only believers on the Arc survived.
+>
+> Allah told Nuh to build a giant arc, take onboard the believers and pairs of animals. Then the great flood began, water was coming both from rains and from the ground. All disbelievers drowned. Only believers on the Arc survived.
+>
 > After the Flood, Nuh with the believers started life on earth anew.
+>
 > Many ancient civilizations have stories of the Great Flood. There are many different variations but the main theme is the same: God sent the Flood to punish evil-doers, and those who were left alive started the human life on earth once again.
 
 </details><details><summary>
@@ -1269,7 +1300,7 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 
 </details>
 
-# 4. Ibrahim (Abraham) (~ 2100-1900 BCE)
+# 4. Ibrahim (Abraham) (~2100-1900 BCE)
 *******************************************
 
 ### 4.1. Story of Ibrahim
@@ -2071,7 +2102,7 @@ Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Alt
 
 </details>
 
-# 5. Musa and the Exodus (~ 1500 BCE)
+# 5. Musa and the Exodus (~1500 BCE)
 *******************************************
 
 <details><summary>
@@ -2731,12 +2762,13 @@ Muslims further maintain that he remained faithful to the one and only God throu
 
     And (We made subservient) to Sulayman, the wind blowing violent, pursuing its course by his command to the land which We had blessed and we are knower of all things: And of the rebellious people there were those who dived for him and did other work besides that; and we kept guard over them;
     
-    And Sulayman was Dawud’s heir, and he said, O men! we have been tangent the language of birds, and we have been given all things; most surely this is manifest grace. 
+    And Sulayman was Dawud’s heir, and he said, "O men! we have been tangent the language of birds, and we have been given all things; most surely this is manifest grace". 
     Quran 38:34-35
 
 Unlike the Talmudic tradition, Solomon was unaware and never participated in idolatry. And the Quran rejects that Solomon was a magician: 
 
-    "(...) Solomon did not disbelieve, but the devils disbelieved, teaching men magic and (...)". (2:102)
+    "Solomon did not disbelieve, but the devils disbelieved, teaching men magic and". 
+    Quran, Al-Baqara 2:102
 
 ### Judgment on the field
 
@@ -2857,7 +2889,7 @@ The Quran relates that Solomon died while he was leaning on his staff. Then a cr
     Allah the Exalted revealed: And We caused a fount of (molten) brass to flow for him, and there were jinns that worked in front of him by the Leave of his Lord, and whosoever of them turned aside from Our Command, We shall cause him to taste of the torment of the blazing Fire. They worked for him what he desired, (making) high rooms, images, basins as large as reservoirs, and (making) cauldrons fixed (in their places). 'Work you, 0 family of David, with thanks!" But few of My slaves are grateful.
 
     Then, when We decreed (Solomon's) death, nothing showed them his death except a little worm of the earth, which kept (slowly) gnawing away at his staff: so when he fell down, the Jinn saw plainly that if they had known the unseen, they would not have tarried in the humiliating Penalty (of their Task).
-    Qurʾan, Surah 34 (Sabaʾ), Ayah 12-14
+    Quran, Surah 34 (Sabaʾ), Ayah 12-14
 
 As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them.
 
