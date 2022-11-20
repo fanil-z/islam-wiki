@@ -8088,7 +8088,7 @@ What happens during and after death?
 
 </details><details><summary>
 
-### What is a soul?
+## What is a soul?
 
 </summary>
 
@@ -8097,18 +8097,18 @@ What happens during and after death?
 
 This following hadith is about the incident when the Jews asked Prophet Muhammad about Ruh (Soul) and the Prophet ﷺ   replied after getting the divine inspiration.
 
-#### Entering of the soul in the human body
+### Entering of the soul in the human body
 
 > “The Messenger of Allah ﷺ  , who is the most truthful (of human beings) and his being truthful (is a fact) told us: ‘The constituents of one of you is gathered in his mother’s womb for forty days, then it becomes a clot of blood within another period of forty days. Then it becomes a lump of flesh, and forty days later, Allah sends His angel to it to breathe into it the soul. The angel comes with instructions concerning four things, so the angel writes down his livelihood, his death, his deeds and whether he will doomed or blessed.” 
 > (Reported by Muslim, 1528).
 
-#### The soul during death 
+### The soul during death 
 
 According to hadith, when a person dies, the soul goes from the bottom of the body to the top before it leaves the body and the eyes roll-up as the soul leaves the body. According to hadith narrated by Umm Salama, she said that 
 
 > The Messenger of Allah ﷺ   entered upon Abu Salamah (after he had died) and his eyes were open, so he closed them then said, ‘When the soul is taken, the eyes follow it.’ (Reported by Sahih Muslim, 1528).
 
-#### The soul during sleep
+### The soul during sleep
 
 The soul leaves the body during our sleep.
 
@@ -8117,7 +8117,7 @@ The soul leaves the body during our sleep.
 
 </details><details><summary>
 
-### Generosity and Forgetfulness before Death
+## Generosity and Forgetfulness before Death
 
 </summary>
 
@@ -8136,7 +8136,7 @@ But for the hypocrites and the unbelievers the story is completely different.
 
 </details><details><summary>
 
-### The Unseen world becomes visible moments before death
+## The Unseen world becomes visible moments before death
 
 </summary>
 
@@ -8155,7 +8155,7 @@ Few moments before death, the person would start to see what is usually unseen f
 
 </details><details><summary>
 
-### Angel of Death departs the soul from the body
+## Angel of Death departs the soul from the body
 
 </summary>
 
@@ -8203,7 +8203,7 @@ The verse above is a confirmation that on the moment of death, the human being w
     To your Lord, that Day, will be the procession.
     Quran, surah Al-Qiyamah (The Resurrection) 75:26-30
 
-#### Taking the soul of a believer
+### Taking the soul of a believer
 
 > Al-Bara’ ibn ‘Azib reported: The Prophet ﷺ   said, "Verily, when the believer is ready to depart the world and is facing the Hereafter, angels from heaven descend with bright faces, as if their faces were the sun, with them are the shrouds and perfumes of Paradise, until they sit from him a distance as far as the eye can see. Then, the angel of death, upon him be peace, comes until he sits by his head and he says: O pure soul, come out to the forgiveness of Allah and His pleasure! He takes it out like a drop from a water-skin and holds it, never to leave his hand for the blink of an eye until he places it in that shroud and perfume. The scent coming from it is more pleasant than any musk you would find on the face of the earth. He ascends and passes by no gathering of angels but that they say: What a pure spirit! They say he is this person, son of this person, calling him by the best names by which he was known in the world, until he stops at the lowest heaven and seeks entry and it will be opened for him.
 >
@@ -8213,7 +8213,7 @@ The verse above is a confirmation that on the moment of death, the human being w
 >
 > A handsome man, with fine clothes and wonderful fragrance, will come and say: Glad tidings of what pleases you, for this was your Day you were promised! He will say: Who are you with such a handsome face? He will say: I am your righteous deeds! He will say: O Lord, begin the Hour that I may return to my family and property!"
 
-#### Taking the soul of an unbeliever
+### Taking the soul of an unbeliever
 
 > The Prophet ﷺ   continued, "Verily, when the unbeliever is ready to depart the world and is facing the Hereafter, angels descend from heaven with darkened faces and with them sack-cloth. They will sit away from his as far as the eye can see. Then, the angel of death approaches until he sits by his head and he says: O filthy soul, come out to the displeasure of Allah and His wrath! He will be separated from his body like the tearing of skewers from wet wool and he holds it in his hand, never to leave it for the blink of an eye, until he places it in this sack-cloth. The scent coming from it is like the most foul corpse found upon the face of the earth. They will ascend with him and not pass by a gathering of angels but that they say: What a filthy spirit! They say he is this person, son of this person, calling him by the ugliest names by which he was known in the world, until he stops at the lowest heaven. They will request it to be opened for him but it will not open." Then, the Prophet recited the verse, `"The gates of heaven will never open for them, nor will they enter Paradise, until the camel goes through the eye of the needle," (7:40)`. The Prophet said, "Allah Almighty will say: Write his record in the wicked register in the lowest earth. His spirit will be thrown down," then the Prophet recited the verse, `"It is as though he had fallen from the sky and was snatched by the birds 🐦🐦🐦 or the wind carried him down into a remote place," (22:31)`. The Prophet said, "His spirit will return to his body and two angels will come to sit by him, saying to him: Who is your Lord? He will say: Uh, uh, I do not know! They will say: What is your religion? He will say: Uh, uh, I do not know! They will say: Who is this man sent to you? He will say: Uh, uh, I do not know! A heavenly announcement will be made: He has lied! Spread carpets for him in Hellfire and open a gate for him to Hellfire! Its heat and its flames will approach him, and he will be squeezed in his grave until his ribs press together. An ugly man, with hideous clothing and a foul stench, will approach him and say: Glad tidings of what despairs you, for this is your Day you were promised! He will say: Who are with your evil face? He will say: I am your wicked deeds! He will say: O Lord, do not begin the Hour!"
 >
