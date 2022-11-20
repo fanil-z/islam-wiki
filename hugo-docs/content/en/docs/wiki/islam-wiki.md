@@ -21,6 +21,21 @@ When Prophet Muhammad ﷺ   was asked how this universe started to exist, he sai
 
 The Prophet ﷺ   answered this question by first stating that Allāh's Existence does not have a beginning, i.e., He is Eternal. There is no one attributed with eternity other than Him. In other words, nothing existed eternally except Allāh, and Allāh created everything, i.e., He brought all the creation from non-existence into existence.
 
+One of the most beautiful passages in the Quran reads:
+
+    Allah is the Light (noor) of the heavens and the earth.
+    The Parable of His Light (noor) is as if there were a Niche
+    and within it a Lamp (misbah): the Lamp (misbah) enclosed in Glass:
+    the glass as it were a brilliant star:
+    Lit from a blessed Tree, an Olive,
+    neither of the east nor of the west,
+    whose oil is well-nigh luminous,
+    though fire scarce touched it:
+    Light (noor) upon Light (noor)!
+    God does guide whom He will to His Light (noor):
+    God does set forth Parables for men: and God does know all things.
+    Quran, surah An-Noor (The Light) 24:35
+
 </details><details><summary>
 
 ## First Creations: Water, Throne, The Pen and The Tablet
@@ -96,14 +111,14 @@ Allah knows best. This means that Allāh created water before creating light, da
     Quran 65:12
 
     Have not "those who disbelieve" known that heavens and earth were of one piece, We parted them and, We made every living thing of water, will they not then believe?"
-    Qur'an 21:30
+    Quran 21:30
 
 After Allāh created the Earth, He created the seven heavens. Each heaven is a solid body that is held up without any pillars. The heavens are separated. From one heaven to the other is a distance of five hundred (500) years, and every heaven has a gate.
 
 The first heaven is so far away from the Earth. Some people are unable to encompass this to the extent that they believe that the space which contains the stars and planets is the entire universe. They also falsely believe that it extends without an end. There is no point to their claims, because Allāh told us in the Qur’an and the Prophet also informed us in his Hadith what is contradictory to their claims. Paradise exists above the seventh heaven.
 
     The heavens, We have built with power, And We are expanding it.
-    Qur'an 51:47
+    Quran 51:47
 
 </details><details><summary>
 
@@ -189,7 +204,7 @@ Mentioned in Quran:
   * **Nāzi'āt**: they are responsible for taking out the souls of disbelievers painfully.
   * **Nāshiṭāt**: they are responsible for taking out the souls of believers peacefully.
 * Hafaza, (The Guardian angel):
-  * **Kiraman Katibin** (Honourable Recorders), two of whom are charged to every human being; one writes down good deeds and another one writes down evil deeds. They are both described as 'Raqeebun 'Ateed' in the Qur'an.
+  * **Kiraman Katibin** (Honourable Recorders), two of whom are charged to every human being; one writes down good deeds and another one writes down evil deeds. They are both described as 'Raqeebun 'Ateed' in the Quran.
   * **Mu'aqqibat** (The Protectors) who keep people from death until its decreed time and who bring down blessings.
 * Angels of Hell:
   * <span style="color: orange">Maalik</span>, Chief of the angels who govern Jahannam (Hell).
@@ -316,7 +331,7 @@ Depth: "If a rock is dropped into Jahannam, it will remain plummeting for 70 yea
 
 Atmosphere: "Jahannam was heated for a thousand years and its fire turned red; It was then heated for another thousand years and it became white; it was again heated for another thousand years and it turned black. At present, Jahannam is pitch black and dark." [Tirmidhi] "The fire in which one will burn is the 70th part of the Fire of Jahannam." [Muslim]
 
-7 Layers: Ali ibn Abi Talib (ra) has said that the gates of Jahannam are one upon each other. This denotes that Jahannam has layers. "The Hypocrites will be in the lowest depths of the Fire." [Qur'an 4:145]. 
+7 Layers: Ali ibn Abi Talib (ra) has said that the gates of Jahannam are one upon each other. This denotes that Jahannam has layers. "The Hypocrites will be in the lowest depths of the Fire." [Quran 4:145]. 
 
 Hutama: According to some narrations, the deepest level of the Hells. It is for the Hypocrites (Munafiqin).
 
@@ -402,32 +417,39 @@ According to hadith, there are eight doors of Jannah. Their names are as followi
     It is Allah Who has made for you the earth as a resting place, and the sky as a canopy, and has given you shape - and made your shapes beautiful -, and has provided for you Sustenance
     Quran, surah Gafir 40:64
 
-The Qur'an says that the heavens and the earth were joined together as one "unit of creation", after which they were "cloven asunder".
+The Quran says that the heavens and the earth were joined together as one "unit of creation", after which they were "cloven asunder".
 
     The heavens and the earth were joined together as one unit, before We clove them asunder 
-    Quran (21:30)
+    Quran, surah Al-Nabiyaa (The Prophets) 21:30
 
 Following this big explosion 💥, the heavens and the earth came into their present shape after going through a phase when they were smoke-like.
 
     Then He turned to the heaven while it was smoke. He said to the heaven and the earth: "Come (into being), willingly or unwillingly." They said: "We come willingly."
-    Quran 41:11 (Surah Fussilat)
+    Quran, surah Fussilat (Explained in Detail) 41:11
 
-The Qur'an states that "Allah created the heavens and the earth, and all that is between them, in six youm(يوم))" (7:54). While on the surface this might seem similar to the account related in the Bible, there are some important distinctions.
+The Quran states that "Allah created the heavens and the earth, and all that is between them, in six youm(يوم))" (7:54). While on the surface this might seem similar to the account related in the Bible, there are some important distinctions.
 
-The verses that mention "six days" use the Arabic word "youm" (day). This word appears several other times in the Qur'an, each denoting a different measurement of time. In one case, the measure of a day is equated with 50,000 years (70:4), whereas another verse states that `a day in the sight of your Lord is like 1,000 years of your reckoning` (22:47). The word "youm" is thus understood, within the Qur'an, to be a long period of time -- an era or eon. Therefore, Muslims interpret the description of a "six day" creation as six distinct periods or eons. The length of these periods is not precisely defined, nor are the specific developments that took place during each period.
+The verses that mention "six days" use the Arabic word "youm" (day). This word appears several other times in the Quran, each denoting a different measurement of time. In one case, the measure of a day is equated with 50,000 years (70:4), whereas another verse states that `a day in the sight of your Lord is like 1,000 years of your reckoning` (22:47). The word "youm" is thus understood, within the Quran, to be a long period of time -- an era or eon. Therefore, Muslims interpret the description of a "six day" creation as six distinct periods or eons. The length of these periods is not precisely defined, nor are the specific developments that took place during each period.
 
 Thus the elements and what was to become the planets and stars began to cool, come together, and form into shape, following the natural laws that Allah established in the universe.
 
-The Qur'an further states that Allah created the sun, the moon, and the planets, each with their own individual courses or orbits. 
+The Quran further states that Allah created the sun, the moon, and the planets, each with their own individual courses or orbits. 
 
-    "It is He Who created the night and the day, and the sun and the moon; all (the celestial bodies) swim along, each in its rounded course" (21:33).
+    "See ye not how Allah has created the seven heavens one above another,
+    and made the moon a light (noor) in their midst,
+    and made the sun as a lamp (siraaj)?"
+    Quran, surah Nooh (Noah) 71:15-16
+
+    "It is He Who created the night and the day, and the sun and the moon; all (the celestial bodies) swim along, each in its rounded course" 
+    Quran, surah Al-Nabiyaa (The Prophets) 21:33
     
-    "The heavens, We have built them with power. And verily, We are expanding it" (51:47)
+    "The heavens, We have built them with power. And verily, We are expanding it"
+    Quran, surah Adh-Dhaariyat (The Winnowing Winds) 51:47
 
 There has been some historical debate among Muslim scholars about the precise meaning of this verse, since knowledge of the universe's expansion was only recently discovered. In the beginning of 20th century, the consensus among scientists was that the universe is static. So, the science was contradicting the Quran until Einstein discovered the theory of relativity.
 
     "(Such is) the artistry of Allah, Who disposes of all things in perfect order" 
-    Quran, surah Al-Naml 27:88
+    Quran, surah Al-Naml (The Ant) 27:88
 
 </details><details><summary>
 
@@ -452,7 +474,7 @@ Einstein changed all that. Einstein's ‘field equations’ suggested that the u
 What few people know however is that the Holy Quran described the Big Bang perfectly, 1400 years earlier.
 
     "Do not the disbelievers see that the heavens and the earth were a closed-up mass (ratqan), then We opened them out? And We made from water every living thing. Will they not then believe?" 
-    Quran, 21:31
+    Quran, surah Al-Nabiyaa (The Prophets) 21:31
 
 The arabic word ratqan means a closed-up mass. It also means darkness. A dark, closed-up mass is a perfect description of what we know the universe looked like in its earliest moments. The heavens and the Earth were indeed opened out from this mass to produce the universe we see today.
 
@@ -465,7 +487,7 @@ Einstein’s equations tell us that the universe is expanding. This discovery su
 The Holy Quran says:
 
     "And We have built the heaven with might and We continue to expand it indeed."
-    Quran 51:48
+    Quran, surah Adh-Dhaariyat (The Winnowing Winds) 51:48
 
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
@@ -479,13 +501,14 @@ The Holy Quran says:
 </summary>
 
     Allah ﷻ   created the Heavens and the Earth and all kinds of beasts. 
-    The Quran, surah Lukman
+    The Quran, surah Luqman (Luqman)
 
-After completing the Creation, the Qur'an describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work. A distinct point is made to counter the Biblical idea of a day of rest: "We created the heavens and the earth and all that is between them in six youm, nor did any sense of weariness touch Us" (50:38).
+After completing the Creation, the Quran describes that Allah "settled Himself upon the Throne" (57:4) to oversee His work. A distinct point is made to counter the Biblical idea of a day of rest: "We created the heavens and the earth and all that is between them in six youm, nor did any sense of weariness touch Us" (50:38).
 
 Allah ﷻ  is never "done" with His work, because the process of creation is ongoing. Each new child who is born, every seed that sprouts into a sapling, every new species that appears on earth, is part of the ongoing process of Allah's creation. 
 
-    "He it is Who created the heavens and the earth in six youm, then established Himself on the Throne. He knows what enters within the heart of the earth, and what comes forth out of it, what comes down from heaven, and what mounts up to it. And He is with you wherever you may be. And Allah sees well all that you do" (57:4).
+    "He it is Who created the heavens and the earth in six youm, then established Himself on the Throne. He knows what enters within the heart of the earth, and what comes forth out of it, what comes down from heaven, and what mounts up to it. And He is with you wherever you may be. And Allah sees well all that you do" 
+    Quran, surah Al-Hadid (The Iron) 57:4
 
 There are many types of creatures living on earth, including plants, animals, insects, all kinds of microorganisms, human. There are also creature that are not visible for a human eye: the jinn.
 
@@ -515,7 +538,7 @@ Allah created jinns from smokeless fire 🔥, the edge of the flame. Jinns live 
 The lives of jinn are very similar to the humans, they eat, they drink, they marry, they have their children, and even they are instructed and guided the same way as humans. We can understand this statement by the following verse of Surah Al-An’am.
 
     "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?" They will say, "We bear witness against ourselves"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers. 
-    Quran [6:130]
+    Quran, surah Al-Anaam (The Cattle) 6:130
 
 This verse shows that messengers were not only sent down to guide the humans but they were sent down to guide both the humans and jinn.
 
@@ -525,21 +548,21 @@ The jinn live in the parallel world to the humans and since they live in the dif
 Al-Safaareeni mentioned a hadith which says: “The jinn produce offspring, just as the sons of Adam produce offspring, but they are greater in number.” Allah (swt) told us that the Satan has offspring. Allah says, rebuking those who take the Satan and his offspring as friends.
 
     "Will you then take him (iblees) and his offspring as protectors and helper rather than Me while they are enemies to you?"
-    Quran 18: 50
+    Quran, surah Al-Kahf (The Cave) 18:50
 
 Jinns are the only creatures besides human beings that have a free will and they will be judged according to their deeds. Jinns are capable of deciding things on their own and just as with us, can do things opposing God's commands.
 
 Jinn are mentioned approximately 29 times in the Quran.
 
     "And I did not create the jinn and mankind except to worship Me."
-    Quran, Surah Al-Dhariyat ayah 56
+    Quran, surah Al-Dhariyat ayah 56
 
 The above verse shows the same core purpose of life for both the humans and the jinn. Their purpose of life is not very different from the humans as they are ordered by Allah to do the same good deeds as humans do and they are supposed to obey and worship one and only God "Allah". Like in humans there are two broader categories, Muslims and Non-Muslims, similarly in jinn there are the same two main divisions (the Muslims and Non-Muslims).
 
 They have the power to choose between true and false, right and wrong as Allah said in sura al-Jinn verse 11: 
 
     And among us are the righteous, and among us are [others] not so; we were [of] divided ways.
-    Quran, Surah Al-Jinn 72:11
+    Quran, surah Al-Jinn 72:11
 
 ### The dwelling places, gathering and haunts of the jinn
 
@@ -584,14 +607,14 @@ Iblis was amongst the best of jinn. Some narrations say he worshipped Allah in a
 Allah said that He will create a new creation -- Adam -- and make him the khalifa on earth. Allah told angels and Iblis to prostrate before Adam. Iblis refused to prostrate because of his arrogance, he refused to follow God's command.
 
     And We have certainly created you, [O Mankind], and given you [human] form. Then We said to the angels, "Prostrate to Adam"; so they prostrated, except for Iblees. He was not of those who prostrated.
-    Quran, Chapter 7 sūrat l-aʿrāf (The Heights)
+    Quran, surah 7 Al-Araaf (The Heights)
 
 So Allah banished Iblis from heaven but Iblis asked for respite until humans are resurrected and he was granted respite. 
 
 Satan disobeyed God and made a vow that he will lead Adam and his descendands astray. 
 
     I will come from in front of them and I will come from behind them, from their right and their left; nor will you find that most of them are grateful." except for those of them who were righteous.
-    Quran
+    Quran, surah Al-Araaf (The Heights) 7:17
 
 Iblis has children. 
 
@@ -612,7 +635,7 @@ The above verse states that jinn have the power to see humans and to take posses
 The Messenger of Allah ﷺ   said: "Allah, may He be blessed and exalted, says: ‘I created all of My slaves as hunafa’ (sing. haneef, i.e., believing in monotheism), but the devils diverted them from their belief.’" End quote from Ta’weel Mukhtalaf al-Hadith.
 
     "Will you o human beings take him and his children as allies while he is your enemy."
-    Surah 18:50
+    Quran, surah Al-Kahf (The Cave) 18:50
 
 ### Suleyman (Solomon) Had Power Over Jinn
 
@@ -621,10 +644,10 @@ In the story of Solomon jinns appear as nature spirits comparable to Talmudic sh
 In addition, the Quran also mentions Ifrit in sura al-Naml (The Ant) verse 39.
 Ifrit who brought Suleiman smo's throne.
 
-The Qur'an relates that Solomon died while he was leaning on his staff. As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them, so they continued to work. They realized the truth only when Allah sent a creature to crawl out of the ground and gnaw at Solomon's staff until his body collapsed. The Qurʾan then comments that if they had known the unseen, they would not have stayed in the humiliating torment of being enslaved.
+The Quran relates that Solomon died while he was leaning on his staff. As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them, so they continued to work. They realized the truth only when Allah sent a creature to crawl out of the ground and gnaw at Solomon's staff until his body collapsed. The Qurʾan then comments that if they had known the unseen, they would not have stayed in the humiliating torment of being enslaved.
 
     "Then, when We decreed (Solomon's) death, nothing showed them his death except a little worm of the earth, which kept (slowly) gnawing away at his staff: so when he fell down, the jinn saw plainly that if they had known the unseen, they would not have tarried in the humiliating penalty (of their task)." 
-    Qur'an 34:14
+    Quran, surah Saba (Sheeba) 34:14
 
 ### Jinn and Magic
 
@@ -633,14 +656,14 @@ The Quran tells about Pagan Arabs, calling jinn for help, instead of God.
     And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Harut and Marut. But the two angels do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." 
 
     And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allah. And the people learn what harms them and does not benefit them. But the Children of Israel certainly knew that whoever purchased the magic would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
-    Quran, Surah Al-Baqara 2:102
+    Quran, Surah Al-Baqara (The Cow) 2:102
 
 ### Jinns flying to heavens
 
 Before the revelation of the Quran, the Jinn were allowed to enter heavens to listen to angels. This was the way they could tell what is decreed in some acpects of this dunya. After the first surah of the Quran came to the prophet Muhammad ﷺ  , some obstacle appeared between jinn and heavens so they could not tresspass it no more.
 
     "And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames."
-    Quran, Surah Al-Jinn 72:8
+    Quran, Surah Al-Jinn (The Jinn) 72:8
 
 ### Prophet Muhammad Talked to Jinn
 
@@ -649,7 +672,7 @@ In Islamic tradition, Muhammad was sent as a prophet to both human and jinn comm
 At the time of Prophet Mohammad ﷺ  , a group of jinn were turned into Muslims when they heard the recitation of Holy Quran. At that time, Allah revealed the following verses of Surah Jinn:
 
     Say, [O Muhammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Quran. It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.'" 
-    Quran 72:1-2
+    Quran, surah Al-Jinn (The Jinn) 72:1-2
 
 ### Classification of Jinn
 
@@ -662,9 +685,10 @@ According to Arabic linguists there are different categories of jinn:
 5. if he is worse than that, called marid or demon. 
 6. Ifrit, if he is worse than that and strong (al-Shibli, 1985). 
 
-In general, the pagan believe that jinn have hidden powers, giving some benefit and harassment. As Allah says in Sura Saba’ verse 41:
+In general, the pagan believe that jinn have hidden powers, giving some benefit and harassment. As Allah says in the Quran:
 
     They will say, "Exalted are You! You, [O Allah], are our benefactor not them. Rather, they used to worship the jinn; most of them were believers in them."
+    Quran, surah Saba (Sheeba) 34:41
 
 Similarly in Sura al-Jinn verse 6, Allah explains that most pagan seek help and protection to jinn. In view of them there is collaboration between man and poets of jinn which they can produce beautiful poetry to listen to (Shihab, 2002)
 
@@ -724,17 +748,17 @@ Shedim can shapeshift and assume a human form. The Talmud tells of Asmodeus assu
 According to Quranic creation narrative, Godﷻ   informed angels that He was going to create a khalifa (vicegerent) on earth. 
 
     And mention [O Muhammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?" Allah said, "Indeed, I know that which you do not know." 
-    Quran (2:30)
+    Quran, surah Al-Baqarah (The Cow) 2:30
 
-While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes🐒. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
+While Islam recognizes the general idea of the development of life in stages, over a period of time, human beings are considered as a special act of creation. Islam teaches that human beings are a unique life form that was created by Allah in a special way, with unique gifts and abilities unlike any other: a soul and conscience, knowledge, and free will. In short, Muslims do not believe that human beings randomly evolved from apes 🐒. The life of human beings began with the creation of two people, a male and a female named Adam and Hawwa (Eve).
 
 The Quran describes how Allah created Adam.
 
     "We created man from sounding clay, from mud moulded into shape..." 
-    Quran 15:26
+    Quran, surah Al-Hijr (The Rock) 15:26
     
     "He began the creation of man from clay, and made his progeny from a quintessence of fluid"
-    Quran 32:7-8 
+    Quran, surah As-Sajda (The Prostration) 32:7-8 
 
 According to a hadith, Allah created the body of Adam and it lay still for some time. During that time Iblis went through Adam's body and got thoughts that he will be able to control Adam because his body was hollow.
 
@@ -796,7 +820,7 @@ Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted t
     And then Iblis said, "Because you have put me in the wrong, I shall lie in wait for them on Your straight path; I will come from in front of them and I will come from behind them, from their right and their left; nor will you find that most of them are grateful." except for those of them who were righteous.
 
     God said, "Get out! You are disgraced and expelled! I swear I shall fill Hell with you and all who follow you."
-    Quran, Surah 7
+    Quran, Surah Al-Araaf (The Heights) 7
 
 </details><details><summary>
 
@@ -806,20 +830,20 @@ Iblis wanted to rule over his own kingdom and kept it to himself. Allah wanted t
 
 Adam’s spouse, although commonly referred to as Eve or Hawa, is not mentioned by name in the Quran despite being referred to in many places. The details regarding how Eve was created are not mentioned in the Quran. However, it is made evident that Eve was created from Adam.
 
-While the creation of Eve is not described in detail, the Qur'an does make it clear that a "mate" was created with Adam, from the same nature and soul. 
+While the creation of Eve is not described in detail, the Quran does make it clear that a "mate" was created with Adam, from the same nature and soul. 
 
     It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her in love
-    Quran 7:189 
+    Quran, surah Al-Araaf (The Heights) 7:189 
 
 She is not mentioned by name in the Quran, but in Islamic tradition she is known as "Hawwa" (Eve).
 
 From these two individuals, generations of human beings have inhabited the earth. 
 
     "Oh humankind! We created you from a single pair of a male and a female, and made you into nations and tribes, so that you may know each other (not that ye may despise each other). Verily the most honored among you in the sight of Allah is the who is the most righteous of you. And Allah has full knowledge and is well acquainted (with all things)" 
-    Quran [49:13]
+    Quran, surah Al-Hujuraat (The Inner Apartments) 49:13
     
     "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women…." 
-    Quran [4:1]
+    Quran, surah An-Nisas (The Woman) 4:1
 
 The hadith or traditions of Prophet Muhammad ﷺ   further reveal that Eve was created from Adam’s rib which was taken while he was asleep. The narrations that describe this story of the rib is often used to emphasize being gentle and kind to women. 
 
@@ -829,7 +853,7 @@ The hadith or traditions of Prophet Muhammad ﷺ   further reveal that Eve was c
 After Eve was created, the couple was given a place in heaven.
 
     And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree 🌳, lest you be among the wrongdoers." 
-    Quran 2:35
+    Quran, surah Al-Baqarah (The Cow) 2:35
 
 Eve was created to accompany Adam as his companion and life partner, and they were instructed to live together in tranquility. In heaven, Adam and Eve were free to eat and enjoy everything with the exception of one tree 🌳. 
 
@@ -846,7 +870,7 @@ The Quran does not describe what kind of tree it was, however, this prohibition 
 In the Quran, the forbidden tree served as a test for Adam and Eve. Furthermore, God warned Adam and Eve that the devil was an enemy and that they should be on their guard. 
 
     So We said, "O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer." 
-    Quran 20:117
+    Quran, surah Taa-Haa (Taa-Haa) 20:117
 
 Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispering into their hearts. Claiming to be a sincere advisor, he planted in their minds ideas that would make the forbidden tree appealing. Thoughts of the tree preoccupied both Adam and Eve. Forgetting the warning, they gave in and erred.
 
@@ -855,7 +879,7 @@ Satan, eagerly targeting the weakness of mankind, tempted Adam and Eve by whispe
     And he swore [by Allah ] to them, "Indeed, I am to you from among the sincere advisors." 
       
     So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?" 
-    Quran 7:20-22
+    Quran, surah Al-Araaf (The Heights) 7:20-22
 
 By forgetting God’s command, Adam and Eve bore equal responsibility for their error. This too was a test for Satan, who in fact, furthered his disobedience by exploiting mankind through their desires. 
 
@@ -870,12 +894,12 @@ Through this test, God prepared Adam for his role on earth, as a caretaker and a
 After eating from the tree, Adam and Eve became ashamed and deeply regretted their actions. They acknowledged their errors and sought mercy, repenting sincerely.
 
     "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers."
-    Quran 7:23
+    Quran, surah Al-Araaf (The Heights) 7:23
 
 The story of Adam and Eve in the Quran teaches the virtue of repentance and supplication. Adam and Eve recognized their errors and prayed for forgiveness. This, in turn, earned them Allah’s forgiveness and guidance.
 
     "Then his Lord chose him and turned to him in forgiveness and guided [him]." 
-    Quran 20:122
+    Quran, surah Taa-Haa (Taa-Haa) 20:122
 
 </details><details><summary>
 
@@ -886,12 +910,12 @@ The story of Adam and Eve in the Quran teaches the virtue of repentance and supp
 In the Quran, God consoles Adam. Since the sin of Adam stemmed from desire, and not from arrogance, his repentance was accepted. 
 
     "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful." 
-    Quran 2:37
+    Quran, surah Al-Baqara (The Cow) 2:37
 
 Despite being forgiven, Adam and Eve were no longer granted the comforts of paradise and would be sent to Earth. It is important to note that since Allah had mentioned Adam’s mission on Earth long before his test, Adam and Eve’s appointment to earth is not viewed as punishment, instead, it aligns with God’s Plan. The Quran describes the Earth to Adam and Eve as a place in which to reside and enjoy for a period of time, until the day they die and are resurrected (Quran 7:24-25). 
 
     We said, "Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance – there will be no fear concerning them, nor will they grieve. And those who disbelieve and deny Our signs – those will be companions of the Fire; they will abide therein eternally." 
-    Quran 2:38-39
+    Quran, surah Al-Baqara (The Cow) 2:38-39
 
 Furthermore, Adam is informed by God that he and his progeny will be sent guidance during their time on Earth. In contrast, Satan, unlike Adam, had not begged for forgiveness and had instead requested respite: a chance to mislead and reveal the inadequacy of mankind. God facilitated this request, but warned that Satan would be powerless over the believers. 
 
@@ -922,7 +946,7 @@ According to the Quran and Bible, lifespan of some prophets was much longer than
 Quran says that the first place of worship was built in the current location of Kaaba. There is no information in the Quran or authentic hadith on who built the first House of God. Some commentators of the Quran say that it was built by angels, some that Adam was directed by skies to travel until he arrived at the deserts of Hijaz and he was guided to build a santuary there.
 
     "The first sanctuary ever constructed for mankind was that at Bakkah (the old title of Makkah), a fortunate location and advice for the worlds".
-    Quran
+    Quran, surah Al-Imran (The Family of Imran, The House of Imran) 3:96
 
 ### Islam teaches to eliminate racism
 
@@ -948,7 +972,7 @@ Both the brothers were asked to offer up individual sacrifices to God. God accep
     The latter said to the former: "I will surely kill you." The former said: "Verily, Allah accepts only from those who are Al-Muttaqun (the pious)." "If you do stretch your hand against me to kill me, I shall never stretch my hand against you to kill you: for I fear Allah, the Lord of the Alamin (mankind, jinn, and all that exists)."
 
     "Verily, I intend to let you draw my sin on yourself as well as yours, then you will be one of the dwellers of the Fire; and that is the recompense of the Zalimin (polytheists and wrong-doers);" So the Nafs (self) of the other (latter one) encouraged him and made fair-seeming to him the murder of his brother; he murdered him and became one of the losers. 
-    Quran, surah Al-Maidah, 5:27-30
+    Quran, surah Al-Maidah (The Table) 5:27-30
 
 Shaytan taught Cain how to kill. Cain regretted that he killed his brother and became of the regretful.
 
@@ -959,7 +983,7 @@ There are different narrations on the reason of the sacrifice. Here is one of th
 Cain did not know what to do with his brother's corpse. Allah sent two ravens that began fighting, causing the death of one. The victorious bird used its beak and claws to dig a hole in the ground, wolled the victim bird into it and covered it with sand.
 
     Then Allah sent a crow searching in the ground to show him how to hide the disgrace of his brother. He said: "O woe to me! Have I failed to be like this crow and hide the body of my brother? And he became of the regretful."
-    Quran 5:31
+    Quran, surah Al-Maidah (The Table) 5:31
 
 This was the first murder and burial on earth by a man.
 
@@ -991,11 +1015,11 @@ Idris is mentioned twice in the Quran, where he is described as a wise man. In s
 
     "Also mention in the Book the case of Idris: He was a man of truth (and sincerity), (and) a prophet:
     And We raised him to a exalted place."
-    Quran 19:56–57
+    Quran, surah Maryam (Mary) 19:56–57
     
     "And (remember) Isma'il, Idris, and Dhu al-Kifl, all (men) of constancy and patience;
     We admitted them to Our mercy: for they were of the righteous ones."
-    Quran 21:85–86 (Yusuf Ali)
+    Quran, surah Al-Anbiyaa (The Prophets) 21:85–86 (Yusuf Ali)
 
 According to later Muslim writings, Idris was born in Babylon, a city in present-day Iraq. Before he received the Revelation, he followed the rules revealed to Prophet Seth, the son of Adam. When Idris grew older, God bestowed Prophethood on him. During his lifetime all the people were not yet Muslims. Afterwards, Idris left his hometown of Babylon because a great number of the people committed many sins even after he told them not to do so. Some of his people left with Idris. It was hard for them to leave their home.
 
@@ -1026,7 +1050,7 @@ In the Bible, Enoch receives visions of how the Earth will be destroyed in the E
 There was a time of righteous people. Pople lived in tawhid and five of them were most righteous and most popular: Wadd, Suwa', Yaghuth, Ya'uq, Nasr. So people started celebrating anniversaries of these men. They made statues of these noble men to remind people of their piety and nobility, but some generations later, some people started worshiping these statues.
 
     And they have said: "You shall not leave your gods: nor shall you leave Wadd, nor Suwa', nor Yaghuth, nor Ya'uq nor Nasr"(these were the names of their idols).
-    Quran 71:23
+    Quran, surah Nooh (Noah) 71:23
 
 Ibn Abbas said in his commentary of the above ayah: "These were idols of Prophet Nuh's nation which in time ended up among the Arabs... These idols were named after some righteous men among Nuh's people..." [Sahih Al-Bukhari]
 
@@ -1039,7 +1063,7 @@ However, years later, after that generation died, people slowly forgot the purpo
 Thus, Shaitaan introduced idol worship among the people of Nuh ﷺ  . So strong was their belief in the idols that later when Prophet Nuh ﷺ    asked them to worship Allah alone, they would not listen.
 
     They put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance.
-    Quran 71:7
+    Quran, surah Nooh (Noah) 71:7
 
 ### How Shaitan Plans his Tricks
 
@@ -1081,9 +1105,10 @@ According to Islam, Nuh was a prophet, sent to warn mankind of that region and h
 
 ### Early preaching of Noah
 
-According to Islamic belief, Noah began preaching to his people both verbally and by example. He would praise God consistently and he urged his people to do the same, warning his tribe of the punishment they would face if they did not mend their ignorant ways. The Qur'an states that Noah repeatedly told his people:
+According to Islamic belief, Noah began preaching to his people both verbally and by example. He would praise God consistently and he urged his people to do the same, warning his tribe of the punishment they would face if they did not mend their ignorant ways. The Quran states that Noah repeatedly told his people:
 
     "O my people, worship Allah; you have no deity other than Him. Indeed, I fear for you the punishment of a tremendous Day!"
+    Quran, surah al-Araf (The Heights, The Elevated Places) 7:59
 
 Early on, a few were moved by Noah's words but the powerful and wealthy members of the tribe refused to hear his call. The unbelievers at the time were impelled to rebel by various evil motives. Firstly, they were extremely envious and jealous of men superior to them in any way. Secondly, the people were ignorant of the weak and lowly, who were frequently superior intellectually, morally and spiritually. 
 
@@ -1098,14 +1123,14 @@ As time passed, Noah became firmer in his preaching. When the unbelievers began 
 The Quran states that Noah prayed to God, telling him that his preaching only made his people disbelieve further. Noah told God how they had closed their minds to accepting the message, so that the light of the truth should not affect their thinking. Noah told God how he had used all the resources of the classical preacher, conveying the message both in public places and with individuals in private. Noah spoke of how he had told the people the rewards they would receive if they became righteous, namely that God would supply plentiful rain as a blessing, and that God would also guarantee them an increase in children and wealth.
 
     He said, "My Lord! Verily, I have called my people day and night. But my calls only made them run farther away. And verily, every time i called unto them than You might forgive them, they thrust their fingers into their ears, covered themselves with garments, and persisted (in their refusal), and magnified themselves in pride. Then verily, I called to them openly (aloud). Then verily, I proclaimed to them in public, and I have appealed to them in private."
-    Quran, Surah Nuh (71:5-9)
+    Quran, surah Nooh (Noah) 71:5-9
 
 And Noah prayed to God not to leave disbelievers on earth. 
 
     Noah had prayed, "My Lord! Do not leave a single disbeliever on earth.
     For if You spare ˹any of˺ them, they will certainly mislead Your servants, and give birth only to ˹wicked˺ sinners, staunch disbelievers.
     My Lord! Forgive me, my parents, and whoever enters my house in faith, and ˹all˺ believing men and women. And increase the wrongdoers only in destruction."
-    Quran, Surah Nuh (71:26-28)
+    Quran, surah Nooh (Noah) 71:26-28
 
 </details><details><summary>
 
@@ -1115,17 +1140,17 @@ And Noah prayed to God not to leave disbelievers on earth.
 
 According to the Quran, one day, Noah received a revelation from God, in which he was told that no one would believe the message now aside from those who have already submitted to God. Noah's frustration at the defiance of his people led him to ask God to not leave even one sinner upon earth. 
 
-Although there is no proof that God accepted his prayer (as there are many examples of accepted prayers, such as in case of Yunus, Lut (Lot), Suleyman (Solomon) etc., even Noah's prayer in some other shape was accepted), God decreed that a terrible flood would come (and yet, Qur'an doesn't say it came to cover the whole Earth) and He ordered Noah to build a ship (Fulk) which would save him and the believers from this dreadful calamity. 
+Although there is no proof that God accepted his prayer (as there are many examples of accepted prayers, such as in case of Yunus, Lut (Lot), Suleyman (Solomon) etc., even Noah's prayer in some other shape was accepted), God decreed that a terrible flood would come (and yet, Quran doesn't say it came to cover the whole Earth) and He ordered Noah to build a ship (Fulk) which would save him and the believers from this dreadful calamity. 
 
 Ever obedient to God's instructions, Noah went out in search of material with which to build the vessel. When Noah began building the Ark, the people who saw him at work laughed at him even more than before. Their conclusion was that he was surely a madman – they could not find any other reason why a man would build a huge vessel when no sea or river was nearby. Although Noah was now very old, the continued to work tirelessly until, at last, the Ship was finished.
 
 ### Noah's Family
 
-Little is known of Noah's personal history before his call to prophecy. However, Ibn Kathir records him to have been the son of Lamech and grandson of Methuselah, one of the patriarchs from the Generations of Adam. Noah was neither the leader of the tribe nor a very rich man but, even before being called to prophecy, he worshiped God faithfully and was, in the words of the Qur'an, "a devotee most grateful".
+Little is known of Noah's personal history before his call to prophecy. However, Ibn Kathir records him to have been the son of Lamech and grandson of Methuselah, one of the patriarchs from the Generations of Adam. Noah was neither the leader of the tribe nor a very rich man but, even before being called to prophecy, he worshiped God faithfully and was, in the words of the Quran, "a devotee most grateful".
 
 Noah was married to a woman whose name is not mentioned in the Quran. Islamic scholars agree that Noah had four sons whose names were Ham, Shem, Yam and Japheth. According to the Quran, one of Noah's sons was a disbeliever who refused to come aboard the Ark, instead preferring to climb a mountain, where he drowned. It is agreed among most Islamic scholars that Yam was the one who drowned; the other three remained believers.
 
-The Quran states that Noah's wife was not a believer with him so she did not join him; neither did one of Noah's sons (Yam), who was secretly a disbeliever but had pretended faith in front of Noah. The sons of Noah are not expressly mentioned in the Qur'an, except for the fact that one of the sons was among the people who did not follow his own father, not among the believers and thus was washed away in the flood. Also the Qur'an indicates a great calamity, enough to have destroyed Noah's people, but to have saved him and his generations to come. Noah's wife is referred to in the Qur'an as an evil woman. When God emphasizes upon the notion that everyone is for themselves on the Day of Judgement and that marital relations will not be to your aid when the judgement takes place.
+The Quran states that Noah's wife was not a believer with him so she did not join him; neither did one of Noah's sons (Yam), who was secretly a disbeliever but had pretended faith in front of Noah. The sons of Noah are not expressly mentioned in the Quran, except for the fact that one of the sons was among the people who did not follow his own father, not among the believers and thus was washed away in the flood. Also the Quran indicates a great calamity, enough to have destroyed Noah's people, but to have saved him and his generations to come. Noah's wife is referred to in the Quran as an evil woman. When God emphasizes upon the notion that everyone is for themselves on the Day of Judgement and that marital relations will not be to your aid when the judgement takes place.
 
 In contrast, the wife of the Pharaoh of the Exodus, Asiya, and Mary, the mother of Jesus, are referred to as among the best of women. This adds to the notion that, on the Last Day, everyone will be judged according to their own deeds. The "Stories of The Prophets" explain that the son who declined to embark was a non-believer.
 
@@ -1138,7 +1163,7 @@ In contrast, the wife of the Pharaoh of the Exodus, Asiya, and Mary, the mother 
 At the day of the flood, Noah saw the sign of the boiling oven as God had said to him. God ordered Noah to load his ark with believers and representative animals in pairs. 
 
     [So it was], until when God’s command came and the oven overflowed, God said, "Load upon the ship of each [creature] two mates and your family, except those about whom the word has preceded, and [include] whoever has believed." But none had believed with him, except a few.
-    Quran
+    Quran, surah Hud (Hud) 11:40
 
 As a result of being one of the disbelievers, his son denied coming with him, and he chose to go up on the mountain instead. The son of Noah drowned in the flood water. Noah cried to God to save his son, but God denied to accept his prayer and let him (Noah’s son) be drowned. Noah begged pardon for asking help to save his son from God.
 
@@ -1151,6 +1176,7 @@ Noah entered into the ark while the flood water began to come forth heavily. Bef
 On the other hand, he also prayed to ruin the disbelievers by saying:
 
     "And do not increase the wrongdoers except putting in destruction."
+    Quran, surah Nooh (Noah)
 
 God also opened the gate of heaven (water gate) to be mixed with the water of the earth. Flood water submerged everything on the face of the earth. Such heavy rainfall had never been seen before. The rainfall and the sea water and waves washed away all living beings except Noah and those believers who were with him in the Ark. The Qur’an describes the flood"
 
@@ -1161,7 +1187,7 @@ In this verse, the Arabic word ر مِهَنْم , ُّderived from root (ر م 
     And God caused springs to stream from the earth. Therefore, the waters from the earth and the heaven joined for a matter of predetermined (programmed long before).
 
 Here in this verse, the Arabic word ر َدِ
-ُق  is a verb, derived from root ر د ق , and the meaning is predestined. That indicates the magnitude of the flood was planned beforehand to make sure the definitive destruction of the nation. God also pre-planned how He would save the believers under His surveillance. According to the Qur’an, God says:
+ُق  is a verb, derived from root ر د ق , and the meaning is predestined. That indicates the magnitude of the flood was planned beforehand to make sure the definitive destruction of the nation. God also pre-planned how He would save the believers under His surveillance. According to the Quran, God says:
 
     "And I carried him on a construction (boat) made of planks and nails, the carrier on which Noah (as) and his followers embarked Floated under my Eyes (surveillance). It was a Reward for him who had been denied of the suffering."
 
@@ -1174,10 +1200,10 @@ The dry land was covered by the flood water and all the disbelievers drowned in 
 After the flood, humankind started over and for some time they lived in tawhid.
 
     And it was said: "O earth! Swallow up your water, and O sky! Withhold (your rain)." And the water was diminished (made to subside) and the Decree (of Allah) was fulfilled (i.e. the destruction of the people of Noah). And it (the ship) rested on Mount Judi, and it was said: "Away with the people who are Zalimeen (polytheists and wrong-doing)!" 
-    Quran Ayah 11:44
+    Quran, surah Hud (Hud) 11:44
     
     It was said: "O Noah! Come down (from the ship) with peace from Us and blessings on you and on the people who are with you (and on some of their offspring), but (there will be other) people to whom We shall grant their pleasures (for a time), but in the end a painful torment will reach them from Us." 
-    Quran, Surah 11:48
+    Quran, surah Hud (Hud) 11:48
 
 With the issue of the divine command, calm returned to earth, the water retreated, and the dry land shone once again in the rays of the sun. The flood had cleansed the earth of the disbelievers and polytheists.
 
@@ -1220,7 +1246,7 @@ According to the Quran, Iram is the place to which the prophet Hud was sent in o
 Quran 89:6-14 mentions ʿĀd:
 
     Have you not considered how your Lord dealt with Aad - [With] Iram – who had lofty pillars, the likes of whom had never been created in the lands. And [with] Thamud, who carved out the rocks in the valley? And [with] Pharaoh, owner of the stakes? [All of] whom oppressed within the lands and increased therein the corruption. So your Lord poured upon them a scourge of punishment. Indeed, your Lord is in observation.
-    Quran 89:6–14 
+    Quran, surah Al-Fajr (The Dawn) 89:6–14 
 
 At first, Ad people worshipped only Allah but then they made idols from stones. and Allah sent them their brother Hud. and they called their prophet a fool and a liar and said Hud to tell Allah to send his punishment if you are truthfull. Then a draught happened. Plants died but people continued to worship idols. The draught lasted 3 years. Allah told Hud to gather his followers and leave.
 
@@ -1238,27 +1264,27 @@ And then a black cloud approached them. People of Aad thought that this cloud wi
     I place my trust in God who is my Lord and your Lord. There is no creature that moves on the earth who is not held by the forelock firmly by Him. Verily the way of my Lord is straight.
     
     If you turn away, then (remember) I have delivered to you the message I was sent with. My Lord will put other people in your place, and you will not be able to prevail against Him. Indeed my Lord keeps a watch over all things."
-    Quran, sura 11 (Hud), Ayah 50-57
+    Quran, sura Hud (Hud) 11:50-57
 
 After Hud has been left alone by the people of ʿĀd for a long time. The majority of them, however, refused to pay any notice to his teachings and they kept ignoring and mocking all he said. As their aggression, arrogance and idolatry deepened, God, after plenty of warning, sent a thunderous storm to finish the wicked people of ʿĀd once and for all. The destruction of the ʿĀd is described in the Quran:
 
     So when they saw it as a cloud advancing towards their valleys, they said: "This is just a passing cloud that will bring us rain." "No. It is what you were trying to hasten: The wind which carries the grievous punishment!
     It will destroy everything at the bidding of its Lord." So in the morning there was nothing but their empty dwellings to be seen. That is how We requite the sinners.
-    Quran, Surah 46 (Al-Ahqaf), ayah 24-25
+    Quran, surah Al-Ahqaf (The Dunes) 46:24-25
 
 The King Saud University from The Kingdom of Saudi Arabia stated the interpretation from Al-Tabari of Quran 69:6–129 were narrated about the disaster which caused the extinction of ʿĀd. Wahbah al-Zuhayli, Salih bin Abdullah al Humaid, Imam of Grand Mosque of Mecca, along with the officials of Ministry of Islamic Affairs, Dawah and Guidance also agreed the verse were speaking about the punishment from God towards ʿĀd peoples.
 
 Meanwhile, another Quran verse that describe further the characteristic of winds that bear calamity were Adh-Dhariyat:
 
     And in ‘Ad when We unleashed upon them a barren wind.
-    Qur'an Surah 51 (Adh-Dhariyat), ayah 41
+    Quran, surah Adh-Dhariyat (The Winnowing Winds) 51:41
 
 Exegesis experts translate the "al-Rih ul-Aqeem" (الريح العقيم) literally as "fruitless wind" or "barren wind", a winds that does not bring benefit or any positive reaction to any biological existences. According to Arabic linguists and tafseer experts has examined the al Aqeem are in it literal form as "sterile" in this verse context, which correlate the antithesis of common characteristic of natural winds that usually benefitted the natural cycle or any biological progressions or reproductions whether for humans, animals, or plants.
 
 In addition for its barren characteristic, another verse also described additional feature about the catastrophic tornado which decimated the 'Ad were Al-Qamar:
 
     Surely We sent on them an evil omen (catastrophes), the wind (a furious very cold of harsh voice) that lasts throughout the day.
-    Qur'an Surah 54 (al-Qamar), ayah 19
+    Quran, surah Al-Qamar (The Moon) 54:19
 
 Hud has been sometimes identified with Eber, but according to the Bible Selah is the father of Eber which would go againt the Quranic narration that people of 'Ad were predecessors of Thamud. 
 
@@ -1279,7 +1305,7 @@ Saleh's life in his community had been so righteous that the people of Thamud vi
     They said, "Ṣāliḥ, We used to have such great hope in you. Will you forbid us to worship what our fathers worshiped? We are in grave doubt about what you are asking us to do." 
 
     He said, "My people, just think: if I did have clear proof from my Lord, and if He had given me mercy of His own, who could protect me from God if I disobeyed Him? You would only make my loss greater." 
-    Quran, surah 11
+    Quran, surah Hud (Hud) 11
 
 Saleh reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Saleh's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
 
@@ -1292,7 +1318,7 @@ My people, this camel belongs to God, a sign for you, so leave it to pasture on 
     And so, when Our command was fulfilled, by Our mercy We saved Ṣāliḥ and his fellow believers from the disgrace of that day. [Prophet], it is your Lord who is the Strong, the Mighty One. The blast struck the evildoers and they lay dead in their homes, as though they had never lived and flourished there. 
 
     Yes, the Thamūd denied their Lord—so away with the Thamūd!
-    Quran 11:61–68
+    Quran, surah Hud (Hud) 11:61–68
 
 The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
 
@@ -1346,7 +1372,7 @@ When Ibrahim was young, he used to laugh whenever he saw them entering the templ
 
     And [mention, O Muhammad], when Abraham said to his father Azar, "Do you take idols as deities? Indeed, I see you and your people to be in manifest error."
     And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith].
-    Quran, Surah Al-An'am Ayah 74-75
+    Quran, surah Al-Anaam (The Cattle) 6:74-75
 
 ### Searching for Truth
 
@@ -1361,7 +1387,7 @@ But when it set he said: "I don't like those that set." The star had disappeared
     And when he saw the sun rising, he said, "This is my lord; this is greater." But when it set, he said, "O my people, indeed I am free from what you associate with Allah.
           
     Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah."
-    6-Surah Al-An’am ( The Cattle ) 74-79
+    Quran, surah Al-Anam (The Cattle) 6:74-79
 
 After this declaration, Abraham heard Allah calling him, "O Abraham" Abraham trembled and said, "Here I am O my Lord!" Allah replied, "Submit to Me! Be a Muslim!" Abraham fell to the ground, crying. He said: "I submit to the Lord of the universe!" Abraham kept prostrating himself until nightfall. He then got up and went back to his home, in peace and full of conviction that Allah has guided him to the truth.
 
@@ -1376,30 +1402,30 @@ Being a wise son, Ibrahim did not make his father feel foolish; nor did he openl
 Then he gently asked him:
 
     "Behold, he said to his father: "O my father! why worship that which heareth not and seeth not, and can profit thee nothing?"
-    Surah Maryam 19:42
+    Quran, surah Maryam (Mary) 19:42
 
 And before his father could become angry, he hastily said:
 
     O my father! to me hath come knowledge which hath not reached thee: so follow me: I will guide thee to a way that is even and straight. O my father! serve not Satan: for Satan is a rebel against (Allah) Most Gracious. O my father! I fear lest a Penalty afflict thee from (Allah) Most Gracious, so that thou become to Satan a friend.
-    Surah Maryam 19:43-45
+    Quran, surah Maryam (Mary) 19:43-45
 
 In the same way, he again used reasoning with the idol-worshipers and said:
 
     "Behold, he said to his father and his people: "What worship ye?" They said: "We worship idols, and we remain constantly in attendance on them." He said: "Do they listen to you when ye call (on them), or do you good or harm?" They said: "Nay, but we found our fathers doing thus (what we do)." He said: "Do ye then see whom ye have been worshipping" 
-    Surah Al Shu'ara' 26:71-75
+    Quran, surah Al-Shuaraa (The Poets) 26:71-75
 
 However, they (the idolaters) did not give up but clung fast to idolatry, then he (AS) said:
 
     "And by God, I have a plan for your idols - after ye go away and turn your backs."
-    Surah Al Anbiya 21:57
+    Quran, surah Al-Anbiya (The Prophets) 21:57
 
 It was time for a religious festival, perhaps dedicated to Sin, for which they left the town. Abraham was invited to attend the festivities, but he excused himself, and then he destroyed all idols in the temple and left only the biggest one. after people came back and accused Ibrahim of destroying idols, he said that that biggest one did it. 
 
     "Then did he turn to their aliha (gods) and said, "will ye not eat (of the offerings before you)? "What is the matter with you that ye speak not (intelligently)?" Then did he turn upon them, striking (them) with the right hand." 
-    Surah Al Saffat 37:91-93
+    Quran, surah Al-Saffat (Those drawn up in Ranks) 37:91-93
 
     "So he broke them to pieces, (all) but the biggest of them, that they might turn (and address themselves) to it." 
-    Surah Al Anbiya 21:58
+    Quran, surah Al-Anbiya (The Prophets) 21:58
 
 He enacted this scene, to make the people ashamed of worshiping powerless and senseless stocks and stones. He broke all the idols except the biggest, so as to show that a fight had taken place between the idols, and the biggest idol had smashed the others. So, when they came back:
 
@@ -1412,7 +1438,7 @@ He enacted this scene, to make the people ashamed of worshiping powerless and se
     (Ibrahim) said, "Do ye then worship, besides Allah, things that can neither be of any good to you nor do you harm? "Fie upon you, and upon the things that ye worship besides Allah! Have ye no sense?" 
 
     They said, "Burn him and protect your gods, If ye do (anything at all)!" We said, "O Fire! be thou cool, and (a means of) safety for Ibrahim!" Then they sought a stratagem against him: but We made them the ones that lost most!" 
-    Surah Al Anbiya 21:59-70
+    Quran, surah Al-Anbiya (The Prophets) 21:59-70
 
 Prophet Ibrahim (A.S.) was able to subdue them with logical arguments. However, their arrogance would not allow them to admit their foolishness. All they could do was to use their power of authority, as tyrants usually do, to punish Ibrahim (A.S.). They kept him in chains and planned their revenge.
 
@@ -1422,7 +1448,8 @@ During this time, Angel Jibril came to him and said: "O Ibrahim! Is there anythi
 
 The catapult was released and Ibrahim was thrown into the fire. God then gave an order to the fire:
 
-    "O fire, be coolness and safety for Ibrahim." (Surah Al-Anbiya: 21:69)
+    "O fire, be coolness and safety for Ibrahim."
+    Quran, surah Al-Anbiya (The Prophets) 21:69
 
 A miracle occurred, the fire obeyed and burned only his chains. Abraham came out from it as if he was coming out from a garden, peaceful, his face illuminated, and not a trace of smoke on his clothes. People watched in shock and exclaimed: "Amazing! Abraham's God has saved him from the fire!"
 
@@ -1442,7 +1469,7 @@ Namrud, King of Babylon, felt that his throne was in danger, and that he was los
     Abraham said: "Verily, Allah causes the sun to rise from the east; then cause it you to rise from the west." 
 
     So the disbeliever was utterly defeated. Allah guides not the people who are Zalimeen (wrongdoers etc).
-    Surah Al-Baqarah: 2:258
+    Quran, surah Al-Baqarah (The Cow) 2:258
 
 As mentioned above, Allah deliberately does not mention the name of the king as it is considered unimportant. The Quran also does not mention the long dialogue between Ibrahim (A.S.) and the king.
 
@@ -1457,7 +1484,7 @@ King did not know what to say and what to do. After Namrud was silenced by Ibrah
 Ibrahim (A.S.) continued calling people to believe in Allah, exerting a great effort to guide his people to the right path. He tried every possible means to convince them. However in spite of his love and care for the people, they did not listen to him and deserted him. Only one woman and one man of his people shared his belief in Allah. The woman was named Sarah who later became his wife while the man was Lut who later became a prophet after him. When Ibrahim (A.S.) realized that no one else was going to believe in his call, he decided to migrate. Before his migration, he invited his father to believe in Allah. He knew that his father was the enemy of Allah and he would not believe. Allah says in Al-Quran:
 
     And the request of forgiveness of Abraham for his father was only because of a promise he had made to him. But when it became apparent to Abraham that his father was an enemy to Allah, he disassociated himself from him. Indeed was Abraham compassionate and patient.
-    Surah At-Tawbah: 9:114
+    Quran, surah At-Tawbah (The Repentance) 9:114
 
 After going to Palestine, Ibrahim (A.S.) went to Egypt. During this journey Prophet Ibrahim (A.S.) invited people to worship Allah, show them the right path and helped the poor.
 
@@ -1487,12 +1514,12 @@ Following are the meaning, according to some other scholars, of these three lies
 Ibrahim (A.S.) lived on the earth worshipping Allah, sanctifying Him and calling people to worship Allah and Allah alone. But he knew that his days on earth were limited and that these days would be followed by death and finally resurrection. The knowledge of life after death filled Abraham with peace and love and certitude. One day Ibrahim (AS) asked Allah how dead people will come back on The day of judgment. Allah commanded him to take four birds, tear them apart into pieces and then mix the bodies up. He then divided the mix into four parts and placed each part on the top of four hills. He asked Ibrahim (A.S.) to call back the birds by Allah’s name. Immediately, the birds reassembled to their original parts, came back to life. Allah Has revealed this in Al-Quran:
 
     Remember when Abraham said: "My Lord Show me how You give life to the dead." Allah said: "Do you not believe?" Abraham said: "Yes I believe, but to be stronger in Faith." He said: "Take four birds, the cause them to incline towards you (then slaughter them, cut them into pieces) and then put a portion of them on every hill and call them they will come to you in haste. And know that Allah is All Mighty and All Wise." 
-    Quran, Surah Al-Baqarah 2:260
+    Quran, surah Al-Baqarah (The Cow) 2:260
 
 Ibrahim (A.S.) is the only person that the Quran commands our prophet to look up to as a role model. Allah Says in Al-Quran:
 
     Then, We have inspired you (O Muhammad, saying): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
-    Surah An-Nahl 16:123
+    Quran, surah An-Nahl (The Bee) 16:123
 
 </details><details><summary>
 
@@ -1513,7 +1540,7 @@ The Quran states that Lut was a nephew of Abraham who had been sent to the twin 
 The people of the twin cities transgressed against the bounds of God. According to the Quran, their sins included inhospitality and robbery  they hated strangers and robbed travellers, apart from other abuses and rape. It was their sin of sexual misconduct as well which was seen as particularly egregious, with Lut strongly chiding them for approaching men with sexual desire instead of women. Lut told and tried to help them to abandon their sinful ways, but they ridiculed him and threatened to evict him from the cities. Lut prayed to God and begged to be saved from the consequences of their sinful acts.
 
 ### Angels appear to Lut
-Then three Angels in the disguise of handsome young boys came to Lot, who became distressed knowing the character of the people, and feeling himself powerless to protect the visitors; he said: "This is a distressful day." When the people - overjoyed at the news of new young boys in the village - came to snatch them away from Lot, he tried to convince them to refrain from practising their lusts on the visitors, and offered his own daughters in marriage to them in return for the boys' free release, but they were unrelenting and replied "we have no need of your daughters: indeed you know quite well what we want!" The Qur'an remarks "... they moved blindly in the frenzy of approaching death".
+Then three Angels in the disguise of handsome young boys came to Lot, who became distressed knowing the character of the people, and feeling himself powerless to protect the visitors; he said: "This is a distressful day." When the people - overjoyed at the news of new young boys in the village - came to snatch them away from Lot, he tried to convince them to refrain from practising their lusts on the visitors, and offered his own daughters in marriage to them in return for the boys' free release, but they were unrelenting and replied "we have no need of your daughters: indeed you know quite well what we want!" The Quran remarks "... they moved blindly in the frenzy of approaching death".
 
 ### Prophet Lut advised to leave the city
 Lot was powerless to protect the young boys, but they revealed to him that they were indeed Angels sent by Allah to punish the people for their transgressions. They advised Lot to leave the place during the night and not look back, informing him that his wife would be left behind on account of her sinful nature and that they "...were about to bring down upon the folk of this township a fury from the sky because they are evil-doers". Keeping his faith in Allah, Lot left his home and the cities during the night with his family and others who believed in him, and only his wife stayed behind.
@@ -1523,26 +1550,26 @@ The exegetes Ibn Kathir, Qurtubi and Tabari do not read 'daughters' to mean Lot'
 The angels then revealed their true identities to Lot and said to him, "We are (here) to deliver thee and thy following, except thy wife: she is of those who lag behind." They advised Lot to leave the cities during the night, telling him not to look back. Keeping his faith in God, Lot left the cities in the darkness of night, bringing with him his followers and believing family members. Finally, morning came, and the Decree of God passed whereupon the Quran reads, "We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-" And thus was sealed the fate of the twin cities, falling into destruction and despair and marking the end of the civilisations of Sodom and Gomorrah.
 
     And Lot, who said to his nation: 'Do you commit such indecency (sodomy) in a way that no one has preceded you in the worlds? You approach men lustfully instead of women. Truly, you are a nation who exceed (in sin).' The only answer of his nation was: 'Expel them from your village. They are people who keep themselves purified.' We saved him and all his family, except his wife, who was made to remain, and We rained down upon them a rain. So look how was the end of the evildoers.
-    Qur'an 7:80-84
+    Quran, surah Al-Araaf (The Heights) 7:80-84
 
 The Quran, in the following passage, suggests that Ibrahim and Sarah found out about the destruction of Lot’s people after being given the good news of having a son:
 
     And when Our envoys brought Abraham the good news, they said, "We are going to destroy the people of this town; its people are wrongdoers."
 
     He said, "Yet Lot is in it." They said, "We are well aware of who is in it. We will save him, and his family, except for his wife, who will remain behind."
-    The Quran, verses 29:31-32
+    Quran, surah Al-Ankaboot (The Spider) 29:31-32
 
 ### Destruction of Sodom and Gomorrah
-When morning came, Allah 'turned the cities upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer' putting an end to the lives of the people and describing it as "So taste ye My Wrath and My Warning!" in the Qur'an. The Qur'an refers to the sites of Sodom and Gomorrah as 'signs for those who understand by example', those who 'care to understand' and those who 'fear a grievous penalty or a painful doom'. The Qur'an also uses the story as an example stating: 
+When morning came, Allah 'turned the cities upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer' putting an end to the lives of the people and describing it as "So taste ye My Wrath and My Warning!" in the Quran. The Quran refers to the sites of Sodom and Gomorrah as 'signs for those who understand by example', those who 'care to understand' and those who 'fear a grievous penalty or a painful doom'. The Quran also uses the story as an example stating: 
 
     "And most surely you pass by them (the cities) by the day, and at night; do you not then understand?"
 
 There is a narration that Jibril participated in the desctruction of the cities.
 
 ### Differences of stories in Quran and Bible
-The major difference between the story of Lut in the Qur'an and the story of Lot in the Bible is that the Biblical version includes a story of Lot's being induced to incestuous relations with his own daughters. The Qur'an says that Lut is a prophet, and holds that all Prophets were examples of moral and spiritual rectitude. Though it is not altogether clear in the Bible story that Lot consented to his action, in Islam these stories of incest are thus considered to be false.
+The major difference between the story of Lut in the Quran and the story of Lot in the Bible is that the Biblical version includes a story of Lot's being induced to incestuous relations with his own daughters. The Quran says that Lut is a prophet, and holds that all Prophets were examples of moral and spiritual rectitude. Though it is not altogether clear in the Bible story that Lot consented to his action, in Islam these stories of incest are thus considered to be false.
 
-Sodom and Gomorrah are not mentioned by name in the Qur'an. The Islamic use of the term Sodomite was borrowed therefrom by the Ulama(Scholars) of Islamic law which teach that capital punishment/or flogging is the penalty for this action to be meted out on both the sodomite (the penetrator) and the catamite (the receptive member). These punishments were adopted by the blooming Islamic Empires approximately two centuries after the death of the Prophet Muhammad according to oral traditions and they are not Sunnah.
+Sodom and Gomorrah are not mentioned by name in the Quran. The Islamic use of the term Sodomite was borrowed therefrom by the Ulama(Scholars) of Islamic law which teach that capital punishment/or flogging is the penalty for this action to be meted out on both the sodomite (the penetrator) and the catamite (the receptive member). These punishments were adopted by the blooming Islamic Empires approximately two centuries after the death of the Prophet Muhammad according to oral traditions and they are not Sunnah.
 
 </details>
 
@@ -1558,7 +1585,7 @@ Sarah knew that her husband, Ibrahim (A.S.), was longing for a child. As Allah h
 
     "O my Lord! Grant me a righteous son!"
     So We gave him the good news of a forbearing son.
-    Quran, Surah Al Saffat 37:100-101
+    Quran, surah Al-Saffat (Those drawn up in Ranks) 37:100-101
 
 She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajar and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajar. It wasn’t long before Ibrahim (A.S.) and Hajar were blessed with a baby boy whom they named Ishmael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
 
@@ -1583,7 +1610,7 @@ When Abraham was in old ages, three angels come to Abraham and bring them the go
     He said, "So what is your business, O envoys?"
 
     They said, "We were sent to a sinful people." 
-    The Quran, verses 15:52-58
+    Quran, surah Al-Hijr (The Rock) 15:52-58
 
 God made his covenant with Abram thirteen years after the birth of Ishmael. Abram's name was changed to Abraham and Sarai's to Sarah. The covenant was sealed by Abraham's Circumcision, and the first commandment relating to circumcision. Ishmael was also circumcised on that day, at the age of 13, as were the other men of Abraham's household.
 
@@ -1777,7 +1804,7 @@ According to Quranic commentators God sent a ram to be sacrificed in his stead. 
 
 Therefore, the forbearing son that God gave the news of his birth first in verse 101 was Ismail as Ibrahim had only two sons, and verse 112 gives the good news of Isaac after telling the story of the sacrifice. As a result, it becomes clear that the forbearing son, that is, Ismail was the one who was to be sacrificed.
 
-As Ibrahim attempts to slay Ismail, either the knife is turned over in his hand or copper appears on Ismail to prevent the death and God tells Ibrahim that he has fulfilled the command. Unlike in the Bible, there is no mention in the Qur'an of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm). Since the sacrifice of a ram cannot be greater than that of Ibrahim's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ismail) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Ibrahim's sacrifice and to remind themselves of self-abnegation in the way of Allah. Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ismail.
+As Ibrahim attempts to slay Ismail, either the knife is turned over in his hand or copper appears on Ismail to prevent the death and God tells Ibrahim that he has fulfilled the command. Unlike in the Bible, there is no mention in the Quran of an animal (ram) replacing the boy; rather he is replaced with a 'great sacrifice' (dhibḥin ʿaẓīm). Since the sacrifice of a ram cannot be greater than that of Ibrahim's son (and a prophet in Islam at that), this replacement seems to point to either the religious institutionalisation of sacrifice itself, or to the future self-sacrifices of the Islamic prophet Muhammad and his companions (who were destined to emerge from the progeny of Ismail) in the cause of their faith. Every Eid al-Adha once a year Muslims around the world slaughter an animal to commemorate Ibrahim's sacrifice and to remind themselves of self-abnegation in the way of Allah. Later historiographic literature incorporates the Biblical narrative in which a ram is provided which is slaughtered instead of Ismail.
 
 The actions of Ismail in this narrative have led him to become a prominent model of hospitality and obedience. This story in the Quran is unique when compared to that in the Bible because Ibrahim talks with his son, whichever it is believed to be, and the son is thus aware of the plan to become a sacrifice and approves of it. As noted above, in some versions, Ismail makes sure in different ways that neither he nor his father hesitate in their obedience to God. In this way, Ismail is a model of surrendering one's will to God, an essential characteristic in Islam.
 
@@ -1826,7 +1853,7 @@ The Bible tells the story of how Rebecca and Jacob deceived blind Isaac to get t
 
 </summary>
 
-Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Joseph, son of Jacob, son of Isaac, son of Ibrahim) is a prophet mentioned in the Quran, and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom. It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Yusuf was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Yusuf is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Qur'an and bears more details than the Biblical counterpart.
+Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Joseph, son of Jacob, son of Isaac, son of Ibrahim) is a prophet mentioned in the Quran, and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom. It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Yusuf was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Yusuf is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Quran and bears more details than the Biblical counterpart.
 
 Yusuf is believed to have been the eleventh son of Yaqub, and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Yusuf." The story begins with Yusuf revealing a dream he had to his father, which Jacob recognizes. In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
 
@@ -1843,7 +1870,7 @@ Muhammad at-Ṭabari provides exquisite detail and commentary of this narrative 
 The story begins with a dream and ends with its interpretation. As the sun appeared over the horizon, bathing the earth in its morning glory, Yusuf, son of Yaqub awoke from his sleep, delighted by a pleasant dream he had. Filled with excitement he ran to his father and reported what he had seen.
 
     Yusuf said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!
-    Qur'an 12:4
+    Quran 12:4
 
 According to Ibn Kathir, Yaqub knew that Yusuf would someday become extremely important and would be in a high position, both in this world and the next — he recognized that the stars represented his brothers and the sun and moon represented himself and Yusuf's mother, Rachel. Yaqub advised Yusuf to keep the dream to himself in order to protect him from the jealousy of his brothers, who were already unhappy about the love Yaqub felt for Yusuf. Ya'qub foresaw that Yusuf would be one through whom the prophecy of his grandfather, Ibrahim (Abraham), would be fulfilled, in that his offspring would keep the light of Ibrahim's house alive and spread God's message to mankind. Abu Ya'ala interpreted Yaqub's reaction as an understanding that the planets, sun and moon bowing to Yusuf representing "something dispersed which God united."
 
@@ -1868,7 +1895,7 @@ Killing Yusuf because of jealousy would have been extreme, but scholars also sug
 
 The brothers asked their father to let them take Yusuf out to the desert to play and promised to watch him. Yaqub, not thrilled with the idea knowing how much the brothers disliked Yusuf, hesitated. Ṭabari comments that Yaqubs's excuse was that a dhi'b (wolf) might hurt him. But the brothers insisted. When they had Yusuf alone they threw him into a well and left him there, They returned with a blood stained shirt and lied that he had been attacked by a wolf, but their father did not believe them, as he was a sincere man who loved his son.
 
-The Qur'an says:
+The Quran says:
 
     They said: "O our father! why dost thou not trust us with Yusuf, -- seeing we are indeed his sincere well-wishers?
     Send him with us tomorrow to enjoy himself and play, and we shall take every care of him."
@@ -1888,7 +1915,7 @@ The Qur'an says:
 
 ### God's plan to save Yusuf
 
-A passing caravan took Yusuf. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (Egypt), to a rich man referred to as "Al-'Aziz" ("Great One", "Nobleman") in the Qur'an, or Potiphar in the Bible. ʿAzīz is also known as Qatafir or Qittin. Yusuf was taken into 'Aziz's home who told his wife to treat him well.
+A passing caravan took Yusuf. They had stopped by the well hoping to draw water to quench their thirst and saw the boy inside. So they retrieved him and sold him into slavery in Misr (Egypt), to a rich man referred to as "Al-'Aziz" ("Great One", "Nobleman") in the Quran, or Potiphar in the Bible. ʿAzīz is also known as Qatafir or Qittin. Yusuf was taken into 'Aziz's home who told his wife to treat him well.
 
     Then there came a caravan of travellers: they sent their water-carrier (for water), and he let down his bucket (into the well)...He said: "Ah there! Good news! Here is a (fine) young man!" So they concealed him as a treasure. But Allah knoweth well all that they do.
 
@@ -1906,7 +1933,7 @@ While working for 'Aziz, Yusuf grew to be a man. He was constantly approached by
     But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: "Now come, thou (dear one)!" He said: "Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!"
 
     And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
-    Qur'an, Surah 12 (Yusuf) Ayat 23-24
+    Quran, Surah 12 (Yusuf) Ayat 23-24
 
 Zolayḵā is said to have then ripped the back of Yusuf's shirt and they raced with one another to the door where her husband was waiting. At that point she attempted to blame Yusuf and suggested that he had attacked her. However, Yusuf said that it was Zolayḵā who had attempted to seduce him and his account is confirmed by one of the household. 'ʿAzīz believed Yusuf and told his wife to beg forgiveness." One member of the family, it is disputed who (perhaps a cousin) told ʿAzīz to check the shirt. If it was torn in the front than Yusuf was guilty and his wife innocent but if it was torn in the back, Yusuf was innocent and his wife guilty. It was torn in the back so ʿAzīz reprimands his wife for lying.
 
@@ -1914,11 +1941,11 @@ Zuleikha's circle of friends thought that she was becoming infatuated with Yusuf
 
 Yusuf prayed to God and said that he would prefer prison to the things that Zolayḵā and her friends wanted. According to Ṭabari, some time later, even though ʿAzīz knew that Yusuf was innocent, he "grew disgusted with himself for having let Yusuf go free … It seemed good to them to imprison him for a time." It is possible that Zolayḵā had influence here, rebuking her husband for having her honor threatened.
 
-The account of Yusuf and the wife of 'Aziz is called "Yusuf and Zulaikha," and has been told and retold countless times in many languages. The Qur'anic account differs from the Biblical version in which Potiphar believes his wife and throws Yusuf into prison.
+The account of Yusuf and the wife of 'Aziz is called "Yusuf and Zulaikha," and has been told and retold countless times in many languages. The Quranic account differs from the Biblical version in which Potiphar believes his wife and throws Yusuf into prison.
 
 ### Yusuf interprets dreams
 
-This account refers to the interaction between Yusuf and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Yusuf refers to the Egyptian ruler as a malik (king), not a fir'aun (pharaoh). After Yusuf had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Yusuf's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Qur'an or the Bible – and his family. Yusuf asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Yusuf reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Yusuf then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.
+This account refers to the interaction between Yusuf and the ruler of Egypt. Unlike the references to the Pharaoh in the account of Musa, the account of Yusuf refers to the Egyptian ruler as a malik (king), not a fir'aun (pharaoh). After Yusuf had been imprisoned for a few years, God granted him the ability to interpret dreams, a power that made him popular amongst the prisoners. One event concerns two royal servants who, prior to Yusuf's imprisonment, had been thrown into the dungeon for attempting to poison the food of the king – whose name is not given either in the Quran or the Bible – and his family. Yusuf asked them about the dreams they had, and one of them described that he saw himself pressing grapes into wine. The other said he had seen himself holding a basket of bread on his head and birds were eating from it. Yusuf reminded the prisoners that his ability to interpret dreams was a favor from God based on his adherence to monotheism. Yusuf then stated that one of the men (the one who dreamt of squeezing grapes for wine) would be released from the prison and serve the king, but warned that the other would be executed, and so was done in time.
 
 Yusuf had asked the one whom he knew would be released (Ṭabari writes that his name was Nabu) to mention his case to the king. When asked about his time in prison, Ṭabari reports that prophet Muhammad ﷺ   said: "If Yusuf had not said that—meaning what he said (to Nabu)—he would not have stayed in prison as long as he did because he sought deliverance from someone other than God."
 
@@ -1943,18 +1970,18 @@ Thus Yusuf asked the king to appoint him as Minister of Finance.
 
 ### Use of "king" versus "pharaoh"
 
-In the Qur'an, the title of the Ruler of Egypt during the time of Yusuf is specifically said to be "the King" (Arabic: al-Malik) whilst the Ruler of Egypt during the time of Moses is specifically said to be "Pharaoh" (Arabic: Firaun, though as a name without the definite article). This is interesting because according to historical sources, the title Pharaoh only began to be used to refer to the rulers of Egypt (starting with the rule of Thutmose III) in 1479 BCE - approximately 21 years after the prophet Yusuf died. But in the narration of Yusuf in the Bible, the titles King (Hebrew: Melekh) and Pharaoh are used interchangeably for the ruler of Egypt in Genesis chapters 39-41.
+In the Quran, the title of the Ruler of Egypt during the time of Yusuf is specifically said to be "the King" (Arabic: al-Malik) whilst the Ruler of Egypt during the time of Moses is specifically said to be "Pharaoh" (Arabic: Firaun, though as a name without the definite article). This is interesting because according to historical sources, the title Pharaoh only began to be used to refer to the rulers of Egypt (starting with the rule of Thutmose III) in 1479 BCE - approximately 21 years after the prophet Yusuf died. But in the narration of Yusuf in the Bible, the titles King (Hebrew: Melekh) and Pharaoh are used interchangeably for the ruler of Egypt in Genesis chapters 39-41.
 
 This proves that the Quran is accurate and fixes error that were incorporated into the Bible by various sources.
 
     The Malik (of Egypt) said: "I do see (in a vision) seven fat kine, whom seven lean ones devour, and seven green ears of corn, and seven (others) withered. O ye chiefs! expound to me my vision, if it be that ye can interpret visions."
-    Qur'an, Surah 12 (Yusuf), Ayah 43
+    Quran, Surah 12 (Yusuf), Ayah 43
     
     Then after them We sent Musa with Our Signs to Fir'aun and his chiefs, but they wrongfully rejected them. So see how was the end of al-Mufsidin (Arabic: ألمفسدين, "the Mischief-makers" or "the Corrupters").
-    Qur'an, Surah 7 (Al-Araf), Ayah 103 
+    Quran, Surah 7 (Al-Araf), Ayah 103 
     
     And the Malik said: "Bring him to me." But when the messenger came to him, He (Yusuf) said: "Return to your lord and ask him, 'What happened to the women who cut their hands? Surely, my Lord (Allah) is Well-Aware of their plot.
-    Qur'an, Surah 12 (Yusuf), Ayah 50
+    Quran, Surah 12 (Yusuf), Ayah 50
     
 > And Joseph's master took him, and put him into the prison, the place where the king's prisoners were bound; and he was there in the prison.
 > Genesis 39:20
@@ -2084,17 +2111,17 @@ Before he passed away, he entrusted his mission to his son Hawmal and after him 
 
 Shuaib, Shoaib, Shuayb or Shuʿayb ("who shows the right path") is an ancient Midianite Nabi (Prophet) in Islam. Shuaib is mentioned in the Quran a total of 11 times. He is believed to have lived after Ibrahim (Abraham), and Muslims believe that he was sent as a prophet to a community: the Midianites, who are also known as the Aṣḥāb al-Aykah ("Companions of the Wood"), since they used to worship a large tree. To the people, Shuaib proclaimed the straight path and warned the people to end their fraudulent ways. When the community did not repent, God destroyed the community.
 
-Shuaib is understood by Muslims to have been one of the few Arabian prophets mentioned by name in the Qur'an, the others being Saleh, Hud, and Muhammad. It is said that he was known by Muslims as "the eloquent preacher amongst the prophets", because he was, according to tradition, granted talent and eloquence in his language.
+Shuaib is understood by Muslims to have been one of the few Arabian prophets mentioned by name in the Quran, the others being Saleh, Hud, and Muhammad. It is said that he was known by Muslims as "the eloquent preacher amongst the prophets", because he was, according to tradition, granted talent and eloquence in his language.
 
-The Qur'an states that Shuaib was appointed by God to be a prophet to the people of Midian. The people of this land were said to be especially notorious for cheating others through dishonesty and for idolatry. Shuʿayb's prophecy mainly involved calling the Midianites to the correct path of God, and forbidding them to worship false gods.
+The Quran states that Shuaib was appointed by God to be a prophet to the people of Midian. The people of this land were said to be especially notorious for cheating others through dishonesty and for idolatry. Shuʿayb's prophecy mainly involved calling the Midianites to the correct path of God, and forbidding them to worship false gods.
 
 It is also said he told his people to stop being dishonest in their daily activities. Although he preached and prophesied for a sustained period of time, the majority of the people refused to listen to him. Shuayb, however, remained steadfast. He consistently preached powerfully against the wicked, telling them of the punishment that had befallen the sinful before them. Shuʿayb warned the people that their ignorance would lead to the destruction of Midian, giving historical examples of earlier prophets, including Noah, Hud, Saleh and Lot, all of whose people had been destroyed by God.
 
-The people taunted Shuʿayb and told him that, were it not for the prestigious family he came from, he would surely have been stoned to death. Shuayb replied, "Is my family of more consideration with you than God?" When the Midianites refused to believe, they were destroyed by a mighty earthquake. The Qur'an, however, mentions that Shuʿayb, and his believing companions, were rescued from the thunderous punishment.
+The people taunted Shuʿayb and told him that, were it not for the prestigious family he came from, he would surely have been stoned to death. Shuayb replied, "Is my family of more consideration with you than God?" When the Midianites refused to believe, they were destroyed by a mighty earthquake. The Quran, however, mentions that Shuʿayb, and his believing companions, were rescued from the thunderous punishment.
 
-The area to which Shuʿayb was sent to is named 'Madyan in the Qur'an, known in English as Midian, which is frequently referred to in the Bible. The Midianites were said to be of Arab descent, though being neighbors of the Biblical Canaanites, they intermixed with them. It is said they were a wandering tribe, and that their principal territory at the time of Musa (Moses) was the Sinai Peninsula.
+The area to which Shuʿayb was sent to is named 'Madyan in the Quran, known in English as Midian, which is frequently referred to in the Bible. The Midianites were said to be of Arab descent, though being neighbors of the Biblical Canaanites, they intermixed with them. It is said they were a wandering tribe, and that their principal territory at the time of Musa (Moses) was the Sinai Peninsula.
 
-Shuayb's mission is often mentioned in the Qur'an with the mission of Noah, Hud, Saleh and Lot. Scholars have pointed out that these five prophets exemplify the early prophetic missions: The prophet would be sent to his community; the community would pay no attention to his warning and would instead threaten him with punishment; after years of preaching, God would ask him to leave his community, while his people were subsequently destroyed in a punishment. Scholars chronologically interpret the listing of the five prophets, so Shuʿayb was a descendant of Noah (preached about the Great Flood) and the Prophet Abraham.
+Shuayb's mission is often mentioned in the Quran with the mission of Noah, Hud, Saleh and Lot. Scholars have pointed out that these five prophets exemplify the early prophetic missions: The prophet would be sent to his community; the community would pay no attention to his warning and would instead threaten him with punishment; after years of preaching, God would ask him to leave his community, while his people were subsequently destroyed in a punishment. Scholars chronologically interpret the listing of the five prophets, so Shuʿayb was a descendant of Noah (preached about the Great Flood) and the Prophet Abraham.
 
 ### Disputed identification with Jethro
 
@@ -2326,7 +2353,7 @@ Gradually, the Pharaoh begins to fear that Musa may convince the people that he 
   
 When the Egyptians and children of Israel examined this miracle, the conflict between Moses and Pharaoh again reached a crisis because Pharaoh believed that Moses was threatening his kingdom.
 
-Pharaoh was afraid that the people would be misled by Moses. He suggested to his ministers and notable men that Moses be killed. We believe that Haman supported the idea along with a front of disbelievers. It was on the verge of approval, except for the vote of one of the notable men of the state, whose name is not mentioned in the Qur'an. The Qur'an says only that this man was a believer.
+Pharaoh was afraid that the people would be misled by Moses. He suggested to his ministers and notable men that Moses be killed. We believe that Haman supported the idea along with a front of disbelievers. It was on the verge of approval, except for the vote of one of the notable men of the state, whose name is not mentioned in the Quran. The Quran says only that this man was a believer.
 
 This believer spoke in the assembly where the idea of killing Moses had been introduced. He proved that it was not a good idea: "Moses did not say more than that Allah is his Lord. Later, he came with clear evidence that he is a messenger. There are two possibilities: either Moses is righteous or a liar. If he lies, he will be responsible for his lie. If he is righteous and we slay him, where is the guarantee that we will be rescued from the torment of Allah? Either way, he neither says nor does anything that merits our killing him."
 
@@ -2638,13 +2665,13 @@ According to Bible, Moses also dies very close to The Promised Land (also known 
 
 </summary>
 
-> Samuel (Shammil) is not mentioned by name in the Qur'an, but referred to as a "prophet". The narrative of Samuel in Islam focuses specifically on his birth and the appointing of Talut a king (traditionally identified as Saul).
+> Samuel (Shammil) is not mentioned by name in the Quran, but referred to as a "prophet". The narrative of Samuel in Islam focuses specifically on his birth and the appointing of Talut a king (traditionally identified as Saul).
 > 
 > According to Islamic narrative, Israelites after Moses wanted a strong king to rule over their country and to lead them to victory. Allah sent prophet Shammil to help Israelites choose Saul as a king. Israelites mocked Saul but then agreed after seeing a sign from God. 
 > 
 > Saul led them to a battle against Philistines and Goliath. Allah revealed to Saul that Israelities must not drink from one particular river but a part of people drank from the river and were not allowed to fight in the name of Allah. Despite righteous Israelites were scarse in numbers, Allah granted them victory.
 
-In the Islamic narrative, the Israelites after Moses wanted a king 👑 to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth. But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Qur'an praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Qur'anic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
+In the Islamic narrative, the Israelites after Moses wanted a king 👑 to rule over their country. Thus, God sent a prophet, Samuel, to anoint Talut as the first king for the Israelites. However, the Israelites mocked and reviled the newly appointed king, as he was not wealthy from birth. But, assuming Talut to be Saul, in sharp contrast to the Hebrew Bible, the Quran praises Saul greatly, and mentions that he was gifted with great spiritual and physical strength. In the Quranic account, Samuel prophesies that the sign of Talut's kingship will be that the Ark of the Covenant will come back to the Israelites.
 
 Ibn Jarir reported that the condition of the Israelites deteriorated. They committed many sins and killed whom they wished of the prophets. Consequently Allah sent them tyrannous kings who ill-treated them and spilled their blood, and set their enemies from outside against them as well. They used to go to war, taking with them The Ark of the Covenant. They did this so that they would be victorious by its blessing, and it became a symbol of calm and a relic left behind by Moses's people. When they went to war with the people of Gaza and Askalon, they were defeated because the Ark of the Covenant was captured from them. When the king of the Israelites heard of this he died on the spot.
 
@@ -2966,10 +2993,10 @@ Alyasa is a prophet and messenger of God (Allah) who was sent to guide the Child
 
 The name of Alyasa is mentioned twice in Al-An'am 6:86 and Sad 38:48. In those verses, without mentioning anything about the personality or prophethood of Alyasa, he is mentioned as "graced" and "among the elect". According to the Quran, Elisha is exalted "above the rest of creation" (Arabic: "among the excellent". Alyasa is mentioned along with Ismail:
 
-    And Ismail and Alyasa and Yunus, and Lut; and each one We graced over the worlds;
-    Quran Al-An'am 6:86
+    "And Ismail and Alyasa and Yunus, and Lut; and each one We graced over the worlds"
+    Quran Al-Anam 6:86
 
-    And remember Our servants Ismail, Alyasa, and Dhul-Kifl, each of them truly good.
+    "And remember Our servants Ismail, Alyasa, and Dhul-Kifl, each of them truly good."
     Quran Sad 38:48
 
 ### Elisha in the New Testament
@@ -3000,7 +3027,7 @@ The inhabitants of the town of Nineveh were idolators who lived a shameless life
 
 Try as he might to convince them of the foolishness of idolatry and of the goodness of Allah's laws, they ignored him. He warned them that if they kept on with their foolishness, Allah's punishment would soon follow. Instead of fearing Allah, they told Jonah that they were not afraid of his threats. "Let it happen," they told him. Jonah was disheartened. "In that case I will leave you to your misery!" So saying, he left Nineveh, fearing that Allah's anger would soon follow. 
 
-    And (remember) Dhan-Nun (Jonah), when he went off in anger, and imagined that We shall not punish him (i.e., the calamities which had befallen him)! 
+    "And (remember) Dhan-Nun (Jonah), when he went off in anger, and imagined that We shall not punish him (i.e., the calamities which had befallen him)!" 
     Surah 21:87
 
 ### People of Yunus repent
@@ -3052,7 +3079,7 @@ Gradually he regained his strength and found his way to his hometown, Nineveh. H
 
 Surah 37:139-148 retells the full story of Yunus:
 
-    So also was Yunus among those sent (by Us).
+    "So also was Yunus among those sent (by Us).
     When he ran away (like a slave from captivity) to the ship (fully) laden,
     He (agreed to) cast lots, and he was condemned.
 
@@ -3064,7 +3091,7 @@ Surah 37:139-148 retells the full story of Yunus:
     And We caused to grow, over him, a spreading plant of the gourd kind.
 
     And We sent him (on a mission) to a hundred thousand (men) or more.
-    And they believed; so We permitted them to enjoy (their life) for a while.
+    And they believed; so We permitted them to enjoy (their life) for a while."
     Quran, chapter 37 (As-Saaffat), verses 139–148
 
 ### Hadithic mentions
@@ -3085,14 +3112,14 @@ Dhu al-Kifl ("Possessor of the Kifl"; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-
 
 Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
 
-    And (remember) Isma'il, Idris, and Dhu al-Kifl, all (men) of constancy and patience.
-    We admitted them to Our mercy: for they were of the righteous ones.
+    "And (remember) Ismail, Idris, and Dhu al-Kifl, all (men) of constancy and patience.
+    We admitted them to Our mercy: for they were of the righteous ones."
     Quran, Surah Al-Anbiya (21), Ayahs 85–86
 
-    And commemorate Isma'il, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good.
+    "And commemorate Ismail, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good."
     Quran, Surah Sad (38), Ayah 48
 
-In both cases, Dhu al-Kifl is mentioned in the context of a list of Qur'anic prophets, including many others not mentioned in the ayat quoted above.
+In both cases, Dhu al-Kifl is mentioned in the context of a list of Quranic prophets, including many others not mentioned in the ayat quoted above.
 
 </details><details><summary>
 
@@ -3108,7 +3135,7 @@ The Jews call Uzair a son of Allah, and the Christians call the Christ a son of 
 
 In February 624, when the qibla (direction of prayer) changed from Jerusalem to Mecca. Sallam ibn Mishkam, a Jew who lived in Medina and his friends asked Muhammad: "How can we follow you when you have abandoned our qibla and you do not allege that Uzair (Ezra) is the son of God?": 269  This verse is situated in a context of theological disputes with the Jewish community of Medina. The Quran emphasizes the absolute divinity of God and warns against associating any being with him (shirk). It further condemns Jewish and Christian leaders of the time for deceiving the masses into taking "their priests and their anchorites to be their lords in derogation of God". In casting doubt on claims about the divine status of Uzayr and Christ, the Quran also instructs Muslims to reject such beliefs. These arguments reflect the tensions between the new Muslim community and the more established Christian and Jewish communities of Arabia.
 
-In some Islamic texts, Ezra is identified as the person mentioned in Qur'an 2:259
+In some Islamic texts, Ezra is identified as the person mentioned in Quran 2:259
 
     Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall God bring it (ever) to life, after (this) its death?" but God caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that God hath power over all things." (Quran 2:259)
 
@@ -3116,7 +3143,7 @@ According to the classical Quranic exegete, Ibn Kathir, after Ezra questioned ho
 
 The modern Quranic exegesis of Abul Ala Maududi states:
 
-Uzair (Ezra) lived during the period around 450 B.C. The Jews regarded him with great reverence as the revivalist of their Scriptures which had been lost during their captivity in Babylon after the death of Prophet Solomon. So much so that they had lost all the knowledge of their Law, their traditions and of Hebrew, their national language. Then it was Ezra who re-wrote the Old Testament and revived the Law. That is why they used very exaggerated language in his reverence which misled some of the Jewish sects to make him 'the son of God'. The Qur'an, however, does not assert that all the Jews were unanimous in declaring Ezra as 'the son of God'. What it intends to say is that the perversion in the articles of faith of the Jews concerning Allah had degenerated to such an extent that there were some amongst them who considered Ezra as the son of God.
+Uzair (Ezra) lived during the period around 450 B.C. The Jews regarded him with great reverence as the revivalist of their Scriptures which had been lost during their captivity in Babylon after the death of Prophet Solomon. So much so that they had lost all the knowledge of their Law, their traditions and of Hebrew, their national language. Then it was Ezra who re-wrote the Old Testament and revived the Law. That is why they used very exaggerated language in his reverence which misled some of the Jewish sects to make him 'the son of God'. The Quran, however, does not assert that all the Jews were unanimous in declaring Ezra as 'the son of God'. What it intends to say is that the perversion in the articles of faith of the Jews concerning Allah had degenerated to such an extent that there were some amongst them who considered Ezra as the son of God.
 
 According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a group of Jews who venerated Ezra as the son of God. According to Ali, Qastallani held that in the Kitan al-Nikah, that there was a party of Jews who held this belief.
 
@@ -3165,7 +3192,7 @@ Zakariya was a righteous priest and prophet of God whose office was in the Secon
 
 ### Praying for a son
 
-As he reached his old age, Zakariya began to worry over who would continue the legacy of preaching the message of God after his death and who would carry on the daily services of the temple after him. Zakariya started to pray to God for a son. The praying for the birth of an offspring was not merely out of the desire for a child. He prayed both for himself and for the public – they needed a messenger, a man of God who would work in the service of the Lord after Zakariya. Zakariya had character and virtue and he wanted to transfer this to his spiritual heir as his most precious possession. His dream was to restore the household to the posterity of the Patriarch Jacob, and to make sure the message of God was renewed for Israel. As the Qur'an recounts:
+As he reached his old age, Zakariya began to worry over who would continue the legacy of preaching the message of God after his death and who would carry on the daily services of the temple after him. Zakariya started to pray to God for a son. The praying for the birth of an offspring was not merely out of the desire for a child. He prayed both for himself and for the public – they needed a messenger, a man of God who would work in the service of the Lord after Zakariya. Zakariya had character and virtue and he wanted to transfer this to his spiritual heir as his most precious possession. His dream was to restore the household to the posterity of the Patriarch Jacob, and to make sure the message of God was renewed for Israel. As the Quran recounts:
 
     A mention of the mercy of your Lord to His servant Zakariya. When he cried unto his Lord a cry in secret, saying: My Lord! Lo! the bones of me wax feeble and my head is shining with grey hair, and I have never been unblest in prayer to Thee, my Lord. Lo! I fear my kinsfolk after me, since my wife is barren. Oh, give me from Thy presence a successor who shall inherit of me and inherit (also) of the house of Jacob. And make him, my Lord, acceptable (unto Thee). 
     Quran 19:4–6
@@ -3174,19 +3201,19 @@ As he reached his old age, Zakariya began to worry over who would continue the l
 
 As a gift from God, Zakariya was given a son named Yaḥyá (يحيى, identified with John the Baptist), a name specially chosen for this child alone. Muslim tradition narrates that Zakariya was ninety-two years old when he was told of John's birth.
 
-In accordance with Zakariya's prayer, God made John (Yahya) renew the message of God, which had been corrupted and lost by the Israelites. As the Qur'an says:
+In accordance with Zakariya's prayer, God made John (Yahya) renew the message of God, which had been corrupted and lost by the Israelites. As the Quran says:
 
     O Zachariah! Lo! We bring thee tidings of a son whose name is John; we have given the same name to none before (him). He said: My Lord! How can I have a son when my wife is barren and I have reached infirm old age? He said: So shall it be, your Lord says: It is easy to Me, and indeed I created you before, when you were nothing. He said: My Lord! give me a sign. He said: Your sign is that you will not be able to speak to the people three nights while in sound health.
     Quran 19:7–10
 
 ### Guardian of Maryam
 
-According to the Qur'an, Zakariya was the guardian of Maryam. The Qur'an states:
+According to the Quran, Zakariya was the guardian of Maryam. The Quran states:
 
     (Remember) when the wife of 'Imran said: My Lord! I have vowed unto Thee that which is in my belly as a consecrated (offering). Accept it from me. Lo! Thou, only Thou, art the Hearer, the Knower! And when she was delivered she said: My Lord! Lo! I am delivered of a female - Allah knew best of what she was delivered - the male is not as the female; and lo! I have named her Mary, and lo! I crave Thy protection for her and for her offspring from Satan the outcast. And her Lord accepted her with full acceptance and vouchsafed to her a goodly growth; and made Zachariah her guardian. Whenever Zachariah went into the sanctuary where she was, he found that she had food. He said: O Mary! Whence cometh unto thee this (food)? She answered: It is from Allah. Allah giveth without stint to whom He will.
     Quran 3:35–37
 
-The fact that, of all the priests, it was Zakariya who was given the duty of keeping care of Mary (Maryam) shows his status as a pious man. Zakariya is frequently praised in the Qur'an as a prophet of God and righteous man. One such appraisal is in sura al-An'am:
+The fact that, of all the priests, it was Zakariya who was given the duty of keeping care of Mary (Maryam) shows his status as a pious man. Zakariya is frequently praised in the Quran as a prophet of God and righteous man. One such appraisal is in sura al-An'am:
 
     "And Zakariya and Yahya and Isa and Eliyas. Each one was of the righteous."
     Quran 6:85
@@ -3298,7 +3325,7 @@ Speaking from the cradle is mentioned in three places in the Quran: al-Imran (3)
 
 ### Quran says that God has no son
 
-Almighty Allah refuted the claims of the Jews and the Christians in many verses of the Glorious Qur'an.
+Almighty Allah refuted the claims of the Jews and the Christians in many verses of the Glorious Quran.
 
     And they say: 'The Most Beneficent (Allah) has begotten a son (or offspring or children) as the Jews say: Ezra is the son of Allah, and the Christians say that He has begotten a son (Christ), and the pagan Arabs say that He has begotten daughters (angels, etc.)."
 
@@ -3343,7 +3370,7 @@ In the fifth chapter of the Quran, al-Ma'ida (5) 112–115, a narration mentions
     Allah the Exalted said: (Remember) when the disciples said: "0 Jesus, son of Mary! Can your Lord send down to us a table spread (with food) from heaven?" Jesus said: "Fear Allah, if you are indeed believers." They said: "We wish to eat thereof and to be stronger in Faith, and to know that you have indeed told us the truth and that we ourselves be its witnesses."
 
     Jesus, son of Mary, said: "0 Allah, our Lord! Send us from heaven a table spread (with food) that there may be for us -- for the first and the last of us -- a festival and a sign from You; and provide us sustenance, for You are the Best of sustainers." Allah said: "I am going to send it down unto you, but if any of you after that disbelieves, then I will punish him with a torment such as I have not inflicted on anyone among (all) the Alamin (mankind and jinn)."
-    Quran Ayah 5:112-116
+    Quran, surah Al-Maaida (The Table) 5:112-116
 
 In a record by the Sunni exegete Tabari, before the last supper, the threat of death made Isa anxious. Therefore, Jesus invited his disciples for the last supper. After the meal, he washed their hands and performed their ablutions to wipe their hands on his clothing. Afterwards Jesus replied to them: "As for that I have done to you tonight, in that I served you the meal and washed your hands in person, let it be an example for you. Since you indeed consider me to be better than you, do not be haughty in relation to each other but rather expand yourselves for each other as I have expanded myself for you." After instructing the disciples in his teachings, Jesus foretells that one of them would deny him and another betray him.
 
@@ -3358,17 +3385,17 @@ Islam rejects Paul's theology of justification before God by faith alone as held
 
 Quranic story about crusifixion and nature of Jesus is quite different from that of the extant gospels.
 
-The Glorious Qur'an affirms that Allah the Exalted did not permit the people of Israel to kill Jesus or crucify him. What happened was that Allah saved him from his enemies and raised him to heaven. They never killed Jesus; they killed someone else.
+The Glorious Quran affirms that Allah the Exalted did not permit the people of Israel to kill Jesus or crucify him. What happened was that Allah saved him from his enemies and raised him to heaven. They never killed Jesus; they killed someone else.
 
     And because of their saying (in boast), "We killed Messiah Jesus, son of Mary the Messenger of Allah," - but they killed him not, nor crucified him, but the resemblance of Jesus was put over another man (and they killed that man), and those who differ therein are full of doubts. They have no (certain) knowledge, they follow nothing but conjecture. For surely; they killed him not (i.e. Jesus, son of Mary): But Allah raised him (Jesus) up (with his body and soul) unto Himself (and he is in the heavens). And Allah is Ever All-Powerful, all- Wise.
 
     And there is none of the people of the Scripture (Jews and Christians), but must believe in him (Jesus, son of Mary as only a Messenger of Allah and a human being), before his (Jesus or a Jew's or a Christian's) death (at the time of the appearance of the angel of death). And on the Day of Resurrection, he (Jesus) will be a witness against them.
-    Quran Ayah 4:157-159
+    Quran, surah An-Nisa (The Woman) 4:157-159
 
 Almighty Allah also revealed: 
 
     [Mention] when Allāh said, "O Jesus, indeed I will take you and raise you to Myself and purify [i.e., free] you from those who disbelieve and make those who follow you [in submission to Allāh alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ.
-    Quran Ayah 3:55
+    Quran, surah Aal-i-Imraan (The Family of Imran) 3:55
 
 </details><details><summary>
 
@@ -3419,17 +3446,17 @@ The scholars of Christianity and Islam agree that Prophet Jesus was surrounded b
 At the time Jesus began his mission many Israelites were so far astray from the truth that Jesus considered it to be disbelief. He called them back to the worship of the One True God, yet most of those around him rejected his call and failed to heed his message. After revealing and clarifying that he is a Messenger from God, Jesus asks those listening to his message, who among them would be his helpers in God’s cause.
 
     Then when Jesus came to know of their disbelief, he said, "Who will be my helpers in God’s cause?" Al-Hawariyoon (the disciples) replied, "We are the helpers of God; we believe in God, so bear witness that we submit to God."
-    Quran 3:52
+    Quran, surah Aal-i-Imraan (The Family of Imran) 3:52
 
 They continued to pledge their allegiance to God and His Messenger Jesus.
 
     "‘Our Lord! We believe in what You have sent down and we follow the Messenger (Jesus); so write us down among those who bear witness (to the truth).’" 
-    Quran 3:53
+    Quran, surah Aal-i-Imraan (The Family of Imran) 3:53
 
 Then in another chapter God Himself reveals that He was responsible for the people who became the disciples of Jesus, Al-Hawariyoon.
 
     "I (God) put it in the hearts of Al-Hawariyoon to believe in Me and My Messenger, they said: ‘We believe. And bear witness that we are submitted to God.’"
-    Quran 5:111
+    Quran, surah Al-Maaida (The Table) 5:111
 
 The disciples were submitted to God; they followed the teachings of Jesus and were his companions and supporters. They helped him call the Israelites back to the worship of One God. Jesus never called himself God and the disciples were fully aware that they worshipped God and followed a man. It is the man known as the apostle Paul who called people to worship Jesus. It is wrong to assume that Paul was a disciple — he never met Jesus nor did he hear him speak or teach.   
 
@@ -3444,7 +3471,7 @@ Among the reasons for their request was that the disciples wanted to be witnesse
 Islam holds the disciples of Jesus, Al-Hawariyoon, in high esteem. Prophet Muhammad, may the mercy and blessings of God be upon him, mentions Jesus and his disciples in his traditions. The Quran mentions their faith and their status as the helpers of Jesus, highlights their faith and sacrifice, and calls on the Companions of Prophet Muhammad to be like them.   
 
     O believers! Be supporters of God, as when Jesus, son of Mary, asked the disciples, "Who are my supporters for God?" The disciples replied, "We are supporters of God." Some of the Children of Israel believed and some disbelieved. We then supported the believers against their enemies, so they prevailed.
-    Quran 61:14
+    Quran, surah As-Saff (The Ranks) 61:14
 
 This verse tells us that some of the Children of Israel heard Jesus’ message and believed him, while others disbelieved. Six hundred years later some people believed Prophet Muhammad while others turned their back and actively fought against Islam. Prophet Jesus and Prophet Muhammad both needed strong people around them. They needed helpers; they needed trustworthy people with conviction of faith. Al-Hawariyoon were the people of the inner circle, the ones Prophet Jesus could depend on, and the Companions were the ones who stood by and supported Prophet Muhammad.
 
@@ -4108,6 +4135,12 @@ Prophet Muhammadﷺ   was the possessor of moral virtues at the highest level, a
 
 According to biographers, Prophet Muhammad ﷺ   lived a simple and austere life often characterized by poverty. He was more bashful than a maiden, and was rare to laugh in a loud voice; rather, he preferred soft smiling. Ja'far al-Sadiq, a descendant of prophet Muhammad ﷺ   and an acclaimed scholar, narrated that prophet Muhammad ﷺ   was never seen stretching his legs in a gathering with his companions and when he would shake hands, he would not pull his hand away first. It is said that during the conquest of Mecca, when prophet Muhammad ﷺ   was entering into the city riding on a camel, his head lowered, in gratitude to God, to the extent that it almost touched the back of the camel. He never took revenge from anyone for his personal cause. He maintained honesty and justice in his deeds.
 
+    O Prophet! Truly We have sent thee as a Witness,
+    a Bearer of Glad Tidings and a Warner
+    and as one who invites to Allah's (Grace) by His leave
+    and as a lamp spreading light.
+    Quran, surah Al-Ahzaab (The Clans) 33:45-46
+
 </details>
 
 ### 8.2.1 Meccan Period
@@ -4314,7 +4347,7 @@ Then the prophet ﷺ   climbed on top of Safa and made the message public. He as
 
 Early converts to Islam included Muhammad's wife, Khadija, his cousin Ali, his adopted son Zayd, his nursemaid Umm Ayman, and his friend Abu Bakr.
 
-Very few of the Quraysh gave weight to Muhammad's message; most ignored it and a few mocked him. According to Welch, early Qur'anic verses were not "based on a dogmatic conception of monotheism but on a strong general moral and religious appeal," further adding that the key themes of these Meccan surahs include the moral responsibility of man towards his creator: the resurrection of the dead, the Day of Judgement supplemented with vivid descriptions of the tortures in hell and pleasures in paradise, the wonders of nature and everyday life, the signs of God, and the proof of the existence of a greater power who will take into account the greed of people and their suppression of the poor. The foundations of early religious duties were also laid and included belief in God, asking for forgiveness of sins, offering frequent prayers, assisting others with emphasis on those in need, ejecting cheating and the love of wealth, chastity, and the prevention of femicide which was prevalent in early Arabia.
+Very few of the Quraysh gave weight to Muhammad's message; most ignored it and a few mocked him. According to Welch, early Quranic verses were not "based on a dogmatic conception of monotheism but on a strong general moral and religious appeal," further adding that the key themes of these Meccan surahs include the moral responsibility of man towards his creator: the resurrection of the dead, the Day of Judgement supplemented with vivid descriptions of the tortures in hell and pleasures in paradise, the wonders of nature and everyday life, the signs of God, and the proof of the existence of a greater power who will take into account the greed of people and their suppression of the poor. The foundations of early religious duties were also laid and included belief in God, asking for forgiveness of sins, offering frequent prayers, assisting others with emphasis on those in need, ejecting cheating and the love of wealth, chastity, and the prevention of femicide which was prevalent in early Arabia.
 
 Abu Bakr was the first person to accept Islam upon hearing about it from Muhammad for the first time. Prior to that Abu Bakr was a monotheist and also avoided alcohol and idol worshipping. Abu Bakr is considered to be the first Muslim convert according to a majority of historical sources.
 
@@ -4326,7 +4359,7 @@ There were three main groups of early converts to Islam: younger brothers and so
 
 Other early converts: Abdullah ibn Masood, Uthman ibn Affan, Khabbab.
 
-ibn Masood as a youth worked as a shepherd for Uqba ibn Abu Mu'ayt. He first met prophet Muhammad ﷺ   and Abu Bakr while watching his flocks when they were "fleeing from the idolators". They asked him for milk, but Abdullah said he could not steal from his employer. According to Masʿūd, prophet Muhammad ﷺ   then asked for an unmated ewe and stroked its udder, whereupon milk poured out. Abdullah immediately asked to be taught "some of these words", and prophet Muhammad ﷺ   began to teach him the Qur'an. Abdullah later said that he learned 70 suras from prophet Muhammad ﷺ  .
+ibn Masood as a youth worked as a shepherd for Uqba ibn Abu Mu'ayt. He first met prophet Muhammad ﷺ   and Abu Bakr while watching his flocks when they were "fleeing from the idolators". They asked him for milk, but Abdullah said he could not steal from his employer. According to Masʿūd, prophet Muhammad ﷺ   then asked for an unmated ewe and stroked its udder, whereupon milk poured out. Abdullah immediately asked to be taught "some of these words", and prophet Muhammad ﷺ   began to teach him the Quran. Abdullah later said that he learned 70 suras from prophet Muhammad ﷺ  .
 
 </details><details><summary>
 
@@ -4407,7 +4440,7 @@ In addition, certain surahs generally talk about ethics and values human beings 
 
 </summary>
 
-Arab Muslim historian and hagiographer, Ibn Ishaq, reported in his traditional book (oral traditions) of biography of Muhammad, Sirat Rasul Allah that the 18th surah of the Qur'an (which includes the story of Dhu l-Qarnayn) was revealed to the Islamic prophet Muhammad by God on account of some questions posed by rabbis residing in the city of Medina – the verse was revealed during the Meccan period of Muhammad's life. According to Ibn Ishaq, Muhammad's tribe, the powerful Quraysh, were greatly concerned about their tribesman who had started claiming prophethood and wished to consult rabbis about the matter. The Quraysh sent two men to the rabbis of Medina, reasoning that they had superior knowledge of the scriptures and about the prophets of God. The two Quraysh men described their tribesman, Muhammad, to the rabbis.
+Arab Muslim historian and hagiographer, Ibn Ishaq, reported in his traditional book (oral traditions) of biography of Muhammad, Sirat Rasul Allah that the 18th surah of the Quran (which includes the story of Dhu l-Qarnayn) was revealed to the Islamic prophet Muhammad by God on account of some questions posed by rabbis residing in the city of Medina – the verse was revealed during the Meccan period of Muhammad's life. According to Ibn Ishaq, Muhammad's tribe, the powerful Quraysh, were greatly concerned about their tribesman who had started claiming prophethood and wished to consult rabbis about the matter. The Quraysh sent two men to the rabbis of Medina, reasoning that they had superior knowledge of the scriptures and about the prophets of God. The two Quraysh men described their tribesman, Muhammad, to the rabbis.
 
 The rabbis told the men to ask Muhammad three questions:
 They [the rabbis] said, "Ask him about three things which we will tell you to ask, and if he answers them then he is a Prophet who has been sent; if he does not, then he is saying things that are not true, in which case how you will deal with him will be up to you. Ask him about some young men in ancient times, what was their story for theirs is a strange and wondrous tale. Ask him about a man who traveled a great deal and reached the east and the west of the earth. What was his story and ask him about the Ruh – what is it? If he tells you about these things, then he is a Prophet, so follow him, but if he does not tell you, then he is a man who is making things up, so deal with him as you see fit."
@@ -4623,13 +4656,13 @@ Once the Prophet ﷺ   was sitting with his Companions. He had to go to attend t
 
 Dawud reported from 'Amir who said:
 
-> I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah ﷺ   on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'ud) said: No, but we were in the company of the Messenger of Allah ﷺ   one night and we missed him. We searched for him in the valleys and the hills and said. He has either been taken away (by jinn) or has been secretly killed. He (the narrator) said. We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hiri'. He (the narrator) reported. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Qur'an. He (the narrator) said: He then went along with us and showed us their traces and traces of their embers. They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah (ﷺ) said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).
+> I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah ﷺ   on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'ud) said: No, but we were in the company of the Messenger of Allah ﷺ   one night and we missed him. We searched for him in the valleys and the hills and said. He has either been taken away (by jinn) or has been secretly killed. He (the narrator) said. We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hiri'. He (the narrator) reported. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Quran. He (the narrator) said: He then went along with us and showed us their traces and traces of their embers. They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah (ﷺ) said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).
 
 Prophet Mohammed ﷺ is the Prophet for human-kind as well as Jinns.
 
 There are two places where Qur’an mentions communication between the Prophet ﷺ and the Jinns.
 
-In Surah al-Jinn, Allah reveals that the Jinn, too, listened to the communications of the Prophet Muhammad ﷺ and the Qur'an, and that some of them accepted Deen and became Muslims. One verse on the subject reads:
+In Surah al-Jinn, Allah reveals that the Jinn, too, listened to the communications of the Prophet Muhammad ﷺ and the Quran, and that some of them accepted Deen and became Muslims. One verse on the subject reads:
 
     Say: "It has been revealed to me that a band of the jinn listened and said, 'We have heard a most amazing Recitation. It leads to right guidance so we believe in it and will not associate anyone with our Lord.'" 
     Surah al-Jinn: 1-2
@@ -4644,9 +4677,9 @@ In that same Surah, Allah also reveals that some Jinn are actually Muslims:
 
 Yet another verse recounts that when the Prophet ﷺ   gave guidance regarding Deen, the jinn would gather around him and listen carefully:
 
-    And [mention, O Muhammad], when We directed to you a few of the jinn, listening to the Qur'an. And when they attended it, they said, "Listen quietly." And when it was concluded, they went back to their people as warners. Surah Ah’kaf- 29
+    And [mention, O Muhammad], when We directed to you a few of the jinn, listening to the Quran. And when they attended it, they said, "Listen quietly." And when it was concluded, they went back to their people as warners. Surah Ah’kaf- 29
 
-These verses make it clear that Prophet Muhammad ﷺ   was sent as a Prophet for all mankind and the jinn. The Qur'an is a guide for both mankind and the Jinn.
+These verses make it clear that Prophet Muhammad ﷺ   was sent as a Prophet for all mankind and the jinn. The Quran is a guide for both mankind and the Jinn.
 
 </details><details><summary>
 
@@ -5284,10 +5317,10 @@ A scout alerted Muhammad of the Meccan army's presence and numbers late on Thurs
 
 ### Muslim encampment at Uhud
 
-A group of approximately 1,000 Muslim men set out northward from Madinah toward Mount Uhud late on Friday, 21 December 624. Early the next morning, they took a position on the lower slopes of the hill of Uhud. Shortly before the battle commenced, 'Abdallah ibn Ubayy, chief of the Khazraj, along with 300 other men, withdrew their support for Muhammad and returned to Medina, with reports suggesting Ibn Ubayy's discontent with the plan to march out from Medina to meet the Meccans. Ibn Ubayy and his followers would later receive censure in the Qur'an for this act.
+A group of approximately 1,000 Muslim men set out northward from Madinah toward Mount Uhud late on Friday, 21 December 624. Early the next morning, they took a position on the lower slopes of the hill of Uhud. Shortly before the battle commenced, 'Abdallah ibn Ubayy, chief of the Khazraj, along with 300 other men, withdrew their support for Muhammad and returned to Medina, with reports suggesting Ibn Ubayy's discontent with the plan to march out from Medina to meet the Meccans. Ibn Ubayy and his followers would later receive censure in the Quran for this act.
 
     What ye suffered on the day the two armies met, was with the leave of Allah, in order that He might test the believers. And in order that He might test the Hypocrites also, these were told: "Come, fight in the way of Allah, or (at least) drive (The foe from your city)." They said: "Had we known how to fight, we should certainly have followed you." They were that day nearer to Disbelief than to Faith, saying with their mouths what was not in their hearts but Allah hath full knowledge of all they conceal. (They are) the ones that say, of their brethren slain, while they themselves sit (at ease): "If only they had listened to us they would not have been slain." Say: "Avert death from your own selves, if ye speak the truth."
-    Qur'an, Surah 3 (Al Imran), Ayah 166–168
+    Quran, Surah 3 (Al Imran), Ayah 166–168
 
 The Muslim force, now numbering around 700 encamped on the slopes of Uhud, facing Madinah, with their back protected by the mountain. Before the battle, Muhammad had assigned 50 archers on a nearby rocky hill at the west side of the Muslim camp. This was a strategic decision in order to shield the vulnerable flanks of the outnumbered Muslim army; the archers on the hill were to protect the left flank, while the right flank was to be protected by the Mount of Uhud situated on the east side of the Muslim camp. Protecting the flanks of the Muslim army meant that the Meccan army would not be able to turn around the Muslim camp, and thus the Muslim army wouldn't be surrounded or encircled by the Meccan cavalry, keeping in mind that the Meccan cavalry outnumbered the Muslim cavalry with 50-to-1. Muhammad ordered the Muslim archers to not leave their positions on the hill unless ordered to do so by him, making it clear by uttering these words to the archers,
 
@@ -5309,12 +5342,12 @@ Abu Sufyan then decided to return to Mecca without pressing his advantage of re-
 
 The battle is generally believed by scholars to be a defeat for the Muslims, as they had incurred greater losses than the Meccans. Chase F. Robinson, writing in the Encyclopaedia of Islam, states the notion that "the Muslims suffered a disheartening defeat is clear enough." Other scholars such as William Montgomery Watt disagree, noting that while the Muslims did not win, the Meccans had failed to achieve their strategic aim of destroying Muhammad and his followers; and that the Meccans' untimely withdrawal indicated weakness on their part. The battle is also noted for the emergence of the military leadership and stratagem of Khalid ibn al-Walid, who would later become the most famous of all Arab generals during the Islamic expansion era, in conquering the Sassanid Empire and Byzantine-held Syria.
 
-For the Muslims, the battle held a religious dimension as well as a military one. They had expected another victory like at Badr, which was considered a sign of God's favor upon them. At Uhud, however, they had barely held off the invaders and had lost a great many men. A verse of the Qur'an revealed soon after the battle cited the Muslims' disobedience and desire for loot as the cause for this setback:
+For the Muslims, the battle held a religious dimension as well as a military one. They had expected another victory like at Badr, which was considered a sign of God's favor upon them. At Uhud, however, they had barely held off the invaders and had lost a great many men. A verse of the Quran revealed soon after the battle cited the Muslims' disobedience and desire for loot as the cause for this setback:
 
     Indeed, Allah fulfilled His promise to you when you ˹initially˺ swept them away by His Will, then your courage weakened and you disputed about the command and disobeyed after Allah had brought victory within your reach. Some of you were after worldly gain while others desired a heavenly reward. He denied you victory over them as a test, yet He has pardoned you. And Allah is Gracious to the believers.
-    Qur'an, sura 3 (Al Imran), ayah 152
+    Quran, sura 3 (Al Imran), ayah 152
 
-According to the Qur'an, then, the misfortunes at Uhud — largely the result of the rear guard abandoning their position in order to seek booty — were partly a punishment and partly a test for steadfastness. Firestone observes that such verses provided inspiration and hope to the Muslims, sacralizing future battles that they would experience. He adds that rather than demoralizing the Muslims, the battle seemed to reinforce the solidarity between them.
+According to the Quran, then, the misfortunes at Uhud — largely the result of the rear guard abandoning their position in order to seek booty — were partly a punishment and partly a test for steadfastness. Firestone observes that such verses provided inspiration and hope to the Muslims, sacralizing future battles that they would experience. He adds that rather than demoralizing the Muslims, the battle seemed to reinforce the solidarity between them.
 
 The two armies would meet again in 627 at the Battle of the Trench, in which the Muslims would, yet again, have to defend Medina from the Meccans and others.
 
@@ -6024,24 +6057,24 @@ There was some dispute between the Quraish and the Ansars as to the place of bur
 Thus ended the glorious life of the Prophet Muhammad ﷺ  . May the peace and blessings of Allah be upon him.
 
     as a witness and a bringer ofglad tidings, a warner and a summoner unto Allah by His permission, and a lamp that gives light 
-    Qur'an, 33:45-46
+    Quran, 33:45-46
  
     the one who was sent as a mercy and blessing to mankind 
-    Qur'an, 21:10
+    Quran, 21:10
  
 He left the temporal world, but the message he brought to mankind is eternal.
  
     Now has come unto you light from Allah and a clear book whereby Allah guides him who seeks His pleasure unto the paths ofpeace. He brings them out of the darkness into the light by His decree and guides them unto a straight path.
-    Qur'an, 5:16
+    Quran, 5:16
  
     A Book which We have revealed to you (O Muhammad!) so that you may thereby bring forth mankind from darkness unto the light, by the permission of their Lord, unto the path of Him, the Exalted in power, the One worthy of all praise. 
-    Qur'an, 14:2
+    Quran, 14:2
 
     O people! There has come to you an admonition from your Lord which is a healing for what is in the breasts, and a guidance and mercy for the believers. 
-    Qur'an, 10:57
+    Quran, 10:57
  
     Accept what the Messenger gives you and stay away from whatever he forbids you. 
-    Qur'an, 59:7
+    Quran, 59:7
 
 ### Speech of Abu Bakr 
 
@@ -6372,7 +6405,7 @@ On 6 November 644, the process took place, in which Talha was absent. Uthman and
 
 ### Compilation of the Quran
 
-In about 650 CE, Uthman began noticing slight differences in pronunciation of the Quran as Islam expanded beyond the Arabian Peninsula into Persia, the Levant, and North Africa. In order to preserve the sanctity of the text, he ordered a committee headed by Zayd ibn Thabit to use caliph Abu Bakr's copy and prepare a standard copy of the Qur'an. Thus, within 20 years of Muhammad's death, the Quran was committed to written form. That text became the model from which copies were made and promulgated throughout the urban centers of the Muslim world, and other versions are believed to have been destroyed.
+In about 650 CE, Uthman began noticing slight differences in pronunciation of the Quran as Islam expanded beyond the Arabian Peninsula into Persia, the Levant, and North Africa. In order to preserve the sanctity of the text, he ordered a committee headed by Zayd ibn Thabit to use caliph Abu Bakr's copy and prepare a standard copy of the Quran. Thus, within 20 years of Muhammad's death, the Quran was committed to written form. That text became the model from which copies were made and promulgated throughout the urban centers of the Muslim world, and other versions are believed to have been destroyed.
 
 ### Economic and social administration
 
@@ -6839,7 +6872,7 @@ His most famous student was Imām Abu Yusuf, who served as the first chief justi
 * Aafiyah bin Yazeed
 
 ### Sources and methodology
-The sources from which Abu Hanifa derived Islamic law, in order of importance and preference, are: the Qur'an, the authentic narrations of the Muslim prophet Muhammad (known as hadith), consensus of the Muslim community (ijma), analogical reasoning (qiyas), juristic discretion (istihsan) and the customs of the local population enacting said law (urf). The development of analogical reason and the scope and boundaries by which it may be used is recognized by the majority of Muslim jurists, but its establishment as a legal tool is the result of the Hanafi school. While it was likely used by some of his teachers, Abu Hanifa is regarded by modern scholarship as the first to formally adopt and institute analogical reason as a part of Islamic law.
+The sources from which Abu Hanifa derived Islamic law, in order of importance and preference, are: the Quran, the authentic narrations of the Muslim prophet Muhammad (known as hadith), consensus of the Muslim community (ijma), analogical reasoning (qiyas), juristic discretion (istihsan) and the customs of the local population enacting said law (urf). The development of analogical reason and the scope and boundaries by which it may be used is recognized by the majority of Muslim jurists, but its establishment as a legal tool is the result of the Hanafi school. While it was likely used by some of his teachers, Abu Hanifa is regarded by modern scholarship as the first to formally adopt and institute analogical reason as a part of Islamic law.
 
 As the fourth Caliph, Ali had transferred the Islamic capital to Kufa, and many of the first generation of Muslims had settled there, the Hanafi school of law based many of its rulings on the prophetic tradition as transmitted by those first generation Muslims residing in Iraq. Thus, the Hanafi school came to be known as the Kufan or Iraqi school in earlier times. Ali and Abdullah, son of Masud formed much of the base of the school, as well as other personalities from the direct relatives (or Ahli-ll-Bayṫ) of Moḥammad from whom Abu Hanifa had studied such as Muhammad al-Baqir. Many jurists and historians had reportedly lived in Kufa, including one of Abu Hanifa's main teachers, Hammad ibn Abi Sulayman.
 
@@ -7022,13 +7055,13 @@ Nafisa was a descendant of Muhammad ﷺ  , through his grandson Hasan ibn Ali, w
 Al-Shāfi'ī is credited with creating the essentials of the science of fiqh (the system of Islamic jurisprudence). He designated the four principles/sources/components of fiqh, which in order of importance are:
 
 1. `The Quran`.
-2. `Hadith`. i.e collections of the words, actions, and silent approval of Muhammad. (Together with the Qur'an these make up "revealed sources".).
+2. `Hadith`. i.e collections of the words, actions, and silent approval of Muhammad. (Together with the Quran these make up "revealed sources".).
 3. `Ijma`. i.e. the consensus of the (pure traditional) Muslim community. Consensus or agreement of the Islamic community on a point of Islamic law.
 4. `Qiyas`. i.e. the method of analogy. Qiyas (Arabic: قياس)  is the process of deductive analogy in which the teachings of the hadith are compared and contrasted with those of the Quran, in order to apply a known injunction (nass) to a new circumstance and create a new injunction. 
 
 With this systematisation of shari'a, he provided a legacy of unity for all Muslims and forestalled the development of independent, regionally based legal systems. The four Sunni legal schools or madhhabs keep their traditions within the framework that Shafi'i established. One of the schools – Shafi'i fiqh – is named for Al-Shāfi‘ī. It is followed in many different places in the Islamic world: Indonesia, Malaysia, Egypt, Ethiopia, Somalia, Yemen , west of Iran,as well as Sri Lanka and southern parts of India, especially in the Malabar coast of North Kerala and Canara region of Karnataka.
 
-Al-Shāfi‘ī emphasised the final authority of a hadith of Muhammad ﷺ   so that even the Qur'an was "to be interpreted in the light of traditions (i.e. hadith), and not vice versa." While traditionally the Quran is considered above the Sunna in authority, Al-Shafi'i "forcefully argued" that the sunna stands "on equal footing with the Quran", (according to scholar Daniel Brown) for – as Al-Shafi'i put it – "the command of the Prophet is the command of Almighty Allah ."
+Al-Shāfi‘ī emphasised the final authority of a hadith of Muhammad ﷺ   so that even the Quran was "to be interpreted in the light of traditions (i.e. hadith), and not vice versa." While traditionally the Quran is considered above the Sunna in authority, Al-Shafi'i "forcefully argued" that the sunna stands "on equal footing with the Quran", (according to scholar Daniel Brown) for – as Al-Shafi'i put it – "the command of the Prophet is the command of Almighty Allah ."
 
 Al-Shāfi‘ī "insists time after time that nothing can override the authority of the Prophet, even if it be attested only by an isolate tradition, and that every well-authenticated tradition going back to the Prophet has precedence over the opinions of his Companions, their Successors, and later authorities."
 
@@ -7078,7 +7111,7 @@ In addition to his scholastic enterprises, ibn Hanbal was a soldier on the Islam
 
 ### The Mihna
 
-Ibn Hanbal was known to have been called before the Inquisition or Mihna of the Abbasid Caliph Al-Ma'mun. Al-Ma'mun wanted to assert the religious authority of the Caliph by pressuring scholars to adopt the Mu'tazila view that the Qur'an was created rather than uncreated. According to Sunni tradition, ibn Hanbal was among the scholars to resist the Caliph's interference and the Mu'tazili doctrine of a created Qur'an—although some Orientalist sources raise a question on whether or not he remained steadfast. Ibn Hanbal's stand against the inquisition by the Mu'tazila (who had been the ruling authority at the time) led to the Hanbali school establishing itself firmly as not only a school of fiqh (legal jurisprudence), but of theology as well.
+Ibn Hanbal was known to have been called before the Inquisition or Mihna of the Abbasid Caliph Al-Ma'mun. Al-Ma'mun wanted to assert the religious authority of the Caliph by pressuring scholars to adopt the Mu'tazila view that the Quran was created rather than uncreated. According to Sunni tradition, ibn Hanbal was among the scholars to resist the Caliph's interference and the Mu'tazili doctrine of a created Quran—although some Orientalist sources raise a question on whether or not he remained steadfast. Ibn Hanbal's stand against the inquisition by the Mu'tazila (who had been the ruling authority at the time) led to the Hanbali school establishing itself firmly as not only a school of fiqh (legal jurisprudence), but of theology as well.
 
 Due to his refusal to accept Mu'tazilite authority, ibn Hanbal was imprisoned in Baghdad throughout the reign of al-Ma'mun. In an incident during the rule of al-Ma'mun's successor, al-Mu'tasim, ibn Hanbal was flogged to unconsciousness. However, this caused upheaval in Baghdad and al-Mu'tasim was forced to release ibn Hanbal. After al-Mu’tasim's death, al-Wathiq became caliph and continued his predecessor's policies of Mu'tazilite enforcement and in this pursuit, he banished ibn Hanbal from Baghdad. It was only after al-Wathiq's death and the ascent of his brother al-Mutawakkil, who was much friendlier to the more traditional Sunni beliefs, that ibn Hanbal was welcomed back to Baghdad.
 
@@ -7111,9 +7144,9 @@ His father, Ismail ibn Ibrahim, a scholar of hadith, was a student and associate
 ## Al-Tabari (839-923)
 
 </summary>
-Muhammad ibn Jarir ibn Yazid, more commonly known as al-Tabari, or alternatively as Abu Jafar, was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Qur'anic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine.
+Muhammad ibn Jarir ibn Yazid, more commonly known as al-Tabari, or alternatively as Abu Jafar, was an Iranian historian and Islamic scholar from Amol, Tabaristan. Among the most prominent figures of the Islamic Golden Age, al-Tabari is known for his historical works, his expertise in Quranic exegesis (tafsir) and Historiography, but he has been described as "an impressively prolific polymath. He wrote on such subjects as world history, poetry, lexicography, grammar, ethics, mathematics, and medicine.
 
-His most influential and best known works are his Qur'anic commentary, known in Arabic as Tafsir al-Tabari, and his historical chronicle History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk), often referred to Tarikh al-Tabari.
+His most influential and best known works are his Quranic commentary, known in Arabic as Tafsir al-Tabari, and his historical chronicle History of the Prophets and Kings (Tarikh al-Rusul wa al-Muluk), often referred to Tarikh al-Tabari.
 
 Al-Tabari followed the Shafi'i madhhab for nearly a decade before he developed his own interpretation of Islamic jurisprudence. His understanding of fiqh was both sophisticated and remarkably fluid and, as such, he continued to develop his ideas and thoughts on juristic matters right to the end of his life. Al-Tabari's school of thought (madhhab) flourished among Sunni ulama for two centuries after his death, before it eventually became extinct. It was usually designated by the name Jariri. 
 
@@ -7155,7 +7188,7 @@ Faylasuf and court musician in Aleppo.
 
 The Al-Azhar University (the University of (the honorable) Al-Azhar) is a public university in Cairo, Egypt. Associated with Al-Azhar Mosque in Islamic Cairo, it is Egypt's oldest degree-granting university – and the world's second oldest degree granting university – and is renowned as the most prestigious university for Islamic learning. In addition to higher education, Al-Azhar oversees a national network of schools with approximately two million students. As of 1996, over 4,000 teaching institutes in Egypt were affiliated with the university.
 
-Founded in 970 or 972 by the Fatimid Caliphate as a centre of Islamic learning, its students studied the Qur'an and Islamic law in detail, along with logic, grammar, rhetoric, and how to calculate the phases of the moon. Today it is the chief centre of Arabic literature and Islamic learning in the world. In 1961 additional non-religious subjects were added to its curriculum.
+Founded in 970 or 972 by the Fatimid Caliphate as a centre of Islamic learning, its students studied the Quran and Islamic law in detail, along with logic, grammar, rhetoric, and how to calculate the phases of the moon. Today it is the chief centre of Arabic literature and Islamic learning in the world. In 1961 additional non-religious subjects were added to its curriculum.
 
 Its library is considered second in importance in Egypt only to the Egyptian National Library and Archives. In May 2005, Al-Azhar in partnership with a Dubai information technology enterprise, IT Education Project (ITEP) launched the H.H. Mohammed bin Rashid Al Maktoum project to preserve Al Azhar scripts and publish them online (the "Al-Azhar Online Project") to eventually publish online access to the library's entire rare manuscripts collection, comprising about seven million pages of material.
 
@@ -7333,7 +7366,7 @@ The Incoherence also marked a turning point in Islamic philosophy in its vehemen
 
 Another of al-Ghazali's major works is Ihya' Ulum al-Din (The Revival of Religious Sciences). It covers almost all fields of Islamic sciences: fiqh (Islamic jurisprudence), kalam (theology) and sufism.
 
-It contains four major sections: Acts of worship (Rub' al-'ibadat), Norms of Daily Life (Rub' al-'adatat), The ways to Perdition (Rub' al-muhlikat) and The Ways to Salvation (Rub' al-munjiyat). `The Ihya became the most frequently recited Islamic text after the Qur'an and the hadith.` Its great achievement was to bring orthodox Sunni theology and Sufi mysticism together in a useful, comprehensive guide to every aspect of Muslim life and death. The book was well received by Islamic scholars such as Nawawi who stated that: `"Were the books of Islam all to be lost, excepting only the Ihya', it would suffice to replace them all."`
+It contains four major sections: Acts of worship (Rub' al-'ibadat), Norms of Daily Life (Rub' al-'adatat), The ways to Perdition (Rub' al-muhlikat) and The Ways to Salvation (Rub' al-munjiyat). `The Ihya became the most frequently recited Islamic text after the Quran and the hadith.` Its great achievement was to bring orthodox Sunni theology and Sufi mysticism together in a useful, comprehensive guide to every aspect of Muslim life and death. The book was well received by Islamic scholars such as Nawawi who stated that: `"Were the books of Islam all to be lost, excepting only the Ihya', it would suffice to replace them all."`
 
 ### The Alchemy of Happiness
 
@@ -7373,7 +7406,7 @@ Al-Ghazali succeeded in gaining widespread acceptance for Sufism at the expense 
 
 Early childhood development was a central focal point of Al-Ghazali. He worked to influence and develop a program to mold the young minds of children at an early age to develop their mind and character. He stressed that socialization, family, and schools were central in the achievement of language, morality, and behavior. He emphasized incorporating physical fitness such as games that were important in the development of young minds to attract the idea of attending schools and maintaining an education. In addition, he stressed the importance of understanding and sharing cultures in the classrooms to achieve a civic harmony that would be expressed outside the classroom and kindness to one another.
 
-In his writings he placed this responsibility upon the teachers. His treatise on early education centered on Islamic laws, God, and memorizing the Qur'an to achieve literary skill. Ghazali emphasized the importance that there should be a dual respect in regard to the teacher and the pupil. Whereas the teacher guides the student and takes the role of a father figure and offers council to the student, and the student respects the teacher as a patriarch. He stressed that the teacher needed to pay attention to the learning paces of his students so that he could help them be successful in academic achievements.
+In his writings he placed this responsibility upon the teachers. His treatise on early education centered on Islamic laws, God, and memorizing the Quran to achieve literary skill. Ghazali emphasized the importance that there should be a dual respect in regard to the teacher and the pupil. Whereas the teacher guides the student and takes the role of a father figure and offers council to the student, and the student respects the teacher as a patriarch. He stressed that the teacher needed to pay attention to the learning paces of his students so that he could help them be successful in academic achievements.
 
 Al-Ghazali was by every indication of his writings a true mystic in the Persian sense. He believed himself to be more mystical or religious than he was philosophical however, he is more widely regarded by some scholars as a leading figure of Islamic philosophy and thought. He describes his philosophical approach as a seeker of true knowledge, a deeper understanding of the philosophical and scientific, and a better understanding of mysticism and cognition.
 
@@ -7488,7 +7521,7 @@ A ghazi, on the Byzantine frontier, founds the Ottoman dynasty in Anatolia.
 
 Ibn Taymiyyah (1263 – 1328) was a Sunni ʿĀlim, muhaddith, judge, philosopher, and sometimes controversial thinker and political figure. He is known for his diplomatic involvement with the Ilkhanid ruler Ghazan Khan and for his involvement at the Battle of Marj al-Saffar which ended the Mongol invasions of the Levant. A member of the Hanbali school, Ibn Taymiyyah's iconoclastic views that condemned numerous folk practices associated with saint veneration and the visitation of tomb-shrines; made him unpopular with many scholars and rulers of the time, and he was imprisoned several times.
 
-A polarising figure in his own times and in the centuries that followed, Ibn Taymiyyah has emerged as one of the most influential medieval writers in contemporary Sunni Islam. He was also noteworthy for engaging in intense religious polemics that defended Athari school against the followers of rival schools of Kalam (speculative theology); namely Ash'arism and Maturidism. This would prompt numerous clerics and state authorities to accuse Ibn Taymiyyah and his disciples of being guilty of "tashbīh" (anthropomorphism); which eventually led to the censoring of his works and subsequent incarceration. Nevertheless, Ibn Taymiyya's numerous treatises that advocated "creedal Salafism" (al-salafiyya al-iʿtiqādīyya), based on his particular interpretations of the Qur'an and the Sunnah, constitute the most popular classical reference for later Salafi movements.
+A polarising figure in his own times and in the centuries that followed, Ibn Taymiyyah has emerged as one of the most influential medieval writers in contemporary Sunni Islam. He was also noteworthy for engaging in intense religious polemics that defended Athari school against the followers of rival schools of Kalam (speculative theology); namely Ash'arism and Maturidism. This would prompt numerous clerics and state authorities to accuse Ibn Taymiyyah and his disciples of being guilty of "tashbīh" (anthropomorphism); which eventually led to the censoring of his works and subsequent incarceration. Nevertheless, Ibn Taymiyya's numerous treatises that advocated "creedal Salafism" (al-salafiyya al-iʿtiqādīyya), based on his particular interpretations of the Quran and the Sunnah, constitute the most popular classical reference for later Salafi movements.
 
 Ibn Taymiyyah had a simple life, most of which he dedicated to learning, writing, and teaching. He never married nor did he have a female companion throughout his years. Al-Matroudi says that this may be why he was able to engage fully with the political affairs of his time without holding any official position such as that of a judge. An offer of an official position was made to him but he never accepted. His life was that of a religious scholar and a political activist. In his efforts he was persecuted and imprisoned on six occasions with the total time spent inside prison coming to over six years. Other sources say that he spent over twelve years in prison. His detentions were due to certain elements of his creed and his views on some jurisprudential issues. However, according to Yahya Michot, "the real reasons were more trivial". Michot gives five reasons as to why Ibn Taymiyyah was imprisoned, they being: not complying with the "doctrines and practices prevalent among powerful religious and Sufi establishments, an overly outspoken personality, the jealousy of his peers, the risk to public order due to this popular appeal and political intrigues."
 
@@ -7498,7 +7531,7 @@ Ibn Taymiyyah's attitude towards his own rulers was based on the actions of Muha
 
 In 1269, aged seven, Ibn Taymiyyah, left Harran together with his father and three brothers. The city was completely destroyed by the ensuing Mongol invasion. Ibn Taymiyyah's family moved and settled in Damascus, Syria, which at the time was ruled by the Mamluk Sultanate.
 
-In Damascus, his father served as the director of the Sukkariyya Madrasa, a place where Ibn Taymiyyah also received his early education. Ibn Taymiyyah acquainted himself with the religious and secular sciences of his time. His religious studies began in his early teens, when he committed the entire Qur'an to memory and later on came to learn the Islamic disciplines of the Qur'an. From his father he learnt the religious science of fiqh (jurisprudence) and usul al-fiqh (principles of jurisprudence). Ibn Taymiyyah learnt the works of Ahmad ibn Hanbal, al-Khallal, Ibn Qudamah and also the works of his grandfather, Abu al-Barakat Majd ad-Din. His study of jurisprudence was not limited to the Hanbali tradition but he also learnt the other schools of jurisprudence.
+In Damascus, his father served as the director of the Sukkariyya Madrasa, a place where Ibn Taymiyyah also received his early education. Ibn Taymiyyah acquainted himself with the religious and secular sciences of his time. His religious studies began in his early teens, when he committed the entire Quran to memory and later on came to learn the Islamic disciplines of the Quran. From his father he learnt the religious science of fiqh (jurisprudence) and usul al-fiqh (principles of jurisprudence). Ibn Taymiyyah learnt the works of Ahmad ibn Hanbal, al-Khallal, Ibn Qudamah and also the works of his grandfather, Abu al-Barakat Majd ad-Din. His study of jurisprudence was not limited to the Hanbali tradition but he also learnt the other schools of jurisprudence.
 
 The number of scholars under which he studied hadith is said to number more than two hundred, four of whom were women. Those who are known by name amount to forty hadith teachers, as recorded by Ibn Taymiyyah in his book called Arbaun Hadithan. Serajul Haque says, based on this, Ibn Taymiyyah started to hear hadith from the age of five. One of his teachers was the first Hanbali Chief Justice of Syria, Shams ud-Din Al-Maqdisi who held the newly created position instituted by Baibars as part of a reform of the judiciary. Al-Maqdisi later on, came to give Ibn Taymiyyah permission to issue Fatawa (legal verdicts) when he became a mufti at the age of 17.
 
@@ -7507,7 +7540,7 @@ Ibn Taymiyyah's secular studies led him to devote attention to Arabic language a
 ### Life as a scholar
 
 Umayyad Mosque, a place where Ibn Taimiyya used to give lessons.
-After his father died in 1284, he took up the then vacant post as the head of the Sukkariyya madrasa and began giving lessons on Hadith. A year later he started giving lessons, as chair of the Hanbali Zawiya on Fridays at the Umayyad Mosque, on the subject of tafsir (exegesis of Qur'an). In November 1292, Ibn Taymiyyah performed the Hajj and after returning 4 months later, he wrote his first book aged twenty nine called Manasik al-Hajj (Rites of the Pilgrimage), in which he criticized and condemned the religious innovations he saw take place there. Ibn Taymiyyah represented the Hanbali school of thought during this time. The Hanbali school was seen as the most traditional school out of the four legal systems (Hanafi, Maliki and Shafii) because it was "suspicious of the Hellenist disciplines of philosophy and speculative theology." 
+After his father died in 1284, he took up the then vacant post as the head of the Sukkariyya madrasa and began giving lessons on Hadith. A year later he started giving lessons, as chair of the Hanbali Zawiya on Fridays at the Umayyad Mosque, on the subject of tafsir (exegesis of Quran). In November 1292, Ibn Taymiyyah performed the Hajj and after returning 4 months later, he wrote his first book aged twenty nine called Manasik al-Hajj (Rites of the Pilgrimage), in which he criticized and condemned the religious innovations he saw take place there. Ibn Taymiyyah represented the Hanbali school of thought during this time. The Hanbali school was seen as the most traditional school out of the four legal systems (Hanafi, Maliki and Shafii) because it was "suspicious of the Hellenist disciplines of philosophy and speculative theology." 
 
 He remained faithful throughout his life to this school, whose doctrines he had mastered, but he nevertheless called for ijtihad (independent reasoning by one who is qualified) and discouraged <span class="tooltip">taqlid<span class="tooltiptext">Taqlid is an Islamic term denoting the conformity of one person to the teaching of another. In contemporary Sunni usage, it is often portrayed in a negative light and translated as "blind imitation". This refers to the perceived stagnation of independent intellectual effort (ijtihad) and uncritical imitation of traditional religious interpretation by the religious establishment in general.</span></span>
 
@@ -7730,13 +7763,13 @@ These signs are connected to each other. When one comes, the other one follows.
 
 The Beast will come out at that time. The Beast it will leave marks on people as believer or non-believer. Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
 
-The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Qur'an mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
+The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Quran mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
 
     And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast (Dabbat'ul-Ardh) to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
     And on the day when We will collect from every people a party from those who believed our signs; then will they be formed into groups.
     Quran 27:82-83
 
-Dabbat'ul-Ardh means a “walker of the earth”. Allah says in the Qur'an:
+Dabbat'ul-Ardh means a “walker of the earth”. Allah says in the Quran:
 “And when the word shall come to pass on them, We shall bring forth unto them a Walking one from the earth who shall speak unto them that people believed not in our signs.
  
 This gathering of a group from every people will happen in Raj'at (Return) and will precede Qiyamat (because in Qiyamat all people will be gathered, not just a group from them.) And at that time a “Walker of the Earth” will be brought forth to speak to the people.
@@ -8064,7 +8097,7 @@ Imam Zaynu '1-'Abidin (A) said: “Allah has said, I do not hesitate in any orde
 Anyhow, when Muskhiyyah and Munsiyyah have done their work, the Angel of Death (Malak-ul-Maui) arrives and tells him not to worry: “By Allah, I am kinder to you than your father. Now, open your eyes and look.” Then his spiritual eyes are opened and he sees (in his vision) the faces of the Messenger of Allah (S) and the Imams (A), is informed who they are, and is given the good tidings that he would be their companion. Then he hears a call:
 
     "O thou tranquil soul, return to thy Lord, well pleased, well pleasing (to Him): enter thou amongst My servants, and enter thou My paradise".
-    Qur'an, 89:27-30
+    Quran, 89:27-30
  
 At that time, the believer's only wish is to die as soon as possible so that he may reach that caller.
  
@@ -8161,7 +8194,7 @@ The verse above is a confirmation that on the moment of death, the human being w
     Quran, 23:99-100
 
     They (the unbelievers) shall say (on the Day of Resurrection). "O Lord, thou hast given us death twice, and thou hast twice given us life; and we confess our sins; is there, therefore, any way to get forth (from retribution)?"
-    Qur'an, 40:11
+    Quran, 40:11
 
 According to many traditions, two deaths and two lives mean death in this world, then resurrection in the grave for questioning, then death in the grave after questioning, then resurrection on the Day of Reckoning.
 
@@ -8206,7 +8239,7 @@ I am your good deeds. I am the prayers you prayed, I am zakat you paid.
 
 </summary>
 
-"Barzakh" literally means 'barrier'. In the Qur'an, it has been used for the period between death and the Day of Resurrection.
+"Barzakh" literally means 'barrier'. In the Quran, it has been used for the period between death and the Day of Resurrection.
 
     "And behind them is the Barzakh (barrier) till the Day they will be Resurrected."
     Quran, 23:100
@@ -8287,27 +8320,27 @@ Salman (r.a.) asked: "Are you from the people of Paradise or of Hell?" The dead 
  
 Salman requested him to describe how he died and what agonies he had to undergo at that time. He replied:
  
-"O Salman, please do not ask this. By Allah, if someone had snipped my flesh (by scissors) in little bits and removed the flesh from the bones, it would have been easier than the agony of death. O Salman, I always did good deeds in your world, always prayed on time, used to recite the Qur'an, was good to my parents, lived on lawful earnings. Then I fell ill and my life came to its end. At that time, a very tall person, with a frightening countenance, stood in the air before me. He pointed to my eyes and they lost their sight; to my ears and they became deaf; to my tongue and it lost its speech. I asked him who he was and why he was doing it to me. He said: I am the angel of death; your life has ended in this world. You have to go from here to another world'.
+"O Salman, please do not ask this. By Allah, if someone had snipped my flesh (by scissors) in little bits and removed the flesh from the bones, it would have been easier than the agony of death. O Salman, I always did good deeds in your world, always prayed on time, used to recite the Quran, was good to my parents, lived on lawful earnings. Then I fell ill and my life came to its end. At that time, a very tall person, with a frightening countenance, stood in the air before me. He pointed to my eyes and they lost their sight; to my ears and they became deaf; to my tongue and it lost its speech. I asked him who he was and why he was doing it to me. He said: I am the angel of death; your life has ended in this world. You have to go from here to another world'.
  
 Then two persons came to me, one of them sat on my right, the other on the left. They informed me that they were the two angels who had written all my deeds in the worldly life. One, whose name was 'Raqueeb' gave my record of good deeds, on reading which I was much pleased. Then the other angel, whose name was 'Ateed', gave me the other record, a complete record of my sins; and on reading that I was very sad.
  
 Then the Angel of Death came nearer and removed my soul through my nose, and I have not forgotten its agony yet. Seeing me dead, my relatives and family members started crying. The Angel of Death said: "Why are you crying? I have not done any injustice that you are complaining of. When his life came to end, I removed his soul on the command of Allah. And I will come to you so many times."
  
-Then another Angel took my soul and I was brought to heaven where I was asked about my deeds, viz. prayers, fasts, Zakat, Khums, Hajj, Jihad, recitation of the Qur'an, obedience to the parents etc. Likewise, I was asked whether I had murdered any one, or taken some one's property without any right, or been unjust to other people and such things.
+Then another Angel took my soul and I was brought to heaven where I was asked about my deeds, viz. prayers, fasts, Zakat, Khums, Hajj, Jihad, recitation of the Quran, obedience to the parents etc. Likewise, I was asked whether I had murdered any one, or taken some one's property without any right, or been unjust to other people and such things.
  
 Then that same Angel brought my soul back to earth. At that time the person who wanted to wash my body (Ghassal) removed my clothes and started the ritual washing (Ghusl). My soul cried out: "O servant of Allah, have mercy On this weak and broken body. By Allah, all its veins, whence I have come out, have been broken; and its limbs are like they have been minced". My soul was imploring him in such a touching way that if the Ghassal were to hear it, he would have left washing the dead bodies altogether.
 Then they covered me with Kafan (shroud), gave me Hunut, prayed upon me. When they laid me in the grave, I was so much frightened that words cannot describe it.
  
 When they closed my grave, my soul entered my body again. An Angel, Munabbih (One who awakens, reminds) by name, came to me and made me sit. He ordered me to write down all the deeds which I had done in the world. I said that I did not remember. He said: 'I will go on reminding, you go on writing'. I said: 'Where is the paper?' He said: "This Kafan of yours will do for paper'. I said: 'Where can I find a pen?' He said: 'Your finger will be your pen'. I asked about the ink and was told that my saliva will work like ink.
  
-When I had written all my deeds, the Angel put my writing around my neck like a band, it is as Allah says in the Qur'an:
+When I had written all my deeds, the Angel put my writing around my neck like a band, it is as Allah says in the Quran:
 
     "And the bird (i.e., deed done by one) of every man have We bound about his neck, and We shall produce unto him, on the Day of Resurrection, a book (in which his actions will be recorded) which he will find open, (it will be said to him) read thy book; thine own self will be a sufficient reckoner against thee." 
-    Qur'an, 17:13-14
+    Quran, 17:13-14
 
 In other traditions, the name of the angel, who comes in the grave and guides in writing the deeds of the Mayyit, is given as "Ruman".
  
-Then an angel, very frightening, Munkar by name, came to me with a fiery club, and asked me: "Who is your Lord? Who are your Prophet and Imams? What is your religion?" I was so afraid that I became totally confused; my limbs were trembling; I could not understand what to reply. In that confusion, the Mercy of Allah supported me, and my heart became tranquil, and I replied; "Allah (His Power is Great) is my Lord; and Muhammad is my Prophet, and Ali bin Abi Talib is my Imam and Islam is my religion; and the Qur'an is my Book and the Kaaba is my Quibla".
+Then an angel, very frightening, Munkar by name, came to me with a fiery club, and asked me: "Who is your Lord? Who are your Prophet and Imams? What is your religion?" I was so afraid that I became totally confused; my limbs were trembling; I could not understand what to reply. In that confusion, the Mercy of Allah supported me, and my heart became tranquil, and I replied; "Allah (His Power is Great) is my Lord; and Muhammad is my Prophet, and Ali bin Abi Talib is my Imam and Islam is my religion; and the Quran is my Book and the Kaaba is my Quibla".
  
 Then another Angel, who is called Nakir, interrogated me in the same manner about my beliefs. By Grace of Allah, I replied his questions also and said: "I bear witness that there is no god except Allah, and that Muhammad is His Messenger, and that Ali and his sinless progeny are the proofs of Allah, and that Paradise is Haqq (a Fact, Truth) and the Fire (of Hell) is true, and Sirat (Path) is true, and the Balance (of deeds) is true and the Questioning of Munkar and Nakir in the grave is true, and Resurrection is true, and raising (of dead) is true, and flying of the books (in which deeds of a person are recorded) is true, and that the Hour (Day of Judgement) is sure to come, there is no doubt in it, and that Allah will raise all the dead who are in the grave".
  
@@ -8400,7 +8433,7 @@ Shortly:
 #### Every Living Creature Dies
 
     The earth with the mountains shall be lifted and crushed with one crash. 
-    Qur'an 69:14
+    Quran 69:14
 
     A day when the heaven with the clouds will be rent asunder, And the angels will be sent down, a grand descent.
     Quran:25:25
@@ -8441,7 +8474,7 @@ There is a hadith with a weak chain of narrations:
     Quran, Surah Maryam
 
     It is God, Who sends the winds and they raise a cloud, Then leads it to a dead land and revives the earth after its death. Such is the Resurrection.
-    Qur'an 35:9
+    Quran 35:9
 
 The first resurrected creature will be the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
 
@@ -8647,7 +8680,7 @@ The higher their iman, the more people will be allowed for them to intercede.
 
 Abu Umamah (May Allah be pleased with him) reported:
 
-> I heard the Messenger of Allah ﷺ   saying, “Read the Qur'an, for it will come as an intercessor for its reciters on the Day of Resurrection.” [Muslim]
+> I heard the Messenger of Allah ﷺ   saying, “Read the Quran, for it will come as an intercessor for its reciters on the Day of Resurrection.” [Muslim]
 
 </details><details><summary>
 
