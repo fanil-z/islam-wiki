@@ -1650,7 +1650,7 @@ The Quran mentions Isaac as a prophet and a righteous man of God. Isaac and Jaco
     Quran, sura 37 (As-Saaffat), ayah 112
 
 </details><details><summary>
-    
+
 ## Hajar and Ismail are sent to Mecca
 
 </summary>
@@ -1707,13 +1707,10 @@ At some point, a passing tribe known as the Jurhum sees birds circling the water
 The word Ismail إسماعيل mentioned 12 times in Quran in 12 verses. And he is praised by Allah multiple times.
 
     And Ishmael and Elisha and Jonah and Lot – and all [of them] We preferred over the worlds.
-    Quran 38:48
+    Quran, surah Saad (The letter Saad) 38:48
 
     And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient.
-    Quran 21:85
-
-    And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding.
-    Quran 38:48
+    Quran, surah Al-Anbiyaah (The Prophets) 21:85
 
 There is a narration about how Ismail's wifes. At some point, often believed to be after Hajar's death, Ismail married a woman from the Jurhum, the tribe who settled in the area around Zamzam. Ibrahim visited Ismail in Mecca and when he arrived at his home, Ismail was not there. Instead Ismail's wife greets Ibrahim, but she was not welcoming or generous to him. Ibrahim instructed her to tell Ismail some version of the statement that he was not pleased with or to change "the threshold of his door." When Ismail returns home and his wife told him that, he knows it is from his father and taking the advice, divorced the woman. He then married another woman from Jurhum. Ibrahim once again visited and was met by Ismail's second wife, as Ismail was out. This wife was very kind and provided food for him. Ibrahim instructed her to tell Ismail some version of the statement that he was pleased with "the threshold of his door." When Ismail arrived and his wife repeated Ibrahim's statement, Ismail knew it was from his father and kept his wife.
 
@@ -1742,12 +1739,12 @@ There are many versions of the construction of the Kaaba that differ in fairly s
 Adam's altar and the stone were said to have been lost during Noah's Flood and forgotten. Ibrahim (Abraham) was said to have later found the Black Stone at the original site of Adam's altar when the angel Jibrail revealed it to him. Ibrahim ordered his son Ismael to build a new temple, the Kaaba, into which the stone was to be embedded.
 
     And [mention] when We made the House a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform Tawaf and those who are staying [there] for worship and those who bow and prostrate [in prayer].
-    Quran 2:125
+    Quran, surah Al-Bakarah (The Cow) 2:125
 
 Then when the time for building the Ka'bah came, during one of Ibrahim's subsequent visits from Sham (Syria and Palestine) to Makkah and his family, he said to his son Isma'il: "O Isma'il! Allah has given me an order." Isma'il said: "Do what your Lord has ordered you to do." Ibrahim asked: "Will you help me?" Isma'il said: "I will help you." Ibrahim said: "Allah has ordered me to build a house here," pointing to a hillock higher than the land surrounding it. The Prophet ﷺ   added: "Then they raised the foundations of the House (i.e., the Ka'bah). Isma'il brought the stones and Ibrahim was building, and when the walls became high, Isma'il brought this stone and put it for Ibrahim who stood over it and carried on building, while Isma'il was handing him the stones, and both of them were praying to Allah to accept their service.
 
     And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], "Our Lord, accept [this] from us. Indeed You are the Hearing, the Knowing.
-    Quran 2:127
+    Quran, surah Al-Bakarah (The Cow) 2:127
 
 The stone over which Ibrahim stood and built is called maqam Ibrahim (Ibrahim's station). It is still in existence today and is revered by all Muslims. Even some religious rituals are directly associated with it. Just like Prophet Adam, Ibrahim, too, is said to have built the Ka'bah using building materials from five special earthly mounts: Hira', Tur Sina', Tur Zayta', Jabal Lubnan and al-Judiyy. For the foundations, he used only materials from Hira' (or the Nur hill), where Prophet Muhammad ﷺ   received his first revelation.
 
@@ -1756,7 +1753,7 @@ If the last account entails any symbolic significance, then it will be with resp
 Having completed to build Kaba, they opened their hands in supplication to Allah Almighty and prayed:
 
     "Our Lord! Send a Messenger from our progeny to the Muslim Ummah so that he can read to them your ayahs (verses), teach them your books and their laws, and cleanse them from their sins!" 
-    Surah al-Baqara, 129
+    Quran, surah Al-Bakarah (The Cow) 2:129
 
 Hence, Ibrahim laid the spiritual foundation of Prophet Muhammad's mission by invoking God to send him, and by (re)building the Ka'bah, the epicenter and nucleus of Muhammad's prophethood and his overall spiritual and civilizational legacy. Making the matter more perceptible, suggestive and redolent with meaning, Ibrahim used the Hira or Nur hill resources for the groundwork of the Ka'bah.
 
@@ -1782,6 +1779,7 @@ The Black Stone carries greater importance, as according to an account, it is kn
 Ismail and his mother lived in Mecca while Ibrahim would sometimes visit them. When Ismail grew to be a fine young man, Ibrahim had a dream:
 
     When he was old enough to assist in his endeavour, he said, "My son! I see in dreams that I am sacrificing you. See what you think." He said, "Father! Do whatever you have been commanded. If Allah wishes, you will find me to be patient."
+    Quran, surah Ad-Saffat (Those drawn up in Ranks) 37
 
 When prophets dream of something, it is the same as revelation. Therefore, when Prophet Ibrahim has a dream that he is sacrificing his son, it is in fact God’s command. Besides, the dream was a means for testing Ibrahim.
 
@@ -1794,6 +1792,7 @@ The story continues:
 
     Then We ransomed him with a great sacrifice,
     and left for him a good name in posterity.
+    Quran, surah Ad-Saffat (Those drawn up in Ranks) 37
 
 According to Quranic commentators God sent a ram to be sacrificed in his stead. Therefore, people came to call Ismail Dhabīḥullāh, meaning the one sacrificed for Allah. Jews say that Isaac was the son of Ibrahim whom he wanted to sacrifice, but according to the Quran this is wrong. Even though Ismail’s name is not mentioned, God gives the good news of his birth by calling him a forbearing son in verse 101 of chapter 37. After the story of the sacrifice is told, in the next verses God gives Ibrahim the good news of the birth of Isaac:
 
@@ -1801,6 +1800,7 @@ According to Quranic commentators God sent a ram to be sacrificed in his stead. 
     Thus do We reward the virtuous.
     He is indeed one of Our faithful servants.
     And We gave him the good news of [the birth of] Isaac, a prophet, one of the righteous.
+    Quran, surah Ad-Saffat (Those drawn up in Ranks) 37:101
 
 Therefore, the forbearing son that God gave the news of his birth first in verse 101 was Ismail as Ibrahim had only two sons, and verse 112 gives the good news of Isaac after telling the story of the sacrifice. As a result, it becomes clear that the forbearing son, that is, Ismail was the one who was to be sacrificed.
 
@@ -1870,12 +1870,12 @@ Muhammad at-Ṭabari provides exquisite detail and commentary of this narrative 
 The story begins with a dream and ends with its interpretation. As the sun appeared over the horizon, bathing the earth in its morning glory, Yusuf, son of Yaqub awoke from his sleep, delighted by a pleasant dream he had. Filled with excitement he ran to his father and reported what he had seen.
 
     Yusuf said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!
-    Quran 12:4
+    Quran, surah Yusuf (Joseph) 12:4
 
 According to Ibn Kathir, Yaqub knew that Yusuf would someday become extremely important and would be in a high position, both in this world and the next — he recognized that the stars represented his brothers and the sun and moon represented himself and Yusuf's mother, Rachel. Yaqub advised Yusuf to keep the dream to himself in order to protect him from the jealousy of his brothers, who were already unhappy about the love Yaqub felt for Yusuf. Ya'qub foresaw that Yusuf would be one through whom the prophecy of his grandfather, Ibrahim (Abraham), would be fulfilled, in that his offspring would keep the light of Ibrahim's house alive and spread God's message to mankind. Abu Ya'ala interpreted Yaqub's reaction as an understanding that the planets, sun and moon bowing to Yusuf representing "something dispersed which God united."
 
     Ya'qub told Yusuf: "My son, relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is a clear enemy to humanity. Thus your Lord has selected you and given you knowledge to interpret reports, and has perfected his blessing upon you and upon the family of Yaqub just as he perfected it on your forefathers before: Ibrahim and Is-haq (Isaac). Your Lord is Knowing, Wise" 
-    Quran, Surah 12 (Yusuf) Ayat 5-6
+    Quran, Surah Yusuf (Joseph) 12:5-6
 
 Yusuf did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Yusuf and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.
 
@@ -1909,7 +1909,7 @@ The Quran says:
     They said: "O our father! We went racing with one another, and left Yusuf with our things; and the wolf devoured him.... But thou wilt never believe us even if we tell the truth."
 
     They stained his shirt with false blood. He said: "Nay, but your minds have made up a tale (that may pass) with you, (for me) patience is most fitting: Against that which ye assert, it is Allah (alone) Whose help can be sought"...
-    Quran, Surah 12 (Yusuf) Ayat 11-18
+    Quran, surah Yusuf (Joseph) 12:11-18
 
 Ṭabari comments that Judah stopped the brothers from causing more harm to Yusuf, and that he would bring him food. Ibn Kathir comments that Reuben suggested that they put him in the pit so that he might return later to bring him home. But when he returned, he found Yusuf gone. "So he screamed and tore his clothes. He put blood on the coat of Yusuf. When Yaqub learned of this, he tore his clothes, wore a black cloak, and was sad for many days. 
 
@@ -1924,7 +1924,7 @@ A passing caravan took Yusuf. They had stopped by the well hoping to draw water 
     The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: maybe he will bring us much good, or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
 
     When Yusuf attained His full manhood, We gave him power and knowledge: thus do We reward those who do right.
-    Quran, Surah 12 (Yusuf) Ayat 19-22
+    Quran, surah Yusuf (Joseph) 12:19-22
 
 This is the point of the story that many scholars of Islam report as being central (contrasting to other religious traditions) to Yusuf's story. Under ʿAzīz Misr ("The Dear One of Egypt"), Yusuf moves to a high position in his household. Later, the brothers would come to Egypt but would not recognize Yusuf but called him by the same title, "al-ʿAzīz."
 
@@ -1933,7 +1933,7 @@ While working for 'Aziz, Yusuf grew to be a man. He was constantly approached by
     But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: "Now come, thou (dear one)!" He said: "Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!"
 
     And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
-    Quran, Surah 12 (Yusuf) Ayat 23-24
+    Quran, surah Yusuf (Joseph) 12:23-24
 
 Zolayḵā is said to have then ripped the back of Yusuf's shirt and they raced with one another to the door where her husband was waiting. At that point she attempted to blame Yusuf and suggested that he had attacked her. However, Yusuf said that it was Zolayḵā who had attempted to seduce him and his account is confirmed by one of the household. 'ʿAzīz believed Yusuf and told his wife to beg forgiveness." One member of the family, it is disputed who (perhaps a cousin) told ʿAzīz to check the shirt. If it was torn in the front than Yusuf was guilty and his wife innocent but if it was torn in the back, Yusuf was innocent and his wife guilty. It was torn in the back so ʿAzīz reprimands his wife for lying.
 
@@ -1956,15 +1956,15 @@ Scholars debate as to whether Yusuf agreed to interpret the dream right away or 
 Yusuf was brought to king and interpreted the dream.
 
     Yusuf said, "What you cultivate during the next seven years, when the time of harvest comes, leave the grains in their spikes, except for what you eat. After that, seven years of drought will come, which will consume most of what you stored for them. After that, a year will come that brings relief for the people, and they will, once again, press juice." 
-    Quran, 12:47-49 
+    Quran, surah Yusuf (Joseph) 12:47-49 
 
     When he became aware of Yusuf's innocence, the king said, "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted." 
-    Quran 12:54 
+    Quran, surah Yusuf (Joseph) 12:54 
 
 Upon speaking with Yusuf, the king recognized his virtues, great ability, brilliance, good conduct and perfect mannerisms. 
 
     Yusuf said, "Set me over the storehouses of the land; I will indeed guard them with full knowledge" 
-    Quran 12:55
+    Quran, surah Yusuf (Joseph) 12:55
 
 Thus Yusuf asked the king to appoint him as Minister of Finance.
 
@@ -1975,13 +1975,13 @@ In the Quran, the title of the Ruler of Egypt during the time of Yusuf is specif
 This proves that the Quran is accurate and fixes error that were incorporated into the Bible by various sources.
 
     The Malik (of Egypt) said: "I do see (in a vision) seven fat kine, whom seven lean ones devour, and seven green ears of corn, and seven (others) withered. O ye chiefs! expound to me my vision, if it be that ye can interpret visions."
-    Quran, Surah 12 (Yusuf), Ayah 43
+    Quran, surah Yusuf (Joseph) 12:43
     
     Then after them We sent Musa with Our Signs to Fir'aun and his chiefs, but they wrongfully rejected them. So see how was the end of al-Mufsidin (Arabic: ألمفسدين, "the Mischief-makers" or "the Corrupters").
-    Quran, Surah 7 (Al-Araf), Ayah 103 
+    Quran, surah Al-Araf (The Heights) 7:103 
     
     And the Malik said: "Bring him to me." But when the messenger came to him, He (Yusuf) said: "Return to your lord and ask him, 'What happened to the women who cut their hands? Surely, my Lord (Allah) is Well-Aware of their plot.
-    Quran, Surah 12 (Yusuf), Ayah 50
+    Quran, surah Yusuf (Joseph) 12:50
     
 > And Joseph's master took him, and put him into the prison, the place where the king's prisoners were bound; and he was there in the prison.
 > Genesis 39:20
@@ -2024,19 +2024,19 @@ Ibn Asakir reported that his mother was the daughter of Loot. It is said that hi
 However, of all these opinions, the first opinion is the most popular because he was from the progeny of Ibraheem. This is seen in the saying of Allah:
 
     "… and from his offspring Dawood, Sulaymân, Ayyub, Yusuf, Moosa and Hâroon…" 
-    Qur’an 6:84
+    Quran, surah Al-Anaam (The Cattle) 6:84
 
 In this verse, the pronoun ‘his’ is referring to Ibraheem and not Nooh.
 
 He is one of those Prophets who are mentioned specially that they received revelations. This is seen in Soorah an-Nisâ :
 
     "Indeed We have revealed to you as We revealed to Nooh and the Prophets after him. And We revealed to Ibraheem, Isma’eel, Ishâq, Ya’qoob, the tribes, ‘Eesa and Ayyub…" 
-    Qur’an 4:163
+    Quran, surah An-Nisaa (The Woman) 4:163
 
 So the correct opinion is that he is from the progeny of ‛Ees Ibn Ishaq Ibn Ibraheem. As regards his wife's name, it is said she was Leea bint Ya‛qoob. Some others say that her name was Rahmah bint Ifratheem. Yet some others claim that she was Leea bint Mansa Ibn Ya‛qoob. This is the most popular opinion, and we have mentioned it here.
 
     Allah said: "And Ayyub, when he called to his Lord, saying ‘Harm has inflicted me and You are the Most Merciful.' So We answered him and removed his affliction and We gave him his family and the like of them with them, as a mercy from Us and a reminder to Worshippers.'". 
-    Quran 21:83-84
+    Quran, surah Al-Anbiyah (The Prophets) 21:83-84
 
 And in Soorah Sâd:
 
@@ -2047,7 +2047,7 @@ And in Soorah Sâd:
     And We gave him his family and the like of thereof, as a mercy from Us and a reminder to those who understand. 
 
     "And take in your hand a bundle of thin grass and strike therewith and do not break your oath." Truly, We found him patient. How excellent a slave. Verily, he was ever oft-returning in repentance." 
-    Quran 38:41-44
+    Quran, surah Saad (The letter Saad) 38:41-44
 
 Quranic exegetes, historians and others said that Ayyub was a wealthy man who owned all kinds of wealth, such as cattle, sheep and servants, and vast property in a place called Hoorân. He also had many children and large family.
 
@@ -2068,7 +2068,7 @@ Mujahid is reported to have said that the Prophet Ayyub was the first to be infl
 However, the people then started to be cautious of her and did not employ her because they knew that she was the wife of Ayyub and because of that, they too might get infected by the same illnesses or be put to the same trial. So when she did not find anybody to give work, she went to some of the daughters of high society and sold one of her plait in return for plenty of food. When she came to Ayyub with food, he asked her where did she get the food from. He showed his disapproval but she said, "I worked for the people." Then when it was the following day and again she did not find anyone who gave her work, she sold the other plait in return for food. She then brought it to Ayyub. This time Ayyub swore that he would not eat the food till she tells him from where she has got it. At that, she removed her headscarf. When Ayyub ﷺ   saw her head has been shaved, he supplicated to Allah:
 
     And Ayyub when he called his Lord [saying], "Harm has inflicted me and You are the Most Merciful."
-    Quran 21:83
+    Quran, surah Al-Anbiyah (The Prophets) 21:83
 
 Ibn Abi Hâtim reported on the authority of ‘Abdullah ibn ‘Ubayd ibn Umayr who said: "Ayyub had two brother. One day, they came to him but they could not go near him because of the bad smell which came from his body. So they stood at a distance and one of them said to another, ‘If Allah knew any good in Ayyub, He would not have put him to this trial.’ This grieved Ayyub ﷺ   so much that he never got such grief before. He supplicated, ‘O’ Allah, if You know that I never spent a night with a full stomach if I knew someone hungry in that night, then prove me true.’ So he was proved true and a voice came from the heaven confirming his truth that was heard by the two brothers. He then supplicated further, ‘O’ Allah, if You know that I never had two shirts if I knew that someone did not have clothes, then prove me true.’ Again, he was proved true from the heavens while the brothers were listening. Finally, he supplicated, ‘O’ Allah, I seek help from Your Honour.’ When saying that, he fell down in prostration and said, ‘O’ Allah, by Your Honour, I will never lift my head till You cure me from my suffering.’ Then he did not lift his head till he was cured."
 
@@ -2090,7 +2090,10 @@ Allah also returned his family as He said,  `We gave to him his family, and the 
 
 Ayyub lived in the Roman land for a further seventy years after his affliction. He preached to them the religion of Monotheism, One God. However, they later changed the religion of Ibraheem after his death.
 
-Allah said: `"And take in your hand a bundle of reeds and strike with it, and do not break your oath. And We found him patient, a good slave, verily he was patient. (Qur’an 38:44)`
+Allah said: 
+
+    "And take in your hand a bundle of reeds and strike with it, and do not break your oath. And We found him patient, a good slave, verily he was patient."
+    Quran, surah Saad (The letter Saad) 38:44
 
 This speaks about His mercy upon Ayyub when Ayyub had sworn that he would whip his wife one hundred lashes. It is said that he made the oath because she sold her plaits. It is also said that Shaytân came to her disguised as a doctor (physician) and described to her some medicines for Ayyub. When she came and informed Ayyub, he knew it was Shaytân and subsequently swore that he would whip her one hundred lashes. When Allah cured him, He told him to take a bundle of reeds, bunch them together as one and then to hit her only once. This one hit was considered one hundred, thus he could fulfill his oath this way.
 
@@ -2101,7 +2104,7 @@ Ibn Jareer and others mentioned that when Ayyub (peace be upon him) died, he was
 Before he passed away, he entrusted his mission to his son Hawmal and after him to his other son Bishr. Many people claim that he was Dhul Kifl. And Allah knows best. These same people also claim that he was Prophet, who died at the age of ninety-five.
 
     And [mention] Ayyub, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." 
-    Quran, sura 21 (The Prophets), ayah 83
+    Quran, sura Al-Anbiyah (The Prophets) 21:83
 
 </details><details><summary>
 
@@ -2145,7 +2148,7 @@ According to Islamic theology, all Muslims must have faith in every prophet and 
 Musa is also viewed as a very important figure in Islam due to his reception of revelations such as the Ten Commandments, which form part of the contents of the Torah and are central to the Abrahamic religions of Judaism and Christianity. Consequently, Jews and Christians are designated as "People of the Book" for Muslims and are to be recognized with this special status wherever Islamic law is applied. According to Islamic tradition, Musa is one of the many prophets that meets Muhammad in the seven heavens following the latter's ascension from Jerusalem during the Miʿraj. During the journey, Musa is said to have repeatedly sent Muhammad back to meet God and request a reduction in the number of required daily prayers—originally 50—until only the five obligatory prayers remained. Musa is further revered in Islamic literature, which expands upon the incidents of his life and the miracles attributed to him in the Quran and hadith, such as his direct conversations with God.
 
     Verily, We did send down the Torah to Moses therein was guidance and light, by which the Prophets, who submitted themselves to God’s Will, judged the Jews.  And the rabbis and the priests too judged the Jews by the Torah for to them was entrusted the protection of God’s Book, and they were witnesses thereto.
-    Quran, 5:44
+    Quran, Al-Maaida (The Table) 5:44
 
 The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
 
@@ -2160,19 +2163,19 @@ The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were 
 According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Yusuf). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
 
     "We recite to you some of the news of Moses and Pharaoh in truth, for a people who believe. Verily, Pharaoh exalted himself in the land and made its people sects, weakening (oppressing) a group (i.e. Children of Israel) among them; killing their sons and letting their females live.  Verily, he was of those who commit great sins and crimes, oppressors, tyrant."
-    Quran, 28:3-4
+    Quran, surah Al-Qasas (The Stories) 28:3-4
 
 ### On the Nile
 
 According to Islamic tradition, Jochebed, Musa's mother, suckles him secretly during this period. When they are in danger of being caught, God inspires her to put him in a wicker basket and set him adrift on the Nile. She instructs her daughter to follow the course of the ark and report back to her. 
 
     So We sent this inspiration to the mother of Moses: "Suckle (thy child) but when thou hast fears about him cast him, into the river, but fear not nor grieve: for We shall restore him to thee, and We shall make him one of Our messengers."
-    Quran, 28:7
+    Quran, surah Al-Qasas (The Stories) 28:7
 
 As her daughter follows the ark along the riverbank, Musa is discovered by the Pharaoh's wife, Asiya, who convinces the Pharaoh to adopt him. When Asiya ordered wet nurses for Musa, Musa refuses to be breastfed. Islamic tradition states that this is because God forbids Musa from being fed by any wet nurse in order to reunite him with his mother. His sister worries that Musa has not been fed for some time, so she appears to the Pharaoh and informs him that she knows someone who can feed him. After being questioned, she is ordered to bring the woman being discussed. The sister brings their mother, who feeds Musa, and thereafter, she is appointed as the wet nurse of Musa.
 
     Then the household of Pharaoh picked him up, that he might become for them an enemy and a (cause of) grief Verily! Pharaoh, Haman and their hosts were sinners. And the wife of Pharaoh said: "A comfort of the eye for me and for you. Kill him not, perhaps he may be of benefit to us, or we may adopt him as a son." And they perceived not (the result of that). 
-    Quran Ayah 28:9
+    Quran, surah Al-Qasas (The Stories) 28:9
 
 </details><details><summary>
 
@@ -2183,20 +2186,21 @@ As her daughter follows the ark along the riverbank, Musa is discovered by the P
 After having reached adulthood, according to the Quran, Musa is passing through a city when he comes across an Egyptian fighting with an Israelite. The Israelite man is believed to be Sam'ana, known in the Bible to be a Samaritan, who asks Musa for his assistance against the Egyptian who is mistreating him. Musa attempts to intervene and becomes involved in the dispute. Musa strikes the Egyptian in a state of anger, which results in his death. Musa then repents to God.
 
     He said: "My Lord! Verily, I have wronged myself, so forgive me." Then He forgave him. Verily, He is the Forgiving, the Most Merciful.
+    Quran, surah Al-Qasas (The Stories) 28:16
 
 And the following day, he again comes across the same Israelite fighting with another Egyptian. The Israelite again asks Musa for help, and as Musa approaches the Israelite, he reminds Musa of his manslaughter and asks if Musa intended to kill the Egyptian. 
 
 Musa is reported, and the Pharaoh orders Musa to be killed. However, Musa flees to the desert after being alerted to his punishment. 
 
     So he escaped from there, looking about in a state of fear. He said: "My Lord! Save me from the people who are Zalimeen (polytheists and wrong-doers)!" 
-    Quran Ayah 28:15-21
+    Quran, surah Al-Qasas (The Stories) 28:15-21
 
 According to Islamic tradition, after Musa arrives in Midian, he witnesses two female shepherds driving back their flocks from a well. Musa approaches them and inquires about their work as shepherds and their retreat from the well. Upon hearing their answers and about the old age of their father, Musa waters their flocks for them.
 
     And when he arrived at the water of Midian (Midyan) he found there a group of men watering (their flocks), and besides them he found two women who were keeping back (their flocks). He said: "What is the matter with you ?" They said: "We cannot water (our flocks) until the shepherds take (their flocks). And our father is a very old man."
 
     So he watered their flocks for them, then he turned back to shade, and said: "My Lord! Truly, I am in need of whatever good that You bestow on me!" 
-    Quran Ayah 28:22-24
+    Quran, surah Al-Qasas (The Stories) 28:22-24
 
 The two shepherds return to their home and inform their father of Musa. They then invite Musa to a feast. At that feast, their father asks Musa to work for him for a period of eight years in return for marriage to one of his daughters. Musa consents and works for him for ten years.
 
@@ -2216,7 +2220,7 @@ In addition to physical preparation, there was a similar spiritual preparation. 
 ### Call to prophethood
 
     And when he attained his full strength, and was perfect (in manhood), We bestowed on him Hukman (Prophethood, right judgment of the affairs) and religious knowledge of the religion of his forefathers i.e., Islamic Monotheism. And thus do We reward the Muhsineen (i.e., good-doers). 
-    Quran Ayah 28:14
+    Quran, surah Al-Qasas (The Stories) 28:14
 
 According to the Quran, Musa departs for Egypt along with his family after completing the contracted time period (ten years). During their travel, as they stop near Tur, Musa observes a large fire and instructs the family to wait until he returns with fire 🔥 for them. 
 
@@ -2235,7 +2239,7 @@ When Musa reaches the Valley of Tuwa, God calls out to him from the right side o
     Allah said: "Grasp it, and fear not, We shall return it to its former state, - and press your (right) hand to your (left) side, it will come forth white (and shining), without any disease as another sign, - that We may show you (some) of Our Greater Signs.
 
     "Go to Pharoah! Verily, he has transgressed (all bounds in disbelief and disobedience, and has behaved as an arrogant, and as a tyrant)." 
-    Surah 9-24
+    Surah, surah At-Tawba (Repentance) 9-24
 
 Musa is commanded by God to remove his shoes and is informed of his selection as a prophet, his obligation of prayer and the Day of Judgment. Musa is then ordered to throw his rod, which turns into a snake 🐍, and later instructed to hold it. The Quran then narrates Musa being ordered to insert his hand into his clothes and when he revealed it, it shines a bright light. God states that these are signs for the Pharaoh, and orders Musa to invite Pharaoh to the worship of one God. Musa expresses his fear of Pharaoh and requests God to heal his speech impediment and grant him Harun as a helper. 
 
@@ -2252,12 +2256,12 @@ According to Islamic tradition, both of them state their fear of Pharaoh, but ar
     They said. "Our Lord! Verily! We fear lest he should hasten to punish us or lest he should transgress (all bounds against us)."
 
     He (Allah) said. "Fear not, Verily! I am with you both, Hearing and Seeing. So go you both to him, and say: 'Verily, we are Messengers of your Lord, so let the children of Israel go with us, and torment them not; indeed, we have come with a sign from your Lord! And peace will be upon him who follows the guidance! Truly, it has been revealed to us that the torment will be for him who denies believes not in the Oneness of Allah, and in His Messengers, etc., and turns away' (from the truth and obedience of Allah)." 
-    Quran Surah 20
+    Quran, surah Taa-Haa (Taa-Haa) 20
 
 The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) of ancient Egypt and to guide the Israelites, who were enslaved by the former. The Quran directly validates Musa and Harun as prophets chosen by God:
 
     And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet. And We called him from the side of the mount at [his] right and brought him near, confiding [to him]. And We gave him out of Our mercy his brother Harun as a prophet.
-    Quran 19:51–53
+    Quran, surah Maryam (Mary) 19:51–53
 
 </details><details><summary>
   
@@ -2294,7 +2298,7 @@ The Quran also mentions the Pharaoh questioning Musa: "And what is the Lord of t
     Moses said: "Even if I bring you something manifest (and convincing)."
 
     Pharaoh said: "Bring it forth then, if you are of the truthful!" 
-    Quran Surah 26:16-31
+    Quran, surah Ash-Shuraa (The Poets) 26:16-31
 
 When the Pharaoh demands to see the signs, Musa throws his staff to the floor, and it turns into a serpent 🐍. He then draws out his hand, and it shines a bright white light. The Pharaoh's counselors advises him that this is sorcery, and on their advice he summons the best sorcerers in the kingdom. The Pharaoh challenges Musa to a battle between him and the Pharaoh's magicians, asking him to choose the day. Musa chose the day of a festival.
 
@@ -2323,7 +2327,7 @@ When the sorcerers come to the Pharaoh, he promises them that they would be amon
     (Pharaoh) said: "Believe you in him (Moses) before I give you permission? Verily! He is your chief who taught you magic. So I will surely cut off your hands and feet on opposite sides, and I will surely crucify you on the trunks of palm-trees, and you shall surely know which of us I (Pharaoh) or the Lord of Moses (Allah) can give the severe and more lasting torment."
 
     They said: "We prefer you not over the clear signs that have come to us, and to Him (Allah) Who created us. So decree (regarding) this life of the world. Verily! We have believed in our Lord, that He may forgive us our faults, and the magic to which you did compel us. And Allah is better as regards reward in comparison to your (Pharaoh's) reward, and more lasting (as regards punishment in comparison to your punishment)." 
-    Quran Ayah 20:58-73
+    Quran, surah Taa-Haa (Taa-Haa) 20:58-73
 
 </details><details><summary>
 
@@ -2338,12 +2342,12 @@ After losing against Musa, the Pharaoh continues to plan against Musa and the Is
     Turning his face to the other side, Pharaoh asserted impatiently: "I know he is a liar." Then he looked towards Haman (and cried): "0 Haman! Build me a tower that I may arrive at the ways, - the ways of the heavens, and I may look upon the Ilah (God) of Moses but verily, I think him to be a liar."
 
     Thus it was made fair-seeming, in Pharaoh's eyes, the evil of his deeds, and he was hindered from the (Right) Path, and the plot of Pharaoh led to nothing but loss and destruction (for him). 
-    Quran Ayah 40:36-37
+    Quran, surah Ghafir (The Forgiver) 40:36-37
 
 Gradually, the Pharaoh begins to fear that Musa may convince the people that he is not the true god, and wants to have Musa killed. After this threat, a man from the family of Pharaoh, who had years ago warned Musa, comes forth and warns the people of the punishment of God for the wrongdoers and reward for the righteous. The Pharaoh defiantly refuses to allow the Israelites to leave Egypt.
 
     Pharaoh's terrorism infused the children of Israel with a spirit of defeat. They complained to Moses: "We (children of Israel) had suffered troubles before you came to us, and since you have come to us." He said: "It may be that your Lord will destroy your enemy and make you successors on the earth, so that He may see how you act." 
-    Quran Ayah 7:129
+    Quran, surah Al-Araaf (The Heights) 7:129
 
 <details><summary>
 
@@ -2380,13 +2384,13 @@ This angered Pharaoh and his counselors and they threatened to harm the man, but
     "And 0 my People! How is it that I call you to salvation while you call me to the Fire! You invite me to disbelieve in Allah (and in His Oneness), and to join partners in worship with Him, of which I have no knowledge, and I invite you to the All-Mighty, the Oft-Forgiving! No doubt you call me to (worship) one who cannot grant (me) my request (or respond to my invocation) in this world or in the Hereafter. And our return will be to Allah, and Al-Musrifeen (i.e. polytheists and arrogants, those who commit great sins, the transgressors of Allah's set limits)! They shall be the dwellers of the Fire! And you will remember what I am telling you, and my affair I leave it to Allah. Verily, Allah is the All-Seer of (His) slaves."
 
     So Allah saved him from the evils that they plotted (against him), while an evil torment encompassed Pharaoh's people. 
-    Quran Ayah 40:26-45
+    Quran, surah Ghafir (The Forgiver) 40:26-45
 </details>
 
 The Quran states that God decrees punishments over the pharaoh and his people. These punishments come in the form of floods that demolish their dwellings, swarms of locust that destroy the crops, pestilence of lice that makes their life miserable, toads that croak and spring everywhere, and the turning of all drinking water into blood. Each time the Pharaoh is subjected to humiliation, his defiance becomes greater. 
 
     As often as they were troubled grievously, they appealed to Moses thus: "0 Moses! Invoke your Lord for us because of His Promise to you. If you will remove the punishment from us, we indeed shall believe in you, and we shall let the children of Israel go with you."
-    Quran Ayah 7:134
+    Quran, surah Al-Araaf (The Heights) 7:134
 
 Moses prayed to his Lord and He relieved the suffering caused by the flood. The surging water ceased and withdrew from the land, and it became cultivatable. But when Moses bade them to fulfill their promise to release the children of Israel, they did not respond.
 
@@ -2399,9 +2403,9 @@ Then Allah sent swarms of locusts which ate whatever crops they had grown. The p
     They said (to Moses): "Whatever Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) you may bring to us, to work therewith your sorcery on us, we shall never believe in you." 
 
     So We sent on them: the flood, the locusts, the lice, the frogs, and the blood: (as a succession of) manifest signs, yet they remained arrogant, and they were of those people who were Mujrimeen (criminals, polytheists, sinners, etc.) 
-    Quran Ayah 7:130-133
+    Quran, surah Al-Araaf (The Heights) 7:130-133
 
-    Almighty Allah also said: But when We removed the punishment from them to a fixed term, which they had to reach, behold! They broke their word! Quran Ayah 7:135
+    Almighty Allah also said: But when We removed the punishment from them to a fixed term, which they had to reach, behold! They broke their word! Quran, surah Al-Araaf (The Heights) 7:135
 
 Pharaoh became ruder and more arrogant. He proclaimed to his people: "Pharaoh is the only god. Has he not the kingdom of Egypt and rivers flowing under it?" He declared that Moses was a liar, a magician, and a poor man who did not wear even one bracelet of gold. 
 
@@ -2416,7 +2420,7 @@ Pharaoh became ruder and more arrogant. He proclaimed to his people: "Pharaoh is
     And Pharaoh proclaimed among his people, saying: '0 my people! Is not mine the dominion of Egypt, and these rivers flowing underneath me. See you not then? Am I not better than this one (Moses), who is Mahin has no honor nor any respect, and is weak and despicable and can scarcely express himself clearly? Why then are not golden bracelets bestowed on him, or angels sent along with him?"
 
     Thus he (Pharaoh) befooled and misled his people, and they obeyed him. Verily, they were Fasiqeen (rebellious, disobedient to Allah).
-    Quran Ayah 43:46-55
+    Quran, surah Az-Zukhruf (Ornaments of Gold) 43:46-55
 
 ### Splitting of the sea
 
@@ -2425,7 +2429,7 @@ It appeared that Pharaoh would never believe in Moses's message, nor would he st
     "Our Lord! You have indeed bestowed on Pharaoh and his chiefs splendor and wealth in the life of this world, our Lord! That they may lead men astray from Your Path. Our Lord! Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment."
 
     Allah said: "Verily, the invocation of you both is accepted. So you both keep to the Straight Way (i.e. keep on doing good deeds and preaching Allah's Message with patience), and follow not the path of those who know not (the truth i.e. to believe in the Oneness of Allah, and also to believe in the Reward of Allah: Paradise etc.)." 
-    Quran Ayah 10:88-89
+    Quran, surah Yunus (Jonas) 10:88-89
 
 Allah inspired Moses to conduct his people out of Egypt, but only a few of his people believed in his message. Allah revealed: But none believed in Moses except the offspring of his people, because of the fear of Pharaoh and his chiefs, lest they should persecute them; and verily, Pharaoh was an arrogant tyrant on the earth, he was indeed one of the Musrifeen (polyt heists, sinners and transgressors, those who give up the truth and follow the evil, and commit all kinds of great sins).
 
@@ -2443,14 +2447,15 @@ Having escaped and now being pursued by the Egyptians, the Israelites stop when 
 
     Then We inspired Moses (saying): "Strike the sea with your stick." And it parted, and each separate (part of that sea water) became like the huge, firm mass of a mountain.
 
-    Then We brought near the others (Pharaoh's party) to that place. And We saved Moses and all those with him. Then We drowned the others. Verily! In this is indeed a sign (or a proof), yet most of them are not believers. And verily, your Lord! He is truly the All-Mighty, the Most Merciful." Quran Ayah 26:52
+    Then We brought near the others (Pharaoh's party) to that place. And We saved Moses and all those with him. Then We drowned the others. Verily! In this is indeed a sign (or a proof), yet most of them are not believers. And verily, your Lord! He is truly the All-Mighty, the Most Merciful." 
+    Quran, surah Ash-Shuaraa (The Poets) 26:52
 
 Terror-stricken Pharaoh, realizing that his end had come, declared out of fear: "I believe that there is no god worthy of worship except Allah in Whom the children of Israel believe, and I am of those who surrender to Him." But Allah did not accept this declaration from the tyrant, and the waters closed over him, drowning him and his entire army.
 
     And We took the children of Israel across the sea, and Pharaoh with his hosts followed them in oppression and enmity, till when drowning overtook him, he said: "I believe that La ilaha illa (Huwa): (none has the right to be worshiped but) He, in whom the children of Israel believe, and I am one of the Muslims (those who submit to Allah's Will)."
 
     Now (you believe) while you refused to believe before and you were one of the Mufsideen (evil-doers, corrupts, etc.). So this day We shall deliver your (dead) body (out from the sea) that you may be a sign to those who come after you! And verily, many among mankind are heedless or our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.). 
-    Quran Ayah 10:90-92
+    Quran, surah Yunus (Jonas) 10:90-92
 
 And after escaping the pharaoh with the help of Allah, Israelites continue their long journey to the Promised Land.
 
@@ -2463,6 +2468,7 @@ And after escaping the pharaoh with the help of Allah, Israelites continue their
 After leaving Egypt, the Israelites continue their journey to the Promised Land. Musa leads the Israelites to Mount Sinai (Tur). Upon arrival, Musa leaves the people, instructing them that Harun is to be their leader during his absence. Musa is commanded by God to fast for thirty days and to then proceed to the valley of Tuwa for guidance. God orders Musa to fast again for ten days before returning. After completing his fasts, Musa returns to the spot where he had first received his miracles from God. He takes off his shoes as before and goes down into prostration. Musa prays to God for guidance and begs God to reveal himself to him. It is narrated in the Quran that God tells him that it would not be possible for Musa to perceive God, but that He would reveal himself to the mountain, stating: 
 
     "By no means canst thou see Me (direct); But look upon the mount; if it abide in its place, then shalt thou see Me." When God reveals himself to the mountain, it instantaneously turns into ashes, and Musa loses consciousness. When he recovers, he goes down in total submission and asks forgiveness of God.
+    Quran, surah Al-Araaf (The Heights) 7:143
 
 Musa is then given the **Ten Commandments** by God as Guidance and as Mercy. Meanwhile, in his absence, a man named Samiri creates a Golden Calf, proclaiming it to be the God of Musa. The people begin to worship it. 
 
@@ -2482,11 +2488,13 @@ Harun attempts to guide Israelites away from the Golden Calf, but the Israelites
 
     And Aaron indeed had said to them beforehand: "0 my people! You are being tried in this, and verily, your Lord is (Allah) the Most Beneficent, so follow me and obey my order."
 
-    They said: "We will not stop worshipping it (i.e. the calf), until Moses returns to us." Quran Ayah 20:87-91
+    They said: "We will not stop worshipping it (i.e. the calf), until Moses returns to us." 
+    Quran, surah Taa-Haa (Taa-Haa) 20:87-91
 
 Musa, having thus received the scriptures for his people, is informed by God that the Israelites has been tested in his absence, and they have gone astray by worshiping the Golden Calf. 
 
     (Allah) said: "Verily! We have tried your people in your absence, and As-Samiri has led them astray."
+    Quran, surah Taa-Haa (Taa-Haa) 20:85
 
 Musa comes down from the mountain and returns to his people. The Quran states that Musa, in his anger, grabs hold of Harun by his beard and admonishes him for doing nothing to stop them, but when Harun tells Musa of his fruitless attempt to stop them, Musa understands his helplessness, and they both pray to God for forgiveness. Musa then questions Samiri for creating the Golden Calf. Samiri replies that it had simply occurred to him, and he had done so. Samiri is exiled, and the Golden Calf is burned to ashes, and the ashes are thrown into the sea. The wrong-doers who have worshipped the Calf are ordered to be punished for their crime.
 
@@ -2494,12 +2502,13 @@ Musa then chooses 70 elites from among the Israelites and orders them to pray fo
 
 Moses returned to Mount Sinai with the seventy elders and there he communicated with Allah. The elders heard Moses speaking with his Lord. (Allah spoke to Moses directly.) This was, perhaps, the last miracle that they would see, and it was hoped that it would be sufficient enough to convey the religion to their hearts forever. However, the seventy elite who heard the miracle were dissatisfied. 
 
-    They said to Moses: "0 Moses! We shall never believe in you till we see Allah plainly. " Quran Ayah 2:35
+    They said to Moses: "0 Moses! We shall never believe in you till we see Allah plainly. " 
+    Quran, surah Al-Bakarah (The Cow) 2:35
 
 Despite witnessing the speech between them, they refuse to believe until they see God with their own eyes, so as punishment, a thunderbolt kills them. Musa prays for their forgiveness, and they are resurrected. They return to camp and set up a tent dedicated to worshiping God, as Harun had taught them from the Torah. They resume their journey towards the Promised Land.
 
     And Moses chose out of his people seventy (of the best) men for Our appointed time and place of meeting, and when they were seized with a violent earthquake, he said: "0 my Lord, if it had been Your Will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish ones among us? It is only Your Trial by which You lead astray whom You will, and keep guided whom You will. You are our Wali (Protector), so forgive us and have Mercy on us, for You are the Best of Those who forgive. And ordain for us good in this world, and in the Hereafter. Certainly we have turned unto You."
-    Quran Ayah 7:155
+    Quran, surah Al-Araaf (The Heights) 7:155
 
 <details><summary>
 
@@ -2558,7 +2567,7 @@ They went on increasing their offer and the mother kept on refusing. Finally the
     And (remember) when you killed a man and fell into dispute among yourselves as to the crime. But Allah brought forth that which you were hiding. So We said: "Strike him (the dead man) with apiece of it (the cow)." Thus Allah brings the dead to life and shows you His Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) so that you may understand.
 
     Then after that your hearts were hardened and became as stones or even worse in hardness. And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which fall down for fear of Allah. And Allah is not unaware of what you do. 
-    Quran Ayah 2:67-74
+    Quran, surah Al-Bakarah (The Cow) 2:67-74
 
 </details>
 
@@ -2581,7 +2590,7 @@ Allah warned Moses of Korah's plot. Moses appealed to Allah to punish him for hi
     But those who had been given (religious) knowledge said: "Woe to you! The Reward of Allah (in the Hereafter) is better for those who believe and do righteous good deeds, and this none shall attain except those who are patient (in following the truth)."
 
     So We caused the earth to swallow him and his dwelling place. Then he had no group or party to help him against Allah, nor was he one of those who could save themselves. And those who had desired (for a position like) his position the day before, began to say: "Know you not that it is Allah Who enlarges the provision or restricts it to whomsoever He pleases of His slaves? Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up (also)!" Know you not that the disbelievers will never be successful? 
-    Quran Ayah 28:76-82
+    Quran, surah Al-Qasas (The Stories) 28:76-82
 
 </details><details><summary>
 
@@ -2607,7 +2616,7 @@ They hurriedly retraced their steps to the place where the rivers met and where 
     (Moses) said: "That is what we have been seeking." So they went back retracing their footsteps.
 
     Then they found one of Our slaves, unto whom We had bestowed mercy from Us, and whom We had taught knowledge from Us. 
-    Quran Ayah 18:60-65
+    Quran, surah Al-Kahf (The Cave) 18:60-65
 
 ### Moses Speaks to Al-Khidr
 
@@ -2639,7 +2648,8 @@ They hurriedly retraced their steps to the place where the rivers met and where 
 
     "And as for the boy, his parents were believers, and we feared lest he should oppress them by rebellion and disbelief. So we intended that their Lord should change him for them for one better in righteousness and near to mercy.
 
-    "And as for the wall, it belonged to two orphan boys in the town; and there was under it a treasure belonging to them; and their father was a righteous man, and your Lord intended that they should attain their age of full strength and take out their treasure as a mercy from your Lord. And I did it not of my own accord. That is the interpretation of those (things) over which you could not hold patience. Quran Ayah 18:60-82
+    "And as for the wall, it belonged to two orphan boys in the town; and there was under it a treasure belonging to them; and their father was a righteous man, and your Lord intended that they should attain their age of full strength and take out their treasure as a mercy from your Lord. And I did it not of my own accord. That is the interpretation of those (things) over which you could not hold patience. 
+    Quran, surah Al-Kahf (The Cave) 18:60-82
 
 </details><details><summary>
 
@@ -2718,7 +2728,7 @@ Taking Saul by the hand, Samuel led him to the children of Israel, but they insi
     But those who knew with certainty that they were to meet their Lord, said: "How often a small group overcame a mighty host by Allah's Leave?" And Allah is with the patient.
     
     And when they advanced to meet Goliath and his forces, they invoked. "Our Lord! Pour forth on us patience and make us victorious over the disbelieving people." 
-    Quran Surah 2:246-250
+    Quran, surah Al-Bakarah (The Cow) 2:246-250
 
 Saul set about organizing his army with strong faith and wisdom. He ordered that only men free from responsibilities should join. Those engaged in building homes, men who were about to be married and those occupied with business should not join.
 
@@ -2739,14 +2749,14 @@ Dawud (David), is a prophet and messenger of God and is righteous, divinely-anoi
 ### Narrative in the Quran
 
     And when they went forth to [face] Goliath and his soldiers, they said, "Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people."
-    Quran Al-Baqara 2: Verse 250
+    Quran, surah Al-Baqara (The Cow) 2:250
     
     So they defeated them by permission of Allah, and Dawud killed Goliath, and Allah gave him the kingship and prophethood and taught him from that which He willed. And if it were not for Allah checking [some] people by means of others, the earth would have been corrupted, but Allah is full of bounty to the worlds.
-    Quran Al-Baqara 2: Verse 251
+    Quran, surah Al-Baqara (The Cow) 2:251
 
 David's narrative in the Quran, in many respects, parallels that given in the Bible. He is named a prophet (nabī) and also a messenger (rasūl), David is included in lists of those who received revelation (waḥy; Q4:163) or guidance (hudā; 6:84) from God. In both lists his name appears next to that of his son Solomon. Elsewhere, the Quran explains that God gave to both of them the gifts of "sound judgment" (ḥukm; 21:79) and "knowledge" (ʿilm; 21:79; 27:15). 
 
-Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms" (Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr), presumably a reference to the Psalms or the Psalter. The mountains and the birds 🐦🐦 praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth. This role is also suggested by 2:251: 
+Yet the Quran also ascribes to David merits that distinguish him from Solomon: David killed Goliath (2:251) and received a divine revelation named "the Psalms" (Quran 17:55 uses an indefinite form, while 21:105 uses the definite form al-Zabūr), presumably a reference to the Psalms or the Psalter. The mountains and the birds 🐦🐦 praised God along with David (21:79; in 34:10 God commands them to do so; cfr. Psalm 148:7–10). God made David a "vicegerent" (khalīfa; 38:26), a title that the Quran otherwise gives only to Adam (2:30). This title suggests that, according to the Quran, David was something more than a messenger: he was a divinely guided leader who established God's rule on Earth. This role is also suggested by 2:251. 
 
     "God gave him authority (mulk) and wisdom (ḥikmah) and taught him what He willed. If God did not drive back some people by others, the earth would become corrupt."
 
@@ -2757,7 +2767,7 @@ Among the things taught to David was the ability to make armour (21:80, 34:10–
 David is one of the few Islamic Prophets who received Kingship as well. While other prophets preached during the reign of kings, David, in his time, was the king. Thus, he received an extremely large task, of making sure that the people of Israel were not only held in check spiritually but that the country itself remained strong as well. His place as both leader and prophet is revered by all Muslims as one of extremely high rank. The figure of David, together with that of his prophetic son, Solomon, are iconic of people who ruled justly over their land. God frequently mentions David's high rank as a prophet and messenger in the Quran. He is often mentioned alongside other prophets to emphasize how great he was. For example, God says:
 
     And We gave him Isaac and Jacob and guided them, as We had guided Noah before them, and of his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus We reward those who are upright and do good.
-    Quran 6:84
+    Quran, surah Al-Anaam (The Cattle) 6:84
 
 When the Caliph 'Umar visited Jerusalem, the Patriarch Sophronius accompanied him on the Temple Mount, while he searched for the Mihrab Dawud (David's prayer-niche) to perform a prayer. Later commentators identified this site with the Tower of David. In a hadith, the prayer and fasting of David is mentioned to be dear to God.
 
@@ -2771,7 +2781,7 @@ Narrated Abdullah bin 'Amr bin Al-'As:
 The Zabur is the holy book attributed to David by God, just as Musa (Moses) received the Tawrat (Torah), Isa (Jesus) received the Injil (Gospel) and prophet Muhammad ﷺ   received the Quran. In the current Hebrew Bible, the Zabur is known as the Psalms. However, like other scriptures of the past, the Psalms are believed to have been corrupted over time, with some of the original message now gone. Nonetheless, Muslims are told to treat the present Psalms with immense respect because, in their original form, they too were an inspired Book of God. The Quran states:
 
     Your Lord knows whoever is in the heavens and the earth. We exalted some of the prophets over the others; and to David We gave the Book of Psalms.
-    Quran 17:55
+    Quran, surah Al-Isra (The Night Journey) 17:55
 
 The term Zabur is the Arabic equivalent of the Hebrew Zimra, meaning "song/music." It, along with Zamir ("song") and Mizmor ("Psalm"), is a derivative of Zamar, meaning "sing", "sing praise", "make music". Thus, David is also usually attributed the gifts of music and song.
 
@@ -2790,12 +2800,12 @@ Muslims further maintain that he remained faithful to the one and only God throu
     And (We made subservient) to Sulayman, the wind blowing violent, pursuing its course by his command to the land which We had blessed and we are knower of all things: And of the rebellious people there were those who dived for him and did other work besides that; and we kept guard over them;
     
     And Sulayman was Dawud’s heir, and he said, "O men! we have been tangent the language of birds, and we have been given all things; most surely this is manifest grace". 
-    Quran 38:34-35
+    Quran, surah Saad (The letter Saad) 38:34-35
 
 Unlike the Talmudic tradition, Solomon was unaware and never participated in idolatry. And the Quran rejects that Solomon was a magician: 
 
     "Solomon did not disbelieve, but the devils disbelieved, teaching men magic and". 
-    Quran, Al-Baqara 2:102
+    Quran, suraf Al-Baqara (The Cow) 2:102
 
 ### Judgment on the field
 
@@ -2812,7 +2822,7 @@ The Quran narrates that the wind was made subservient to Solomon, and he could c
     And (we made) the wind (subservient) to Sulayman, which made a month’s journey in the morning and a month’s journey in the evening and we made a fountain of molten copper to flow out for him; and of the jinn there were those who worked before him by the command of his Lord; and who ever turned aside from Our Command from among them, We made him taste of the punishment of burning. They made for him what he pleased of fortresses and usages, and bowls (large) as watering troughs and cooking pots that will not move from their place; give thanks, O family of Dawud! and very few of My Servants are grateful.
     
     And certainly We tried Sulayman and we put on his throne a (mere) body, so he turned (to Allah). He said, My Lord! do Thou forgive me and grant me a kingdom which is not fit for (being inherited by) anyone after me; surely Thou art the great Giver. Then We made the wind subservient to him; it made his command to run gently wherever he desired, And the Shaitans, every builder and liver, And others fettered in chains, This is Our free gift, therefore give freely or with hold, with out reckoning.
-    Quran, Surah 38
+    Quran, surah Saad (The letter Saad) 38
 
 ### Solomon and the Ant 🐜
 
@@ -2827,7 +2837,7 @@ Immediately understanding what the ant said, Solomon, as always, prayed to God, 
     At length, when they came to a (lowly) valley of ants, one of the ants said: "O ye ants, get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it."
     
     So he smiled, amused at her speech; and he said: "O my Lord! so order me that I may be grateful for Thy favours, which thou hast bestowed on me and on my parents, and that I may work the righteousness that will please Thee: And admit me, by Thy Grace, to the ranks of Thy righteous Servants."
-    Quran 27:18-19
+    Quran, surah An-Naml (The Ant) 27:18-19
 
 Exegetical literature emphasizes the ant's wisdom and explains the meaning behind Solomon's gift to control the wind. According to Siracü'l-Kulub, the ant asks Solomon if he knows why he is called "Solomon" (Süleyman). Solomon negates and the ant went on to explain: "Although your heart was sound (selim) and you know the circumstances of the next world, you have accepted a few pleassures of this world and have been deceived by its possesion and kingship; therefore you are called Solomon." Afterwards the ant asks Solomon, if he knows why God has subdued the wind for him. Once again, Solomon denies and the ant answers: "He has subdued the wind for a reason: that which you have accepted is nothing. Just as the wind passes, the world's wealth and kingship pass too." Scholars like Fakhr al-Din Razi and al-Qurtubi elevated the ant to the rank of an examplar for humans to follow.
 
@@ -2848,7 +2858,7 @@ The hoopoe eventually came to Solomon and explained the reason for its delay:
 The Hud-hud further told Solomon that the people of Sheba worshiped the Sun, and that the woman who ruled the kingdom was highly intelligent and powerful. Solomon, who listened closely, chose to write a letter to the land of Sheba, through which he would try to convince the people of Sheba to cease in worshiping the Sun, and to come to the worship of God. Solomon ordered the Hud-hud to give the letter to the Queen of Sheba (Bilqis), and then to hide and observe her reaction. The Hud-hud accepted Solomon's orders, and flew to give the letter to her. The Queen then called her ministers in the court and announced the letter of Solomon stating to the people of Sheba.
 
     The hoopoe dropped the letter in front of the queen and flew away to hide. She excitedly opened and read it: "Verily! It is from Solomon, and verily! It (reads): 'In the Name of Allah, the Most Beneficent, the Most Merciful; be you not exalted against me, but come to me as Muslims (true believers who submit to Allah with full submission)." 
-    Quran Ayah 27:30-31
+    Quran, surah An-Naml (The Ant) 27:30-31
 
 She asked for suggestions from her minister and administration stating:
 
@@ -2863,7 +2873,7 @@ She asked for suggestions from her minister and administration stating:
     She said: "Verily! Kings, when they enter a town (country), they despoil it, and make the most honorable amongst its people low. And thus they do. But verily! I am going to send him a present, and see with what (answer) the messengers return."
 
     So when (the messengers with the present) came to Solomon, he said: "Will you help me in wealth? What Allah has given me is better than that which He has given you! Nay, you rejoice in your gift!" (Then Solomon said to the chief of her messengers who brought the present): "Go back to them. We verily shall come to them with hosts that they cannot resist, and we shall drive them out from there in disgrace, and they will be abased." 
-    Quran Ayah 27:29-37
+    Quran, surah An-Naml (The Ant) 27:29-37
 
 The queen's envoys returned with the gifts and delivered the message. They also told her of the wonderful things they had seen. Instead of taking offense, she decided to visit Solomon. Accompanied by her royal officials and servants, she left Sheba, sending a messenger ahead to inform Solomon that she was on her way to meet him.
 
@@ -2892,7 +2902,7 @@ No sooner had this one - who had the knowledge of the Book - finished his phrase
     Solomon said: "Verily, it is Sarh paved smooth with slab of glass."
 
     She said: 'My Lord! Verily, I have wronged myself and I submit (in Islam), together with Solomon, to Allah, the Lord of the Alamin (mankind, jinns, and all that exists)." 
-    Quran Ayah 27:38-441
+    Quran, surah An-Naml (The Ant) 27:38-441
 
 During Bilqis' travel, Solomon asks his servants to deliver her throne to his court. An ifrit offers his service (Q27:38-40), but Solomon declines. Another man is endowed with this task instead, who prays to God for the throne. Afterwards, the prayer is answered and the throne appears thanks to God's power in Solomon's palace. When Bilqis arrives, Solomon asks if she can recognize her throne. She gives him an evasive answer, because she can not grasp the miracle performed here. Since this miracle was done by God (and not by the ifrit), she surrenders to the faith of Solomon. Solomon declined the ifrit's temptatious offer, because he wants to rely on God only and not on the demonic, this leading to his successful conversation of Bilqis.
 
@@ -2907,7 +2917,7 @@ During his time horses were the common mode of transportation. They were very es
     And, indeed We did try Solomon and We placed on his throne Jasadan (a devil, so he lost his kingdom for a while) but he did return (to his throne and kingdom by the Grace of Allah and he did return) to Allah with obedience and in repentance. He said: 'My Lord.' Forgive me, and bestow upon me a kingdom such as shall not belong to any other after me: verily, You are the Bestower."
 
     So, We subjected to him the wind, it blew gently to his order whither-so-ever he willed - and also the devils from the jinns (including) every kind of builder and diver, - and also others bound in fetters. (Saying of Allah to Solomon): 'This is Our gift, so spend you or withhold, no account will be asked." And verily, he enjoyed a near access to Us, and a good final return (Paradise). 
-    Quran Ayah 38:30-40
+    Quran, surah Saad (The letter Saad) 38:30-40
 
 ### Death
 
@@ -2916,7 +2926,7 @@ The Quran relates that Solomon died while he was leaning on his staff. Then a cr
     Allah the Exalted revealed: And We caused a fount of (molten) brass to flow for him, and there were jinns that worked in front of him by the Leave of his Lord, and whosoever of them turned aside from Our Command, We shall cause him to taste of the torment of the blazing Fire. They worked for him what he desired, (making) high rooms, images, basins as large as reservoirs, and (making) cauldrons fixed (in their places). 'Work you, 0 family of David, with thanks!" But few of My slaves are grateful.
 
     Then, when We decreed (Solomon's) death, nothing showed them his death except a little worm of the earth, which kept (slowly) gnawing away at his staff: so when he fell down, the Jinn saw plainly that if they had known the unseen, they would not have tarried in the humiliating Penalty (of their Task).
-    Quran, Surah 34 (Sabaʾ), Ayah 12-14
+    Quran, surah Saba (Sheba) 34:12-14
 
 As he remained upright, propped on his staff, the jinn thought he was still alive and supervising them.
 
@@ -2931,7 +2941,7 @@ The jinn realized the truth only when God sent a creature to crawl out of the gr
 Almighty Allah said: 
     
     Did you (0 Muhammad) not think of those who went forth from their homes in thousands, fearing death? Allah said to them, 'Die." And then He restored them to life. Truly, Allah is full of Bounty to mankind, but most men thank not. 
-    Quran Ayah 2:243
+    Quran, surah Al-Bakarah (The Cow) 2:243
 
 Mohammad Ibn Ishaaq stated of Wahb Ibn Munbah said that
 > when Allah took Kalih Ibn Yofra (Jephtha) after Joshua, Ezekiel Ibn Buzi succeeded him as the prophet to the Israelites. The people had fled from Palestine for fear of the plague and settled on a plateau. Allah said to them: "Die you all," and they all perished. A few centuries passed, and then Ezekiel, passing by, stopped over them, wondering. There came a voice: Do you want Allah to resurrect them while you watch?" He said: "Yes." Then he was commanded to call those bones to join one to the other and to be covered with flesh. So he called them by the power of Allah, and the people arose and glorified Allah in the voice of one man.
@@ -2963,17 +2973,17 @@ Ilyas is first mentioned as a prophet in Al-An'am 6:85. He invited his people wh
 Ilyas is mentioned in the Quran, where his preaching is recounted in a concise manner. The Quran narrates that Ilyas told his people to come to the worship of God and to leave the worship of Baal, the primary idol of the area. The Quran states:
 
     Verily Ilyas was one of the apostles. When he said to his people: "Will you not fear God? Will ye call upon Ba'al and leave the Best of Creators, God, your Lord and Cherisher and the Lord and Cherisher of your fathers of old?"
-    As-Saaffat 123–126
+    Quran, surah As-Saaffat (Those drawn up in ranks) 37:123–126
 
 The Quran makes it clear that the majority of Ilyas' people denied the prophet and continued to follow idolatry. However, it mentions that a small number of devoted servants of God among them followed Elijah and believed in and worshiped God. The Quran states, `They denied him (Elijah), and will surely be brought to punishment, Except the sincere and devoted Servants of God (among them). And We left his (memory) for posterity.`
 
 In the Quran, God praises Elijah in two places:
 
     Peace be upon Elijah! This is how We reward those who do good. He is truly among our believing servants.
-    Quran, chapter 37 (As-Saaffat), verse 129–132
+    Quran, surah As-Saaffat (Those drawn up in Ranks) 37:129–132
 
     And Zakariya and Yahya and Isa and Ilyas, they were all from among the righteous.
-    Quran, chapter 6 (Al-An'am), verse 85
+    Quran, surah Al-Anam (The Cattle) 6:85
 
 Numerous commentators, including Abdullah Yusuf Ali, have offered commentary on verse 85 saying that Ilyas, Zakariya, Yahya and Isa were all spiritually connected. Abdullah Yusuf Ali says, "The third group consists not of men of action, but Preachers of Truth, who led solitary lives. Their epithet is: "the Righteous." They form a connected group round Jesus. Zachariah was the father of John the Baptist, who is referenced as "Ilyas, which was for to come" (Matt 11:14); and Elias is said to have been present and talked to Jesus at the Transfiguration on the Mount (Matt. 17:3)."
 
@@ -2994,10 +3004,10 @@ Alyasa is a prophet and messenger of God (Allah) who was sent to guide the Child
 The name of Alyasa is mentioned twice in Al-An'am 6:86 and Sad 38:48. In those verses, without mentioning anything about the personality or prophethood of Alyasa, he is mentioned as "graced" and "among the elect". According to the Quran, Elisha is exalted "above the rest of creation" (Arabic: "among the excellent". Alyasa is mentioned along with Ismail:
 
     "And Ismail and Alyasa and Yunus, and Lut; and each one We graced over the worlds"
-    Quran Al-Anam 6:86
+    Quran, surah Al-Anam (The Cattle) 6:86
 
     "And remember Our servants Ismail, Alyasa, and Dhul-Kifl, each of them truly good."
-    Quran Sad 38:48
+    Quran, surah Sad (The letter Saad) 38:48
 
 ### Elisha in the New Testament
 
@@ -3028,7 +3038,7 @@ The inhabitants of the town of Nineveh were idolators who lived a shameless life
 Try as he might to convince them of the foolishness of idolatry and of the goodness of Allah's laws, they ignored him. He warned them that if they kept on with their foolishness, Allah's punishment would soon follow. Instead of fearing Allah, they told Jonah that they were not afraid of his threats. "Let it happen," they told him. Jonah was disheartened. "In that case I will leave you to your misery!" So saying, he left Nineveh, fearing that Allah's anger would soon follow. 
 
     "And (remember) Dhan-Nun (Jonah), when he went off in anger, and imagined that We shall not punish him (i.e., the calamities which had befallen him)!" 
-    Surah 21:87
+    Surah, surah Al-Nabiyaa (The Prophets) 21:87
 
 ### People of Yunus repent
 
@@ -3061,7 +3071,7 @@ The whale found Yunus floating on the waves before it. It swallowed Yunus into i
 Three layers of darkness enveloped him, one above the other: the darkness of the whale's stomach, the darkness of the bottom of the sea, the darkness of the night. Jonah imagined himself to be dead, but his senses became alert when he found he could move. He knew that he was alive and imprisoned in the midst of three layers of darkness. His heart was moved by remembering Allah. His tongue was released soon after saying: "La ilaha illa Anta (none has the right to be worshipped but You (0, Allah), Glorified (and Exalted) be You above all that (evil) they associate with You. Truly, I have been of the wrong-doers." 
 
     And ˹remember˺ when the Man of the Whale stormed off ˹from his city˺ in a rage, thinking We would not restrain him. Then in the ˹veils of˺ darkness he cried out, "There is no god ˹worthy of worship˺ except You. Glory be to You! I have certainly done wrong."
-    Surah 21:87
+    Quran, surah Al-Nabiyaa (The Prophets) 21:87
 
 Jonah continued praying to Allah, repeating this invocation. Fishes, whales, sea-weeds, and all the creatures that lived in the sea heard the voice of Jonah praying, heard the celebration of Allah's praises issuing from the whale's stomach. All these creatures gathered around the whale and began to celebrate the praises of Allah in their turn, each in its own way and in its own language.
 
@@ -3092,7 +3102,7 @@ Surah 37:139-148 retells the full story of Yunus:
 
     And We sent him (on a mission) to a hundred thousand (men) or more.
     And they believed; so We permitted them to enjoy (their life) for a while."
-    Quran, chapter 37 (As-Saaffat), verses 139–148
+    Quran, surah As-Saaffat (Those drawn up in Ranks) 37:139–148
 
 ### Hadithic mentions
 
@@ -3117,7 +3127,7 @@ Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
     Quran, Surah Al-Anbiya (21), Ayahs 85–86
 
     "And commemorate Ismail, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good."
-    Quran, Surah Sad (38), Ayah 48
+    Quran, surah Saad (The letter Saad) 38:48
 
 In both cases, Dhu al-Kifl is mentioned in the context of a list of Quranic prophets, including many others not mentioned in the ayat quoted above.
 
@@ -3137,7 +3147,8 @@ In February 624, when the qibla (direction of prayer) changed from Jerusalem to 
 
 In some Islamic texts, Ezra is identified as the person mentioned in Quran 2:259
 
-    Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall God bring it (ever) to life, after (this) its death?" but God caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that God hath power over all things." (Quran 2:259)
+    Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall God bring it (ever) to life, after (this) its death?" but God caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that God hath power over all things." 
+    Quran, surah Al-Bakarah (The Cow) 2:259
 
 According to the classical Quranic exegete, Ibn Kathir, after Ezra questioned how the resurrection will take place on the Day of judgment, God had him brought back to life many years after he died. He rode on his revived donkey and entered his native place. Ezra then led the people to locate the only surviving copy of Torah as the remaining were burnt by Nebuchadnezzar. It was rotting and crumpled, so Ezra had a new copy of the Torah made which he had previously memorized. He thus renovated the Torah to the Children of Israel. Ibn Kathir mentions that the sign in the phrase "And that We may make of thee a sign unto the people" was that he was younger than his children. After this miracle, Ibn Kathir writes that Jews began to claim that Ezra was the 'son of God'.
 
@@ -3195,7 +3206,7 @@ Zakariya was a righteous priest and prophet of God whose office was in the Secon
 As he reached his old age, Zakariya began to worry over who would continue the legacy of preaching the message of God after his death and who would carry on the daily services of the temple after him. Zakariya started to pray to God for a son. The praying for the birth of an offspring was not merely out of the desire for a child. He prayed both for himself and for the public – they needed a messenger, a man of God who would work in the service of the Lord after Zakariya. Zakariya had character and virtue and he wanted to transfer this to his spiritual heir as his most precious possession. His dream was to restore the household to the posterity of the Patriarch Jacob, and to make sure the message of God was renewed for Israel. As the Quran recounts:
 
     A mention of the mercy of your Lord to His servant Zakariya. When he cried unto his Lord a cry in secret, saying: My Lord! Lo! the bones of me wax feeble and my head is shining with grey hair, and I have never been unblest in prayer to Thee, my Lord. Lo! I fear my kinsfolk after me, since my wife is barren. Oh, give me from Thy presence a successor who shall inherit of me and inherit (also) of the house of Jacob. And make him, my Lord, acceptable (unto Thee). 
-    Quran 19:4–6
+    Quran, surah Maryam (Mary) 19:4–6
 
 ### Fathering Yahya
 
@@ -3204,19 +3215,19 @@ As a gift from God, Zakariya was given a son named Yaḥyá (يحيى, identifie
 In accordance with Zakariya's prayer, God made John (Yahya) renew the message of God, which had been corrupted and lost by the Israelites. As the Quran says:
 
     O Zachariah! Lo! We bring thee tidings of a son whose name is John; we have given the same name to none before (him). He said: My Lord! How can I have a son when my wife is barren and I have reached infirm old age? He said: So shall it be, your Lord says: It is easy to Me, and indeed I created you before, when you were nothing. He said: My Lord! give me a sign. He said: Your sign is that you will not be able to speak to the people three nights while in sound health.
-    Quran 19:7–10
+    Quran, surah Maryam (Mary) 19:7–10
 
 ### Guardian of Maryam
 
 According to the Quran, Zakariya was the guardian of Maryam. The Quran states:
 
     (Remember) when the wife of 'Imran said: My Lord! I have vowed unto Thee that which is in my belly as a consecrated (offering). Accept it from me. Lo! Thou, only Thou, art the Hearer, the Knower! And when she was delivered she said: My Lord! Lo! I am delivered of a female - Allah knew best of what she was delivered - the male is not as the female; and lo! I have named her Mary, and lo! I crave Thy protection for her and for her offspring from Satan the outcast. And her Lord accepted her with full acceptance and vouchsafed to her a goodly growth; and made Zachariah her guardian. Whenever Zachariah went into the sanctuary where she was, he found that she had food. He said: O Mary! Whence cometh unto thee this (food)? She answered: It is from Allah. Allah giveth without stint to whom He will.
-    Quran 3:35–37
+    Quran, surah Aal-i-Imran (The House of Imran) 3:35–37
 
 The fact that, of all the priests, it was Zakariya who was given the duty of keeping care of Mary (Maryam) shows his status as a pious man. Zakariya is frequently praised in the Quran as a prophet of God and righteous man. One such appraisal is in sura al-An'am:
 
     "And Zakariya and Yahya and Isa and Eliyas. Each one was of the righteous."
-    Quran 6:85
+    Quran, surah Al-Anaam (The Cattle) 6:85
 
 </details><details><summary>
 
@@ -3230,7 +3241,12 @@ Commentators on the Quran remark on the last verse that Mary was as close to a p
 
 According to exegesis and literature, Gabriel appeared to Mary, who was still young in age, in the form of a well-made man with a "shining face" and announced to her the birth of Jesus. After her immediate astonishment, she was reassured by the angel's answer that God has the power to do anything. The details of the conception are not discussed during these angelic visits, but elsewhere the Quran states (Quran 21:91) and 66:12) that God breathed "His Spirit" into Mary while she was chaste.
 
-According to the Quran, Mary was chosen twice by the Lord. `"O Mary! Verily Allah has chosen you and puriﬁed you and chosen you above the women of the worlds" (Quran 3:42)`; and the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.
+According to the Quran, Mary was chosen twice by the Lord. 
+
+    "O Mary! Verily Allah has chosen you and puriﬁed you and chosen you above the women of the worlds"
+    Quran, surah Aal-i-Imraan (The House of Imraan) 3:42
+
+and the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.
 
 The Quran narrates the virgin birth of Jesus numerous times. In chapter 19 (Maryam), verses (ayat) 17–21, the annunciation is given, followed by the virgin birth in due course. Quran 3:47 also supports the virginity of Mary, revealing that `"no man has touched [her]"`.
 
@@ -3239,7 +3255,7 @@ According to the Quran, the following conversation transpired between the angel 
     And mention, [O Muhammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. And she took, in seclusion from them, a screen. Then We sent to her Our spirit, and he represented himself to her as a well-proportioned man. She said, "Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allah." 
 
     He said, "I am only the messenger of your Lord to give you a pure boy." She said, "How can I have a boy while no man has touched me and I have not been unchaste?" He said, "Thus [it will be]; your Lord says, 'It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter [already] decreed.'
-    Quran 19:16-21
+    Quran, surah Maryam (Mary) 19:16-21
 
 The Quran's narrative of the virgin birth is somewhat different from that in the New Testament. The Quran states that when the pains of childbirth came upon Mary, she held onto a nearby palm tree 🌴, at which point a voice came from "beneath the (palm-tree)" or "beneath her", which said " `"Grieve not! for thy Lord hath provided a rivulet beneath thee; "And shake towards thyself the trunk of the palm-tree: It will let fall fresh ripe dates upon thee."` The Quran goes on to describe that Mary vowed not to speak to any man on that day, as God was to make Jesus, who Muslims believe spoke in the cradle, perform his first miracle. The Quran goes on to narrate that Mary then brought Jesus to the temple, where immediately she began to be taunted by all the men, excluding Zechariah, who believed in the virgin birth. The Israelites questioned Mary how she came to be with child whilst unmarried, to which Mary pointed to the baby Jesus. It was then that, according to the Quran, the infant Jesus began to speak in the cradle, and spoke of his prophecy for the first time.
 
@@ -3265,14 +3281,14 @@ The Quran claims that Yahya was the first to receive this name (Quran 19:7–10)
     He said: "So (it will be) thy Lord saith, 'that is easy for Me: I did indeed create thee before, when thou hadst been nothing!'"
 
     (Zakarya) said: "O my Lord! give me a Sign." "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three nights."
-    Quran, surah Maryam 19: 7–10
+    Quran, surah Maryam (Mary) 19:7–10
 
 ### Prophethood
 
 Yahya was exhorted to hold fast to the scripture and was given wisdom by God while still a child. He was pure and devout, and walked well in the presence of God. He was dutiful towards his parents and he was not arrogant or rebellious. John's reading and understanding of the scriptures, when only a child, surpassed even that of the greatest scholars of the time. Muslim exegesis narrates that Isa sent Yahya out with twelve disciples, who preached the message before Jesus called his own disciples. The Quran says:
 
     "O Yaḥya! take hold of the Book with might": and We gave him Wisdom even as a youth,
-    Quran, surah Maryam, 19:12
+    Quran, surah Maryam (Mary) 19:12
 
 Yahya was a classical prophet, who was exalted high by God for his bold denouncing of all things sinful. Furthermore, the Quran speaks of Yahya's gentle piety and love and his humble attitude towards life, for which he was granted the purity of Life.
 
@@ -3289,7 +3305,6 @@ Isa ibn Maryam (عِيسَى ٱبْنُ مَرْيَمَ, lit. 'Jesus, son of 
 > Isa (Jesus) has a very important role in Islam as a prophet and the Messiah, who is to return to earth before the Judgement Day to unite Muslims and defeat Dajjal (Antichrist). 
 >
 > As in the Christian New Testament, the Quran (the central religious text of Islam) describes Jesus as al-Masīḥ (Arabic for messiah), born of a virgin, performing miracles, accompanied by disciples, rejected by the Jewish establishment, and being raised to heaven. The Quran firmly states that Jesus is not divine and he is not the Son of God. Also, the Quran differs from the New Testament in proclaiming that Jesus was neither crucified nor died on the cross.
-> 
 
 The significance of Jesus in Islam is reflected in his being mentioned in the Quran in 93 verses with various titles attached such as `"Son of Mary"`, "`Spirit of God"`, and the `"Word of God"`, and other relational titles, mentioned directly and indirectly, over 187 times. Jesus is more briefly described in Surah Maryam, Chapter 19 of Quran. Thus, he is one of the most mentioned people in the Quran by reference; 25 times by the name Isa, third-person 48 times, first-person 35 times and the rest as titles.
 
@@ -3317,7 +3332,8 @@ The account of the birth of Jesus follows the Quran's narrative, adding that the
 
     Then she pointed to him. They said: "How can we talk to one who is a child in the cradle?"
 
-    He (Jesus) said: "Verily! I am a slave of Allah. He has given me the Scripture and made me a Prophet; And He has made me blessed wheresoever I be, and has enjoined on me prayer, and Zakat, as long as Ilive, and dutiful to my mother, and made me not arrogant, unblest. And Salam (peace) be upon me the day I was born, and the day I die, and the day I shall be raised alive!" Quran Ayah 19:27-33
+    He (Jesus) said: "Verily! I am a slave of Allah. He has given me the Scripture and made me a Prophet; And He has made me blessed wheresoever I be, and has enjoined on me prayer, and Zakat, as long as Ilive, and dutiful to my mother, and made me not arrogant, unblest. And Salam (peace) be upon me the day I was born, and the day I die, and the day I shall be raised alive!" 
+    Quran, surah Maryam (Mary) 19:27-33
 
 ### Speaking from the cradle
 
@@ -3332,10 +3348,10 @@ Almighty Allah refuted the claims of the Jews and the Christians in many verses 
     Indeed you have brought forth (said) a terrible evil thing Where by the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins, that they ascribe a son (or offspring or children) to the Most Beneficent (Allah).
 
     But it is not suitable for (the Majesty of) the Most Beneficent (Allah) that He should beget a son (or offspring or children). There is none in the heavens and the earth but comes unto the Most Beneficent (Allah) as a slave. Verily He knows each one of them, and has counted them a full counting And everyone of them will come to Him alone on the Day of Resurrection (without any helper, or protector or defender).
-    Quran Ayah 19:88-95
+    Quran, surah Maryam (Mary) 19:88-95
 
     Almighty Allah commanded: O people of the Scripture (Jews and Christians)! Do not exceed the limits in your religion, nor say of Allah aught but the truth. The Messiah Jesus, son of Mary was (no more than) a Messenger of Allah and His Word, ("Be" - and he was) which He bestowed on Mary and a spirit (Ruh) created by Him; so believe in Allah and His Messengers. Say not: 'Three (trinity)!" Cease! (It is) better for you. For Allah is (the only) One Ilah (God), Glory be to Him (Far Exalted is He) above having a son. To Him belongs all that is in the heavens and all that is in the earth. And Allah is All-Sufficient as a Disposer of affairs.
-    Quran Ayah 4:171-173
+    Quran, surah An-Nisa (The Woman) 4:171-173
 
 ### Miracles performed by Isa
 
@@ -3346,7 +3362,7 @@ These six miracles in the Quran are without detail unlike the Gospel and their n
     (Remember) when Allah will say (on the Day of Resurrection): 'O Jesus, son of Mary! Remember My Favor to you and to your mother when I supported you with Ruh-ul-Qudus (Gabriel) so that you spoke to the people in the cradle and in maturity and when I taught you writing Al-Hikmah (the power of understanding), the Torah and the Gospel; and when you made out of the clay, as it were, the figure of a bird, by My Permission, and you breathed into it, and it became a bird by My Permission, and you healed those born blind, and the lepers by My Permission, and when you brought forth the dead by My Permission; and when I restrained the Children of Israel from you (when they resolved to kill you) since you came unto them with clear proofs, and the disbelievers among them said: 'This is nothing but evident magic.
 
     And when I (Allah) put in the hearts of the disciples (of Jesus) to believe in Me and My Messenger, they said: "We believe. And bear witness that we are Muslims. " 
-    Quran Ayah 5:110-111
+    Quran, surah Al-Maaida (The Table) 5:110-111
 
 #### Creating birds 🐦🐦 from clay
 
@@ -3585,7 +3601,7 @@ About a 150 years later, after the departure of Jesus Christ, a Church father by
     Will they not repent to Allah and ask His Forgiveness? For Allah is Oft-Forgiving Most Merciful.
 
     The Messiah (Jesus), son of Mary, was no more than a Messenger; many were the Messengers that passed a way before him. His mother (Mary) was a Siddiqah i.e. she believed in the Words of Allah and His Books. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded a way (from the truth). 
-    Quran Ayah 6:72-75
+    Quran, surah Al-Anaam (The Cattle) 6:72-75
 
 
 </details><details><summary>
@@ -3657,7 +3673,7 @@ First counsil of Nicaea. After converting to Christianity, the Emperor Constanti
 Constantine’s strange sect of Christianity slowly grew in numbers, and the Pauline Church eventually gave birth to the Roman Catholic Church, the Eastern Orthodox Church, and the Protestant Church. Constantine banned all other Christian sects and executed millions who followed other Christian denominations. Only a tiny remnant remained of the actual teachings of Jesus Christ. God says in his final Book that modern-day Christianity is based upon the whims of misguided people, who in turn misguide others:
 
     Say, "People of the Book, do not overstep the bounds of Truth in your religious beliefs. Do not follow the whims of the people who went astray before you. They have led many others astray, and they continue to stray from the right path"
-    Quran 5:7
+    Quran, surah Al-Maaida (The Table) 5:7
 
 It is very problematic that Christians take the words of Paul and others who came after the teachings of Jesus Christ to be more valid than the words of Jesus Christ. Modern Christianity has been reduced to an interpretation of the words of Jesus Christ within the context of Paul. Constantine and the Pauline Church also took hundreds of manuscripts and Gospels that contradicted Paul’s views banned and destroyed them. Some of these manuscripts were written by the Disciples themselves. The ancient manuscripts, written initially in the original Aramaic and Hebrew, were destroyed, and only the Greek and Latin manuscripts were spared.
 
@@ -3857,16 +3873,16 @@ The Age of Ignorance (جَاهِلِيَّة‎, , lit. 'ignorance') is an Isl
 The term Jahiliyyah is used several places in the Quran, and translations often use various terms to represent it:
 
     Then, following misery, He sent down upon you a feeling of security, a slumber overcoming a party among you, while another party cared only for themselves, thinking false thoughts about God, thoughts fit for the Age of Idolatry. 
-    Quran 3:154
+    Quran, surah Aal-i-Imran (The House of Imraan) 3:154
 
     Do they truly desire the law of paganism? But who is fairer than God in judgment for a people firm of faith?
-    Quran 5:50
+    Quran, surah Al-Maaida (The Table) 5:50
 
     Remain in your homes, and do not display your adornments, as was the case with the earlier Age of Barbarism. 
-    Quran 33:33
+    Quran, surah Al-Ahzaab (The Clans) 33:33
 
-    For the unbelievers had planted in their hearts a zealotry, the zealotry of lawlessness ... 
-    Quran 48:26
+    For the unbelievers had planted in their hearts a zealotry, the zealotry of lawlessness  
+    Quran, surah Al-Fath (The Victory) 48:26
 
 Before the Islamic conversion a portion of the Arab tribes were nomadic, with a strong community spirit and some specific society rules. Their culture was patriarchal, with rudimentary religious beliefs. Although there were some traces of monotheism in the "hanifs" figures, their religious beliefs were based mostly on idol adorations and social congregations once a year around the Kaaba for trading and exchanges. Since the term is, in its deep sense, used as a condition, and not as an historical period, the Jahiliyya is used to describe the period of ignorance and darkness that pre-dated the arrival of Islam. 
 
@@ -3962,7 +3978,7 @@ Surah Quraish mentions these caravans.
     Their accustomed security [in] the caravan of winter and summer –
     Let them worship the Lord of this House,
     Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.
-    Quran, surah Quraish
+    Quran, surah Quraysh (Quraish) 106
 
 Hashim married an influential Yathrib woman from Khazraj. So, prophet Muhammad had blood realtions with the Ansar.
 
@@ -4059,7 +4075,7 @@ Then he, too, went to the summit of the hill, Abu Qubays. Abraha advanced with h
 It is to this important event that Allah refers in Chapter 105:
 
     "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the Elephant? Did He not make their treacherous plan go astray? And He sent against them birds in flocks, striking them with stones of baked clay, so He rendered them like straw eaten up."
-    Quran, 105 Surah Al-Fil
+    Quran, surah Al-Fil (The Elephant) 105
 
 This epoch-making episode happened in 570 A.D. It was in the same year that the Holy Prophet of Islam was born to Abdullah and Amina.
 
@@ -4162,7 +4178,7 @@ Muhammad ﷺ  , the son of 'Abdullah ibn 'Abd al-Muttalib ibn Hashim and his wif
 Prophet Muhammad ﷺ   was orphaned when young. Some months before the birth of prophet Muhammad ﷺ  , his father died near Medina on a mercantile expedition to Syria. When Muhammad ﷺ   was six, he accompanied his mother Amina on her visit to Medina, probably to visit her late husband's tomb. While returning to Mecca, Amina died at a desolate place called Abwa, about half-way to Mecca, and was buried there. Muhammad ﷺ   was now taken in by his paternal grandfather Abd al-Muttalib, who himself died when prophet Muhammad ﷺ    was eight, leaving him in the care of his uncle Abu Talib. In Islamic tradition, Muhammad's being orphaned at an early age has been seen as a part of divine plan to enable him to "develop early the qualities of self-reliance, reflection, and steadfastness". Some Muslim scholars see the story of prophet Muhammad ﷺ   as a spiritual parallel to the life of Moses, considering many aspects of their lives to be shared. The Quran said about Moses: 
 
     "I cast (the garment of love) over thee from Me, so that thou might be reared under My eye. ... We saved thee from all grief, although We tried thee with various trials. ... O Moses, I have chosen thee for Mine Own service"
-    Quran 20:39-41
+    Quran, surah Taa-Haa (Taa-Haa) 20:39-41
 
 Taking into account the idea of this spiritual parallelism, together with other aspects of prophet Muhammad ﷺ  's early life, it has been suggested that it was God under Whose direct care prophet Muhammad ﷺ   was raised and prepared for the responsibility that was to be conferred upon him.
 
@@ -4317,7 +4333,7 @@ In the year AD 610, during one such occasion in the cave while Muhammad ﷺ   wa
     Read: Your Lord is most Generous,–
     He who taught by the pen–
     Taught man that which he knew not."
-    Quran, Surah Al-Alaq
+    Quran, surah Al-Alaq (The Clot) 96
 
 The revelation began on Monday one of the last 10 days of Ramadan (Laylatul Qadr).
 
@@ -4388,7 +4404,7 @@ Abu Lahab's wife, Umm Jamil (Abu Sufyan's sister), had made it a practice to cas
     He will be burnt in a Fire of blazing flames!
     And his wife too, who carries wood (thorns of Sadan which she used to put on the way of the Prophet (Peace be upon him), or use to slander him).
     In her neck is a twisted rope of Masad (palm fibre).
-    Quran, Surah Al-Masad
+    Quran, surah Al-Masad (The Palm Fibre) 111
 
 Narrated Abdullah that while prophet Muhammad ﷺ   was in the state of prostration, surrounded by a group of people from Quraysh pagans. 'Uqba bin Abi Mu'ait came and brought the intestines of a camel and threw them on the back of prophet Muhammad ﷺ  . The prophet ﷺ   did not raise his head from prostration until Fatima (i.e. his daughter) came and removed those intestines from his back.
 
@@ -4403,13 +4419,14 @@ Abdullah ibn Masood was the first to recite the Quran besides the prophet ﷺ  .
 The most famous poet of Quraish (Bani Maghzum) was Al Walid al Mughira. He was the chief of the Banu Makhzum clan of the Quraysh tribe and he was the father of Khalid ibn Al-Walid. his vice was abu Jahl. Al Walid heard the recitation and was mesmerized but Abu Jahl said that there will be no respect from his people until he says something bad about the recitation. Allah ST send ayahs about Al Walid that we gave him money and many sons he says there is special type of magic.
 
     and I gave him extensive wealth, and sons present before (his) eyes.
-    Quran 74:12-13
+    Quran, surah Al-Muddaththir (The Cloaked One) 74:12-13
 
 Walīd ibn al-Mughīra was one of the Quraysh leaders who were indirectly mentioned in several verses of Quran. He was one of the five principal offenders of Muhammad, the others being al-Aswad ibn al-Muṭṭalib ibn Asad, al-Aswad ibn ʿAbdu Yaghūth, al-ʿĀṣ ibn Wāʾil ibn Hishām and al-Ḥārith ibn al-Ṭulāṭila (from Banu Khuzāʿa).
 
 Walid was a personage of great influence among the Quraysh. After he heard Muhammad reciting, Walid went to Quraysh and said: "I have just heard Muhammad's words, which for sure are neither a human's nor a jinn's. They are euphonious and relaxing, like a tree full of reachable fruits. They are of the highest quality and cannot be out-perfected." He told them, "The time of the fair has come round again, and representatives of Arabs will come to you and they will have heard about Muhammad. So agree upon one opinion without dispute, so that none of us will give the lie to the other." He recommended that they call Muhammad a sorcerer who has brought a message by which he separated a man from his father, brother, wife or family. The Quraysh accordingly warned the people attending the fair about Muhammad's doing. So, according to a Muslim historian, "Allah revealed verses 11–25 in Sura 74 concerning al-Walid."
 
     He pondered and suggested. Death onto him! How [ bad ] is the suggestion he has put forward! Again, death unto him! How [ bad ] is the suggestion he has put forward! Then he looked [ to those around him,] then he frowned and scowled, then turned his back, and waxed proud, then said, "This is nothing but traditional magic; this is nothing but saying of a mortal.
+    Quran, surah Al-Muddaththir (The Cloaked One) 74
 
 Prophet Muhammad said "Abu Jahl is Firaun of my ummah". Abu Jahl tortured slaves and boycotted muslim businessmen. At that time, the prophet Muhammad ﷺ    made dua against 7 people including Abu Jahl untill their faces turn pale. Abdullah ibn Masood said that he saw all these seven people in the battle of Badr and all of them were dragged to the Pit.
 
@@ -4665,7 +4682,7 @@ There are two places where Qur’an mentions communication between the Prophet �
 In Surah al-Jinn, Allah reveals that the Jinn, too, listened to the communications of the Prophet Muhammad ﷺ and the Quran, and that some of them accepted Deen and became Muslims. One verse on the subject reads:
 
     Say: "It has been revealed to me that a band of the jinn listened and said, 'We have heard a most amazing Recitation. It leads to right guidance so we believe in it and will not associate anyone with our Lord.'" 
-    Surah al-Jinn: 1-2
+    Quran, surah Al-Jinn (The Jinn) 72:1-2
 
 In that same Surah, Allah also reveals that some Jinn are actually Muslims:
 
@@ -4673,7 +4690,7 @@ In that same Surah, Allah also reveals that some Jinn are actually Muslims:
     Surah al-Jinn: 13-14
 
     When the servant of Allah stands calling on Him, they almost swarm all over him. 
-    Surah al-Jinn: 19
+    Quran, surah Al-Jinn (The Jinn) 72:19
 
 Yet another verse recounts that when the Prophet ﷺ   gave guidance regarding Deen, the jinn would gather around him and listen carefully:
 
@@ -4709,11 +4726,11 @@ Within the Quran, chapter (surah) 17 al-Isra, was named after the Isra', and the
 
     Glory to Him who made His servant travel by night from the sacred place of worship (Al-Masjid Al-Haram) to the furthest place of worship (Al-Masjid Al-Aqsa), whose surroundings We have blessed, to show him some of Our signs. He alone is the All Hearing, the All Seeing.
     Remember when We said to you that your Lord encompasses mankind in His knowledge. Nor did We make the vision We showed you except as a test to people, as also the accursed tree in the Quran.
-    Quran 17:60
+    Quran, surah Al-Israa (The Night Journey) 17:60
 
     His sight never wavered, nor was it too bold.
     And he saw some of the greatest signs of his Lord.
-    Quran 53:13–18
+    Quran, surah An-Najm (The Star) 53:13–18
 
 ### Al-Isra’: From the Ka’bah to Al-Aqsa
 
@@ -4742,7 +4759,7 @@ The Messenger of Allah ﷺ   also said, ’The Prophets were presented to me, an
 [Ibn Majah] Part of what the Prophets (as) discussed after praising Allah was about ‘the Hour’. Both Ibrahim (as) and Musa (as) stated that they ‘did not have any knowledge of it’. Whilst ’Isa (as) ’mentioned the Dajjal (anti-Christ) and said,
 
     "I will descend and kill him, then the people will return to their own lands and will be confronted with Gog and Magog, who will, "swoop down from every mound" 
-    Qur’an, 21:96 
+    Quran, surah Al-Anbiyaa (The Prophets) 21:96 
 
 Following this, the Prophet ﷺ   said, ‘Then I came out and Jibril (as) brought me a vessel of wine and a vessel of milk. Then I chose the milk, and Jibril (as) said, "You have chosen the natural state (Fitrah)"’ (Muslim).
 
@@ -4753,7 +4770,7 @@ The dominant opinion is that the Prophet ﷺ   alongside Jibril (as) then procee
 Source: [Al-Miraj: The Story of Ascention to the Skies](https://muslimhands.org.uk/latest/2021/03/al-isra-wal-miraj-the-story-of-the-ascension-to-the-skies)
 
     "He certainly saw some of his Lord’s greatest signs".
-    The Noble Qur’an, 53:18
+    Quran, surah An-Najm (The Star) 53:18
 
 The word Al-Mi’raj is a noun of instrument in Arabic morphology, which literally means ‘an instrument you use to ascend’. 
 
@@ -4842,17 +4859,17 @@ The Prophet ﷺ   carried on his journey, reaching the Furthest Lote Tree. The A
     while the Lote Tree was overwhelmed with ˹heavenly˺ splendours!
     The ˹Prophet’s˺ sight never wandered, nor did it overreach.
     He certainly saw some of his Lord’s greatest signs.
-    Quran 53:11–18
+    Quran, surah An-Najm (The Star) 53:11–18
 
-The Sidrat al-Muntaha (سِدْرَة ٱلْمُنْتَهَىٰ, , lit. 'Lote Tree of the Farthest Boundary') is a large lote tree or Sidr tree that marks the utmost boundary in the seventh heaven, which no one can pass. It is called Sidrat al-Muntaha because the knowledge of the angels stops at that point, and no one has gone beyond it except the Messenger of Allah ﷺ  . During the Isra and Mi'raj, Muhammad traveled with the angel Gabriel to the tree (where the angel stopped) beyond which Allah (God) instructed prophet Muhammad ﷺ   about the five daily prayers.
+The Sidrat al-Muntaha (سِدْرَة ٱلْمُنْتَهَىٰ, , lit. 'Lote Tree of the Farthest Boundary') is a large lote tree or Sidr tree that marks the utmost boundary in the seventh heaven, which no one can pass. It is called Sidrat al-Muntaha because the knowledge of the angels stops at that point, and no one has gone beyond it except the Messenger of Allah ﷺ  . During the Isra and Mi'raj, Muhammad traveled with the angel Gabriel to the tree (where the angel stopped) beyond which Allah (God) instructed prophet Muhammad ﷺ   about the five daily prayers.
 
 #### The Divine Meeting
 At the end of this journey, the Prophet ﷺ   was brought into the Divine Presence, the ultimate source of strength and relief. It is impossible to imagine the beauty of this scene, or how loved, honoured and humbled the Prophet ﷺ   must have felt.
 
 We do not know a great about what was privately discussed between Allah and His beloved ﷺ  , with Allah simply stating:
-    
+
     "Then Allah revealed to His servant what He revealed". 
-    The Noble Qur’an, 53:10
+    Quran, surah An-Najm (The Star) 53:10
 
 The Prophet ﷺ   mentioned, 
 > ‘Then Allah revealed to me what he revealed to me and then He made obligatory for me fifty prayers every day and night’. [Muslim]
@@ -5105,15 +5122,17 @@ The other group comprised the "ascetics" of Islam. They were poor in Makkah, and
 The Ansar treated the Muhajireen from Makkah better than the real brothers of the latter would have done. They lodged them in their own homes, gave them household effects; made them partners in farming, or gave them half of their land. Those Ansars who were in business, made the Muhajirs their partners in business.
 
 The Ansar were indispensable for the physical survival of Islam. Where would Islam be and where would the Muhajireen be if the Ansar had not given them sanctuary? When hostilities with the idolaters began, it were the Ansar, and not the Muhajireen, who bore the brunt of fighting. They were also the recipients of Heaven's compliments and recognition, as we read in the following verse of Quran:
-    
+
     But those who, before them, had homes (in Medina) and had adopted the faith, – show their affection to such as came to them for refuge, and entertain no desire, in their hearts for things given to the (latter), but give them preference over themselves, even though poverty was their (own lot). And those saved from the covetousness of their own souls, – they are the ones that achieve prosperity.
-    Chapter 59; verse 9
+    Quran, surah Al-Hashr (The Exile) 59:9
 
 ### Revelation of Surah Al-Baqara
 
 Islam continued to spread rapidly throughout the clans of Aws and Khazraj, and some believers looked forward to the day when, thanks to the covenant with the Jews, the oasis would be one harmonious whole. But the Revelation now gave warning of hidden elements of discord. It was about this time that the longest surah of the Koran began to be revealed, al-Baqarah (the Heifer), which is placed at the beginning of the Book, immediately after the sevenverses of al-Patihah, the Opening. It starts with a definiton of the rightly guided: 
 
-    Alif - Lam - Mim. This beyond doubt is the Book, a guidance unto the God-fearing, who believe in the Unseen and perform the prayer and give ofthat which We have bestowed upon them; and who believe in that which is revealed unto thee and in that which was revealed before thee, and who are certain ofthe Hereafter. These are they who follow guidance from their Lord and these are they who shall prosper.
+    Alif - Lam - Mim. 
+    This beyond doubt is the Book, a guidance unto the God-fearing, who believe in the Unseen and perform the prayer and give ofthat which We have bestowed upon them; and who believe in that which is revealed unto thee and in that which was revealed before thee, and who are certain ofthe Hereafter. These are they who follow guidance from their Lord and these are they who shall prosper.
+    Quran, surah Al-Bakarah (The Cow) 2:1-2
 
 ### Prophet Muhammad ﷺ   marries Aisha
 
@@ -5133,7 +5152,8 @@ In that occasion, Prophet Muhammad ﷺ   prayed: "0 God, make Medina as dear unt
 
 During the first sixteen months after the Hijra (Migration), the Qibla of the Muslims for prayers was Jerusalem (they faced Jerusalem when saying their prayers). Before receiving the first revelation and becoming a Muslim, prophet Muhammad ﷺ   was calling himself a follower of the religion of Ibrahim. Dr. Montgomery Watt and John Christopher say that in the beginning, the Prophet had hoped that facing Jerusalem when praying, would cause the hearts of the Jews of Yathrib to incline toward him, and they would acknowledge him as a Messenger of God. Then the prophet Muhammad ﷺ   received Wahi (Revelation) commanding him to change the orientation point from Jerusalem in the north to Makkah in the south.
 
-    "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you." (Surah al-Baqarah, 2:144). 
+    "Many a time We have seen you turn your face owards heaven. We will make you turn towards a 'qiblah' that will please you."
+    Quran, surah Al-Bakarah (The Cow) 2:144 
 
 God commanded prophet Muhammad ﷺ   to change the Qibla. The command to change the Qibla was given in verse 144 of the second chapter of Al-Qur’an al-Majid.
 
@@ -5171,12 +5191,12 @@ Zakat is one of 5 pillars of Islam.
 Following the emigration, the Meccans seized the properties of the Muslim emigrants in Mecca. The Quraysh leaders of Mecca persecuted the newly converted Muslims there, and they migrated to Medina to avoid persecution, abandoning their properties. Prophet Muhammad ﷺ   and the Muslims found themselves in a more precarious situation in Medina than in Mecca. Besides the ultimatum of the Quraysh they had to confront the designs of the hypocrites, and had to be wary of the pagans and Jews also. The trading caravans of Quraysh, whose usual route was from Mecca to Syria, used to set the neighboring tribes of Medina against the Muslims, which posed a great danger to the security of Muslims of Medina given that war was common at that time. In view of all this, the Quran granted permission to the persecuted Muslims to defend themselves: 
 
     "Permission to fight is granted to those against whom war is made, because they have been wronged, and God indeed has the power to help them. They are those who have been driven out of their homes unjustly only because they affirmed: "Our Lord is God"" 
-    Quran 22:39-40
+    Quran, surah Al-Hajj (The Pilgrimage) 22:39-40
 
 The Quran further justifies taking defensive measures by stating the following: 
 
     "And if God had not repelled some men by others, the earth would have been corrupted. But God is a Lord of Kindness to (His) creatures" 
-    Quran 2:251
+    Quran, surah Al-Bakarah (The Cow) 2:251
 
 According to Quranic description, war is an abnormal and unenviable way which, when inevitable, should be limited to minimal casualty, and free from any kind of transgression on the part of the believers. In this regard, the Quran says, `"Fight in the cause of God with those who fight you, but do not transgress limits; for God loveth not transgressors"` (2:190), and `"And fight them on until there is no more tumult or oppression, and there prevail justice and faith in God; but if they cease, let there be no hostility except to those who practice oppression"` (2:193).
 
@@ -5187,7 +5207,7 @@ Thus, to ensure the security of the Ansars and Muhajirun of Medina, Muhammad res
 Sending small scouting parties to gather intelligence about Quraysh movement, and also to facilitate the evacuation of those Muslims who were still suffering in Mecca and could not migrate to Medina because of their poverty or any other reason. It is in this connection that the following verse of the Quran was revealed: 
 
     And why should you not fight in the cause of God and for those who, being weak, are ill-treated (and oppressed)? Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from Thee one who will protect; and raise for us from Thee one who will help!" 
-    Quran 4:75
+    Quran, surah An-Nisa (The Woman) 4:75
 
 A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammadﷺ   took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
 
@@ -5204,7 +5224,8 @@ war."
 
 The Prophet took up a handful of pebbles and shouting at Quraysh "Defaced be those faces!", he hurled the pebbles at them, conscious that he was hurling disaster. Then he gave the order to charge. 
 
-    Thou threwest not when thou tbreu/est, but it was God that threw.
+     And you (Muhammad SAW) threw not when you did throw but it was God that threw.
+     Quran, surah Al-Anfal (The Spoils of War) 8
 
 These words were part of the Revelation which came immediately after the
 battle.
@@ -5212,11 +5233,13 @@ battle.
 When the believers were ordered to charge, they did not charge alone, as
 well the Prophet knew, for he had been promised: 
 
-    I will help you with a thousand of the angels, troop on troop? 
+    ˹Remember˺ when you cried out to your Lord for help, He answered, "I will reinforce you with a thousand angels—followed by many others."
+    Quran, surah Al-Anfal (The Spoils of War) 8:9
 
 And the Angels also had received a Divine message: 
 
     When thy Lord revealed unto the angels: Lo, I am with you, so make firm the believers. I shall cast terror into the hearts of the disbelievers. It is for you to strike off their heads, and to smite their every finger.
+    Quran, surah Al-Anfal (The Spoils of War) 8
 
 The battle occurred on 13 March 624 CE (17 Ramadan, 2 AH) and resulted in a heavy loss on the Quraysh side: around seventy men, including chief leaders, were killed and a similar number were taken prisoner. Islamic tradition attributes the Muslim victory to the direct intervention of God: he sent down angels that emboldened the Muslims and wreaked damage on the enemy force.
 
@@ -5231,10 +5254,12 @@ the hope that sooner or later they might become believers, and the Prophet
 inclined to his view. But later in the day, when 'Umar returned to the shelter, he found the Prophet and Abu Bakr in tears on account of a Revelation which had come: 
 
     It is not for a prophet to hold captives until he hath made great slaughter in the land. Ye would have for yourselves the gains of this world and God would have for you the Hereafter, and God is Mighty, Wise.
+    Quran, surah Al-Anfal (The Spoils of War) 8:67
 
 But the Revelation then made it clear that the decision to spare the captives had been accepted by God and should not now be revoked; and the Prophet was given a message for the captives themselves: 
 
     O Prophet, say unto those captives who are in your hands: If God knoweth any good in your hearts, He will give you better than that which hath been taken from you, and He will forgive you. Verily God is Forgiving, Merciful.
+    Quran, surah Al-Anfal (The Spoils of War) 8:70
 
 There was, however, one man, Abu Jahl, who clearly could not be allowed to live. The general opinion was that he had been killed and the Prophet gave orders that his body should be searched for. 'Abdallah ibn Mas'ud went out again to the battlefield and searched until he found the man who had done more than any other to stir up hatred of Islam amongst the people of Mecca. Abu Jahl still had enough life in him to recognise the enemy who now stood over him. 'Abdallah had been the first man to recite the Koran aloud in front of the Ka'bah, and Abu jahl had struck him a severe blow and wounded him in the face, for he was merely a confederate of Zuhrah and a poor one at that, his mother having been a slave. 'Abdallah now placed his foot on the neck of Abu jahl, who said: "Thou hast climbed high indeed, little shepherd." Then he asked him which way the fortunes of war had swung that day, his implication being that next time they would swing in the opposite direction. `"God and His
 messenger have won,"` he answered. Then he killed Abu Jahl. 
@@ -5268,7 +5293,7 @@ Since there was no house of detention in Medina, the Prophet distributed the pri
 
 God gave victory to Islam in the battle of Badr in the year 2 of Hijri. Two months after the battle, Fatima Zahra, the daughter of Muhammad Mustafa, and Ali, the son of Abu Talib were married.
 
-Fatima (c. 605/15-632) and Ali (c. 600-661) were both significant figures in early Islam: Fatima has been compared to Mary, the mother of Jesus, especially in Shia Islam. Muhammad is said to have regarded her as the best of woman and the dearest person to him. Ali was the fourth of the Rashidun Caliphs.
+Fatima (605/15-632) and Ali (600-661) were both significant figures in early Islam: Fatima has been compared to Mary, the mother of Jesus, especially in Shia Islam. Muhammad is said to have regarded her as the best of woman and the dearest person to him. Ali was the fourth of the Rashidun Caliphs.
 
  There is evidence in Sunni and Shia sources that some of the companions, including Abu Bakr and Umar, had earlier asked for Fatima's hand in marriage but were turned down by Muhammad, who said he was waiting for the moment fixed by destiny. It is also said that Ali was reticent to ask Muhammad to marry Fatima on the account of his poverty. When Muhammad put forward Ali's proposal to Fatima, she remained silent, which was understood as a tacit agreement. On the basis of this report, woman's consent in marriage has always been necessary in Islamic law. Muhammad also suggested that Ali sell his shield to pay the bridal gift (mahr).
 
@@ -5277,7 +5302,7 @@ Muhammad performed the wedding ceremony, and they prepared an austere wedding fe
 It was narrated that 'Aishah and Umm Salamah said:
 > "The Messenger of Allah commanded us to prepare Fatimah (for her wedding) and take her in to 'Ali. We went to the house and sprinkled it with soft earth from the land of Batha'. Then we stuffed two pillows with (date - palm) fiber which we picked with our own hands. Then we offered dates and raisins to eat, and sweet water to drink. We went and got some wood and set it up at the side of the room, to hang the clothes and water skins on. And we never saw any wedding better than the wedding of Fatimah."
 
-As with the majority of Muslims, the couple lived in severe poverty in the early years of Islam. In particular, both had to do hard physical work to get by. It has also been related that Muhammad taught the couple a tasbih to help ease the burden of their poverty: Tasbih of Fatima consists of the phrases `Allah-hu Akbar` (lit. 'God is the greatest'), `Al-hamdu-lillah` (lit. 'all praise is due to God'), and `Subhan-Allah` (lit. 'God is glorious'). Their financial circumstances later improved after more lands fell to Muslims in the Battle of Khaybar.
+As with the majority of Muslims, the couple lived in severe poverty in the early years of Islam. In particular, both had to do hard physical work to get by. It has also been related that Muhammad taught the couple a tasbih to help ease the burden of their poverty: Tasbih of Fatima consists of the phrases `Allah-hu Akbar` (lit. 'God is the greatest'), `Al-hamdu-lillah` (lit. 'all praise is due to God'), and `Subhan-Allah` (lit. 'God is glorious'). Their financial circumstances later improved after more lands fell to Muslims in the Battle of Khaybar.
 
 Fatima and Ali were survived by four children: Hasan, Husayn, Zaynab and Umm Kulthum. In particular, Muhammad was very fond of his grandsons. Widely reported is his statement that Hasan and Husayn would be the lords of the youth of the paradise.
 
@@ -5320,11 +5345,12 @@ A scout alerted Muhammad of the Meccan army's presence and numbers late on Thurs
 A group of approximately 1,000 Muslim men set out northward from Madinah toward Mount Uhud late on Friday, 21 December 624. Early the next morning, they took a position on the lower slopes of the hill of Uhud. Shortly before the battle commenced, 'Abdallah ibn Ubayy, chief of the Khazraj, along with 300 other men, withdrew their support for Muhammad and returned to Medina, with reports suggesting Ibn Ubayy's discontent with the plan to march out from Medina to meet the Meccans. Ibn Ubayy and his followers would later receive censure in the Quran for this act.
 
     What ye suffered on the day the two armies met, was with the leave of Allah, in order that He might test the believers. And in order that He might test the Hypocrites also, these were told: "Come, fight in the way of Allah, or (at least) drive (The foe from your city)." They said: "Had we known how to fight, we should certainly have followed you." They were that day nearer to Disbelief than to Faith, saying with their mouths what was not in their hearts but Allah hath full knowledge of all they conceal. (They are) the ones that say, of their brethren slain, while they themselves sit (at ease): "If only they had listened to us they would not have been slain." Say: "Avert death from your own selves, if ye speak the truth."
-    Quran, Surah 3 (Al Imran), Ayah 166–168
+    Quran, surah Aal-i-Imran (The House of Imran) 3:166–168
 
-The Muslim force, now numbering around 700 encamped on the slopes of Uhud, facing Madinah, with their back protected by the mountain. Before the battle, Muhammad had assigned 50 archers on a nearby rocky hill at the west side of the Muslim camp. This was a strategic decision in order to shield the vulnerable flanks of the outnumbered Muslim army; the archers on the hill were to protect the left flank, while the right flank was to be protected by the Mount of Uhud situated on the east side of the Muslim camp. Protecting the flanks of the Muslim army meant that the Meccan army would not be able to turn around the Muslim camp, and thus the Muslim army wouldn't be surrounded or encircled by the Meccan cavalry, keeping in mind that the Meccan cavalry outnumbered the Muslim cavalry with 50-to-1. Muhammad ordered the Muslim archers to not leave their positions on the hill unless ordered to do so by him, making it clear by uttering these words to the archers,
+The Muslim force, now numbering around 700 encamped on the slopes of Uhud, facing Madinah, with their back protected by the mountain. Before the battle, Muhammad had assigned 50 archers on a nearby rocky hill at the west side of the Muslim camp. This was a strategic decision in order to shield the vulnerable flanks of the outnumbered Muslim army; the archers on the hill were to protect the left flank, while the right flank was to be protected by the Mount of Uhud situated on the east side of the Muslim camp. Protecting the flanks of the Muslim army meant that the Meccan army would not be able to turn around the Muslim camp, and thus the Muslim army wouldn't be surrounded or encircled by the Meccan cavalry, keeping in mind that the Meccan cavalry outnumbered the Muslim cavalry with 50-to-1. Muhammad ordered the Muslim archers to not leave their positions on the hill unless ordered to do so by him, making it clear by uttering these words to the archers:
 
     "If you see us prevail and start to take spoils, do not come to assist us. And if you see us get vanquished and birds eat from our heads, do not come to assist us."
+    Quran, surah Al-Anfal (The Spoils of War) 8:48
 
 ### The Duels
 The Meccan army positioned itself facing the Muslim lines, with the main body led by Abu Sufyan, and the left and right flanks commanded by Ikrimah ibn Abu Jahl, son of Amr ibn Hishām and Khalid ibn al-Walid, respectively. 'Amr ibn al-'As was commander of the cavalry and his task was to coordinate the attack between the cavalry wings. They attacked with their initial charge led by the Medinan exile Abu ‘Amir. Thwarted by a shower of stones from the Muslims, Abu ‘Amir and his men were forced to retreat to the camps behind the Meccan lines. The Meccan standard-bearer Talhah ibn Abi Talhah al-‘Abdari, advanced and challenged the enemy to a duel. Ali ibn Abi Talib, the cousin of Muhammad, rushed forth and struck Talhah down in a single blow. Talhah's brother, Uthman, ran forward to pick up the fallen banner — the Meccan women willing him on with songs and the loud beating of timbrels. Hamza ibn ‘Abd al-Muttalib emerged from the Muslim ranks, bringing him to a similar fate as Talhah. It was their family that was responsible for the Meccan army's standard-bearing, and thus one by one, Talhah's brothers and sons went to retrieve the Meccan banner and fight unsuccessfully until they all eventually perished. Following the duels, general engagement between the two armies commenced. Meccan confidence quickly began to dissolve as the Muslims swept through their ranks.
@@ -5345,17 +5371,18 @@ The battle is generally believed by scholars to be a defeat for the Muslims, as 
 For the Muslims, the battle held a religious dimension as well as a military one. They had expected another victory like at Badr, which was considered a sign of God's favor upon them. At Uhud, however, they had barely held off the invaders and had lost a great many men. A verse of the Quran revealed soon after the battle cited the Muslims' disobedience and desire for loot as the cause for this setback:
 
     Indeed, Allah fulfilled His promise to you when you ˹initially˺ swept them away by His Will, then your courage weakened and you disputed about the command and disobeyed after Allah had brought victory within your reach. Some of you were after worldly gain while others desired a heavenly reward. He denied you victory over them as a test, yet He has pardoned you. And Allah is Gracious to the believers.
-    Quran, sura 3 (Al Imran), ayah 152
+    Quran, surah Aal-i-Imran (The House of Imran) 3:152
 
 According to the Quran, then, the misfortunes at Uhud — largely the result of the rear guard abandoning their position in order to seek booty — were partly a punishment and partly a test for steadfastness. Firestone observes that such verses provided inspiration and hope to the Muslims, sacralizing future battles that they would experience. He adds that rather than demoralizing the Muslims, the battle seemed to reinforce the solidarity between them.
 
 The two armies would meet again in 627 at the Battle of the Trench, in which the Muslims would, yet again, have to defend Medina from the Meccans and others.
 
-    (3:121) And [remember] when you left your family in the morning to post the believers at their stations for the battle [of Uhud]. Allah is All-Hearing, All-Knowing.
+    And [remember] when you left your family in the morning to post the believers at their stations for the battle [of Uhud]. Allah is All-Hearing, All-Knowing.
 
-    (3:122) And recall when two groups from among you were inclined to flag95 although Allah was their protector; it is in Allah that the believers should put their trust.
+    And recall when two groups from among you were inclined to flag95 although Allah was their protector; it is in Allah that the believers should put their trust.
 
-    (3:123) For sure Allah helped you at Badr when you were utterly weak. Beware, then, of Allah; perhaps you will be thankful.
+    For sure Allah helped you at Badr when you were utterly weak. Beware, then, of Allah; perhaps you will be thankful.
+    Quran, surah Aal-i-Imran (The House of Imran) 3:121-123
 
 > Narrated Zaid bin Thabit: When the Prophet set out for (the battle of) uhud, some of those who had gone out with him, returned. The companions of the Prophet were divided into two groups. One group said, "We will fight them (i.e. the enemy)," and the other group said, "We will not fight them." So there came the Divine Revelation:-- '(O Muslims!) Then what is the matter within you that you are divided. Into two parties about the hypocrites? Allah has cast them back (to disbelief) Because of what they have earned.' (4.88) On that, the Prophet said, "That is Taiba (i.e. the city of Medina) which clears one from one's sins as the fire expels the impurities of silver."  (Book #59, Hadith #380)
 
@@ -5438,7 +5465,7 @@ Quran describes the situation in surah Al-Ahzab:
     Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
     
     When the believers saw the enemy alliance, they said, "This is what Allah and His Messenger had promised us. The promise of Allah and His Messenger has come true." And this only increased them in faith and submission.
-    Surah Al-Ahzab 33:10-22
+    Quran, surah Al-Ahzab (The Clans) 33:10-22
 
 ### Muslims Response
 
@@ -5557,7 +5584,7 @@ The Muslims were sulkily silent when told by prophet Muhammad ﷺ   to shave the
 His mission accomplished, prophet Muhammad ﷺ  , the Messenger of God, left Hudaybiyya with the pilgrims, to return to Medina. He was still at seven days' journey from Medina, when a verse of the Quran was revealed about the Treaty of Hudaybiyah:
 
     "Verily we have granted thee a manifest victory"
-    Quran Surah Fath 48:1
+    Quran, surah Al-Fath (The Victory) 48:1
 
     Allah's Good Pleasure was on the Believers when they swore Fealty to thee under the Tree: He knew what was in their hearts, and He sent down Tranquillity to them; and He rewarded them with a speedy Victory;
 
@@ -5582,7 +5609,7 @@ His mission accomplished, prophet Muhammad ﷺ  , the Messenger of God, left Hud
     It is He Who has sent His Messenger with Guidance and the Religion of Truth, to proclaim it over all religion: and enough is Allah for a Witness.
 
     Muhammad is the messenger of Allah; and those who are with him are strong against Unbelievers, (but) compassionate amongst each other. Thou wilt see them bow and prostrate themselves (in prayer), seeking Grace from Allah and (His) Good Pleasure. On their faces are their marks, (being) the traces of their prostration. This is their similitude in the Taurat; and their similitude in the Gospel is: like a seed which sends forth its blade, then makes it strong; it then becomes thick, and it stands on its own stem, (filling) the sowers with wonder and delight. As a result, it fills the Unbelievers with rage at them. Allah has promised those among them who believe and do righteous deeds forgiveness, and a great Reward.
-    Quran, Surah Fath Ayah 18-29
+    Quran, surah Al-Fath (The Victory) 18-29
 
 </details><details><summary>
 
@@ -5785,7 +5812,7 @@ Muhammad, the Messenger of God, entered Makkah from the north. Usama, the son of
     Also ˹so that˺ He may punish hypocrite men and women and polytheistic men and women, who harbour evil thoughts of Allah. May ill-fate befall them! Allah is displeased with them. He has condemned them and prepared for them Hell. What an evil destination!
 
     To Allah ˹alone˺ belong the forces of the heavens and the earth. And Allah is Almighty, All-Wise.
-    Quran, Surah Al-Fath 1-7
+    Quran, surah Al-Fath (The Victory) 48:1-7
 
 Ali carried the banner of Islam as he rode at the head of the cavalry. The Prophet ordered Zubayr bin al-Awwam to enter the city from the west, and Khalid bin al-Walid from the south. He gave strict orders to his army not to kill anyone except in self-defense. He had long desired to destroy the idols in Kaaba but he wished to do so without any bloodshed. His orders were clear and explicit; nevertheless, Khalid killed 28 Makkans at the southern gate of the city. He said he had met resistance.
 
@@ -5797,11 +5824,13 @@ Eight years earlier Muhammad had left Makkah as a fugitive with a price on his h
 
 The Prophet rode into the precincts of the Kaaba, dismounted from his camel, called his cousin, Ali ibn Abi Talib, and both of them entered the Kaaba, cognizant of the Divine Commandment to the Prophets, Abraham (Ibrahim) and Ismael:
 
-    ...and We covenanted with Abraham and Ismael that they should sanctify My house... (Chapter 2; verse 125)
+    "And We covenanted with Abraham and Ismael that they should sanctify My house".
+    Quran, surah Al-Bakarah (The Cow) 2:125
 
 The Prophet found the House of God (Kaaba) in a state of defilement; it had become a pantheon of 360 idols, and it had to be sanctified. The Prophet knocked down each idol as he read the following verse from Qur’an:
 
-    Truth has come, and Falsehood has vanished. For Falsehood is (by its nature) bound to vanish. (Chapter 17; verse 81)
+    Truth has come, and Falsehood has vanished. For Falsehood is (by its nature) bound to vanish.
+    Quran, surah Al-Isra (The Night Journey) 17:81
 
 Narrated Abdullah bin Masud:
 > The Prophet ﷺ   entered Mecca and (at that time) there were three hundred-and-sixty idols around the Kaaba. He started stabbing the idols with a stick he had in his hand and reciting: "Truth (Islam) has come and Falsehood (disbelief) has vanished."
@@ -5825,13 +5854,14 @@ Presently the Prophet appeared at the threshold of the Kaaba. He surveyed the cr
 Prophet Muhammad ﷺ   then read the following verse from Qur’an:
 
     O People! We created you from a male and a female and distributed you among tribes and families for the facility of reference only. But in the sight of God only those people have a place of honor who are God-fearing and God-loving. Verily, God is knowledgeable and understanding. 
-    Chapter 49; verse 13
+    Quran, surah Al-Hujurat (The Inner Apartments) 49:13
 
 This verse is the Magna Carta of the equality and brotherhood of all men in Islam. There cannot be any distinction between men on the grounds of race, color, nationality, family or wealth. But whereas Islam destroys all other distinctions, it upholds a distinction of its own, and that is the distinction of faith and character.
 
 Prophet Muhammad ﷺ   then posed a question to the Quraysh: "How do you think, I am going to treat you now?" They said: "You are a generous brother, and the son of a generous brother. We expect only charity and forgiveness from you." He said: "I will tell you what Joseph said to his brothers,
 
-    ‘There is no blame on you today.' (Quran, Chapter 12 verse 92)
+    "There is no blame on you today."
+    Quran, surah Yusuf (Joseph) 12:92
 
 "Go now; all of you are my freedmen."
 
@@ -6003,7 +6033,7 @@ After praising and thanking Allah, the Prophet ﷺ   began with the words:
 As part of this sermon, the prophet recited to them a revelation from Allah, which he had just received, and which completed the Quran, for it was the last passage to be revealed:
 
     This day the disbeliever's despair of prevailing against your religion, so fear them not, but fear Me (Allah)! This day have I perfected for you, your religion and fulfilled My favor unto you, and it hath been My good pleasure to choose Islam for you as your religion. 
-    Quran, Surah 5, Ayah 3
+    Quran, surah Al-Maaida (The Table) 5:3
 
 > The sermon was repeated sentence by sentence by Safwan's brother Rabiah (RA), who had powerful voice, at the request of the Prophet and he faithfully, proclaimed to over ten thousand gathered on the occasion. Towards the end of his sermon, the Prophet asked "O people, have I faithfully delivered unto you my message?" A powerful murmur of assents "O Allah! yes!" arose from thousands of pilgrims and the vibrant words "Allahumma Na'm," rolled like thunder throughout the valley. 
 
@@ -6016,13 +6046,13 @@ The Prophet raised his forefinger and said: `"O Allah bear witness that I have c
 </summary>
 
     Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allah, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakah; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-    Quran, 2-Surah Al-Baqarah (The Cow) 177
+    Quran, surah Al-Baqarah (The Cow) 2:177
 
     The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."
-    Quran, 2-Surah Al-Baqarah (The Cow) 285
+    Quran, surah Al-Baqarah (The Cow) 2:285
 
     O you who have believed, believe in Allah and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allah, His angels, His books, His messengers, and the Last Day has certainly gone far astray.
-    Quran, 4-Surah An-Nisa (The Women) 136
+    Quran, surah An-Nisa (The Women) 4:136
 
 </details><details><summary>
 
@@ -6057,24 +6087,24 @@ There was some dispute between the Quraish and the Ansars as to the place of bur
 Thus ended the glorious life of the Prophet Muhammad ﷺ  . May the peace and blessings of Allah be upon him.
 
     as a witness and a bringer ofglad tidings, a warner and a summoner unto Allah by His permission, and a lamp that gives light 
-    Quran, 33:45-46
+    Quran, surah Al-Ahzaab (The Clans) 33:45-46
  
     the one who was sent as a mercy and blessing to mankind 
-    Quran, 21:10
+    Quran, surah Al-Anbiyaa (The Prophets) 21:10
  
 He left the temporal world, but the message he brought to mankind is eternal.
  
     Now has come unto you light from Allah and a clear book whereby Allah guides him who seeks His pleasure unto the paths ofpeace. He brings them out of the darkness into the light by His decree and guides them unto a straight path.
-    Quran, 5:16
+    Quran, surah Al-Maaida (The Table) 5:16
  
-    A Book which We have revealed to you (O Muhammad!) so that you may thereby bring forth mankind from darkness unto the light, by the permission of their Lord, unto the path of Him, the Exalted in power, the One worthy of all praise. 
-    Quran, 14:2
+    A Book which We have revealed to you (O Muhammad!) so that you may thereby bring forth mankind from darkness unto the light, by the permission of their Lord, unto the path of Him, the Exalted in power, the One worthy of all praise.
+    Quran, surah Ibrahim (Abraham) 14:2
 
     O people! There has come to you an admonition from your Lord which is a healing for what is in the breasts, and a guidance and mercy for the believers. 
-    Quran, 10:57
+    Quran, surah Yunus (Jonas) 10:57
  
     Accept what the Messenger gives you and stay away from whatever he forbids you. 
-    Quran, 59:7
+    Quran, surah Al-Hashr (The Exile) 59:7
 
 ### Speech of Abu Bakr 
 
@@ -6087,10 +6117,10 @@ When Prophet Muhammad passed away the Muslims were devastated, some even refused
 Although overwhelmed by grief, Abu Bakr addressed the people, he praised and glorified God and said, "Whoever worshipped Muhammad should know that Muhammad is dead, but whoever worshipped God, then God is Ever-living and shall never die." He then recited verses from the Qur’an.
 
     "(O Muhammad) Verily you will die, and they also will die."
-    Qur’an 39:30
+    Quran, surah Az-Zumar (The Groups) 39:30
 
     "Muhammad is no more than a Messenger, and indeed (many) Messengers have passed away before him. If he dies or is killed, will you then turn back on your heels (as disbelievers)? And he who turns back on his heels, not the least harm will he do to God, and God will give reward to those who are grateful." 
-    Qur’an 3:144
+    Quran, surah Aal-i-Imran (The House of Imran) 3:144
 
 During this great crisis, the devastated Muslims chose Abu Bakr as their leader. 
 
@@ -6107,7 +6137,7 @@ During this great crisis, the devastated Muslims chose Abu Bakr as their leader.
 
 After Prophet Muhammad ﷺ   dies, Abu Bakr is elected as his khalifah (representative).
 
-Abu Bakr (أبو بكر,, 573 – 23 August 634) was the founder and first caliph of the Rashidun Caliphate ruling from June 632 until his death. He was the most prominent companion, closest advisor and a father-in-law of the Islamic prophet Muhammad ﷺ  (c. 570–632).
+Abu Bakr (أبو بكر,, 573 – 23 August 634) was the founder and first caliph of the Rashidun Caliphate ruling from June 632 until his death. He was the most prominent companion, closest advisor and a father-in-law of the Islamic prophet Muhammad ﷺ  (c. 570–632).
 
 Abu Bakr was born in 573 CE to Abu Quhafa and Umm Khayr. He belonged to the tribe of Banu Taym. In the Age of Ignorance, he was a monotheist and condemned idol-worshipping. As a wealthy trader, Abu Bakr used to free slaves. Following his conversion to Islam in 610, Abu Bakr served as a close aide to Muhammad, who bestowed on him the title al-Siddiq ('the Truthful'). The former took part in almost all battles under the Islamic prophet. He extensively contributed his wealth in support of Muhammad's work and also accompanied Muhammad, on his migration to Medina. By the invitations of Abu Bakr, many prominent Sahabis became Muslims. He remained the closest advisor to Muhammad, being present at almost all his military conflicts. In the absence of Muhammad, Abu Bakr led the prayers and expeditions.
 
@@ -6119,9 +6149,8 @@ Abu Bakr is amongst the only few companions of Muhammad to be referred to in the
 
 The Sunni Muslims consider Abu Bakr a 'rightly-guided' (rashid) and the most superior caliph. Abu Bakr is also believed to be the 'Greatest of the Truthful' (Siddīq Akbar), a rank which comes after the prophets. Purported hadiths related about Abu Bakr include Muhammad's testifying of Abu Bakr for paradise. Moreover, Muhammad appointing Abu Bakr to lead the prayers during his last days is associated to justify Abu Bakr's later ascension to the caliphate as they display the regard with which Muhammad held the former. Abu Bakr is regarded among the best of Muhammad's followers. Muhammad reportedly said: "If the faith of Abu Bakr was weighed against the faith of the people of the earth, the faith of Abu Bakr would outweigh the others." Abu Bakr used to solve disputes by looking at the Quran and Sunnah. He was also the most knowledgeable Sahabi regarding the genealogy of Arabs.
 
-Abu Bakr's first address as caliph:
-
-    I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth is loyalty and disregard for truth is treachery. The weak amongst you shall be strong with me until I have secured his rights, if God wills; and the strong amongst you shall be weak with me until I have wrested from him the rights of others, if God wills. Obey me so long as I obey God and His Messenger. But if I disobey God and His Messenger, you owe me no obedience. Arise for your prayer, God have mercy upon you.
+    Abu Bakr's first speech as a caliph:
+    "I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth is loyalty and disregard for truth is treachery. The weak amongst you shall be strong with me until I have secured his rights, if God wills; and the strong amongst you shall be weak with me until I have wrested from him the rights of others, if God wills. Obey me so long as I obey God and His Messenger. But if I disobey God and His Messenger, you owe me no obedience. Arise for your prayer, God have mercy upon you."
 
 ### Riddah Wars
 
@@ -7753,7 +7782,7 @@ Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with
 These signs are connected to each other. When one comes, the other one follows.
 
     Do they wait but that come unto them the angels (of death; or those who would bring the doom of the unbelievers) or comes (the final order of) thy Lord, or come some of the signs of thy Lord? On the day when come some of the signs of thy Lord, its faith shall profit not a soul -Which believed not before, or earned not good through its faith. Say, wait you: verily we too are waiting.
-    Quran, 6:158 
+    Quran, surah Al-Anaam (The Cattle) 6:158 
 
 </details><details><summary>
 
@@ -7767,7 +7796,7 @@ The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one o
 
     And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast (Dabbat'ul-Ardh) to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
     And on the day when We will collect from every people a party from those who believed our signs; then will they be formed into groups.
-    Quran 27:82-83
+    Quran, surah An-Naml (The Ant) 27:82-83
 
 Dabbat'ul-Ardh means a “walker of the earth”. Allah says in the Quran:
 “And when the word shall come to pass on them, We shall bring forth unto them a Walking one from the earth who shall speak unto them that people believed not in our signs.
@@ -7844,7 +7873,7 @@ Gabriel had such strong impact on Daniel that he had to recover several days.
 </summary>
 
     Until, when Ya’jooj and Ma’jooj are let loose (from their barrier), and they swiftly swarm from every mound. And the true promise (Day of Resurrection) shall draw near (to fulfillment) 
-    Quran, Surah al-Anbiyaa:96-97
+    Quran, Surah Al-Anbiyaa (The Prophets) 21:96-97
 
 Gog and Magog are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
 
@@ -7853,7 +7882,7 @@ Two chapters of the Quran, Al Kahf and Al-Anbiya, discuss Gog and Magog. In the 
     Then he followed (another) way, until, when he reached between two mountains, he found, before (near) them (those two mountains), a people who scarcely understood a word. They said: "O Dhoo’l-Qarnayn! Verily! Ya’jooj and Ma’jooj are doing great mischief in the land. Shall we then pay you a tribute in order that you might erect a barrier between us and them?" 
     He said: "That (wealth, authority and power) in which my Lord has established me is better (than your tribute). So help me with strength (of men), I will erect between you and them a barrier. Give me pieces (blocks) or iron," then, when he had filled up the gap between the two mountain-cliffs, he said, "Blow," till when he had made it (red as) fire, he said, "Bring me molten copper to pour over it." 
     So they [Ya’jooj and Ma’jooj] were made powerless to scale it or dig through it. (Dhoo’l-Qarnayn) said: "This is a mercy from my Lord, but when the Promise of my Lord comes, He shall level it down to the ground. And the Promise of my Lord is ever true." And on that Day [i.e., the day Ya’jooj and Ma’jooj will come out], We shall leave them to surge like waves on one another, and the Trumpet will be blown, and We shall collect them all together.
-    Quran, Surah al-Kahf 18:92-99
+    Quran, surah Al-Kahf (The Cave) 18:92-99
 
 Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times. At some point at time people who have these characteristics or descendands of them will be let loose.
 
@@ -7969,7 +7998,7 @@ The Smoke is mentioned in the Quran.
     Verily, We shall remove the torment a little; (but) verily you shall return (unto evil).
     
     (Then shall come) the Day. We shall seize (them) with a great seizure; verily, We shall retribute.
-    Quran, Ad Dukhan 44:10-16
+    Quran, Ad-Dukhan (The Smoke) 44:10-16
  
 According to many traditions, these Ayats refer to the smoke which will appear near the Day of Judgement. It will penetrate into ears (and eyes), and people's heads will look like they have been roasted. But it will not trouble the believers very much; they will feel irritation just like in common cold. And the whole earth will be just like a house in which fire has been lighted and the house has no window or ventilation. This condition will remain for forty days.
  
@@ -8028,7 +8057,7 @@ And Allah knows best.
 </summary>
 
     Everyone is going to taste death, and We shall make a trial of you with evil and with good, and to Us you will be returned. 
-    Quran (Surah Al-Anbiya:21)
+    Quran, surah Al-Anbiya (The Prophets) 21
 
 The chronology of what happens with the soul after a person dies:
 * soul is taken from the body
@@ -8044,7 +8073,7 @@ Before talking about the Hereafter, we must contemplate on what happens after a 
 The one who has many sins will ask to go back to dunya and repent and be good:
 
     Say: "Verily, the death that you run away from will surely grab you, then you will be sent back to (Allah), the All-Knower of the unseen and the seen, and He will inform you of what you used to do."
-    Quran, Chapter 62 Al-Jumuah (Friday)
+    Quran, surah Al-Jumuah (Friday) 62
 
 People who die end up in the Barzak. It is the world of souls where they wait for their resurrection and the Final Judjement. Barzakh (برزخ,  "limbo, barrier, partition" is an Arabic word meaning "obstacle", "hindrance", "separation", or "barrier") in Islam designates a place separating the living from the hereafter or a phase/"stage" between an individual's death and their resurrection in "the Hereafter".
 
@@ -8064,7 +8093,7 @@ What happens during and after death?
 </summary>
 
     And they ask you [O Muhammad] concerning the rooh [the spirit]. Say: "The rooh: it is one of the things, the knowledge of which is only with my Lord. And of knowledge, you (mankind) have been given only a little." 
-    Quran, Surah al-Israa 17:85
+    Quran, surah Al-Israa (The Night Journey) 17:85
 
 This following hadith is about the incident when the Jews asked Prophet Muhammad about Ruh (Soul) and the Prophet ﷺ   replied after getting the divine inspiration.
 
@@ -8084,7 +8113,7 @@ According to hadith, when a person dies, the soul goes from the bottom of the bo
 The soul leaves the body during our sleep.
 
     It is Allah Who takes away the souls at the time of their death, and those that die not during their sleep. He keeps those (souls) for which He has ordained death and sends the rest for a term appointed. Verily, in this are signs for a people who think deeply"
-    Surah Az-Zumar 39:42
+    Quran, surah Az-Zumar (The Groups) 39:42
 
 </details><details><summary>
 
@@ -8097,7 +8126,7 @@ Imam Zaynu '1-'Abidin (A) said: “Allah has said, I do not hesitate in any orde
 Anyhow, when Muskhiyyah and Munsiyyah have done their work, the Angel of Death (Malak-ul-Maui) arrives and tells him not to worry: “By Allah, I am kinder to you than your father. Now, open your eyes and look.” Then his spiritual eyes are opened and he sees (in his vision) the faces of the Messenger of Allah (S) and the Imams (A), is informed who they are, and is given the good tidings that he would be their companion. Then he hears a call:
 
     "O thou tranquil soul, return to thy Lord, well pleased, well pleasing (to Him): enter thou amongst My servants, and enter thou My paradise".
-    Quran, 89:27-30
+    Quran, surah Al-Fajr (The Dawn) 89:27-30
  
 At that time, the believer's only wish is to die as soon as possible so that he may reach that caller.
  
@@ -8111,8 +8140,8 @@ But for the hypocrites and the unbelievers the story is completely different.
 
 </summary>
 
-    Now We have removed your veil from you; so your sight today is sharp
-    Quran 50:22. 
+    "Now We have removed your veil from you; so your sight today is sharp".
+    Quran, surah Qaaf (The letter Qaaf) 50:22
 
 There is a difference of opinion regarding the addressees of this verse. The preferred opinion is that Allah addresses mankind in general. This includes the believers, the unbelievers, the pious and the wicked. Ibn Jarir, Ibn Kathir and others have adopted this interpretation. The analogy drawn here is that this world is like the dream-world and the Hereafter is like the state of wakefulness. When man is in the dream-world, his eyes are closed and cannot perceive by his physical organs of sight the stark realities of the next world. When the physical organs of sight close, his dream-world ends and the state of wakefulness begins, and he is able to discern the stark realities of the Hereafter. 
 
@@ -8122,7 +8151,7 @@ Therefore, scholars have formulated the following aphorism:
 Few moments before death, the person would start to see what is usually unseen for the human eyes (God describe this as the eyes being unveiled to finally see the truth).
 
     And the intoxication of death will bring the truth; that is what you were trying to avoid.
-    Quran, 50-Surah Qaf (The Letter Qaf) 19
+    Quran, surah Qaf (The Letter Qaf) 50:19
 
 </details><details><summary>
 
@@ -8133,7 +8162,7 @@ Few moments before death, the person would start to see what is usually unseen f
     In the name of Allah, The Almighty Creator, Owner of Life and Death.
 
     (Muhammad), say "The angel of death, who is appointed over everyone of you, will cause you to die and to your Lord you will all return"
-    Quran, Surah As-Sajda 32:11
+    Quran, surah As-Sajda (The Prostration) 32:11
 
 The Angel of Death will come to the person but how the look of the Angel of Death depends on the state of the person (which means how the Angel will appear is determined by the deeds of the person: Good deeds or bad deeds).
 
@@ -8142,10 +8171,10 @@ When a good person dies (a person who did good deeds): The Angel of Death will a
 When an evil person dies (a person who committed sins, bad deed): The Angel of Death will appear as a very terrifying entity, his look will be so terrifying that the person would not bare to look at him. To the extend his soul would want to run away hiding from the Angel of Death. The Angel will not great such person with Salam (peace), The Angel will violently tear away the soul from his body, so violent that the person would feel terrifying pain as if he would feel sharp rose thorns ripping him apart from the inside out. That’s how violent the Angel will rip apart the soul of the person who committed evil.
 
     By the angels who violently tear-out the souls of the disbelievers from their bodies.
-    Holy Quran - An-Naazi’aat 79:1
+    Quran, surah An-Naazi’aat (Those who Drag Forth) 79:1
 
     By the angels who gently release the souls of the believers.
-    Holy Quran - An-Naazi’aat 79:2
+    Quran, surah An-Naazi’aat (Those who Drag Forth) 79:2
 
 This is the reason why in Islam, we are all encouraged to do goodness because nobody knows when we are going to die. We are encouraged to do good deeds because if we die when we are doing good, then we will have a peaceful death, the angels will welcome you, and God will be pleased with you that you died right just after doing good.
 
@@ -8154,15 +8183,15 @@ Islam teaches us to constantly be prepared for death for death can come at any m
 Every person will feel the agony of death or what we call the intoxication of death. This means that before dying, the body will feel what is coming, the body will feel death is approaching, it’s a feel no one can describe, except that God mentioned that death comes with an agony and that everyone will feel it.
 
     The human being will certainly experience the agony of death.
-    Holy Quran - Qaaf 50:18
+    Quran, surah Qaaf (The letter Qaaf) 50:18
 
     (He will be told), "You were completely heedless of this day. We have removed the veil from your eyes and your vision will now be sharp and strong"
-    Holy Quran - Qaaf 50:22
+    Quran, surah An-Naazi’aat (Those who Drag Forth)  50:22
 
 The veil that hides the world of the unseen will be removed moments before death, so that the dying person would be aware of what is going and so that the dying person would start seeing the Angel of Death with his own eyes.
     
     On the day when the criminals see the angels, there will, certainly, be no rejoicing for them. rather, they will plead to the angels, "Please keep away from us (do not drive us into hell)"
-    Holy Quran - Al-Furqaan 25:21
+    Quran, surah Al-Furqaan (The Criterion) 25:21
 
 The verse above is a confirmation that on the moment of death, the human being will see the angels, before the soul will be taken out of the body.
 
@@ -8172,7 +8201,7 @@ The verse above is a confirmation that on the moment of death, the human being w
           
     And the leg is wound about the leg,
     To your Lord, that Day, will be the procession.
-    Quran, 75-Surah Al-Qiyamah (The Resurrection) 26-30
+    Quran, surah Al-Qiyamah (The Resurrection) 75:26-30
 
 #### Taking the soul of a believer
 
@@ -8191,10 +8220,10 @@ The verse above is a confirmation that on the moment of death, the human being w
 > Source: Musnad Aḥmad 18534. Grade: Sahih (authentic) according to Al-Arna’ut
 
     Until, when death overtakes any of them, he says, "O Lord; cause me to return (to life), so that I may do that which is right which I had neglected." By no means. Verily these are (mere) words which he speaks (he will not change his ways) and behind them there is a bar (partition) until the day they shall be resurrected
-    Quran, 23:99-100
+    Quran, surah Al-Muninoon (The Believers) 23:99-100
 
     They (the unbelievers) shall say (on the Day of Resurrection). "O Lord, thou hast given us death twice, and thou hast twice given us life; and we confess our sins; is there, therefore, any way to get forth (from retribution)?"
-    Quran, 40:11
+    Quran, surah Ghafir (The Forgiver) 40:11
 
 According to many traditions, two deaths and two lives mean death in this world, then resurrection in the grave for questioning, then death in the grave after questioning, then resurrection on the Day of Reckoning.
 
@@ -8242,12 +8271,12 @@ I am your good deeds. I am the prayers you prayed, I am zakat you paid.
 "Barzakh" literally means 'barrier'. In the Quran, it has been used for the period between death and the Day of Resurrection.
 
     "And behind them is the Barzakh (barrier) till the Day they will be Resurrected."
-    Quran, 23:100
+    Quran, surah Al-Muminoon (The Believers) 23:100
 
 Al-Barzakh is the period between a person's death and his resurrection on the Day of Resurrection. Whoever dies as a Muslim, obeying Allah, will be in a blessed state, and whoever dies as a disbeliever, disobeying Allah, will be punished. The punishments vary according to the sins committed. 
 
     The Fire, they are exposed to it, morning and afternoon. And on the Day when the Hour will be established (it will be said to the angels): "Cause Firaun’s (Pharaoh) people to enter the severest torment!"
-    Quran, surah Ghafir 40:46
+    Quran, surah Ghafir (The Forgiver) 40:46
 
 ### 3 Goups in Barzakh [TBD]
 
@@ -8336,7 +8365,7 @@ When they closed my grave, my soul entered my body again. An Angel, Munabbih (On
 When I had written all my deeds, the Angel put my writing around my neck like a band, it is as Allah says in the Quran:
 
     "And the bird (i.e., deed done by one) of every man have We bound about his neck, and We shall produce unto him, on the Day of Resurrection, a book (in which his actions will be recorded) which he will find open, (it will be said to him) read thy book; thine own self will be a sufficient reckoner against thee." 
-    Quran, 17:13-14
+    Quran, surah Al-Isra (The Night Journey) 17:13-14
 
 In other traditions, the name of the angel, who comes in the grave and guides in writing the deeds of the Mayyit, is given as "Ruman".
  
@@ -8397,7 +8426,7 @@ There is a hadith that says the Trumped or the Horn will not be blown until ther
 Therefore, the people who will be then alive on the face of the earth will hear this blow that will cause the end of the world, and all of a sudden they will be struck insensible and will fall dead to an extent that none of them will be able to make a will. Allah Says (what means): 
 
     They do not await except one blast, which will seize them while they are disputing. And they will not be able [to give] any instruction, nor to their people can they return.
-    Quran 36:49-50
+    Quran, surah Yaseen (Yaseen) 36:49-50
 
 On the other hand, a Hadeeth reads: "Then the Trumpet will be blown, and no one hears it except that he will bend his neck to one side (in an attempt to listen to it) and raise it from the other side." Then he [the Prophet ﷺ  ] said: "And the first to hear it (the Trumpet) will be a man who is busy in repairing the tank meant for supplying water to his camels. He [the Prophet ﷺ  ] said: "He will fall dead and the people will also fall dead." Moreover, the Prophet ﷺ   told us about the speed of the death of the people when the Hour will take place, as he said: 
 
@@ -8412,13 +8441,13 @@ On the other hand, a Hadeeth reads: "Then the Trumpet will be blown, and no one 
 After the first blow, everything on the Earth will be destroyed. And the heavens will be rolled up.
 
     The day when, We shall roll up the heavens as a recorder rolls up a written scroll. As We began the first creation We shall repeat it.
-    Quran 21:104
+    Quran, surah Al-Anbiyaa (The Prophets) 21:104
 
     When earth is shaken with her final earthquake.
-    Quran 99:1
+    Quran, surah Az-Zalzala (The Earthquake) 99:1
 
     When the sky will be like molten copper and the hills will be like flakes of wool.
-    Quran:70:8-9
+    Quran, surah Al-Maarij (The Ascending Stairways) 70:8-9
 
 I've come across this interesting theory of physics of Destruction of the earth on the Day of Judgement: [Physics of the Day of Judgement](https://www.islamicity.org/6377/the-physics-of-the-day-of-judgement/).
 
@@ -8433,10 +8462,10 @@ Shortly:
 #### Every Living Creature Dies
 
     The earth with the mountains shall be lifted and crushed with one crash. 
-    Quran 69:14
+    Quran, surah Haqqa (The Reality) 69:14
 
     A day when the heaven with the clouds will be rent asunder, And the angels will be sent down, a grand descent.
-    Quran:25:25
+    Quran, surah Al-Furqan (The Criterion) 25:25
 
 When the destruction begins, every living thing on Earth dies. Animals, people, jinn. There is no authentic source that says that angels will die as well but there are some narrations with weak isnad that suggest that. 
 
@@ -8471,22 +8500,22 @@ There is a hadith with a weak chain of narrations:
     And man (mockingly) asks: "Will I really be raised back to life after I die?"
     Does man not remember that We created him (once) before, when he was nothing?
     So I swear by your Lord, We will most certainly gather all of them again -- and the Shayatin -- and bring them around Jahannam on their knees...
-    Quran, Surah Maryam
+    Quran, surah Maryam (Mary) 19
 
     It is God, Who sends the winds and they raise a cloud, Then leads it to a dead land and revives the earth after its death. Such is the Resurrection.
-    Quran 35:9
+    Quran, surah Fatir (The Originator) 35:9
 
 The first resurrected creature will be the angel Israfil. Allah will resurrect him and command him to blow the trumpet for the second time.
 
 The second blow will signal the resurrection from the dead of all creatures that were once alive.
  
     From the earth We created you, and into it We will return you, and from it We will extract you another time.
-    Quran, 20-Surah Taha 55
+    Quran, surah Taha (Taha) 20:55
 
 The dead will then be resurrected and Afterlife commence with yet another trumpet blast, (different sources give different numbers of trumpet blasts) The first to arise will be Muhammad, followed by the other members of the Muslim community. with all gathering at the place of assembly [al-maḥshar]. In between resurrection and the actual judgement will be an agonizing wait (Q.21:103, Q.37:20) for the unbelievers.
 
     The Supreme Horror ˹of that Day˺ will not disturb them, and the angels will greet them, ˹saying,˺ "This is your Day, which you have been promised."   
-    Quran, Surah 21 Al-Anbya, Ayah 103
+    Quran, surah Al-Anbiya (The Prophets) 21:103
 
     Then ask them (i.e. these polytheists, O Muhammad ): "Are they stronger as creation, or those (others like the heavens and the earth and the mountains, etc.) whom We have created?" Verily, We created them of a sticky clay.
 
@@ -8529,7 +8558,7 @@ The dead will then be resurrected and Afterlife commence with yet another trumpe
     And (they) said: "Are we going to abandon our aliha (gods) for the sake of a mad poet?
 
     Nay! he (Muhammad ) has come with the truth (i.e. Allah’s Religion – Islamic Monotheism and this Qur’an) and he confirms the Messengers (before him who brought Allah’s religion – Islamic Monotheism).
-    Quran, Surah As-Saffaat
+    Quran, surah As-Saffaat (Those drown up in Ranks) 37
 
 [The Day of Judgement lectures by  sheikh Yasir Qadhi](https://www.youtube.com/watch?v=sg0IlOvTklI&list=PLYZxc42QNctXqgEpxF8L-ZItU3uBAjtOR&index=6)
 
@@ -8550,7 +8579,7 @@ People will see Jahannam.
 Ibn Abbas said that Judgement Day is a very very long day. It will feel like many many lifetimes. ibn Abbas said to the Harajite that the punishment willl be in stages.
 
     And when Paradise is brought near
-    Quran, 81-Surah At-Takwir (The Overthrowing) 13
+    Quran, surah At-Takwir (The Overthrowing) 81:13
 
 Shahid will be resurrected with their scars red as blood and they will smell of musk.
 
@@ -8599,17 +8628,17 @@ There are different interpretations. There is clearly evidence that for some peo
 ### Heaven will split open
 
     And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent.
-    Quran, 25-Surah Al-Furqan (The Criterion) 25
+    Quran, surah Al-Furqan (The Criterion) 25:25
 
 ### The Day will last like 50 thousand years
 
     The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years.
-    70-Surah Al-Ma’arij (The Ways of Ascent) 4
+    Quran, surah Al-Ma’arij (The Ways of Ascent) 70:4
 
 ### Everyone will be silent
 
     The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.
-    Quran, 78-Surah An-Naba’ (The Great News) 38
+    Quran, surah An-Naba (The Great News) 78:38
 
 </details><details><summary>
 
@@ -8622,7 +8651,7 @@ Qiyamah literally means "to stand up" or "to prepare". There are three reasons w
 People will somehow see their deeds. Good deeds and bad deeds of a person will become as some sort currency.
 
     We warn you of doom at hand. A day when a man will look on that his own hand has sent before, And the non-believers will cry: "Wish that we were dust." 
-    Quran 78:40
+    Quran, surah An-Naba (The Announcement) 78:40
 
 People will be all gathered in a white space without mountains naked. And they will have to handle between each other all their debts, all unfinished business.
 
@@ -8664,7 +8693,7 @@ And finally they will come to the prophet Muhammad ﷺ    begging him to ask All
 
 </summary>
 
-hadith:
+Hadith:
 > Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
 
 The sun is rolled up, stars are diminished, mountaines are moving in motion, when all realtionships are broken and suspended, when all animals will be gathered together, when oceans will become flames, when souls are paired up, when a child that was killed will be asked why was she killed and buried alive, when your scrolls that remained hidden are made public. when the sky is peeled away, when the fire is set ablaze, Jamah is brought close. On that Day every soul will have in front of him what that souls prepared for the Day of Judgement.
@@ -8757,7 +8786,7 @@ Whoever drinks from Kawthar will not feel thirst ever again.
 Then bridge of Qantarah to allow people complete their arguments. People will forgive each other. this will cause the delay because they didn forgive them in dunya.
 
     And we removed every grudge from their hearts. They will be brothers, reclining on thrones that Day, looking at one another.
-    Quran 15:47
+    Quran, surah Al-Hijr (The Rock) 15:47
 
 > Narrated Sahl ibn Sa'd : I heard the Prophet saying, "I am your predecessor at the Lake-Fount (Kauthar), and whoever will come to it, will drink from it, and whoever will drink from it, will never become thirsty after that. There will come to me some people whom I know and they know me, and then a barrier will be set up between me and them." Abu Sa'id Al-Khudri added that the Prophet further said: "I will say those people are from me. It will be said, 'You do not know what changes and new things they did after you.' Then I will say, 'Far removed (from mercy), far removed (from mercy), those who changed (the religion) after me! "
 
@@ -8785,7 +8814,7 @@ As for who the inhabitants of the inhabits al-aʿrāf are, the "majority of exeg
     Return to your Lord, well-pleased and pleasing [to Him] 
     And enter among My [righteous] servants
     And enter My Paradise.
-    Quran, 89-Surah Al-Fajr (The Dawn) 27-30
+    Quran, surah Al-Fajr (The Dawn) 89:27-30
 
 > In the hadith about intercession that the Prophet (blessings and peace of Allah be upon him) said: "I will come to the gate of Paradise on the Day of Resurrection and will ask for it to be opened. The keeper will say: ‘Who are you?’ I will say, ‘Muhammad.’ He will say: ‘I was commanded not to open it for anyone before you." Narrated by Muslim (197)
 
@@ -8804,19 +8833,19 @@ The above report was declared Hasan Gharib by Tirmidhi. However, after mentionin
     And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allah, who has guided us to this; and we would never have been guided if Allah had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
           
     And the companions of Paradise will call out to the companions of the Fire, "We have already found what our Lord promised us to be true. Have you found what your Lord promised to be true?" They will say, "Yes." Then an announcer will announce among them, "The curse of Allah shall be upon the wrongdoers."
-    Quran, 7-Surah Al-A’raf (The Heights) 42-44
+    Quran, surah Al-Araf (The Heights) 7:42-44
 
 When people enter Jannah, they will be told that they will be forever young, don't be sad or sick and they will stay in Paradise forever. It would take thousand years to pass by your property.
 
 Allah says I will be forever pleased with you. and people will see Allah. There's nothing in Jannah more beautiful than seeing Allah.
 
     Some faces that Day will be shining and radiant, looking at their Lord… 
-    Quran, Surah Al-Qiyamah:22-3
+    Quran, surah Al-Qiyamah (The Resurrection) 75:22-3
 
     Say, ‘ Is that better or the Garden of Eternity which is promised to the righteous? It will be for them a reward and destination.
           
     For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.
-    Quran, 25-Surah Al-Furqan (The Criterion) 15-16
+    Quran, surah Al-Furqan (The Criterion) 25:15-16
 
     And the forerunners, the forerunners
     Those are the ones brought near [to Allah]
@@ -8849,13 +8878,13 @@ Allah says I will be forever pleased with you. and people will see Allah. There'
     For the companions of the right [who are]
     A company of the former peoples
     And a company of the later peoples.
-    Quran, 56-Surah Al-Waqi’ah (The Event) 10-40
+    Quran, surah Al-Waqi’ah (The Event) 56:10-40
 
     Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation
     They and their spouses – in shade, reclining on adorned couches
     For them therein is fruit, and for them is whatever they request [or wish]
           
     [And] "Peace," a word from the Merciful Lord.
-    Quran, 36-Surah Ya-seen 55-58
+    Quran, surah Ya-seen (Yaseen) 36:55-58
 
 </details>
