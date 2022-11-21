@@ -1704,7 +1704,7 @@ When Hajar ran out of food and water, she left the baby under the sheltered plac
 
 At some point, a passing tribe known as the Jurhum sees birds circling the water and investigates. They ask Hajar if they can settle there, which she allows, and many versions say as Ismail grew up he learned various things from the tribe. There are numerous versions of this story, each differing in various ways. The versions used in this summary, as well as others, can be found in al-Tabari's history and are recounted in Reuven Firestone's Journeys in Holy Lands.
 
-The word Ismail إسماعيل mentioned 12 times in Quran in 12 verses. And he is praised by Allah multiple times.
+The word Ismail إسماعيل  mentioned 12 times in Quran in 12 verses. And he is praised by Allah multiple times.
 
     And Ishmael and Elisha and Jonah and Lot – and all [of them] We preferred over the worlds.
     Quran, surah Saad (The letter Saad) 38:48
@@ -1750,6 +1750,8 @@ The stone over which Ibrahim stood and built is called maqam Ibrahim (Ibrahim's 
 
 If the last account entails any symbolic significance, then it will be with respect to the notion that it was emblematically appropriate to use materials for the Ka'bah groundwork or foundations from a hill where the final prophethood contact between the heavens and the earth was made, and where Prophet Muhammad's mission officially commenced. Such was an occurrence that, as a matter of fact, signified the climax of Ibrahim's own mission and efforts, because he besought God to make happen that which indeed many centuries later started to happen on the Hira' (Nur) hill in the Hira' cave. It therefore was not by chance that in the course of constructing the Ka'bah Ibrahim prayed to God about Muhammad ﷺ   and about the substance of his forthcoming mission.
 
+### Dua of Ibrahim
+
 Having completed to build Kaba, they opened their hands in supplication to Allah Almighty and prayed:
 
     "Our Lord! Send a Messenger from our progeny to the Muslim Ummah so that he can read to them your ayahs (verses), teach them your books and their laws, and cleanse them from their sins!" 
@@ -1757,9 +1759,25 @@ Having completed to build Kaba, they opened their hands in supplication to Allah
 
 Hence, Ibrahim laid the spiritual foundation of Prophet Muhammad's mission by invoking God to send him, and by (re)building the Ka'bah, the epicenter and nucleus of Muhammad's prophethood and his overall spiritual and civilizational legacy. Making the matter more perceptible, suggestive and redolent with meaning, Ibrahim used the Hira or Nur hill resources for the groundwork of the Ka'bah.
 
-Allah Almighty did not leave this sincere supplication unanswered and sent a descendant of Ismael, the prophet Muhammad ﷺ, , the chief of the prophets to the world. The Pride of the Universe ﷺ  proclaimed this truth as,
+    And [mention, O Muhammad], when Abraham said, "My Lord, make this city [Makkah] secure and keep me and my sons away from worshipping idols.
+    
+    My Lord, indeed they have led astray many among the people. So whoever follows me – then he is of me; and whoever disobeys me – indeed, You are [yet] Forgiving and Merciful.
+          
+    Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful.
 
-> "I am the supplication of my forefather Ibrahim ﷺ  ."
+    Our Lord, indeed You know what we conceal and what we declare, and nothing is hidden from Allah on the earth or in the heaven.
+
+    Praise to Allah, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.
+
+    My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.
+    
+    Our Lord, forgive me and my parents and the believers the Day the account is established."
+    Quran, surah Ibrahim (Abraham) 14:35-41
+
+Allah Almighty did not leave this sincere supplication unanswered and sent a descendant of Ismael, the prophet Muhammad ﷺ, , the chief of the prophets to the world. The Pride of the Universe ﷺ   proclaimed this truth as,
+
+> "I am the supplication of my forefather Ibrahim (peace be upon him)."
+>
 > Ibn Hisham, Sira: 1/175; Tabari, Tarikh: 2/128.
 
 ### The Black Stone
@@ -8278,6 +8296,10 @@ Al-Barzakh is the period between a person's death and his resurrection on the Da
     The Fire, they are exposed to it, morning and afternoon. And on the Day when the Hour will be established (it will be said to the angels): "Cause Firaun’s (Pharaoh) people to enter the severest torment!"
     Quran, surah Ghafir (The Forgiver) 40:46
 
+According to Ibn Hazm, Barzakh is also the place for the unborn souls, existing in the lowest heaven, where an angel blows the soul into wombs.
+
+In hadith, Ibn al-Qayyim cites that, albeit not mentioned in the Quran, souls in Al-Barzakh would be grouped with others matching in purity or impurity. In Islam, the soul and the body are independent of each other. This is significant in Barzakh, because only a person's soul goes to Barzakh and not their physical body. Since one's soul is divorced from their body in Barzakh, the belief is that no progress or improvements to one's past life can be made. If a person experienced a life of sin and worldly pleasures, one cannot try to perform good deeds in order to reach Jannah Paradise. In Sufism the Barzakh or Alam-e-Araf is not only where the human soul resides after death but it is also a place that the soul can visit during sleep and meditation.
+
 #### 3 Goups in Barzakh [TBD]
 
 The question of reward and punishment in Barzakh is very complicated. Allah decides every thing according to His own plan, which, of course, is based upon mercy and justice -justice for all and mercy for the believers. Obviously, every case is dealt with on its own merit. Therefore, it is very difficult to lay down any hard and fast rule. Still, what appears from the traditions of the Masumeen (A) may be summed up as follows:
@@ -8298,7 +8320,7 @@ But again it is not a strict rule. Some exceptions have been observed whereas th
  
 The third Group is of those who are neither perfect believers nor confirmed unbelievers. The children, the lunatics, those who because of one reason or another were not in a position to differentiate between the right and the wrong path, those who were so far from Islamic environment that they were not aware of the truth of Islam, those who did not know about Islam but at the same time were not enemies of Islam, those whose religious beliefs were not based upon logical understanding but they just followed what their families were following; even those non-believers who love the Holy Prophet (S) and his Ahlul-Bait, without knowing that they were the True Guides sent by Allah: all such people come under this group.
  
-Such people will not be subject to the questioning and squeeze of grave. They will be left in a state like deep slumber; and Allah will decide about them on the Day of Judgement. Till then, there is neither reward nor punishment for them.14
+Such people will not be subject to the questioning and squeeze of grave. They will be left in a state like deep slumber; and Allah will decide about them on the Day of Judgement. Till then, there is neither reward nor punishment for them.
 
 After these three main groups, there still remains a group in between, which must be described here to complete the picture. This group is of those believers who had committed so many sins that could not be wiped out by worldly troubles and agony of death. Now, if Allah decides that such a believer should come on the Day of Judgement clean from all blemishes and free from all sins, then He may put him under punishment during the Barzakh period. And it is this punishment which has been referred to in the Hadith of Imam Jafer Sadiq (A) which was mentioned earlier:
 “We will intercede on your behalf on the Day of Judgement; but, by Allah, I am worried about you whilst you would be in Barzakh.”
@@ -8307,9 +8329,11 @@ On the other hand, if Allah decides to leave his case in suspense till Qiyamat, 
  
 Anyhow, all these things depend upon the justice and mercy of Allah. We have not been told enough to know all the details about all the groups.
  
-It is about the first and second groups (as well as the last mentioned believers who will be punished in Barzakh) that the Holy Prophet (S) has said: “When one dies his Qiyamat starts!” In this sense the Barzakh is called “Qiyamat-e-Sughra” (the lesser Qiyamat)
- 
-The reader is now advised to read again the traditions given in lesson 17; so that he may understand many references which might have remained a mystery at first.
+It is about the first and second groups (as well as the last mentioned believers who will be punished in Barzakh) that the Holy Prophet (S) has said: 
+
+>“When one dies his Qiyamat starts!” 
+
+In this sense the Barzakh is called “Qiyamat-e-Sughra” (the lesser Qiyamat)
 
 #### Punishment in Barzakh
 
@@ -8839,12 +8863,12 @@ When people enter Jannah, they will be told that they will be forever young, don
 
 Allah says I will be forever pleased with you. and people will see Allah. There's nothing in Jannah more beautiful than seeing Allah.
 
-    Some faces that Day will be shining and radiant, looking at their Lord… 
+    "Some faces that Day will be shining and radiant, looking at their Lord…" 
     Quran, surah Al-Qiyamah (The Resurrection) 75:22-3
 
-    Say, ‘ Is that better or the Garden of Eternity which is promised to the righteous? It will be for them a reward and destination.
+    Say, "Is that better or the Garden of Eternity which is promised to the righteous? It will be for them a reward and destination.
           
-    For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.
+    For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested".
     Quran, surah Al-Furqan (The Criterion) 25:15-16
 
     And the forerunners, the forerunners
@@ -8864,6 +8888,7 @@ Allah says I will be forever pleased with you. and people will see Allah. There'
     As reward for what they used to do.
     They will not hear therein ill speech or commission of sin
     Only a saying: "Peace, peace."
+
     The companions of the right – what are the companions of the right?
     [They will be] among lote trees with thorns removed
     And [banana] trees layered [with fruit]
@@ -8878,7 +8903,7 @@ Allah says I will be forever pleased with you. and people will see Allah. There'
     For the companions of the right [who are]
     A company of the former peoples
     And a company of the later peoples.
-    Quran, surah Al-Waqi’ah (The Event) 56:10-40
+    Quran, surah Al-Waqiah (The Event) 56:10-40
 
     Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation
     They and their spouses – in shade, reclining on adorned couches
