@@ -3630,6 +3630,48 @@ About a 150 years later, after the departure of Jesus Christ, a Church father by
 
 The story of the Companions of the Cave ( أصحاب الکهف, ) is referred to in Quran 18:9-26. Several righteous people and one dog hid inside the cave outside the city of Ephesus around AD 250 to escape one of the Roman persecutions of Christians and emerged some 300 years later.
 
+According to narrations these righteous young men did not know each other and unaware of each other they refused to attend Roman pagan rituals of sacrifice to idols. One day the Roman emperor said that he will visit the city. So the local governer started opressing Christians to convert to paganism. His aim was to not leave any person who didn't worship idols. When the emperor came, one of the righteous believers declared the following in front of the emperor:
+
+    "Our Lord is the Lord of the heavens and the earth; 
+    We shall never invoke any God other than him. Otherwise, we would be saying something far from the truth."
+    Quran, surah Al-Kahf (The Cave) 18:14
+
+Upon hearing this, all the rest believers declared their belif in one God. The emperor did not want to kill them and make them heroes, so he gave them 2 days to reject their words. The believers and a dog managed to leave the city and found refuge in a cave. In the cave, the believers and fell asleep and they have slept for 300 years.
+
+˹Remember˺ when those youths took refuge in the cave, and said, “Our Lord! Grant us mercy from Yourself and guide us rightly through our ordeal.”
+
+    So We caused them to fall into a dead sleep in the cave for many years,
+
+    then We raised them so We may show which of the two groups would make a better estimation of the length of their stay.
+    We relate to you ˹O Prophet˺ their story in truth. They were youths who truly believed in their Lord, and We increased them in guidance.
+
+    And We strengthened their hearts when they stood up and declared, "Our Lord is the Lord of the heavens and the earth. We will never call upon any god besides Him, or we would truly be uttering an outrageous lie."
+
+    ˹Then they said to one another,˺ "These people of ours have taken gods besides Him. Why do they not produce a clear proof of them? Who then does more wrong than those who fabricate lies against Allah?
+
+    Since you have distanced yourselves from them and what they worship besides Allah, take refuge in the cave. Your Lord will extend His mercy to you and accommodate you in your ordeal."
+
+    And you would have seen the sun, as it rose, inclining away from their cave to the right, and as it set, declining away from them to the left, while they lay in its open space. That is one of the signs of Allah. Whoever Allah guides is truly guided. But whoever He leaves to stray, you will never find for them a guiding mentor.
+
+    And you would have thought they were awake, though they were asleep. We turned them over, to the right and left, while their dog stretched his forelegs at the entrance. Had you looked at them, you would have certainly fled away from them, filled with horror.
+
+    And so We awakened them so that they might question one another. One of them exclaimed, "How long have you remained ˹asleep˺?" Some replied, "Perhaps a day, or part of a day." They said ˹to one another˺, "Your Lord knows best how long you have remained. So send one of you with these silver coins of yours to the city, and let him find which food is the purest, and then bring you provisions from it. Let him be ˹exceptionally˺ cautious, and do not let him give you away.
+
+    For, indeed, if they find out about you, they will stone you ˹to death˺, or force you back into their faith, and then you will never succeed."
+
+    That is how We caused them to be discovered so that their people might know that Allah’s promise ˹of resurrection˺ is true and that there is no doubt about the Hour. When the people disputed with each other about the case of the youth ˹after their death˺, some proposed, "Build a structure around them. Their Lord knows best about them." Those who prevailed in the matter said, "We will surely build a place of worship over them."
+
+    Some will say, "They were three, their dog was the fourth," while others will say, "They were five, their dog was the sixth," ˹only˺ guessing blindly. And others will say, "They were seven and their dog was the eighth." Say, ˹O Prophet,˺ "My Lord knows best their ˹exact˺ number. Only a few people know as well." So do not argue about them except with sure knowledge, nor consult any of those ˹who debate˺ about them.
+
+    And never say of anything, "I will definitely do this tomorrow,"
+
+    without adding, "if Allah so wills!" But if you forget, then remember your Lord, and say, "I trust my Lord will guide me to what is more right than this."
+
+    They had remained in their cave for three hundred years, adding nine.
+
+    Say, ˹O Prophet,˺ "Allah knows best how long they stayed. With Him ˹alone˺ is ˹the knowledge of˺ the unseen of the heavens and the earth. How perfectly He hears and sees! They have no guardian besides Him, and He shares His command with none."
+    Quran, surah Al-Kahf (The Cave) 18:9-27
+
 The precise number of the sleepers is not stated. The Quran furthermore points to the fact that people, shortly after the incident emerged, started to make "idle guesses" as to how many people were in the cave. To this the Quran asserts that: "My Sustainer knows best how many they were".
 
 Similarly, regarding the exact period of time the people stayed in the cave, the Quran, after asserting the guesswork of the people that "they remained in the cave for 300 years and nine added", resolves that "God knows best how long they remained [there]." The Quran says the sleepers included a dog, who sat at the entrance of the cave (verse 18). 
@@ -4920,6 +4962,9 @@ Prayer was made an incumbent duty on Muslims ever since the very early days of I
 The Prophet says: "A religion that does not include a prayer duty is devoid of goodness." In the Prophet’s life history we read that Abu Talib once saw Ali praying and he asked him what he was doing. Ali explained that it was the prayer the Prophet ordered. Abu Talib said: "Since he orders only what is good, obey him."
 
 What was imposed on Muslims then before the Prophet’s night journey? Scholars mention that most probably it was in the same form we pray now, but the obligation was only two prayers a day, one during the day and one after nightfall.
+
+> Prayer is the pillar of Islam, whoever leaves it has destroyed his religion.
+> Ajloni, Kashf al Khafa 11/31
 
 </details>
 
@@ -8798,6 +8843,32 @@ The people said, "O Allah's Messenger ﷺ  ! Shall we see our Lord on the Day of
 People will need to cross the bridge that lays above Jahannam.
 
 And the Prophet Muhammad is waiting on the other side of Sirat with a cup from his fountain (Kawthar).
+
+There are 7 stops and 7 queastions on the bridge.
+
+Sirat is thin as a hair and sharp as a sword.
+
+some people will pass at the speed of light. Some will crawl till the end of the journey.
+
+hadith says that the first one to pass the Sirat will be the prophet Muhammad and then his ummah.
+
+there will be hooks that will drag sinners down
+
+The Hell will be asked "Are you full?". and the Hell will reply "Is there no more?"
+
+
+Some people will not know that they crossed the Sirat and will ask the angels, "Where is the Sirat, and where is Hell? Did we cross over them?" Angels will answer, "You crossed the Sirat, which was over Hell. However, Hellfire receded and was covered because of your light."
+Jami-us-saghir
+
+The Hellfire will say to a believer, "O Believer! Go over me swiftly; your light diminishes my flames."
+
+believing in one God
+salat
+fasting
+zakat
+hajj
+rights of others and looking after our relatives
+cleanliness (ghusl)
 
 </details><details><summary>
 
