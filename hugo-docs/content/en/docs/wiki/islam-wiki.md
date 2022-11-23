@@ -8477,20 +8477,38 @@ As Saffaranini said there will be 8 things:
 
 Also, not mentioned above: angels will come in rows, Shafagha, seeing of Allah, The Cistern (the pool), Wurud, The Qantara (open area in front of Jannah).
 
+> Narrated Abu Huraira 🐈:
+> 
+> The people said, "O Allah's Messenger ﷺ  ! Shall we see our Lord on the Day of Resurrection?" He replied, "Do you have any doubt in seeing the full moon on a clear (not cloudy) night?" They replied, "No, O Allah's Messenger ﷺ   !" He said, "Do you have any doubt in seeing the sun when there are no clouds?" They replied in the negative. He said, "You will see Allah (your Lord) in the same way. 
+>
+> On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities; and only this nation (Muslims) will be left with its hypocrites. Allah will come to them and say, 'I am Your Lord.' They will say, 'We shall stay in this place till our Lord comes to us and when our Lord will come, we will recognize Him. Then Allah will come to them again and say, 'I am your Lord.' They will say, 'You are our Lord.' 
+>
+> Allah will call them, and As-Sirat (a bridge) will be laid across Hell and I (Muhammad) shall be the first amongst the Apostles to cross it with my followers. Nobody except the Apostles will then be able to speak and they will be saying then, 'O Allah! Save us. O Allah Save us.' There will be hooks like the thorns of Sa'dan in Hell. Have you seen the thorns of Sa'dan ?" The people said, "Yes." He said, "These hooks will be like the thorns of Sa'dan but nobody except Allah knows their greatness in size and these will entangle the people according to their deeds; some of them will fall and stay in Hell forever; others will receive punishment (torn into small pieces) and will get out of Hell, till when Allah intends mercy on whomever He likes amongst the people of Hell, He will order the angels to take out of Hell those who worshipped none but Him alone. The angels will take them out by recognizing them from the traces of prostrations, for Allah has forbidden the (Hell) fire to eat away those traces. 
+>
+> So they will come out of the Fire, it will eat away from the whole of the human body except the marks of the prostrations. At that time they will come out of the Fire as mere skeletons. The Water of Life will be poured on them and as a result they will grow like the seeds growing on the bank of flowing water. Then when Allah had finished from the Judgments amongst his creations, one man will be left between Hell and Paradise and he will be the last man from the people of Hell to enter paradise. He will be facing Hell, and will say, 'O Allah! Turn my face from the fire as its wind has dried me and its steam has burnt me.' Allah will ask him, "Will you ask for anything more in case this favor is granted to you?' He will say, "No by Your (Honor) Power!" And he will give to his Lord (Allah) what he will of the pledges and the covenants. Allah will then turn his face from the Fire. When he will face Paradise and will see its charm, he will remain quiet as long as Allah will. He then will say, 'O my Lord! Let me go to the gate of Paradise.' Allah will ask him, 'Didn't you give pledges and make covenants (to the effect) that you would not ask for anything more than what you requested at first?' He will say, 'O my Lord! Do not make me the most wretched, amongst Your creatures.' Allah will say, 'If this request is granted, will you then ask for anything else?' He will say, 'No! By Your Power! I shall not ask for anything else.' Then he will give to his Lord what He will of the pledges and the covenants. Allah will then let him go to the gate of Paradise. 
+>
+> On reaching then and seeing its life, charm, and pleasure, he will remain quiet as long as Allah wills and then will say, 'O my Lord ! Let me enter Paradise.' Allah will say, May Allah be merciful unto you, O son of Adam! How treacherous you are! Haven't you made covenants and given pledges that you will not ask for anything more that what you have been given?' He will say, 'O my Lord! Do not make me the most wretched amongst Your creatures.' So Allah will laugh and allow him to enter Paradise and will ask him to request as much as he likes. He will do so till all his desires have been fulfilled. Then Allah will say, 'Request more of such and such things.' Allah will remind him and when all his desires and wishes; have been fulfilled, Allah will say "All this is granted to you and a similar amount besides." 
+>
+> Abu Said Al-Khudri, said to Abu Huraira, 'Allah's Messenger ﷺ   said, "Allah said, 'That is for you and ten times more like it.' "Abu Huraira said, "I do not remember from Allah's Messenger ﷺ   except (his saying), 'All this is granted to you and a similar amount besides." Abu Said said, "I heard him saying, 'That is for you and ten times more the like of it."
+
 </details><details><summary>
 
 ## Israfil Blows the Trumpet the first time
 
 </summary>
 
+    And when the trumpet is blown,
+    That Day will be a difficult day
+    Quran, surah Al-Muddaththir (The One Enveloped) 74:8-9
+
 Only Allah knows when the Hour comes. And at some point in time, the last hour will come.
 
 The Akhirat will start after Israfil blows the trumpet for the first time.
 There is a hadith that prophet Muhammad said: 
 
-> How can I ever relax when I know that Israfil is already holding the trumped in his mouth and looking at the Throne of Allah waiting for the signal to blow it.
+> How can I ever relax when I know that Israfil is already holding the trumpet in his mouth and looking at the Throne of Allah waiting for the signal to blow it.
 
-There is a hadith that says the Trumped or the Horn will not be blown until there is no one left in this dunya who says La ilaha illallah. So before the beginning of the Hereafter, Allah will send a warm wind to this world, which will take away the souls of the believers.
+There is a hadith that says the Trumpet or the Horn will not be blown until there is no one left in this dunya who says La ilaha illallah. So before the beginning of the Hereafter, Allah will send a warm wind to this world, which will take away the souls of the believers.
 
 Therefore, the people who will be then alive on the face of the earth will hear this blow that will cause the end of the world, and all of a sudden they will be struck insensible and will fall dead to an extent that none of them will be able to make a will. Allah Says (what means): 
 
@@ -8522,11 +8540,36 @@ I've come across this interesting theory of physics of Destruction of the earth 
 
 <img src="/reverse-gravity.jpg" alt="Theory of Reverse Gravity"> 
 
-Shortly: 
+This is just a theory. Shortly: 
 * The earth's gravity will be reversed.
 * The planet earth will explode and it will be turned inside out making a hollow sphere.
 * The sphere's inner surface will be white and smooth.
 * In the center of the sphere, black holes will open like portals to other dimansions. From them the angels will descend. 
+
+The Quran says the following:
+
+    "When the sun is wrapped up [in darkness]
+    And when the stars fall, dispersing,
+    And when the mountains are removed
+    And when full-term she-camels are neglected
+    And when the wild beasts are gathered
+    And when the seas are filled with flame
+    And when the souls are paired
+    And when the girl [who was] buried alive is asked
+    For what sin she was killed
+    And when the pages are made public
+    And when the sky is stripped away
+    And when Hellfire is set ablaze
+    And when Paradise is brought near,
+    A soul will [then] know what it has brought [with it]."
+    Quran, surah At-Takwir (The Overthrowing) 81:1-14
+
+    On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down.
+    Quran, surah Al-Muzzammil (The One wrapped in Garments) 73:14
+    
+  
+    Then how can you fear, if you disbelieve, a Day that will make the children white- haired?
+    Quran, surah Al-Muzzammil (The One wrapped in Garments) 73:17
 
 #### Every Living Creature Dies
 
@@ -8696,12 +8739,18 @@ There are different interpretations. There is clearly evidence that for some peo
 
 ### Heaven will split open
 
-    And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent.
+    "And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent."
     Quran, surah Al-Furqan (The Criterion) 25:25
+
+### God and Ranks of Angels
+
+    "No! When the earth has been leveled – pounded and crushed 
+    And your Lord has come and the angels, rank upon rank"
+    Quran, surah Al-Fajr (The Dawn) 89:21-22
 
 ### The Day will last like 50 thousand years
 
-    The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years.
+    "The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years."
     Quran, surah Al-Ma’arij (The Ways of Ascent) 70:4
 
 ### Everyone will be silent
@@ -8831,18 +8880,37 @@ At divine judgment, the resurrected will stand in a grand assembly, each person'
 
 Not everyone consigned to hell will remain there, as it is believed by both scholars and lay Muslims that "all but the mushrikun, those who have committed the worst sin of impugning the tawḥīd of God, have the possibility of being saved;" and God's intercession to save sinners from hellfire is a "major theme" in popular Islamic stories about Judgement Day.
 
-Narrated Abu Huraira:
+### People's organs will testify against their owners
 
-The people said, "O Allah's Messenger ﷺ  ! Shall we see our Lord on the Day of Resurrection?" He replied, "Do you have any doubt in seeing the full moon on a clear (not cloudy) night?" They replied, "No, O Allah's Messenger ﷺ   !" He said, "Do you have any doubt in seeing the sun when there are no clouds?" They replied in the negative. He said, "You will see Allah (your Lord) in the same way. On the Day of Resurrection, people will be gathered and He will order the people to follow what they used to worship. So some of them will follow the sun, some will follow the moon, and some will follow other deities; and only this nation (Muslims) will be left with its hypocrites. Allah will come to them and say, 'I am Your Lord.' They will say, 'We shall stay in this place till our Lord comes to us and when our Lord will come, we will recognize Him. Then Allah will come to them again and say, 'I am your Lord.' They will say, 'You are our Lord.' Allah will call them, and As-Sirat (a bridge) will be laid across Hell and I (Muhammad) shall be the first amongst the Apostles to cross it with my followers. Nobody except the Apostles will then be able to speak and they will be saying then, 'O Allah! Save us. O Allah Save us.' There will be hooks like the thorns of Sa'dan in Hell. Have you seen the thorns of Sa'dan ?" The people said, "Yes." He said, "These hooks will be like the thorns of Sa'dan but nobody except Allah knows their greatness in size and these will entangle the people according to their deeds; some of them will fall and stay in Hell forever; others will receive punishment (torn into small pieces) and will get out of Hell, till when Allah intends mercy on whomever He likes amongst the people of Hell, He will order the angels to take out of Hell those who worshipped none but Him alone. The angels will take them out by recognizing them from the traces of prostrations, for Allah has forbidden the (Hell) fire to eat away those traces. So they will come out of the Fire, it will eat away from the whole of the human body except the marks of the prostrations. At that time they will come out of the Fire as mere skeletons. The Water of Life will be poured on them and as a result they will grow like the seeds growing on the bank of flowing water. Then when Allah had finished from the Judgments amongst his creations, one man will be left between Hell and Paradise and he will be the last man from the people of Hell to enter paradise. He will be facing Hell, and will say, 'O Allah! Turn my face from the fire as its wind has dried me and its steam has burnt me.' Allah will ask him, "Will you ask for anything more in case this favor is granted to you?' He will say, "No by Your (Honor) Power!" And he will give to his Lord (Allah) what he will of the pledges and the covenants. Allah will then turn his face from the Fire. When he will face Paradise and will see its charm, he will remain quiet as long as Allah will. He then will say, 'O my Lord! Let me go to the gate of Paradise.' Allah will ask him, 'Didn't you give pledges and make covenants (to the effect) that you would not ask for anything more than what you requested at first?' He will say, 'O my Lord! Do not make me the most wretched, amongst Your creatures.' Allah will say, 'If this request is granted, will you then ask for anything else?' He will say, 'No! By Your Power! I shall not ask for anything else.' Then he will give to his Lord what He will of the pledges and the covenants. Allah will then let him go to the gate of Paradise. On reaching then and seeing its life, charm, and pleasure, he will remain quiet as long as Allah wills and then will say, 'O my Lord ! Let me enter Paradise.' Allah will say, May Allah be merciful unto you, O son of Adam! How treacherous you are! Haven't you made covenants and given pledges that you will not ask for anything more that what you have been given?' He will say, 'O my Lord! Do not make me the most wretched amongst Your creatures.' So Allah will laugh and allow him to enter Paradise and will ask him to request as much as he likes. He will do so till all his desires have been fulfilled. Then Allah will say, 'Request more of such and such things.' Allah will remind him and when all his desires and wishes; have been fulfilled, Allah will say "All this is granted to you and a similar amount besides." Abu Said Al-Khudri, said to Abu Huraira, 'Allah's Messenger ﷺ   said, "Allah said, 'That is for you and ten times more like it.' "Abu Huraira said, "I do not remember from Allah's Messenger ﷺ   except (his saying), 'All this is granted to you and a similar amount besides." Abu Said said, "I heard him saying, 'That is for you and ten times more the like of it." 
+    On this Day We will seal their mouths, their hands will speak to Us, and their feet will testify to what they used to commit.
+    Had We willed, We could have easily blinded their eyes, so they would struggle to find their way. How then could they see?
+    Quran, surah Faatir (The Originator) 36:65-66
+
 </details></details><details><summary>
 
-## Sirat bridge over Jahannam
+## Sirat bridge over Hell
 
 </summary>
 
-People will need to cross the bridge that lays above Jahannam.
+On Judgement day, after the dead have been resurrected, assembled, and judged by God, the saved and the damned now being clearly distinguished, the souls will traverse over hellfire via the bridge of As-Sirāt. The faithful, will "move easily and swiftly across a broad path", led first of all by the Prophet Muhammad himself and other leading lights of the community on their way to paradise (Jannah); those judged guilty of sin but still considered to be mu'minun (believers) will fall from the bridge into Hellfire (jahannam) but remain there only for a limited period of purgation; unbelievers, however, will find the bridge has become "sharper than a sword and thinner than a hair" and darkness blinds their way. Their inevitable fall from the bridge will be an "inescapable descent" into their fiery destination of everlasting punishment.
 
-And the Prophet Muhammad is waiting on the other side of Sirat with a cup from his fountain (Kawthar).
+Although the term the "Bridge of Sirat" hasn’t been used in the Quran, it has been mentioned in hadiths and traditions. For example Imam Sadiq (as) has mentioned this term while explaining the word "mirsad" in verse 14 of Surah Fajr, saying that it is a bridge that extends across Hell.
+
+For further explanation we will note some points regarding the word "Sirat". "Sirat" literally means way and path and what is meant by the term "Al-Siratul Mustaqim" that is mentioned in some Quranic verses is the right and straight path of guidance in this world that if one follows, will also remain on in the hereafter, and that if he strays from in this world, will stray from in the hereafter likewise.
+
+People will need to cross the bridge (Sirat) that lays above Jahannam (hell). Those who were rightheous believers will cross the bridge and enter Paradise. Those who were unreighteous disbelievers in this life will fall and the hellfire will take them.
+
+The Prophet Muhammad ﷺ   is waiting on the other side of Sirat with a cup of water from his fountain (Kawthar).
+
+> Abu Sai’d al-Khudri reported: The Messenger of Allah, peace and blessings be upon him, said, “A bridge will come and be placed across Hell.” We said, “O Messenger of Allah, what is the bridge?” The Prophet said, “It is shaky and slippery, over which are claws, pincers, and broad spikes with curved thorns like the seed found in Najd known as al-Sa’dan. The believer will cross over it like the blink of an eye, or like lightning, or like wind, or like powerful horses, or like camels. Thus, one will be unharmed, another will be lacerated, and another will plunge into the fires of Hell, until the last one will be dragged across it.”
+>
+> Source: Ṣaḥīḥ al-Bukhārī 1338, Ṣaḥīḥ Muslim 2870
+> Grade: Muttafaqun Alayhi (authenticity agreed upon) according to Al-Bukhari and Muslim
+
+> Abu Sa’id al-Khudri reported: We said, “O Messenger of Allah, will we see our Lord?” The Messenger of Allah ﷺ   said, “Do you have trouble seeing the sun on a day without clouds?” Abu Sa’id said, “I have come to know that the bridge over Hell is thinner than a hair and sharper than a sword.”
+> 
+> Source: Ṣaḥīḥ Muslim 183
+> Grade: Sahih (authentic) according to Muslim
 
 There are 7 stops and 7 queastions on the bridge.
 
@@ -8869,6 +8937,63 @@ zakat
 hajj
 rights of others and looking after our relatives
 cleanliness (ghusl)
+
+The siraat is a bridge that stretches over the Hellfire, and every soul ever created must walk on this bridge.    
+
+ 
+
+The verse in the Chapter of Maryam refers to the siraat: {And there is none of you except he will come to it [the siraat]. This is upon your Lord an inevitability decreed.} (chapter 19, verse 71)
+
+The happy ones are those who will cross the bridge to its end; arriving in Heaven, without stumbling and falling down into the pits of the Hellfire. It is a difficult and treacherous bridge to pass.
+
+ 
+
+As described by the Prophet (peace be upon him), the siraat is thinner than a human hair and shaper than the edge of a sword. It is a slippery bridge on which there are clamps and hooks that are like the branches of a sharp, thorny plant. These hooks will snatch and grab at the people walking over the bridge. How difficult it is to pass and whether an individual makes it across to safety or not, depends on each person’s deeds.
+
+ 
+
+Some people will be ruined because of their evil deeds.  Some will be cut into pieces and fall down to Hell for eternity, but some will be saved afterwards and taken out of the Hellfire. Some people will get by with a few cuts and scratches, and others will be completely unscathed.  
+
+ 
+
+The pious believers, the righteous men and women will sail over the bridge swiftly, without distress or anxiety. Some will pass by as fast as the wind, some like lightening, some like a falling star, others like a racing horse. For these believers, the Hellfire will call out to them from underneath, “O Believer! Pass over me quickly, for your light is extinguishing my fire.” Some believers will run across the bridge, others will walk, and some will crawl.
+
+ 
+
+Not only are there the clamps and hooks to dodge and avoid, but there are seven obstacles that may stand in our way on the siraat. 
+
+ 
+
+There are seven stations where we will be stopped and asked about how we performed certain acts of worship and how we treated one another in this life. Whoever fails at any of these obstacles will slip and fall into the Hellfire, to be punished until their sins are expiated or until Allah wills.
+
+If our answers were satisfactory, we will be free to pass, until we step foot on a beautiful land, bathe in a fresh spring, and drink the purest, most refreshing water that we never even imagined could exist.
+
+We can prepare for what we will answer on that day when we stop at each obstacle.
+
+One: we will be asked about our faith, our eman. The six pillars of faith are the belief in Allah, the Angels, the Holy Books, the Prophets, the Day of Judgment, and fate (both good and bad).
+
+Two: we will be asked about our obligatory prayers, our salah, the five daily prayers and if we performed them or not, performed them correctly and on time. For the one who was keen on praying on time and praying mindfully, the prayer will serve as a bright light, showing the way and aiding him/her to cross the siraat.
+
+Three: we will be asked about paying the zakat to the poor. A severe punishment awaits those who withhold their wealth, and do not give the required 2.5% of the wealth each year to the poor. For those who pay the zakat each year and give even more in charity, they will pass by this obstacle like a cool breeze.
+
+Four: we will be asked about fasting the month of Ramadan. Fasting and reading the Holy Qur’an will come to the aid of the believer when enduring the hardships of the Day of Judgment. Prophet Muhammad (peace be upon him) said, “The fast and the Qur’an are two intercessors for the servant of Allah on the Day of Resurrection. The fast will say: “O Lord, I prevented him from his food and desires during the day. Let me intercede for him.” The Qur’an will say: “I prevented him from sleeping at night. Let me intercede for him.” And their intercession will be accepted.” (Ahmad)
+
+Five: we will be asked about the Haj. In order to successfully pass this station, every Muslim who is physically and financially capable must perform the pilgrimage once in a lifetime.
+
+Six: we will be asked about our wudu and ghusl, the ablution and ritual bathing, to cleanse and purify our bodies before performing acts of worship. Cleanliness is a cornerstone of the Islamic faith. Muslim children are taught from a young age the steps of ablution. In our times, the information age, ignorance is no excuse. Even if we were not taught as children, we have access to a wide range of sources to learn the proper, step-by-step ablution and bathing. 
+
+Seven: we will be asked about the rights of other people. Did we uphold others’ rights and treat them with dignity, respect, and kindness, or did we violate people’s rights and oppress them and harm them? How did we treat our parents, children, siblings, neighbors, friends, grandparents? Abusing, backbiting, robbing, and harming others will cast a dark cloud on the siraat, making it harder to see the way. Prophet Muhammad (peace be upon him) said, “Beware of oppression (dhulm), for oppression will be darkness (dhulumaat) on the Day of Resurrection.”  (Muslim)
+
+Once the believer passes the siraat, he/she is safe, blissful, relieved; no more difficulty, no more worry.
+
+When the believers cross the siraat, they will come to two springs of water; the banks of which are of jewels. The believers will bathe in one spring and drink from the other. They walk to the gate of Paradise, and the Angels greeting them at the gate will say, “Peace be upon you. Welcome! Enter here eternally.”
+
+    ˹They will be told,˺ "This is the Day of ˹Final˺ Decision which you used to deny."
+    ˹Allah will say to the angels,˺ "Gather ˹all˺ the wrongdoers along with their peers, and whatever they used to worship
+    instead of Allah, then lead them ˹all˺ to the path of Hell [ṣirāṭ al-jahīm].
+    And detain them, for they must be questioned."
+    ˹Then they will be asked,˺ "What is the matter with you that you can no longer help each other?"
+    Quran, surah As-Saaffaat (Those drawn up in Ranks) 37:21-25
 
 </details><details><summary>
 
