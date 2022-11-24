@@ -4193,7 +4193,7 @@ Two different narrations from Aisha give these details.
 
 <details><summary> Short Summary </summary>
 
-**Muḥammad ibn Abd Allah ﷺ**(570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. The Quran, the central religious text of Islam, was revealed to Muhammad ﷺ    by God, and Muhammad ﷺ   was sent to restore Islam, which did not originate with prophet Muhammad ﷺ   but is the true unaltered original monotheistic faith of **Adam**, **Abraham**, **Moses**, **Jesus**, and other prophets. The religious, social, and political tenets that Muhammad ﷺ   established with the Quran became the foundation of Islam and the Muslim world.
+**Muḥammad ibn Abd Allah** ﷺ   (570 – 8 June 632 CE), is believed to be the seal of the messengers and prophets of God in all the main branches of Islam. The Quran, the central religious text of Islam, was revealed to Muhammad ﷺ    by God, and Muhammad ﷺ   was sent to restore Islam, which did not originate with prophet Muhammad ﷺ   but is the true unaltered original monotheistic faith of **Adam**, **Abraham**, **Moses**, **Jesus**, and other prophets. The religious, social, and political tenets that Muhammad ﷺ   established with the Quran became the foundation of Islam and the Muslim world.
 
 Muhammad ﷺ   earned the title "al-Amin" (اَلْأَمِينُ, meaning "the Trustworthy"). At the age of 40 in 11 BH (610 CE), he have received his first verbal revelation in the cave called Hira, which was the beginning of the descent of the Quran that continued up to the end of his life. The Qur’an was revealed to the Prophet ﷺ    progressively according to the circumstances of the time over a period of 23 years. 
 
@@ -4203,11 +4203,11 @@ In Medina, prophet Muhammadﷺ   sketched out the Constitution of Medina specify
 
 Muslims often refer to Muhammad as Prophet Muhammad, or just "The Prophet" or "The Messenger", and regard him as the greatest of all Prophets. He is seen by the Muslims as a possessor of all virtues. As an act of respect, Muslims follow the name of Muhammad by the Arabic benediction ﷺ   sallallahu 'alayhi wa sallam, (meaning Peace be upon him), sometimes abbreviated as "SAW" or "PBUH".
 
-Prophet Muhammadﷺ   is regarded as the final messenger and prophet by all the main branches of Islam who was sent by God to guide humanity to the right way (Quran 7:157). The Quran uses the designation Khatam an-Nabiyyin 33:40 (Arabic: خاتم النبين) which is translated as Seal of the Prophets. The title is generally regarded by Muslims as meaning that Muhammadﷺ   is the last in the series of prophets beginning with Adam. The belief that a new prophet cannot arise after Muhammad is shared by both Sunni and Shi'i Muslims. Believing Muhammadﷺ   is the last prophet is a fundamental belief in Islamic theology.
+Prophet Muhammad ﷺ   is regarded as the final messenger and prophet by all the main branches of Islam who was sent by God to guide humanity to the right way (Quran 7:157). The Quran uses the designation Khatam an-Nabiyyin 33:40 which is translated as Seal of the Prophets. The title is generally regarded by Muslims as meaning that Muhammadﷺ   is the last in the series of prophets beginning with Adam. The belief that a new prophet cannot arise after Muhammad is shared by both Sunni and Shi'i Muslims. Believing Muhammad ﷺ   is the last prophet is a fundamental belief in Islamic theology.
 
-Prophet Muhammadﷺ   is a role model for all Muslims. 
+Prophet Muhammad ﷺ   is a role model for all Muslims. 
 
-Prophet Muhammadﷺ   was the possessor of moral virtues at the highest level, and was a man of moral excellence. He represented the 'prototype of human perfection' and was the best among God's creations. The 68:4 verse of the Quran says: `And you [Muhammad] are surely on exalted quality of character`. Consequently, to the Muslims, his life and character are an excellent example to be emulated both at social and spiritual levels. The virtues that characterize him are modesty and humility, forgiveness and generosity, honesty, justice, patience, and, self-denial.
+Prophet Muhammad ﷺ   was the possessor of moral virtues at the highest level, and was a man of moral excellence. He represented the 'prototype of human perfection' and was the best among God's creations. The 68:4 verse of the Quran says: `And you [Muhammad] are surely on exalted quality of character`. Consequently, to the Muslims, his life and character are an excellent example to be emulated both at social and spiritual levels. The virtues that characterize him are modesty and humility, forgiveness and generosity, honesty, justice, patience, and, self-denial.
 
 According to biographers, Prophet Muhammad ﷺ   lived a simple and austere life often characterized by poverty. He was more bashful than a maiden, and was rare to laugh in a loud voice; rather, he preferred soft smiling. Ja'far al-Sadiq, a descendant of prophet Muhammad ﷺ   and an acclaimed scholar, narrated that prophet Muhammad ﷺ   was never seen stretching his legs in a gathering with his companions and when he would shake hands, he would not pull his hand away first. It is said that during the conquest of Mecca, when prophet Muhammad ﷺ   was entering into the city riding on a camel, his head lowered, in gratitude to God, to the extent that it almost touched the back of the camel. He never took revenge from anyone for his personal cause. He maintained honesty and justice in his deeds.
 
@@ -4240,7 +4240,7 @@ Prophet Muhammad ﷺ   was orphaned when young. Some months before the birth of 
     "I cast (the garment of love) over thee from Me, so that thou might be reared under My eye. ... We saved thee from all grief, although We tried thee with various trials. ... O Moses, I have chosen thee for Mine Own service"
     Quran, surah Taa-Haa (Taa-Haa) 20:39-41
 
-Taking into account the idea of this spiritual parallelism, together with other aspects of prophet Muhammad ﷺ  's early life, it has been suggested that it was God under Whose direct care prophet Muhammad ﷺ   was raised and prepared for the responsibility that was to be conferred upon him.
+Taking into account the idea of this spiritual parallelism, together with other aspects of prophet Muhammad's ﷺ   early life, it has been suggested that it was God under Whose direct care prophet Muhammad ﷺ   was raised and prepared for the responsibility that was to be conferred upon him.
 
 ### Foster Mother
 
@@ -4277,13 +4277,13 @@ Muhammad grew up to become a fine young man. He became known for his excellent m
  
 The prophet Muhammad ﷺ    was a shepherd and worked for his uncle Abu Talib.
 
-At around age 15, the heﷺ    participated in wars of Fijar. He was responsible for looking for arrows and bring them back. They reached a peace treaty.
+At around age 15, the he ﷺ   participated in wars of Fijar. He was responsible for looking for arrows and bring them back. They reached a peace treaty.
 
 ### Hilf al-Fudul
 
-At around 20, Muhammadﷺ   participated in the treaty of Mutayyabin. Az-Zubayr organized this pact in the house of Abdulla ibn Judhan. He was the youngest participant of the pact.
+At around 20, Muhammad ﷺ   participated in the treaty of Mutayyabin. Az-Zubayr organized this pact in the house of Abdulla ibn Judhan. He was the youngest participant of the pact.
 
-Hilf al-Fudul (League of the Virtuous, the Virtuous Pact, the Fadul Alliance) (Arabic: حلف الفضول translit: Hilf al-Fudool‎) was a pact made amongst the Arab tribes around Makkah after the Fijaar War prior to Prophethood. Fudul comes from Fadl which means nobility, superiority and virtue. The allegiance was also known as Hilf Al-Mutayyabeen (The Pledge of the Perfumed) because those who agreed placed their signatures by putting their hands in henna and then on the Kabaah.
+Hilf al-Fudul (League of the Virtuous, the Virtuous Pact, the Fadul Alliance) ) was a pact made amongst the Arab tribes around Makkah after the Fijaar War prior to Prophethood. Fudul comes from Fadl which means nobility, superiority and virtue. The allegiance was also known as Hilf Al-Mutayyabeen (The Pledge of the Perfumed) because those who agreed placed their signatures by putting their hands in henna and then on the Kabaah.
 
 #### Background
 Al’Aas ibn Waail purchased merchandise from a merchant from the region of Zubaid in Yemen. Al’Aas being a chief and nobleman amongst the Quraysh decided not to pay and when the merchant approached the other Chiefs of Quraysh they sided with Al’Aas for being one of their own. The man shared his plight at the Kaaba asking the descendants of Faihr (Quraysh) to help him. Az-Zubair ibn Abdul-Muttalib became angry and called to his people, "Will no one help him!"
@@ -4733,9 +4733,9 @@ Once the Prophet ﷺ   was sitting with his Companions. He had to go to attend t
 
 Dawud reported from 'Amir who said:
 
-> I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah ﷺ   on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'ud) said: No, but we were in the company of the Messenger of Allah ﷺ   one night and we missed him. We searched for him in the valleys and the hills and said. He has either been taken away (by jinn) or has been secretly killed. He (the narrator) said. We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hiri'. He (the narrator) reported. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Quran. He (the narrator) said: He then went along with us and showed us their traces and traces of their embers. They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah (ﷺ) said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).
+> I asked 'Alqama if Ibn Mas'ud was present with the Messenger of Allah ﷺ   on the night of the Jinn (the night when the Prophet met them). He (Ibn Mas'ud) said: No, but we were in the company of the Messenger of Allah ﷺ   one night and we missed him. We searched for him in the valleys and the hills and said. He has either been taken away (by jinn) or has been secretly killed. He (the narrator) said. We spent the worst night which people could ever spend. When it was dawn we saw him coming from the side of Hiri'. He (the narrator) reported. We said: Messenger of Allah, we missed you and searched for you, but we could not find you and we spent the worst night which people could ever spend. He (the Holy Prophet) said: There came to me an inviter on behalf of the Jinn and I went along with him and recited to them the Quran. He (the narrator) said: He then went along with us and showed us their traces and traces of their embers. They (the Jinn) asked him (the Holy Prophet) about their provision and he said: Every bone on which the name of Allah is recited is your provision. The time it will fall in your hand it would be covered with flesh, and the dung of (the camels) is fodder for your animals. The Messenger of Allah ﷺ   said: Don't perform istinja with these (things) for these are the food of your brothers (Jinn).
 
-Prophet Mohammed ﷺ is the Prophet for human-kind as well as Jinns.
+Prophet Mohammed ﷺ   is the Prophet for humankind as well as Jinns.
 
 There are two places where Qur’an mentions communication between the Prophet ﷺ and the Jinns.
 
@@ -7849,29 +7849,33 @@ These signs are connected to each other. When one comes, the other one follows.
 
 </details><details><summary>
 
-## The Beast appears on the Earth
+## Order of the Signs of the Day of Judgment
 
 </summary> 
 
-The Beast will come out at that time. The Beast it will leave marks on people as believer or non-believer. Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
+There is no sahih text which states the order in which these signs will occur, rather the order of some of them is to be understood from the context of the texts.  
 
-The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Quran mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
+Shaykh Muhammad al-Salih al-‘Uthaymin (may Allah have mercy on him) was asked: Will the major portents of the Hour occur in a certain order? 
 
-    And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast (Dabbat'ul-Ardh) to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
-    And on the day when We will collect from every people a party from those who believed our signs; then will they be formed into groups.
-    Quran, surah An-Naml (The Ant) 27:82-83
+He replied: "The order of some of the major portents is known , and in the case of others the order is not known. Among those whose order is known are the descent of ‘Isa ibn Maryam, the emergence of Yajuj and Majuj, and the Dajjal, for the Dajjal will be sent, then ‘Isa ibn Maryam will come down and kill him, then Yajuj and Majuj will emerge. 
 
-Dabbat'ul-Ardh means a “walker of the earth”. Allah says in the Quran:
-“And when the word shall come to pass on them, We shall bring forth unto them a Walking one from the earth who shall speak unto them that people believed not in our signs.
- 
-This gathering of a group from every people will happen in Raj'at (Return) and will precede Qiyamat (because in Qiyamat all people will be gathered, not just a group from them.) And at that time a “Walker of the Earth” will be brought forth to speak to the people.
- 
-Accroding to Shia sources, there is a narration from Ali ibn Abi-Talib:
-> Appearance of Dabbat'ul-Ardh, from near (the Hill) Safa (near Kaaba); with it will be the ring of Sulayman, and the walking stick (staff) of Musa. It will put the ring (seal) on the face of every believer, and it will be printed (branded) there, 'He is truly a believer'; and will put it on the face of every unbeliever, and it will write thereon “He is truly a non-believer.” Then the believer will say, “Woe unto thee, O non-believer!” and verily the non-believer will say: “Tuba for thee, O Believer, I would have liked to be like thee today, so that I also could succeed.
-> 
-> Then that Dabbat'ul-Ardh will raise its head, and all between east and west will see it by the permission of Allah, after the rising of the sun from its setting place. At that time 'Tauba' (Repentance) will be revoked. So from that time no repentance will be accepted, nor any (good) deed will be credited (i.e. from that time, the accounts of the deeds will be closed); and will not benefit any soul its faith which had not believed before or had not earned good (deeds) in its faith.
+Al-Safarini (may Allah have mercy on him) listed the order of these portents in his ‘Aqidah, but some of the order is acceptable whilst some of it is not. But what matters is that there are major signs of the Hour and when they happen, the Hour has drawn nigh. Allah has decreed portents of the Hour, because it is a serious event and people need to know when it is about to happen." (Majmu’ al-Fatawa (2/question no. 137) 
 
-(Dabbat-ul-ard will touch a Believer with the staff of Musa. Then “He is destined for Paradise” will be written on his forehead, and his face will glitter. It will hit a disbeliever with the seal of Sulaiman. Then “He is destined for Hell” will be written on his forehead, and his face will blacken.) [Tirmidhi]
+<img src="/eschatology.PNG" alt="Order of the Signs of Day of Judgement" width="85%" height="85%">
+
+
+And Allah knows best.
+</details><details><summary>
+
+## Mahdi (A righteous ruler)
+
+</summary>
+
+Mahdi means "the rightly guided".
+
+Before Mahdi injustice will be spread.
+
+Mahdi will be a link or bridge between the minor signs and the major signs. and the beginning of major signs will be coming of Dajjal.
 
 </details><details><summary>
 
@@ -7900,7 +7904,7 @@ Abu Hurairah narrated that prophet Muhammad ﷺ   said:
 > "The Hour will not be established until two big groups fight each other whereupon there will be a great number of casualties on both sides and they will be following one and the same religious doctrine, until about 30 dajjals appear, and each of them will claim that he is Allah's Apostle..."
 > Sahih al-Bukhari, Volume 9, Book 88: Afflictions and the End of the World, Hâdith Number 237.
 
-Prophet Muhammad ﷺ   also stated that the last of these dajjals would be the Islamic Antichrist, al-Masih ad-Dajjal (lit. 'the Deceitful Messiah'). The Dajjal is never mentioned in the Quran but he's mentioned and described in the ḥadīth. Like in Christianity, the Dajjal is said to emerge out in the east, although the specific location varies among the various sources. The Dajjal will imitate the miracles performed by ʿĪsā (Jesus), such as healing the sick and raising the dead, the latter done with the aid of demons (Shayāṭīn). He will deceive many people, such as weavers, magicians, half-castes, and children of prostitutes, but the majority of his followers will be Jews.
+Prophet Muhammad ﷺ   also stated that the last of these dajjals would be the Islamic Antichrist, al-Masih ad-Dajjal (lit. 'the Deceitful Messiah'). The Dajjal is never mentioned in the Quran but he's mentioned and described in the ḥadīth. Like in Christianity, the Dajjal is said to emerge out in the east, although the specific location varies among the various sources. The Dajjal will imitate the miracles performed by ʿĪsā (Jesus), such as healing the sick and raising the dead, the latter done with the aid of demons (Shayāṭīn). He will deceive many people, such as weavers, magicians, half-castes, and children of prostitutes, but the majority of his followers will be Jews.
 
 Hadith also report on the “Greater Signs” of the end, which include the appearance of the Antichrist (Dajjal) and the reappearance of the prophet Jesus to join in battle with him at Dabbiq in Syria, as well as the arrival of the Mahdī, the “guided one.” As another hadith attributed to Alī ibn Abī Talib puts it, “Most of the Dajjal’s followers are Jews and children of fornication; God will kill him in Syria, at a pass called the Pass of Afiq, after three hours are gone from the day, at the hand of Jesus".
 
@@ -7931,65 +7935,11 @@ Gabriel had such strong impact on Daniel that he had to recover several days.
 
 </details><details><summary>
 
-## Gog and Magog (Yajuj and Majuj)
-
-</summary>
-
-    Until, when Ya’jooj and Ma’jooj are let loose (from their barrier), and they swiftly swarm from every mound. And the true promise (Day of Resurrection) shall draw near (to fulfillment) 
-    Quran, Surah Al-Anbiyaa (The Prophets) 21:96-97
-
-Gog and Magog are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
-
-Two chapters of the Quran, Al Kahf and Al-Anbiya, discuss Gog and Magog. In the Quran Yajuj and Majuj (Gog and Magog) are suppressed by Dhul-Qarnayn "the two-horned one." Dhul-Qarnayn, having journeyed to the ends of the world, meets "a people who scarcely understood a word" who seek his help in building a barrier that will separate them from the people of Yajuj and Majuj who "do great mischief on earth". He agrees to build it for them, but warns that when the time comes (Last Age), Allah will remove the barrier.
-
-    Then he followed (another) way, until, when he reached between two mountains, he found, before (near) them (those two mountains), a people who scarcely understood a word. They said: "O Dhoo’l-Qarnayn! Verily! Ya’jooj and Ma’jooj are doing great mischief in the land. Shall we then pay you a tribute in order that you might erect a barrier between us and them?" 
-    He said: "That (wealth, authority and power) in which my Lord has established me is better (than your tribute). So help me with strength (of men), I will erect between you and them a barrier. Give me pieces (blocks) or iron," then, when he had filled up the gap between the two mountain-cliffs, he said, "Blow," till when he had made it (red as) fire, he said, "Bring me molten copper to pour over it." 
-    So they [Ya’jooj and Ma’jooj] were made powerless to scale it or dig through it. (Dhoo’l-Qarnayn) said: "This is a mercy from my Lord, but when the Promise of my Lord comes, He shall level it down to the ground. And the Promise of my Lord is ever true." And on that Day [i.e., the day Ya’jooj and Ma’jooj will come out], We shall leave them to surge like waves on one another, and the Trumpet will be blown, and We shall collect them all together.
-    Quran, surah Al-Kahf (The Cave) 18:92-99
-
-Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times. At some point at time people who have these characteristics or descendands of them will be let loose.
-
-### Destruction and death of Yajuj and Majuj by Eesa (Jesus)
-
-After Prophet Jesus (Eesa) (AS) will kill the Dajjal (Anti-Christ), Allah will inform him about the arrival of this disbelieving tribe that is undefeated and he will take refuge in the Mount of Toor until Allah will destroy them.
-
-According to Sahih Muslim, the Prophet said:
-
-> Then a people whom Allah had protected from him (dajjal) would come to Isa, son of Maryam, and he would wipe their faces and would inform them of their ranks in Paradise and it would be under such conditions that Allah would reveal to Isa (alaihis salam) these words: I have brought forth from amongst My servants such people against whom none would be able to fight; you take these people safely to Tur, and then Allah would send Gog and Magog and they would swarm down from every slope. The first of them would pass the lake of Tiberias and drink out of it. And when the last of them would pass, he would say: There was once water there.
-
-Hadith is narrated by Imam Ahmed in his Musnad that the Prophet Muhammad ﷺ  said: 
->"Verily, Gog and Magog dig through the dam every day, till they could see the sun rays (through it), and their leader would say: ‘Go back and you will finish it tomorrow.’ On the next day, they find it as strong as before. Till when their appointed term comes and Allah desires to send them against mankind, they dig it till they could see the sun rays (through it) and their leader says: ‘Go back and you will finish it tomorrow, if Allah wills!’ On the next day, they find it as they had left the day before and they dig through it and come against mankind. They will drink (every drop of water they pass by). The people will resort to strongholds. And, Gog and Magog will throw their arrows towards the sky. When they come back to them stained with what looks like blood, they will say: ‘We have defeated the people on earth and those in the heaven as well.’ Then, Allah the Almighty will send against them worms in their necks that will kill them all. Allah’s Messenger ﷺ   said: “By Him in Whose Hand Muhammad’s soul rests! Living creatures of the earth would go fat and be thankful due to eating their flesh and (drinking their) blood." 
->(Also transmitted by Imam Ahmed on the authority of Hasan Ibn Musa after Sufyan after Qatadah and by At-Tirmidhi on the authority of Abu, Awanah after Qatadah.)
-
-Al-Nawaas ibn Sam’aan reported that Prophet ﷺ  , while describing the signs of the Day of judgement said: 
-> “… and Allah will send Ya’jooj and Ma’jooj, swiftly swarming from every mound. They will pass the lake of Tiberias [in Palestine] and will drink everything that is in it. Then the last of them will pass by and will say, ‘There used to be water here once.’ The Prophet of Allah, Eesaa (Jesus), and his companions, will be besieged until a bull’s head will be more precious to one of them than a hundred dinars are to any of you today. Eesaa (Jesus) and his companions will pray to Allah, and Allah will send a kind of worm (like that found in the noses of camels and sheep) on their (Ya’jooj and Ma’jooj) necks, and they will fall down dead, all at once. Then Eesaa (Jesus) and his companions will come down out of the place where they were besieged, and they will find hardly a hand span of land that is not filled with the stench (of Ya’jooj and Ma’jooj), so Eesaa (Jesus) and his companions will pray to Allah, and He will send birds like the necks of camels to carry them away and throw them wherever Allah wills.”
-> (Reported by Muslim, 18/68).
-
-After the end of Gog Magog, the other signs of the arrival of day of judgment will come shortly one after another till the trumpet will be blown and the world in its present state will end.
-
-</details><details><summary>
-
-## 3 sinkings (swallowings) of the earth
-
-</summary> 
-
-(maybe major earthquakes). One in the east, one in the west and one in Arabia.
-
-</details><details><summary>
-
-## A fire would come out of Yemen
-
-</summary> 
-
-The fire will make people run towards the place of Judgement.
-
-</details><details><summary>
-
 ## Isa will return to the Earth and defeat Dajjal
 
 </summary>
 
-Jesus ('Isa son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
+Jesus ('Isa son of Maryam') will make a second coming, descending to earth, but unlike in Christianity it will be to assist the Mahdi by killing the dajjal, "break[ing] the cross, kill[ing] the pigs, and abolish[ing] the Jizya tax", i.e. put an end to Christians misconceptions about his being the Son of God and there being no need to follow dietary laws. Jesus and the Mahdi will then rule the earth in perfect justice for a time before Judgement Day. (Shia believe it is the Mahdi who will kill the dajjal; others believe "the Mahdi" is not a distinct person but just the title given to Jesus.)
 
 Isa will die in Medina. and later Medina would be destroyed. no Muslims will be left there. The Quran will be lifted up.
 
@@ -8002,7 +7952,7 @@ https://wise-web.org/2020/09/06/isa-as-second-coming/
 
 ### Mahdi
 
-Mahdi will not know that he is Mahdi and Alla will prepare him in one ocassion. His name will be Muhammad and his father's name will be Abdallah.
+Mahdi will not know that he is Mahdi and Allah will prepare him in one ocassion. His name will be Muhammad and his father's name will be Abdallah.
 
 A king will die and his sons will start fighting for power and Mahdi will leave Medina to Mecca not to get involved in the turmoil. But people will follow him to Mecca and give him bayat in Al Haram. Then an army will come to Mecca to kill Mahdi but the earth will swallow the army leaving only several people to tell the story.
 
@@ -8038,11 +7988,93 @@ eople will flee in terror, barricading themselves and their livestock in cities 
 
 ʿĪsā and his companions will make duʿā to Allāh and eventually Allāh will send a type of worm to the back of their necks which will kill them, and they will die like locusts piled one on top of the other. The Muslims will awake the next day and hear no sound from them and so send one of their own to investigate what has happened. He will return and give them the glad tidings that the enemy has died. The Muslims will then leave and find that there is not even a hand span of land that is free of their corpses. They will let loose their animals to graze, but having nothing to eat, they will instead grow fat on their flesh, as if they were grazing on the best vegetation they ever found. The earth will fill with the stench of their rotting corpses, and ʿĪsā will again make duʿā for relief. Allāh will send birds with necks like the necks of Bactrian camels, which will pick them up and throw them wherever He wills. Then Allāh will send down rain that will wash them away into the sea, and clean house and earth until it is left like a smooth rock or mirror. Then it will be said to the earth, ‘Bring forth your fruits and bring back your blessings.’ On that day a group of people will eat from a (single) pomegranate and it will suffice them, and they will seek shelter beneath its skin. Allah will bless a milk-camel so that it will be sufficient for a large number of people, and a milk-cow will be sufficient for a whole tribe and a milk-ewe will be sufficient for a whole clan.
 
-The time of war will have come to an end,[64] and the Muslims will use the shields, bows and arrows of the Yaʾjūj and Maʿjūj as firewood for seven years. And they will once again make Ḥajj and ʿUmrah at the Kaʿbah.
+The time of war will have come to an end, and the Muslims will use the shields, bows and arrows of the Yaʾjūj and Maʿjūj as firewood for seven years. And they will once again make Ḥajj and ʿUmrah at the Kaʿbah.
 
 ʿĪsā (AS) Passes Away
 
 ʿĪsā (AS) will remain on earth for forty years after killing the Dajjāl and then pass away. The Muslims will offer the funeral prayer for him, and bury him.
+
+</details><details><summary>
+
+## Gog and Magog (Yajuj and Majuj)
+
+</summary>
+
+    Until, when Yajooj and Majooj are let loose (from their barrier), and they swiftly swarm from every mound. And the true promise (Day of Resurrection) shall draw near (to fulfillment) 
+    Quran, surah Al-Anbiyaa (The Prophets) 21:96-97
+
+Gog and Magog are mentioned in the Quran as doing "great mischief on earth", and being suppressed by a figure called Dhul-Qarnayn ("the two-horned one") who builds a wall to contain their mischief, warning their local victims that when the time comes (believed to mean the end times), Allah will remove the barrier. Non-Quranic Islamic apocalyptic literature describes Gog and Magog as a subhuman pestilence who are released from thousands of years of imprisonment to do much killing, pillaging and devouring of vast resources until being wiped out after "God commands an insect or worm to burrow into their necks and kill them".
+
+Two chapters of the Quran, Al-Kahf and Al-Anbiya, discuss Gog and Magog. In the Quran Yajuj and Majuj (Gog and Magog) are suppressed by Dhul-Qarnayn "the two-horned one." Dhul-Qarnayn, having journeyed to the ends of the world, meets "a people who scarcely understood a word" who seek his help in building a barrier that will separate them from the people of Yajuj and Majuj who "do great mischief on earth". He agrees to build it for them, but warns that when the time comes (Last Age), Allah will remove the barrier.
+
+    Then he followed (another) way, until, when he reached between two mountains, he found, before (near) them (those two mountains), a people who scarcely understood a word. They said: "O Dhool-Qarnayn! Verily! Yajooj and Majooj are doing great mischief in the land. Shall we then pay you a tribute in order that you might erect a barrier between us and them?" 
+
+    He said: "That (wealth, authority and power) in which my Lord has established me is better (than your tribute). So help me with strength (of men), I will erect between you and them a barrier. Give me pieces (blocks) or iron," then, when he had filled up the gap between the two mountain-cliffs, he said, "Blow," till when he had made it (red as) fire, he said, "Bring me molten copper to pour over it." 
+
+    So they [Yajooj and Majooj] were made powerless to scale it or dig through it. (Dhool-Qarnayn) said: "This is a mercy from my Lord, but when the Promise of my Lord comes, He shall level it down to the ground. And the Promise of my Lord is ever true." And on that Day [i.e., the day Yajooj and Majooj will come out], We shall leave them to surge like waves on one another, and the Trumpet will be blown, and We shall collect them all together.
+    Quran, surah Al-Kahf (The Cave) 18:92-99
+
+Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times. At some point at time people who have these characteristics or descendands of them will be let loose.
+
+### Destruction and death of Yajuj and Majuj by Eesa (Jesus)
+
+After Prophet Jesus (Eesa) (AS) will kill the Dajjal (Anti-Christ), Allah will inform him about the arrival of this disbelieving tribe that is undefeated and he will take refuge in the Mount of Toor until Allah will destroy them.
+
+According to Sahih Muslim, the Prophet said:
+
+> Then a people whom Allah had protected from him (dajjal) would come to Isa, son of Maryam, and he would wipe their faces and would inform them of their ranks in Paradise and it would be under such conditions that Allah would reveal to Isa (alaihis salam) these words: I have brought forth from amongst My servants such people against whom none would be able to fight; you take these people safely to Tur, and then Allah would send Gog and Magog and they would swarm down from every slope. The first of them would pass the lake of Tiberias and drink out of it. And when the last of them would pass, he would say: There was once water there.
+
+Hadith is narrated by Imam Ahmed in his Musnad that the Prophet Muhammad ﷺ  said: 
+>"Verily, Gog and Magog dig through the dam every day, till they could see the sun rays (through it), and their leader would say: ‘Go back and you will finish it tomorrow.’ On the next day, they find it as strong as before. Till when their appointed term comes and Allah desires to send them against mankind, they dig it till they could see the sun rays (through it) and their leader says: ‘Go back and you will finish it tomorrow, if Allah wills!’ On the next day, they find it as they had left the day before and they dig through it and come against mankind. They will drink (every drop of water they pass by). The people will resort to strongholds. And, Gog and Magog will throw their arrows towards the sky. When they come back to them stained with what looks like blood, they will say: ‘We have defeated the people on earth and those in the heaven as well.’ Then, Allah the Almighty will send against them worms in their necks that will kill them all. Allah’s Messenger ﷺ   said: “By Him in Whose Hand Muhammad’s soul rests! Living creatures of the earth would go fat and be thankful due to eating their flesh and (drinking their) blood." 
+>(Also transmitted by Imam Ahmed on the authority of Hasan Ibn Musa after Sufyan after Qatadah and by At-Tirmidhi on the authority of Abu, Awanah after Qatadah.)
+
+Al-Nawaas ibn Sam’aan reported that Prophet ﷺ  , while describing the signs of the Day of judgement said: 
+> “… and Allah will send Ya’jooj and Ma’jooj, swiftly swarming from every mound. They will pass the lake of Tiberias [in Palestine] and will drink everything that is in it. Then the last of them will pass by and will say, ‘There used to be water here once.’ The Prophet of Allah, Eesaa (Jesus), and his companions, will be besieged until a bull’s head will be more precious to one of them than a hundred dinars are to any of you today. Eesaa (Jesus) and his companions will pray to Allah, and Allah will send a kind of worm (like that found in the noses of camels and sheep) on their (Ya’jooj and Ma’jooj) necks, and they will fall down dead, all at once. Then Eesaa (Jesus) and his companions will come down out of the place where they were besieged, and they will find hardly a hand span of land that is not filled with the stench (of Ya’jooj and Ma’jooj), so Eesaa (Jesus) and his companions will pray to Allah, and He will send birds like the necks of camels to carry them away and throw them wherever Allah wills.”
+> (Reported by Muslim, 18/68).
+
+After the end of Gog Magog, the other signs of the arrival of day of judgment will come shortly one after another till the trumpet will be blown and the world in its present state will end.
+
+</details><details><summary>
+
+## 3 sinkings (swallowings) of the earth
+
+</summary> 
+
+(maybe major earthquakes). One in the east, one in the west and one in Arabia.
+
+</details><details><summary>
+
+## The Beast appears on the Earth
+
+</summary> 
+
+The Beast will come out at that time. The Beast it will leave marks on people as believer or non-believer. Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
+
+The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Quran mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
+
+    And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast (Dabbat'ul-Ardh) to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
+    And on the day when We will collect from every people a party from those who believed our signs; then will they be formed into groups.
+    Quran, surah An-Naml (The Ant) 27:82-83
+
+Dabbat'ul-Ardh means a “walker of the earth”. Allah says in the Quran:
+“And when the word shall come to pass on them, We shall bring forth unto them a Walking one from the earth who shall speak unto them that people believed not in our signs.
+ 
+This gathering of a group from every people will happen in Raj'at (Return) and will precede Qiyamat (because in Qiyamat all people will be gathered, not just a group from them.) And at that time a “Walker of the Earth” will be brought forth to speak to the people.
+ 
+Accroding to Shia sources, there is a narration from Ali ibn Abi-Talib:
+> Appearance of Dabbat'ul-Ardh, from near (the Hill) Safa (near Kaaba); with it will be the ring of Sulayman, and the walking stick (staff) of Musa. It will put the ring (seal) on the face of every believer, and it will be printed (branded) there, 'He is truly a believer'; and will put it on the face of every unbeliever, and it will write thereon “He is truly a non-believer.” Then the believer will say, “Woe unto thee, O non-believer!” and verily the non-believer will say: “Tuba for thee, O Believer, I would have liked to be like thee today, so that I also could succeed.
+> 
+> Then that Dabbat'ul-Ardh will raise its head, and all between east and west will see it by the permission of Allah, after the rising of the sun from its setting place. At that time 'Tauba' (Repentance) will be revoked. So from that time no repentance will be accepted, nor any (good) deed will be credited (i.e. from that time, the accounts of the deeds will be closed); and will not benefit any soul its faith which had not believed before or had not earned good (deeds) in its faith.
+
+(Dabbat-ul-ard will touch a Believer with the staff of Musa. Then “He is destined for Paradise” will be written on his forehead, and his face will glitter. It will hit a disbeliever with the seal of Sulaiman. Then “He is destined for Hell” will be written on his forehead, and his face will blacken.) [Tirmidhi]
+
+</details><details><summary>
+
+## A fire would come out of Yemen
+
+</summary> 
+
+The fire will make people run towards the place of Judgement.
 
 </details><details><summary>
 
@@ -8087,24 +8119,6 @@ Sun will come up from the West and since then, the repentance will not be accept
 
 The fire will come out and it will spread, making people come to the destination where the Judgement will take place.
 
-</details><details><summary>
-
-## Order of the Signs of the Day of Judgment
-
-</summary> 
-
-There is no sahih text which states the order in which these signs will occur, rather the order of some of them is to be understood from the context of the texts.  
-
-Shaykh Muhammad al-Salih al-‘Uthaymin (may Allah have mercy on him) was asked: Will the major portents of the Hour occur in a certain order? 
-
-He replied: "The order of some of the major portents is known , and in the case of others the order is not known. Among those whose order is known are the descent of ‘Isa ibn Maryam, the emergence of Yajuj and Majuj, and the Dajjal, for the Dajjal will be sent, then ‘Isa ibn Maryam will come down and kill him, then Yajuj and Majuj will emerge. 
-
-Al-Safarini (may Allah have mercy on him) listed the order of these portents in his ‘Aqidah, but some of the order is acceptable whilst some of it is not. But what matters is that there are major signs of the Hour and when they happen, the Hour has drawn nigh. Allah has decreed portents of the Hour, because it is a serious event and people need to know when it is about to happen." (Majmu’ al-Fatawa (2/question no. 137) 
-
-<img src="/eschatology.PNG" alt="Early Expansion" width="85%" height="85%">
-
-
-And Allah knows best.
 </details>
 
 # 10. Al Akhirah (The Hereafter) [TBD]
