@@ -7832,7 +7832,7 @@ Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
  
 </details>
 
-### 9.2 Major Signs of Al Qiyamah
+### 9.2 Major Signs of Al Qiyamah [TBD]
 
 <details><summary> Overview </summary>
 
@@ -7871,15 +7871,39 @@ And Allah knows best.
 
 </summary>
 
+* [Yasir Qadhi about Mahdi](https://www.youtube.com/watch?v=zkvQ9W4OMKc)
+
+Mahdi is not a name but a title.
+Mahdi is the last of the minor signs after which Dajjal will come.
+
 Mahdi means "the rightly guided".
 
 Before Mahdi injustice will be spread.
 
 Mahdi will be a link or bridge between the minor signs and the major signs. and the beginning of major signs will be coming of Dajjal.
 
+Hadith says "Noone should attack Mecca accept for its own ahla. The Kaaba will be destroyed only after there are no muslims left on earth.
+
+constantinople will be conquered.
+
+There will be war and muslims will be successful. and then the rumors will spread that Dajjal has come. and muslims will try to find Dajjal but they relize that rumors are not true. then Dajjal will appear for real.  
+
+Mahdi shall rule for 7 years. those will be the best 7 years for muslims.
+In Damascus in the mosque with a white minaret people will gather to pray fajr and then Isa will descend. (Umawi masjid) Isa Aleihissalam will be holding on to two angels
+
+Mahdi will not know that he is Mahdi and Allah will prepare him in one ocassion. His name will be Muhammad and his father's name will be Abdallah.
+
+A king will die and his sons will start fighting for power and Mahdi will leave Medina to Mecca not to get involved in the turmoil. But people will follow him to Mecca and give him bayat in Al Haram. Then an army will come to Mecca to kill Mahdi but the earth will swallow the army leaving only several people to tell the story.
+
+The Sufyani is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
+
+While the Mahdī is ruling as the Imām or Khalīfah of the Muslims, and preparing for battle against the forces of the Dajjāl in Syria, shortly after having conquered Constantinople, ʿĪsā b. Maryam (AS) will return to earth. He will descend close to the white minaret to the east of Damascus just before Fajr time.
+
+The Mahdī and others will ask him to lead them in prayer but he will refuse saying, ‘Your Imām should lead, as a grace from Allāh.’"
+
 </details><details><summary>
 
-## Dajjal -- False Messiah or Anti-Christ
+## Dajjal Appears -- False Messiah or Anti-Christ
 
 </summary> 
 
@@ -7925,6 +7949,18 @@ Anas ibn Malik narrated that prophet Muhammad ﷺ   said:
 
 [Omar Suleiman about Dajjal](https://www.youtube.com/watch?v=rUUnHTWfMZg)
 
+Authentic hadith from Nawwas bin Sam'an Al-Kilabi says:
+
+> "The Messenger of Allah (ﷺ) mentioned Dajjal, one morning, as something despised but also alarming, until we thought that he was in the stand of date-palm trees. When we came to the Messenger of Allah (ﷺ) in the evening, he saw that (fear) in us, and said: 'What is the matter with you?' We said: 'O Messenger of Allah, you mentioned Dajjal this morning, and you spoke of him as something despised but also alarming, until we thought that he was in the stand of date-palm trees.' He said: 'There are things that I fear more for you than the Dajjal. If he appears while I am among you, I will contend with him on your behalf, and if he appears when I am not among you, then each man must fend for himself, and Allah will take care of every Muslim on my behalf. 
+>
+> He (Dajjal) will be a young man with curly hair and a protuberant eye; I liken him to 'Abdul-'Uzza bin Qatan. Whoever among you sees him, let him recite the first Verses of Surat Al-Kahf over him. He will emerge from Khallah, between Sham and Iraq, and will wreak havoc right and left. O slaves of Allah, remain steadfast.' We said: 'O Messenger of Allah, how long will he stay on earth?' He said: 'Forty days, one day like a year, one day like a month, one day like a week, and the rest of his days like your days.' 
+>
+> We said: 'O Messenger of Allah, on that day which is like a year, will the prayers of one day suffice us?' He said: 'Make an estimate of time (and then observe prayer).' We said: 'How fast will he move through the earth?' He said: 'Like a rain cloud driving by the wind.' He said: 'He will come to some people and call them, and they will respond and believe in him. Then he will command the sky to rain and it will rain, and he will command the earth to produce vegetation and it will do so, and their flocks will come back in the evening with their humps taller, their udders fuller and their flanks fatter than they have ever been. Then he will come to some (other) people and call them, and they will reject him, so he will turn away from them and they will suffer drought and be left with nothing. Then he will pass through the wasteland and will say: "Bring forth your treasures," then go away, and its treasures will follow him like a swarm of bees. Then he will call a man brimming with youth and will strike him with a sword and cut him in two. He will put the two pieces as far apart as the distance between an archer and his target. Then he will call him and he will come with his face shining, laughing. 
+>
+> While they are like that, Allah will send 'Eisa bin Maryam, who will come down at the white minaret in the east of Damascus, wearing two Mahrud (garment dyed with Wars and then Saffron), resting his hands on the wings of two angels. When he lowers his head, beads of perspiration will fall from it. Every disbeliever who smells the fragrance of his breath will die, and his breath will reach as far as his eye can see. Then he will set out and catch up with him (the Dajjal) at the gate of Ludd, and will kill him. Then the Prophet of Allah 'Eisa will come to some people whom Allah has protected, and he will wipe their faces and tell them of their status in Paradise. While they are like that, Allah will reveal to him: "O 'Eisa, I have brought forth some of My slaves whom no one will be able to kill, so take My slaves to Tur in safety." 
+>
+> Then Gog and Magog will emerge and they will, as Allah describes, "swoop down from every mound."[21:96] The first of them will pass by lake Tiberias and drink from it, then the last of them will pass by it and will say: "There was water here once." The Prophet of Allah, 'Eisa and his companions will be besieged there until the head of an ox would be dearer to any one of them than one hundred Dinar are to any one of you today. Then, the Prophet of Allah, 'Eisa and his companions will supplicate Allah. Then Allah will send a worm in their necks and the next morning they will all die as one. The Prophet of Allah 'Eisa and his companions will come down and they will not find even the space of a hand span that is free of their stink, stench and blood. They will pray to Allah, and He will send birds with necks like the necks of Bactrian camels, which will pick them up and throw them wherever Allah wills ... "
+
 ### Dajjal in the Bible
 
 There are also depictions of Dajjal (Anti-Christ) in the Bible. In Daniel 8:23-26, Daniel sees a vision of a ram the horns of which grow up to the skies an he doesn't know the interpretation of this vision. So then he sees a man llike looking figure and hears: "Gabriel, tell him the meaning of the vision". Gabriel explains to Daniel that in the latter part of their reign when rebels have become completely wicked, a fierce-looking king, a master of intrigue will arise. He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy those who are mighty, the holy priests. He will cause deceit to prosper, and he will consider himself superior. Yet he will be destroyed, but not by human power.
@@ -7935,7 +7971,7 @@ Gabriel had such strong impact on Daniel that he had to recover several days.
 
 </details><details><summary>
 
-## Isa will return to the Earth and defeat Dajjal
+## Isa returns to Earth and defeats Dajjal
 
 </summary>
 
@@ -7949,18 +7985,6 @@ while believers would march to figt the Abyssinain ruler, Allah will send a ligh
 > Everything in ad-dunya is cursed except the remembrance of Allah and whoever are the allies of the remembrance of Allah.
 
 https://wise-web.org/2020/09/06/isa-as-second-coming/ 
-
-### Mahdi
-
-Mahdi will not know that he is Mahdi and Allah will prepare him in one ocassion. His name will be Muhammad and his father's name will be Abdallah.
-
-A king will die and his sons will start fighting for power and Mahdi will leave Medina to Mecca not to get involved in the turmoil. But people will follow him to Mecca and give him bayat in Al Haram. Then an army will come to Mecca to kill Mahdi but the earth will swallow the army leaving only several people to tell the story.
-
-The Sufyani is a tyrant whose career of murdering innocent women and children will be cut short when he and his army are swallowed up by the earth on their way to seize and kill the Mahdi.
-
-While the Mahdī is ruling as the Imām or Khalīfah of the Muslims, and preparing for battle against the forces of the Dajjāl in Syria, shortly after having conquered Constantinople, ʿĪsā b. Maryam (AS) will return to earth. He will descend close to the white minaret to the east of Damascus just before Fajr time.
-
-The Mahdī and others will ask him to lead them in prayer but he will refuse saying, ‘Your Imām should lead, as a grace from Allāh.’"
 
 ### Isa defeats Dajjal
 
@@ -8016,9 +8040,9 @@ Two chapters of the Quran, Al-Kahf and Al-Anbiya, discuss Gog and Magog. In the 
 
 Quran states that in the past there were some nations Yajuj and Majuj that were doing mischief and Dhul Karnayn helped to build some gate in order to protect some nation. Some scholars hold the opinion that Yajuj and Majuj are not literally behind the wall in the current times. At some point at time people who have these characteristics or descendands of them will be let loose.
 
-### Destruction and death of Yajuj and Majuj by Eesa (Jesus)
+### Destruction and death of Yajuj and Majuj by Isa (Jesus)
 
-After Prophet Jesus (Eesa) (AS) will kill the Dajjal (Anti-Christ), Allah will inform him about the arrival of this disbelieving tribe that is undefeated and he will take refuge in the Mount of Toor until Allah will destroy them.
+After Prophet Jesus (Isa) (AS) will kill the Dajjal (Anti-Christ), Allah will inform him about the arrival of this disbelieving tribe that is undefeated and he will take refuge in the Mount of Toor until Allah will destroy them.
 
 According to Sahih Muslim, the Prophet said:
 
@@ -8032,7 +8056,7 @@ Al-Nawaas ibn Sam’aan reported that Prophet ﷺ  , while describing the signs 
 > “… and Allah will send Ya’jooj and Ma’jooj, swiftly swarming from every mound. They will pass the lake of Tiberias [in Palestine] and will drink everything that is in it. Then the last of them will pass by and will say, ‘There used to be water here once.’ The Prophet of Allah, Eesaa (Jesus), and his companions, will be besieged until a bull’s head will be more precious to one of them than a hundred dinars are to any of you today. Eesaa (Jesus) and his companions will pray to Allah, and Allah will send a kind of worm (like that found in the noses of camels and sheep) on their (Ya’jooj and Ma’jooj) necks, and they will fall down dead, all at once. Then Eesaa (Jesus) and his companions will come down out of the place where they were besieged, and they will find hardly a hand span of land that is not filled with the stench (of Ya’jooj and Ma’jooj), so Eesaa (Jesus) and his companions will pray to Allah, and He will send birds like the necks of camels to carry them away and throw them wherever Allah wills.”
 > (Reported by Muslim, 18/68).
 
-After the end of Gog Magog, the other signs of the arrival of day of judgment will come shortly one after another till the trumpet will be blown and the world in its present state will end.
+After the end of Gog and Magog, the other signs of the arrival of day of judgment will come shortly one after another till the trumpet will be blown and the world in its present state will end.
 
 </details><details><summary>
 
@@ -8070,14 +8094,6 @@ Accroding to Shia sources, there is a narration from Ali ibn Abi-Talib:
 
 </details><details><summary>
 
-## A fire would come out of Yemen
-
-</summary> 
-
-The fire will make people run towards the place of Judgement.
-
-</details><details><summary>
-
 ## The Smoke (Ad-Dukhan)
 
 </summary> 
@@ -8101,6 +8117,38 @@ This Sign will be a warning; and as appears from the Ayat, people will be given 
 
 </details><details><summary>
 
+## Pleasant Wind will take souls of all believers
+
+</summary> 
+
+> A Pleasant Breeze will take souls of all believers, and after that, only unbelievers will remain on earth. 
+
+The Pleasant Wind (or Breeze) will take the souls of all the remaining Believers. After this wind, only the UnBelievers will remain on Earth. This is what is known in the Bible as "The Rapture". However, the Hadith (sayings) of Prophet Mohammad ﷺ   seem to indicate that this "rapture" of the believers is going to happen after the return of Jesus and even after his death. Thus, the believers will be able to experience several blissful, wonderful years, under the rule of Jesus (peace be upon him), after the Dajjal (Anti-Christ) is killed and Gog & Magog perish. This is contrary to what Christians believe that the rapture is going to be before the rise of Anti-Christ and the return of Jesus.
+
+The Quran will be lifted from the earth as well.
+
+There is a long sahih hadith from Nawwas bin Sam'an Al-Kilabi about the major signs including Dajjal, Isa, Gog and Magog. The ending of this hadith says the following:
+
+> ... "They will pray to Allah, and He will send birds with necks like the necks of Bactrian camels, which will pick them up and throw them wherever Allah wills. Then Allah will send rain which will not leave any house of clay or hair, and it will wash the earth until it leaves it like a mirror (or a smooth rock). Then it will be said to the earth: "Bring forth your fruits and bring back your blessing." On that day a group of people will eat from a (single) pomegranate and it will suffice them, and they will seek shelter beneath its skin. Allah will bless a milch- camel so that it will be sufficient for a large number of people, and a milch-cow will be sufficient for a whole tribe and a milch-ewe will be sufficient for a whole clan. While they are like that, Allah will send a pleasant wind which will seize them beneath their armpits and will take the soul of every Muslim, leaving the rest of the people fornicating like donkeys, and upon them will come the Hour."
+
+Aisha (may Allah bless her) narrated that Prophet Mohammad ﷺ   said: 
+
+> "... Allah will send a good (pleasant) wind that will cause death to everyone who has even the weight of a speck of mustard (the smallest bit) of faith in his heart. Shall remain (on Earth) whoever has no goodness; they will return to the religion of their fathers (a religion other than Islam)." (Sahih Muslim)
+
+Abd Rahman bin Shamasah al-Mahri narrated: 
+
+> "I was in the company of Maslamah bin Mukhallad, and Abdullah bin Amr ibn 'As was with him. Abdullah bin Amr ibn 'As said: " The Hour shall come only when the worst type of people are left on the earth. They will be worse than the people of pre-Islamic days. They will receive whatever they ask of Allah. While we were still sitting, Uqbah bin Amir came and Maslamah said to him: Uqbah, listen to what Abdullah says. Uqbah said: He knows better so far as I am concerned. I heard the Messenger of Allah ﷺ   say: "A group of people from my nation will continue to fight in obedience to the Command of Allah, remaining victorious over their enemies. Those who oppose them shall not do them any harm. They will remain in this condition until the Hour overtakes them. Abdullah bin Amr ibn 'As said: Yes. Then, Allah will send a wind, which will be fragrant like musk and whose touch will be like the touch of silk, that will cause the death of all (faithful) persons, not leaving behind a single person with an iota of faith in his heart. Then only the worst of men will remain to be overwhelmed by the Hour (of Resurrection)." (Sahih Muslim)
+
+In the Tafsir (interpretation) of the Ayah "Until the Gog and Magog  are let through (their barrier)'" (al-Anbiya 21:96), it is reported by Ka'b Al-Ahbar that Zul-Suwayqatayn will first emerge at the time of Jesus, son of Mary. Jesus will lead a army of seven and eight hundred Muslim soldiers and march to fight Zul-Suwayqatayn. While they are marching towards Zul-Suwayqatayn, Allah will send a breeze from the direction of Yemen, which will take the soul of every faithful believer. Only the worst of people will be left, and they will begin to copulate like animals. Ka'b said: "At that time, the Hour (of Resurrection) will be very close."
+
+### Quran will be lifted from earth
+
+Huzaifah bin Al-Yaman said, the Prophet ﷺ   said, 
+
+> " Islam will become worn out like clothes are, until there will be no-one who knows what fasting, prayer, charity and rituals are. The Quran will disappear in one night, and no Ayah (verse) will be left on Earth. Some groups of old people will be left who will say, "We heard our fathers saying La ilaha illa Allah, so we repeat it."  Silah asked Huzaifah, "What will saying La ilaha illa Allah do for them when they do not know what prayer, fasting, ritual and charity are?" Huzaifah ignored him; then Silah repeated his question three times, and each time Huzaifah ignored him. Finally he answered,' O Silah, it will save them from Hell ' and said it three times." (Ibn Majah)
+
+</details><details><summary>
+
 ## Sun will come up from the West 🌄
 
 </summary> 
@@ -8117,7 +8165,9 @@ Sun will come up from the West and since then, the repentance will not be accept
 
 </summary> 
 
-The fire will come out and it will spread, making people come to the destination where the Judgement will take place.
+The fire will come out and it will spread, making people tun to the destination where the Judgement will take place.
+
+The fire would come out of Yemen.
 
 </details>
 
