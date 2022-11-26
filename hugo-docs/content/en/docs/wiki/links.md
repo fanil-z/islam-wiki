@@ -8,7 +8,8 @@ Sources used in the wiki:
 * [The Beginning and the End with Omar Suleiman based on ibn Kathir's work](https://www.youtube.com/playlist?list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv)
 * Most of the seerah are based on ibn Hisham's book, which is the short version of Ibn Iskhak's book
 * [Quranic Ayah divided into themes](https://quranverses.net/category/the-pillars-of-faith/)
-
-
+* [Good collection of prophets' stories](https://www.alim.org/history/prophet-stories/1/)
 
 * Wikipedia
+
+I found this only at the end: Tafsir by Ibn Kathir.

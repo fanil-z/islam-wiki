@@ -921,7 +921,7 @@ Furthermore, Adam is informed by God that he and his progeny will be sent guidan
 
 Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Earth, Adam ﷺ   assumes the role as the first Prophet and the father of mankind. 
 
-There is a difference of opinions on the question of where Adam and Eve landed on earth. The majority of tabi'un and sahabi said that Adam came from the Heavens to the land oh Hind (modern day India). Other opinions include that he landed in Mecca or in Sri-Lanka. When it comes to Hawwah, some say that she came with Adam to Mecca, some say to India with Adam, and most say that she came in Jedda. The place where they came down is not mentioned in the Quran and ahadith, thus these are only presumptions.
+There is a difference of opinions on the question of where Adam and Eve landed on earth. The majority of tabi'un and sahabi said that Adam came from the Heavens to the land oh Hind (modern day India). Other opinions include that he landed in Mecca or in Sri-Lanka. When it comes to Hawwah, some say that she came with Adam to Mecca, some say to India with Adam, and most say that she came in Jedda. The place where they came down is not mentioned in the Quran and ahadith, thus these are only presumptions. There are narrations that Adam and Eve came together again in the Mount of Arafat.
 
 </details>
 
@@ -929,6 +929,22 @@ There is a difference of opinions on the question of where Adam and Eve landed o
 *******************************************
 
 <details><summary>
+
+## Adam's mission on earth
+
+</summary>
+
+God told mankind that He did not create them except that they should worship Him. Everything in this world was created for Adam and his descendants, in order to aid us in our ability to worship and know God. Due to God’s infinite Wisdom, Adam and his descendants were to be the caretakers on earth, so God taught Adam what he needed to know to perform this duty. 
+
+God gave Adam the ability to identify and designate names to everything; He taught him language, speech and the ability to communicate. God imbued Adam with an insatiable need for and love of knowledge: {He taught Adam all the names of everything.} (2: 31) The Angels were given no specific knowledge or freedom of will, their sole purpose being to worship and praise God. Adam, on the other hand, was given the ability to reason, make choices and identify objects and their purpose. This helped to prepare Adam for his coming role on earth.
+
+Adam knew he bade farewell to peace when he left Paradise. On earth he had to face conflict and struggle. No sooner had one ended than another began. He also had to toil to sustain himself. He had to protect himself with clothes and weapons and protect his wife and children from the wild beasts.
+
+Above all, he had to struggle with the spirit of evil. Satan, the cause of his expulsion from Paradise, continued to beguile him and his children in an effort to have them thrown into the eternal hellfire. The battle between good and evil is continuous, but those who follow Allah's guidance should fear nothing, while those who disobey Allah and follow Iblis will be damned along with him.
+
+Adam grasped all of this, and, with the knowledge of this suffering, he started his life on the earth. The only thing that allayed his grief was that he was master of the earth and had to make it yield to him. He was the one who had to perpetuate, cultivate, construct and populate the earth. He was also the one who had to procreate and raise children who would change and improve the world.
+
+</details><details><summary>
 
 ## Children of Adam and Eve
 
@@ -987,6 +1003,10 @@ Cain did not know what to do with his brother's corpse. Allah sent two ravens th
 
 This was the first murder and burial on earth by a man.
 
+## Adam's grief
+
+Adam was  by the loss of his two sons: one was dead, the other was won over by the devil. Adam prayed for his son and turned to mundane matters, for he had to toil for his sustenance. At the same time, he was a prophet, advising his children and grandchildren, telling them about Allah, and calling them to believe in Him. He told them about Iblis and warned them by recounting his own experience with the devil and of how the devil had tempted Cain to kill his brother.
+
 </details><details><summary>
 
 ## Sheeth -- Seth
@@ -1002,6 +1022,10 @@ The Islamic literature holds that Seth was born when Adam was past 100 and that 
 At that time, 🎷 flute, music and dancing was invented. According to the Bible, Jubal the descendant of Cain invenved flute and music.
 
 According to Genesis 4:25, Seth was born after Abel's murder by Cain, and Eve believed that God had appointed him as a replacement for Abel. According to Genesis, Seth died at the age of 912 (that is, 14 years before Noah's birth).
+
+### Adam's successors
+
+After Adam's death, his son Seth (Shiith) took over the responsibilities of prophethood, according to a hadith narrated by Abu Dhar. Abu Dhar also narrated that Prophet Muhammad said: "Allah sent down one hundred four psalms, of which fifty were sent down to Seth." When the time of his death came, Seth's son Anoush succeeded him. He in turn, was succeeded by his son Qinan, who was succeeded by his son Mahlabeel. The Persians claim that Mahlabeel was the King of the Seven Regions, that he was the first one to cut down trees to build cities and large forts and that he built the cities of Babylonia. He reigned for a period of forty years. When he died his duties were taken over by his son Yard, who on his death, bequeathed them to his son Khonoukh, who is Idris according to the majority of the scholars (Ulama).
 
 </details><details><summary>
 
@@ -1040,6 +1064,20 @@ Early accounts of Idris' life attributed "thirty portions of revealed scripture"
 After Idris, his son and successor Mehthusaleh continued in Allah's path, calling His servants to Him.
 
 In the Bible, Enoch receives visions of how the Earth will be destroyed in the End of Times and how people who did good will receive their reward and how people who did bad deeds will receive their punishment.
+
+</details><details><summary>
+
+## Death of Adam
+
+</summary>
+
+Abdullah Ibn Al-Iman Ahmad Ibn Hanbal narrated that Ubai Ibn Kab said: 
+
+> "When Adam's death was near, he said to his children: '0 my children, indeed, I feel an appetite for the fruits of Paradise.' So they went away searching for what Adam had requested. They met with the angels, who had with them his shroud and what he was to be embalmed with. They said to them: '0 Children of Adam, what are you searching for? What do you want? Where are you going?' They said: 'Our father is sick and has an appetite for the fruits of Paradise.' The angels said to them: 'Go back, for your father is going to meet his end soon.' So they returned (with the angels), and when Eve saw them she recognized them. She tried to hide herself behind Adam. He said to her: 'Leave me alone. I came before you; do not go between me and the angels of my Lord.' So they took his soul, embalmed and wrapped him, dug the grave and laid him in it. They prayed on him and put him in his grave, saying: '0 Children of Adam, this is your tradition at the time of death."'
+>
+> Before his death Adam reassured his children that Allah would not leave man alone on the earth, but would send His prophets to guide them. The prophets would have different names, traits and miracles, but they would be united in one thing: the call to worship Allah alone.
+>
+> This was Adam's bequest to his children. Adam finished speaking and closed his eyes. Then the angels entered his room and surrounded him. When he recognized the Angel of Death among them, his heart smiled peacefully.
 
 </details><details><summary>
 
@@ -3178,7 +3216,7 @@ According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a g
 
 </details><details><summary>
 
-## The ones turned into pigs and monkeys
+## The ones turned into monkeys and
 
 </summary>
 
@@ -7869,7 +7907,7 @@ Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
  
 </details>
 
-### 9.2 Major Signs of Al Qiyamah [TBD]
+### 9.2 Major Signs of Yawm Al Qiyamah [TBD]
 
 <details><summary> Overview </summary>
 
