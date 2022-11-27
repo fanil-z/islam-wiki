@@ -282,6 +282,13 @@ Angels came to prophet Ibrahim and prophet Lut to tell about the fate of Soddom 
 
 </summary>
 
+
+
+<details id="level2"><summary>
+
+### Concept of Jannah and Jahannam
+
+</summary>
 Jannah (Paradise) and Jahannam (Hell) were created before its future habitats. This means Hell and Heaven already exist now.
 
 Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
@@ -300,11 +307,6 @@ Al-'Aqeedah al-Salafiyyah by at-Tahhaawi:
 > So Allah ordered that it be surrounded by lusts. Then He said, ‘Return to it and Gabriel returned to it and said, ‘By Your glory, I am frightened that no one will escape from entering it.’
 > [at-Tirmidhi, abu Dawud and An-Nasa'i]
 
-<details id="level2"><summary>
-
-### Concept of Jannah and Jahannam
-
-</summary>
 Partly From the narration of Malik ibn Dinar and his daughter who hushed away the dragon that was chasing her father. we can derive that good deeds and sins of people are some physical entities in another dimension. Somehow these entities are combined for your punishment or your blessing in the hereafter.
 
 For example, there is a hadith that says each dhikr is a real seed of your tree 🌳 in Jannah. 
@@ -313,9 +315,24 @@ Every person is only getting the result of what he has done in this dunya. His o
 
 </details><details id="level2"><summary>
 
-### Reality of Jahannam
+### Jahannam
 
 </summary>
+
+    Proceed to a shadow [of smoke] having three columns
+    [But having] no cool shade and availing not against the flame.’
+    Indeed, it throws sparks [as huge] as a fortress,
+    As if they were yellowish [black] camels.
+    Quran, surah Al-Mursalat (Those Sent Forth) 77:30-33
+
+    I will drive him into Saqar.
+    And what can make you know what is Saqar?
+    It lets nothing remain and leaves nothing [unburned],
+    Blackening the skins.
+    Over it are nineteen [angels].
+    Quran, surah Al-Muddaththir (The One Enveloped) 74:26-53
+
+And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve – that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is hypocrisy and the disbelievers will say, ‘ What does Allah intend by this as an example?’ Thus does Allah leave astray whom He wills and guides whom He wills. And none knows the soldiers of your Lord except Him. And mention of the Fire is not but a reminder to humanity.
 
 According to the Quran and ahadith, Jahannam seem to be a living creature that breathes, roars and has a natural desire to punish the transgressors and disbelievers.
 
@@ -901,6 +918,16 @@ The story of Adam and Eve in the Quran teaches the virtue of repentance and supp
     "Then his Lord chose him and turned to him in forgiveness and guided [him]." 
     Quran, surah Taa-Haa (Taa-Haa) 20:122
 
+### Free will of Adam and Eve
+
+Could it be said that Adam and the rest of mankind were predestined to sin and to be expelled from Paradise and sent to the earth? In fact, this fiction is as naive as the first one. Adam had complete free will, and he bore the consequences of his deed. He disobeyed by eating of the forbidden tree, so Allah dismissed him from Paradise. His disobedience does not negate his freedom. On the contrary, it is a consequence of it.
+
+The truth of the matter is that Allah knew what was going to happen, as He always knows the outcome of events before they take place. However, Allah does not force things to happen. He grants free will to His human creatures. On that He bases His supreme wisdom in populating the earth, establishing the vicegerents, and so on.
+
+Adam understood his third lesson. He knew now in a practical way that Iblis was his enemy, the cause of his losing the blessing of living in Paradise, and the cause of his distress. Adam also understood that Allah punishes disobedience and that the way to Paradise has to be through submission to the will of Allah. And he learned from Almighty Allah to ask for forgiveness.
+
+Allah accepted Adam's repentance and forgave him. He then sent him to the earth as His first messenger.
+
 </details><details><summary>
 
 ## Adam and Eve are sent to Earth
@@ -1005,7 +1032,7 @@ This was the first murder and burial on earth by a man.
 
 ## Adam's grief
 
-Adam was  by the loss of his two sons: one was dead, the other was won over by the devil. Adam prayed for his son and turned to mundane matters, for he had to toil for his sustenance. At the same time, he was a prophet, advising his children and grandchildren, telling them about Allah, and calling them to believe in Him. He told them about Iblis and warned them by recounting his own experience with the devil and of how the devil had tempted Cain to kill his brother.
+Adam grieved over the loss of his two sons: one was dead, the other was won over by the devil. Adam prayed for his son and turned to mundane matters, for he had to toil for his sustenance. At the same time, he was a prophet, advising his children and grandchildren, telling them about Allah, and calling them to believe in Him. He told them about Iblis and warned them by recounting his own experience with the devil and of how the devil had tempted Cain to kill his brother.
 
 </details><details><summary>
 
@@ -1025,7 +1052,9 @@ According to Genesis 4:25, Seth was born after Abel's murder by Cain, and Eve be
 
 ### Adam's successors
 
-After Adam's death, his son Seth (Shiith) took over the responsibilities of prophethood, according to a hadith narrated by Abu Dhar. Abu Dhar also narrated that Prophet Muhammad said: "Allah sent down one hundred four psalms, of which fifty were sent down to Seth." When the time of his death came, Seth's son Anoush succeeded him. He in turn, was succeeded by his son Qinan, who was succeeded by his son Mahlabeel. The Persians claim that Mahlabeel was the King of the Seven Regions, that he was the first one to cut down trees to build cities and large forts and that he built the cities of Babylonia. He reigned for a period of forty years. When he died his duties were taken over by his son Yard, who on his death, bequeathed them to his son Khonoukh, who is Idris according to the majority of the scholars (Ulama).
+After Adam's death, his son Seth (Shiith) took over the responsibilities of prophethood, according to a hadith narrated by Abu Dhar. Abu Dhar also narrated that Prophet Muhammad said: "Allah sent down one hundred four psalms, of which fifty were sent down to Seth." 
+
+When the time of his death came, Seth's son Anoush succeeded him. He in turn, was succeeded by his son Qinan, who was succeeded by his son Mahlabeel. The Persians claim that Mahlabeel was the King of the Seven Regions, that he was the first one to cut down trees to build cities and large forts and that he built the cities of Babylonia. He reigned for a period of forty years. When he died his duties were taken over by his son Yard, who on his death, bequeathed them to his son Khonoukh, who is Idris according to the majority of the scholars (Ulama).
 
 </details><details><summary>
 
@@ -9136,7 +9165,52 @@ When the believers cross the siraat, they will come to two springs of water; the
 
 </details><details><summary>
 
-## Kawthar
+## Those who fall into Flames
+
+</summary>
+   
+    When the shackles are around their necks and the chains; they will be dragged
+    In boiling water; then in the Fire they will be filled [with flame].
+    Quran, surah Ghafir (The Forgiver God) 40:71-72
+
+    And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.
+    Quran, surah Al-Araf (The Heights) 7:179
+
+    And those who disbelieved will be driven to Hell in groups until, when they reach it, its gates are opened and its keepers will say, "Did there not come to you messengers from yourselves, reciting to you the verses of your Lord and warning you of the meeting of this Day of yours?" They will say, "Yes, but the word of punishment has come into effect upon the disbelievers".
+
+    [To them] it will be said, "Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant."
+    Quran, surah Az-Zumar (The Groups) 39:71-72
+
+    [Allah will say], "Throw into Hell every obstinate disbeliever,
+    Preventer of good, aggressor, and doubter,
+    
+    Who made [as equal] with Allah another deity; then throw him into the severe punishment."
+    
+    His [devil] companion will say, "Our Lord, I did not make him transgress, but he [himself] was in extreme error."
+    
+    [Allah] will say, "Do not dispute before Me, while I had already presented to you the warning.
+    
+    The word will not be changed with Me, and never will I be unjust to the servants."
+
+    On the Day We will say to Hell, "Have you been filled?" and it will say, "Are there some more,"
+    Quran, surah Qaf (The Letter Qaf) 50:24-30
+
+Dwellers of Hell will argue among each other.
+
+    The Fire, they are exposed to it morning and evening. And the Day the Hour appears [it will be said], ‘ Make the people of Pharaoh enter the severest punishment.’
+
+    And [mention] when they will argue within the Fire, and the weak will say to those who had been arrogant, ‘ Indeed, we were [only] your followers, so will you relieve us of a share of the Fire?’
+    
+    Those who had been arrogant will say, ‘ Indeed, all [of us] are in it. Indeed, Allah has judged between the servants.’
+
+    And those in the Fire will say to the keepers of Hell, ‘ Supplicate your Lord to lighten for us a day from the punishment.’
+
+    They will say, ‘ Did there not come to you your messengers with clear proofs?’ They will say, ‘ Yes.’ They will reply, ‘ Then supplicate [yourselves], but the supplication of the disbelievers is not except in error.’
+    Quran, surah Ghafir (The Forgiver) 40:46-50
+
+</details><details><summary>
+
+## Drink from Kawthar
 
 </summary>
 
