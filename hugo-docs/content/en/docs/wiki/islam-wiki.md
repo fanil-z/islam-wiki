@@ -2,10 +2,9 @@
 date: 9 Apr 2022
 author: fanil
 toc: true
-
 ---
 
-<h1 style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"> World History Timeline  <div style="font-size: 1rem; font-weight:200; color: #dee2e6 !important"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
+<h1 style="font-size: 2.2rem; font-style: bold; color: #4aa3a0; margin-bottom: 0.1rem !important;"> World History Timeline  <div style="font-size: 1rem; font-weight:200; color: #dee2e6 !important"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
 
 # 0. Before Creation of Humankind
 ***************************************
@@ -51,23 +50,29 @@ There is a Hadith that means the seven heavens in relation to the Kursiyy are li
 The Quran mentions the throne some 25 times (33 times as Al-'Arsh). 'Ali ibn Abi Talib, said: "Allah created the Throne as an indication of His power, not for taking it as a place for Himself."
 
     Indeed, your Lord is Allah, who created the heavens and the earth in six days and then established Himself above the Throne (Arsh), arranging the matter [of His creation]. There is no intercessor except after His permission. That is Allah, your Lord, so worship Him. Then will you not remember?
-    Quran, surah Yunus 10:3
+    Quran, surah Yunus (Jonah) 10:3
 
 Bearers of the Throne or hamlat al-arsh are a group of angels. The Quran mentions them in Quran 40:7 and Quran 69:17. The portrayal of these angels is comparable to the seraphim in the Book of Revelation. They might be identified with cherubim or seraphim of Jewish traditions.
 
     Those who bear the Throne, and all who are round about it, hymn the praises of their Lord and believe in Him and ask forgiveness for those who believe (saying): Our Lord! Thou comprehendest all things in mercy and knowledge, therefor forgive those who repent and follow Thy way. Ward off from them the punishment of hell.
-    Quran 40:7
+    Quran, surah Ghafir (The Forgiver) 40:7
 
     And the angels will be on its sides, and eight will, that Day, bear the Throne of thy Lord above them.
-    Quran 69:17
+    Quran, surah Al-Haaqqa (The Reality) 69:17
 
 ### Al-Qalam (The Pen)
 
 ‘Ubadah ibn al-Samit reported: The Prophet, peace and blessings be upon him, said, "Verily, the first to be created by Allah was the pen." Sunan al-Tirmidhī 3319 
 
-    Chapter 68 in the Quran is named ‘Al-Qalam’ (the pen). It opens up with the verse: "By the pen and what they inscribe."
-    
-    In Chapter 96 of the Quran one finds another reference to the high value placed on the might of the pen: "Who taught by the pen. Taught mankind that which he knew not" (96:4-5).
+Chapter 68 in the Quran is named ‘Al-Qalam’ (the pen). It opens up with the verse: 
+
+    "By the pen and what they inscribe."
+    Quran, surah Al-Qalam (The Pen) 68:1
+
+In Chapter 96 of the Quran one finds another reference to the high value placed on the might of the pen: 
+
+    "Who taught by the pen. Taught mankind that which he knew not" 
+    Quran, surah Al-Alaq (The Clot) 96:4-5
 
 Allah told it to write, so the Pen wrote all that will happen until the Final Hour.
 
@@ -77,12 +82,13 @@ Allah told it to write, so the Pen wrote all that will happen until the Final Ho
 
 The Preserved Tablet is the record in which Allah The Almighty has recorded the fate of His creatures before He created them. In this regard, the Quran says: 
 
-    "Do you not know that Allaah knows what is in the heaven and earth? Indeed, that is in a Record." Quran 22: 70 
+    "Do you not know that Allaah knows what is in the heaven and earth? Indeed, that is in a Record." 
+    Quran, surah Al-Hajj (The Pilgrimage) 22:70 
 
 In his interpretation of this verse, Ibn ‘Atiyyah said that the record in this verse refers to the Preserved Tablet. Allah The Almighty also Says (what means): 
 
     No disaster strikes upon the earth or among yourselves except that it is in a Record before We bring it into being.
-    Quran 57: 22
+    Quran, surah Al-Hadid (The Iron) 57:22
 
 The Maaliki scholar, Al-Qurtubi, may Allah have mercy upon him, mentioned in his interpretation of this verse that the record mentioned here refers to the Preserved Tablet.  
 
@@ -108,17 +114,17 @@ Allah knows best. This means that Allāh created water before creating light, da
 </summary>
 
     God it is who has created seven heavens, and similar number of the earths. The commandments come down among them slowly.. 
-    Quran 65:12
+    Quran, surah At-Talaaq (The Divorce) 65:12
 
     Have not "those who disbelieve" known that heavens and earth were of one piece, We parted them and, We made every living thing of water, will they not then believe?"
-    Quran 21:30
+    Quran, surah Al-Anbiyaa (The Prophets) 21:30
 
 After Allāh created the Earth, He created the seven heavens. Each heaven is a solid body that is held up without any pillars. The heavens are separated. From one heaven to the other is a distance of five hundred (500) years, and every heaven has a gate.
 
 The first heaven is so far away from the Earth. Some people are unable to encompass this to the extent that they believe that the space which contains the stars and planets is the entire universe. They also falsely believe that it extends without an end. There is no point to their claims, because Allāh told us in the Qur’an and the Prophet also informed us in his Hadith what is contradictory to their claims. Paradise exists above the seventh heaven.
 
     The heavens, We have built with power, And We are expanding it.
-    Quran 51:47
+    Quran, surah Adh-Dhaariyat (The Winnowing Winds) 51:47
 
 </details><details><summary>
 
@@ -132,7 +138,7 @@ The first heaven is so far away from the Earth. Some people are unable to encomp
     Exalted and purified
     [Carried] by the hands of messenger-angels,
     Noble and dutiful.
-    Quran 80-Surah Abasa ( He frowned ) 11-16
+    Quran, surah Abasa (He frowned) 80:11-16
 
 Allah created angels from nur (luminous light).
 
@@ -141,21 +147,21 @@ One of the Islamic major characteristic of angels their lack of bodily desires: 
 Angels are dwellers of the seven heavens. Angels worship and exalt Allah.
 
     Indeed, those who are near your Lord are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate.
-    Quran, 7-Surah Al-A’raf (The Heights) 206
+    Quran, surah Al-Araf (The Heights) 7:206
 
     [The angels say], ‘ There is not among us any except that he has a known position.
     And indeed, we are those who line up [for prayer].
     And indeed, we are those who exalt Allah.’
-    Quran, 37-Surah As-Saaffat (Those Ranges in Ranks) 164-166
+    Quran, surah As-Saaffat (Those drawn up in Ranks) 37:164-166
 
     To Him belongs whoever is in the heavens and the earth. And those near Him are not prevented by arrogance from His worship, nor do they tire.
     They exalt [Him] night and day [and] do not slacken.
-    Quran, 21-Surah Al-Anbiya (The Prophets) 19-20
+    Quran, surah Al-Anbiya (The Prophets) 21:19-20
 
 Angels never disobey Allah.
 
     O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allah in what He commands them but do what they are commanded.
-    Quran, 66-Surah At-Tahrim (The Prohibition) 6
+    Quran, surah At-Tahrim (The Prohibition) 66:6
 
 ### Jibril
 
@@ -164,14 +170,14 @@ Angels never disobey Allah.
 Jibrīl (Ruh or The Spirit) is the angel who communicated with all of the prophets and also descended with the blessings of God during the night of Laylat al-Qadr ("The Night of Divine Destiny (Fate)"). 
 
     The angels and the Spirit descend therein by permission of their Lord for every matter.
-    Quran, 97-Surah Al-Qadr (The Night of Decree) 4
+    Quran, surah Al-Qadr (The Night of Decree) 97:4
 
 Jibrīl is further acknowledged as a magnificent warrior in Islamic tradition, who led an army of angels into the Battle of Badr and fought against Iblis, when he tempted ʿĪsā (Jesus).
 
     Say, "Whoever is an enemy to Gabriel – it is [none but] he who has brought the Qur’an down upon your heart, [O Muhammad], by permission of Allah, confirming that which was before it and as guidance and good tidings for the believers."
           
     Whoever is an enemy to Allah and His angels and His messengers and Gabriel and Michael – then indeed, Allah is an enemy to the disbelievers.
-    Quran, 2-Surah Al-Baqarah (The Cow) 97-98
+    Quran, surah Al-Baqarah (The Cow) 2:97-98
 
 Muslims also revere Gabriel for a number of events predating what they regard as the first revelation, narrated in the Quran. Muslims believe that Gabriel was the angel who informed Zachariah (Zakariyyā) of John's birth, as well as Mary (Maryam) of the future nativity of Jesus; and that Gabriel was one of three angels who had earlier informed Abraham (ʾIbrāhīm) of the birth of Isaac (ʾIsḥāq). Gabriel also makes a famous appearance in the Hadith of Gabriel, in which he questions Muhammad on the core tenets of Islam.
 
@@ -220,52 +226,52 @@ Also, there is a hadith about **Munkar** and **Nakir**, two angels that question
 ### Angels Messengers
 
     Allah chooses from the angels messengers and from the people. Indeed, Allah is Hearing and Seeing.
-    Quran, 22-Surah Al-Hajj (The Pilgrimage) 75
+    Quran, surah Al-Hajj (The Pilgrimage) 22:75
 
     He sends down the angels, with the inspiration of His command, upon whom He wills of His servants, [telling them], "Warn that there is no deity except Me; so fear Me."
-    Quran, 16-Surah An-Nahl (The Bees) 2
+    Quran, surah An-Nahl (The Bees) 16:2
 
     By those [angels] lined up in rows
     And those who drive [the clouds]
     And those who recite the message
-    Quran, 37-Surah As-Saaffat (Those Ranges in Ranks) 1-3
+    Quran, surah As-Saaffat (Those drawn up in Ranks) 37:1-3
 
     [All] praise is [due] to Allah, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allah is over all things competent.
-    Quran, 35-Surah Fatir (The Orignator) 1
+    Quran, surah Fatir (The Orignator) 35:1
 
     And [by] the winds that spread [clouds]
     And those [angels] who bring criterion
     And those [angels] who deliver a message
     As justification or warning
-    Quran, 77-Surah Al-Mursalat (Those sent forth) 3-6
+    Quran, surah Al-Mursalat (Those sent forth) 77:3-6
 
 Angels came to prophet Ibrahim and prophet Lut to tell about the fate of Soddom and Homorra and good news that Ibrahim is going to have a son.
 
     And certainly did Our messengers come to Abraham with good tidings; they said, "Peace." He said, "Peace," and did not delay in bringing [them] a roasted calf.
-    Quran, 11-Surah Hud 69
+    Quran, surah Hud (Hud) 11:69
 
 ### Angels who write deeds of humans
 
     And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein
     When the two receivers receive, seated on the right and on the left
     Man does not utter any word except that with him is an observer prepared [to record]
-    Quran, 50-Surah Qaf (The Letter Qaf) 16-18
+    Quran, surah Qaf (The Letter Qaf) 50:16-18
 
     Or do they think that We hear not their secrets and their private conversations? Yes, [We do], and Our messengers are with them recording.
-    Quran, 43-Surah Az-Zukhruf (The Gold Adornment) 80
+    Quran, surah Az-Zukhruf (The Gold Adornment) 43:80
 
     And indeed, [appointed] over you are keepers, 
     Noble and recording
     They know whatever you do.
-    Quran, 82-Surah Al-Infitar (The Cleaving) 10-12
+    Quran, urah Al-Infitar (The Cleaving) 82:10-12
 
 ### Angels Protectors
 
     There is no soul but that it has over it a protector.
-    Quran, 86-Surah At-Tariq (The Night-Comer)
+    Quran, surah At-Tariq (The Night-Comer) 86
 
     For each one are successive [angels] before and behind him who protect him by the decree of Allah. Indeed, Allah will not change the condition of a people until they change what is in themselves. And when Allah intends for a people ill, there is no repelling it. And there is not for them besides Him any patron.
-    Quran, 13-Surah Ar-Ra’d (The Thunder) 11
+    Quran, surah Ar-Ra’d (The Thunder) 13:11
 
 ### Angels ask Allah to forgive believers
 
@@ -274,15 +280,13 @@ Angels came to prophet Ibrahim and prophet Lut to tell about the fate of Soddom 
     Our Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their fathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise.
 
     And protect them from the evil consequences [of their deeds]. And he whom You protect from evil consequences that Day – You will have given him mercy. And that is the great attainment."
-    Quran, 40-Surah Ghafir (The Forgiver God) 7-9
+    Quran, surah Ghafir (The Forgiver) 40:7-9
 
 </details><details><summary>
 
 ## Creation of Heaven and Hell
 
 </summary>
-
-
 
 <details id="level2"><summary>
 
@@ -367,13 +371,13 @@ Jannah is very beautiful.
 Jannah has many trees 🌳🌳, rivers, and birds 🐦🐦🐦 with beautiful sounds. It has all what one would like. Allāh created Adam in Paradise.
 
     Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment.
-    Quran, 85-Surah Al-Burooj (The Big Stars)
+    Quran, surah Al-Burooj (The Big Stars) 85
 
     Indeed, the righteous will be among shades and springs
     And fruits from whatever they desire
     [Being told], ‘ Eat and drink in satisfaction for what you used to do.
     Indeed, We thus reward the doers of good.
-    Quran, 77-Surah Al-Mursalat (Those sent forth) 41-44
+    Quran, surah Al-Mursalat (Those sent forth) 77:41-44
 
 The Quran describes Paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels. 
 
@@ -381,7 +385,7 @@ Each person that goes to Jannah is greeted by angels from every gate with the wo
 
     Indeed, the righteous will be among gardens and rivers
     In a seat of honor near a Sovereign, Perfect in Ability.
-    Quran, 54-Surah Al-Qamar (The Moon) 54-55
+    Quran, surah Al-Qamar (The Moon) 54:54-55
 
     This is a reminder. And indeed, for the righteous is a good place of return
     Gardens of perpetual residence, whose doors will be opened to them.
@@ -389,7 +393,7 @@ Each person that goes to Jannah is greeted by angels from every gate with the wo
     And with them will be women limiting [their] glances and of equal age.
     This is what you, [the righteous], are promised for the Day of Account.
     Indeed, this is Our provision; for it there is no depletion
-    Quran, 38-Surah Sad (The Letter Sad) 49-54
+    Quran, surah Sad (The Letter Sad) 38:49-54
 
 Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompanied by any children that did not go to Jahannam (Q52:21), and attended to by servant-boys with the spotless appearance similar to a protected pearls (Q52:24). The Believers Men will get untouched (Q55:56) virgin companions of equal age (56:35-38) and have large, beautiful eyes (37:48).
 
@@ -7946,6 +7950,8 @@ Muslim narrated that Hudhayfah ibn Aseed al-Ghifaari (may Allaah be pleased with
 
 > The Prophet ﷺ   came out to us when we were discussing. He said: "What are you discussing?" They said: "We are talking about the Hour." He said: "It will never begin until you see ten signs before it." He mentioned the smoke, the Dajjaal, the Beast, the rising of the sun from its place of setting, the descent of ‘Eesa ibn Maryam ﷺ  , Ya’jooj and Ma’jooj, and three landslides, one in the east, one in the west and one in the Arabian Peninsula, and the last of that is a fire which will emerge from Yemen and drive the people to their place of gathering (Sahih Muslim, Book 041: 6931)
 
+Abu Huraira said The Prophet ﷺ   said, "Hasten to do good deeds before six things happen: the rising of the sun from the West, the Smoke, the Dajjal, the Daabba (Beast), the (death) of one of you or general tribulation." (Sahih Muslim)
+
 These signs are connected to each other. When one comes, the other one follows.
 
     Do they wait but that come unto them the angels (of death; or those who would bring the doom of the unbelievers) or comes (the final order of) thy Lord, or come some of the signs of thy Lord? On the day when come some of the signs of thy Lord, its faith shall profit not a soul -Which believed not before, or earned not good through its faith. Say, wait you: verily we too are waiting.
@@ -8168,7 +8174,58 @@ After the end of Gog and Magog, the other signs of the arrival of day of judgmen
 
 </summary> 
 
-(maybe major earthquakes). One in the east, one in the west and one in Arabia.
+There will be three significant Land Collapses (or landslides) before Day of Resurrection. One in the East, one in the West and one in Arabia. The Earth will swallow everything above it and as a result, many people will die. This will take place when evil prevails.
+
+Umm Salmah reported that I heard the Messenger of Allah ﷺ   saying, "After me, there will be a Khusf (landslide) in the East, a Khusf (landslide) in the West and a Khusf (landslide) in the Peninsula of Arabia." I asked, "Oh Messenger of Allah will the land give way, though there are some pious people above it?" The Prophet ﷺ   replied, "When its inhabitants do a lot of evil deeds."   (Tabarani's book Awsat)
+
+Umm Salamah narrated: The Prophet ﷺ   said: "Disagreement will occur upon the death of a Caliph and a man of the people of Medina will flee to Mecca. Some of the people of Mecca will come to him, bring him out against his will and make him accept their Bay'a (being chosen as a leader) (at a location) between the Rukn (corner of the Ka'aba containing the Black Stone)  and the Maqam (Place) of Abraham (located on a side of the Ka'ba). An army from the people of AshSham (Greater Syria) will then be sent against him from but Khusf (Land Collapse) will happen to them (they will die) in the Baidaa (desert) between Mecca and Medina..." (Abu Dawud)
+
+The Khusf (Land Collapse or Landslide) that will cause the army of the Mahdi's enemies to perish could be the same Khusf (Land Collapse) expected to occur in Arabia as a Sign of the Day of Resurrection according to the  above Hadiths. However, it is also possible that the Arabian Peninsula may experience another larger Land Collapse later.
+
+The Khusf (Land Collapse or Landslide) expected to happen in the East, according to the Hadith.
+
+</details><details><summary>
+
+## Sun will come up from the West 🌄
+
+</summary> 
+
+Islam is the only religion that prophesies that the sun will rise from the West, instead of from rising from the East, in the the End Times, before Day of Judgement. Both the Quran and the Hadith affirm that this phenomenon will take place. The occurrence of this phenomenon is considered in Islam as one of the major signs that indicate the Day of Judgement is close.
+
+Allah says in the Quran:
+
+    "No good will it do to a person to believe then, if he believed not before, nor earned good (by performing deeds of righteousness) through his faith."
+    Quran, surah Al-Anaam (The Cattle) 6:158
+
+This verse is referring to the rising of the sun from the West, according to the opinion of the majority of Quran commentators such as Tabari and Ibn Kathir.
+
+Imam Tabari, after mentioning the different opinions of the commentators writes, "The most correct opinion in regards to the meaning of this verse is that what is apparent from the reports narrated from the Prophet ﷺ   that he said, "Becoming a Believer will be of no benefit after the sun rises from the West."    (Tabari)
+
+> Abu Huraira reported that the Holy Prophet ﷺ   said, "Hasten to do good deeds before six (things happen): Rising of the sun from the West..."   (Mishkat)
+
+> Abdullah-bin-Umar said, "I memorized a Hadith of the Messenger of Allah ﷺ   which I have not forgotten. I heard the Messenger of Allah ﷺ   say, 'The first of the Signs that will come is the rising of the sun from the place of its setting and the emergence of the Daabba  to people in Duha (later portion of the morning before noon). Whichever of these two (signs) occurs before the other, then the other one will occur immediately after it."    (Sahih Muslim)
+
+### Door of Tawba (Repentance) will be Closed
+
+Once the sun has risen from the West, the door of repentance for sins committed will be closed by Allah and will remain closed until the Day of Judgement. The following Hadiths clearly specify that the deadline for repentance to be accepted by God ends when the sun rises from the West. Once the sun rises from the West, repentance will no longer be accepted.
+
+> Abu-Musa  Al-Ashari narrated that the Messenger of Allah ﷺ   said, "Verily Allah extends his hand at night so that the sinners of the day may repent and verily extends his hand during the day so that the sinners of the night may repent, (He will keep on doing this) as long as the sun does not rise from the West."  (Sahih Muslim)
+
+Sun will come up from the West and since then, the repentance will not be accepted anymore. Abu Huraira reported: 
+
+> The Messenger of Allah, peace and blessings be upon him, said, “Whoever repents before the sun rises from the west, Allah will accept his repentance.”
+> Source: Ṣaḥīḥ Muslim 2703
+> Grade: Sahih (authentic) according to Muslim
+
+### Becoming a Believer will not be accepted anymore
+
+Abdullah bin Abu-Owfa reported: 
+> I heard the Messenger of Allah ﷺ   say, "Verily a night equivalent to three of your nights will come upon people. When it comes, those who engage themselves in worship during the night will recognize it. A person will stand in prayer, read a section of the Quran and then go to sleep. Thereafter, he will wake up, stand in prayer and read a section of the Quran, then go to sleep. While this condition remains, the people will begin to shout, scream and call one another. They will say, "What is this?" With fear, they will run to the mosque. To their surprise, they will see that the sun has risen from the West. When it reaches the middle of the sky, it will return and set in the West." He said ﷺ   , "That is when becoming a believer (in Islam after witnessing this Sign) will no longer be of benefit (because after the sun rises from the West, Allah will no longer accept declarations of faith)."
+> 
+> Ibn Kathir's book Al-Bidaya wa An-Nihaya
+ 
+> Narrated by Abu Huraira, "Allah's Messenger ﷺ   said, 'The Hour (of Resurrection) will not come until the sun rises from the West. When the people witness this, everyone who will be living on the face of the Earth will develop faith ( believe in Allah), but that is when believing will no longer be of benefit..."
+> (Sahih Bukhari)
 
 </details><details><summary>
 
@@ -8176,11 +8233,14 @@ After the end of Gog and Magog, the other signs of the arrival of day of judgmen
 
 </summary> 
 
-The Beast will come out at that time. The Beast it will leave marks on people as believer or non-believer. Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
+The Daabba (referred to in the Bible as The Beast) is generally thought of as an animal or creature with a unique task that will appear at the End Times and is one of the major signs of the Day of Resurrection. It will emerge from the earth and shake the dust from its head. It will have with it the ring of Solomon and the rod of Moses. People will be terrified of it and will try to run away, but they will not be able to escape, because such will be the decree of Allah. It will destroy the nose of every unbeliever with the rod, and write the word "Kafir" (unbeliever) on his forehead; it will adorn the face of every believer and write the word "Mu'min" (faithful Believer) on his forehead, and it will speak to people.
+
+Some ahadith say that the Beast will be one of the first major signs of the Last Day, along with the sun rising in the west.
 
 The Beast of the Earth (Dābbat al-Arḍ), in Islamic eschatology, will be one of the signs of the coming of the Last Day. It will appear before or after the sun rises in the west, where the Beast will be sighted for the very first time. The Beast is mentioned in the Quran (in Sura An-Naml) and is also mentioned in the ahadith, which expand upon the characteristics of the beast. Islamic tradition holds that the Beast will precipitate the death of all true believers and the removal of the Quran from the world. The Quran mentions that the Beast will address the unbelievers and admonish them for their lack of attention towards God:
 
     And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast (Dabbat'ul-Ardh) to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
+
     And on the day when We will collect from every people a party from those who believed our signs; then will they be formed into groups.
     Quran, surah An-Naml (The Ant) 27:82-83
 
@@ -8193,8 +8253,10 @@ Accroding to Shia sources, there is a narration from Ali ibn Abi-Talib:
 > Appearance of Dabbat'ul-Ardh, from near (the Hill) Safa (near Kaaba); with it will be the ring of Sulayman, and the walking stick (staff) of Musa. It will put the ring (seal) on the face of every believer, and it will be printed (branded) there, 'He is truly a believer'; and will put it on the face of every unbeliever, and it will write thereon “He is truly a non-believer.” Then the believer will say, “Woe unto thee, O non-believer!” and verily the non-believer will say: “Tuba for thee, O Believer, I would have liked to be like thee today, so that I also could succeed.
 > 
 > Then that Dabbat'ul-Ardh will raise its head, and all between east and west will see it by the permission of Allah, after the rising of the sun from its setting place. At that time 'Tauba' (Repentance) will be revoked. So from that time no repentance will be accepted, nor any (good) deed will be credited (i.e. from that time, the accounts of the deeds will be closed); and will not benefit any soul its faith which had not believed before or had not earned good (deeds) in its faith.
+>
+> Dabbat-ul-ard will touch a Believer with the staff of Musa. Then “He is destined for Paradise” will be written on his forehead, and his face will glitter. It will hit a disbeliever with the seal of Sulaiman. Then “He is destined for Hell” will be written on his forehead, and his face will blacken.) [Tirmidhi]
 
-(Dabbat-ul-ard will touch a Believer with the staff of Musa. Then “He is destined for Paradise” will be written on his forehead, and his face will glitter. It will hit a disbeliever with the seal of Sulaiman. Then “He is destined for Hell” will be written on his forehead, and his face will blacken.) [Tirmidhi]
+The Sun rising from the West and the Daabba will be the First Extraordinary Signs. In comparison, the Dajjal, the descent of Jesus (from Heaven), the emergence of Gog and Magog, are less unusual in that they are all human beings. But the emergence of the Daabba, whose form will be very strange, its addressing the people and classifying them as Believers or Disbelievers, is something truly extraordinary. The Daabba will the first of the earthly signs, while the rising of the sun from the West will the first of the heavenly signs.
 
 </details><details><summary>
 
@@ -8202,11 +8264,15 @@ Accroding to Shia sources, there is a narration from Ali ibn Abi-Talib:
 
 </summary> 
 
-The Day of Judgement will not take place until you experience Ad Dukhaw. a smoke that will appear in the sky. you will see it, you will feel it. some hadiths say "dark smoke". it will come into everyone. Smoke will come upon the believers like a flu or cold. and it will come upon non-believers causing disaster death, severe ilness and loding consciousness.
+Sura 44 of the Quran which is titled Al-Dhukan (means The Smoke) in some of its verses that talk about how distinctive Smoke (probably covering the whole World) that will be brought forth by God as a punishment.
+
+The Day of Judgement will not take place until you experience Ad-Dukhan. A smoke that will appear in the sky. You will see it, you will feel it. Some hadiths say "dark smoke". It will come into everyone. Smoke will come upon the believers like a flu or cold. And it will come upon non-believers causing disaster, death, severe illness and losing consciousness.
 
 The Smoke is mentioned in the Quran.
 
-    Then wait for the Day when the sky will bring a visible smoke, covering the people; this is a painful torment. [They will say], "Our Lord, remove from us the torment; indeed, we are believers." How can they be reminded when a messenger has already come to them, making things clear.
+    So wait for the Day when the sky will bring a visible smoke, covering the people; this is a painful torment. 
+
+    [They will say], "Our Lord, remove from us the torment; indeed, we are believers." How can they be reminded when a messenger has already come to them, making things clear.
     
     and yet they turned their backs unto him and said: '(He is) tutored (by other humans), a mad man.
 
@@ -8218,6 +8284,8 @@ The Smoke is mentioned in the Quran.
 According to many traditions, these Ayats refer to the smoke which will appear near the Day of Judgement. It will penetrate into ears (and eyes), and people's heads will look like they have been roasted. But it will not trouble the believers very much; they will feel irritation just like in common cold. And the whole earth will be just like a house in which fire has been lighted and the house has no window or ventilation. This condition will remain for forty days.
  
 This Sign will be a warning; and as appears from the Ayat, people will be given a chance to come onto right path, and mend their ways. The words “We shall remove the torment a little” show that the Smoke will be removed, but the next words “Verily, you shall return (unto evil)” show that after its removal, not many people will heed to the voice of reason. Perhaps they will invent some physical or geographical reason for that calamity, and will forget their pledges to Allah that “Verily, (now) we are believers.”
+
+Ibn Abbas, Ibn Umar, Hasan, and others said, "The smoke referred to in the verses is the smoke before Qiyamah which will enter in the ears of the Kuffar and the hypocrites and will affect the Muslims like a common cold. The whole World will be like a house on fire. It has not happened. It will happen." (Muhammad ibn Ahmad AsSaffarini's book Lawami Al-Anwaar Al-Bahiyya)
 
 </details><details><summary>
 
@@ -8253,25 +8321,49 @@ Huzaifah bin Al-Yaman said, the Prophet ﷺ   said,
 
 </details><details><summary>
 
-## Sun will come up from the West 🌄
+## The Kaaba is destroyed
 
-</summary> 
+</summary>
 
-Sun will come up from the West and since then, the repentance will not be accepted anymore. Abu Huraira reported: 
+One of the last signs of the Day of Resurrection is the destruction of the Ka'ba by Zul-Suwayqatayn. He is from Abyssinia (Ethiopia) and will destroy the Ka'ba in order to steal its treasure and Kiswah (Ka'ba's cover). The Ka'ba  is a holy shrine for Muslims, located at the center of the main mosque of Mecca, known as Masjid Al-Haram. It is the ancient shrine which was built by Abraham, and whose foundations were laid by Adam.
 
-> The Messenger of Allah, peace and blessings be upon him, said, “Whoever repents before the sun rises from the west, Allah will accept his repentance.”
-> Source: Ṣaḥīḥ Muslim 2703
-> Grade: Sahih (authentic) according to Muslim
+The Destruction of the Ka'ba will occur after no faithful Muslim remains, after the rapture of Muslims:
+
+In the Tafsir (interpretation) of the Ayah "Until the Gog and Magog  are let through (their barrier)'" (al-Anbiya 21:96), it is reported by Ka'b Al-Ahbar that Zul-Suwayqatayn will first emerge at the time of Jesus, son of Mary. Jesus will lead a army of seven and eight hundred Muslim soldiers and march to fight Zul-Suwayqatayn. While they are marching towards Zul-Suwayqatayn, Allah will send a breeze from the direction of Yemen, which will take the soul of every faithful believer. Only the worst of people will be left, and they will begin to copulate like animals. Ka'b said: "At that time, the Hour (of Resurrection) will be very close."
+
+AbduAllah ibn Amr said I heard the Prophet ﷺ   say: " Zul-Suwayqatayn from Al-Habasha ( Abyssinia or Ethiopia) will destroy the Ka'ba and steal its treasure and Kiswah (cover). It is as if I could see him now: he is bald-headed and has a distortion in his wrists. He will strike the Ka'ba with his spade and pick-axe." (Musnad Ahmad)
+
+Ibn 'Abbas narrated that the Prophet ﷺ   said: "It is as if I can see him now: he is Black and his legs are widely spaced (bow-legged). He will destroy the Ka'bah stone by stone." (Musnad Ahmad)
+
+It was reported from 'Abd Allah ibn 'Umar that the Prophet ﷺ   said, "Leave the Ahbash (Abyssinians or Ethiopians) alone so long as they do not disturb you, for no one will recover the treasure of the Ka'ba, except Zul-Suwayqatayn from Abyssinia." (Abu Dawud)
+
+Umar bin al-Khattab reported that he heard the Prophet ﷺ   say: "The people of Mecca will leave, and only a few people will pass through it. Then, it will be resettled and rebuilt; then, the people will leave it again, and no-one will ever return."
+
+Shu'ba narrated that the Prophet ﷺ   said: " The Hour (of Resurrection) will not be occur till the Hajj (Pilgrimage to Mecca) is abandoned." (Bukhari)
 
 </details><details><summary>
 
-## Fire will come out and it will spread
+## The Fire
 
 </summary> 
 
-The fire will come out and it will spread, making people tun to the destination where the Judgement will take place.
+The last major sign to appear before the Day of Resurrection is the Fire which will originate from the Yemen and drive people to gather in the place of their final assembly before the Day of Resurrection occurs.
 
-The fire would come out of Yemen.
+The fire will come out and it will spread, making people run to the destination where the Judgement will take place.
+
+The fire would come out of Yemen. And it will spread.
+
+Abu Huraira narrated that the Prophet ﷺ   said:
+
+> "The people will be gathered in three methods:
+> 
+> 1. The first batch will be of those who wish or have a hope (for paradise) and have a fear (of punishment).
+> 
+> 2. The second batch will be those who will come to gather, riding:  two on a camel, three on a camel, or ten on a camel.
+>
+> 3. The third batch will be the rest of the people who will be urged to gather by the Fire which will accompany them at the time of their afternoon nap and stay with them where they will spend the night, and will be with them in the morning wherever they may be then, and will be with them in the afternoon wherever they may be then."
+>
+> Bukhari
 
 </details>
 
