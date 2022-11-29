@@ -3222,7 +3222,7 @@ In both cases, Dhu al-Kifl is mentioned in the context of a list of Quranic prop
 
 </details><details><summary>
 
-## Uzair
+## Uzair (Ezra)
 
 </summary>
 
@@ -8184,6 +8184,26 @@ The Khusf (Land Collapse or Landslide) that will cause the army of the Mahdi's e
 
 The Khusf (Land Collapse or Landslide) expected to happen in the East, according to the Hadith.
 
+### Maskh,  Khusf, and Qazf 
+
+Some people will experience the following: Maskh (change in physical appearance such as a human becoming an animal), Khusf (landslide), and Qazf (bombardment). 
+
+It has been reported by several different narrators that Prophet Mohammad ﷺ   said: 
+
+>"For those at the end of my nation (or close to the Hour of Resurrection), there will be (they will experience) Maskh (change in physical appearance such as a human becoming an animal), Khusf (landslide), and Qazf (bombardment)." (Tirmizi & Ibn Maja)
+
+Abu Malik Al-Ash'ari narrated that Prophet Mohammad ﷺ   said: 
+
+> "People of my nation will drink Khamr (alcoholic drinks) and call it by a different name and will have musical instruments and female singers playing (music & singing) over their heads. Allah will make cause Khusf of Earth (landslide) to them and turn them into apes and pigs (meaning cause Maskh to them)." (Ibn Maja)
+
+Anas bin Malik said that the Prophet ﷺ   said: 
+
+> " The people will establish cities, Anas, and one of them will be called Al-Basrah or Al-Busayrah. If you should pass by it or enter it, avoid its salt-marshes, its Kilaa (vicinity in Basra), its marketplace, and the gate of its princes, and stay in its suburbs (or outskirts), because for it, there will be Khusf (landslide or the earth will swallow up people), Qazf (bombardment, pelting with stones, Earth will throw out the dead people after they get buried ) and Rajf (tremor or earthquake), and there will be people who will spend the night in it and become apes and swine in the morning. (Abu Dawud)  Al-Tibi commented that the Maskh is supposed to happen to those who do not believe in Qadar." (Abu Dawud)
+
+Huzaifa said that the Messenger of Allah ﷺ   said:
+
+> "There will be a battle in AzZawra. They said: O Messenger of Allah, what is AzZawra? He said: "A city in the East between rivers, inhabited by the most wicked creatures of Allah and tyrants from my nation. It will be afflicted with 4 types of suffering: by the sword, Khusf (landslide), Qazf (bombardment), and Maskh (change in physical appearance such as a human becoming an animal)." (Abu Amru Uthman bin Saeed Ad-Dani's Kitab Al-Sunan Al-Waredah fi al-Fitan)
+
 </details><details><summary>
 
 ## Sun will come up from the West 🌄
@@ -8364,6 +8384,24 @@ Abu Huraira narrated that the Prophet ﷺ   said:
 > 3. The third batch will be the rest of the people who will be urged to gather by the Fire which will accompany them at the time of their afternoon nap and stay with them where they will spend the night, and will be with them in the morning wherever they may be then, and will be with them in the afternoon wherever they may be then."
 >
 > Bukhari
+
+</details><details><summary>
+
+## The Trumpet signals the Last Hour
+
+</summary>
+
+Abu Haraira narrated that Prophet Mohammad ﷺ   said: 
+
+> "The Hour (of Resurrection) will occur while two men spread a garment (clothing item) and cannot finish buying & selling it or folding it. And the the Hour (of Resurrection) will occur while a man is about to drink the milk of his camel, but will not be able to even taste it. And the the Hour (of Resurrection) will occur while he is repairing his water basin, but will not be able to water from it (or have his livestock drink from it).  And the the Hour (of Resurrection) will occur while he is about to put a bit of food in his mouth, but will not be able to eat it. " (Bukhari)
+
+Aqaba bin A'mir narrated that Prophet Mohammad ﷺ   said:
+
+> " Before the Hour (of Resurrection), a black cloud will appear from the West, like a shield. It starts to rise until it fills the sky. Then, a caller will say 'O People' three times and in the third time, 'Obey the Command of Allah'. He (the Prophet) said: ' I swear by the One whom my soul in his hands, two men will spread a garment (clothing item) between them, but cannot finish folding it'. " (Al-Haakim)
+
+The Trumpet will be sounded three times (two in some narrations): (1) upon the first blow, everyone will feel terrified; (2) at the second blow, people will drop dead; (3) at the last blow, everyone will be resurrected. (This is the Day of Resurrection)
+
+The Day of Judgment will occur a long time later than the Day of Resurrection.
 
 </details>
 
@@ -8662,11 +8700,11 @@ The ugly-looking man whom you saw kindling a fire and walking around it was Mali
 
 </details><details><summary>
 
-### Hadith: Salman Al-Farsi talks to a Dead Person
+### Salman Al-Farsi talks to a Dead Person
 
 </summary>
  
-It seems proper to give here a short account of the conversation which Salman, the Persian, had had with a dead person. It is a lengthy tradition, but of great benefit.
+It seems proper to give here a short account of the conversation which Salman, the Persian, had had with a dead person. It is a lengthy tradition I found in Shia sources.
  
 Asbagh bin Nubata (r.a.) was a trusted companion of Ameerul Mumeneen Ali (AS). He went to see Salman Farsi (r.a.) who had settled in Madain. Asbagh (r.a.) says:
  
@@ -9063,7 +9101,49 @@ People will worry about their deeds all the time. and they will come to prophets
 
 Then people will come to Nuh, Ibrahim, Musa and Jesus, and they all say Nafsi, nafsi.
 
-And finally they will come to the prophet Muhammad ﷺ    begging him to ask Allah to start the Judgement. and the prophet Muhammad ﷺ    will say "This is a job for me".
+And finally they will come to the prophet Muhammad ﷺ   begging him to ask Allah to start the Judgement. and the prophet Muhammad ﷺ   will say "This is a job for me".
+
+The following version appears in Sahih Bukhari:
+
+> Sayyiduna Abu Hurayrah (radiyallahu ‘anhu) reports that Rasulullah ﷺ   was once given some meat. The shoulder was handed to him. Rasulullah ﷺ   was fond of the shoulder. He took a bite and then said,
+>
+> ‘I will be the master of people on the Day of Qiyamah. Do you know the reason for this? The people will be gathered, the first and the last on the same plain, a person calling out will be able to make them hear and [an observer] will be able to see them. The sun will be close to them and people will experience such sorrow and distress that they will not be able to bear or endure.
+>
+> The people will say, ‘Do you not see what [calamity] has afflicted you? Why do you not look for someone to intercede to your Rabb on your behalf?’
+> 
+> People will say to one another, ‘Go to Adam!’ They will come to Adam (‘alayhis salam) and say, ‘You are the father of mankind. Allah created you [through his might] and blew some of His Ruh into you and He ordered the Angels and they prostrated to you. Intercede on our behalf to your Rabb. Do you not see what we are going through, do you not see what has afflicted us?’
+>
+> Adam (‘alayhis salam) will say, ‘My Rabb is extremely angry today, he has never been so angry before nor will he ever be so angry again. He forbade me from the tree and I disobeyed. I am concerned regarding myself, I am concerned regarding myself, I am concerned regarding myself. Go to someone else. Go to Nuh.’
+>
+> “They will go to Nuh (‘alayhis salam) and say, ‘O Nuh! You were the first Rasul to be sent to the people of the earth and Allah called you a thankful slave. Intercede on our behalf to your Rabb. Do you not see what has happened to us?
+>
+> ‘He will say, ‘My Rabb is extremely angry today, he has never been so angry before nor will he ever be so angry again and I had made a du’a against my nation. I am concerned regarding myself, I am concerned regarding myself, I am concerned regarding myself. Go to someone else! Go to Ibrahim.’
+>
+> “They will go to Ibrahim (‘alayhis salam) and say, ‘O Ibrahim! You are the Nabi of Allah and His close friend. Intercede on our behalf to your Rabb. Do you not see what we are going through?
+>
+> He will say to them, ‘My Rabb is extremely angry today, he has never been so angry before nor will he ever be so angry again. I had spoken three untruths and I am concerned regarding myself, I am concerned regarding myself, I am concerned regarding myself. Go to someone else. Go to Musa.’
+>
+> “They will go to Musa (‘alayhis salam) and say, ‘O Musa, you are the Rasul of Allah. Allah preferred you with His message and His Word above all other people. Intercede on our behalf to your Rabb. Do you not see what we are going through?
+>
+> ‘He will say, ‘My Rabb is extremely angry today, he has never been so angry before nor will he ever be so angry again. I killed a person and I was not commanded to kill him. I am concerned regarding myself, I am concerned regarding myself, I am concerned regarding myself, Go to someone else. Go to ‘Isa.’
+>
+> “They will go to ‘Isa (‘alayhis salam) and say, ‘O ‘Isa! You are the Rasul of Allah and His Word which He cast to Maryam and a Ruh from Him. You spoke to people while in the cradle. Intercede on our behalf. Do you not see what we are suffering?’
+>
+> ‘Isa (‘alayhis salam) will say, ‘My Rabb is extremely angry today, he has never been so angry before nor will he ever be so angry again. -[‘Isa ‘alayhis salam] will not mention a mistake he had committed-. I am concerned regarding myself, I am concerned regarding myself, I am concerned regarding myself.  Go to someone else. Go to Muhammad.’
+>
+> “They will come to Muhammad (sallallahu ‘alayhyi wa sallam) and say, ‘O Muhammad! You are the Rasul of Allah and the Seal of the Anbiya. Allah has forgiven your past and future sins. Intercede on our behalf to your Rabb. Do you not see what we are suffering?’
+>
+> Nabi (sallallahu ‘alayhi wa sallam) says, ‘I will proceed under the ‘Arsh and fall down in sajdah to my Rabb. Then Allah will inspire me with such words to praise him which He has never inspired anyone else before.
+>
+> Then it will be said, ‘O Muhammad, raise your head. Ask and you will be granted. Intercede and your intercession will be accepted.’
+>
+> I will lift my head and say, ‘O my Rabb, my ummah! O my Rabb, my ummah!’
+>
+> It will be said, ‘O Muhammad, enter those who will not be subjected to any reckoning from your ummah through the right hand door of the doors of Jannah, and they will share the other gates with others as well.”
+>
+> Then he said, “By the One in whose control my life is, the distance between the two door panels of the doors of Jannah is the distance between Makkah and Himyar (Yemen) or Makkah and Busra (in Sham).”
+>
+> Sahih Bukhari, Hadith: 4712
 
 </details><details><summary>
 
@@ -9087,7 +9167,8 @@ The higher their iman, the more people will be allowed for them to intercede.
 
 Abu Umamah (May Allah be pleased with him) reported:
 
-> I heard the Messenger of Allah ﷺ   saying, “Read the Quran, for it will come as an intercessor for its reciters on the Day of Resurrection.” [Muslim]
+> I heard the Messenger of Allah ﷺ   saying, “Read the Quran, for it will come as an intercessor for its reciters on the Day of Resurrection.” 
+> [Muslim]
 
 </details><details><summary>
 
@@ -9131,11 +9212,12 @@ There are several narrations that some of the people who ended up in Jahannam wi
 
 <details><summary>
 
-## The Mizan. the Scale
+## The Mizan (The Scale)
 
 </summary>
 
-Separation of the righteous and the damned
+At the Mizan, the separation of the righteous and the damned will take place.
+
 At divine judgment, the resurrected will stand in a grand assembly, each person's Book of Deeds -- where "every small and great thing is recorded" -- will be read, and ultimate judgment made. The resurrected will then walk over the bridge of As-Sirāt, those judged worthy for the Garden continuing to their heavenly abode, those damned to The Fire, falling off the bridge into the pit of Jahannam. There will also be a punishment of the grave (for those who disbelieved) between death and the resurrection.
 
 Not everyone consigned to hell will remain there, as it is believed by both scholars and lay Muslims that "all but the mushrikun, those who have committed the worst sin of impugning the tawḥīd of God, have the possibility of being saved;" and God's intercession to save sinners from hellfire is a "major theme" in popular Islamic stories about Judgement Day.
@@ -9302,16 +9384,33 @@ Dwellers of Hell will argue among each other.
 
 </details><details><summary>
 
-## Drink from Kawthar
+## Bridge of Qantarah
 
 </summary>
 
-Whoever drinks from Kawthar will not feel thirst ever again.
+Abu Said al Khudree reports that the Prophet ﷺ   said:
+
+> "When the believers cross the Hellfire, they will be stopped at a small arched bridge (Qantarah) before entering the paradise and will be given retribution for injustices between them until they become purified. (Then) they will be permitted to enter Jannah. So, by the One in Whose Hands is my soul, they will know their way to their homes in Jannah, better than they know their ways to their homes in dunya."
+> [Saheeh Al-Bukhari] 
+
+Al-Qantarah is a small bridge after the Siraat that the believers will have to cross before entering Jannah. Allahسبحانه وتعالى   will ask the believers to settle their issues here.
+
+There is a hadith narrated in Mustadarak al-Haakim with an authentic chain that states that there will be two men from this Ummah that will come before Allah. One man will say, “so and so has transgressed against me and I want from his good deeds.” Allah will tell him, “do you see this great palace in paradise?” And the man will look at the palace, and Allah will say to him, “it will belong to you if you forgive your brother today.” And the man will forgive him. Rasulullah ﷺ   said at the end of this hadith “safeguard yourselves from Allah, and reform and reconcile amongst yourselves, indeed Allah will reconcile between the believers (on the Day of Judgment).”
+
+If Allah will reconcile among you on that Day, our role today should be to reconcile between ourselves.
 
 Then bridge of Qantarah to allow people complete their arguments. People will forgive each other. this will cause the delay because they didn forgive them in dunya.
 
     And we removed every grudge from their hearts. They will be brothers, reclining on thrones that Day, looking at one another.
     Quran, surah Al-Hijr (The Rock) 15:47
+
+</details><details><summary>
+
+## Drink from Kawthar
+
+</summary>
+
+Whoever drinks from Kawthar will not feel thirst ever again.
 
 > Narrated Sahl ibn Sa'd : I heard the Prophet saying, "I am your predecessor at the Lake-Fount (Kauthar), and whoever will come to it, will drink from it, and whoever will drink from it, will never become thirsty after that. There will come to me some people whom I know and they know me, and then a barrier will be set up between me and them." Abu Sa'id Al-Khudri added that the Prophet further said: "I will say those people are from me. It will be said, 'You do not know what changes and new things they did after you.' Then I will say, 'Far removed (from mercy), far removed (from mercy), those who changed (the religion) after me! "
 
