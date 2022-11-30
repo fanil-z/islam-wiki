@@ -8447,6 +8447,24 @@ What happens during and after death?
 5. In the grave, two angels Munkar and Nakir with unknown appearence come to the soul and ask the soul who is his Lord, who is the man that was sent to you and what is your religion.
 6. Soul is asked to look to the left, where he sees Hell and frightened. If the person was a believer and done good deeds, angels say that Allah saves you from torment because you were a believer. Then the souls is asked to look to the right where he sees the Heaven. When he sees the Heaven, he asks God to end this world so that he can come to Jannah right now.
 
+### Names of Yawm Al-Qiyamah
+
+Among the names of the Day of Resurrection/Judgement used in the Qur'an are
+* Al-Qari'ah—the Calamity; Surah 101 is named al-Qari'ah; the word is found in Q.69:4, 101:1, 101:2, 101:3
+* Al-Zalzalah—the Earthquake; (Arabic: الزُلْزِلَتِ)  Surah 99 is name al-Zalzalah; the word is found in Q.99.1
+* Al-Sa'iqah—the Blast;
+* Yawm an Thaqila—the Hard Day;
+* Al-Yawm al-Muhit—the Encompassing Day;
+* Yawm al-Fasl—the Day of Separation;
+* Al-Tammah al-Kubra—the Great Disaster;
+* Al-Haqqah—the Reality;
+* Yawm al-Din—the Day of Judgement;
+* Yawm al-Haqq—the True (inevitable) Day;
+* Yawm al-Ḥisāb—the Day of Reckoning;
+* Yawm al-Khuruj—the Day of Exodus (from the graves);
+* As-sa’a—the [Last] Hour (Arabic: ٱلسَّاعَةُ) is reportedly mentioned 39 times in the Quran (54:46, 25:11, 33:63, 30:55, 45:32, 69:2, 79:42, 30:12, 54:1, 43:66, 21:49, 30:14, 22:1, 22:7, 20:15, 40:59, 43:61, 42:17, 12:107, 15:85, 18:36, 45:27, 22:55, 43:85, 47:18, 6:40, 40:46, 42:18, 6:31, 16:77, etc.)
+* Yawm al-Qiyamah—Day of Resurrection; (Arabic: يَوْمَ ٱلْقِيَـٰمَةِ) Literally means the "rising up at the resurrection" although it "has come to signify the entire series of events to take place" on Judgement day, "although technically "al-sā'a means the actual hour"
+
 </details><details><summary>
 
 ### What is a soul?
