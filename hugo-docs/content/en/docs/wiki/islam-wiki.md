@@ -8841,6 +8841,9 @@ On the other hand, a Hadeeth reads: "Then the Trumpet will be blown, and no one 
 
 </summary>
 
+    "And when the Trumpet is blown, a single blast; and the earth and the mountains shall be borne away and crushed with a single crushing; on that Day shall happen the Great Event; and the heaven shall cleave asunder, so that on that day it shall be mere frail; and the angels shall be on the sides of it; and above them shall bear on that Day 'Arsh' of thy Lord eight (angels)."
+    Quran, 69:13-17
+
 After the first blow, everything on the Earth will be destroyed. And the heavens will be rolled up.
 
     The day when, We shall roll up the heavens as a recorder rolls up a written scroll. As We began the first creation We shall repeat it.
@@ -8919,11 +8922,26 @@ There is a hadith with a weak chain of narrations:
 >
 > In another version, eight angels who carry the Throne of Allah die before the Angel of Death.
 
+    And they say: 'When is this promise (going to happen), if you are truthful?'
+ 
+    “They wait not but for a single (terrible) cry which will seize them while they will be wrangling with each other. Then they shall not be able to make a bequest, nor shall they (be able to) return to their families.
+    Quran, surah 39
+
+“And the Trumpet will be blown; then lo! they shall hasten from (their) graves unto their Lord.
+ 
+“They shall say: 'Oh, Woe unto us! Who did raise us up from our place of repose?' (Qur’an, 39:67-75)
+ 
+
 </details><details><summary>
 
 ## Second blow of the trumpet (Resurrection of the Dead)
 
 </summary>
+
+    "This is what the Beneficent (Allah) had promised, and the Messengers did speak the truth."
+ 
+    "There will be but a single cry, when lo! They shall all be brought unto Us. So, this day no soul shall be dealt with unjustly in the least, noi shall you be recompensed but that which you were doing."
+    Quran, surah Yaseen (Yaseen) 36:48-54
 
     And man (mockingly) asks: "Will I really be raised back to life after I die?"
     Does man not remember that We created him (once) before, when he was nothing?
@@ -9051,7 +9069,15 @@ For the mumin the Day will be like the time between Asr and Maghrib.
 Hadith from Abu Huraira:
 > Anyone who owns gold or silver that he doesn't pay zakat on it, that zakat will turn into fire that will be used to burn his sides in a day that will stretch to 50 thousand years. Then he will see whether he will go to Heaven or Hell.
 
-There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long.
+There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long day.
+
+
+Hadith:
+> Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
+
+The sun is rolled up, stars are diminished, mountaines are moving in motion, when all realtionships are broken and suspended, when all animals will be gathered together, when oceans will become flames, when souls are paired up, when a child that was killed will be asked why was she killed and buried alive, when your scrolls that remained hidden are made public. when the sky is peeled away, when the fire is set ablaze, Jamah is brought close. On that Day every soul will have in front of him what that souls prepared for the Day of Judgement.
+
+People will run around and they will not care about their brothers, wives or relatives. People will be silent, they will not be allowed to speak. Only walking feat or mumbling will be heard. Only prophets will be allowed to speak that Day.
 
 ### Heaven will split open
 
@@ -9165,16 +9191,15 @@ The following version appears in Sahih Bukhari:
 
 </details><details><summary>
 
-## Intercessions
+## Shafaah (Intercessions)
 
 </summary>
 
-Hadith:
-> Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
+    "There is no intercessor except after His permission"
+    Quran, surah Yunus (Jonas) 10:3
 
-The sun is rolled up, stars are diminished, mountaines are moving in motion, when all realtionships are broken and suspended, when all animals will be gathered together, when oceans will become flames, when souls are paired up, when a child that was killed will be asked why was she killed and buried alive, when your scrolls that remained hidden are made public. when the sky is peeled away, when the fire is set ablaze, Jamah is brought close. On that Day every soul will have in front of him what that souls prepared for the Day of Judgement.
-
-People will run around and they will not care about their brothers, wives or relatives. People will be silent, they will not be allowed to speak. Only walking feat or mumbling will be heard. Only prophets will be allowed to speak that Day.
+    "And they do not intercede except for whom He approves, and for fear of Him they tremble" 
+    Quran, surah Saba (Sheba) 34:23
 
 And then will be the intercession of prophet Muhammad SAW.
 
@@ -9233,6 +9258,12 @@ There are several narrations that some of the people who ended up in Jahannam wi
 ## The Mizan (The Scale)
 
 </summary>
+
+    "And the earth will shine with the light of its Lord, and the record [of deeds] will be placed, and the prophets and the witnesses will be brought, and it will be judged between them in truth, and they will not be wronged."
+    Quran, surah Az-Zumar 39:69
+
+    "And every soul will be fully compensated [for] what it did; and He is most knowing of what they do."
+    Quran, surah Az-Zumar 39:70
 
 At the Mizan, the separation of the righteous and the damned will take place.
 
@@ -9399,6 +9430,12 @@ Dwellers of Hell will argue among each other.
 
     They will say, ‘ Did there not come to you your messengers with clear proofs?’ They will say, ‘ Yes.’ They will reply, ‘ Then supplicate [yourselves], but the supplication of the disbelievers is not except in error.’
     Quran, surah Ghafir (The Forgiver) 40:46-50
+
+    "And those who disbelieved will be driven to Hell in groups until, when they reach it, its gates are opened and its keepers will say, "Did there not come to you messengers from yourselves, reciting to you the verses of your Lord and warning you of the meeting of this Day of yours?" They will say, "Yes, but the word of punishment has come into effect upon the disbelievers."
+    Quran, surah Az-Zumar 39:71
+
+    "[To them] it will be said, "Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant.""
+    Quran, surah Az-Zumar 39:72
 
 </details><details><summary>
 
