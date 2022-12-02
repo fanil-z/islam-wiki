@@ -8846,6 +8846,10 @@ On the other hand, a Hadeeth reads: "Then the Trumpet will be blown, and no one 
 
 After the first blow, everything on the Earth will be destroyed. And the heavens will be rolled up.
 
+An earthquake will flatten the earth; mountains, rivers, valleys and depressions, all will disappear. A flat earth will re-emerge, which will be the 'Mah-shar', i.e., the Place of Gathering. 
+
+The sun, moon and stars also will lose their lustre and light.
+
     The day when, We shall roll up the heavens as a recorder rolls up a written scroll. As We began the first creation We shall repeat it.
     Quran, surah Al-Anbiyaa (The Prophets) 21:104
 
@@ -8854,6 +8858,12 @@ After the first blow, everything on the Earth will be destroyed. And the heavens
 
     When the sky will be like molten copper and the hills will be like flakes of wool.
     Quran, surah Al-Maarij (The Ascending Stairways) 70:8-9
+
+    "The Day when the earth will be changed to a different earth, and so will be the heavens; and (men) will be marshalled forth before Allah, The One, The Subduer."
+    Quran, surah Ibrahim (Abraham) 14:48
+ 
+    "They ask thee concerning the mountains; say, 'My Lord will uproot them and scatter them as dust, thus He will leave them as smooth and level plains; Thou wilt not see in their place anything crooked or curved."
+    Quran, surah Taahaa (Taahaa) 20:105-107
 
 I've come across this interesting theory of physics of Destruction of the earth on the Day of Judgement: [Physics of the Day of Judgement](https://www.islamicity.org/6377/the-physics-of-the-day-of-judgement/).
 
@@ -8927,16 +8937,16 @@ There is a hadith with a weak chain of narrations:
     “They wait not but for a single (terrible) cry which will seize them while they will be wrangling with each other. Then they shall not be able to make a bequest, nor shall they (be able to) return to their families.
     Quran, surah 39
 
-“And the Trumpet will be blown; then lo! they shall hasten from (their) graves unto their Lord.
- 
-“They shall say: 'Oh, Woe unto us! Who did raise us up from our place of repose?' (Qur’an, 39:67-75)
- 
-
 </details><details><summary>
 
 ## Second blow of the trumpet (Resurrection of the Dead)
 
 </summary>
+
+    And the Trumpet will be blown; then lo! they shall hasten from (their) graves unto their Lord.
+ 
+    They shall say: "Oh, Woe unto us! Who did raise us up from our place of repose?"
+    Quran, surah Az-Zumar (The Groups) 39:67-75
 
     "This is what the Beneficent (Allah) had promised, and the Messengers did speak the truth."
  
@@ -9092,13 +9102,21 @@ People will run around and they will not care about their brothers, wives or rel
 
 ### The Day will last like 50 thousand years
 
-    "The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years."
+As the earth and heavens will change, and the sun and stars will die, the 'Time' also will change.
+
+    "The angels and the Spirit [Jibril] will ascend to Him during a Day the extent of which is fifty thousand years."
     Quran, surah Al-Ma’arij (The Ways of Ascent) 70:4
 
 ### Everyone will be silent
 
     The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.
     Quran, surah An-Naba (The Great News) 78:38
+
+Imam Muhammad Baqir (A) said:
+“When the Day of Resurrection will come, Allah will gather the people in one (vast) field; they will be barefooted, naked; then they will be made to stand in the gathering place (Mah-shar) till they will sweat profusely, and the breathing will come heavy, they will remain in that condition for fifty years as Allah says:
+
+    "And the voices will be subdued for the Merciful (Allah), so that thou will not hear but a whisper." 
+    Quran, surah Taha (Taha) 20:108
 
 </details><details><summary>
 
@@ -9213,6 +9231,41 @@ Abu Umamah (May Allah be pleased with him) reported:
 > I heard the Messenger of Allah ﷺ   saying, “Read the Quran, for it will come as an intercessor for its reciters on the Day of Resurrection.” 
 > [Muslim]
 
+### People will be collected by the ummahs
+
+Hadhrat Fatima Zahra(A) asked her Father (SAW): “O Father tell me what will be (the condition of) people on the Day of Qiyamat?” The Holy Prophet (SAW.) said:
+“O Fatimah! Every one will be busy (i.e., one will be submerged in one's worries). Thus nobody will look towards anyone-neither father towards his son nor the son towards his mother.”
+
+Hadhrat Fatima (A) asked: “Will there be shrouds on them when they will come out of the graves?” The Holy Prophet (SAW) said: “O Fatimah! Shrouds will perish, and the bodies will be preserved; (but) the private parts of a believer will remain hidden, while those of the unbelievers will be without any cover.”
+
+Hadhrat Fatima (A): “O Father! What will be the cover of the believers?”.
+ 
+The Holy Prophet (S): “A Light, dazzling in brilliance, their bodies will not be seen because of that Light.”
+Fatimah (A): “O Father! Where should I meet you on the Day of Qiyamat?”
+ 
+The Holy Prophet (S): “Look (for me) near the Weighing scale and I shall be entreating, 'My Lord! Increase the weight of (the good deeds of) him who solemnly declared that there is no god except Allah'; and look (for me) near the Books (of deeds) when the scrolls (of deeds) will be distributed, and I will be pleading, 'My Lord! Take account of my Ummat (people) leniently'! And look (for me) at the place of my intercession near the bridge of Jahannam (Hell) when every man will be busy in his own aflairs (with his own soul) and I will be preoccupied with (the salvation of) my Ummat, praying, 'My Lord! Save my Ummat'; and the prophets (will be) around me praying 'Our Lord! Save the Ummat of Muhammad'.” 
+
+### Questioning of Prophets and their Ummah
+
+Before questioning the people, Allah, in His Justice, will first of all, ask the Prophets and Imams whether they had truly conveyed the message of Allah to their people.
+ 
+When the Prophets will affirm that they had indeed done so, they will be asked to produce their witness. They will declare that Hadhrat Muhammad Mustafa (S) is their witness. The Holy Prophet of Islam will testify on their behalf; and after establishing the fact that the prophets had really conveyed the message of Allah to their peoples, questions will be put to the people as to how they received that message and how they followed it.
+
+Some Ayats, which mention one or the other aspect of this event are given here for guidance:
+
+    "The Day when Allah will gather the Messengers together and ask: 'What was the response you received?' They will say: 'We have no knowledge (Thou knowest better than we!), verily, Thou art the Knower of (all that is) hidden'."
+    Quran, surah Al-Maaida (The Table) 5:109
+ 
+    "So, surely, shall We question those to whom (the prophets) were sent, and surely We shall question the Messengers."
+    Quran, surah Al-Araf (The Heights) 7:6
+ 
+Addressing the Holy Prophet (S), Allah says: 
+
+    "Then, how will it be when We will bring a witness from every Ummat, and will bring thee as witness over those witnesses."
+    Quran, surah An-Nisa (The Women) 4:41
+ 
+The witness over the people are the prophets, and our Holy Prophet (S) will be the prophets' witness.
+
 </details><details><summary>
 
 ## The Judgement
@@ -9253,6 +9306,7 @@ The angel that guards the gates of Heaven will ask: "Who is there?". The prophet
 
 There are several narrations that some of the people who ended up in Jahannam will be allowed to enter Jannah after some time passes and their sins are burned. They will be placed into the river of Jannah where they will regain their shape and start living in Jannah.
 
+Some people go to Jannah without hisab.
 <details><summary>
 
 ## The Mizan (The Scale)
