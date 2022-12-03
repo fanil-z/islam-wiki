@@ -9133,6 +9133,19 @@ People will somehow see their deeds. Good deeds and bad deeds of a person will b
 
 People will be all gathered in a white space without mountains naked. And they will have to handle between each other all their debts, all unfinished business.
 
+Every criminal every tyrant will be marked and stamped. everyone's sin will be revealed unless Allah choses to hide some of them.
+everyone will come out of their graves.
+
+Jinns and every animal will be resurrected as well. 
+
+The prophet (ﷺ   ) said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
+
+When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this " I swear by Allah Jibreel never saw Allah before that Day.
+
+People will hear Jahannah roar and it will have desire to take the sinners.
+
+People will have their good deeds on the right side and their bad deeds on the left side. 
+
 > The Hadith as narrated by Jābir ibn Abdullah.
 >
 > It reached me that a man heard a Hadith from the Messenger of Allah ﷺ  , so I purchased a camel, then traveled quickly to him. I travelled for one month until I reached Sham.
@@ -9245,6 +9258,8 @@ Fatimah (A): “O Father! Where should I meet you on the Day of Qiyamat?”
  
 The Holy Prophet (S): “Look (for me) near the Weighing scale and I shall be entreating, 'My Lord! Increase the weight of (the good deeds of) him who solemnly declared that there is no god except Allah'; and look (for me) near the Books (of deeds) when the scrolls (of deeds) will be distributed, and I will be pleading, 'My Lord! Take account of my Ummat (people) leniently'! And look (for me) at the place of my intercession near the bridge of Jahannam (Hell) when every man will be busy in his own aflairs (with his own soul) and I will be preoccupied with (the salvation of) my Ummat, praying, 'My Lord! Save my Ummat'; and the prophets (will be) around me praying 'Our Lord! Save the Ummat of Muhammad'.” 
 
+The prophet Muhammad SAW will recognize Muslims because of Wudu. There is a hadith about black horses with white spots.
+
 ### Questioning of Prophets and their Ummah
 
 Before questioning the people, Allah, in His Justice, will first of all, ask the Prophets and Imams whether they had truly conveyed the message of Allah to their people.
@@ -9278,26 +9293,6 @@ Diagram of the "Plain of Assembly" (Ard al-Hashr) on the Day of Judgment, from a
 
 The Judgement will not begin until thousands of years people will wait. 
 
-the prophet Muhammad SAW will recognize Muslims because of Wudu.
-
-Every criminal every tyrant will be marked and stamped. everyone's sin will be revealed unless Allah choses to hide some of them.
-everyone will come out of their graves.
-
-Jinns and every animal will be resurrected as well. 
-
-The prophet (ﷺ   ) said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
-
-When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this " I swear by Allah Jibreel never  ﷺ    Allah before that Day.
-
-People will come to Adam and ask him to interrogate but he will reject it. and after Nuh, Musa, Isa and some others, people will come to the prophet Muhammad. and he will say that is my task.
-
-There will be pool from Al Kawthar near the prophet Muhammad, and it will be allowed to sincere Muslims to drink from it.
-Allah says in the Quran that He has already gifted the prophet Muhammad Al Kawthar, the main river of Jannah. It's water is pure white and whoever drinks for it will not feel thirst for thousands of years.
-
-People will hear Jahannah roar and it will have desire to take the sinners.
-
-People will have their good deeds on the right side and their bad deeds on the left side. 
-
 It will be the time of Ultimate Justice. Allah's promise will be fulfilled for everyone.
 
 People will have pass through the Sirat bridge above Jahannam. and it will be easy to pass for good people and it will be difficult to pass for bad people and they will fall to Jahannam. Animals sacrificed in the name of Allah will assist people to pass the Sirat.
@@ -9306,7 +9301,6 @@ The angel that guards the gates of Heaven will ask: "Who is there?". The prophet
 
 There are several narrations that some of the people who ended up in Jahannam will be allowed to enter Jannah after some time passes and their sins are burned. They will be placed into the river of Jannah where they will regain their shape and start living in Jannah.
 
-Some people go to Jannah without hisab.
 <details><summary>
 
 ## The Mizan (The Scale)
@@ -9321,15 +9315,63 @@ Some people go to Jannah without hisab.
 
 At the Mizan, the separation of the righteous and the damned will take place.
 
+There is a small group of people who will go to Jannah without hisab.
+
 At divine judgment, the resurrected will stand in a grand assembly, each person's Book of Deeds -- where "every small and great thing is recorded" -- will be read, and ultimate judgment made. The resurrected will then walk over the bridge of As-Sirāt, those judged worthy for the Garden continuing to their heavenly abode, those damned to The Fire, falling off the bridge into the pit of Jahannam. There will also be a punishment of the grave (for those who disbelieved) between death and the resurrection.
 
 Not everyone consigned to hell will remain there, as it is believed by both scholars and lay Muslims that "all but the mushrikun, those who have committed the worst sin of impugning the tawḥīd of God, have the possibility of being saved;" and God's intercession to save sinners from hellfire is a "major theme" in popular Islamic stories about Judgement Day.
 
+### People's Deeds
+
+As an outline, the translation of relevant paragraphs from 'Itiquadiyyah' of Shaykh as-Saduq is given here (with some relevant verses in brackets):
+ 
+“Our faith concerning the writing of Deeds: It is our faith that there are two angels deputed on every servant of Allah; they write down each and every deed he performs.
+ 
+“And if someone intends to do a good deed but does not do it, one virtue (of good intention) is written in his record; and if he performed that good deed, ten virtues are written (to his credit). And if someone intends to do an evil deed (but does not do it) nothing is written against him, till he actually does that evil deed. Even after doing that, he is given seven hours grace. If he repents then nothing is written against him. But if he did not repent in that time, only one evil act is written against him.
+
+(As Allah says in the Qur'an: “He who brought one good deed, for him are ten like it; and he who brought one evil deed, he will not be paid but only its equal).” (Qur’an, 6:160)
+ 
+“And the two angels write every thing, even blowing into ash. (As Allah says: “And on you are the guards, noble writers, they know whatever you do.”) (Qur’an, 82:10-12)
+ 
+“And Amiru'l-Mu'minin (Ali) once passed near a person who was talking vain words; Amiru'l-Mu'minin (Ali) said: 'O man! Verily, you are dictating a book to your angels which will be taken to your Lord; therefore, talk only what is useful to you, and leave useless talks.'
+ 
+“Also he said: 'A Muslim is recorded as engaged in good deeds as long as he remains silent. Then when he talks, he is counted either as a virtuous man or an evil-doer (according to what he says.)”
+ 
+“And the place of the two angels is the collar-bone: the one on the right side writes good deeds, and the one on the left writes evil deeds. And the two angels of the day write his actions during day-time; and the two angels of the night write his deeds during the night. 
+
+### Everyone will receive a scroll with all his deeds
+
+Imam Ja'far as Sadiq (A) said: “On the Day of Judgement, a man will be given his scroll, to read. Then Allah will make him remember: there will be not a single look, or a single word, or a single step, or anything which he had done but that he will remember as though he had done it that very moment. It is for this reason that they will say: “O Woe unto us! What is about this book: it had not left any small or big thing without recording it thoroughly.” 
+
+The distribution of the scrolls is mentioned in many Ayats. Those whose good deeds exceed the bad will be given their scroll in their right hands: those whose bad deeds outweigh their good deeds will receive it in their left hands.
+ 
+Their respective reactions are mentioned in these Ayats:
+“The Day that you shall be brought to Judgement; no secret of yours shall remain hidden. Then he that shall be given his book in his right hand will say: 'Ah here! Read you my book. I did really believe that my accounts will (one day) reach me.' So he will be in a life of Bliss, in a Garden on high, the fruits whereof (will hang in bunches) low and near. Eat and drink, with full satisfaction (in reward) of the (good) that you sent before you, in the days that are gone.
+ 
+“But he that will be given his records in his left hand, will say: 'Ah! Would that my record had not been given to me! And that I had never known what my account was! Ah! Would that the (death) had made an end of me! Of no profit to me had been my wealth! My power has gone from me! (The stern command will be issued:) 'Seize you him and bind him, burn him in the blazing fire.” (Qur’an, 69:18-31)
+
 ### People's organs will testify against their owners
 
-    On this Day We will seal their mouths, their hands will speak to Us, and their feet will testify to what they used to commit.
-    Had We willed, We could have easily blinded their eyes, so they would struggle to find their way. How then could they see?
+    On this Day We will seal their mouths, their hands will speak to Us, and their feet will bear witness to what they used to commit.
     Quran, surah Faatir (The Originator) 36:65-66
+
+While the “People of Right Hand' will be happy and well-pleased with the outcome of their belief and actions, the 'People of Left Hand' will try to find some loop-holes in the overwhelming adverse records. Some of them will deny that they had done any of the things mentioned in those records. Then the Angels (who had written those records) will testify against them.
+The culprits will say: “O Lord! Thy Angels are testifying to please Thee.” Finally, they will swear that they had not done any of the bad things recorded therein. Allah refers to it in the Qur'an in these words:
+“The Day Allah will resurrect them all, then they will swear before Him as they swear before you.” (Qur’an, 58:18)
+ 
+Then they will be silenced, and their limbs will speak against them. The following Ayats are about this aspect of Qiyamat:
+ 
+    "On the Day when their tongues, and their hands, and their feet will testify against them about their actions. On that Day Allah will pay them back their just dues, and they will realize that Allah is the Truth that makes all things manifest."
+    Quran, 24:24-25
+
+    "On the Day that the enemies of Allah will be gathered together to the Fire, they will be marched in ranks. At length, when they reach the (Fire), their hearings, and their sights, and their skins will bear witness against them as to their deeds. They will say to their skins: 'Why bear you witness against us?' The (limbs) will say: 'Allah gave us speech - He who gives speech to every thing. He created you for the first time, and unto Him you were to return. You did not seek to hide yourselves, lest your hearing and your eyes and your skins should bear witness against you! But you did think that Allah knew not many of the things that you used to do! And that thought of yours which you did entertain concerning your Lord, has brought you to destruction, and now you have become of those utterly lost."
+    Quran, 41:19-23
+ 
+In a long Hadith, The Holy Prophet (S) has said: 
+
+> “As Allah has commanded you to safeguard yourselves and your religion and your wealth by getting witnesses of approved probity for your affairs, in the same way He has made sure about the affairs of His servants, by keeping witnesses on them. Thus there are for Allah on every being guards from among His various creations, and there are (angels) in succession in front of and behind him, and they guard him by order of Allah and note down whatever he does - his actions, words and looks. And the places where he lives are the witnesses of Allah, for or against him; And the nights, days and months are His witnesses, for or against him; and the Guardian (Angels) who write his deeds are His witnesses, for or against him.
+>
+> “Therefore,  how  many  on  the  Day  of  Qiyamat  will  be  pleased  by  the  testimonies  of  those witnesses  for  them?  And  how  many  on  the  day  of  Qiyamat  will  be  disgraced by the testimony of those witnesses against them? 
 
 </details></details><details><summary>
 
@@ -9519,7 +9561,9 @@ Then bridge of Qantarah to allow people complete their arguments. People will fo
 
 </summary>
 
-Whoever drinks from Kawthar will not feel thirst ever again.
+There will be pool from Al Kawthar near the prophet Muhammad, and it will be allowed to sincere Muslims to drink from it.
+
+Allah says in the Quran that He has already gifted the prophet Muhammad Al Kawthar, the main river of Jannah. It's water is pure white and whoever drinks for it will not feel thirst for thousands of years.
 
 > Narrated Sahl ibn Sa'd : I heard the Prophet saying, "I am your predecessor at the Lake-Fount (Kauthar), and whoever will come to it, will drink from it, and whoever will drink from it, will never become thirsty after that. There will come to me some people whom I know and they know me, and then a barrier will be set up between me and them." Abu Sa'id Al-Khudri added that the Prophet further said: "I will say those people are from me. It will be said, 'You do not know what changes and new things they did after you.' Then I will say, 'Far removed (from mercy), far removed (from mercy), those who changed (the religion) after me! "
 
