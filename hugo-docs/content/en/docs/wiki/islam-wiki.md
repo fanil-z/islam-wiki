@@ -8943,6 +8943,8 @@ There is a hadith with a weak chain of narrations:
 
 </summary>
 
+At the second blow of The Trumpet, everyone will come out of their graves. Humans, jinns and every animal will be resurrected.
+
     And the Trumpet will be blown; then lo! they shall hasten from (their) graves unto their Lord.
  
     They shall say: "Oh, Woe unto us! Who did raise us up from our place of repose?"
@@ -9124,6 +9126,8 @@ Imam Muhammad Baqir (A) said:
 
 </summary>
 
+Al-Mawqif (The Plains of Judgement Day)
+
 Qiyamah literally means "to stand up" or "to prepare". There are three reasons why the Day of Judgment was given this name. First, we stand up to Allah on that day and are held accountable. Secondly, people will be brought to testify against each other and will get up on that day to do so. Finally, on that Day, the balance will be prepared to weigh the good deeds and the sins.
 
 People will somehow see their deeds. Good deeds and bad deeds of a person will become as some sort currency.
@@ -9133,14 +9137,11 @@ People will somehow see their deeds. Good deeds and bad deeds of a person will b
 
 People will be all gathered in a white space without mountains naked. And they will have to handle between each other all their debts, all unfinished business.
 
-Every criminal every tyrant will be marked and stamped. everyone's sin will be revealed unless Allah choses to hide some of them.
-everyone will come out of their graves.
+Every criminal every tyrant will be marked and stamped. everyone's sin will be revealed unless Allah choses to hide some of them. 
 
-Jinns and every animal will be resurrected as well. 
+The prophet ﷺ   said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
 
-The prophet (ﷺ   ) said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
-
-When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this " I swear by Allah Jibreel never saw Allah before that Day.
+When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this "I swear by Allah Jibreel never saw Allah before that Day."
 
 People will hear Jahannah roar and it will have desire to take the sinners.
 
@@ -9157,10 +9158,25 @@ People will have their good deeds on the right side and their bad deeds on the l
 > Abdullah ibn Unays said, “I heard the Messenger of Allah ﷺ  , ‘The people will be gathered on the Day of Standing—and he pointed with his hand towards Sham. They will be gathered naked, uncircumcised, and buhman.’ We said, ‘And what is buhman?’ He ﷺ   replied, ‘They will not have anything with them. Then a Caller will call out with a voice heard equally by those far and near (saying), ‘I am the King, I am the Reckoner. It is not befitting that anyone from the inhabitants of the Hellfire should enter the Hellfire while someone from the inhabitants of Paradise owes him a right, until he settles it. And it is not befitting that anyone from the inhabitants of Paradise enters Paradise while someone from the inhabitants of the Hellfire owes him a right, until he settles it, even if it is only a slap.’’ We said, ‘And how will this be, when we will stand before Allah, naked, uncircumcised, without anything?’ He ﷺ   replied, ‘With good deeds and bad deeds.’”
 > Al-Adab Al-Mufrad, #970, declared Hasan by al-Albani
 
-Not only people and jinn but also animals will settle their debts.
+Not only people and jinn but also animals will settle their debts. Animals will be then turned to dust. And some of disbelievers will say "I wish we were turned into dust like them."
 
 > Abu Hurairah (May Allah bepleased with him) reported: Messenger of Allah (sallallaahu alayhi wa sallam) said, “On the Resurrection Day, the rights will be paid to those to whom they are due so much so that a hornless sheep will be retaliated for by punishing the horned sheep which broke its horns”.
 [Muslim].
+
+
+
+Then people will recognise each other and catch each other, till everyone has found the person (s) who had done any wrong to him.
+ 
+They will remain in that condition as long as Allah would wish; their condition will become tough, sweat will pour down from them, and their grief will increase; and their cries will rise high and loud: many of them will be ready to forgive their oppressors just to get away from that place.
+”…………'(Then an announcer will say)': 'Verily Allah tells you, 'I am the Giver; if you wish to forgive each other, do so; and if anybody does not want to forgive, I will surely get his recompense from his oppressor.” Many will forgive their dues; but there will remain many who would not forgive.
+ 
+Then Ridhwan (the Angel who manages the Paradise) will be called, and Allah will command him to raise before them a palace, made of silver, with all its paraphernalia, from the palaces of Paradise. The people will be told to raise their eyes and look at it. Everyone will covet it.
+ 
+'Then an announcer will declare from Allah: 'O creatures! It is for anyone who forgives a believer.' A great many will forgive their dues to their oppressors. Still a few will not do so.
+ 
+“Then Allah will say: 'No one who did wrong to another will go to my Paradise today. And no such person will be sent towards Hell who has to repay any due to a Muslim, before repaying it at the time of 'reckoning' O my creatures! Be ready for Reckoning.'
+ 
+Then they will be allowed to proceed. till they reach the field (of Mah-shar). and the Books will be laid open (given to the people), and weighing-scales will be set
 
 </details><details><summary>
 
@@ -9244,7 +9260,19 @@ Abu Umamah (May Allah be pleased with him) reported:
 > I heard the Messenger of Allah ﷺ   saying, “Read the Quran, for it will come as an intercessor for its reciters on the Day of Resurrection.” 
 > [Muslim]
 
-### People will be collected by the ummahs
+### People will be gathered by the ummahs
+
+The Qur'an al-karim says (what means): `"You all will come in groups"` (An-Naba' 18).
+
+The meaning of this Quranic verse was asked to our master the Prophet, and he explained it at length. It was stated that people would come to the Gathering Place in various forms according to their deeds. The following is said at the end of the hadith-i sharif:
+
+> The ones who will be in the shape of monkeys will be those who carry one's talk to the other. The ones who will be in the shape of pigs will be eaters of haram. The ones who will move on their heads will be eaters of interest. The ones who will be blind will be those who do injustice when passing judgment. The ones who will be dumb and deaf will be those who have a high opinion of their deeds. The ones whose tongues will hang down to their chests will be scholars who do not practice what they preach. The ones whose hands and feet will be cut off will be those who harass their neighbors. The ones who will come spreading obnoxious smell will be those who drink, who commit fornication, and who do not pay the zakat. The ones who will be wearing garments made of tar will be those who are arrogant and conceited toward people. May Allahu ta'ala protect from them all. [Tibyan]
+
+It is also reported that there will be people who will come to the Gathering Place by assuming different forms in addition to the mentioned ones. However, it should be noted that the points explained above concern people who commit sins and have died without making repentance for them. Those who have made repentance or those whose rewards are more than their sins will not be brought to the Gathering Place in such forms.
+
+Mahshar is the place where the people who were resurrected will come out of their graves and gather. People will be questioned in that place, their books of deeds will be given to them; after their deeds are weighed, they will cross a thin bridge called Sirat; and then, they will go to either Paradise or Hell.
+
+[This might be at the beginning of the gathering..]
 
 Hadhrat Fatima Zahra(A) asked her Father (SAW): “O Father tell me what will be (the condition of) people on the Day of Qiyamat?” The Holy Prophet (SAW.) said:
 “O Fatimah! Every one will be busy (i.e., one will be submerged in one's worries). Thus nobody will look towards anyone-neither father towards his son nor the son towards his mother.”
@@ -9303,9 +9331,12 @@ There are several narrations that some of the people who ended up in Jahannam wi
 
 <details><summary>
 
-## The Mizan (The Scale)
+## The Hisab and The Mizan (The Scale)
 
 </summary>
+
+    Certainly, to us is their return, then certainly upon us is their reckoning.
+    Quran, surah al-Ghāshiyah, 88:25-26
 
     "And the earth will shine with the light of its Lord, and the record [of deeds] will be placed, and the prophets and the witnesses will be brought, and it will be judged between them in truth, and they will not be wronged."
     Quran, surah Az-Zumar 39:69
@@ -9315,11 +9346,36 @@ There are several narrations that some of the people who ended up in Jahannam wi
 
 At the Mizan, the separation of the righteous and the damned will take place.
 
-There is a small group of people who will go to Jannah without hisab.
+According to some scholars, the Hisab will take place after people get the scroll with their deeds. Another group of scholars say that the hisab and the sukhuf (getting scrolls of deeds) are simultaneous events.
+
+Kurtubi said that there will be three groups at the Hisab stage. 
+1. There will be a small group of people who will go to Jannah without hisab. There is a hadith that it will be 70 thousand Muslims.
+2. Some people will get an easy hisab.
+3. Others will have a difficult hisab.
+
+The prophets will have another kind of hisab. Allah will ask the prophets what response did you get from your nation.
+
+The hisab for the believers will be private. And the hisab for disbelievers will be public and humiliating.
 
 At divine judgment, the resurrected will stand in a grand assembly, each person's Book of Deeds -- where "every small and great thing is recorded" -- will be read, and ultimate judgment made. The resurrected will then walk over the bridge of As-Sirāt, those judged worthy for the Garden continuing to their heavenly abode, those damned to The Fire, falling off the bridge into the pit of Jahannam. There will also be a punishment of the grave (for those who disbelieved) between death and the resurrection.
 
 Not everyone consigned to hell will remain there, as it is believed by both scholars and lay Muslims that "all but the mushrikun, those who have committed the worst sin of impugning the tawḥīd of God, have the possibility of being saved;" and God's intercession to save sinners from hellfire is a "major theme" in popular Islamic stories about Judgement Day.
+
+Allah will give the deeds a sort of material form, and that will be weighed in weighing-scales, created for the purpose.  
+
+Whatever the meaning of 'scale', Justice of Allah will always be there.
+
+The word 'Mizan' (Scale) has one essential meaning (the device, standard and principle by which other things may be judged, measured or weighed); that essential meaning may take any of the forms (measures to find out length, weight, volume, mass, time, heat and various other such items); it may even be a device without any material form: like 'logic' which is also called 'Mizan' because it weighs the correctness (or otherwise) of an argument, and 'prosody' which determines the correctness (or otherwise) of metre of poetry.
+
+Thus, we have 'Mizan' of various shapes and types to 'measure' various things: there is the rain-gauge to measure rain-fell, seismograph to measure earthquake, ECG, to measure electrical impulses in the heart-muscles.
+ 
+On the Day of Qiyamat, people will be judged according to their belief or disbelief and their good or evil deeds.
+
+### If a believer repented and compensated for his sin
+
+If a believer had committed a sin and was fully punished for it during his lifetime on earth, that sin would not be brought up again for reckoning (because Allah is Just and does not punish twice for one thing.) If he had committed a sin against another creature of Allah, it will not be pardoned by Allah; he will have to repay it (or seek pardon from the wronged party). If he had committed a sin against Allah (but no creature of Allah was wronged by it), and then had done Tawba (had repented), then, in the words of Hadhrat Ali (A), “we hope that the Mercy of Allah will cover him, but, at the same time, we are afraid of His punishment to him.”
+ 
+On that Day, Allah will give His creatures opportunities to seek pardon from their fellows and forgive them.
 
 ### People's Deeds
 
@@ -9329,17 +9385,20 @@ As an outline, the translation of relevant paragraphs from 'Itiquadiyyah' of Sha
  
 “And if someone intends to do a good deed but does not do it, one virtue (of good intention) is written in his record; and if he performed that good deed, ten virtues are written (to his credit). And if someone intends to do an evil deed (but does not do it) nothing is written against him, till he actually does that evil deed. Even after doing that, he is given seven hours grace. If he repents then nothing is written against him. But if he did not repent in that time, only one evil act is written against him.
 
-(As Allah says in the Qur'an: “He who brought one good deed, for him are ten like it; and he who brought one evil deed, he will not be paid but only its equal).” (Qur’an, 6:160)
+As Allah says in the Qur'an: 
+
+    "He who brought one good deed, for him are ten like it; and he who brought one evil deed, he will not be paid but only its equal."
+    Quran, surah Al-Anaam (The Cattle) 6:160
  
-“And the two angels write every thing, even blowing into ash. (As Allah says: “And on you are the guards, noble writers, they know whatever you do.”) (Qur’an, 82:10-12)
+    And the two angels write every thing, even blowing into ash. (As Allah says: "And on you are the guards, noble writers, they know whatever you do."
+    Quran, surah Al-Infitaar (The Cleaving) 82:10-12
  
-“And Amiru'l-Mu'minin (Ali) once passed near a person who was talking vain words; Amiru'l-Mu'minin (Ali) said: 'O man! Verily, you are dictating a book to your angels which will be taken to your Lord; therefore, talk only what is useful to you, and leave useless talks.'
- 
-“Also he said: 'A Muslim is recorded as engaged in good deeds as long as he remains silent. Then when he talks, he is counted either as a virtuous man or an evil-doer (according to what he says.)”
- 
-“And the place of the two angels is the collar-bone: the one on the right side writes good deeds, and the one on the left writes evil deeds. And the two angels of the day write his actions during day-time; and the two angels of the night write his deeds during the night. 
+And Ali once passed near a person who was talking vain words; Ali said: 'O man! Verily, you are dictating a book to your angels which will be taken to your Lord; therefore, talk only what is useful to you, and leave useless talks.' Also he said: 'A Muslim is recorded as engaged in good deeds as long as he remains silent. Then when he talks, he is counted either as a virtuous man or an evil-doer (according to what he says.) And the place of the two angels is the collar-bone: the one on the right side writes good deeds, and the one on the left writes evil deeds. And the two angels of the day write his actions during day-time; and the two angels of the night write his deeds during the night. 
 
 ### Everyone will receive a scroll with all his deeds
+
+    Then as for he who is given his record in his right hand, he will be judged with an easy hisab (reckoning).
+    Quran, surah al-Inshiqāq, 84:7-8
 
 Imam Ja'far as Sadiq (A) said: “On the Day of Judgement, a man will be given his scroll, to read. Then Allah will make him remember: there will be not a single look, or a single word, or a single step, or anything which he had done but that he will remember as though he had done it that very moment. It is for this reason that they will say: “O Woe unto us! What is about this book: it had not left any small or big thing without recording it thoroughly.” 
 
@@ -9362,10 +9421,10 @@ The culprits will say: “O Lord! Thy Angels are testifying to please Thee.” F
 Then they will be silenced, and their limbs will speak against them. The following Ayats are about this aspect of Qiyamat:
  
     "On the Day when their tongues, and their hands, and their feet will testify against them about their actions. On that Day Allah will pay them back their just dues, and they will realize that Allah is the Truth that makes all things manifest."
-    Quran, 24:24-25
+    Quran, surah An-Nur (The Light) 24:24-25
 
     "On the Day that the enemies of Allah will be gathered together to the Fire, they will be marched in ranks. At length, when they reach the (Fire), their hearings, and their sights, and their skins will bear witness against them as to their deeds. They will say to their skins: 'Why bear you witness against us?' The (limbs) will say: 'Allah gave us speech - He who gives speech to every thing. He created you for the first time, and unto Him you were to return. You did not seek to hide yourselves, lest your hearing and your eyes and your skins should bear witness against you! But you did think that Allah knew not many of the things that you used to do! And that thought of yours which you did entertain concerning your Lord, has brought you to destruction, and now you have become of those utterly lost."
-    Quran, 41:19-23
+    Quran, surah Fussilat (Explained in Detail) 41:19-23
  
 In a long Hadith, The Holy Prophet (S) has said: 
 

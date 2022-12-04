@@ -1,6 +1,7 @@
 Sources used in the wiki:
 * [Quran (English translation)](https://quran.com/1)
-* Hadith collections like https://sunnah.com
+* Hadith collections, such as [https://sunnah.com](https://sunnah.com)
+* [The Day of Judgement (17 lectures by Yasir Qadhi)](https://www.youtube.com/playlist?list=PLYZxc42QNctXqgEpxF8L-ZItU3uBAjtOR)
 * [Seerah of the Prophet Muhammad by Yasir Qadhi (114 lectures)](https://www.youtube.com/watch?v=VOUp3ZZ9t3A&list=PLAEA99D24CA2F9A8F)
 * "Islam. A Short History" by Karen Armstrong
 * "Muhammad: His Life Based on the Earliest Sources" by Martin Lings
@@ -9,6 +10,7 @@ Sources used in the wiki:
 * Most of the seerah are based on ibn Hisham's book, which is the short version of Ibn Iskhak's book
 * [Quranic Ayah divided into themes](https://quranverses.net/category/the-pillars-of-faith/)
 * [Good collection of prophets' stories](https://www.alim.org/history/prophet-stories/1/)
+
 
 * Wikipedia
 
