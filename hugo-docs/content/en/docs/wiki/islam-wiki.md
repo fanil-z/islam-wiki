@@ -2354,7 +2354,7 @@ The Quran states that Musa was sent by God to confront the erstwhile (pharaoh) o
 
 </details><details><summary>
   
-## Musa confronts pharaoh's sourcerers
+## Musa confronts pharaoh's sourcerers 🧙🏻🧙🏻🐍
 
 </summary>
   
@@ -3106,7 +3106,7 @@ In the biblical narrative he is a disciple and protégé of Elijah, and after El
 
 </details><details><summary>
 
-## Yunus (Jonah) and The Big Fish 🐳
+## Yunus (Jonah) and The Big Fish 🧍‍🐳
 
 </summary>
 
@@ -7104,7 +7104,7 @@ Ibn Hisham is Muhammad ibn Iskhak's student.
 
 </details></details><details><summary>
 
-# 8.5 The Islamic Golden Age
+# 8.5 The Islamic Golden Age 📚🕌⚗️🏆
 *******************************************
 
 </summary><details><summary> 
@@ -8341,7 +8341,7 @@ Huzaifah bin Al-Yaman said, the Prophet ﷺ   said,
 
 </details><details><summary>
 
-## The Kaaba is destroyed
+## The Kaaba is destroyed 🕋💥
 
 </summary>
 
@@ -8409,7 +8409,7 @@ The Day of Judgment will occur a long time later than the Day of Resurrection.
 *******************************************
 <details><summary>
 
-## Death. What happens when people die
+## Death. What happens when people die ☠️
 
 </summary><details><summary>
 
@@ -8837,7 +8837,7 @@ On the other hand, a Hadeeth reads: "Then the Trumpet will be blown, and no one 
 
 </details><details><summary>
 
-## The Earth is destroyed
+## The Earth is destroyed 🌎💥
 
 </summary>
 
@@ -9083,6 +9083,7 @@ Hadith from Abu Huraira:
 
 There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long day.
 
+People will hear Jahannah roar and it will have desire to take the sinners.
 
 Hadith:
 > Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
@@ -9090,17 +9091,6 @@ Hadith:
 The sun is rolled up, stars are diminished, mountaines are moving in motion, when all realtionships are broken and suspended, when all animals will be gathered together, when oceans will become flames, when souls are paired up, when a child that was killed will be asked why was she killed and buried alive, when your scrolls that remained hidden are made public. when the sky is peeled away, when the fire is set ablaze, Jamah is brought close. On that Day every soul will have in front of him what that souls prepared for the Day of Judgement.
 
 People will run around and they will not care about their brothers, wives or relatives. People will be silent, they will not be allowed to speak. Only walking feat or mumbling will be heard. Only prophets will be allowed to speak that Day.
-
-### Heaven will split open
-
-    "And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent."
-    Quran, surah Al-Furqan (The Criterion) 25:25
-
-### God and Ranks of Angels
-
-    "No! When the earth has been leveled – pounded and crushed 
-    And your Lord has come and the angels, rank upon rank"
-    Quran, surah Al-Fajr (The Dawn) 89:21-22
 
 ### The Day will last like 50 thousand years
 
@@ -9122,65 +9112,7 @@ Imam Muhammad Baqir (A) said:
 
 </details><details><summary>
 
-## People settle their debts among each other
-
-</summary>
-
-Al-Mawqif (The Plains of Judgement Day)
-
-Qiyamah literally means "to stand up" or "to prepare". There are three reasons why the Day of Judgment was given this name. First, we stand up to Allah on that day and are held accountable. Secondly, people will be brought to testify against each other and will get up on that day to do so. Finally, on that Day, the balance will be prepared to weigh the good deeds and the sins.
-
-People will somehow see their deeds. Good deeds and bad deeds of a person will become as some sort currency.
-
-    We warn you of doom at hand. A day when a man will look on that his own hand has sent before, And the non-believers will cry: "Wish that we were dust." 
-    Quran, surah An-Naba (The Announcement) 78:40
-
-People will be all gathered in a white space without mountains naked. And they will have to handle between each other all their debts, all unfinished business.
-
-Every criminal every tyrant will be marked and stamped. everyone's sin will be revealed unless Allah choses to hide some of them. 
-
-The prophet ﷺ   said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
-
-When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this "I swear by Allah Jibreel never saw Allah before that Day."
-
-People will hear Jahannah roar and it will have desire to take the sinners.
-
-People will have their good deeds on the right side and their bad deeds on the left side. 
-
-> The Hadith as narrated by Jābir ibn Abdullah.
->
-> It reached me that a man heard a Hadith from the Messenger of Allah ﷺ  , so I purchased a camel, then traveled quickly to him. I travelled for one month until I reached Sham.
->
-> The man was Abdullah ibn Unays. I said to the doorman, tell him Jābir is at the door. He replied, “Ibn Abdullah?” I said, “Yes.” He came out dragging his thobe. He hugged me and I hugged him.
->
-> I said to him, “It has reached me that there is a Hadith which you heard from the Messenger of Allah ﷺ   concerning the retribution. I was afraid that you might die, or I might die before I heard it.”
->
-> Abdullah ibn Unays said, “I heard the Messenger of Allah ﷺ  , ‘The people will be gathered on the Day of Standing—and he pointed with his hand towards Sham. They will be gathered naked, uncircumcised, and buhman.’ We said, ‘And what is buhman?’ He ﷺ   replied, ‘They will not have anything with them. Then a Caller will call out with a voice heard equally by those far and near (saying), ‘I am the King, I am the Reckoner. It is not befitting that anyone from the inhabitants of the Hellfire should enter the Hellfire while someone from the inhabitants of Paradise owes him a right, until he settles it. And it is not befitting that anyone from the inhabitants of Paradise enters Paradise while someone from the inhabitants of the Hellfire owes him a right, until he settles it, even if it is only a slap.’’ We said, ‘And how will this be, when we will stand before Allah, naked, uncircumcised, without anything?’ He ﷺ   replied, ‘With good deeds and bad deeds.’”
-> Al-Adab Al-Mufrad, #970, declared Hasan by al-Albani
-
-Not only people and jinn but also animals will settle their debts. Animals will be then turned to dust. And some of disbelievers will say "I wish we were turned into dust like them."
-
-> Abu Hurairah (May Allah bepleased with him) reported: Messenger of Allah (sallallaahu alayhi wa sallam) said, “On the Resurrection Day, the rights will be paid to those to whom they are due so much so that a hornless sheep will be retaliated for by punishing the horned sheep which broke its horns”.
-[Muslim].
-
-
-
-Then people will recognise each other and catch each other, till everyone has found the person (s) who had done any wrong to him.
- 
-They will remain in that condition as long as Allah would wish; their condition will become tough, sweat will pour down from them, and their grief will increase; and their cries will rise high and loud: many of them will be ready to forgive their oppressors just to get away from that place.
-”…………'(Then an announcer will say)': 'Verily Allah tells you, 'I am the Giver; if you wish to forgive each other, do so; and if anybody does not want to forgive, I will surely get his recompense from his oppressor.” Many will forgive their dues; but there will remain many who would not forgive.
- 
-Then Ridhwan (the Angel who manages the Paradise) will be called, and Allah will command him to raise before them a palace, made of silver, with all its paraphernalia, from the palaces of Paradise. The people will be told to raise their eyes and look at it. Everyone will covet it.
- 
-'Then an announcer will declare from Allah: 'O creatures! It is for anyone who forgives a believer.' A great many will forgive their dues to their oppressors. Still a few will not do so.
- 
-“Then Allah will say: 'No one who did wrong to another will go to my Paradise today. And no such person will be sent towards Hell who has to repay any due to a Muslim, before repaying it at the time of 'reckoning' O my creatures! Be ready for Reckoning.'
- 
-Then they will be allowed to proceed. till they reach the field (of Mah-shar). and the Books will be laid open (given to the people), and weighing-scales will be set
-
-</details><details><summary>
-
-## People ask prophet Muhammad ﷺ   to speak to God
+## People ask prophets to speak to God
 
 </summary>
 
@@ -9235,6 +9167,27 @@ The following version appears in Sahih Bukhari:
 > Then he said, “By the One in whose control my life is, the distance between the two door panels of the doors of Jannah is the distance between Makkah and Himyar (Yemen) or Makkah and Busra (in Sham).”
 >
 > Sahih Bukhari, Hadith: 4712
+
+</details><details><summary>
+
+## The Coming of Allah
+
+</summary>
+
+### Heaven will split open
+
+    "And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent."
+    Quran, surah Al-Furqan (The Criterion) 25:25
+
+### God and Ranks of Angels
+
+    "No! When the earth has been leveled – pounded and crushed 
+    And your Lord has come and the angels, rank upon rank"
+    Quran, surah Al-Fajr (The Dawn) 89:21-22
+
+The prophet ﷺ   said As we all come back, the earth is flattened out of the glory and obedience to Allah SWT and each and every single person will not be able to move from the spot that they are standing in the place of assembly. And I would be the first person to be called to Allah and fall in prostration.
+
+When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this "I swear by Allah Jibreel never saw Allah before that Day."
 
 </details><details><summary>
 
@@ -9331,7 +9284,7 @@ There are several narrations that some of the people who ended up in Jahannam wi
 
 <details><summary>
 
-## The Hisab and The Mizan (The Scale)
+## The Hisab and The Mizan ⚖️ (The Scales)
 
 </summary>
 
@@ -9346,7 +9299,9 @@ There are several narrations that some of the people who ended up in Jahannam wi
 
 At the Mizan, the separation of the righteous and the damned will take place.
 
-According to some scholars, the Hisab will take place after people get the scroll with their deeds. Another group of scholars say that the hisab and the sukhuf (getting scrolls of deeds) are simultaneous events.
+According to some scholars, the Hisab will take place after people get the scroll with their deeds. Another group of scholars say that the hisab and the sukhuf (getting scrolls of deeds) are simultaneous events. 
+
+People will have their good deeds on the right side and their bad deeds on the left side. 
 
 Kurtubi said that there will be three groups at the Hisab stage. 
 1. There will be a small group of people who will go to Jannah without hisab. There is a hadith that it will be 70 thousand Muslims.
@@ -9356,6 +9311,14 @@ Kurtubi said that there will be three groups at the Hisab stage.
 The prophets will have another kind of hisab. Allah will ask the prophets what response did you get from your nation.
 
 The hisab for the believers will be private. And the hisab for disbelievers will be public and humiliating.
+
+The Prophet (PBUH) informed us that men will definitely be questioned of the following five things on the Day of Judgment:
+
+1. Where they spent their life
+2. Where they spent their youth
+3. Where they earned their property
+4. Where they spent their property
+5. Whether they applied what they knew or not
 
 At divine judgment, the resurrected will stand in a grand assembly, each person's Book of Deeds -- where "every small and great thing is recorded" -- will be read, and ultimate judgment made. The resurrected will then walk over the bridge of As-Sirāt, those judged worthy for the Garden continuing to their heavenly abode, those damned to The Fire, falling off the bridge into the pit of Jahannam. There will also be a punishment of the grave (for those who disbelieved) between death and the resurrection.
 
@@ -9370,6 +9333,8 @@ The word 'Mizan' (Scale) has one essential meaning (the device, standard and pri
 Thus, we have 'Mizan' of various shapes and types to 'measure' various things: there is the rain-gauge to measure rain-fell, seismograph to measure earthquake, ECG, to measure electrical impulses in the heart-muscles.
  
 On the Day of Qiyamat, people will be judged according to their belief or disbelief and their good or evil deeds.
+
+The first matter of hisab will be person's salah (prayers).
 
 ### If a believer repented and compensated for his sin
 
@@ -9434,7 +9399,45 @@ In a long Hadith, The Holy Prophet (S) has said:
 
 </details></details><details><summary>
 
-## Sirat bridge over Hell
+## People settle their debts among each other
+
+</summary>
+
+Al-Mawqif (The Plains of Judgement Day)
+
+Qiyamah literally means "to stand up" or "to prepare". There are three reasons why the Day of Judgment was given this name. First, we stand up to Allah on that day and are held accountable. Secondly, people will be brought to testify against each other and will get up on that day to do so. Finally, on that Day, the balance will be prepared to weigh the good deeds and the sins.
+
+People will somehow see their deeds. Good deeds and bad deeds of a person will become as some sort currency.
+
+    We warn you of doom at hand. A day when a man will look on that his own hand has sent before, And the non-believers will cry: "Wish that we were dust." 
+    Quran, surah An-Naba (The Announcement) 78:40
+
+People will be all gathered in a white space without mountains naked. And they will have to handle between each other all their debts, all unfinished business.
+
+Every criminal every tyrant will be marked and stamped. everyone's sin will be revealed unless Allah choses to hide some of them. 
+
+
+> The Hadith as narrated by Jābir ibn Abdullah.
+>
+> It reached me that a man heard a Hadith from the Messenger of Allah ﷺ  , so I purchased a camel, then traveled quickly to him. I travelled for one month until I reached Sham.
+>
+> The man was Abdullah ibn Unays. I said to the doorman, tell him Jābir is at the door. He replied, “Ibn Abdullah?” I said, “Yes.” He came out dragging his thobe. He hugged me and I hugged him.
+>
+> I said to him, “It has reached me that there is a Hadith which you heard from the Messenger of Allah ﷺ   concerning the retribution. I was afraid that you might die, or I might die before I heard it.”
+>
+> Abdullah ibn Unays said, “I heard the Messenger of Allah ﷺ  , ‘The people will be gathered on the Day of Standing—and he pointed with his hand towards Sham. They will be gathered naked, uncircumcised, and buhman.’ We said, ‘And what is buhman?’ He ﷺ   replied, ‘They will not have anything with them. Then a Caller will call out with a voice heard equally by those far and near (saying), ‘I am the King, I am the Reckoner. It is not befitting that anyone from the inhabitants of the Hellfire should enter the Hellfire while someone from the inhabitants of Paradise owes him a right, until he settles it. And it is not befitting that anyone from the inhabitants of Paradise enters Paradise while someone from the inhabitants of the Hellfire owes him a right, until he settles it, even if it is only a slap.’’ We said, ‘And how will this be, when we will stand before Allah, naked, uncircumcised, without anything?’ He ﷺ   replied, ‘With good deeds and bad deeds.’”
+> Al-Adab Al-Mufrad, #970, declared Hasan by al-Albani
+
+Not only people and jinn but also animals will settle their debts. Animals will be then turned to dust. And some of disbelievers will say "I wish we were turned into dust like them."
+
+> Abu Hurairah (May Allah bepleased with him) reported: Messenger of Allah (sallallaahu alayhi wa sallam) said, “On the Resurrection Day, the rights will be paid to those to whom they are due so much so that a hornless sheep will be retaliated for by punishing the horned sheep which broke its horns”.
+[Muslim].
+
+Then people will recognise each other and catch each other, till everyone has found the person (s) who had done any wrong to him.
+
+</details><details><summary>
+
+## Sirat bridge over Hell 🌉
 
 </summary>
 
@@ -9543,7 +9546,7 @@ When the believers cross the siraat, they will come to two springs of water; the
 
 </details><details><summary>
 
-## Those who fall into Flames
+## Those who fall into Flames 🔥🔥
 
 </summary>
    
