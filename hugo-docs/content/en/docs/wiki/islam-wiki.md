@@ -801,7 +801,7 @@ Allah gave Adam knowledge and taught him names. One of the version of interpreta
 
 Angels asked Allah why He want to send to Earth humans knowing that they will transgress. Allahﷻ   told angels that He knows what they know not.
 
-And Allahﷻ   made all children of Adam as souls to testify that their Lord is Allah.
+And Allahﷻ   made all children of Adam as souls to testify that their Lord is Allah.  
 
     And ˹remember˺ when your Lord brought forth from the loins of the children of Adam their descendants and had them testify regarding themselves. ˹Allah asked,˺ "Am I not your Lord?" They replied, "Yes, You are! We testify." ˹He cautioned,˺ "Now you have no right to say on Judgment Day, "We were of this unaware."
     Quran, surah Al-A'raf (The Heights)
@@ -809,6 +809,8 @@ And Allahﷻ   made all children of Adam as souls to testify that their Lord is 
 It is the fitrah (natural inclination/sound human nature) which is instilled in our souls and hearts, that drives us to believe in Allah and long to know Him, may He be glorified. In fact, it reaches the level of urgency that pushes and compels us to acknowledge that the Creator, may He be glorified and exalted, is the only, perfect Lord Who bestows His blessings upon us and upon all other created beings.
 
 This spiritual and rational urge (to believe in Allah) is the strongest factor that prompts man to believe in Allah and affirm His Oneness, because it is usually stronger than any other impulses that may lead man to fall into ignorance and doubt. Often this urge (to believe) may overwhelm a person and make him realise the belief in divine Oneness (Tawheed) deep in his heart at times of crisis and calamity, even if the one who still has that sound natural inclination (fitrah) is pretending today to be an atheist. The call of Tawheed is still urging him from deep inside to believe, because of this natural inclination (fitrah) which is the first covenant taken from the sons of Adam.
+
+This also means that souls of humans are created right after Adam. But at that time souls did not have a physical body.
 
 ### Characteristics of Adam
 
@@ -9221,6 +9223,8 @@ The meaning of this Quranic verse was asked to our master the Prophet, and he ex
 
 > The ones who will be in the shape of monkeys will be those who carry one's talk to the other. The ones who will be in the shape of pigs will be eaters of haram. The ones who will move on their heads will be eaters of interest. The ones who will be blind will be those who do injustice when passing judgment. The ones who will be dumb and deaf will be those who have a high opinion of their deeds. The ones whose tongues will hang down to their chests will be scholars who do not practice what they preach. The ones whose hands and feet will be cut off will be those who harass their neighbors. The ones who will come spreading obnoxious smell will be those who drink, who commit fornication, and who do not pay the zakat. The ones who will be wearing garments made of tar will be those who are arrogant and conceited toward people. May Allahu ta'ala protect from them all. [Tibyan]
 
+All people will be gathered and displayed in front of Allah.
+
 It is also reported that there will be people who will come to the Gathering Place by assuming different forms in addition to the mentioned ones. However, it should be noted that the points explained above concern people who commit sins and have died without making repentance for them. Those who have made repentance or those whose rewards are more than their sins will not be brought to the Gathering Place in such forms.
 
 Mahshar is the place where the people who were resurrected will come out of their graves and gather. People will be questioned in that place, their books of deeds will be given to them; after their deeds are weighed, they will cross a thin bridge called Sirat; and then, they will go to either Paradise or Hell.
@@ -9336,6 +9340,14 @@ On the Day of Qiyamat, people will be judged according to their belief or disbel
 
 The first matter of hisab will be person's salah (prayers).
 
+Jibril will be the one who brings the scales. The Scales will be placed in front of Allah's Throne. On the right side will be Jannah, and on the left side will be Jahannam.
+
+Imam Kurtubi says that the mizan will occur after the Hisab.
+
+The opinion of many scholars is that the Mizan will be only for those who have faith in their heart. For others, there will be no hope.
+
+"The heaviest thing on the Day of Judgement will be good manners."
+
 ### If a believer repented and compensated for his sin
 
 If a believer had committed a sin and was fully punished for it during his lifetime on earth, that sin would not be brought up again for reckoning (because Allah is Just and does not punish twice for one thing.) If he had committed a sin against another creature of Allah, it will not be pardoned by Allah; he will have to repay it (or seek pardon from the wronged party). If he had committed a sin against Allah (but no creature of Allah was wronged by it), and then had done Tawba (had repented), then, in the words of Hadhrat Ali (A), “we hope that the Mercy of Allah will cover him, but, at the same time, we are afraid of His punishment to him.”
@@ -9448,6 +9460,8 @@ Although the term the "Bridge of Sirat" hasn’t been used in the Quran, it has 
 For further explanation we will note some points regarding the word "Sirat". "Sirat" literally means way and path and what is meant by the term "Al-Siratul Mustaqim" that is mentioned in some Quranic verses is the right and straight path of guidance in this world that if one follows, will also remain on in the hereafter, and that if he strays from in this world, will stray from in the hereafter likewise.
 
 People will need to cross the bridge (Sirat) that lays above Jahannam (hell). Those who were rightheous believers will cross the bridge and enter Paradise. Those who were unreighteous disbelievers in this life will fall and the hellfire will take them.
+
+There is a hadith that says the Sirat bridge will be placed over Jahannam, which may indicate that the bridge will appear at some point in time during The Day of Judgement.
 
 The Prophet Muhammad ﷺ   is waiting on the other side of Sirat with a cup of water from his fountain (Kawthar).
 
@@ -9726,5 +9740,106 @@ Allah says I will be forever pleased with you. and people will see Allah. There'
           
     [And] "Peace," a word from the Merciful Lord.
     Quran, surah Ya-seen (Yaseen) 36:55-58
+
+</details><details><summary>
+
+## Judgement Day in The Bible
+
+</summary>
+
+The verses of the Bible about the Day of Judgement are worth mentioning. In some places, I deliberately missed the parts that talk about our beloved prophet Isa (Jesus) (peace be upon him) as a son of God. We, as Muslims, believe that he was one of the greatest human beings and the messiah of God.
+
+> “Then I saw a great white throne and Him who sat on it, from whose face the earth and the heaven fled away. And there was found no place for them. And I saw the dead, small and great, standing before God and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books.”
+>
+> Revelation 20:11-15
+
+
+According to Jewish belief, the Day of Judgement, or Yawm ad-Din, will occur after the coming of the Messiah.
+
+Jews believe that God judges how good or bad people have been in order to decide their destiny in the afterlife. This is often seen as motivation to behave well and obey all of God’s rules.
+
+
+> For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.
+>
+> Ecclesiastes 12:14
+
+Some Jews believe that they will be judged as soon as they die, while others believe that they will be judged by both God and the Messiah on the Day of Judgement. On this day, some Jews believe that everyone will be resurrected so that they can be judged, while others believe that only those who are morally good will be resurrected.
+
+> Multitudes who sleep in the dust of the earth will awake; some to everlasting life, others to shame and everlasting contempt.
+> 
+> Daniel 12:2
+
+
+> Therefore judge nothing before the appointed time; wait until the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of the heart. At that time each will receive their praise from God.
+> Corinthians 4:5
+
+
+> But I tell you that everyone will have to give account on the day of judgment for every empty word they have spoken.
+>
+> Matthew 12:36
+
+
+"But about that day or hour no one knows, not even the angels in heaven, nor [Jesus], but only [God]."
+Matthew 24:36
+
+
+> He summons the heavens above, and the earth, that he may judge his people:
+> Psalms 50:4
+
+
+> Let all creation rejoice before the LORD, for he comes, he comes to judge the earth. He will judge the world in righteousness and the peoples in his faithfulness.
+> Psalms 96:13
+
+
+> ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.”
+> Revelation 21:4
+
+
+> Doom has come upon you, upon you who dwell in the land. The time has come! The day is near! There is panic, not joy, on the mountains.
+>
+> I am about to pour out my wrath on you and spend my anger against you. I will judge you according to your conduct and repay you for all your detestable practices.
+>
+> Ezekiel 7:7-8
+
+> 11 Then I saw a great white throne and him who was seated on it. The earth and the heavens fled from his presence, and there was no place for them.
+>
+> 12 And I saw the dead, great and small, standing before the throne, and books were opened. Another book was opened, which is the book of life. The dead were judged according to what they had done as recorded in the books.
+>
+> 13 The sea gave up the dead that were in it, and death and Hades gave up the dead that were in them, and each person was judged according to what they had done.
+>
+> 14 Then death and Hades were thrown into the lake of fire. The lake of fire is the second death.
+>
+> 15 Anyone whose name was not found written in the book of life was thrown into the lake of fire.
+>
+> Revelation 20:11-15
+
+Hades, in the Greek Old Testament, translation of the Hebrew Sheol, the dwelling place of the dead.
+
+
+> Why do you pass judgment on your brother? Or you, why do you despise your brother? For we will all stand before the judgment seat of God;
+>
+> Romans 14:10 
+
+
+> Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain. And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years, and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while. Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded [...], and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands...
+>
+> Revelation 20:1-15 
+
+> ... and all the angels with him, then he will sit on his glorious throne. Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats. And he will place the sheep on his right, but the goats on the left. 
+>
+> Matthew 25:31-46
+
+> “Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from [your Father] God who is in heaven. “Thus, when you give to the needy, sound no trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may be praised by others. Truly, I say to you, they have received their reward. But when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. And [your Father] God who sees in secret will reward you. “And when you pray, you must not be like the hypocrites. For they love to stand and pray in the synagogues and at the street corners, that they may be seen by others. Truly, I say to you, they have received their reward. ...
+>
+> Matthew 6:1-34 
+
+> For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you.
+>
+> Matthew 7:2
+
+> But the day of the Lord will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed. Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness, waiting for and hastening the coming of the day of God, because of which the heavens will be set on fire and dissolved, and the heavenly bodies will melt as they burn! But according to his promise we are waiting for new heavens and a new earth in which righteousness dwells.
+>
+> Peter 3:10-13
+
 
 </details>
