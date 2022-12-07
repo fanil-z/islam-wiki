@@ -8781,7 +8781,7 @@ As Saffaranini said there will be 8 things:
 * Second blow of the Trumpet: Resurrection (Al Baghf)
 * Coming out of the grave and running aroung (An Nushurr)
 * The gathering (Al Hashshar)
-* Al Quyama -- The standing up
+* Al Qiyama -- The standing up
 * The showing of the deeds (Al Ard)
 * The judgement on the left and right side (Hisab)
 * The Scales (Al Mizan)
@@ -9779,19 +9779,23 @@ Some Jews believe that they will be judged as soon as they die, while others bel
 > Matthew 12:36
 
 
-"But about that day or hour no one knows, not even the angels in heaven, nor [Jesus], but only [God]."
-Matthew 24:36
+> "But about that day or hour no one knows, not even the angels in heaven, nor [Jesus], but only [God]."
+>
+> Matthew 24:36
 
 
 > He summons the heavens above, and the earth, that he may judge his people:
+>
 > Psalms 50:4
 
 
 > Let all creation rejoice before the LORD, for he comes, he comes to judge the earth. He will judge the world in righteousness and the peoples in his faithfulness.
+>
 > Psalms 96:13
 
 
 > ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.”
+>
 > Revelation 21:4
 
 
@@ -9841,5 +9845,170 @@ Hades, in the Greek Old Testament, translation of the Hebrew Sheol, the dwelling
 >
 > Peter 3:10-13
 
+
+> In just a little while, the wicked will be no more; though you look carefully at his place, he will not be there. But the meek shall inherit the land and delight themselves in abundant peace. The wicked plots against the righteous and gnashes his teeth at him, but the Lord laughs at the wicked, for he sees that his day is coming.
+>
+> Psalm 37:10-13
+
+> But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed.
+>
+> Romans 2:5
+
+> “As I looked, thrones were placed, and the Ancient of Days took his seat; his clothing was white as snow, and the hair of his head like pure wool; his throne was fiery flames; its wheels were burning fire. A stream of fire issued and came out from before him; a thousand thousands served him, and ten thousand times ten thousand stood before him; the court sat in judgment, and the books were opened.
+>
+> Daniel 7:9-10
+
+> A Psalm of David. The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul. He leads me in paths of righteousness for his name's sake. Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows. ...
+>
+> Psalm 23:1-6
+
+> I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book,
+>
+> Revelation 22:18
+
+> Let marriage be held in honor among all, and let the marriage bed be undefiled, for God will judge the sexually immoral and adulterous.
+>
+> Hebrews 13:4
+
+
+> “Judge not, and you will not be judged; condemn not, and you will not be condemned; forgive, and you will be forgiven;
+>
+> Luke 6:37
+
+
+> “There was a rich man who was clothed in purple and fine linen and who feasted sumptuously every day. And at his gate was laid a poor man named Lazarus, covered with sores, who desired to be fed with what fell from the rich man's table. Moreover, even the dogs came and licked his sores. The poor man died and was carried by the angels to Abraham's side. The rich man also died and was buried, and in Hades, being in torment, he lifted up his eyes and saw Abraham far off and Lazarus at his side. ...
+>
+> Luke 16:19-31
+
+
+> And these will go away into eternal punishment, but the righteous into eternal life.”
+>
+> Matthew 25:46
+
+> So speak and so act as those who are to be judged under the law of liberty. For judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment.
+>
+> James 2:12-13
+
+> And the sea gave up the dead who were in it, Death and Hades gave up the dead who were in them, and they were judged, each one of them, according to what they had done.
+>
+> Revelation 20:13
+
+
+> “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
+>
+> Matthew 7:21-23
+
+> And if anyone will not receive you or listen to your words, shake off the dust from your feet when you leave that house or town. Truly, I say to you, it will be more bearable on the day of judgment for the land of Sodom and Gomorrah than for that town.
+>
+> Matthew 10:14-15
+
+
+> The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels.
+>
+> Revelation 3:5
+
+
+> Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?
+>
+> Matthew 7:3
+
+> My soul yearns for you in the night; my spirit within me earnestly seeks you. For when your judgments are in the earth, the inhabitants of the world learn righteousness.
+>
+> Isaiah 26:9
+
+> Then the King will say to those on his right, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world.
+>
+> Matthew 25:34
+
+> And if anyone's name was not found written in the book of life, he was thrown into the lake of fire.
+>
+> Revelation 20:15
+
+
+> Then I saw a great white throne and him who was seated on it. From his presence earth and sky fled away, and no place was found for them. And I saw the dead, great and small, standing before the throne, and books were opened. Then another book was opened, which is the book of life. And the dead were judged by what was written in the books, according to what they had done.
+>
+> Revelation 20:11-12
+
+
+> So it will be at the close of the age. The angels will come out and separate the evil from the righteous
+>
+> Matthew 13:49
+
+> His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire.”
+>
+> Matthew 3:12
+
+> Just as the weeds are gathered and burned with fire, so will it be at the close of the age.
+>
+> Matthew 13:40
+
+> The nations raged, but your wrath came, and the time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth.”
+>
+> Revelation 11:18
+
+
+> Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls. And he will be upheld, for the Lord is able to make him stand.
+>
+> Romans 14:4
+
+
+> Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him.
+>
+> Romans 14:3
+
+
+> And in those days people will seek death and will not find it. They will long to die, but death will flee from them.
+>
+> Revelation 9:6
+
+
+> Every way of a man is right in his own eyes, but the Lord weighs the heart.
+>
+> Proverbs 21:2
+
+> For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit,
+>
+> Peter 3:18
+
+> And the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever.
+>
+> Revelation 20:10
+
+> It was also about these that Enoch, the seventh from Adam, prophesied, saying, “Behold, the Lord comes with ten thousands of his holy ones, to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him.”
+>
+> Jude 1:14-15
+
+> For false christs and false prophets will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect.
+>
+> Matthew 24:24
+
+> Rejoice, young man, during your childhood, and let your heart be pleasant during the days of young manhood. And follow the impulses of your heart and the desires of your eyes. Yet know that God will bring you to judgment for all these things.
+>
+> Ecclesiastes 11:9
+
+
+> But by His word the present heavens and earth are being reserved for fire, kept for the day of judgment and destruction of ungodly men.
+>
+> Peter 3:7
+
+
+> And inasmuch as it is appointed for men to die once and after this comes judgment,
+>
+> Hebrews 9:27
+
+
+> each man’s work will become evident; for the day will show it because it is to be revealed with fire, and the fire itself will test the quality of each man’s work.
+>
+> Corinthians 3:13
+
+
+> The sins of some men are quite evident, going before them to judgment; for others, their sins follow after.
+>
+> Timothy 5:24
+
+
+> The Queen of the South will rise up with this generation at the judgment and will condemn it, because she came from the ends of the earth to hear the wisdom of Solomon; and behold, something greater than Solomon is here.
+>
+> Matthew 12:42
 
 </details>
