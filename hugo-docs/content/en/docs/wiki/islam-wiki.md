@@ -8974,6 +8974,8 @@ The second blow will signal the resurrection from the dead of all creatures that
 
 The dead will then be resurrected and Afterlife commence with yet another trumpet blast, (different sources give different numbers of trumpet blasts) The first to arise will be Muhammad, followed by the other members of the Muslim community. with all gathering at the place of assembly [al-maḥshar]. In between resurrection and the actual judgement will be an agonizing wait (Q.21:103, Q.37:20) for the unbelievers.
 
+Allah will send rain to the earth. The water of the rain will be something like sticky gooey substance. And through it and from it Allah will remake the bodies of men.
+
     The Supreme Horror ˹of that Day˺ will not disturb them, and the angels will greet them, ˹saying,˺ "This is your Day, which you have been promised."   
     Quran, surah Al-Anbiya (The Prophets) 21:103
 
@@ -9034,7 +9036,6 @@ Some people will be resurrected upside down. the prophet Muhammad said Allah who
 Surah Isra.
 some will be resureccted deaf and blind. some of those who rejected signs will be resurrected in this manner.
 
-People will see Jahannam.
 
 Ibn Abbas said that Judgement Day is a very very long day. It will feel like many many lifetimes. ibn Abbas said to the Harajite that the punishment willl be in stages.
 
@@ -9076,7 +9077,6 @@ surah Sajda verse 5. There shall be an ascent 1000 years.
 
 ibn Abbas said "La adri" -- "I do not know".
 
-Hadith says the Day of Judgement will be 1000 years of your comprehension.
 
 For the mumin the Day will be like the time between Asr and Maghrib.
 
@@ -9085,7 +9085,6 @@ Hadith from Abu Huraira:
 
 There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long day.
 
-People will hear Jahannah roar and it will have desire to take the sinners.
 
 Hadith:
 > Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
@@ -9191,6 +9190,12 @@ The prophet ﷺ   said As we all come back, the earth is flattened out of the gl
 
 When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this "I swear by Allah Jibreel never saw Allah before that Day."
 
+## Jahannam is brought near
+
+People will hear Jahannah roar and it will have desire to take the sinners.
+
+Jahannam is pulled with 70,000 chains trying to control it. and each chain is handled by 70,000 angels
+
 </details><details><summary>
 
 ## Shafaah (Intercessions)
@@ -9286,7 +9291,7 @@ The angel that guards the gates of Heaven will ask: "Who is there?". The prophet
 
 There are several narrations that some of the people who ended up in Jahannam will be allowed to enter Jannah after some time passes and their sins are burned. They will be placed into the river of Jannah where they will regain their shape and start living in Jannah.
 
-<details><summary>
+</details><details><summary>
 
 ## The Hisab and The Mizan ⚖️ (The Scales)
 
@@ -9409,7 +9414,7 @@ In a long Hadith, The Holy Prophet (S) has said:
 >
 > “Therefore,  how  many  on  the  Day  of  Qiyamat  will  be  pleased  by  the  testimonies  of  those witnesses  for  them?  And  how  many  on  the  day  of  Qiyamat  will  be  disgraced by the testimony of those witnesses against them? 
 
-</details></details><details><summary>
+</details><details><summary>
 
 ## People settle their debts among each other
 
@@ -9557,6 +9562,8 @@ When the believers cross the siraat, they will come to two springs of water; the
     And detain them, for they must be questioned."
     ˹Then they will be asked,˺ "What is the matter with you that you can no longer help each other?"
     Quran, surah As-Saaffaat (Those drawn up in Ranks) 37:21-25
+
+The hypocrites will say to the believers "Wait for us, give us some of your light." It will be said "Go back and search for the light for yourself."
 
 </details><details><summary>
 
@@ -9743,11 +9750,56 @@ Allah says I will be forever pleased with you. and people will see Allah. There'
 
 </details><details><summary>
 
-## Judgement Day in The Bible
-
+## Some notes on Biblical version of the Judgement Day
 </summary>
 
 The verses of the Bible about the Day of Judgement are worth mentioning. In some places, I deliberately missed the parts that talk about our beloved prophet Isa (Jesus) (peace be upon him) as a son of God. We, as Muslims, believe that he was one of the greatest human beings and the messiah of God.
+
+According to the Bible, The Judgment Day will reveal that God's justice will triumph over all the injustices committed by men and that His love will be stronger than death.
+
+> "My soul yearns for you in the night; in the morning my spirit longs for you. When your judgments come upon the earth, the people of the world learn righteousness." 
+>
+> Isaiah 26:9
+
+In the Bible verses, the Judgment Day corresponds to the parousia, the end time when Christ will return in His glory when the dead will be raised.
+
+A Christian thought designates the return of Christ to this earth, his second coming among men. The word parousia, which our versions usually translate as "coming", is found several times in the New Testament.
+
+Not everyone will want to do God's will, indeed, it says in the following bible verses:
+
+> "But when grace is shown to the wicked, they do not learn righteousness; even in a land of uprightness they go on doing evil and do not regard the majesty of the Lord."
+>
+> Isaiah 26:10
+
+> "Never again will there be in it an infant who lives but a few days or an old man who does not live out his years; the one who dies at a hundred will be thought a mere child; the one who fails to reach a hundred will be considered accursed." 
+>
+> Isaiah 65:20
+
+At the end of Judgment Day, those who survive will 'come to life' fully as perfect humans. (Revelation 20:5) In the land of righteousness, the wicked will be put to death. (1 Corinthians 15:24-28) So the Day of Judgment will see the return of mankind to its original perfection.
+
+(1 Corinthians 15:24-28) Then a final test will take place. (Revelation 20:3, 7-10) Satan will be released from his imprisonment and will be allowed to try to lead mankind astray one last time. (Revelation 20:3, 7-10)
+
+Those who resist him will experience the full realization of the Bible promise:
+
+"The righteous will inherit the land and dwell in it forever."
+Psalm 37:29
+
+### The Structure of the Heavenly Court (Christianity)
+
+1. The Judge -- God
+Psalm 50:6; Hebrew 12:23
+2. Jury -- 24 elders (?)
+Revelation 4:4
+3. Defendant (the accused) -- People
+Romans 3:10, 23; Romans 14:12; Jeremiah 32:19
+4. Defence Attorney (advocate) -- Jesus (Isa AS)
+John 2:1; Romans 8:34; Hebrews 7:25
+5. Prosecuting attorney -- Satan
+Revelation 12:10
+6. Witnesses -- Angels
+Revelation 5:11
+
+### Verses from Bible about the Day of Judgement
 
 > “Then I saw a great white throne and Him who sat on it, from whose face the earth and the heaven fled away. And there was found no place for them. And I saw the dead, small and great, standing before God and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books.”
 >
@@ -9771,6 +9823,7 @@ Some Jews believe that they will be judged as soon as they die, while others bel
 
 
 > Therefore judge nothing before the appointed time; wait until the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of the heart. At that time each will receive their praise from God.
+>
 > Corinthians 4:5
 
 
@@ -10007,8 +10060,19 @@ Hades, in the Greek Old Testament, translation of the Hebrew Sheol, the dwelling
 > Timothy 5:24
 
 
+> But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified.
+>
+> Corinthians 9:27
+
+
 > The Queen of the South will rise up with this generation at the judgment and will condemn it, because she came from the ends of the earth to hear the wisdom of Solomon; and behold, something greater than Solomon is here.
 >
 > Matthew 12:42
+
+
+> Blow a trumpet in Zion; sound an alarm on my holy mountain!
+>  Let all the inhabitants of the land tremble, for the day of the LORD is coming; it is near.
+>
+> Joel 2:1
 
 </details>
