@@ -115,12 +115,12 @@ details#level2[open] summary > * {
 }
 
 summary:hover {
-  background: #c9e5dd6b;
+  background: #c9e5dd6b !important;
   border-radius: 6px;
 }
 
 [data-dark-mode] summary:hover{
-  background:#213f3e;
+  background:#213f3e !important;
   border-radius: 6px;
 }
 

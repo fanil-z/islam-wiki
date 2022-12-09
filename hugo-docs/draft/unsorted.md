@@ -93,6 +93,11 @@ ledge not far above.
 
 🚸🏔️
 
+https://en.wikipedia.org/wiki/Meltwater_pulse_1B
+
+
+
+
 people will witness their janazah and the burial ceremony. and the burial itself.
 
 
@@ -498,3 +503,8 @@ Punishment can happen in this world and in the Hereafter.
 
 
 those believers who had committed so many sins that could not be wiped out by worldly troubles and agony of death. Now, if Allah decides that such a believer should come on the Day of Judgement clean from all blemishes and free from all sins, then He may put him under punishment during the Barzakh period. And it is this punishment which has been referred to in the Hadith of Imam Jafer Sadiq (A) which was mentioned earlier:
+
+
+website for questions about Judaism https://www.yeshiva.co/ask/7000
+
+Hadith says the Day of Judgement will be 1000 years of your comprehension.

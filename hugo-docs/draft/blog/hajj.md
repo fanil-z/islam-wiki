@@ -2,7 +2,12 @@
 draft: true
 
 ---
-<p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b>Ultimate Guide for Hajj </b> <div style="font-size: 1rem"> from a person who has never done hajj yet</div></p>
+<p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b>Ultimate Guide for Hajj </b> <div style="font-size: 1rem"> The Pilgrim's guide from a person who has never done hajj yet</div></p>
+
+# Overview
+-----------------------------------------------
+
+The Hajj to Mecca in Saudi Arabia is considered the world's largest human gathering with almost 2.5 million pilgrims in 2019.
 
 # Kaaba and Hajj Background
 -----------------------------------------------
@@ -117,8 +122,19 @@ I am in the place of Abraham and I am doing what Abraham did.
 ## Eid Al-Adha (Festival of Sacrifice)
 
 
+## What happened last year (in 2021)
 
+Last year, after 2 years of no-Hajj and one year of 2.6mln hajjis, Saudi Arabia decided to take over all organizational part in their own hands.
 
+8,500 euro for 2 weeks, and the "fancy hotel". But Wallahi, who needs a fancy hotel if you go to Hajj.
+
+registering on the website: https://www.motawif.com.sa/home/en-sa
+
+I've talked to 3 Hajj & Umrah agencies in Berlin and all three confirmed that Hajj of 2021 was a disaster and "miserable". Pretty much everyone was unhappy. The Agencies because they couldn't send organized groups; the hajji's because everything was disorganized, people got lost, didn't know what to do and some times relatives who came together were paced in different hotels and etc etc; and the Saudi Arabia wasn't happy because instead of 2.6 million only 800,000 hajjis came. So, hopefully, this year there will be some new rulings. Inshaallah.
+
+Egyptian brothers say that there is literraly a lottery played by the goverment and the winner goes to Mesjit Al-Haram.
+
+Still, the result is the same. You fulfill the fifth pillar of Islam. and if you've done everything right, then you are forgiven. and now you can start it over from a clean sheet of paper. and you followed the footsteps of our prophet Muhammad SAW. and you have been a guest of Ar Rahman Ar Raheem. Oh Allah, please accept our Hajj.
 
 # Reference
 

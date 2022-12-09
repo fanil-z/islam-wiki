@@ -21,6 +21,13 @@ cloudflare pages
 
 domain options
 
+mustaqeen.com
+
+alaqibata
+ahadunahad
+allathinaameenu
+alhisab.com
+
 gilmetdeen.com
 gilmetdeen.org
 gilmetdeen.info
@@ -31,23 +38,31 @@ huraira.info
 ## Description
 
 
-maybe make the first post short.
-yes
+
+When I started learning about Biblical and Islamic prophets, I had a hard time trying to figure out the historical order of stories from religious texts. Surahs of the Quran are not written in the chronological order either. So, in order to combine pieces together and get the whole picture, I have wrapped up my notes about Islam in a static website. 
+
+After testing several frameworks, I went forward with Hugo, which we also use  in MBition.
 
 
-Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts, our minds, and our dwellings.
-I wanted to have a better understanding so
+Hello everyone and Assalamu Aleikum, which means "peace be upon you" 🕊️.
 
-I have gathered stories of prophets from the Quran, hadith, tafsir, a small portion of the Old Testament using various open sources and wrapped up my notes in a static website.
-The website is build on Hugo and Hyas frameworks, pipelined and hosted on Render. Sources are written in Markdown.
-Our prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." I have had a good time trying to gather particles of an endless puzzle. It was good CSS/JS/Bootstrap practice. If God wills, I intend to continue and fix some bugs, finish the sections about death, the Apocalypse, and about what happens on the other side.
+From various open sources, I have gathered stories of prophets from the Quran, hadith, tafsir, a small portion of the Old Testament, arranged them in chronological order and wrapped up my notes in a static website.
+
+The website is built using Hugo and Hyas frameworks, pipelined and hosted on Render. Sources are written in Markdown. The website is static and the whole page is only 1.4KB, 60% of its weight is JavaScript and CSS overwritings that I need to fix. Hugo is a ridiculously fast static HTML generator, which we also use in MBition. It is open-source, flexible, has themes for user manuals and API references. 
+
+Our beloved prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." I guess this is my way of trying to get a better understanding of Islam. And I just had a good time trying to gather particles of an endless puzzle. There are still many gaps and CSS/JS bugs. If God wills, I intend to continue working on this wiki and improve it, especially sections about death and the Apocalypse.
+
+
+Maybe after Abdallah teaches me to properly read the Quran
+
 السلام عليكم ورحمة الله وبركاته
 
  after I learn to properly read the Quran.
-
+I wanted to have a better understanding so
 
  Abdallah teaches me to properly read the Quran.
 
+In our trying times and in any other time, let peace fill our hearts, our minds, and our dwellings.
 
 --------------------------------------------------------------------------
 
@@ -55,7 +70,7 @@ scripts take up to 400KB
 
 Hello everyone and Assalamu Aleikum, which means "peace be upon you". In our trying times and in any other time, let peace fill our hearts, our minds, and our dwellings.
 
-When I started learning about Biblical and Islamic prophets 4-5 years ago, I had a hard time trying to figure out the historical order of stories from religious texts. Surahs of the Quran are not written in the chronological order. I was struggling to get the whole picture, so in order to combine different pieces together, I have wrapped up my notes about Islam into a static website. The main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one place and sort them according to a historical timeline. Along the way, I had to add additional historic events that are not mentioned in the Quran but that affected and shaped the world as we see today.
+When I started learning about Biblical and Islamic prophets, I had a hard time trying to figure out the historical order of stories from religious texts. Surahs of the Quran are not written in the chronological order either. So, in order to combine pieces together and get the whole picture, I have wrapped up my notes about Islam in a static website. 
 
 After testing several frameworks, I went forward with Hugo, which we also use  in MBition. Hugo is an extremely fast static HTML generator. It is open-source, flexible, has themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
 
@@ -74,6 +89,12 @@ The core structure of this guide is based on narrations of the Quran. Tafsir and
 
 my notes on Yasir Qadhi's 114 lectures on seerah of the Prophet Muhammad SAW are scattered within corresponding sections. Some info is taken from Wikipedia, which is always helpful and well-structured. I tried to edit them, remove the parts that are not mentioned in The Quran or authentic hadiths, or parts that are too Shia. Also, I started to create summaries of some sections and reorganize them, but decided to publish it because I want to take a break and learn to properly read the Quran in Arabic.
 
+
+Along the way, I had to add additional historic events that are not mentioned in the Quran but that affected and shaped the world as we see today.
+
+Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
+
+The main idea was to gather and currate stories of all prophets mentioned in the Quran and sahih hadith in one place and sort them according to a historical timeline. 
 
 Islam teaches to finish what you started and there are still many bugs and I have to finish the most interesting sections: Al Qiyamat--the Eshcatonian part, about death and what happens on the other side. 
 
@@ -319,6 +340,7 @@ border-image-source: linear-gradient(
 
 JS scripts are in single.html. Need to transform them to separate scripts in the js folder.
 
+https://www.answering-islam.org/Quran/Science/moonlight_wc.html 
 
 
 

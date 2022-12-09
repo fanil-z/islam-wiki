@@ -4429,7 +4429,7 @@ Some narrations say she was 40, ibn Iskhak reports that Khadija was 28. They had
 
 ### Raising Ali
 
-According to early historical sources, Ali was born in Mecca on 13 Rajab c. 600 CE. About the birthplace of Ali ibn Abi Talib, many sources, especially Shia ones, attest that Ali was the only person who was born inside the Kaaba. His father, Abu Talib ibn Abd al-Muttalib, was the leader of the Banu Hashim clan of the Quraysh tribe. He was also Muhammad's uncle and raised him after his parents died. Later on, when Abu Talib became impoverished, Ali, who was five at the time, was taken home and raised by Muhammad and his wife, Khadija.
+According to early historical sources, Ali was born in Mecca on 13 Rajab c. 600 CE. About the birthplace of Ali ibn Abi Talib, many sources, especially Shia ones, attest that Ali was the only person who was born inside the Kaaba. His father, Abu Talib ibn Abd al-Muttalib, was the leader of the Banu Hashim clan of the Quraysh tribe. He was also Muhammad's uncle and raised him after his parents died. Later on, when Abu Talib became impoverished, Ali, who was five at the time, was taken home and raised by Muhammad and his wife, Khadija.
 
 When Ali was nine or ten, Muhammad announced that he had received a divine revelation (wahy), and Ali believed him and professed to Islam. He was one of the first believers.
 
@@ -4457,14 +4457,14 @@ They explained to him the problem. Muhammad ﷺ   took off his robe and lay it o
 
 Therefore, they lifted it all together to the position where the stone was to be laid, and Muhammad ﷺ   placed it in its place with his hands and they were all happy and satisfied. The argument ended in peace, by Allah’s wisdom, Abu Umayyah had the brains to think quickly and guided his people, and prophet Muhammad ﷺ   had the ability to judge and put them in the right direction that led to a peaceful solution. Tribes rejoiced for handling this issue without bloodshed.
 
-They changed the Kaaba:
+The Quraish changed the Kaaba:
 
 1. They could not build the foundation as the original Kaaba which was a rectanlge.
 2. made it higher
 3. made the door higher
 4. made the waterspout
 
-> There is a hadith that reports prophet Muhammad ﷺ   said: "I would rebuild the Kaaba on the original pillar of Ibrahim if people werenot so new to Islam".
+> There is a hadith that reports prophet Muhammad ﷺ   said: "I would rebuild the Kaaba on the original pillar of Ibrahim if people were not so new to Islam".
 
 </details><details><summary>
 
@@ -9480,57 +9480,48 @@ The Prophet Muhammad ﷺ   is waiting on the other side of Sirat with a cup of w
 > Source: Ṣaḥīḥ Muslim 183
 > Grade: Sahih (authentic) according to Muslim
 
-There are 7 stops and 7 queastions on the bridge.
+There are 7 stops and 7 questions on the bridge.
 
 Sirat is thin as a hair and sharp as a sword.
 
-some people will pass at the speed of light. Some will crawl till the end of the journey.
+Some people will pass at the speed of light. Some will crawl till the end of the journey. Many will fall.
 
-hadith says that the first one to pass the Sirat will be the prophet Muhammad and then his ummah.
+There will be hooks that will drag sinners down
 
-there will be hooks that will drag sinners down
+Hadith says that the first one to pass the Sirat will be the prophet Muhammad ﷺ   and then his ummah.
 
-The Hell will be asked "Are you full?". and the Hell will reply "Is there no more?"
+The Hell will be asked "Are you full?". And the Hell will reply "Is there no more?"
 
-
-Some people will not know that they crossed the Sirat and will ask the angels, "Where is the Sirat, and where is Hell? Did we cross over them?" Angels will answer, "You crossed the Sirat, which was over Hell. However, Hellfire receded and was covered because of your light."
-Jami-us-saghir
+> Some people will not know that they crossed the Sirat and will ask angels, "Where is the Sirat, and where is Hell? Did we cross over them?" Angels will answer, "You crossed the Sirat, which was over Hell. However, Hellfire receded and was covered because of your light."
+>
+> Jami-us-saghir
 
 The Hellfire will say to a believer, "O Believer! Go over me swiftly; your light diminishes my flames."
 
-believing in one God
-salat
-fasting
-zakat
-hajj
-rights of others and looking after our relatives
-cleanliness (ghusl)
 
-The siraat is a bridge that stretches over the Hellfire, and every soul ever created must walk on this bridge.    
 
- 
+The siraat is a bridge that stretches over the Hellfire, and every soul ever created must walk on this bridge. The verse in the Chapter of Maryam refers to the siraat: 
 
-The verse in the Chapter of Maryam refers to the siraat: {And there is none of you except he will come to it [the siraat]. This is upon your Lord an inevitability decreed.} (chapter 19, verse 71)
+    And there is none of you except he will come to it [the siraat]. This is upon your Lord an inevitability decreed.
+    Quran, surah Maryam (Mary) 19:71
 
 The happy ones are those who will cross the bridge to its end; arriving in Heaven, without stumbling and falling down into the pits of the Hellfire. It is a difficult and treacherous bridge to pass.
 
- 
-
 As described by the Prophet (peace be upon him), the siraat is thinner than a human hair and shaper than the edge of a sword. It is a slippery bridge on which there are clamps and hooks that are like the branches of a sharp, thorny plant. These hooks will snatch and grab at the people walking over the bridge. How difficult it is to pass and whether an individual makes it across to safety or not, depends on each person’s deeds.
 
- 
-
-Some people will be ruined because of their evil deeds.  Some will be cut into pieces and fall down to Hell for eternity, but some will be saved afterwards and taken out of the Hellfire. Some people will get by with a few cuts and scratches, and others will be completely unscathed.  
-
- 
+Some people will be ruined because of their evil deeds. Some will be cut into pieces and fall down to Hell for eternity, but some will be saved afterwards and taken out of the Hellfire. Some people will get by with a few cuts and scratches, and others will be completely unscathed.  
 
 The pious believers, the righteous men and women will sail over the bridge swiftly, without distress or anxiety. Some will pass by as fast as the wind, some like lightening, some like a falling star, others like a racing horse. For these believers, the Hellfire will call out to them from underneath, “O Believer! Pass over me quickly, for your light is extinguishing my fire.” Some believers will run across the bridge, others will walk, and some will crawl.
 
- 
+Not only are there the clamps and hooks to dodge and avoid, but there are seven obstacles or stops that may stand in our way on the siraat. 
 
-Not only are there the clamps and hooks to dodge and avoid, but there are seven obstacles that may stand in our way on the siraat. 
-
- 
+1. Believing in one God
+2. Salah (Prayers)
+3. Fasting
+4. Zakat (Charity)
+5. Pilgrimage (Hajj)
+rights of others and looking after our relatives
+cleanliness (ghusl)
 
 There are seven stations where we will be stopped and asked about how we performed certain acts of worship and how we treated one another in this life. Whoever fails at any of these obstacles will slip and fall into the Hellfire, to be punished until their sins are expiated or until Allah wills.
 
