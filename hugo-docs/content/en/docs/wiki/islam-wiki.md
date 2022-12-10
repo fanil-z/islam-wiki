@@ -9488,6 +9488,8 @@ Some people will pass at the speed of light. Some will crawl till the end of the
 
 There will be hooks that will drag sinners down
 
+The hypocrites will say to the believers "Wait for us, give us some of your light." It will be said "Go back and search for the light for yourself."
+
 Hadith says that the first one to pass the Sirat will be the prophet Muhammad ﷺ   and then his ummah.
 
 The Hell will be asked "Are you full?". And the Hell will reply "Is there no more?"
@@ -9497,8 +9499,6 @@ The Hell will be asked "Are you full?". And the Hell will reply "Is there no mor
 > Jami-us-saghir
 
 The Hellfire will say to a believer, "O Believer! Go over me swiftly; your light diminishes my flames."
-
-
 
 The siraat is a bridge that stretches over the Hellfire, and every soul ever created must walk on this bridge. The verse in the Chapter of Maryam refers to the siraat: 
 
@@ -9513,39 +9513,42 @@ Some people will be ruined because of their evil deeds. Some will be cut into pi
 
 The pious believers, the righteous men and women will sail over the bridge swiftly, without distress or anxiety. Some will pass by as fast as the wind, some like lightening, some like a falling star, others like a racing horse. For these believers, the Hellfire will call out to them from underneath, “O Believer! Pass over me quickly, for your light is extinguishing my fire.” Some believers will run across the bridge, others will walk, and some will crawl.
 
-Not only are there the clamps and hooks to dodge and avoid, but there are seven obstacles or stops that may stand in our way on the siraat. 
+Not only are there the clamps and hooks to dodge and avoid, but there are seven stations where we will be stopped and asked about how we performed certain acts of worship and how we treated one another in this life. Whoever fails at any of these obstacles will slip and fall into the Hellfire, to be punished until their sins are expiated or until Allah wills.
+
+    "And stop them, for they must be asked."
+    Quran, surah As-Saaffat (Thwose drawn up in Ranks) 37:24
 
 1. Believing in one God
+    
+    We will be asked about our faith, our eman. The six pillars of faith are the belief in Allah, the Angels, the Holy Books, the Prophets, the Day of Judgment, and fate (both good and bad).
+
 2. Salah (Prayers)
-3. Fasting
-4. Zakat (Charity)
+
+    We will be asked about our obligatory prayers, our salah, the five daily prayers and if we performed them or not, performed them correctly and on time. For the one who was keen on praying on time and praying mindfully, the prayer will serve as a bright light, showing the way and aiding him/her to cross the siraat.
+
+3. Zakat (Charity)
+
+    We will be asked about paying the zakat to the poor. A severe punishment awaits those who withhold their wealth, and do not give the required 2.5% of the wealth each year to the poor. For those who pay the zakat each year and give even more in charity, they will pass by this obstacle like a cool breeze.
+
+4. Fasting
+
+    We will be asked about fasting the month of Ramadan. Fasting and reading the Holy Qur’an will come to the aid of the believer when enduring the hardships of the Day of Judgment. Prophet Muhammad (peace be upon him) said, “The fast and the Qur’an are two intercessors for the servant of Allah on the Day of Resurrection. The fast will say: “O Lord, I prevented him from his food and desires during the day. Let me intercede for him.” The Qur’an will say: “I prevented him from sleeping at night. Let me intercede for him.” And their intercession will be accepted.” (Ahmad)
+
 5. Pilgrimage (Hajj)
-rights of others and looking after our relatives
-cleanliness (ghusl)
 
-There are seven stations where we will be stopped and asked about how we performed certain acts of worship and how we treated one another in this life. Whoever fails at any of these obstacles will slip and fall into the Hellfire, to be punished until their sins are expiated or until Allah wills.
+    We will be asked about the Haj. In order to successfully pass this station, every Muslim who is physically and financially capable must perform the pilgrimage once in a lifetime.
 
-If our answers were satisfactory, we will be free to pass, until we step foot on a beautiful land, bathe in a fresh spring, and drink the purest, most refreshing water that we never even imagined could exist.
+6. Rights of others and looking after your relatives
 
-We can prepare for what we will answer on that day when we stop at each obstacle.
+    We will be asked about the rights of other people. Did we uphold others’ rights and treat them with dignity, respect, and kindness, or did we violate people’s rights and oppress them and harm them? How did we treat our parents, children, siblings, neighbors, friends, grandparents? Abusing, backbiting, robbing, and harming others will cast a dark cloud on the siraat, making it harder to see the way. Prophet Muhammad (peace be upon him) said, “Beware of oppression (dhulm), for oppression will be darkness (dhulumaat) on the Day of Resurrection.”  (Muslim)
 
-One: we will be asked about our faith, our eman. The six pillars of faith are the belief in Allah, the Angels, the Holy Books, the Prophets, the Day of Judgment, and fate (both good and bad).
+7. Cleanliness (Wudu & Ghusl)
 
-Two: we will be asked about our obligatory prayers, our salah, the five daily prayers and if we performed them or not, performed them correctly and on time. For the one who was keen on praying on time and praying mindfully, the prayer will serve as a bright light, showing the way and aiding him/her to cross the siraat.
+    We will be asked about our wudu and ghusl, the ablution and ritual bathing, to cleanse and purify our bodies before performing acts of worship. Cleanliness is a cornerstone of the Islamic faith. Muslim children are taught from a young age the steps of ablution. In our times, the information age, ignorance is no excuse. Even if we were not taught as children, we have access to a wide range of sources to learn the proper, step-by-step ablution and bathing.
 
-Three: we will be asked about paying the zakat to the poor. A severe punishment awaits those who withhold their wealth, and do not give the required 2.5% of the wealth each year to the poor. For those who pay the zakat each year and give even more in charity, they will pass by this obstacle like a cool breeze.
+If our answers were satisfactory, we will be free to pass. Once the believer passes the siraat, he/she is safe, blissful, relieved; no more difficulty, no more worry.
 
-Four: we will be asked about fasting the month of Ramadan. Fasting and reading the Holy Qur’an will come to the aid of the believer when enduring the hardships of the Day of Judgment. Prophet Muhammad (peace be upon him) said, “The fast and the Qur’an are two intercessors for the servant of Allah on the Day of Resurrection. The fast will say: “O Lord, I prevented him from his food and desires during the day. Let me intercede for him.” The Qur’an will say: “I prevented him from sleeping at night. Let me intercede for him.” And their intercession will be accepted.” (Ahmad)
-
-Five: we will be asked about the Haj. In order to successfully pass this station, every Muslim who is physically and financially capable must perform the pilgrimage once in a lifetime.
-
-Six: we will be asked about our wudu and ghusl, the ablution and ritual bathing, to cleanse and purify our bodies before performing acts of worship. Cleanliness is a cornerstone of the Islamic faith. Muslim children are taught from a young age the steps of ablution. In our times, the information age, ignorance is no excuse. Even if we were not taught as children, we have access to a wide range of sources to learn the proper, step-by-step ablution and bathing. 
-
-Seven: we will be asked about the rights of other people. Did we uphold others’ rights and treat them with dignity, respect, and kindness, or did we violate people’s rights and oppress them and harm them? How did we treat our parents, children, siblings, neighbors, friends, grandparents? Abusing, backbiting, robbing, and harming others will cast a dark cloud on the siraat, making it harder to see the way. Prophet Muhammad (peace be upon him) said, “Beware of oppression (dhulm), for oppression will be darkness (dhulumaat) on the Day of Resurrection.”  (Muslim)
-
-Once the believer passes the siraat, he/she is safe, blissful, relieved; no more difficulty, no more worry.
-
-When the believers cross the siraat, they will come to two springs of water; the banks of which are of jewels. The believers will bathe in one spring and drink from the other. They walk to the gate of Paradise, and the Angels greeting them at the gate will say, “Peace be upon you. Welcome! Enter here eternally.”
+When the believers cross the siraat, they will come to two springs of water; the banks of which are of jewels. The believers will bathe in one spring and drink from the other.
 
     ˹They will be told,˺ "This is the Day of ˹Final˺ Decision which you used to deny."
     ˹Allah will say to the angels,˺ "Gather ˹all˺ the wrongdoers along with their peers, and whatever they used to worship
@@ -9553,8 +9556,6 @@ When the believers cross the siraat, they will come to two springs of water; the
     And detain them, for they must be questioned."
     ˹Then they will be asked,˺ "What is the matter with you that you can no longer help each other?"
     Quran, surah As-Saaffaat (Those drawn up in Ranks) 37:21-25
-
-The hypocrites will say to the believers "Wait for us, give us some of your light." It will be said "Go back and search for the light for yourself."
 
 </details><details><summary>
 
@@ -9740,6 +9741,45 @@ Allah says I will be forever pleased with you. and people will see Allah. There'
     Quran, surah Ya-seen (Yaseen) 36:55-58
 
 </details><details><summary>
+
+## Shafa'at (Intercession)
+
+> For now, I do not understand whether there will be a second intercession period and when exactly it will take place.
+
+Allah, in His Mercy, has opened many doors for His sinner servants to seek His pleasure and forgiveness. Two very important doors are 'Tawbah' (Repentance) and Shafa'at (Intercession).
+ 
+Before explaining the Shafa 'at, a few details about 'Tawbah' will not be out of place here.
+ 
+    "O ye who believe! Turn to Allah with sincere repentance, in the hope that your Lord will remove from you your ills (evil deeds) and admit you into the Gardens beneath which rivers flow."
+    Quran, surah At-Tahrim (The Prohibition) 66:8
+
+    "When those come to thee who believe in our signs, say 'Peace be on you' your Lord has inscribed for Himself (the rule of) Mercy. Verily, if any of you did evil in ignorance, and thereafter repented and amended (his conduct), lo! He is Oft-forgiving, Most Merciful"
+    Quran, surah Al-Anaam (The Cattle) 6:54
+ 
+Thus Allah forgives all sins and transgressions if a sinner repents sincerely. The key word is 'sincerely'. A repentance without a change of heart is no repentance. It must produce change in habit, and enhance the love and fear of Allah in one's dealings.
+ 
+According to Ali ibn Abu Talib (AS), “Repentance must have six elements: the repentant must be really sorry for what he had done; he must have firm determination not to do so again; he must make amends for whatever wrong he might have done to others; he must fulfil all the obligations of religion which he had previously neglected; he should fast long enough to shed away the flesh grown of unclean and unlawful food; and he should make his Self feel the taste of obedience of Allah, as he had previously enjoyed the taste of sin.” 39
+ 
+When a man repents sincerely, Allah makes him as clean (from sins) as he was the day he was born. The Holy Prophet (SAW) has said: 
+
+> "One who repents from sin is like the one who has never committed any sin." 
+ 
+It is for this reason that the Holy Prophet has said: “There is no intercessor more successful than repentance.” 41
+ 
+Now we come to Shafa'at. It is accepted by all Muslims that the Holy Prophet (S) will intercede on behalf of the sinners of his Ummat. A few Ayats on this subjects:-
+ 
+    "Who is there that can intercede in His presence except by His permission?"
+    Quran, surah Al-Bakarah (The Cow) 2:255
+ 
+    "He knows what is before them and what is behind them, and they offer no intercession except for those who are acceptable (to Allah); and they stand in awe and reverence of His (glory)."
+    Quran, surah Al-Anbiyah (The Prophets) 21:28
+
+Other Ayats show that for the unbelievers there will not be any intercessor. But the above-mentioned two Ayats show that those with whom Allah is pleased will intercede on behalf of the sinner believers, by permission of Allah.
+
+Shaykh as-Saduq (r.a..) has, written:
+“It is our belief about Shafa'at that it is meant for (the benefit of) those whose faith was acceptable to Allah (i.e., for the true believers) who might have committed sins - capital or trivial. And those who had repented from their sins will not need any intercession. And the Prophet said: “He who does not believe in my intercession, Allah will not permit him to get my Shafa'at.” Also he said: “There is no intercessor more successful than repentance.”
+
+<details><summary>
 
 ## Some notes on Biblical version of the Judgement Day
 </summary>
