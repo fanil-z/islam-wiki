@@ -362,14 +362,6 @@ Hutama: According to some narrations, the deepest level of the Hells. It is for 
 
 </summary>
 
-Jannah is above the seven heavens.
-
-Jannah is very big.
-
-Jannah is very beautiful.
-
-Jannah has many trees 🌳🌳, rivers, and birds 🐦🐦🐦 with beautiful sounds. It has all what one would like. Allāh created Adam in Paradise.
-
     Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment.
     Quran, surah Al-Burooj (The Big Stars) 85
 
@@ -379,9 +371,17 @@ Jannah has many trees 🌳🌳, rivers, and birds 🐦🐦🐦 with beautiful so
     Indeed, We thus reward the doers of good.
     Quran, surah Al-Mursalat (Those sent forth) 77:41-44
 
-The Quran describes Paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow.  Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23).  Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels. 
+The Quran describes Paradise as a garden with flowing water, rising from springs and fountains (Q88:10|88:10), trees with unceasing supply of fruits grow. Four rivers provide four different drinking substances, which are water, milk, honey, and wine (47:15), while wine in paradise doesn't intoxicate (52:23). Physical pleasures are understood to appeal to humans. In paradise, humans will still be humans, not turn to angels. 
 
-Each person that goes to Jannah is greeted by angels from every gate with the words, "Peace be upon you, because ye have endured with patience; how excellent a reward is paradise!" (Q13:24) Each person lives near to the Lord in a garden (3:15) of perpetual bliss (13:23). In paradise, people would have "whatever they wish for" (Q25:16).  In each garden is a mansion (9:72), a high throne (88:10–16) of dignity (52:20) in a grove of cool shade (36:56–57), an adorned couch (18:31), rows of cushions, rich carpets spread out, a cup (Q88:10–16) full of wine (52:23), and every meat (52:22) and fruit (Q36:56–57) that is like the food on Earth (Q2:25). Each person is adorned in golden and pearl bracelets (Q35:33) and green garments of fine silk and brocade (Q18:31).
+Jannah is above the seven heavens.
+
+Jannah is very big.
+
+Jannah is very beautiful.
+
+Jannah has many trees 🌳🌳, rivers, and birds 🐦🐦🐦 with beautiful sounds. It has all what one would like. Allāh created Adam in Paradise.
+
+Each person that goes to Jannah is greeted by angels from every gate with the words, "Peace be upon you, because ye have endured with patience; how excellent a reward is paradise!" (Q13:24) Each person lives near to the Lord in a garden (3:15) of perpetual bliss (13:23). In paradise, people would have "whatever they wish for" (Q25:16). In each garden is a mansion (9:72), a high throne (88:10–16) of dignity (52:20) in a grove of cool shade (36:56–57), an adorned couch (18:31), rows of cushions, rich carpets spread out, a cup (Q88:10–16) full of wine (52:23), and every meat (52:22) and fruit (Q36:56–57) that is like the food on Earth (Q2:25). Each person is adorned in golden and pearl bracelets (Q35:33) and green garments of fine silk and brocade (Q18:31).
 
     Indeed, the righteous will be among gardens and rivers
     In a seat of honor near a Sovereign, Perfect in Ability.
@@ -398,6 +398,41 @@ Each person that goes to Jannah is greeted by angels from every gate with the wo
 Both men and women will have beautiful and pure spouses (Q2:25, Q4:57), accompanied by any children that did not go to Jahannam (Q52:21), and attended to by servant-boys with the spotless appearance similar to a protected pearls (Q52:24). The Believers Men will get untouched (Q55:56) virgin companions of equal age (56:35-38) and have large, beautiful eyes (37:48).
 
 Jannah is described as an eternal dwelling (Q3:136), with its supreme felicity and greatest bliss being God's good pleasure (Q9:72).
+
+As Resurrection will be of body and soul together, the Reward and Punishment will have to cover both. In other words, Paradise and Hell will provide physical comforts and tortures respectively as well as the spiritual ones.
+
+Paradise and Hell are already created. It is not that they will be created at some time in future. Our Holy Prophet (SAW.) entered the Paradise and saw Hell at the time of 'Miraj' (Ascension).
+
+Shaykh as-Saduq (r.a.) has written:
+“It is our belief that paradise is the abode of eternity and house of peace; there is neither death there or old age; neither ailment nor disease; neither deterioration nor any handicap; neither sorrow nor worry; neither need nor poverty. And it is the house of plenty and bliss, and place of permanency with honour. The people of paradise will not suffer from any monotony or tiredness therein. They will get there what the souls desire and eyes appreciate, and they will abide there forever.
+ 
+“And it is the house whose residents will be (like) neighbours to Allah in the company of the friends of Allah and His beloveds - those who are honoured in His presence.
+
+the best description of the bliss of the Paradise is given in a Hadith Qudsi in these words: “I have kept ready for my servants what no eye ever looked upon, and no ear ever heard of, nor any heart ever imagined.”
+ 
+And it is written in the Qur'an:
+
+    "Now no person knows what delights of the eyes are kept hidden for them as a Reward for their good deeds."
+    Quran, sura As-Sajda (The Prostration) 32:17
+
+### Tree of Tuba
+
+Ṭūbā ('blessedness') is a tree which grows in Jannah (Paradise, Garden) according to Islam.
+
+The term is mentioned in the Quran: 
+
+    Those who believed, and work righteousness, Tuba is for them and a beautiful place of (final) return.)also in several Ahadith.
+    Quran, surah Al-Raad, ayah 29
+
+The tree is mentioned in the Hadith collection Sahih al-Bukhari and others.
+
+> Narrated Anas bin Malik: The Prophet ﷺ   said, "There is a tree in Paradise (which is so big and huge that) if a rider travels in its shade for one hundred years, he would not be able to cross it." (Sahih al-Bukhari 3251)
+
+> Abu Hurayrah (may Allaah be pleased with him) narrated that the Prophet ﷺ   said: "In Paradise there is a tree in whose shade a rider could travel for a hundred years without crossing it. Recite, if you wish: ‘In shade long-extended’ [al-Waaqi’ah 56:30]" (Sahih al-Bukhari 3252)
+
+> The Prophet ﷺ   said: "Tooba is a tree in Paradise, one hundred years big. The clothes of the people of Paradise are made from its calyces (outer casing of its flowers)." (Reported by Ibn Hibbaan; see also Saheeh al-Jaami’, 3918)
+
+> ‘Utbah ibn ‘Abdin al-Salami said: "A Bedouin came to the Prophet ﷺ   and asked him about al-Hawd (the cistern). He mentioned Paradise, then the Bedouin asked him, ‘Is there fruit there?’ He said, ‘Yes, and there is a tree called Tooba.’ The Bedouin asked, ‘What tree of this world does it resemble?’ He said, ‘It does not resemble any tree of your land. Have you been to Syria?’ He said, ‘No.’ He said, ‘It resembles a tree in Syria called al-Jawzah (walnut) which grows on one trunk then spreads its branches higher up.’ The Bedouin asked, ‘How big is its trunk?’ He said, ‘If one of the camels of your people was to go around it, it would not complete one circuit before its neck broke of old age and exhaustion. The Bedouin asked, ‘Are there grapes there?’ He said, ‘Yes.’ He asked, ‘How big is a bunch?’ He said, ‘The distance a crow could fly without stopping in a month.’ He asked, ‘How big is one grape?’ He said, ‘Does your father ever slaughter a he-goat from his flocks?’ He said, ‘Yes.’ He said, ‘And does he skin it and give the hide to your mother, and say, "Make me a bucket"?’ He said, ‘Yes.’ The Bedouin asked, ‘Is one grape big enough to satisfy me and my family?’ He said, ‘Yes, and your whole tribe.’" (Reported by Imaam Ahmad).
 
 </details><details id="level2"><summary>
 
@@ -1363,15 +1398,15 @@ Hud has been sometimes identified with Eber, but according to the Bible Selah is
 
 </details><details><summary>
 
-## Saleh and people of Thamud 🐪
+## Salih and people of Thamud 🐪
 
 </summary>
 
 > There are some contradictory opinions regarding the time of the Thamud. There are mentions that Thamud were a tribal confederation in the northwestern region of the Arabian Peninsula, mentioned in Assyrian sources in the time of Sargon II (8th century BC). The tribe's name continues to appear in documents into the fourth century CE, but by the sixth century they were regarded as a group that had **vanished long ago**. It is possible that the Thamud were not one tribe, and that other tribes took on the name of Thamūd after the original tribe by that name had gone extinct.
 
-According to the Quran, the city that Saleh was sent to was called al-Hijr, which corresponds to the Nabataean city of Hegra. The city rose to prominence around the first century AD as an important site in the regional caravan trade. Adjacent to the city were large, decorated rock-cut tombs used by members of various religious groups.
+According to the Quran, the city that Salih was sent to was called al-Hijr, which corresponds to the Nabataean city of Hegra. The city rose to prominence around the first century AD as an important site in the regional caravan trade. Adjacent to the city were large, decorated rock-cut tombs used by members of various religious groups.
 
-Saleh's life in his community had been so righteous that the people of Thamud virtually relied upon him for support. He was chosen by God as a Messenger and sent to preach against the selfishness of the wealthy and to condemn the practice of Shirk (Idolatry or Polytheism). Although Saleh preached the message for a sustained period of time, the people of Thamud refused to hear his warning and instead began to ask Saleh to perform a miracle for them.
+Salih's life in his community had been so righteous that the people of Thamud virtually relied upon him for support. He was chosen by God as a Messenger and sent to preach against the selfishness of the wealthy and to condemn the practice of Shirk (Idolatry or Polytheism). Although Salih preached the message for a sustained period of time, the people of Thamud refused to hear his warning and instead began to ask Salih to perform a miracle for them.
 
     To the Thamūd, We sent their brother, Ṣāliḥ. He said, "My people, worship God. You have no god other than Him. It was He who brought you into being from the earth and made you inhabit it, so ask forgiveness from Him, and turn back to Him: my Lord is near, and ready to answer." 
 
@@ -1380,9 +1415,9 @@ Saleh's life in his community had been so righteous that the people of Thamud vi
     He said, "My people, just think: if I did have clear proof from my Lord, and if He had given me mercy of His own, who could protect me from God if I disobeyed Him? You would only make my loss greater." 
     Quran, surah Hud (Hud) 11
 
-Saleh reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Saleh's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
+Salih reminded his people of the countless castles and palaces they built out of stone, and of their technological superiority over neighboring communities. Furthermore, he told them about their ancestors, the ʿĀd tribe, and how they too were destroyed for their sins. Some of the people of Thamud believed Salih's words, but the tribal leaders refused to listen to him and continued to demand that he demonstrate a miracle to prove his prophethood.
 
-In response, God gave the Thamud a blessed she-camel, as both a means of sustenance and a test. The tribe was told to allow the camel to graze peacefully and avoid harming her. But in defiance of Saleh's warning, the people of the tribe hamstrung the camel. Saleh informed them that they had only three more days to live before the wrath of God descended upon them. The people of the city were remorseful, but their crime could not be undone, and all the disbelieving people in the city were killed in an earthquake. Al-Hijr was rendered uninhabited and remained in ruins for all time thereafter. Saleh himself and the few believers who followed him survived.
+In response, God gave the Thamud a blessed she-camel, as both a means of sustenance and a test. The tribe was told to allow the camel to graze peacefully and avoid harming her. But in defiance of Salih's warning, the people of the tribe hamstrung the camel. Salih informed them that they had only three more days to live before the wrath of God descended upon them. The people of the city were remorseful, but their crime could not be undone, and all the disbelieving people in the city were killed in an earthquake. Al-Hijr was rendered uninhabited and remained in ruins for all time thereafter. Salih himself and the few believers who followed him survived.
 
 My people, this camel belongs to God, a sign for you, so leave it to pasture on God's earth and do not harm it, or you will soon be punished." 
 
@@ -1394,6 +1429,8 @@ My people, this camel belongs to God, a sign for you, so leave it to pasture on 
     Quran, surah Hud (Hud) 11:61–68
 
 The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentioned explicitly here, it states that nine men plotted to kill Salih and his whole family, a crime for which they were struck down by God 3 days later.
+
+### Salih in the Bible
 
 Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized: Šélaḥ), Salah or Sala (Greek: Σαλά – Salá) or Shelah is an ancestor of the Ishmaelites and Israelites according to the Table of Nations in Genesis 10. He is thus one of the table's "seventy names." He is also mentioned in Genesis 11:12–15, 1 Chronicles 1:18–24, and Luke 3:35-36. In the ancestral line from Noah to Abraham, he is the son of Arpachshad (in the Masoretic Text and Samaritan Pentateuch) or Cainan (in the Septuagint ) and the father of Eber.
 
@@ -9057,10 +9094,9 @@ The first to come out of the grave is prophet Muhammad SAW. The first to be clot
 
 All animals will be resurrected to make sure that jusice is done completely. After hisab of animals, they will turn to dust. some people who commited injustice will wish to be perished to dust as those animals.
 
-Some transformations of the earth will take place.
-Hadith says people will be resurrected on a land pure white and clean and flat, no any hills, and markings. it will be strenched as far as the eye can see. a pure land upon which no sin is commited.
+Some transformations of the earth will take place. Hadith says people will be resurrected on a land pure white and clean and flat, no any hills, and markings. it will be strenched as far as the eye can see. A pure land upon which no sin is commited.
 
-The one who calls, his voice will be hear, the one who wants to see will be seen.
+The one who calls, his voice will be heard, the one who wants to see will be seen. Somehow people will be able to see anyone they want to see.
 
 Creations will be in a state of fear and panic. Their necks are stretched, their hearts are empty in their chests, their eyes are glazed.
 
@@ -9070,21 +9106,14 @@ Quran says `"Don't ever think that Allah is unaware"`, the Justice will be done.
 
 The sun will come close to mankind and people will start to sweat according to their sinfulness. others will be in sweat by their ankles, some will be in sweat up their chest, some will drown completely in their sweat.
 
-How long will the Day of Judgement be? sura Hajj 47, 
-on a day as long as 50 thousand years. Magarij
+The righteus people will be protected from the terror.
 
-surah Sajda verse 5. There shall be an ascent 1000 years.
-
-ibn Abbas said "La adri" -- "I do not know".
-
-
-For the mumin the Day will be like the time between Asr and Maghrib.
+How long will the Day of Judgement be? Sura Hajj 47, on a day as long as 50 thousand years. Magarij. Surah Sajda verse 5 "There shall be an ascent 1000 years". Answering to this question Ibn Abbas said "La adri" -- "I do not know". For the mumeen the Day will be like the time between Asr and Maghrib.
 
 Hadith from Abu Huraira:
 > Anyone who owns gold or silver that he doesn't pay zakat on it, that zakat will turn into fire that will be used to burn his sides in a day that will stretch to 50 thousand years. Then he will see whether he will go to Heaven or Hell.
 
 There are different interpretations. There is clearly evidence that for some people the Day of Judgement will be a very difficult and long day.
-
 
 Hadith:
 > Whoever wants to see the day in vivid detail as if you are looking at it, let him read Shamsu Qubirat and Fatarat.
@@ -9458,7 +9487,7 @@ Then people will recognise each other and catch each other, till everyone has fo
 
 </summary>
 
-On Judgement day, after the dead have been resurrected, assembled, and judged by God, the saved and the damned now being clearly distinguished, the souls will traverse over hellfire via the bridge of As-Sirāt. The faithful, will "move easily and swiftly across a broad path", led first of all by the Prophet Muhammad himself and other leading lights of the community on their way to paradise (Jannah); those judged guilty of sin but still considered to be mu'minun (believers) will fall from the bridge into Hellfire (jahannam) but remain there only for a limited period of purgation; unbelievers, however, will find the bridge has become "sharper than a sword and thinner than a hair" and darkness blinds their way. Their inevitable fall from the bridge will be an "inescapable descent" into their fiery destination of everlasting punishment.
+On Judgement day, after the dead have been resurrected, assembled, and judged by God, the saved and the damned now being clearly distinguished, the souls will traverse over hellfire via the bridge of As-Sirāt. The faithful, will "move easily and swiftly across a broad path", led first of all by the Prophet Muhammad ﷺ   himself and other leading lights of the community on their way to paradise (Jannah); those judged guilty of sin but still considered to be mu'minun (believers) will fall from the bridge into Hellfire (jahannam) but remain there only for a limited period of purgation; unbelievers, however, will find the bridge has become "sharper than a sword and thinner than a hair" and darkness blinds their way. Their inevitable fall from the bridge will be an "inescapable descent" into their fiery destination of everlasting punishment.
 
 Although the term the "Bridge of Sirat" hasn’t been used in the Quran, it has been mentioned in hadiths and traditions. For example Imam Sadiq (as) has mentioned this term while explaining the word "mirsad" in verse 14 of Surah Fajr, saying that it is a bridge that extends across Hell.
 
@@ -9486,7 +9515,7 @@ Sirat is thin as a hair and sharp as a sword.
 
 Some people will pass at the speed of light. Some will crawl till the end of the journey. Many will fall.
 
-There will be hooks that will drag sinners down
+There will be hooks that will drag sinners down.
 
 The hypocrites will say to the believers "Wait for us, give us some of your light." It will be said "Go back and search for the light for yourself."
 
@@ -9507,7 +9536,7 @@ The siraat is a bridge that stretches over the Hellfire, and every soul ever cre
 
 The happy ones are those who will cross the bridge to its end; arriving in Heaven, without stumbling and falling down into the pits of the Hellfire. It is a difficult and treacherous bridge to pass.
 
-As described by the Prophet (peace be upon him), the siraat is thinner than a human hair and shaper than the edge of a sword. It is a slippery bridge on which there are clamps and hooks that are like the branches of a sharp, thorny plant. These hooks will snatch and grab at the people walking over the bridge. How difficult it is to pass and whether an individual makes it across to safety or not, depends on each person’s deeds.
+As described by prophet Muhammad ﷺ   , the siraat is thinner than a human hair and shaper than the edge of a sword. It is a slippery bridge on which there are clamps and hooks that are like the branches of a sharp, thorny plant. These hooks will snatch and grab at the people walking over the bridge. How difficult it is to pass and whether an individual makes it across to safety or not, depends on each person’s deeds.
 
 Some people will be ruined because of their evil deeds. Some will be cut into pieces and fall down to Hell for eternity, but some will be saved afterwards and taken out of the Hellfire. Some people will get by with a few cuts and scratches, and others will be completely unscathed.  
 
@@ -9532,7 +9561,7 @@ Not only are there the clamps and hooks to dodge and avoid, but there are seven 
 
 4. Fasting
 
-    We will be asked about fasting the month of Ramadan. Fasting and reading the Holy Qur’an will come to the aid of the believer when enduring the hardships of the Day of Judgment. Prophet Muhammad (peace be upon him) said, “The fast and the Qur’an are two intercessors for the servant of Allah on the Day of Resurrection. The fast will say: “O Lord, I prevented him from his food and desires during the day. Let me intercede for him.” The Qur’an will say: “I prevented him from sleeping at night. Let me intercede for him.” And their intercession will be accepted.” (Ahmad)
+    We will be asked about fasting the month of Ramadan. Fasting and reading the Holy Qur’an will come to the aid of the believer when enduring the hardships of the Day of Judgment. Prophet Muhammad ﷺ   said, “The fast and the Qur’an are two intercessors for the servant of Allah on the Day of Resurrection. The fast will say: “O Lord, I prevented him from his food and desires during the day. Let me intercede for him.” The Qur’an will say: “I prevented him from sleeping at night. Let me intercede for him.” And their intercession will be accepted.” (Ahmad)
 
 5. Pilgrimage (Hajj)
 
@@ -9540,7 +9569,7 @@ Not only are there the clamps and hooks to dodge and avoid, but there are seven 
 
 6. Rights of others and looking after your relatives
 
-    We will be asked about the rights of other people. Did we uphold others’ rights and treat them with dignity, respect, and kindness, or did we violate people’s rights and oppress them and harm them? How did we treat our parents, children, siblings, neighbors, friends, grandparents? Abusing, backbiting, robbing, and harming others will cast a dark cloud on the siraat, making it harder to see the way. Prophet Muhammad (peace be upon him) said, “Beware of oppression (dhulm), for oppression will be darkness (dhulumaat) on the Day of Resurrection.”  (Muslim)
+    We will be asked about the rights of other people. Did we uphold others’ rights and treat them with dignity, respect, and kindness, or did we violate people’s rights and oppress them and harm them? How did we treat our parents, children, siblings, neighbors, friends, grandparents? Abusing, backbiting, robbing, and harming others will cast a dark cloud on the siraat, making it harder to see the way. Prophet Muhammad ﷺ   said, “Beware of oppression (dhulm), for oppression will be darkness (dhulumaat) on the Day of Resurrection.”  (Muslim)
 
 7. Cleanliness (Wudu & Ghusl)
 
@@ -9619,7 +9648,7 @@ Abu Said al Khudree reports that the Prophet ﷺ   said:
 > "When the believers cross the Hellfire, they will be stopped at a small arched bridge (Qantarah) before entering the paradise and will be given retribution for injustices between them until they become purified. (Then) they will be permitted to enter Jannah. So, by the One in Whose Hands is my soul, they will know their way to their homes in Jannah, better than they know their ways to their homes in dunya."
 > [Saheeh Al-Bukhari] 
 
-Al-Qantarah is a small bridge after the Siraat that the believers will have to cross before entering Jannah. Allahسبحانه وتعالى   will ask the believers to settle their issues here.
+Al-Qantarah is a small bridge after the Siraat that the believers will have to cross before entering Jannah. Allah will ask the believers to settle their issues here.
 
 There is a hadith narrated in Mustadarak al-Haakim with an authentic chain that states that there will be two men from this Ummah that will come before Allah. One man will say, “so and so has transgressed against me and I want from his good deeds.” Allah will tell him, “do you see this great palace in paradise?” And the man will look at the palace, and Allah will say to him, “it will belong to you if you forgive your brother today.” And the man will forgive him. Rasulullah ﷺ   said at the end of this hadith “safeguard yourselves from Allah, and reform and reconcile amongst yourselves, indeed Allah will reconcile between the believers (on the Day of Judgment).”
 
@@ -9636,15 +9665,15 @@ Then bridge of Qantarah to allow people complete their arguments. People will fo
 
 </summary>
 
-There will be pool from Al Kawthar near the prophet Muhammad, and it will be allowed to sincere Muslims to drink from it.
+There will be pool from Al Kawthar near the prophet Muhammad ﷺ   , and it will be allowed to sincere Muslims to drink from it.
 
-Allah says in the Quran that He has already gifted the prophet Muhammad Al Kawthar, the main river of Jannah. It's water is pure white and whoever drinks for it will not feel thirst for thousands of years.
+Allah says in the Quran that He has already gifted the prophet Muhammad ﷺ   Al Kawthar, the main river of Jannah. It's water is pure white and whoever drinks for it will not feel thirst for thousands of years.
 
-> Narrated Sahl ibn Sa'd : I heard the Prophet saying, "I am your predecessor at the Lake-Fount (Kauthar), and whoever will come to it, will drink from it, and whoever will drink from it, will never become thirsty after that. There will come to me some people whom I know and they know me, and then a barrier will be set up between me and them." Abu Sa'id Al-Khudri added that the Prophet further said: "I will say those people are from me. It will be said, 'You do not know what changes and new things they did after you.' Then I will say, 'Far removed (from mercy), far removed (from mercy), those who changed (the religion) after me! "
+> Narrated Sahl ibn Sa'd: I heard the Prophet saying, "I am your predecessor at the Lake-Fount (Kauthar), and whoever will come to it, will drink from it, and whoever will drink from it, will never become thirsty after that. There will come to me some people whom I know and they know me, and then a barrier will be set up between me and them." Abu Sa'id Al-Khudri added that the Prophet further said: "I will say those people are from me. It will be said, 'You do not know what changes and new things they did after you.' Then I will say, 'Far removed (from mercy), far removed (from mercy), those who changed (the religion) after me! "
 
-> Narrated Asma' : The Prophet said, "I will be at my Lake-Fount (Kauthar) waiting for whoever will come to me. Then some people will be taken away from me whereupon I will say, 'My followers!' It will be said, 'You do not know they turned Apostates as renegades (deserted their religion).'" (Ibn Abi Mulaika said, "Allah, we seek refuge with You from turning on our heels from the (Islamic) religion and from being put to trial").
+> Narrated Asma': The Prophet said, "I will be at my Lake-Fount (Kauthar) waiting for whoever will come to me. Then some people will be taken away from me whereupon I will say, 'My followers!' It will be said, 'You do not know they turned Apostates as renegades (deserted their religion).'" (Ibn Abi Mulaika said, "Allah, we seek refuge with You from turning on our heels from the (Islamic) religion and from being put to trial").
 
-> Narrated 'Abdullah : The Prophet said, "I am your predecessor at the Lake-Fount (Kauthar) and some men amongst you will be brought to me, and when I will try to hand them some water, they will be pulled away from me by force whereupon I will say, 'O Lord, my companions!' Then the Almighty will say, 'You do not know what they did after you left, they introduced new things into the religion after you.'"
+> Narrated 'Abdullah: The Prophet said, "I am your predecessor at the Lake-Fount (Kauthar) and some men amongst you will be brought to me, and when I will try to hand them some water, they will be pulled away from me by force whereupon I will say, 'O Lord, my companions!' Then the Almighty will say, 'You do not know what they did after you left, they introduced new things into the religion after you.'"
 
 </details><details><summary>
 
@@ -9740,11 +9769,23 @@ Allah says I will be forever pleased with you. and people will see Allah. There'
     [And] "Peace," a word from the Merciful Lord.
     Quran, surah Ya-seen (Yaseen) 36:55-58
 
+Shaykh as-Saduq (r.a..) has written:
+ 
+“And it is our belief that before entering the Garden, the believer will be shown his place in the Fire and informed that, that was the place where he would have gone if he had disobeyed Allah.
+ 
+“And before entering the Fire, the unbeliever will be shown his place in the Garden and told that, that was the place where he would have gone if he had obeyed Allah.
+ 
+“Then those vacant places in the Garden will be added to the rewards of the people of the Paradise; and those vacant places in the Fire will be added to the punishments of the people of Fire: And this is the meaning of the words of Allah: “those will be the heirs who will inherit the Paradise; they will dwell therein for ever.” 
+ 
+The words 'heir' and 'inherit' refer to this episode, whereas the believers will get the places which were kept for others who did not make it and whose rejection of faith led them to die Fire.
+
+
+
 </details><details><summary>
 
-## Shafa'at (Intercession)
+## Shafa'a (Another round of Intercessions)
 
-> For now, I do not understand whether there will be a second intercession period and when exactly it will take place.
+> For now, I do not understand whether there will be a second intercession period and when exactly it will take place. And seems like there is no clear consensus among the scholars.
 
 Allah, in His Mercy, has opened many doors for His sinner servants to seek His pleasure and forgiveness. Two very important doors are 'Tawbah' (Repentance) and Shafa'at (Intercession).
  
@@ -9756,17 +9797,17 @@ Before explaining the Shafa 'at, a few details about 'Tawbah' will not be out of
     "When those come to thee who believe in our signs, say 'Peace be on you' your Lord has inscribed for Himself (the rule of) Mercy. Verily, if any of you did evil in ignorance, and thereafter repented and amended (his conduct), lo! He is Oft-forgiving, Most Merciful"
     Quran, surah Al-Anaam (The Cattle) 6:54
  
-Thus Allah forgives all sins and transgressions if a sinner repents sincerely. The key word is 'sincerely'. A repentance without a change of heart is no repentance. It must produce change in habit, and enhance the love and fear of Allah in one's dealings.
+Thus Allah forgives all sins and transgressions if a sinner repents sincerely during his lifetime. The key word is 'sincerely'. A repentance without a change of heart is no repentance. It must produce change in habit, and enhance the love and fear of Allah in one's dealings.
  
-According to Ali ibn Abu Talib (AS), “Repentance must have six elements: the repentant must be really sorry for what he had done; he must have firm determination not to do so again; he must make amends for whatever wrong he might have done to others; he must fulfil all the obligations of religion which he had previously neglected; he should fast long enough to shed away the flesh grown of unclean and unlawful food; and he should make his Self feel the taste of obedience of Allah, as he had previously enjoyed the taste of sin.” 39
+According to Ali ibn Abu Talib (AS), “Repentance must have six elements: the repentant must be really sorry for what he had done; he must have firm determination not to do so again; he must make amends for whatever wrong he might have done to others; he must fulfil all the obligations of religion which he had previously neglected; he should fast long enough to shed away the flesh grown of unclean and unlawful food; and he should make his Self feel the taste of obedience of Allah, as he had previously enjoyed the taste of sin.”
  
-When a man repents sincerely, Allah makes him as clean (from sins) as he was the day he was born. The Holy Prophet (SAW) has said: 
+When a man repents sincerely, Allah makes him as clean (from sins) as he was the day he was born. The Holy Prophet ﷺ   has said: 
 
 > "One who repents from sin is like the one who has never committed any sin." 
  
-It is for this reason that the Holy Prophet has said: “There is no intercessor more successful than repentance.” 41
+It is for this reason that the Holy Prophet ﷺ   has said: “There is no intercessor more successful than repentance.”
  
-Now we come to Shafa'at. It is accepted by all Muslims that the Holy Prophet (S) will intercede on behalf of the sinners of his Ummat. A few Ayats on this subjects:-
+Now we come to Shafa'at. It is accepted by all Muslims that the prophet Muhammad ﷺ   will intercede on behalf of the sinners of his Ummat. A few Ayats on this subjects:-
  
     "Who is there that can intercede in His presence except by His permission?"
     Quran, surah Al-Bakarah (The Cow) 2:255

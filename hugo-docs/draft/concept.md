@@ -44,14 +44,35 @@ When I started learning about Biblical and Islamic prophets, I had a hard time t
 After testing several frameworks, I went forward with Hugo, which we also use  in MBition.
 
 
+
+mashab
+
+dalalat
+
+mashrik
+
+tasdik
+
+tashrik
+
+fahim
+
+fajr
+
+hidayet
+
+
+
+
 Hello everyone and Assalamu Aleikum, which means "peace be upon you" 🕊️.
 
 From various open sources, I have gathered stories of prophets from the Quran, hadith, tafsir, a small portion of the Old Testament, arranged them in chronological order and wrapped up my notes in a static website.
 
 The website is built using Hugo and Hyas frameworks, pipelined and hosted on Render. Sources are written in Markdown. The website is static and the whole page is only 1.4KB, 60% of its weight is JavaScript and CSS overwritings that I need to fix. Hugo is a ridiculously fast static HTML generator, which we also use in MBition. It is open-source, flexible, has themes for user manuals and API references. 
 
-Our beloved prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." I guess this is my way of trying to get a better understanding of Islam. And I just had a good time trying to gather particles of an endless puzzle. There are still many gaps and CSS/JS bugs. If God wills, I intend to continue working on this wiki and improve it, especially sections about death and the Apocalypse.
+Our beloved prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." I guess this is my way of trying to get a better understanding of Islam. And I just had a good time trying to gather particles of an endless puzzle. There are still many gaps and CSS/JS bugs. For some time, I need to switch to another thing but later, if God wills, I intend to continue working on this wiki and improve it, especially the sections about death and the Apocalypse.
 
+The long-read length is 15 hours.
 
 Maybe after Abdallah teaches me to properly read the Quran
 
@@ -278,17 +299,16 @@ Need to do
 		* A bad thing about choosing a custom theme is that it may end up not supporting some of the functions that you need and you will learn about it very late in the game and it will be too troublesome to change to some other theme. Also, hugo has documentation, but the themes which in most cases have a bunch of their own code and functions have a very general-level docuentation. I guess mostly because the themes were created by volunteering front-end developers and not by technical writers. that's why these things are smart and dynamic but without instructions.
 2. Copy-paste topics.
 3. Fact-check and rewrite the topics. 
-4. - Buy a hosting place. Just upload to Render.
+4. [DONE] Buy a hosting place. Just upload to Render.
 5. Buy a domain.
 5. [DONE] add some images or emoji
 6. [DON-] write a disclaimer
 
-
 ## STAGE 2. World History Map (Technical Tasks)
 
 * Need index-numbers and maybe certain div classes for titles and descriptions.
-* Send Feedback button
-* add favicon
+* [DONE] Send Feedback button
+* [DONE] add favicon
 * [DONE] add head menu with links
 * [DONE] add custom css
 * find how to build a static website with config
@@ -310,8 +330,9 @@ Need to do
 * Do Expand All when clicking a section in the TOC
 * [DONE] Create a mockup for timeline-helicopter view of the seerah of Prophet Muhammad sww.
 
-
 Dark mode switch: https://dev.to/ahmadbassamemran/awesome-animation-checkbox-css-toggle-day-night-mode-5dnm
+
+## Stage 3. Post about Hajj
 
 
 

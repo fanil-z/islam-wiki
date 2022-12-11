@@ -136,6 +136,17 @@ Egyptian brothers say that there is literraly a lottery played by the goverment 
 
 Still, the result is the same. You fulfill the fifth pillar of Islam. and if you've done everything right, then you are forgiven. and now you can start it over from a clean sheet of paper. and you followed the footsteps of our prophet Muhammad SAW. and you have been a guest of Ar Rahman Ar Raheem. Oh Allah, please accept our Hajj.
 
+The answer from Motawif website: We appreciate your interest in our services.
+ 
+Kindly note there is very limited information still regarding hajj 2023, Registration process did not start yet ,make sure to keep an eye on our official social media accounts for Motawif and the Ministry of Hajj and Umrah for further updates and we hope to have you with us.
+
+No time frame has been announced by the ministry yet.
+
+https://twitter.com/motawif_sa
+https://www.facebook.com/Motawif/
+https://www.haj.gov.sa/en
+https://twitter.com/MoHU_En?t=WQM4tACX9VwY82PwJ0zAMg&s=08
+
 # Reference
 
 <details><summary>
