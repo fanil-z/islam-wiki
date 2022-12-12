@@ -35,6 +35,8 @@ gilmetdeen.space
 
 huraira.info
 
+Add buttons Level 0, Level 1
+
 ## Description
 
 
@@ -68,7 +70,7 @@ Hello everyone and Assalamu Aleikum, which means "peace be upon you" 🕊️.
 
 From various open sources, I have gathered stories of prophets from the Quran, hadith, tafsir, a small portion of the Old Testament, arranged them in chronological order and wrapped up my notes in a static website.
 
-The website is built using Hugo and Hyas frameworks, pipelined and hosted on Render. Sources are written in Markdown. The website is static and the whole page is only 1.4KB, 60% of its weight is JavaScript and CSS overwritings that I need to fix. Hugo is a ridiculously fast static HTML generator, which we also use in MBition. It is open-source, flexible, has themes for user manuals and API references. 
+The website is built using Hugo and Hyas frameworks, pipelined and hosted on Render. Sources are written in Markdown. The website is static and the whole page is only 1.4KB, 60% of its weight is JavaScript and CSS-overwriting shenanigans that I need to fix. Hugo is a ridiculously fast static HTML generator, which we also use in MBition. It is open-source, flexible, has themes for user manuals and API references. 
 
 Our beloved prophet Muhammad ﷺ   said, "Seeking knowledge is an obligation upon every Muslim." I guess this is my way of trying to get a better understanding of Islam. And I just had a good time trying to gather particles of an endless puzzle. There are still many gaps and CSS/JS bugs. For some time, I need to switch to another thing but later, if God wills, I intend to continue working on this wiki and improve it, especially the sections about death and the Apocalypse.
 

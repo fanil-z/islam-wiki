@@ -138,6 +138,37 @@ summary h1 {
   color: #dee2e6 !important;
 }
 
+[data-dark-mode] details[open] summary h1 {
+  color: #4aa3a0 !important;
+  font-size: 32px !important;
+  font-weight: 500 !important;
+}
+
+/*
+details#level0[open] summary::-webkit-details-marker {
+  display:none !important;
+}
+
+details[open] > summary::-webkit-details-marker {
+  display: none;
+}*/
+
+details[open] summary h1 {
+  color: #1d2d35 !important;
+  font-size: 32px !important;
+  font-weight: 500 !important;
+}
+
+details#level1 summary h1 {
+  font-weight: 600 !important;
+  font-size: 1.55rem !important;
+  font-weight: 400 !important;
+}
+
+[data-dark-mode] details#level1 summary h1 {
+  color: #dee2e6 !important;
+}
+
  #btnExpandHideAllDetails {
 	height: 25px !important;
 }
@@ -246,4 +277,14 @@ summary h1 {
 
 .page-links li:not(:first-child) {
     border-top: none !important;
+}
+
+div#subtitle {
+  color: #1d2d35 !important;
+  font-size: 1rem;
+  font-weight:200;
+}
+
+[data-dark-mode] div#subtitle {
+  color: #dee2e6 !important;
 }
