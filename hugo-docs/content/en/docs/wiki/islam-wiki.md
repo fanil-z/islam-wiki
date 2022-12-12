@@ -5419,20 +5419,22 @@ Sending small scouting parties to gather intelligence about Quraysh movement, an
     And why should you not fight in the cause of God and for those who, being weak, are ill-treated (and oppressed)? Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from Thee one who will protect; and raise for us from Thee one who will help!" 
     Quran, surah An-Nisa (The Woman) 4:75
 
-A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, Muhammadﷺ   took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, Muhammad amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
+A key battle in the early days of Islam, the Battle of Badr was the first large-scale battle between the nascent Islamic community of Medina and their opponent Quraysh of Mecca where the Muslims won a decisive victory. The battle has some background. In 2 AH (623 CE) in the month of Rajab, a Muslim patrolling group attacked a Quraysh trading caravan killing its elite leader Amr ibn Hazrami. The incident happening in a sacred month displeased Muhammad, and enraged the Quraysh to a greater extent. The Quran however neutralizes the effect saying that bloodshed in sacred month is obviously prohibited, but Quraysh paganism, persecuting on the Meccan converts, and preventing people from the Sacred Mosque are greater sins (Quran 2:217). 
+
+Traditional sources say that upon receiving intelligence of a richly laden trading caravan of the Quraysh returning from Syria to Mecca, prophet Muhammadﷺ   took it as a good opportunity to strike a heavy blow on Meccan power by taking down the caravan in which almost all the Meccan people had invested. With full liberty to join or stay back, prophet Muhammad ﷺ   amassed some 313 inadequately prepared men furnished with only two horses and seventy camels, and headed for a place called Badr. Meanwhile, Abu Sufyan, the leader of the caravan, got the information of Muslim march, changed his route towards south-west along Red Sea, and send out a messenger, named Damdam ibn Umar, to Mecca asking for immediate help. The messenger exaggerated the news in a frenzy style of old Arab custom, and misinterpreted the call for protecting the caravan as a call for war.
 
 > 313 Muslims were against the heavily equipped army of 1000 from Quraish.
 
-The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad, he held a council of war where the followers advised him to go forward. 
+The Quraysh with all its leading personalities except Abu Lahab marched with a heavily equipped army of more than one thousand men with ostentatious opulence of food supply and war materials. Abu Sufyan's second message that the trading caravan successfully had escaped the Muslim interception, when reached the Quraish force, did not stop them from entering into a major offensive with the Muslim force, mainly because of the belligerent Quraysh leader Abu Jahl. The news of a strong Quraysh army and its intention reaching the Islamic prophet Muhammad ﷺ  , he held a council of war where the followers advised him to go forward. 
 
-The Prophet felt bound to consult his men and to let theirs be the choice between advancing and retreating. Abu Bakr and 'Umar spoke for the Emigrants in favour of advancing and then, by way of confirmation of all that they had said, an ally of the Bani Zuhrah who had only recently come to Medina, Miqdad by name, rose to his feet and added: "0 Messenger of God, do what God hath shown thee to do. We will not say unto thee as the children of Israel said unto Moses: Go thou and thy Lord and fight; we shall sit here, but we will say: 'Go thou and thy Lord and fight, and with you we also will fight, on the right and on the left, before thee and behind thee.'" AbdAllah ibn Mas'ud used to tell in after years of the great light that dawned on the Prophet's face when he heard those words and as he blessed their speaker.
+The Prophet ﷺ   felt bound to consult his men and to let theirs be the choice between advancing and retreating. Abu Bakr and 'Umar spoke for the Emigrants in favour of advancing and then, by way of confirmation of all that they had said, an ally of the Bani Zuhrah who had only recently come to Medina, Miqdad by name, rose to his feet and added: "0 Messenger of God, do what God hath shown thee to do. We will not say unto thee as the children of Israel said unto Moses: Go thou and thy Lord and fight; we shall sit here, but we will say: 'Go thou and thy Lord and fight, and with you we also will fight, on the right and on the left, before thee and behind thee.'" AbdAllah ibn Mas'ud used to tell in after years of the great light that dawned on the Prophet's face when he heard those words and as he blessed their speaker.
 
 > A light slumber came upon him, and when he woke he said: "Be of good
 cheer, Abu Bakr; the help of God hath come to thee. Here is Gabriel and in
 his hand is the rein of a horse which he is leading, and he is armed for
 war."
 
-The Prophet took up a handful of pebbles and shouting at Quraysh "Defaced be those faces!", he hurled the pebbles at them, conscious that he was hurling disaster. Then he gave the order to charge. 
+The Prophet ﷺ   took up a handful of pebbles and shouting at Quraysh "Defaced be those faces!", he hurled the pebbles at them, conscious that he was hurling disaster. Then he gave the order to charge. 
 
      And you (Muhammad SAW) threw not when you did throw but it was God that threw.
      Quran, surah Al-Anfal (The Spoils of War) 8
@@ -5441,7 +5443,7 @@ These words were part of the Revelation which came immediately after the
 battle.
 
 When the believers were ordered to charge, they did not charge alone, as
-well the Prophet knew, for he had been promised: 
+well the Prophet Muhammad ﷺ   knew, for he had been promised: 
 
     ˹Remember˺ when you cried out to your Lord for help, He answered, "I will reinforce you with a thousand angels—followed by many others."
     Quran, surah Al-Anfal (The Spoils of War) 8:9
@@ -5457,11 +5459,11 @@ By noon the battle was over. The Quraysh fled. Forty-nine of the enemy had falle
 
 Badr is the most important battle in the entire history of Islam, and one of the most important in world history. Victory guaranteed the existence of Islam, and the physical survival of the Muslim community of Medina which heretofore had appeared, at best, to be precarious.
 
-But the importance of Mohammed's success (in the battle of Badr) cannot be measured by the material damage which he inflicted (upon the pagans of Mecca). Considering the momentous issues involved, we must allow that Badr, like Marathon, is one of the greatest and most memorable battles in all history. (A Literary History of the Arabs, A. Nicholson, 1969)
+But the importance of Mohammed's ﷺ   success (in the battle of Badr) cannot be measured by the material damage which he inflicted (upon the pagans of Mecca). Considering the momentous issues involved, we must allow that Badr, like Marathon, is one of the greatest and most memorable battles in all history. (A Literary History of the Arabs, A. Nicholson, 1969)
 
 Most of Quraysh escaped, but some fifty were mortally wounded or killed outright in the battle or overtaken and cut down as they fled. About the same number were taken captive. Umar suggested that they should not keep the captives alive, but Abu Bakr was in favour of letting the captives live, in
 the hope that sooner or later they might become believers, and the Prophet
-inclined to his view. But later in the day, when 'Umar returned to the shelter, he found the Prophet and Abu Bakr in tears on account of a Revelation which had come: 
+inclined to his view. But later in the day, when 'Umar returned to the shelter, he found the Prophet ﷺ   and Abu Bakr in tears on account of a Revelation which had come: 
 
     It is not for a prophet to hold captives until he hath made great slaughter in the land. Ye would have for yourselves the gains of this world and God would have for you the Hereafter, and God is Mighty, Wise.
     Quran, surah Al-Anfal (The Spoils of War) 8:67
@@ -5471,23 +5473,23 @@ But the Revelation then made it clear that the decision to spare the captives ha
     O Prophet, say unto those captives who are in your hands: If God knoweth any good in your hearts, He will give you better than that which hath been taken from you, and He will forgive you. Verily God is Forgiving, Merciful.
     Quran, surah Al-Anfal (The Spoils of War) 8:70
 
-There was, however, one man, Abu Jahl, who clearly could not be allowed to live. The general opinion was that he had been killed and the Prophet gave orders that his body should be searched for. 'Abdallah ibn Mas'ud went out again to the battlefield and searched until he found the man who had done more than any other to stir up hatred of Islam amongst the people of Mecca. Abu Jahl still had enough life in him to recognise the enemy who now stood over him. 'Abdallah had been the first man to recite the Koran aloud in front of the Ka'bah, and Abu jahl had struck him a severe blow and wounded him in the face, for he was merely a confederate of Zuhrah and a poor one at that, his mother having been a slave. 'Abdallah now placed his foot on the neck of Abu jahl, who said: "Thou hast climbed high indeed, little shepherd." Then he asked him which way the fortunes of war had swung that day, his implication being that next time they would swing in the opposite direction. `"God and His
-messenger have won,"` he answered. Then he killed Abu Jahl. 
+There was, however, one man, Abu Jahl, who clearly could not be allowed to live. The general opinion was that he had been killed and the Prophet gave orders that his body should be searched for. 'Abdallah ibn Mas'ud went out again to the battlefield and searched until he found the man who had done more than any other to stir up hatred of Islam amongst the people of Mecca. Abu Jahl still had enough life in him to recognise the enemy who now stood over him. 'Abdallah had been the first man to recite the Koran aloud in front of the Ka'bah, and Abu jahl had struck him a severe blow and wounded him in the face, for he was merely a confederate of Zuhrah and a poor one at that, his mother having been a slave. 'Abdallah now placed his foot on the neck of Abu jahl, who said: "Thou hast climbed high indeed, little shepherd." Then he asked him which way the fortunes of war had swung that day, his implication being that next time they would swing in the opposite direction. `"God and His messenger have won,"` he answered. Then he killed Abu Jahl. 
 
 Badr was a Muslim triumph, as total as it was unexpected; the Muslims lost 14 men and the Quraysh from 50 to 70, including their leader, Abu Jahl. It was an immense psychological victory and there was plentiful booty for the economically distressed Emigrants. This was no mere raid, however. It pitted Muslim against non-Muslim in Holy War, and fathers against sons in civil strife. The Quraysh casualties were extraordinarily high, and since most of them had occurred among the chiefs, the leadership at Mecca was permanently crippled. (Allah's Commonwealth, 1973)
 
 ### Dhul-Fiqar Sword
 
-Among the spoils of the battle of Badr was a famous sword of admirable temper called Dhul-Fiqar, or the Piercer. Mohammed ever afterwards bore it when in battle, and his son-in-law, Ali, inherited it at his death. (The Life of Mohammed, Washington Irving)
+Among the spoils of the battle of Badr was a famous sword of admirable temper called Dhul-Fiqar, or the Piercer. Prophet Mohammed ﷺ   ever afterwards bore it when in battle, and his son-in-law, Ali, inherited it at his death. (The Life of Mohammed, Washington Irving)
 
 Abdullah Yusuf Ali, the translator and commentator of Qur’an, says that the battle of Badr is called the Furqaan in Muslim theology, because it was the first trial of strength by battle, in Islam, between the powers of good and evil. Furqaan means criterion between right and wrong; decision between the forces of Faith and Unbelief. The battle of Badr is called by this name.
 
 ### Men of the Pit
 
-The Prophet gave orders that the bodies of all the infidels slain in the
-battle should be thrown into a pit. Prophet Muhammad spoke to the men of the pit.
+The Prophet ﷺ   gave orders that the bodies of all the infidels slain in the
+battle should be thrown into a pit. Prophet Muhammad ﷺ   spoke to the men of the pit.
 
 > "O men of the pit," he said, "kinsmen of your Prophet, ill was the kinship ye showed him. Liar ye called me, when others took me in; against me ye fought, when others helped me to victory. Have ye found it to be true, what your Lord promised you? I have found it to be true, what my Lord promised me."
+>
 > Martin Lings "Muhammad: His Life Based on the Earliest Sources"
 
 ### The Prisoners of War
@@ -7143,7 +7145,7 @@ Ibn Hisham is Muhammad ibn Iskhak's student.
 
 </details></details><details><summary>
 
-# 8.5 The Islamic Golden Age 📚🕌⚗️🏆
+# 8.5 The Islamic Golden Age 🕌📚🏆
 *******************************************
 
 </summary><details><summary> 
@@ -9677,11 +9679,24 @@ Allah says in the Quran that He has already gifted the prophet Muhammad ﷺ   Al
 
 </details><details><summary>
 
-## Al Ar'af
+## Al Ar'af (Purgatory)
 
 </summary>
 
 There will be a barrier [ḥijāb] between Paradise and Hell. And on the heights [al-aʿrāf] of that barrier˺ will be people who will recognize ˹the residents of˺ both by their appearance. They will call out to the residents of Paradise, "Peace be upon you!" They will have not yet entered Paradise, but eagerly hope to (Q.7:46).
+
+Araf is the name given to the high place (some say a castle and tower) separating Paradise and Hell. In other words, Araf is a buffer zone between Paradise and Hell, separating them. There are some disputes over who will be the people of Araf; there are two views that became prominent.
+
+1. People who were not informed about the call of any prophets and children of polytheists who died very young.
+
+2. Believers whose good deeds and bad deeds are equal. They will have to wait between Paradise and Hell before they enter Paradise.
+
+The followings is stated in the Quranic verse about the people of Araf::
+
+    Between them shall be a veil, and on the Heights will be men who would know everyone by his marks: they will call out to the companions of the Garden "peace on you" they will not have entered, but they will have an assurance (thereof.) When their eyes shall be turned towards the companions of the Fire, they will say: "Our Lord! Send us not to the company of the wrong-doers."
+    Quran, surah Al-Araf (The Heights) 7:46-47
+
+However, Araf is not a place of permanent resident. After making the people of Araf wait there for a while temporarily, Allah will make a decision for them and send them to Paradise with his blessing.
 
 As for who the inhabitants of the inhabits al-aʿrāf are, the "majority of exegetes" support the theory that they are persons whose actions balance in terms of merit and demerit -- whose good deeds keep them from the Fire and whose evil deeds keep them from the Garden. They will be the last to enter the Garden, at the mercy of their Lord.
 
@@ -9779,17 +9794,31 @@ Shaykh as-Saduq (r.a..) has written:
  
 The words 'heir' and 'inherit' refer to this episode, whereas the believers will get the places which were kept for others who did not make it and whose rejection of faith led them to die Fire.
 
-
-
 </details><details><summary>
 
-## Shafa'a (Another round of Intercessions)
+## Shafaat (Another round of Intercessions)
 
-> For now, I do not understand whether there will be a second intercession period and when exactly it will take place. And seems like there is no clear consensus among the scholars.
+</summary>
+
+> Yasir Qadhi says that there will be several intercession rounds througout the Day of Judgement and maybe after. 
+
+It means for the believers who have sins to ask prophets, ulama (scholars) and martyrs, whom Allah allowed to intercede, to pray and beg Allah for their forgiveness and for those who do not have any sins to ask for ascension to higher degrees. 
+
+The Quran gives special significance to intercession and connects it with the issue of oneness. Some of the Quranic verses related to this issue are as follows:
+
+    "O Who is there can intercede in His presence except as He permitteth?"
+    Quran, surah Al-Baqara (The Cow) 2:255
+
+    "They offer no intercession except for those who are acceptable" 
+    Quran, surah Al-Anbiya (The Prophets), 21:28
+
+Allah can consent to the intercession of only His slaves who deserve to be forgiven as a necessity of His divine justice. The Prophet said the following in a hadith:
+
+> "Every prophet has a prayer peculiar to him that is accepted, and they have always prayed. However, I keep my prayer for the intercession for my umma in the hereafter." (Bukhari, Daawat, 1.)
 
 Allah, in His Mercy, has opened many doors for His sinner servants to seek His pleasure and forgiveness. Two very important doors are 'Tawbah' (Repentance) and Shafa'at (Intercession).
  
-Before explaining the Shafa 'at, a few details about 'Tawbah' will not be out of place here.
+Before explaining the Shafaat, a few details about 'Tawbah' will not be out of place here.
  
     "O ye who believe! Turn to Allah with sincere repentance, in the hope that your Lord will remove from you your ills (evil deeds) and admit you into the Gardens beneath which rivers flow."
     Quran, surah At-Tahrim (The Prohibition) 66:8
@@ -9820,9 +9849,10 @@ Other Ayats show that for the unbelievers there will not be any intercessor. But
 Shaykh as-Saduq (r.a..) has, written:
 “It is our belief about Shafa'at that it is meant for (the benefit of) those whose faith was acceptable to Allah (i.e., for the true believers) who might have committed sins - capital or trivial. And those who had repented from their sins will not need any intercession. And the Prophet said: “He who does not believe in my intercession, Allah will not permit him to get my Shafa'at.” Also he said: “There is no intercessor more successful than repentance.”
 
-<details><summary>
+</details><details><summary>
 
 ## Some notes on Biblical version of the Judgement Day
+
 </summary>
 
 The verses of the Bible about the Day of Judgement are worth mentioning. In some places, I deliberately missed the parts that talk about our beloved prophet Isa (Jesus) (peace be upon him) as a son of God. We, as Muslims, believe that he was one of the greatest human beings and the messiah of God.
