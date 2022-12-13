@@ -6,7 +6,7 @@ toc: true
 
 <h1 style="font-size: 2.2rem; font-style: bold; color: #4aa3a0; margin-bottom: 0.1rem !important;"> World History Timeline  <div id="subtitle"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
 
-</br></br><details open><summary>
+</br></br><details id="level0" open><summary id="level0">
 
 # 0. Before Creation of Humankind
 
@@ -792,7 +792,7 @@ The shedim are not always seen as malicious creatures and are also considered to
 Conjuring shedim isn't necessarily forbidden, depending on whether or not, author's view summoning them as sorcery or not. Even if summoning shedim is an act of sorcery and thus forbidden, consulting shedim conjured by a non-Jew would be permissible.
 
 Shedim can shapeshift and assume a human form. The Talmud tells of Asmodeus assuming King Solomon's form and ruling in his place for some time. However, he was never seen barefoot because he could not disguise his feet.
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 1. Adam and Eve
 
@@ -992,7 +992,7 @@ Therefore, in the Quran, Adam, Eve, and Satan are all sent down to Earth. On Ear
 
 There is a difference of opinions on the question of where Adam and Eve landed on earth. The majority of tabi'un and sahabi said that Adam came from the Heavens to the land oh Hind (modern day India). Other opinions include that he landed in Mecca or in Sri-Lanka. When it comes to Hawwah, some say that she came with Adam to Mecca, some say to India with Adam, and most say that she came in Jedda. The place where they came down is not mentioned in the Quran and ahadith, thus these are only presumptions. There are narrations that Adam and Eve came together again in the Mount of Arafat.
 
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 2. Early Human Era on Earth
 
@@ -1179,7 +1179,7 @@ Consider how Shaitan did not simply suggest to the people to worship idols. He g
 
 Shaitan has been using this trick for ages and continues to do so today. One has to only see the fitnah among people nowadays and compare it with a few decades ago.
 
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 3. Nuh (Noah) and Great Flood ⛴🕊⛰
 
@@ -1433,7 +1433,7 @@ The story is expanded upon in Sūrat an-Naml, whilst the she-camel is not mentio
 
 Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized: Šélaḥ), Salah or Sala (Greek: Σαλά – Salá) or Shelah is an ancestor of the Ishmaelites and Israelites according to the Table of Nations in Genesis 10. He is thus one of the table's "seventy names." He is also mentioned in Genesis 11:12–15, 1 Chronicles 1:18–24, and Luke 3:35-36. In the ancestral line from Noah to Abraham, he is the son of Arpachshad (in the Masoretic Text and Samaritan Pentateuch) or Cainan (in the Septuagint ) and the father of Eber.
 
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 4. Ibrahim (Abraham) (~2100-1900 BCE)
 
@@ -2258,7 +2258,7 @@ Shuayb's mission is often mentioned in the Quran with the mission of Noah, Hud, 
 
 Jethro is mentioned in the Bible (Exodus 3:1) as the father in law of Moses. Although Shuaib is frequently identified with the Midianite priest Jethro, most modern scholars reject this identification. Classical commentators, such as Ibn Kathir, say Shuʿayb was a great-grandson of Abraham: Shuʿayb is believed to have been the son of Mikil, son of Issachar, son of Midian, son of Abraham. That would render impossible the identification with Jethro, who lived at the time of Moses, purportedly hundreds of years after Abraham.
 
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 5. Musa and the Exodus (~1500 BCE)
 
@@ -2791,7 +2791,7 @@ Abu Hurairah narrated:
 
 According to Bible, Moses also dies very close to The Promised Land (also known as "The Land of Milk and Honey", is the land which, according to the Tanakh (the Hebrew Bible or Old Testament), God promised and subsequently gave to Abraham and to his descendants).
 
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 6. Jewish Prophets & Kings (1000-0 BCE)
 
@@ -3321,7 +3321,7 @@ And Allaah says (interpretation of the meaning):
     Say (O Muhammad to the people of the Scripture): "Shall I inform you of something worse than that, regarding the recompense from Allah: those (Jews) who incurred the Curse of Allaah and His Wrath, and those of whom (some) He transformed into monkeys and swines, and those who worshipped Taaghoot (false deities); such are worse in rank (on the Day of Resurrection in the Hell-fire), and far more astray from the Right Path (in the life of this world)"
     Quran, surah Al-Maaidah (The Table) 5:59-60 
 
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 7. Isa (Jesus and Family of Imran)
 
@@ -3896,7 +3896,7 @@ It is important to take into account that the Bible cannot be fully called the W
 
 * [10 Resons why Jesus is not divine from Islamic perspective](https://www.youtube.com/watch?v=pCuxnu_IGUk)
 
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 8. History of Islam ☪
 
@@ -7858,7 +7858,7 @@ Later in history of Tatars, several occasions of forceful Christianization occur
 
 ## 1556: The Russians conquer Astrakhan
 
-</summary></details></details></details></br><details open><summary>
+</summary></details></details></br></details><details id="level0" open><summary id="level0">
 
 # 9. Yawm Al Qiyamah (Day of Judgement)
 
@@ -8441,7 +8441,7 @@ The Trumpet will be sounded three times (two in some narrations): (1) upon the f
 
 The Day of Judgment will occur a long time later than the Day of Resurrection.
 
-</details></details></br><details open><summary>
+</details></br></details><details id="level0" open><summary id="level0">
 
 # 10. Al Akhirah (The Hereafter) [TBD]
 

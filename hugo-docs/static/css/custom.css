@@ -21,9 +21,9 @@
     background-color: #4ba48b12;
 }
 
-  .hljs {
-  	background: #f3f3f3b8;
-  }
+.col-lg-11 {
+    width: 70% !important;
+}
 
   [data-dark-mode] .col-xl-3 {
     border-right-color: #424242;
@@ -144,12 +144,21 @@ summary h1 {
   font-weight: 500 !important;
 }
 
-/*
-details#level0[open] summary::-webkit-details-marker {
-  display:none !important;
+summary#level0::before {
+    display: none !important;
+    border-bottom: none !important;
 }
 
-details[open] > summary::-webkit-details-marker {
+summary::before {
+    margin-right: 0 !important;
+}
+
+details#level0[open] summary#level0 {
+  border-bottom: none !important;
+}
+
+/*
+details > summary::-webkit-details-marker {
   display: none;
 }*/
 
