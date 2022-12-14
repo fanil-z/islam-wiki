@@ -21,10 +21,6 @@
     background-color: #4ba48b12;
 }
 
-.col-lg-11 {
-    width: 70% !important;
-}
-
   [data-dark-mode] .col-xl-3 {
     border-right-color: #424242;
     background-color: #21444321 !important;
