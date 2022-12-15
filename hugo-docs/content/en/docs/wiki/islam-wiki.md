@@ -4,7 +4,7 @@ author: fanil
 toc: true
 ---
 
-<h1 style="font-size: 2.2rem; font-style: bold; color: #4aa3a0; margin-bottom: 0.1rem !important;"> World History Timeline  <div id="subtitle"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
+<h1 style="font-size: 2.2rem; font-style: bold; color: #4aa3a0; margin-bottom: 0.1rem !important; font-weight: 400"> World History Timeline  <div id="subtitle"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
 
 </br></br><details id="level0" open><summary id="level0">
 
@@ -3691,7 +3691,7 @@ The earliest followers of Jesus were a sect of apocalyptic Jewish Christians wit
 
 </details><details><summary>
 
-## How Paul corrupted teachings of Jesus
+## How Paul corrupted teachings of Prophet Jesus
 
 </summary>
 
@@ -4328,7 +4328,7 @@ Two different narrations from Aisha give these details.
 
 > Khadija then accompanied him to her cousin Waraqah bin Naufil bin Asad bin 'Abdul 'Uzza, who, during the Pre-Islamic Period became a Christian and used to write the writing with Hebrew letters. He would write from the Gospel in Hebrew as much as God wished him to write. He was an old man and had lost his eyesight. Khadija said to Waraqah, "Listen to the story of your nephew, O my cousin!" Waraqah asked, "O my nephew! What have you seen?" God's Apostle described whatever he had seen. Waraqah said, "This was the same one who keeps the secrets whom Allah had sent to Moses (Angel Gabriel). I wish I were young and could live up to the time when your people would turn you out." God's Apostle asked, "Will they drive me out?" Waraqah replied in the affirmative and said, "Anyone (man) who came with something similar to what you have brought was treated with hostility; and if I should remain alive till the day when you will be turned out then I would support you strongly." But after a few days Waraqah died and the Divine Inspiration was also paused for a while.
 
-</details></details><details id="level1"><summary style="background-color: #8f7db947; border-radius: 5px;">
+</details></details><details id="level1"><summary style="background-color: #8f7db925; border-radius: 5px;">
 
 # 8.2. Prophet Muhammad  ﷺ   
 
