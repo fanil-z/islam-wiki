@@ -2,6 +2,7 @@
 date: 9 Apr 2022
 author: fanil
 toc: true
+url: "/islam-wiki/"
 ---
 
 <h1 style="font-size: 2.2rem; font-style: bold; color: #4aa3a0; margin-bottom: 0.1rem !important; font-weight: 400"> World History Timeline  <div id="subtitle"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>

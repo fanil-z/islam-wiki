@@ -2,7 +2,6 @@
 date: 16 Dec 2022
 author: fanil
 toc: false
-title: Contacts
 ---
 
 <style>
@@ -12,7 +11,7 @@ li p {
 	margin-bottom: 0.3rem !important ;
 }
 
-body {
+article * {
 	text-align: left !important;
 }
 
@@ -24,4 +23,4 @@ Please feel free to send your feedback to <a href="mailto:gilmetdeen@proton.me">
 ### See Also
 
 * [Links & Disclaimer](../wiki/links/)
-* [World History Timeline](../wiki/islam-wiki)
+* [World History Timeline (According to Islamic Sources)](../../islam-wiki)

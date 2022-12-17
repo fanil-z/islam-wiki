@@ -26,6 +26,10 @@
     background-color: #21444321 !important;*/
 }
 
+article {
+  text-align: left !important;
+}
+
   blockquote {
   	margin-top: 1rem;
     font-size: 0.96rem !important;
