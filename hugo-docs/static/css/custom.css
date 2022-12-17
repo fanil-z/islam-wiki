@@ -12,10 +12,6 @@
     order: 1 !important;
   }
 
-  .sticky-lg-top {
-    position: unset !important;
-  }
-
   .col-xl-3 {
     width: 24% !important;
     margin-right: 3rem;
