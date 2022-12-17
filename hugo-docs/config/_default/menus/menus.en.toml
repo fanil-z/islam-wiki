@@ -11,7 +11,7 @@
 
 [[main]]
   name = "Wiki"
-  url = "/docs/wiki/islam-wiki"
+  url = "/islam-wiki"
   weight = 5
 
 # [[social]]
