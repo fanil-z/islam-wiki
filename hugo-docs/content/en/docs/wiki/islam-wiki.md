@@ -4,6 +4,7 @@ author: fanil
 description: "World History Timeline according to Islamic sources"
 toc: true
 url: "/islam-wiki/"
+cover.linkFullImages: true
 ---
 
 <h1 style="font-size: 2.2rem; font-style: bold; color: #4aa3a0; margin-bottom: 0.1rem !important; font-weight: 400"> World History Timeline  <div id="subtitle"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
@@ -3927,7 +3928,7 @@ Hashim tells people to build houses in the Kaaba region
 Hashim established Mecca as a caravan route stop
 Abd-Al Muttalib rediscovers Zamzam well
 
-For details, see (Arabia before Islam)[https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/arabia-islam].
+For details, see [Arabia before Islam](https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/arabia-islam).
 
 Hadith from Sahih Muslim, the prophet Muhammad ﷺ    said:
 
@@ -3991,7 +3992,9 @@ Many family trees have been presented by Adnan, which did not agree about the nu
 570 years passed between Isa and the prophet Muhammad ﷺ  .
 
 <img src="/prophet_muhammad_ancestors.jpg" alt="Ancestors of Prophet Muhammad ﷺ  ">
+
 Kinanah was known for his bravery and wisdom. People would do hajj to meet Kinanah. 3 people have a founding role in founding Quraish. 
+
 * The Quraish was the best and the Bani Hashim tribe was the best, the most noble tribe.
 * Mudr was the first to use camels into caravans.
 * Kinanah was noble. People used to do Hajj to meet Kinana. He was a legendary Arab full of knowledge. from Kinana Allah chose Quraish. 
