@@ -1,6 +1,7 @@
 ---
 date: 9 Apr 2022
 author: fanil
+description: "World History Timeline according to Islamic sources"
 toc: true
 url: "/islam-wiki/"
 ---
