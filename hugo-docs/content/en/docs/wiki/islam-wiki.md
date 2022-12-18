@@ -795,7 +795,7 @@ Conjuring shedim isn't necessarily forbidden, depending on whether or not, autho
 Shedim can shapeshift and assume a human form. The Talmud tells of Asmodeus assuming King Solomon's form and ruling in his place for some time. However, he was never seen barefoot because he could not disguise his feet.
 </details></br></details><details id="level0" open><summary id="level0">
 
-# 1. Adam and Eve
+# 1. Adam and Eve 🍎
 
 </summary><details><summary>
 
