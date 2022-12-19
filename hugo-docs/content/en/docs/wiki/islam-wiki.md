@@ -8069,7 +8069,7 @@ Al-Masih ad-Dajjal ('Deceitful Messiah'), is blind in one eye, and will deceive 
 
 > Narrated Mu'adh ibn Jabal: The Prophet ﷺ   said: The flourishing state of Jerusalem will be when Yathrib is in ruins, the ruined state of Yathrib will be when the great war comes, the outbreak of the great war will be at the conquest of Constantinople and the conquest of Constantinople when the Dajjal (Antichrist) comes forth. He (the Prophet) struck his thigh or his shoulder with his hand and said: This is as true as you are here or as you are sitting (meaning Mu'adh ibn Jabal).
 
-Before coming of Dajjal, there will be years of deception.
+Before coming of Dajjal, there will be years of deception. Also, seems like there will be a devastating war before Dajjal comes. For details, see [Khutbah about the war before Dajjal by Yasir Qadhi](https://www.youtube.com/watch?v=vZ4ZxXvGuzQ).
 
 Thawban ibn Kaidad narrated that prophet Muhammad ﷺ   said:
 

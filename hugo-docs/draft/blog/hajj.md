@@ -4,6 +4,15 @@ draft: true
 ---
 <p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b>Ultimate Guide for Hajj </b> <div style="font-size: 1rem"> The Pilgrim's guide from a person who has never done hajj yet</div></p>
 
+	And (due) to Allah from the people is a pilgrimage to the House - for whoever is able to find thereto a way.
+	The Holy Qur'an
+
+The Prophet Muhammad SAW heralded that those who complete hajj by abandoning the desires of nafs and lust, and avoiding sins and evil will be as much clean as the day they were born. Prophet Muhammad SAW stated:
+
+> "The reward of hajj accepted by Allah SWT is nothing but heaven."
+>
+> Bukhari, Muhsar, 10; Umrah, 1.
+
 # Overview
 -----------------------------------------------
 
