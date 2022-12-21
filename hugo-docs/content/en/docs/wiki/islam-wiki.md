@@ -3886,16 +3886,16 @@ It is very problematic that Christians take the words of Paul and others who cam
 
 Nicaea was all about Arius and Constantine wanted to establish peace among his own ruling lands. Unfortunately, they chose the corrupted version of Christianity.
 
-Peter the Venerable said that prophet Muhammad ﷺ    was the successor to Arius. The original Christianity was very close to original Jewish religion and Islam. Jesus was Jewish and he was circumsized, he prayed to God prostrating to earth and he greeted people with "Shalom". 
+Peter the Venerable said that prophet Muhammad ﷺ   was the successor to Arius. The original Christianity was very close to original Jewish religion and Islam. Jesus was Jewish and he was circumsized, he prayed to God prostrating to earth and he greeted people with "Shalom". 
 
 Jesus attended Jewish temples and he just logically couldn't claim that he is God. The disciples also attended Jewish temples and worshipped God alone. 
 Jesus came to revive the religion of Moses, not to build new churches and invent a new religion.
 
 God is self-sufficient. Jesus ate, slept and prayed. God is not born. Jesus and his followers went to Jewish temples and prayed the same way Moses and Ibrahim prayed. There are multiple times in the Gospels a statement that noone has seen God. According to the Bible, even Jesus himself said: "I have never seen God". And in that time period, many good people were called son of God.
 
-Jesus prayed to God prostating his face to the ground.
+Prophet Jesus prayed to God prostating his face to the ground.
 
-It is important to take into account that the Bible cannot be fully called the Word of God because it was translated from it's original language and corrupted by writers of multiple epochs. The Quran, on contrary, remains in the original Arabic language up to this day.
+It is important to take into account that the Bible cannot be fully called the Word of God because it was translated from its original language and corrupted by writers of multiple epochs. The Quran, on the contrary, remains in the original Arabic language up to this day.
 
 * [10 Resons why Jesus is not divine from Islamic perspective](https://www.youtube.com/watch?v=pCuxnu_IGUk)
 
@@ -3987,9 +3987,9 @@ Yagrub's father was Kakhtan and believed to be the starter of the Arab languange
 
 Most probably the son of Adnan lived at the time of Isa AS. According to tradition, Adnan is the father of a group of the Ishmaelite Arabs who inhabited West and Northern Arabia; he is a descendant of Ishmael, son of Abraham. Adnan is believed by genealogists to be the father of many Ishmaelite tribes along the Western coast of Arabia, Northern Arabia and Iraq.
 
-Many family trees have been presented by Adnan, which did not agree about the number of ancestors between Ishmael and Adnan but agreed about the names and number of the ancestors between Adnan and the Islamic prophet Muhammad.
+Many family trees have been presented by Adnan, which did not agree about the number of ancestors between Ishmael and Adnan but agreed about the names and number of the ancestors between Adnan and prophet Muhammad ﷺ  .
 
-570 years passed between Isa and the prophet Muhammad ﷺ  .
+570 years passed between prophet Isa AS and the prophet Muhammad ﷺ  .
 
 <img src="/prophet_muhammad_ancestors.jpg" alt="Ancestors of Prophet Muhammad ﷺ  ">
 
