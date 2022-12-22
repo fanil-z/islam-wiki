@@ -37,7 +37,7 @@ li p {
 >
 > Also, it is worth mentioning that Islam is not a completely new religion. It is the continuation of Abrahamic religions. Although there are differentiations in narration about certain figures, Islam, Judaism and Christianity share the same prophets and are built on the base of the same dogma -- Onenness of God. According to Islamic tradition, every nation had its prophet. Quran mentions 25 prophets by name. Many Biblical prophets are not mentioned in this guide because there was no authentic hadith about this particular prophet in Islamic tradition.
 >
-> Please feel free to send feedback to <a href="mailto:islam-wiki@proton.me">islam-wiki@proton.me</a> if you come across parts that contradict the Quran or authentic ahadith or if the timeline order is incorrect. 
+> Please feel free to send feedback to <a href="mailto:gilmetdeen@proton.me">gilmetdeen@proton.me</a> if you come across parts that contradict the Quran or authentic ahadith or if the timeline order is incorrect. 
 > 
 > May Allah guide us all to the right path.
 
