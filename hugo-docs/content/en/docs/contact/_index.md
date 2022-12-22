@@ -17,7 +17,7 @@ article * {
 
 </style>
 
-Please feel free to send your feedback to <a href="mailto:gilmetdeen@proton.me">gilmetdeen@proton.me</a> if you have any suggestions or corrections.
+Please feel free to send your feedback to <a href="mailto:gilmetdeen@proton.me">gilmetdeen@proton.me</a>.
 </br>
 
 ### See Also

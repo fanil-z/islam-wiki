@@ -483,7 +483,7 @@ The Quran says that the heavens and the earth were joined together as one "unit 
     The heavens and the earth were joined together as one unit, before We clove them asunder 
     Quran, surah Al-Nabiyaa (The Prophets) 21:30
 
-Following this big explosion 💥, the heavens and the earth came into their present shape after going through a phase when they were smoke-like.
+Following this explosion 💥, the heavens and the earth came into their present shape after going through a phase when they were smoke-like.
 
     Then He turned to the heaven while it was smoke. He said to the heaven and the earth: "Come (into being), willingly or unwillingly." They said: "We come willingly."
     Quran, surah Fussilat (Explained in Detail) 41:11
@@ -514,7 +514,7 @@ There has been some historical debate among Muslim scholars about the precise me
 
 </details><details><summary>
 
-## Big Bang Scientific Side-Note
+## The Big Bang Side-Note
 
 </summary>
 
