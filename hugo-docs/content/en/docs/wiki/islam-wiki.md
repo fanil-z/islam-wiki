@@ -3508,14 +3508,14 @@ Speaking from the cradle is mentioned in three places in the Quran: al-Imran (3)
 
 Almighty Allah refuted the claims of the Jews and the Christians in many verses of the Glorious Quran.
 
-    And they say: 'The Most Beneficent (Allah) has begotten a son (or offspring or children) as the Jews say: Ezra is the son of Allah, and the Christians say that He has begotten a son (Christ), and the pagan Arabs say that He has begotten daughters (angels, etc.)."
+    And they say: "The Most Beneficent (Allah) has begotten a son (or offspring or children) as the Jews say: Ezra is the son of Allah, and the Christians say that He has begotten a son (Christ), and the pagan Arabs say that He has begotten daughters (angels, etc.)."
 
     Indeed you have brought forth (said) a terrible evil thing Where by the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins, that they ascribe a son (or offspring or children) to the Most Beneficent (Allah).
 
     But it is not suitable for (the Majesty of) the Most Beneficent (Allah) that He should beget a son (or offspring or children). There is none in the heavens and the earth but comes unto the Most Beneficent (Allah) as a slave. Verily He knows each one of them, and has counted them a full counting And everyone of them will come to Him alone on the Day of Resurrection (without any helper, or protector or defender).
     Quran, surah Maryam (Mary) 19:88-95
 
-    Almighty Allah commanded: O people of the Scripture (Jews and Christians)! Do not exceed the limits in your religion, nor say of Allah aught but the truth. The Messiah Jesus, son of Mary was (no more than) a Messenger of Allah and His Word, ("Be" - and he was) which He bestowed on Mary and a spirit (Ruh) created by Him; so believe in Allah and His Messengers. Say not: 'Three (trinity)!" Cease! (It is) better for you. For Allah is (the only) One Ilah (God), Glory be to Him (Far Exalted is He) above having a son. To Him belongs all that is in the heavens and all that is in the earth. And Allah is All-Sufficient as a Disposer of affairs.
+    Almighty Allah commanded: O people of the Scripture (Jews and Christians)! Do not exceed the limits in your religion, nor say of Allah aught but the truth. The Messiah Jesus, son of Mary was (no more than) a Messenger of Allah and His Word, ("Be" - and he was) which He bestowed on Mary and a spirit (Ruh) created by Him; so believe in Allah and His Messengers. Say not: "Three (trinity)!" Cease! (It is) better for you. For Allah is (the only) One Ilah (God), Glory be to Him (Far Exalted is He) above having a son. To Him belongs all that is in the heavens and all that is in the earth. And Allah is All-Sufficient as a Disposer of affairs.
     Quran, surah An-Nisa (The Woman) 4:171-173
 
 ### Miracles performed by Isa
@@ -3524,9 +3524,9 @@ The Quran attributes at least six miracles to Jesus.
 
 These six miracles in the Quran are without detail unlike the Gospel and their non-canonical Gnostic sources, which include details and mention other attributed miracles.
 
-    (Remember) when Allah will say (on the Day of Resurrection): 'O Jesus, son of Mary! Remember My Favor to you and to your mother when I supported you with Ruh-ul-Qudus (Gabriel) so that you spoke to the people in the cradle and in maturity and when I taught you writing Al-Hikmah (the power of understanding), the Torah and the Gospel; and when you made out of the clay, as it were, the figure of a bird, by My Permission, and you breathed into it, and it became a bird by My Permission, and you healed those born blind, and the lepers by My Permission, and when you brought forth the dead by My Permission; and when I restrained the Children of Israel from you (when they resolved to kill you) since you came unto them with clear proofs, and the disbelievers among them said: 'This is nothing but evident magic.
+    (Remember) when Allah will say (on the Day of Resurrection): "O Jesus, son of Mary! Remember My Favor to you and to your mother when I supported you with Ruh-ul-Qudus (Gabriel) so that you spoke to the people in the cradle and in maturity and when I taught you writing Al-Hikmah (the power of understanding), the Torah and the Gospel; and when you made out of the clay, as it were, the figure of a bird, by My Permission, and you breathed into it, and it became a bird by My Permission, and you healed those born blind, and the lepers by My Permission, and when you brought forth the dead by My Permission; and when I restrained the Children of Israel from you (when they resolved to kill you) since you came unto them with clear proofs", and the disbelievers among them said: "This is nothing but evident magic".
 
-    And when I (Allah) put in the hearts of the disciples (of Jesus) to believe in Me and My Messenger, they said: "We believe. And bear witness that we are Muslims. " 
+    And when I (Allah) put in the hearts of the disciples (of Jesus) to believe in Me and My Messenger, they said: "We believe. And bear witness that we are Muslims." 
     Quran, surah Al-Maaida (The Table) 5:110-111
 
 #### Creating birds 🐦🐦 from clay
@@ -3535,7 +3535,7 @@ The miracle story of creating birds from clay and breathing life into them when 
 
 #### Healing the blind and the lepers
 
-Similar to the New Testament, the Quran mentions Jesus healing the blind and the lepers in al-Imran (3) 49. Muslim scholar and judge al-Baydawi (d. 1286) wrote how it was recorded that many thousands of people came to Jesus to be healed and that Jesus healed these diseases through prayer only. Medieval scholar al-Tha'labi wrote about how these two particular diseases were beyond medical help, and Jesus' miracles were meant to be witnessed by others as clear signs of his message.
+Similar to the New Testament, the Quran mentions Jesus healing the blind and the lepers in al-Imran 3:49. Muslim scholar and judge al-Baydawi (d. 1286) wrote how it was recorded that many thousands of people came to Jesus to be healed and that Jesus healed these diseases through prayer only. Medieval scholar al-Tha'labi wrote about how these two particular diseases were beyond medical help, and Jesus' miracles were meant to be witnessed by others as clear signs of his message.
 
 ### Raising the dead
 
@@ -3546,7 +3546,7 @@ Jesus was able to predict, or had foreknowledge, of what was hidden or unknown t
 
 #### Table of food from heaven
 
-In the fifth chapter of the Quran, al-Ma'ida (5) 112–115, a narration mentions the disciples of Jesus requesting a table laden with food, and for it to be a special day of commemoration for them in the future.
+In the fifth chapter of the Quran, al-Ma'ida 5:112–115, a narration mentions the disciples of Jesus requesting a table laden with food, and for it to be a special day of commemoration for them in the future.
 
     Allah the Exalted said: (Remember) when the disciples said: "0 Jesus, son of Mary! Can your Lord send down to us a table spread (with food) from heaven?" Jesus said: "Fear Allah, if you are indeed believers." They said: "We wish to eat thereof and to be stronger in Faith, and to know that you have indeed told us the truth and that we ourselves be its witnesses."
 
@@ -3575,7 +3575,7 @@ The Glorious Quran affirms that Allah the Exalted did not permit the people of I
 
 Almighty Allah also revealed: 
 
-    [Mention] when Allāh said, "O Jesus, indeed I will take you and raise you to Myself and purify [i.e., free] you from those who disbelieve and make those who follow you [in submission to Allāh alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ.
+    [Mention] when Allāh said, "O Jesus, indeed I will take you and raise you to Myself and purify [i.e., free] you from those who disbelieve and make those who follow you [in submission to Allāh alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ."
     Quran, surah Aal-i-Imraan (The Family of Imran) 3:55
 
 </details><details><summary>
@@ -3703,7 +3703,8 @@ Early Christians were all Jews as Jesus himself.
 * They did not eat pork;
 * They worshiped one God and prayed to God alone;
 * They greeted each other with "Shalom!" (Peace!)
-* And they considered Jesus to be a promied Messiah
+* And they considered Jesus to be a promised Messiah
+
 
 In the New Testament, in Matthew 5:17 Jesus states why he came:
 
@@ -3723,7 +3724,7 @@ Early Christians opposed Paul. Paul wrongfully began calling people to worship J
 
 The disciples clashed and argued with Paul because of his innovative and bizarre teachings, and the New Testament references this fact. Many Christians mistakenly took him as one of the disciples of Jesus Christ due to his claim that he was, but he was not, nor did he ever meet Jesus Christ. While some Christians elevate Paul to sainthood, Paul was responsible for destroying the teachings of Jesus Christ. He told people they did not need to follow God’s laws, even though Jesus Christ suffered and struggled to convey the Message of God, which included teaching people to obey God’s commandments.
 
-The Bible clearly states the imprtance of following the law.
+The Bible clearly states the importance of following the law.
 > Till Heaven and earth pass, the one that breaks the Law will be called the least person in the Kingdom of Heaven. For truly I tell you, until heaven and earth pass, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished’ ‘Therefore anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.’
 > Matthew 5:18–19
 
@@ -3849,7 +3850,7 @@ Fun fact: It is the same Constantine the founder of Constantinople.
 
 </summary>
 
-> Modern Christianity is based on the following unfortunate turn of eventsm which corrupted original teachings of Jesus:
+> Modern Christianity is based on the following unfortunate turn of events that corrupted original teachings of Jesus:
 >
 > -- 31--36 AD: Paul, who never saw Jesus, proclaimed himself an Apostol.
 >
@@ -3867,7 +3868,7 @@ Fun fact: It is the same Constantine the founder of Constantinople.
 >
 > -- 312 AD: Roman Emperor Contantine I converted to Christianity.
 >
-> -- 325 AD: Nicaean Creed. Contantine gathers church representatives and they decide that the Paul's version of Christianity will be official, thus declaring Jesus to be the son of God. They also decided that the Spirit is a God as well. This contradicted the original Arbrahamic dogma of a "monotheistic" religion in which there could be only one God. So, they decided that all three Gods are united in one entitity, making it the Trinity and destroying the logic.
+> -- 325 AD: Nicaean Creed. Contantine gathers church representatives and they decide that the Paul's version of Christianity will be official, thus declaring Jesus to be the son of God. They also decided that the Spirit is a God as well. This contradicted the original Arbrahamic dogma of a "monotheistic" religion in which there could be only one God. So, they decided that all three Gods are united in one entity, making it the Trinity and destroying the logic.
 >
 > -- At the Nicaean Creed, Arius (an Alexandrian priest who claimed that God alone is Almighty and Jesus is dependend from God) was declared a herethic and was exiled. 
 >
@@ -3937,9 +3938,8 @@ Hadith from Sahih Muslim, the prophet Muhammad ﷺ    said:
 > He chose Banu Hashim from Quraish.
 > He chose me from Banu Hashim.
 
-<!--
-<img src="/pre-islamic-arabia.jpg" alt="Early Expansion"> 
--->
+<img src="/pre-islamic-arabia.jpg" alt="Early Expansion"></br>
+
 Arab traditions relating to the origins and classification of the Arabian tribes is based on biblical genealogy. The general consensus among 14th-century Arabic genealogists was that Arabs were three kinds:
 * "Perishing Arabs": These are the ancients of whose history little is known. They include ʿĀd, Thamud, Tasm, Jadis, Imlaq and others. Jadis and Tasm perished because of genocide. ʿĀd and Thamud perished because of their decadence. Some people in the past doubted their existence, but Imlaq is the singular form of 'Amaleeq and is probably synonymous to the biblical Amalek.
 * "Pure Arabs" (Qahtanite): These are traditionally considered to have originated from the progeny of Ya'rub bin Yashjub bin Qahtan so were also called Qahtanite Arabs.
@@ -3978,8 +3978,8 @@ Religion in pre-Islamic Arabia included pre-Islamic Arabian polytheism, ancient 
 Other religions were represented to varying, lesser degrees. The influence of the adjacent Roman and Aksumite resulted in Christian communities in the northwest, northeast and south of Arabia. Christianity made a lesser impact, but secured some conversions, in the remainder of the peninsula. With the exception of Nestorianism in the northeast and the Persian Gulf, the dominant form of Christianity was Miaphysitism. The peninsula had been a destination for Jewish migration since pre-Roman times, which had resulted in a diaspora community supplemented by local converts. Additionally, the influence of the Sasanian Empire resulted in Iranian religions being present in the peninsula. While Zoroastrianism existed in the eastern and southern Arabia, there was no existence of Manichaeism in Mecca.
 
 Sam (Shem) was a righteous son of Noah according to the Book of Genesis. Book of Genesis says that descendands of Shem, Ham and Japheth populated Asia, Africa and Europe correspondingly.
-<!--
-<img src="/shem.jpg" alt="Shem, Ham and Japheth"> -->
+
+<img src="/shem.jpg" alt="Shem, Ham and Japheth"> 
 
 Descendends of Shem or Semites include Arabs, Akkadians, Canaanites, Hebrews, some Ethiopians (including the Amhara and the Tigrayans), and Aramaean tribes.
 
@@ -5620,8 +5620,8 @@ The reason for this battle was to save Medina from attack, after Banu Nazir and 
 The outnumbered Muslims opted to engage in a defensive battle by digging deep trenches to act as a barrier along the northern front. The tactic of a defensive trench was introduced by Salman the Persian. Every capable Muslim in Medina including Muhammad contributed to digging the massive trench in six days. The ditch was dug on the northern side only, as the rest of Medina was surrounded by rocky mountains and trees 🌳🌳, impenetrable to large armies (especially cavalry). The digging of the ditch coincided with a near-famine in Medina. Women and children were moved to the inner city. The Medinans harvested all their crops early, so the Confederate armies would have to rely on their own food reserves.
 
 Hoping to make several attacks at once, the confederates persuaded the Muslim-allied Medinan Jews, Banu Qurayza, to attack the city from the south. However, Muhammad's diplomacy derailed the negotiations, and broke up the confederacy against him. The well-organized defenders, the sinking of confederate morale, and poor weather conditions caused the siege to end in a fiasco.
-<!--
-</br><img src="/Battle_of_Trench.jpg" alt="Battle of the Trench"></br> -->
+
+</br><img src="/Battle_of_Trench.jpg" alt="Battle of the Trench"></br>
 
 The trench, together with Medina's natural fortifications, rendered the confederacy's cavalry (consisting of horses and camels) useless, locking the two sides in a stalemate. 
 
@@ -6741,7 +6741,7 @@ The Battle of the Camel, also known as the Battle of Jamel or the Battle of Basr
 
 #### Battle with Muawiyah
 
-<!--<img src="/first_fitnah.jpg" alt="Early Expansion"> -->
+</br><img src="/first_fitnah.jpg" alt="Early Expansion"> </br>
 
 ### Death of Ali
 
@@ -6778,9 +6778,9 @@ Critics of Hasan call his treaty with Mu'awiya an indication of weakness, saying
 ## Miracle of Early Islamic Expansion
 
 </summary>
-<!--
-<img src="/early_islamic_expansion.jpg" alt="Early Expansion"> -->
-<small> Early Islamic Expansion (622-850)</small>
+
+<img src="/early_islamic_expansion.jpg" alt="Early Expansion">
+<small> Early Islamic Expansion (622-850)</small></br>
 
 Arabia at that time was between two greatest super empires the Byzantine and Persian, who were fighting against each other for 400 years. and within 30 years after the prophet Muhammad ﷺ   died, Arabs conquered both of these empires.
 
@@ -7985,7 +7985,11 @@ Learn Surah Al-Kahf [Qur’an: Chapter 18], study it and recite it every Friday.
 
 ### 9.2 Major Signs of Yawm Al Qiyamah [TBD]
 
-<details><summary> Overview </summary>
+<details><summary> 
+
+## Overview 
+
+</summary>
 
 According to the Prophet ﷺ  , there are 10 major signs that will precede the last Hour and will announce of the finality of the Day of Reckoning. These 10 signs are explained in the following hadith:
 
@@ -8014,7 +8018,7 @@ He replied: "The order of some of the major portents is known , and in the case 
 
 Al-Safarini (may Allah have mercy on him) listed the order of these portents in his ‘Aqidah, but some of the order is acceptable whilst some of it is not. But what matters is that there are major signs of the Hour and when they happen, the Hour has drawn nigh. Allah has decreed portents of the Hour, because it is a serious event and people need to know when it is about to happen." (Majmu’ al-Fatawa (2/question no. 137) 
 
-<img src="/eschatology.PNG" alt="Order of the Signs of Day of Judgement" width="85%" height="85%">
+</br><img src="/eschatology.PNG" alt="Order of the Signs of Day of Judgement" width="85%" height="85%"></br>
 
 
 And Allah knows best.
@@ -8394,15 +8398,20 @@ The Destruction of the Ka'ba will occur after no faithful Muslim remains, after 
 
 In the Tafsir (interpretation) of the Ayah "Until the Gog and Magog  are let through (their barrier)'" (al-Anbiya 21:96), it is reported by Ka'b Al-Ahbar that Zul-Suwayqatayn will first emerge at the time of Jesus, son of Mary. Jesus will lead a army of seven and eight hundred Muslim soldiers and march to fight Zul-Suwayqatayn. While they are marching towards Zul-Suwayqatayn, Allah will send a breeze from the direction of Yemen, which will take the soul of every faithful believer. Only the worst of people will be left, and they will begin to copulate like animals. Ka'b said: "At that time, the Hour (of Resurrection) will be very close."
 
-AbduAllah ibn Amr said I heard the Prophet ﷺ   say: " Zul-Suwayqatayn from Al-Habasha ( Abyssinia or Ethiopia) will destroy the Ka'ba and steal its treasure and Kiswah (cover). It is as if I could see him now: he is bald-headed and has a distortion in his wrists. He will strike the Ka'ba with his spade and pick-axe." (Musnad Ahmad)
+AbduAllah ibn Amr said I heard the Prophet ﷺ   say: 
+> " Zul-Suwayqatayn from Al-Habasha ( Abyssinia or Ethiopia) will destroy the Ka'ba and steal its treasure and Kiswah (cover). It is as if I could see him now: he is bald-headed and has a distortion in his wrists. He will strike the Ka'ba with his spade and pick-axe." (Musnad Ahmad)
 
-Ibn 'Abbas narrated that the Prophet ﷺ   said: "It is as if I can see him now: he is Black and his legs are widely spaced (bow-legged). He will destroy the Ka'bah stone by stone." (Musnad Ahmad)
+Ibn 'Abbas narrated that the Prophet ﷺ   said: 
+> "It is as if I can see him now: he is Black and his legs are widely spaced (bow-legged). He will destroy the Ka'bah stone by stone." (Musnad Ahmad)
 
-It was reported from 'Abd Allah ibn 'Umar that the Prophet ﷺ   said, "Leave the Ahbash (Abyssinians or Ethiopians) alone so long as they do not disturb you, for no one will recover the treasure of the Ka'ba, except Zul-Suwayqatayn from Abyssinia." (Abu Dawud)
+It was reported from 'Abd Allah ibn 'Umar that the Prophet ﷺ   said:
+> "Leave the Ahbash (Abyssinians or Ethiopians) alone so long as they do not disturb you, for no one will recover the treasure of the Ka'ba, except Zul-Suwayqatayn from Abyssinia." (Abu Dawud)
 
-Umar bin al-Khattab reported that he heard the Prophet ﷺ   say: "The people of Mecca will leave, and only a few people will pass through it. Then, it will be resettled and rebuilt; then, the people will leave it again, and no-one will ever return."
+Umar bin al-Khattab reported that he heard the Prophet ﷺ   say: 
+> "The people of Mecca will leave, and only a few people will pass through it. Then, it will be resettled and rebuilt; then, the people will leave it again, and no-one will ever return."
 
-Shu'ba narrated that the Prophet ﷺ   said: " The Hour (of Resurrection) will not be occur till the Hajj (Pilgrimage to Mecca) is abandoned." (Bukhari)
+Shu'ba narrated that the Prophet ﷺ   said: 
+> " The Hour (of Resurrection) will not be occur till the Hajj (Pilgrimage to Mecca) is abandoned." (Bukhari)
 
 </details><details><summary>
 
@@ -8489,24 +8498,6 @@ What happens during and after death?
 4. Soul is sent back to earth to the person's body.
 5. In the grave, two angels Munkar and Nakir with unknown appearence come to the soul and ask the soul who is his Lord, who is the man that was sent to you and what is your religion.
 6. Soul is asked to look to the left, where he sees Hell and frightened. If the person was a believer and done good deeds, angels say that Allah saves you from torment because you were a believer. Then the souls is asked to look to the right where he sees the Heaven. When he sees the Heaven, he asks God to end this world so that he can come to Jannah right now.
-
-### Names of Yawm Al-Qiyamah
-
-Among the names of the Day of Resurrection/Judgement used in the Qur'an are
-* Al-Qari'ah—the Calamity; Surah 101 is named al-Qari'ah; the word is found in Q.69:4, 101:1, 101:2, 101:3
-* Al-Zalzalah—the Earthquake; (Arabic: الزُلْزِلَتِ)  Surah 99 is name al-Zalzalah; the word is found in Q.99.1
-* Al-Sa'iqah—the Blast;
-* Yawm an Thaqila—the Hard Day;
-* Al-Yawm al-Muhit—the Encompassing Day;
-* Yawm al-Fasl—the Day of Separation;
-* Al-Tammah al-Kubra—the Great Disaster;
-* Al-Haqqah—the Reality;
-* Yawm al-Din—the Day of Judgement;
-* Yawm al-Haqq—the True (inevitable) Day;
-* Yawm al-Ḥisāb—the Day of Reckoning;
-* Yawm al-Khuruj—the Day of Exodus (from the graves);
-* As-sa’a—the [Last] Hour (Arabic: ٱلسَّاعَةُ) is reportedly mentioned 39 times in the Quran (54:46, 25:11, 33:63, 30:55, 45:32, 69:2, 79:42, 30:12, 54:1, 43:66, 21:49, 30:14, 22:1, 22:7, 20:15, 40:59, 43:61, 42:17, 12:107, 15:85, 18:36, 45:27, 22:55, 43:85, 47:18, 6:40, 40:46, 42:18, 6:31, 16:77, etc.)
-* Yawm al-Qiyamah—Day of Resurrection; (Arabic: يَوْمَ ٱلْقِيَـٰمَةِ) Literally means the "rising up at the resurrection" although it "has come to signify the entire series of events to take place" on Judgement day, "although technically "al-sā'a means the actual hour"
 
 </details><details><summary>
 
@@ -8850,6 +8841,24 @@ Also, not mentioned above: angels will come in rows, Shafagha, seeing of Allah, 
 >
 > Abu Said Al-Khudri, said to Abu Huraira, 'Allah's Messenger ﷺ   said, "Allah said, 'That is for you and ten times more like it.' "Abu Huraira said, "I do not remember from Allah's Messenger ﷺ   except (his saying), 'All this is granted to you and a similar amount besides." Abu Said said, "I heard him saying, 'That is for you and ten times more the like of it."
 
+### Names of Yawm Al-Qiyamah
+
+Among the names of the Day of Resurrection/Judgement used in the Qur'an are
+* Al-Qari'ah—the Calamity; Surah 101 is named al-Qari'ah; the word is found in Q.69:4, 101:1, 101:2, 101:3
+* Al-Zalzalah—the Earthquake; (Arabic: الزُلْزِلَتِ)  Surah 99 is name al-Zalzalah; the word is found in Q.99.1
+* Al-Sa'iqah—the Blast;
+* Yawm an Thaqila—the Hard Day;
+* Al-Yawm al-Muhit—the Encompassing Day;
+* Yawm al-Fasl—the Day of Separation;
+* Al-Tammah al-Kubra—the Great Disaster;
+* Al-Haqqah—the Reality;
+* Yawm al-Din—the Day of Judgement;
+* Yawm al-Haqq—the True (inevitable) Day;
+* Yawm al-Ḥisāb—the Day of Reckoning;
+* Yawm al-Khuruj—the Day of Exodus (from the graves);
+* As-sa’a—the [Last] Hour (Arabic: ٱلسَّاعَةُ) is reportedly mentioned 39 times in the Quran (54:46, 25:11, 33:63, 30:55, 45:32, 69:2, 79:42, 30:12, 54:1, 43:66, 21:49, 30:14, 22:1, 22:7, 20:15, 40:59, 43:61, 42:17, 12:107, 15:85, 18:36, 45:27, 22:55, 43:85, 47:18, 6:40, 40:46, 42:18, 6:31, 16:77, etc.)
+* Yawm al-Qiyamah—Day of Resurrection; (Arabic: يَوْمَ ٱلْقِيَـٰمَةِ) Literally means the "rising up at the resurrection" although it "has come to signify the entire series of events to take place" on Judgement day, "although technically "al-sā'a means the actual hour"
+
 </details><details><summary>
 
 ## Israfil Blows the Trumpet the first time
@@ -8909,8 +8918,8 @@ The sun, moon and stars also will lose their lustre and light.
     Quran, surah Taahaa (Taahaa) 20:105-107
 
 I've come across this interesting theory of physics of Destruction of the earth on the Day of Judgement: [Physics of the Day of Judgement](https://www.islamicity.org/6377/the-physics-of-the-day-of-judgement/).
-
-<img src="/reverse-gravity.jpg" alt="Theory of Reverse Gravity"> 
+<!--
+<img src="/reverse-gravity.jpg" alt="Theory of Reverse Gravity"> -->
 
 This is just a theory. Shortly: 
 * The earth's gravity will be reversed.
@@ -9310,7 +9319,7 @@ The witness over the people are the prophets, and our Holy Prophet (S) will be t
 
 </summary>
 
-<img src="/Ibn_arabi_judgement_day.jpg" alt="Early Expansion"> 
+<img src="/Ibn_arabi_judgement_day.jpg" alt="Early Expansion"></br> 
 
 Diagram of the "Plain of Assembly" (Ard al-Hashr) on the Day of Judgment, from an autograph manuscript of Futuhat al-Makkiyya written by the Sufi mystic and Muslim philosopher Ibn Arabi, ca. 1238.
 
