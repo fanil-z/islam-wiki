@@ -1946,6 +1946,7 @@ In looking solely at the text of the Quran to determine which son was to be sacr
 ## Yaqub -- Jacob and 12 Jewish tribes
 
 </summary>
+
 > Jacob was later renamed to Israel and became a father of 12 Jewish tribes.
 
 ### Yaqub in the Quran and Hadith
@@ -3289,7 +3290,7 @@ According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a g
 
 </details><details><summary>
 
-## The ones turned into monkeys and
+## The ones turned into monkeys and pigs
 
 </summary>
 
@@ -4674,7 +4675,7 @@ According to Ibn Ishaq, when Muhammad was informed of the three questions from t
 
 Al-Kahf (The Cave) is the 18th chapter (sūrah) of the Quran with 110 verses (āyāt).
 
-The story of believers falling asleep in a cave for a long time is present also in the Christian tradition, see [Sleepers in the Cave](#sleepers_in_the_cave).
+The story of believers falling asleep in a cave for a long time is present also in the Christian tradition, see [Sleepers in the Cave](#250-ad-sleepers-in-the-cave-).
 
 </details><details><summary>
 
@@ -8404,11 +8405,26 @@ AbduAllah ibn Amr said I heard the Prophet ﷺ   say:
 Ibn 'Abbas narrated that the Prophet ﷺ   said: 
 > "It is as if I can see him now: he is Black and his legs are widely spaced (bow-legged). He will destroy the Ka'bah stone by stone." (Musnad Ahmad)
 
+
+Narrated Abu Huraira:
+> The Prophet;; said, "Dhus-Suwaiqa-tain (literally: One with two lean legs) from Ethiopia will demolish the Ka'ba."
+>
+> Bukhari, Volume 2, Book 26, Number 661
+
 It was reported from 'Abd Allah ibn 'Umar that the Prophet ﷺ   said:
 > "Leave the Ahbash (Abyssinians or Ethiopians) alone so long as they do not disturb you, for no one will recover the treasure of the Ka'ba, except Zul-Suwayqatayn from Abyssinia." (Abu Dawud)
 
 Umar bin al-Khattab reported that he heard the Prophet ﷺ   say: 
 > "The people of Mecca will leave, and only a few people will pass through it. Then, it will be resettled and rebuilt; then, the people will leave it again, and no-one will ever return."
+
+Narrated Abu Said Al-Khudri:
+> The Prophet said "The people will continue performing the Hajj and 'Umra to the Ka'ba even after the appearance of Gog and Magog."
+>
+> Narrated Shu'ba extra:
+>
+> The Hour (Day of Judgment) will not be established till the Hajj (to the Ka'ba) is abandoned.
+>
+> Bukhari, Volume 2, Book 26, Number 663
 
 Shu'ba narrated that the Prophet ﷺ   said: 
 > " The Hour (of Resurrection) will not be occur till the Hajj (Pilgrimage to Mecca) is abandoned." (Bukhari)
@@ -9232,11 +9248,11 @@ The prophet ﷺ   said As we all come back, the earth is flattened out of the gl
 
 When I raise my head and suddenly see Jibreel (as) on the right side of the Most Merciful and you know what he says in this "I swear by Allah Jibreel never saw Allah before that Day."
 
-## Jahannam is brought near
+### Jahannam is brought near
 
 People will hear Jahannah roar and it will have desire to take the sinners.
 
-Jahannam is pulled with 70,000 chains trying to control it. and each chain is handled by 70,000 angels
+Jahannam is pulled with 70,000 chains trying to control it. and each chain is handled by 70,000 angels.
 
 </details><details><summary>
 
@@ -9677,6 +9693,11 @@ Then bridge of Qantarah to allow people complete their arguments. People will fo
 ## Drink from Kawthar
 
 </summary>
+
+    Indeed, We have granted you, [O Muhammad], al-Kawthar.
+    So pray to your Lord and sacrifice [to Him alone].
+    Indeed, your enemy is the one cut off ˹from any goodness˺.
+    Quran, surah Al-Kawthar 108:1-3
 
 There will be pool from Al Kawthar near the prophet Muhammad ﷺ   , and it will be allowed to sincere Muslims to drink from it.
 
