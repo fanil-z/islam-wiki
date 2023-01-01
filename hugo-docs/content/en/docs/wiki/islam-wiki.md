@@ -8537,6 +8537,19 @@ According to hadith, when a person dies, the soul goes from the bottom of the bo
 
 > The Messenger of Allah ﷺ   entered upon Abu Salamah (after he had died) and his eyes were open, so he closed them then said, ‘When the soul is taken, the eyes follow it.’ (Reported by Sahih Muslim, 1528).
 
+#### 5 transformations of the human soul
+
+We were exctracted from Adam's backbone and God made us testify before Him.
+
+At first, we lived as souls. Then, by the will of Allah we were breathed into our bodies in our mothers' wombs. Then we live in this dunya.
+
+1. We lived as souls somewhere.
+2. We live in our mother's womb.
+3. We live in this dunya.
+4. The Barzakh.
+5. The Doomsday.
+6. The 6th life is what happens after--Jannah or Jahannam.
+
 #### The soul during sleep
 
 The soul leaves the body during our sleep.
@@ -9546,8 +9559,6 @@ Some people will pass at the speed of light. Some will crawl till the end of the
 
 There will be hooks that will drag sinners down.
 
-The hypocrites will say to the believers "Wait for us, give us some of your light." It will be said "Go back and search for the light for yourself."
-
 Hadith says that the first one to pass the Sirat will be the prophet Muhammad ﷺ   and then his ummah.
 
 The Hell will be asked "Are you full?". And the Hell will reply "Is there no more?"
@@ -9570,6 +9581,22 @@ As described by prophet Muhammad ﷺ   , the siraat is thinner than a human hair
 Some people will be ruined because of their evil deeds. Some will be cut into pieces and fall down to Hell for eternity, but some will be saved afterwards and taken out of the Hellfire. Some people will get by with a few cuts and scratches, and others will be completely unscathed.  
 
 The pious believers, the righteous men and women will sail over the bridge swiftly, without distress or anxiety. Some will pass by as fast as the wind, some like lightening, some like a falling star, others like a racing horse. For these believers, the Hellfire will call out to them from underneath, “O Believer! Pass over me quickly, for your light is extinguishing my fire.” Some believers will run across the bridge, others will walk, and some will crawl.
+
+### People will immuninate light
+
+    On the Day you see the believing men and believing women, their light proceeding before them and on their right, [it will be said], "Your good tidings today are [of] gardens beneath which rivers flow, wherein you will abide eternally." That is what is the great attainment.
+    Quran, surah Al-Hadid 57:12
+
+On the Judgement Day, iman of a person will turn into light. If the light of people is strong, they will see the path. If the light is weak, they will see very little.
+
+The hypocrites will say to the believers "Wait for us, give us some of your light." It will be said "Go back and search for the light for yourself."
+
+    The tormented will cry out to those graced, “Were we not with you?” They will reply, “Yes ˹you were˺. But you chose to be tempted ˹by hypocrisy˺, ˹eagerly˺ awaited ˹our demise˺, doubted ˹the truth˺, and were deluded by false hopes until Allah’s decree ˹of your death˺ came to pass. And ˹so˺ the Chief Deceiver1 deceived you about Allah.
+
+    So Today no ransom will be accepted from you ˹hypocrites˺, nor from the disbelievers. Your home is the Fire—it is the ˹only˺ fitting place for you. What an evil destination!”
+    Quran, surah Al-Hadid 57:13-15
+
+### Stations of the Sirat
 
 Not only are there the clamps and hooks to dodge and avoid, but there are seven stations where we will be stopped and asked about how we performed certain acts of worship and how we treated one another in this life. Whoever fails at any of these obstacles will slip and fall into the Hellfire, to be punished until their sins are expiated or until Allah wills.
 
