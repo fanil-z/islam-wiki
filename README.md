@@ -30,6 +30,12 @@ Contributions are very welcome.
 
 I will try to approve ASAP and the pipeline will fetch the latest commit, rebuild the website and republish it.
 
+## I Want to Contribute but I don't know what to do
+
+* Proofreading
+* Collecting sources
+* If you have some valuable knowledge or expertise in any Islamiic topic, please share it and write a post.
+
 # Some Additional Technical Instructions
 
 ## Building Website Manually

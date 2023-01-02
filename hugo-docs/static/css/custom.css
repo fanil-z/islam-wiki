@@ -304,3 +304,7 @@ div#subtitle {
 [data-dark-mode] div#subtitle {
   color: #dee2e6 !important;
 }
+
+html {
+  scroll-padding-top: 70px; /* height of sticky header */
+}
