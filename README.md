@@ -3,17 +3,19 @@
 
 World History Timeline according to Quran, hadiths,  (from creation of the Earth and till the Day of Judgement and beyond).
 
-WEBSITE: [gilmetdeen.com](https://gilmetdeen.com/islam-wiki/)
+☪️ WEBSITE: [gilmetdeen.com](https://gilmetdeen.com/islam-wiki/)
+
+![Website layout](https://github.com/fanil-z/islam-wiki/blob/master/website-layout.jpg?raw=true)
 
 # 🛠 Tech Stack
 
 TLDR: Hugo, Hyas, Node.js
 
-1. Hugo: a static web-site generator that builds a static HTML/CSS/JS website using MD files as a source. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
-	- Hyas: I used the Hyas theme to have a good-looking bootstrap layout.
+1. **Hugo**: a static web-site generator that builds a static HTML/CSS/JS website using MD files as a source. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
+	- **Hyas**: I used the Hyas theme to have a good-looking bootstrap layout.
 		- Hyas depends on Node.js and a swarm of npm packages. On Windows, you will also need Chocolatey to configure it.
-		- Doks theme. I had to add and tune some JS/CSS elements to adjust the website to my purposes. Doks is a bit too advanced for a beginner like me so I still have plenty of bugs to fix. There are standard Hugo themes that can be configured in 5 min.
-2. Render: I am hosting the website on Render. Up to 100GB bandwith and 400 total build hours is free of charge. I also tried Netlify, basically the same functionality.
+		- **Doks** theme. I had to add and tune some JS/CSS elements to adjust the website to my purposes. Doks is a bit too advanced for a beginner like me so I still have plenty of bugs to fix. There are standard Hugo themes that can be configured in 5 min.
+2. **Render**: I am hosting the website on Render. Up to 100GB bandwith and 400 total build hours is free of charge. I also tried Netlify, basically the same functionality.
 3. A pipeline on Render fetches the latest commit in my git repo, installs all required npm packages, builds the website and pushes it to production. You can configure a test server on Render but I just test on my local machine.
 
 Content of the website is written in Markdown: [./hugo-docs/content](https://github.com/fanil-z/islam-wiki/tree/master/hugo-docs/content)
