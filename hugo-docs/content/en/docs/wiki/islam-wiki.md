@@ -2283,6 +2283,9 @@ Musa is also viewed as a very important figure in Islam due to his reception of 
 
 The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were in favour at the Egyptian court and Joseph held high administrative positions next to the ruler of the land, would correspond to the time the Hyksos ruled in Egypt, during the Fifteenth Dynasty. The time of Moses and the expulsion to Palestine related in The Exodus could also correspond to the expulsion of the Hyksos from Egypt.
 
+* [Prophet Musa and pharaoh in historical sources](https://www.youtube.com/watch?v=SG_3cI8j95A)
+</br></br>
+
 </details><details><summary>
   
 ## Musa in a basket on the Nile
