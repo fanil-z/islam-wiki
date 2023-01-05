@@ -5,7 +5,7 @@ World History Timeline according to Quran, hadiths,  (from creation of the Earth
 
 ☪️ WEBSITE: [gilmetdeen.com](https://gilmetdeen.com/islam-wiki/)
 
-![Website layout](https://github.com/fanil-z/islam-wiki/blob/master/website-layout.jpg?raw=true)
+![Website layout](https://github.com/fanil-z/islam-wiki/blob/master/website-layout.png?raw=true)
 
 # 🛠 Tech Stack
 
