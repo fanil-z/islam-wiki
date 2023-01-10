@@ -69,6 +69,8 @@ I will try to approve ASAP and the pipeline will fetch the latest commit, rebuil
 
 To edit CSS settings, change the `\islam-wiki\hugo-docs\static\css\custom.css` file.
 
+Note: when you fix the bug with not fetching css on production, you can edit the css directly in '\assets\scss\common' instead of using custom css.
+
 ### Note on CSS [Bug!]
 
 The website wouldn't get the bootstrap css from @hyas node on production builds. I don't know how to fix it, so I just implemented added an additional custom CSS file in the head.html. Using this approach I can actually just use a simple hugo theme and bump the CSS there. Need to fix this issue anyway.

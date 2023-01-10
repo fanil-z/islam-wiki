@@ -22,5 +22,5 @@ Please feel free to send your feedback to <a href="mailto:gilmetdeen@proton.me">
 
 ### See Also
 
-* [Links & Disclaimer](../wiki/links/)
+* [Links & Disclaimer](../docs/wiki/links/)
 * [World History Timeline (According to Islamic Sources)](../../islam-wiki)
