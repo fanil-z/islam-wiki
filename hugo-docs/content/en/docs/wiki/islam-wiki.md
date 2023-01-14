@@ -3169,9 +3169,10 @@ The Quran does not mention Yunus' heritage, but Muslim tradition teaches that Yu
 The inhabitants of the town of Nineveh were idolators who lived a shameless life. Prophet Jonah was sent to teach them the worship of Allah. The people disliked his interference in their way of worship, so they argued: "We and our forefathers have worshipped these gods for many years and no harm has come to us."
 
 Try as he might to convince them of the foolishness of idolatry and of the goodness of Allah's laws, they ignored him. He warned them that if they kept on with their foolishness, Allah's punishment would soon follow. Instead of fearing Allah, they told Jonah that they were not afraid of his threats. "Let it happen," they told him. Jonah was disheartened. "In that case I will leave you to your misery!" So saying, he left Nineveh, fearing that Allah's anger would soon follow. 
-
+<ayat>
     "And (remember) Dhan-Nun (Jonah), when he went off in anger, and imagined that We shall not punish him (i.e., the calamities which had befallen him)!" 
-    Surah, surah Al-Nabiyaa (The Prophets) 21:87
+    <qr>Surah, surah Al-Nabiyaa (The Prophets) 21:87</qr>
+</ayat>
 
 ### People of Yunus repent
 
@@ -3203,8 +3204,10 @@ The whale found Yunus floating on the waves before it. It swallowed Yunus into i
 
 Three layers of darkness enveloped him, one above the other: the darkness of the whale's stomach, the darkness of the bottom of the sea, the darkness of the night. Jonah imagined himself to be dead, but his senses became alert when he found he could move. He knew that he was alive and imprisoned in the midst of three layers of darkness. His heart was moved by remembering Allah. His tongue was released soon after saying: "La ilaha illa Anta (none has the right to be worshipped but You (0, Allah), Glorified (and Exalted) be You above all that (evil) they associate with You. Truly, I have been of the wrong-doers." 
 
+<ayat>
     And ˹remember˺ when the Man of the Whale stormed off ˹from his city˺ in a rage, thinking We would not restrain him. Then in the ˹veils of˺ darkness he cried out, "There is no god ˹worthy of worship˺ except You. Glory be to You! I have certainly done wrong."
-    Quran, surah Al-Nabiyaa (The Prophets) 21:87
+    <qr>Quran, surah Al-Nabiyaa (The Prophets) 21:87</qr>
+</ayat>
 
 Jonah continued praying to Allah, repeating this invocation. Fishes, whales, sea-weeds, and all the creatures that lived in the sea heard the voice of Jonah praying, heard the celebration of Allah's praises issuing from the whale's stomach. All these creatures gathered around the whale and began to celebrate the praises of Allah in their turn, each in its own way and in its own language.
 
@@ -3222,26 +3225,25 @@ Gradually he regained his strength and found his way to his hometown, Nineveh. H
 
 Surah 37:139-148 retells the full story of Yunus:
 
+<ayat>
     "So also was Yunus among those sent (by Us).
     When he ran away (like a slave from captivity) to the ship (fully) laden,
-    He (agreed to) cast lots, and he was condemned.
-
+    He (agreed to) cast lots, and he was condemned.</br></br>
     Then the whale did swallow him, and he had done acts worthy of blame.
     Had it not been that he (repented and) glorified Allah,
-    He would certainly have remained inside the Fish till the Day of Resurrection.
-
+    He would certainly have remained inside the Fish till the Day of Resurrection.</br></br>
     But We cast him forth on the naked shore in a state of sickness,
-    And We caused to grow, over him, a spreading plant of the gourd kind.
-
+    And We caused to grow, over him, a spreading plant of the gourd kind.</br></br>
     And We sent him (on a mission) to a hundred thousand (men) or more.
     And they believed; so We permitted them to enjoy (their life) for a while."
-    Quran, surah As-Saaffat (Those drawn up in Ranks) 37:139–148
+    <qr>Quran, surah As-Saaffat (Those drawn up in Ranks) 37:139–148</qr>
+</ayat>
 
 ### Hadithic mentions
 
-Yunus is also mentioned in a few incidents during the lifetime of Muhammad. In some instances, Yunus' name is spoken of with praise and reverence by Muhammad. According to historical narrations about Muhammad's life, after ten years of receiving revelations, Muhammad went to the city of Ta’if to see if its leaders would allow him to preach his message from there rather than Mecca, but he was cast from the city by the people. He took shelter in the garden of Utbah and Shaybah, two members of the Quraysh tribe. They sent their servant, Addas, to serve him grapes for sustenance. Muhammad asked Addas where he was from and the servant replied Nineveh. "The town of Yunus the just, son of Amittai!" Muhammad exclaimed. Addas was shocked because he knew that the pagan Arabs had no knowledge of the prophet Yunus. He then asked how Muhammad knew of this man. "We are brothers," Muhammad replied. "Yunus was a Prophet of God and I, too, am a Prophet of God." Addas immediately accepted Islam and kissed the hands and feet of Muhammad.
+Yunus is also mentioned in a few incidents during the lifetime of prophet Muhammad ﷺ  . In some instances, Yunus' name is spoken of with praise and reverence by the prophet. According to historical narrations about prophet Muhammad's ﷺ   life, after ten years of receiving revelations, prophet Muhammad ﷺ   went to the city of Ta’if to see if its leaders would allow him to preach his message from there rather than Mecca, but he was cast from the city by the people. He took shelter in the garden of Utbah and Shaybah, two members of the Quraysh tribe. They sent their servant, Addas, to serve him grapes for sustenance. Prophet Muhammad ﷺ   asked Addas where he was from and the servant replied Nineveh. "The town of Yunus the just, son of Amittai!" Muhammad exclaimed. Addas was shocked because he knew that the pagan Arabs had no knowledge of the prophet Yunus. He then asked how prophet Muhammad ﷺ   knew of this man. "We are brothers," prophet Muhammad ﷺ   replied. "Yunus was a Prophet of God and I, too, am a Prophet of God." Addas immediately accepted Islam and kissed the hands and feet of prophet Muhammad ﷺ  .
 
-One of the sayings of Muhammad, in the collection of Imam Bukhari, says that Muhammad said "One should not say that I am better than Yunus". Ibn Abi al-Salt, an older contemporary of Muhammad, taught that, had Yunus not prayed to Allah, he would have remained trapped inside the fish until Day of Resurrection but, because of his prayer, Yunus "stayed only a few days within the belly of the fish".
+One of the sayings of prophet Muhammad ﷺ   , in the collection of Imam Bukhari, says that Muhammad said "One should not say that I am better than Yunus". Ibn Abi al-Salt, an older contemporary of the prophet ﷺ  , taught that, had Yunus not prayed to Allah, he would have remained trapped inside the fish until Day of Resurrection but, because of his prayer, Yunus "stayed only a few days within the belly of the fish".
 
 The ninth-century Persian historian Al-Tabari records that, while Jonah was inside the fish, "none of his bones or members were injured". Al-Tabari also writes that Allah made the body of the fish transparent, allowing Yunus to see the "wonders of the deep" and that Yunus heard all the fish singing praises to Allah. Kisai Marvazi, a tenth-century poet, records that Yunus' father was seventy years old when Yunus was born and that he died soon afterwards, leaving Yunus' mother with nothing but a wooden spoon, which turned out to be a cornucopia.
 
@@ -3253,16 +3255,16 @@ The ninth-century Persian historian Al-Tabari records that, while Jonah was insi
 
 Dhu al-Kifl ("Possessor of the Kifl"; also spelled Dhu l-Kifl, Dhul-Kifl, Zu al-Kifl, or Zu l-Kifl) is an Islamic prophet. Although his identity is unknown, his identity has been theorised and identified as various Hebrew Bible prophets and other figures, most commonly Ezekiel and Gautama Buddha. Dhu al-Kifl is believed to have been exalted by Allah to a high station in life and is chronicled in the Quran as a man of the "Company of the Good". Although not much is known of Dhu al-Kifl from other historical sources, all the writings from classical commentators, such as Ibn Ishaq and Ibn Kathir, speak of Dhu al-Kifl as a prophetic, saintly man who remained faithful in daily prayer and worship.
 
-Dhu al-Kifl has been mentioned twice in the Quran, in the following verses:
+Dhu al-Kifl has been mentioned twice in the Quran, in the following verses. In both cases, Dhu al-Kifl is mentioned in the context of a list of Quranic prophets, including many others not mentioned.
 
-    "And (remember) Ismail, Idris, and Dhu al-Kifl, all (men) of constancy and patience.
-    We admitted them to Our mercy: for they were of the righteous ones."
-    Quran, Surah Al-Anbiya (21), Ayahs 85–86
+<ayat>
+"And (remember) Ismail, Idris, and Dhu al-Kifl, all (men) of constancy and patience.
+We admitted them to Our mercy: for they were of the righteous ones."
 
-    "And commemorate Ismail, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good."
-    Quran, surah Saad (The letter Saad) 38:48
+<qr>Quran, Surah Al-Anbiya (21), Ayahs 85–86 </qr>
 
-In both cases, Dhu al-Kifl is mentioned in the context of a list of Quranic prophets, including many others not mentioned in the ayat quoted above.
+"And commemorate Ismail, Elisha and Dhu al-Kifl: Each of them was of the Company of the Good."
+<qr>Quran, surah Saad (The letter Saad) 38:48</qr></ayat>
 
 </details><details><summary>
 

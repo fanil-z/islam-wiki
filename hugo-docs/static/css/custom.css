@@ -313,3 +313,36 @@ html {
 img {
   border-radius: 15px;
 }
+
+ayat, .ayat {
+  display: block;
+  font-size: 15px;
+  color: #061613;
+  background: #c9e5dd6b;
+  font-family: sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+qr, .qr {
+  color: #c64dda;
+  display:block;
+  margin-top: 0.5rem;
+}
+
+[data-dark-mode] ayat, .ayat {
+  color: #87e9d4;
+  background: #2d3d3da8;
+}
+
+ [data-dark-mode] qr, .qr {
+  color: #d6aadd;
+}
+
+
+code {
+    white-space : pre-wrap !important;
+    word-break: break-word;
+    background: #c9e5dd6b !important;
+  }
