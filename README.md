@@ -11,6 +11,8 @@ World History Timeline according to Quran, hadiths,  (from creation of the Earth
 
 TLDR: Hugo, Hyas, Node.js
 
+![Stack](https://github.com/fanil-z/islam-wiki/blob/master/tech-stack.png?raw=true)
+
 1. **Hugo**: a static web-site generator that builds a static HTML/CSS/JS website using MD files as a source. It is open-source, flexible; it has a large number of themes including themes for user manuals and API references. Hugo can be a good candidate if you use Markdown and want to implement the docs-as-code concept in your documentation department.
 	- **Hyas**: I used the Hyas theme to have a good-looking bootstrap layout.
 		- Hyas depends on Node.js and a swarm of npm packages. On Windows, you will also need Chocolatey to configure it.
