@@ -1,5 +1,17 @@
 
-# Description
+[![Website](https://gilmetdeen.com/islam-wiki/?branch=master)](https://gilmetdeen.com/islam-wiki/)
+
+Table of contents
+=================
+
+<!--ts-->
+   * [Overview](#overview)
+   * [🛠 Tech Stack](#-tech-stack)
+   * [💚 How to Contribute](#-how-to-contribute)
+   * [Additional Technical Instructions](#additional-technical-instructions)
+<!--te-->
+
+# Overview
 
 World History Timeline according to Quran, hadiths,  (from creation of the Earth and till the Day of Judgement and beyond).
 
@@ -22,27 +34,27 @@ TLDR: Hugo, Hyas, Node.js
 
 Content of the website is written in Markdown: [./hugo-docs/content](https://github.com/fanil-z/islam-wiki/tree/master/hugo-docs/content)
 
-# How to Contribute
+# 💚 How to Contribute
 
-Contributions are very welcome.
+Contributions are very welcome! 
 
 1. Clone the repo.
 
 		git clone https://github.com/fanil-z/islam-wiki.git
 
-2. Write your post OR edit/proofread an existing content in the [Markdown](https://www.markdownguide.org/basic-syntax/) format.
+2. Write your post OR edit/proofread an existing content in the [Markdown](https://www.markdownguide.org/basic-syntax/) format. Put your source files in the [./hugo-docs/content](https://github.com/fanil-z/islam-wiki/tree/master/hugo-docs/content) directory.
 
 3. Commit + push changes to your branch and create a pull request.
 
-I will try to approve ASAP and the pipeline will fetch the latest commit, rebuild the website and republish it.
+I will try to approve ASAP. After the merge, the Render pipeline will fetch the latest commit, rebuild the website and republish it.
 
-## I Want to Contribute but I don't know what to do
+## 🤷 I Want to Contribute but I don't know what to do
 
 * Proofreading
 * Collecting sources
 * If you have some valuable knowledge or expertise in any Islamiic topic, please share it and write a post.
 
-# Some Additional Technical Instructions
+# Additional Technical Instructions
 
 ## Building Website Manually
 
@@ -102,12 +114,6 @@ Change the config/default/markup.html file.
 
 To disable the TOC, add the following in the front matter of the page.
 
----
-toc: false
-
----
-
-
-# Test Environment
-
-Test version of the website is published on Render: https://islam-wiki.onrender.com/docs/wiki/islam-wiki
+	---
+	toc: false
+	---
