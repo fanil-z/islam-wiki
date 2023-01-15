@@ -1,8 +1,6 @@
 
-[![Website](https://gilmetdeen.com/islam-wiki/?branch=master)](https://gilmetdeen.com/islam-wiki/)
-
-Table of contents
-=================
+### Table of contents
+------------------------
 
 <!--ts-->
    * [Overview](#overview)

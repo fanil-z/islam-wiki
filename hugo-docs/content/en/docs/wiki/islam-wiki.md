@@ -3912,7 +3912,7 @@ It is important to take into account that the Bible cannot be fully called the W
 
 </summary><details id="level1"><summary>
 
-# Pre-Islamic Arabia 🐫 🏜️ 🕋
+# 8.1 Pre-Islamic Arabia 🐫 🏜️ 🕋
 *******************************************
 
 </summary><details><summary>
@@ -4341,7 +4341,7 @@ Two different narrations from Aisha give these details.
 
 </details></details><details id="level1"><summary style="background-color: #8f7db925; border-radius: 5px;">
 
-# Prophet Muhammad  ﷺ   
+# 8.2 Prophet Muhammad  ﷺ   
 
 </summary>
 
@@ -6345,7 +6345,7 @@ During this great crisis, the devastated Muslims chose Abu Bakr as their leader.
 
 </details></details><details id="level1"><summary>
 
-# The Rashidun (Righteous Khalifs)
+# 8.3 The Rashidun (Righteous Khalifs)
 *******************************************
 
 </summary><details><summary>
@@ -6804,7 +6804,7 @@ It has been suggested that some Jews and Christians in the Sassanid Empire and J
 
 </details></details><details id="level1"><summary>
 
-# Fitnah (Civil Conflicts)
+# 8.4 Fitnah (Civil Conflicts)
 *******************************************
 
 </summary><details><summary>
@@ -7152,7 +7152,7 @@ Ibn Hisham is Muhammad ibn Iskhak's student.
 
 </details></details><details id="level1"><summary>
 
-# The Islamic Golden Age 🕌📚🏆
+# 8.5 The Islamic Golden Age 🕌📚🏆
 *******************************************
 
 </summary><details><summary> 
