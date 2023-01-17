@@ -820,7 +820,7 @@ The Quran describes how Allah created Adam.
     "He began the creation of man from clay, and made his progeny from a quintessence of fluid"
     Quran, surah As-Sajda (The Prostration) 32:7-8 
 
-According to a hadith, Allah created the body of Adam and it lay still for some time. During that time Iblis went through Adam's body and got thoughts that he will be able to control Adam because his body was hollow.
+According to a hadith, Allah created the body of Adam ﷺ   and it lay still for some time. During that time Iblis went through Adam's body and got thoughts that he will be able to control Adam because his body was hollow.
 
 Then, Allahﷻ   breathed a soul into Adam.
 
@@ -854,7 +854,7 @@ This also means that souls of humans are created right after Adam. But at that t
 ### Characteristics of Adam
 
 According to hadith:
-* Adam was eloquent.
+* Adam ﷺ   was eloquent.
 * He had a beautiful voice.
 * The prophet Adam used to talk with his children with clear words and not with signs.
 * The prophet Adam knew all the names of the creations such as the name of the sky, the earth, the sea, the air, the angel, the jinn, and the like.
@@ -1005,7 +1005,7 @@ There is a difference of opinions on the question of where Adam and Eve landed o
 
 </summary>
 
-God told mankind that He did not create them except that they should worship Him. Everything in this world was created for Adam and his descendants, in order to aid us in our ability to worship and know God. Due to God’s infinite Wisdom, Adam and his descendants were to be the caretakers on earth, so God taught Adam what he needed to know to perform this duty. 
+God told mankind that He did not create them except that they should worship Him. Everything in this world was created for Adam ﷺ   and his descendants, in order to aid us in our ability to worship and know God. Due to God’s infinite Wisdom, Adam and his descendants were to be the caretakers on earth, so God taught Adam what he needed to know to perform this duty. 
 
 God gave Adam the ability to identify and designate names to everything; He taught him language, speech and the ability to communicate. God imbued Adam with an insatiable need for and love of knowledge: {He taught Adam all the names of everything.} (2: 31) The Angels were given no specific knowledge or freedom of will, their sole purpose being to worship and praise God. Adam, on the other hand, was given the ability to reason, make choices and identify objects and their purpose. This helped to prepare Adam for his coming role on earth.
 
@@ -1452,7 +1452,7 @@ Salih is mostly associated with biblical Selah (Hebrew: שֶׁלַח, romanized:
 
 > ~ 2nd millenium BCE (2100-1900, according to Biblical scholars)
 
-Ibrahim was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). The ziggurat of Ur stand in the desert till this day. Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
+Ibrahim (peace be upon him) was born in the ancient city of Ur of the Chaldees in the Ancient Mesopotamia (present-day Iraq). The ziggurat of Ur stand in the desert till this day. Ibrahim traditionally believed to have lived some time in the 2nd millennium BC.
 
 In Jewish and Islamic traditions a confrontation between Nimrod and Abraham is said to have taken place. 
 
@@ -1468,7 +1468,7 @@ The best answer to this issue is Allahu 'Alim, God knows best.
 
 </summary>
 
->**Ibrahim** plays an important role in Islam. Islam regards Abraham as a link in the chain of prophets that begins with Adam and culminates in Muhammad. Ibrāhīm is mentioned in 35 chapters of the Quran, more often than any other prophet apart from Moses. He is called both a hanif (monotheist) and muslim (one who submits), and Muslims regard him as a prophet and patriarch, the archetype of the perfect Muslim, and the revered reformer of the Kaaba in Mecca. Islamic traditions consider Ibrāhīm the first Pioneer of Islam (which is also called millat Ibrahim, the "religion of Abraham"), and that his purpose and mission throughout his life was to proclaim the Oneness of God. In Islam, Abraham holds an exalted position among the major prophets and he is referred to as "Ibrahim Khalilullah", meaning `Abraham the Beloved of God` or `Friend of God`.
+>**Ibrahim** ﷺ   plays an important role in Islam. Islam regards Abraham as a link in the chain of prophets that begins with Adam and culminates in Muhammad. Ibrāhīm is mentioned in 35 chapters of the Quran, more often than any other prophet apart from Moses. He is called both a hanif (monotheist) and muslim (one who submits), and Muslims regard him as a prophet and patriarch, the archetype of the perfect Muslim, and the revered reformer of the Kaaba in Mecca. Islamic traditions consider Ibrāhīm the first Pioneer of Islam (which is also called millat Ibrahim, the "religion of Abraham"), and that his purpose and mission throughout his life was to proclaim the Oneness of God. In Islam, Abraham holds an exalted position among the major prophets and he is referred to as "Ibrahim Khalilullah", meaning `Abraham the Beloved of God` or `Friend of God`.
 >
 > Besides Ishaq and Yaqub, Ibrahim is among the most honorable and the most excellent men in sight of God. Ibrahim was also mentioned in Quran as "Father of Muslims" and the role model for the community.
 >
@@ -1527,7 +1527,7 @@ In the same way, he again used reasoning with the idol-worshipers and said:
     "Behold, he said to his father and his people: "What worship ye?" They said: "We worship idols, and we remain constantly in attendance on them." He said: "Do they listen to you when ye call (on them), or do you good or harm?" They said: "Nay, but we found our fathers doing thus (what we do)." He said: "Do ye then see whom ye have been worshipping" 
     Quran, surah Al-Shuaraa (The Poets) 26:71-75
 
-However, they (the idolaters) did not give up but clung fast to idolatry, then he (AS) said:
+However, they (the idolaters) did not give up but clung fast to idolatry, then he said:
 
     "And by God, I have a plan for your idols - after ye go away and turn your backs."
     Quran, surah Al-Anbiya (The Prophets) 21:57
@@ -1553,7 +1553,7 @@ He enacted this scene, to make the people ashamed of worshiping powerless and se
     They said, "Burn him and protect your gods, If ye do (anything at all)!" We said, "O Fire! be thou cool, and (a means of) safety for Ibrahim!" Then they sought a stratagem against him: but We made them the ones that lost most!" 
     Quran, surah Al-Anbiya (The Prophets) 21:59-70
 
-Prophet Ibrahim (A.S.) was able to subdue them with logical arguments. However, their arrogance would not allow them to admit their foolishness. All they could do was to use their power of authority, as tyrants usually do, to punish Ibrahim (A.S.). They kept him in chains and planned their revenge.
+Prophet Ibrahim was able to subdue them with logical arguments. However, their arrogance would not allow them to admit their foolishness. All they could do was to use their power of authority, as tyrants usually do, to punish Ibrahim. They kept him in chains and planned their revenge.
 
 The decision to have Abraham burned at the stake was affirmed by the temple priests and the king of Babylon, Nimrod. The news spread like fire in the kingdom and people were coming from all places to watch the execution. A huge pit was dug up and a large quantity of wood was piled up. Then the biggest fire people ever witnessed was lit. The flames were so high up in the sky that even the birds could not fly over it for fear of being burnt themselves. Ibrahim's hands and feet were chained, and he was put in a catapult, ready to be thrown in. 
 
@@ -1568,13 +1568,13 @@ A miracle occurred, the fire obeyed and burned only his chains. Abraham came out
 
 ### Confrontation with Nimrod
 
-Ibrahim (A.S.) had established a definite reasoning against idolaters. Nothing was left to prove for him except to reason against the rulers who proclaimed themselves gods.
+Ibrahim ﷺ   had established a definite reasoning against idolaters. Nothing was left to prove for him except to reason against the rulers who proclaimed themselves gods.
 
 The Quran discusses a certain conversation between an unrighteous ruler and Ibrahim (A.S.). Although in the narration of Quran, name of the king/ruler has not been revealed, many historical sources suggest that it was Nimrod or Namrud.
 
 Nimrod became extremely arrogant due to his wealth and power, to the point that he made the claim that he possessed the power of creation and claimed divinity for himself. Namrud proclaimed himself as a living god and was worshipped as such by his subjects.
 
-Namrud, King of Babylon, felt that his throne was in danger, and that he was losing power because upon witnessing Ibrahim (A.S.) coming out of the fire unharmed, majority of his people started believing in Allah and Ibrahim (A.S.) being a true prophet of Allah. Namrud wanted to debate with Ibrahim (A.S.) and show his people that he, the king, is indeed the god and that Ibrahim (A.S.) was a liar. He feared that the status of godhead he had proclaimed for himself was not challenged by an ordinary human being. In order to safeguard his interests, he summoned Ibrahim (A.S.) to the palace and held a dialogue with him which Allah has narrated in Al-Quran:
+Namrud, King of Babylon, felt that his throne was in danger, and that he was losing power because upon witnessing Ibrahim ﷺ   coming out of the fire unharmed, majority of his people started believing in Allah and Ibrahim being a true prophet of Allah. Namrud wanted to debate with Ibrahim and show his people that he, the king, is indeed the god and that Ibrahim was a liar. He feared that the status of godhead he had proclaimed for himself was not challenged by an ordinary human being. In order to safeguard his interests, he summoned Ibrahim to the palace and held a dialogue with him which Allah has narrated in Al-Quran:
 
     Have you not thought about him who disputed with Abraham about his Lord (Allah) because Allah had given him the kingdom? When Abraham said to him: "My Lord (Allah) is He Who gives life and causes death." 
     He said: "I give life and cause death." 
@@ -1584,9 +1584,9 @@ Namrud, King of Babylon, felt that his throne was in danger, and that he was los
     So the disbeliever was utterly defeated. Allah guides not the people who are Zalimeen (wrongdoers etc).
     Quran, surah Al-Baqarah (The Cow) 2:258
 
-As mentioned above, Allah deliberately does not mention the name of the king as it is considered unimportant. The Quran also does not mention the long dialogue between Ibrahim (A.S.) and the king.
+As mentioned above, Allah deliberately does not mention the name of the king as it is considered unimportant. The Quran also does not mention the long dialogue between Ibrahim and the king.
 
-King did not know what to say and what to do. After Namrud was silenced by Ibrahim (A.S.), he (Ibrahim) left the royal palace. Then the truth of the Prophet Ibrahim (A.S.) spread throughout the land. Humans start talking about his miracle and his salvation from the fire and his arguments with king that made the king speechless.
+King did not know what to say and what to do. After Namrud was silenced by Ibrahim, he (Ibrahim) left the royal palace. Then the truth of the Prophet Ibrahim spread throughout the land. Humans start talking about his miracle and his salvation from the fire and his arguments with king that made the king speechless.
 
 </details><details><summary>
 
@@ -1594,14 +1594,14 @@ King did not know what to say and what to do. After Namrud was silenced by Ibrah
 
 </summary>
 
-Ibrahim (A.S.) continued calling people to believe in Allah, exerting a great effort to guide his people to the right path. He tried every possible means to convince them. However in spite of his love and care for the people, they did not listen to him and deserted him. Only one woman and one man of his people shared his belief in Allah. The woman was named Sarah who later became his wife while the man was Lut who later became a prophet after him. When Ibrahim (A.S.) realized that no one else was going to believe in his call, he decided to migrate. Before his migration, he invited his father to believe in Allah. He knew that his father was the enemy of Allah and he would not believe. Allah says in Al-Quran:
+Ibrahim ﷺ   continued calling people to believe in Allah, exerting a great effort to guide his people to the right path. He tried every possible means to convince them. However in spite of his love and care for the people, they did not listen to him and deserted him. Only one woman and one man of his people shared his belief in Allah. The woman was named Sarah who later became his wife while the man was Lut who later became a prophet after him. When Ibrahim realized that no one else was going to believe in his call, he decided to migrate. Before his migration, he invited his father to believe in Allah. He knew that his father was the enemy of Allah and he would not believe. Allah says in Al-Quran:
 
     And the request of forgiveness of Abraham for his father was only because of a promise he had made to him. But when it became apparent to Abraham that his father was an enemy to Allah, he disassociated himself from him. Indeed was Abraham compassionate and patient.
     Quran, surah At-Tawbah (The Repentance) 9:114
 
-After going to Palestine, Ibrahim (A.S.) went to Egypt. During this journey Prophet Ibrahim (A.S.) invited people to worship Allah, show them the right path and helped the poor.
+After going to Palestine, Ibrahim went to Egypt. During this journey Prophet Ibrahim invited people to worship Allah, show them the right path and helped the poor.
 
-There is a hadith about what happened to Ibrahim (A.S.) on his journey. Narrated Abu Huraira (R.A.):
+There is a hadith about what happened to Ibrahim ﷺ   on his journey. Narrated Abu Huraira (R.A.):
 
 > Abraham did not tell a lie except on three occasion. Twice for the Sake of Allah when he said, "I am sick," and he said, "(I have not done this but) the big idol has done it." The (third was) that while Abraham and Sarah (his wife) were going (on a journey) they passed by (the territory of) a tyrant. Someone said to the tyrant, "This man (i.e. Abraham) is accompanied by a very charming lady." 
 >
@@ -1611,12 +1611,12 @@ There is a hadith about what happened to Ibrahim (A.S.) on his journey. Narrated
 >
 > The tyrant then gave Hajar (Hajrah) as a girl-servant to Sarah. Sarah came back (to Abraham) while he was praying. Abraham, gesturing with his hand, asked, "What has happened?" She replied, "Allah has spoiled the evil plot of the infidel (or immoral person) and gave me Hajar (Hajrah) for service." (Abu Huraira then addressed his listeners saying, "That (Hajarah) was your mother, O Bani Ma-is-Sama (i.e. the Arabs, the descendants of Ishmael, Hajarah's son). (Bukhari: 3358)
 
-According to some scholars, what was intended by lying in those situations was only to use equivocations -- <span class="tooltip">Tawriyah<span class="tooltiptext"> Tawriya means saying something which has more than one meaning and intending a meaning different from what the listener is likely to understand) rather than explicit lies.</span></span>. The scholars stated that attributing lies to Ibrahim (A.S.) in this context, does not mean explicit lying.
+According to some scholars, what was intended by lying in those situations was only to use equivocations -- <span class="tooltip">Tawriyah<span class="tooltiptext"> Tawriya means saying something which has more than one meaning and intending a meaning different from what the listener is likely to understand) rather than explicit lies.</span></span>. The scholars stated that attributing lies to Ibrahim in this context, does not mean explicit lying.
 
 Following are the meaning, according to some other scholars, of these three lies:
-1. Ibrahim (A.S.) told his father he was sick in order to avoid going to the temple/festival and indulging in the polygamous practices.
-2. After breaking all the idols, Ibrahim (A.S.) placed the axe in the hands of the largest idol. When the people returned and saw that their idols were smashed they accused Ibrahim (A.S.) of being the perpetrator. He, in reply, said that the biggest idol had broken the rest of the statues in order to prove the point that these statues were man-made and not capable of human actions.
-3. The tyrant/king wanted Sarah for his own evil intentions and Ibrahim (A.S.) knew that Allah would protect her. Therefore, when the tyrant/king asked who she was, instead of responding that she was his wife, Ibrahim (A.S.) responded that she was his sister in Islam, which she technically was.
+1. Ibrahim told his father he was sick in order to avoid going to the temple/festival and indulging in the polygamous practices.
+2. After breaking all the idols, Ibrahim placed the axe in the hands of the largest idol. When the people returned and saw that their idols were smashed they accused Ibrahim of being the perpetrator. He, in reply, said that the biggest idol had broken the rest of the statues in order to prove the point that these statues were man-made and not capable of human actions.
+3. The tyrant/king wanted Sarah for his own evil intentions and Ibrahim knew that Allah would protect her. Therefore, when the tyrant/king asked who she was, instead of responding that she was his wife, Ibrahim responded that she was his sister in Islam, which she technically was.
 
 </details><details><summary>
 
@@ -1624,12 +1624,12 @@ Following are the meaning, according to some other scholars, of these three lies
 
 </summary>
 
-Ibrahim (A.S.) lived on the earth worshipping Allah, sanctifying Him and calling people to worship Allah and Allah alone. But he knew that his days on earth were limited and that these days would be followed by death and finally resurrection. The knowledge of life after death filled Abraham with peace and love and certitude. One day Ibrahim (AS) asked Allah how dead people will come back on The day of judgment. Allah commanded him to take four birds, tear them apart into pieces and then mix the bodies up. He then divided the mix into four parts and placed each part on the top of four hills. He asked Ibrahim (A.S.) to call back the birds by Allah’s name. Immediately, the birds reassembled to their original parts, came back to life. Allah Has revealed this in Al-Quran:
+Ibrahim ﷺ   lived on the earth worshipping Allah, sanctifying Him and calling people to worship Allah and Allah alone. But he knew that his days on earth were limited and that these days would be followed by death and finally resurrection. The knowledge of life after death filled Abraham with peace and love and certitude. One day Ibrahim ﷺ   asked Allah how dead people will come back on The day of judgment. Allah commanded him to take four birds, tear them apart into pieces and then mix the bodies up. He then divided the mix into four parts and placed each part on the top of four hills. He asked Ibrahim ﷺ   to call back the birds by Allah’s name. Immediately, the birds reassembled to their original parts, came back to life. Allah Has revealed this in Al-Quran:
 
     Remember when Abraham said: "My Lord Show me how You give life to the dead." Allah said: "Do you not believe?" Abraham said: "Yes I believe, but to be stronger in Faith." He said: "Take four birds, the cause them to incline towards you (then slaughter them, cut them into pieces) and then put a portion of them on every hill and call them they will come to you in haste. And know that Allah is All Mighty and All Wise." 
     Quran, surah Al-Baqarah (The Cow) 2:260
 
-Ibrahim (A.S.) is the only person that the Quran commands our prophet to look up to as a role model. Allah Says in Al-Quran:
+Ibrahim is the only person that the Quran commands our prophet to look up to as a role model. Allah Says in Al-Quran:
 
     Then, We have inspired you (O Muhammad, saying): "Follow the religion of Ibrahim (Abraham) Haneefa" (Islamic Monotheism – to worship none but Allah)
     Quran, surah An-Nahl (The Bee) 16:123
@@ -1640,7 +1640,7 @@ Ibrahim (A.S.) is the only person that the Quran commands our prophet to look up
 
 </summary>
 
-Lut (لوط, ), known as Lot in the Old Testament, is a prophet of God in the Quran. According to Islamic tradition, Lut was born in Haran and spent his younger years in Ur, later migrating to Canaan with his uncle Abraham. He was sent to the cities of Sodom and Gomorrah as a prophet, and was commanded to preach to their inhabitants on monotheism and the sinfulness of homosexuality 🏳️‍🌈 and their lustful and violent acts.
+Lut, known as Lot in the Old Testament, is a prophet of God in the Quran. According to Islamic tradition, Lut (peace be upon him) was born in Haran and spent his younger years in Ur, later migrating to Canaan with his uncle Abraham. He was sent to the cities of Sodom and Gomorrah as a prophet, and was commanded to preach to their inhabitants on monotheism and the sinfulness of homosexuality 🏳️‍🌈 and their lustful and violent acts.
 
 Though Lut was not born among the people he'd been sent to preach to, the people of Sodom are still regarded as his "brethren" in the Quran. Like the Biblical narrative, the Quran states that Lut's messages were ignored by the inhabitants of the cities, and Sodom and Gomorrah were subsequently destroyed. The destruction of the cities is traditionally presented as a warning against male rape and went on to be used as a warning against homosexual acts.
 
@@ -1656,7 +1656,7 @@ The people of the twin cities transgressed against the bounds of God. According 
 Then three Angels in the disguise of handsome young boys came to Lot, who became distressed knowing the character of the people, and feeling himself powerless to protect the visitors; he said: "This is a distressful day." When the people - overjoyed at the news of new young boys in the village - came to snatch them away from Lot, he tried to convince them to refrain from practising their lusts on the visitors, and offered his own daughters in marriage to them in return for the boys' free release, but they were unrelenting and replied "we have no need of your daughters: indeed you know quite well what we want!" The Quran remarks "... they moved blindly in the frenzy of approaching death".
 
 ### Prophet Lut advised to leave the city
-Lot was powerless to protect the young boys, but they revealed to him that they were indeed Angels sent by Allah to punish the people for their transgressions. They advised Lot to leave the place during the night and not look back, informing him that his wife would be left behind on account of her sinful nature and that they "...were about to bring down upon the folk of this township a fury from the sky because they are evil-doers". Keeping his faith in Allah, Lot left his home and the cities during the night with his family and others who believed in him, and only his wife stayed behind.
+Lut ﷺ   was powerless to protect the young boys, but they revealed to him that they were indeed Angels sent by Allah to punish the people for their transgressions. They advised Lot to leave the place during the night and not look back, informing him that his wife would be left behind on account of her sinful nature and that they "...were about to bring down upon the folk of this township a fury from the sky because they are evil-doers". Keeping his faith in Allah, Lot left his home and the cities during the night with his family and others who believed in him, and only his wife stayed behind.
 
 The exegetes Ibn Kathir, Qurtubi and Tabari do not read 'daughters' to mean Lot's literal daughters. They argue that since a prophet is like a father to his nation, Lot was directing the evildoers to turn away from their sins and engage in healthy and pious relationships with the daughters of the nation, i.e. women in general.
 
@@ -1694,13 +1694,13 @@ Sodom and Gomorrah are not mentioned by name in the Quran. The Islamic use of th
 
 </summary>
 
-Sarah knew that her husband, Ibrahim (A.S.), was longing for a child. As Allah has mentioned Ibrahim’s (A.S.) dua in Quran:
+Sarah knew that her husband, Ibrahim ﷺ  , was longing for a child. As Allah has mentioned Ibrahim’s dua in Quran:
 
     "O my Lord! Grant me a righteous son!"
     So We gave him the good news of a forbearing son.
     Quran, surah Al-Saffat (Those drawn up in Ranks) 37:100-101
 
-She also knew that she was getting old and may not be able to provide Ibrahim (A.S.) with a child. She suggested to Ibrahim (A.S.) that he should marry her servant Hajar and maybe Allah would bless them with a child through her. Ibrahim (A.S.) accepted the advice of his beloved wife Sarah and married Hajar. It wasn’t long before Ibrahim (A.S.) and Hajar were blessed with a baby boy whom they named Ishmael/Ismail. Ibrahim (A.S.) was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim (A.S.) was 86 years old at the time of Ismail’s birth.
+She also knew that she was getting old and may not be able to provide Ibrahim with a child. She suggested to Ibrahim ﷺ   that he should marry her servant Hajar and maybe Allah would bless them with a child through her. Ibrahim accepted the advice of his beloved wife Sarah and married Hajar. It wasn’t long before Ibrahim and Hajar were blessed with a baby boy whom they named Ishmael/Ismail. Ibrahim was overjoyed with happiness at the birth of his first son. They all celebrated and thanked Allah for such a great and beautiful blessing. Some scholars say that Ibrahim was 86 years old at the time of Ismail’s birth.
 
 </details><details><summary>
 
@@ -1887,7 +1887,7 @@ Hence, Ibrahim laid the spiritual foundation of Prophet Muhammad's mission by in
     Our Lord, forgive me and my parents and the believers the Day the account is established."
     Quran, surah Ibrahim (Abraham) 14:35-41
 
-Allah Almighty did not leave this sincere supplication unanswered and sent a descendant of Ismael, the prophet Muhammad ﷺ, , the chief of the prophets to the world. The Pride of the Universe ﷺ   proclaimed this truth as,
+Allah Almighty did not leave this sincere supplication unanswered and sent a descendant of Ismael, the prophet Muhammad ﷺ   , the chief of the prophets to the world. The Pride of the Universe ﷺ   proclaimed this truth as:
 
 > "I am the supplication of my forefather Ibrahim (peace be upon him)."
 >
@@ -1951,9 +1951,9 @@ In looking solely at the text of the Quran to determine which son was to be sacr
 
 ### Yaqub in the Quran and Hadith
 
-Two further references to Isra'il ( إِسْرَآئِیل ; ) are believed to be mention of Jacob. The Arabic form Ya'qūb.
+Two further references to Isra'il are believed to be mention of Jacob. The Arabic form Ya'qūb.
 
-He is recognized in Islam as a prophet who received inspiration from God. He is acknowledged as a patriarch of Islam. Muslims believe that he preached the same monotheistic faith as his forefathers ʾIbrāhīm, ʾIsḥāq and Ismā'īl. Yaqub is mentioned 16 times in the Quran. In the majority of these references, Yaqub is mentioned alongside fellow prophets and patriarchs as an ancient and pious prophet. According to the Quran, Yaqub remained in the company of the elect throughout his life. (38:47) The Quran specifically mentions that Yaqub was guided (6:84) and inspired (4:163) and was chosen to enforce the awareness of the Hereafter. (38:46) Yaqub is described as a good-doer (21:72) and the Quran further makes it clear that God inspired Yaqub to contribute towards purification and hold the contact prayer. (21:73) Yaqub is further described as being resourceful and a possessor of great vision (38:45) and is further spoken of as being granted a "tongue [voice] of truthfulness to be heard." (19:50)
+Yaqub (peace be upon him) is recognized in Islam as a prophet who received inspiration from God. He is acknowledged as a patriarch of Islam. Muslims believe that he preached the same monotheistic faith as his forefathers ʾIbrāhīm, ʾIsḥāq and Ismā'īl. Yaqub is mentioned 16 times in the Quran. In the majority of these references, Yaqub is mentioned alongside fellow prophets and patriarchs as an ancient and pious prophet. According to the Quran, Yaqub remained in the company of the elect throughout his life. (38:47) The Quran specifically mentions that Yaqub was guided (6:84) and inspired (4:163) and was chosen to enforce the awareness of the Hereafter. (38:46) Yaqub is described as a good-doer (21:72) and the Quran further makes it clear that God inspired Yaqub to contribute towards purification and hold the contact prayer. (21:73) Yaqub is further described as being resourceful and a possessor of great vision (38:45) and is further spoken of as being granted a "tongue [voice] of truthfulness to be heard." (19:50)
 
 Of the life of Yaqub, the Quran narrates two especially important events. The first is the role he plays in the story of his son Yusuf. The Quran narrates the story of Yusuf in detail, and Yaqub, being Yusuf's father, is mentioned thrice and is referenced another 25 times. In the narrative, Yaqub does not trust some of his older sons (12: 11, 18, 23) because they do not respect him. (12: 8, 16–17) Yaqub's prophetic nature is evident from his foreknowledge of Yusuf's future greatness (12:6), his foreboding and response to the supposed death of Yusuf (12: 13, 18) and in his response to the sons' plight in Egypt. (12: 83, 86–87, 96) Islamic literature fleshes out the narrative of Yaqub, and mentions that his wives included Rachel. Yaqub is later mentioned in the Quran in the context of the promise bestowed to Zechariah, regarding the birth of John the Baptist. (19:6) Yaqub's second mention is in the Quran's second chapter. As Yaqub lay on his deathbed, he asked his 12 sons to testify their faith to him before he departed from this world to the next. (2:132) Each son testified in front of Yaqub that they would promise to remain Muslim (in submission to God) until the day of their death, that is they would surrender their wholeselves to God alone and would worship only Him.
 
@@ -1987,7 +1987,7 @@ The Bible tells the story of how Rebecca and Jacob deceived blind Isaac to get t
 
 Yusuf ibn Yaqub ibn Ishaaq ibn Ibrahim (Joseph, son of Jacob, son of Isaac, son of Ibrahim) is a prophet mentioned in the Quran, and corresponds to Joseph, a person from the Tanakh, the Jewish religious scripture, and the Christian Bible, who was estimated to have lived in Egypt before the New Kingdom. It is one of the common names in the Middle East and among Muslim nations. Of all of Jacob's children, Yusuf was the one given the gift of prophecy. Although the narratives of other prophets are mentioned in various Surahs, the complete narrative of Yusuf is given only in one Surah, Yusuf, making it unique. It is said to be the most detailed narrative in the Quran and bears more details than the Biblical counterpart.
 
-Yusuf is believed to have been the eleventh son of Yaqub, and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Yusuf." The story begins with Yusuf revealing a dream he had to his father, which Jacob recognizes. In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
+Yusuf (peace be upon him) is believed to have been the eleventh son of Yaqub, and, according to many scholars, his favorite. According to Ibn Kathir, "Jacob had twelve sons who were the eponymous ancestors of the tribes of the Israelites. The noblest, the most exalted, the greatest of them was Yusuf." The story begins with Yusuf revealing a dream he had to his father, which Jacob recognizes. In addition to the role of God in his life, the story of Yusuf and Zulaikha (Potiphar's wife of the Old Testament) became a popular subject in Persian literature, where it became considerably elaborated over the centuries.
 
 The story of Yusuf in the Qurʾān is a continuous narrative. There are more than one hundred verses, and in totality they encompass many years and "present an amazing variety of sciences and characters in a tightly-knit plot, and offer a dramatic illustration of some of the fundamental themes of the Qurʾān." The Qurʾān itself relates to the story's importance in the third verse: "and We narrate unto you aḥsanal-qaṣaṣ ("best (or most beautiful) of stories")." Most scholars believe this is referring to Yusuf's story, while others, including Ṭabari, argue it is a reference to the Qurʾān as a whole. It asserts and documents the execution of God's rulings despite the challenge of human intervention (`And Allah hath full power and control over His affairs; but most among mankind know it not`).
 
@@ -2011,11 +2011,11 @@ According to Ibn Kathir, Yaqub knew that Yusuf would someday become extremely im
 
 Yusuf did not tell his brothers his dream, unlike in the version relayed in the Hebrew Bible, but their dislike of him was already too strong to subdue. Ṭabari demonstrates this by adding that they said to each other, "verily Yusuf and his brother (Benjamin) are dearer to our father than we are, though we may be a troop ('usbah). By usbah they meant a group, for they were ten in number. They said, "Our father is plainly in a state of aberration.
 
-Yusuf was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (narration):
+Yusuf ﷺ   was known, in addition for being very handsome, to be of gentle temperament. He was respectful, kind and considerate. His brother Benjamin was equally pleasant and both were from the same mother, Rachel. From a hadith (narration):
 
 Narrated Abu Huraira 🐈:
 > Some people asked the Prophet ﷺ  : "Who is the most honorable amongst the people?" He replied, "The most honorable among them is the one who is the most Allah-fearing." They said, "O Prophet of Allah! We do not ask about this." He said, "Then the most honorable person is Yusuf, Nabiyyullah (Prophet of Allah), the son of a Nabiyyillah, the son of a Nabiyyillah, the son of Khalilillah (Friend of Allah)."
-> — Sahih al-Bukhari collected by Muhammad al-Bukhari
+> Sahih al-Bukhari collected by Muhammad al-Bukhari
 
 ### Plot against Yusuf
 
@@ -2148,24 +2148,22 @@ It is hard to find sources that consistently agree on the actual dates of Yusuf'
 
 Ayyub (Job) came after Yusuf. The Quran describes Ayyub as a righteous servant of Allah, who was afflicted by suffering for a lengthy period of time. However, it clearly states that Ayyub never lost faith in God and forever called to God in prayer.
 
-Ibn Ishâq said that the Prophet Ayyub (Job) was Roman. His lineage was Ayyub Ibn Moos Ibn Razih Ibn ‛Ees ibn Ishaq Ibn Ibraheem.
+Ibn Ishâq said that the Prophet Ayyub (Job) was Roman. His lineage was Ayyub Ibn Moos Ibn Razih Ibn ‛Ees ibn Ishaq Ibn Ibrahim. However, others said that his lineage was Ayyub ibn Moos ibn Ra‛ooeel ibn ‛Ees ibn Ishâq ibn Ya’qoob (may the Peace and Blessings of Allah be upon them all).
 
-However, others said that his lineage was Ayyub ibn Moos ibn Ra‛ooeel ibn ‛Ees ibn Ishâq ibn Ya’qoob (may the Peace and Blessings of Allah be upon them all).
-
-Ibn Asakir reported that his mother was the daughter of Loot. It is said that his father was among those who believed in Ibraheem on the day he was thrown in the fire and was to be burnt but survived.
-However, of all these opinions, the first opinion is the most popular because he was from the progeny of Ibraheem. This is seen in the saying of Allah:
+Ibn Asakir reported that his mother was the daughter of Loot. It is said that his father was among those who believed in Ibrahim on the day he was thrown in the fire and was to be burnt but survived.
+However, of all these opinions, the first opinion is the most popular because he was from the progeny of Ibrahim. This is seen in the saying of Allah:
 
     "… and from his offspring Dawood, Sulaymân, Ayyub, Yusuf, Moosa and Hâroon…" 
     Quran, surah Al-Anaam (The Cattle) 6:84
 
-In this verse, the pronoun ‘his’ is referring to Ibraheem and not Nooh.
+In this verse, the pronoun ‘his’ is referring to Ibrahim and not Nooh.
 
 He is one of those Prophets who are mentioned specially that they received revelations. This is seen in Soorah an-Nisâ :
 
-    "Indeed We have revealed to you as We revealed to Nooh and the Prophets after him. And We revealed to Ibraheem, Isma’eel, Ishâq, Ya’qoob, the tribes, ‘Eesa and Ayyub…" 
+    "Indeed We have revealed to you as We revealed to Nooh and the Prophets after him. And We revealed to Ibrahim, Isma’eel, Ishâq, Ya’qoob, the tribes, ‘Eesa and Ayyub…" 
     Quran, surah An-Nisaa (The Woman) 4:163
 
-So the correct opinion is that he is from the progeny of ‛Ees Ibn Ishaq Ibn Ibraheem. As regards his wife's name, it is said she was Leea bint Ya‛qoob. Some others say that her name was Rahmah bint Ifratheem. Yet some others claim that she was Leea bint Mansa Ibn Ya‛qoob. This is the most popular opinion, and we have mentioned it here.
+So the correct opinion is that he is from the progeny of ‛Ees Ibn Ishaq Ibn Ibrahim. As regards his wife's name, it is said she was Leea bint Ya‛qoob. Some others say that her name was Rahmah bint Ifratheem. Yet some others claim that she was Leea bint Mansa Ibn Ya‛qoob. This is the most popular opinion, and we have mentioned it here.
 
     Allah said: "And Ayyub, when he called to his Lord, saying ‘Harm has inflicted me and You are the Most Merciful.' So We answered him and removed his affliction and We gave him his family and the like of them with them, as a mercy from Us and a reminder to Worshippers.'". 
     Quran, surah Al-Anbiyah (The Prophets) 21:83-84
@@ -2220,7 +2218,7 @@ In another narration on the authority of Abu Hurayrah that the Prophet peace and
 
 Allah also returned his family as He said,  `We gave to him his family, and the like of them with them.` (Qur’an 21:84) It is said that Allah brought his children back to life. Some others said that Allah gave him other people in place of those who had died, wherein in the Hereafter, Allah will gather them all together. As regards the part of the verse, `A mercy from Us,` (Qur’an 21:83-84) it means that We removed his hardships and cured him from whatever he had as a mercy and grace from Us. The end of the verse, "And a reminder to worshippers" means that what happened to Ayyub is a reminder and a lesson for all those who are put to trial concerning their bodies, wealth, and family. All such people should take the example of Prophet of Allah, Ayyub, who was tried by Allah with something that was greater than what others would be inflicted with and despite that, he was patient and had hope that Allah would cure him from that.
 
-Ayyub lived in the Roman land for a further seventy years after his affliction. He preached to them the religion of Monotheism, One God. However, they later changed the religion of Ibraheem after his death.
+Ayyub lived in the Roman land for a further seventy years after his affliction. He preached to them the religion of Monotheism, One God. However, they later changed the religion of Ibrahim after his death.
 
 Allah said: 
 
@@ -2233,7 +2231,7 @@ This was a way out and relief for the one who feared Allah and obeyed Him, espec
 
 Ibn Jareer and others mentioned that when Ayyub (peace be upon him) died, he was ninety-three years old. Some others said that he lived longer than that.
 
-Before he passed away, he entrusted his mission to his son Hawmal and after him to his other son Bishr. Many people claim that he was Dhul Kifl. And Allah knows best. These same people also claim that he was Prophet, who died at the age of ninety-five.
+Before Ayyub passed away, he entrusted his mission to his son Hawmal and after him to his other son Bishr. Many people claim that he was Dhul Kifl. And Allah knows best. These same people also claim that he was Prophet, who died at the age of ninety-five.
 
     And [mention] Ayyub, when he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful." 
     Quran, sura Al-Anbiyah (The Prophets) 21:83
@@ -2276,7 +2274,7 @@ In Islam, Mūsā ben ʿEmrān ('Moses, son of Imran'Amram'Am), is an important p
 
 According to Islamic theology, all Muslims must have faith in every prophet and messenger of God, which includes Musa and his brother Harun. The tale of Musa is generally seen as a spiritual parallel to the life of prophet Muhammadﷺ  , and Muslims consider many aspects of the two individuals' lives to be shared. Islamic literature also describes a parallel relation between their people and the incidents that occurred in their lifetimes; the exodus of the Israelites from ancient Egypt is considered to be similar in nature to the migration of Muhammad and his followers from Mecca to Medina as both events unfolded in the face of persecution — of the Israelites by the ancient Egyptians, and of the early Muslims by the Meccans, respectively.
 
-Musa is also viewed as a very important figure in Islam due to his reception of revelations such as the Ten Commandments, which form part of the contents of the Torah and are central to the Abrahamic religions of Judaism and Christianity. Consequently, Jews and Christians are designated as "People of the Book" for Muslims and are to be recognized with this special status wherever Islamic law is applied. According to Islamic tradition, Musa is one of the many prophets that meets Muhammad in the seven heavens following the latter's ascension from Jerusalem during the Miʿraj. During the journey, Musa is said to have repeatedly sent Muhammad back to meet God and request a reduction in the number of required daily prayers—originally 50—until only the five obligatory prayers remained. Musa is further revered in Islamic literature, which expands upon the incidents of his life and the miracles attributed to him in the Quran and hadith, such as his direct conversations with God.
+Musaﷺ   is also viewed as a very important figure in Islam due to his reception of revelations such as the Ten Commandments, which form part of the contents of the Torah and are central to the Abrahamic religions of Judaism and Christianity. Consequently, Jews and Christians are designated as "People of the Book" for Muslims and are to be recognized with this special status wherever Islamic law is applied. According to Islamic tradition, Musa is one of the many prophets that meets Muhammad in the seven heavens following the latter's ascension from Jerusalem during the Miʿraj. During the journey, Musa is said to have repeatedly sent Muhammad back to meet God and request a reduction in the number of required daily prayers—originally 50—until only the five obligatory prayers remained. Musa is further revered in Islamic literature, which expands upon the incidents of his life and the miracles attributed to him in the Quran and hadith, such as his direct conversations with God.
 
     Verily, We did send down the Torah to Moses therein was guidance and light, by which the Prophets, who submitted themselves to God’s Will, judged the Jews.  And the rabbis and the priests too judged the Jews by the Torah for to them was entrusted the protection of God’s Book, and they were witnesses thereto.
     Quran, Al-Maaida (The Table) 5:44
@@ -2294,7 +2292,7 @@ The period of Joseph and Jacob/Israel in Egypt (Genesis 39:50), where they were 
   
 ### Childhood
 
-According to Islamic tradition, Musa was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Yusuf). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
+According to Islamic tradition, Musa (peace be upon him) was born into a family of Israelites living in Egypt. Of his family, Islamic tradition generally names his father 'Imran, corresponding to the Amram of the Hebrew Bible, traditional genealogies name Levi as his ancestor. Islam states that Musa was born in a time when the ruling Pharaoh had enslaved the Israelites after the time of the prophet Yusuf (Yusuf). Islamic literature states that around the time of Musa's birth, the Pharaoh has a dream in which he sees fire coming from the city of Jerusalem, which burns everything in his kingdom except in the land of the Israelites. When the Pharaoh is informed that one of the male children would grow up to overthrow him, he orders the killing of all newborn Israelite males in order to prevent the prediction from occurring. Experts of economics in Pharaoh's court advise him that killing the male infants of the Israelites would result in loss of manpower. Therefore, they suggest that male infants should be killed in one year but spared the next. Musa's brother, Harun, was born in the year when infants were spared, while Musa was born in the year when infants were to be killed.
 
     "We recite to you some of the news of Moses and Pharaoh in truth, for a people who believe. Verily, Pharaoh exalted himself in the land and made its people sects, weakening (oppressing) a group (i.e. Children of Israel) among them; killing their sons and letting their females live.  Verily, he was of those who commit great sins and crimes, oppressors, tyrant."
     Quran, surah Al-Qasas (The Stories) 28:3-4
@@ -3379,7 +3377,7 @@ As he reached his old age, Zakariya began to worry over who would continue the l
     A mention of the mercy of your Lord to His servant Zakariya. When he cried unto his Lord a cry in secret, saying: My Lord! Lo! the bones of me wax feeble and my head is shining with grey hair, and I have never been unblest in prayer to Thee, my Lord. Lo! I fear my kinsfolk after me, since my wife is barren. Oh, give me from Thy presence a successor who shall inherit of me and inherit (also) of the house of Jacob. And make him, my Lord, acceptable (unto Thee). 
     Quran, surah Maryam (Mary) 19:4–6
 
-### Fathering Yahya
+### Fathering Yahya (John)
 
 As a gift from God, Zakariya was given a son named Yaḥyá (يحيى, identified with John the Baptist), a name specially chosen for this child alone. Muslim tradition narrates that Zakariya was ninety-two years old when he was told of John's birth.
 
@@ -3406,7 +3404,7 @@ The fact that, of all the priests, it was Zakariya who was given the duty of kee
 
 </summary>
 
-The virgin birth of Jesus is important in Islam as one of miracles of God. The first explicit mention of an annunciation foreshadowing the birth of Jesus is in Quran 19:20 where Mary asks Gabriel (Jibril) how she will be able to conceive, when no man has touched her. Gabriel's reply assures Mary that for God all things are easy and that Jesus's virgin birth will be a sign for mankind. The birth is later referred in Quran 66:12, where the Quran states that Mary remained "pure", while God allowed a life to shape itself in Mary's womb. A third mention of the annunciation is in Q3:42–43, where Mary is also given the glad tidings that she has been chosen above all the women of creation.
+The virgin birth of Jesus (peace be upon him) is important in Islam as one of miracles of God. The first explicit mention of an annunciation foreshadowing the birth of Jesus is in Quran 19:20 where Mary asks Gabriel (Jibril) how she will be able to conceive, when no man has touched her. Gabriel's reply assures Mary that for God all things are easy and that Jesus's virgin birth will be a sign for mankind. The birth is later referred in Quran 66:12, where the Quran states that Mary remained "pure", while God allowed a life to shape itself in Mary's womb. A third mention of the annunciation is in Q3:42–43, where Mary is also given the glad tidings that she has been chosen above all the women of creation.
 
 Commentators on the Quran remark on the last verse that Mary was as close to a perfect woman as there could be, and she was devoid of almost all failings. Although Islam honors numerous women, including Zipporah, Hajar, Sarah, Asiya, Khadijah, Fatimah, Aisha, Hafsa, many commentators followed this verse in the absolute sense, and agreed that Mary was the greatest woman of all time. 
 
@@ -3417,7 +3415,7 @@ According to the Quran, Mary was chosen twice by the Lord.
     "O Mary! Verily Allah has chosen you and puriﬁed you and chosen you above the women of the worlds"
     Quran, surah Aal-i-Imraan (The House of Imraan) 3:42
 
-and the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.
+And the first choosing was her selection with glad tidings given to Imran. The second was that she became pregnant without a man, so in this regard, she was chosen over all other women in the world.
 
 The Quran narrates the virgin birth of Jesus numerous times. In chapter 19 (Maryam), verses (ayat) 17–21, the annunciation is given, followed by the virgin birth in due course. Quran 3:47 also supports the virginity of Mary, revealing that `"no man has touched [her]"`.
 
@@ -3471,11 +3469,11 @@ According to Islamic tradition, Yahya used to go to the Haram esh-Sharif (Temple
 
 </summary>
 
-Isa ibn Maryam (عِيسَى ٱبْنُ مَرْيَمَ, lit. 'Jesus, son of Mary'), is the second-last prophet and messenger of God (Allah) and the Messiah, who was sent to guide the Children of Israel with a revelation: Injīl (Arabic for "gospel").
+Isa ibn Maryam (Jesus, son of Mary), is the second-last prophet and messenger of God (Allah) and the Messiah, who was sent to guide the Children of Israel with a revelation: Injīl (Arabic for "gospel").
 
 > Isa (Jesus) has a very important role in Islam as a prophet and the Messiah, who is to return to earth before the Judgement Day to unite Muslims and defeat Dajjal (Antichrist). 
 >
-> As in the Christian New Testament, the Quran (the central religious text of Islam) describes Jesus as al-Masīḥ (Arabic for messiah), born of a virgin, performing miracles, accompanied by disciples, rejected by the Jewish establishment, and being raised to heaven. The Quran firmly states that Jesus is not divine and he is not the Son of God. Also, the Quran differs from the New Testament in proclaiming that Jesus was neither crucified nor died on the cross.
+> As in the Christian New Testament, the Quran (the central religious text of Islam) describes Jesus ﷺ   as al-Masīḥ (Arabic for messiah), born of a virgin, performing miracles, accompanied by disciples, rejected by the Jewish establishment, and being raised to heaven. The Quran firmly states that Jesus is not divine and he is not the Son of God. Also, the Quran differs from the New Testament in proclaiming that Jesus was neither crucified nor died on the cross.
 
 The significance of Jesus in Islam is reflected in his being mentioned in the Quran in 93 verses with various titles attached such as `"Son of Mary"`, "`Spirit of God"`, and the `"Word of God"`, and other relational titles, mentioned directly and indirectly, over 187 times. Jesus is more briefly described in Surah Maryam, Chapter 19 of Quran. Thus, he is one of the most mentioned people in the Quran by reference; 25 times by the name Isa, third-person 48 times, first-person 35 times and the rest as titles.
 
@@ -8782,7 +8780,7 @@ They said, ‘Move on, move on!’ So we went on, until we came to a huge garden
 
 They said, ‘For now you will not enter it, but you shall enter it (one day).’ I said to them, I have seen many wonders this night. What do all these things mean that I have seen?’ They said: ‘We will tell you. The first man you came across, whose head was being smashed with the rock, is the man who studies the Quran then he neither recites it nor acts upon it, and he goes to sleep, neglecting the obligatory prayers. The man you came across whose mouth, nose and ears were being torn from front to back, is the man who goes out of his house in the morning and tells a lie that is so serious that it spreads all over the world. The naked men and women whom you saw in a structure that resembled an oven are the adulterers and adulteresses. The man you saw swimming in the river with rocks being thrown into his mouth is the one who consumed riba (usury). 
 
-The ugly-looking man whom you saw kindling a fire and walking around it was Malik, the keeper of Hell. The tall man whom you saw in the garden was Ibraheem, and the children around him were the children who died (young) in a state of fitrah (natural state of mankind, i.e., Islam).’ – Some of the Muslims asked, ‘O Messenger of Allah, what about the children of the mushrikeen?’ He said, ‘And the children of the mushrikeen too.’ – ‘As for the men who were half handsome and half ugly, they were people who had mixed a good deed with another deed that was bad, but Allah forgave them.’”  (Narrated by Muslim, no. 7047)
+The ugly-looking man whom you saw kindling a fire and walking around it was Malik, the keeper of Hell. The tall man whom you saw in the garden was Ibrahim, and the children around him were the children who died (young) in a state of fitrah (natural state of mankind, i.e., Islam).’ – Some of the Muslims asked, ‘O Messenger of Allah, what about the children of the mushrikeen?’ He said, ‘And the children of the mushrikeen too.’ – ‘As for the men who were half handsome and half ugly, they were people who had mixed a good deed with another deed that was bad, but Allah forgave them.’”  (Narrated by Muslim, no. 7047)
 
 </details><details><summary>
 

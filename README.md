@@ -1,6 +1,5 @@
 
 ### Table of contents
-------------------------
 
 <!--ts-->
    * [Overview](#overview)
