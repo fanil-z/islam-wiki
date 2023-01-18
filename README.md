@@ -33,7 +33,7 @@ Content of the website is written in Markdown: [./hugo-docs/content](https://git
 
 # 💚 How to Contribute
 
-Contributions are very welcome! 
+All contributions are very welcome! 
 
 1. Clone the repo.
 
