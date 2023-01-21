@@ -3891,14 +3891,11 @@ It is very problematic that Christians take the words of Paul and others who cam
 
 Nicaea was all about Arius and Constantine wanted to establish peace among his own ruling lands. Unfortunately, they chose the corrupted version of Christianity.
 
-Peter the Venerable said that prophet Muhammad ﷺ   was the successor to Arius. The original Christianity was very close to original Jewish religion and Islam. Jesus was Jewish and he was circumsized, he prayed to God prostrating to earth and he greeted people with "Shalom". 
+Peter the Venerable said that prophet Muhammad ﷺ   was the successor to Arius. The original Christianity was very close to original Jewish religion and Islam. Jesus was Jewish and he was circumsized, he prayed to God prostrating to earth and he greeted people with "Shalom".
 
-Jesus attended Jewish temples and he just logically couldn't claim that he is God. The disciples also attended Jewish temples and worshipped God alone. 
-Jesus came to revive the religion of Moses, not to build new churches and invent a new religion.
+Jesus attended Jewish temples and he just logically couldn't claim that he is God. The disciples also attended Jewish temples and worshipped God alone. Jesus came to revive the religion of Moses, not to build new churches and invent a new religion.
 
 God is self-sufficient. Jesus ate, slept and prayed. God is not born. Jesus and his followers went to Jewish temples and prayed the same way Moses and Ibrahim prayed. There are multiple times in the Gospels a statement that noone has seen God. According to the Bible, even Jesus himself said: "I have never seen God". And in that time period, many good people were called son of God.
-
-Prophet Jesus prayed to God prostating his face to the ground.
 
 It is important to take into account that the Bible cannot be fully called the Word of God because it was translated from its original language and corrupted by writers of multiple epochs. The Quran, on the contrary, remains in the original Arabic language up to this day.
 
