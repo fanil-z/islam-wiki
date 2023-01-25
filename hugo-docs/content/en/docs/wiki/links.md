@@ -16,6 +16,8 @@ li p {
 * [Disclaimer](./#disclaimer)
 * [Used Resources](./#used-resources)
 
+> "Gilmetdeen" is a Tatar name derived from علم الدين  ("ilm-al-deen"), which stands for "knowledge of religion".
+
 # Disclaimer
 
 <details open style="text-align: left !important;">
