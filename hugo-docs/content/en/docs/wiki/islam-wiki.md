@@ -2785,6 +2785,43 @@ They hurriedly retraced their steps to the place where the rivers met and where 
 
 </details><details><summary>
 
+## The ones turned into monkeys and pigs
+
+</summary>
+
+The Quran tells a story that happened to Jews in the town on the Red Sea. I could not find any hadith on this topic and mentions of when exactly this occasion took place.
+
+The historical context of this story in the Quran is prophet Muhammad’s ﷺ   persecution by his fellow Meccans before his Hijrah or Emigration from Mecca to Medina in AD 622. Still, despite this persecution, the prophet Muhammad ﷺ   seeks to demonstrate that his revelations are superior to the Torah and Moses, and this brings us to the literary context, which is far more revealing of the content of Sura 7:166 than the historical context.
+
+After recounting the stories of various prophets, rasulullah ﷺ   comes to Moses (v. 103) and sketches out Moses’ mission: he liberates the Children of Israel from the grip of Pharaoh (vv. 103-137); he encounters God on Mt. Sinai on which receives the Two Tablets (vv. 142-147); and finally he confronts Israel’s transgression in worshipping the golden calf (148-156). Now the prophet Muhammad ﷺ   turns to himself and asserts that the Torah (and the Gospels) describes himself and his Quran; he is now the one who commands people to do good and forbids them to do wrong; that is, he is the one who is rightly guided and who now fulfills and completes the mission of Moses (and Jesus).
+
+Prophet Muhammad ﷺ   then recounts a legend—not found in the Talmudists—about Jews fishing or working on the Sabbath in a town that tradition says was located on the Red Sea (vv. 163-167). God made fish appear on the surface only on the Sabbath, never on weekdays. This tempted some Jewish fishermen to break their holy day of rest, ignoring their teachers’ warnings. 
+
+    And indeed you knew those amongst you who transgressed in the matter of the Sabbath (i.e. Saturday). We said to them: "Be you monkeys, despised and rejected."
+
+    So We made this punishment an example to their own and to succeeding generations and a lesson to those who are Al-Muttaqoon (the pious).
+    Quran, surah Al-Baqarah (The Cow) 2:65-66 
+
+And Allaah tells us their story in more detail in Soorat al-A'raf, where He says (interpretation of the meaning):
+
+    And ask them (O Muhammad) about the town that was by the sea; when they transgressed in the matter of the Sabbath (i.e. Saturday): when their fish came to them openly on the Sabbath day, and did not come to them on the day they had no Sabbath. Thus We made a trial of them, for they used to rebel against Allaah’s Command (disobey Allaah)
+
+    And when a community among them said: "Why do you preach to a people whom Allaah is about to destroy or to punish with a severe torment?" (The preachers) said: "In order to be free from guilt before your Lord (Allaah), and perhaps they may fear Allaah."
+
+    So when they forgot the reminders that had been given to them, We rescued those who forbade evil, but with a severe torment We seized those who did wrong because they used to rebel against Allaah’s Command (disobey Allaah).
+
+    So when they exceeded the limits of what they were prohibited, We said to them: "Be you monkeys, despised and rejected".
+    Quran, surah Al-Araaf (The Heights) 7:163-166 
+
+And Allaah says (interpretation of the meaning): 
+
+    Say: "O people of the Scripture (Jews and Christians)! Do you criticize us for no other reason than that we believe in Allah, and in (the Revelation) which has been sent down to us and in that which has been sent down before (us), and that most of you are Faasiqoon [rebellious and disobedient (to Allaah)]?"
+
+    Say (O Muhammad to the people of the Scripture): "Shall I inform you of something worse than that, regarding the recompense from Allah: those (Jews) who incurred the Curse of Allaah and His Wrath, and those of whom (some) He transformed into monkeys and swines, and those who worshipped Taaghoot (false deities); such are worse in rank (on the Day of Resurrection in the Hell-fire), and far more astray from the Right Path (in the life of this world)"
+    Quran, surah Al-Maaidah (The Table) 5:59-60 
+
+</details><details><summary>
+
 ## Death of Musa
 
 </summary>
@@ -3290,43 +3327,6 @@ The modern Quranic exegesis of Abul Ala Maududi states:
 Uzair (Ezra) lived during the period around 450 B.C. The Jews regarded him with great reverence as the revivalist of their Scriptures which had been lost during their captivity in Babylon after the death of Prophet Solomon. So much so that they had lost all the knowledge of their Law, their traditions and of Hebrew, their national language. Then it was Ezra who re-wrote the Old Testament and revived the Law. That is why they used very exaggerated language in his reverence which misled some of the Jewish sects to make him 'the son of God'. The Quran, however, does not assert that all the Jews were unanimous in declaring Ezra as 'the son of God'. What it intends to say is that the perversion in the articles of faith of the Jews concerning Allah had degenerated to such an extent that there were some amongst them who considered Ezra as the son of God.
 
 According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a group of Jews who venerated Ezra as the son of God. According to Ali, Qastallani held that in the Kitan al-Nikah, that there was a party of Jews who held this belief.
-
-</details><details><summary>
-
-## The ones turned into monkeys and pigs
-
-</summary>
-
-The Quran tells a story that happened to Jews in the town on the Red Sea. I could not find any hadith on this topic and mentions of when exactly this occasion took place.
-
-The historical context of this story in the Quran is prophet Muhammad’s ﷺ   persecution by his fellow Meccans before his Hijrah or Emigration from Mecca to Medina in AD 622. Still, despite this persecution, the prophet Muhammad ﷺ   seeks to demonstrate that his revelations are superior to the Torah and Moses, and this brings us to the literary context, which is far more revealing of the content of Sura 7:166 than the historical context.
-
-After recounting the stories of various prophets, rasulullah ﷺ   comes to Moses (v. 103) and sketches out Moses’ mission: he liberates the Children of Israel from the grip of Pharaoh (vv. 103-137); he encounters God on Mt. Sinai on which receives the Two Tablets (vv. 142-147); and finally he confronts Israel’s transgression in worshipping the golden calf (148-156). Now the prophet Muhammad ﷺ   turns to himself and asserts that the Torah (and the Gospels) describes himself and his Quran; he is now the one who commands people to do good and forbids them to do wrong; that is, he is the one who is rightly guided and who now fulfills and completes the mission of Moses (and Jesus).
-
-Prophet Muhammad ﷺ   then recounts a legend—not found in the Talmudists—about Jews fishing or working on the Sabbath in a town that tradition says was located on the Red Sea (vv. 163-167). God made fish appear on the surface only on the Sabbath, never on weekdays. This tempted some Jewish fishermen to break their holy day of rest, ignoring their teachers’ warnings. 
-
-    And indeed you knew those amongst you who transgressed in the matter of the Sabbath (i.e. Saturday). We said to them: "Be you monkeys, despised and rejected."
-
-    So We made this punishment an example to their own and to succeeding generations and a lesson to those who are Al-Muttaqoon (the pious).
-    Quran, surah Al-Baqarah (The Cow) 2:65-66 
-
-And Allaah tells us their story in more detail in Soorat al-A'raf, where He says (interpretation of the meaning):
-
-    And ask them (O Muhammad) about the town that was by the sea; when they transgressed in the matter of the Sabbath (i.e. Saturday): when their fish came to them openly on the Sabbath day, and did not come to them on the day they had no Sabbath. Thus We made a trial of them, for they used to rebel against Allaah’s Command (disobey Allaah)
-
-    And when a community among them said: "Why do you preach to a people whom Allaah is about to destroy or to punish with a severe torment?" (The preachers) said: "In order to be free from guilt before your Lord (Allaah), and perhaps they may fear Allaah."
-
-    So when they forgot the reminders that had been given to them, We rescued those who forbade evil, but with a severe torment We seized those who did wrong because they used to rebel against Allaah’s Command (disobey Allaah).
-
-    So when they exceeded the limits of what they were prohibited, We said to them: "Be you monkeys, despised and rejected".
-    Quran, surah Al-Araaf (The Heights) 7:163-166 
-
-And Allaah says (interpretation of the meaning): 
-
-    Say: "O people of the Scripture (Jews and Christians)! Do you criticize us for no other reason than that we believe in Allah, and in (the Revelation) which has been sent down to us and in that which has been sent down before (us), and that most of you are Faasiqoon [rebellious and disobedient (to Allaah)]?"
-
-    Say (O Muhammad to the people of the Scripture): "Shall I inform you of something worse than that, regarding the recompense from Allah: those (Jews) who incurred the Curse of Allaah and His Wrath, and those of whom (some) He transformed into monkeys and swines, and those who worshipped Taaghoot (false deities); such are worse in rank (on the Day of Resurrection in the Hell-fire), and far more astray from the Right Path (in the life of this world)"
-    Quran, surah Al-Maaidah (The Table) 5:59-60 
 
 </details></br></details><details id="level0" open><summary id="level0">
 
