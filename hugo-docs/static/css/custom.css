@@ -341,8 +341,12 @@ qr, .qr {
 }
 
 
-code {
+ code {
     white-space : pre-wrap !important;
     word-break: break-word;
     background: #c9e5dd6b !important;
-  }
+ }
+
+ div#readtime {
+  display: inline-block !important;
+ }
