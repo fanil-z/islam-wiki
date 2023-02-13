@@ -3328,6 +3328,45 @@ Uzair (Ezra) lived during the period around 450 B.C. The Jews regarded him with 
 
 According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a group of Jews who venerated Ezra as the son of God. According to Ali, Qastallani held that in the Kitan al-Nikah, that there was a party of Jews who held this belief.
 
+</details><details><summary>
+
+City with 3 prophets (Antioch)
+
+</summary>
+
+    And put forward to them a similitude; the Dwellers of the Town, when there came Messengers to them. 
+    When We sent to them two Messengers, they denied them both; so We reinforced them with a third, and they said: "Verily, we have been sent to you as Messengers.'' 
+    They said: "You are only human beings like ourselves, and the Most Gracious has revealed nothing. You are only telling lies.'' 
+    The Messengers said: "Our Lord knows that we have been sent as Messengers to you,'' 
+    "And our duty is only to convey plainly.''
+
+In the reports that he transmitted from Ibn Abbas, Kab Al-Ahbar and Wahb bin Munabbih - Ibn Ishaq reported that it was the city of Antioch, in which there was a king called Antiochus the son of Antiochus the son of Antiochus, who used to worship idols. Allah sent to him three Messengers, whose names were Sadiq, Saduq and Shalum, and he disbelieved in them. It was also narrated from Buraydah bin Al-Husayb, 'Ikrimah, Qatadah and Az-Zuhri that it was Antioch. Some of the Imams were not sure that it was Antioch, as we shall see below after telling the rest of the story, if Allah wills.
+
+ Ibn Jurayj narrated from Wahb bin Sulayman, from Shuayb Al-Jaba'i, "The names of the first two Messengers were Shamun and Yuhanna, and the name of the third was Bulus, and the city was Antioch (Antakiyah).
+
+(Verily, we have been sent to you as Messengers.) meaning, 'from your Lord Who created you and Who commands you to worship Him Alone with no partners or associates.' This was the view of Abu Al-Aliyah. Qatadah bin Diamah claimed that they were messengers of the Messiah, peace be upon him, sent to the people of Antioch.
+
+(They said: "You are only human beings like ourselves...'') means, 'so how could you receive revelation when you are human beings and we are human beings, so why do we not receive revelation like you If you are Messengers, you should be angels.' This is like what many of the nations said who disbelieved, as Allah has told us in the Ayah: 
+(That was because there came to them their Messengers with clear proofs, but they said: "Shall mere men guide us'') (64: 6) meaning that they were amazed by that and they denied it. And Allah says:
+
+(They said: "You are no more than human beings like us! You wish to turn us away from what our fathers used to worship. Then bring us a clear authority.'') (14:10). And Allah tells us that they said:
+
+("If you were to obey a human being like yourselves, then verily, you indeed would be losers.'') (23:34). And Allah says:
+
+(And nothing prevented men from believing when the guidance came to them, except that they said: "Has Allah sent a man as (His) Messenger'') (17:94). These people said:
+
+(You are only human beings like ourselves, and the Most Gracious has revealed nothing. You are only telling lies.'' The Messengers said: "Our Lord knows that we have been sent as Messengers to you.'') This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you. If we were lying, He would have taken the utmost vengeance against us, but He will cause us to prevail and will make us victorious against you, and you will come to know whose will be the happy end in the Hereafter.'' This is like the Ayah:
+
+(Say: "Sufficient is Allah for a witness between me and you. He knows what is in the heavens and on earth.'' And those who believe in falsehood, and disbelieve in Allah, it is they who are the losers.) (29:52)
+
+(And our duty is only to convey plainly.) means, 'all we have to do is to convey to you the Message with which we have been sent; if you obey, then happiness will be yours in this world and the Hereafter, and if you do not respond, you will soon know the consequences of that.' And Allah knows best.
+
+### Side-Note
+
+Antioch on the Orontes was a Hellenistic city founded by Seleucus I Nicator in 300 BC. The city served as the capital of the Seleucid Empire and later as regional capital to both the Roman and Byzantine Empire. During the Crusades, Antioch served as the capital of the Principality of Antioch, one of four Crusader states that were founded in the Levant. Its inhabitants were known as Antiochenes. The modern city of Antakya, in Hatay Province of Turkey, was named after the ancient city, which lies in ruins on the Orontes River and did not overlap in habitation with the modern city.
+
+There is also Antioch of Pisidia: Ancient hilltop ruins at the crossroads of the Mediterranean, Aegean & Central Anatolian regions.
+
 </details></br></details><details id="level0" open><summary id="level0">
 
 # 7. Isa (Jesus and Family of Imran)
@@ -6201,8 +6240,6 @@ In dhul-qidah, (the 11th month of the islamic calendar) of the year 10 A.H., Muh
 Before his departure, he appointed Abu Dujana Ansari as governor of Medina during his own absence. On the 25th of Dhul-Qidah, he left Medina, accompanied by all his wives.
 
 The Muslims observed every move, every act, and every gesture of the Prophet on this occasion, and everything that he did, became a precedent for all time, to be imitated by all Muslims.
-
-After the fall of Mecca, Muhammad performed (for the second time since his Emigration) the rite of the Umra, the ritual processions around the Kaaba, and the journeys between Safa and Marwa (400 yards apart). But he had not participated in the Hajj...He may have had some idea of depaganizing the Hajj.
 
 After the capture of Mecca, in the following Dhu'l-Hijja, Attab, the governor whom Muhammad had installed in Mecca, conducted the ceremony; both Muslims and pagans took part.
 
