@@ -1184,7 +1184,7 @@ Shaitan has been using this trick for ages and continues to do so today. One has
 
 </details></br></details><details id="level0" open><summary id="level0">
 
-# 3. Nuh (Noah) and Great Flood ⛴🕊⛰
+# 3. Nuh (Noah) and Great Flood ⛴🕊
 
 </summary><details><summary>
 
@@ -3313,7 +3313,7 @@ According to Ibn Kathir, Uzair lived between the times of King Solomon and the t
 
 The Jews call Uzair a son of Allah, and the Christians call the Christ a son of Allah. That is a saying from their mouth; (in this) they but imitate what the unbelievers of old used to say. May Allah destroy them: how they are deluded away from the Truth!(Quran 9:30)
 
-In February 624, when the qibla (direction of prayer) changed from Jerusalem to Mecca. Sallam ibn Mishkam, a Jew who lived in Medina and his friends asked Muhammad: "How can we follow you when you have abandoned our qibla and you do not allege that Uzair (Ezra) is the son of God?": 269  This verse is situated in a context of theological disputes with the Jewish community of Medina. The Quran emphasizes the absolute divinity of God and warns against associating any being with him (shirk). It further condemns Jewish and Christian leaders of the time for deceiving the masses into taking "their priests and their anchorites to be their lords in derogation of God". In casting doubt on claims about the divine status of Uzayr and Christ, the Quran also instructs Muslims to reject such beliefs. These arguments reflect the tensions between the new Muslim community and the more established Christian and Jewish communities of Arabia.
+In February 624, when the qibla (direction of prayer) changed from Jerusalem to Mecca. Sallam ibn Mishkam, a Jew who lived in Medina and his friends asked Muhammad: "How can we follow you when you have abandoned our qibla and you do not allege that Uzair (Ezra) is the son of God?":269. This verse is situated in a context of theological disputes with the Jewish community of Medina. The Quran emphasizes the absolute divinity of God and warns against associating any being with him (shirk). It further condemns Jewish and Christian leaders of the time for deceiving the masses into taking "their priests and their anchorites to be their lords in derogation of God". In casting doubt on claims about the divine status of Uzayr and Christ, the Quran also instructs Muslims to reject such beliefs. These arguments reflect the tensions between the new Muslim community and the more established Christian and Jewish communities of Arabia.
 
 In some Islamic texts, Ezra is identified as the person mentioned in Quran 2:259
 
@@ -3330,7 +3330,7 @@ According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a g
 
 </details><details><summary>
 
-City with 3 prophets (Antioch)
+## City with 3 prophets (Antioch)
 
 </summary>
 
@@ -3399,7 +3399,7 @@ Hannah thought that she would conceive a boy. When she delivered Mary, she said 
 
 The Quran does not, specifically, point to the fact that Mary lived and grew up in a temple as the word miḥ'rāb in Quran 3:36 in its literal meaning refers to a private chamber or a public/private prayer chamber. The definitive idea of Mary growing up in a temple derived via external literature (i.e. see the narration below by Ja'far al-Sadiq). She was placed under the care of the prophet Zechariah, the husband of Hannah's sister and Mary's maternal uncle and caretaker. As often as Zechariah entered Mary's prayer chamber, he found her provided with food and he would ask her where she received it from, to which she would reply that God provides to whom He wills. Scholars have debated as to whether this refers to miraculous food that Mary received from God or whether it was normal food. Those in favor of the former view state that it had to be miraculous food, as Zechariah being a prophet, would have known that God is the provider of all sustenance and thus would not have questioned Mary, if it was normal food.
 
-Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the mihrab and put on a covering so no one saw her. Zechariah went into the mihrab and found that she had summer fruit in the winter and winter fruit in the summer. `He asked "From whence is this?" She said, "It is from Allah. Indeed, Allah provides for whom He wills without account".` 
+Imam Ja'far al-Sadiq narrates that when Maryam was grown, she would go into the mihrab and put on a covering so no one saw her. Zechariah went into the mihrab and found that she had summer fruit in the winter and winter fruit in the summer. `He asked "From whence is this?" She said, "It is from Allah. Indeed, Allah provides for whom He wills without account".`
 
 </details><details><summary>
 
@@ -8514,7 +8514,7 @@ The Day of Judgment will occur a long time later than the Day of Resurrection.
 
 </summary><details><summary>
 
-## Death. What happens when people die ☠️
+## ☠️ Death. What happens when people die
 
 </summary><details><summary>
 
@@ -8955,7 +8955,7 @@ On the other hand, a Hadeeth reads: "Then the Trumpet will be blown, and no one 
 
 </details><details><summary>
 
-## The Earth is destroyed 🌎💥
+## 🌎💥 The Earth is destroyed
 
 </summary>
 
@@ -9401,7 +9401,7 @@ There are several narrations that some of the people who ended up in Jahannam wi
 
 </details><details><summary>
 
-## The Hisab and The Mizan ⚖️ (The Scales)
+## ⚖️ The Hisab and The Mizan (The Scales)
 
 </summary>
 
@@ -9562,7 +9562,7 @@ Then people will recognise each other and catch each other, till everyone has fo
 
 </details><details><summary>
 
-## Sirat bridge over Hell 🌉
+## 🌉 Sirat bridge over Hell
 
 </summary>
 
@@ -9681,7 +9681,7 @@ When the believers cross the siraat, they will come to two springs of water; the
 
 </details><details><summary>
 
-## Those who fall into Flames 🔥🔥
+## 🔥🔥 Those who fall into Flames
 
 </summary>
    
