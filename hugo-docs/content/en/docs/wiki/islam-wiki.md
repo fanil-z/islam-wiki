@@ -3339,10 +3339,13 @@ According to Maulana Muhammad Ali's Quranic commentary, there indeed existed a g
     They said: "You are only human beings like ourselves, and the Most Gracious has revealed nothing. You are only telling lies.'' 
     The Messengers said: "Our Lord knows that we have been sent as Messengers to you,'' 
     "And our duty is only to convey plainly.''
+    Quran, surah Ya-Seen 36:13-17
+
+Below is the tafsir from Ibn Kathir.
 
 In the reports that he transmitted from Ibn Abbas, Kab Al-Ahbar and Wahb bin Munabbih - Ibn Ishaq reported that it was the city of Antioch, in which there was a king called Antiochus the son of Antiochus the son of Antiochus, who used to worship idols. Allah sent to him three Messengers, whose names were Sadiq, Saduq and Shalum, and he disbelieved in them. It was also narrated from Buraydah bin Al-Husayb, 'Ikrimah, Qatadah and Az-Zuhri that it was Antioch. Some of the Imams were not sure that it was Antioch, as we shall see below after telling the rest of the story, if Allah wills.
 
- Ibn Jurayj narrated from Wahb bin Sulayman, from Shuayb Al-Jaba'i, "The names of the first two Messengers were Shamun and Yuhanna, and the name of the third was Bulus, and the city was Antioch (Antakiyah).
+Ibn Jurayj narrated from Wahb bin Sulayman, from Shuayb Al-Jaba'i, "The names of the first two Messengers were Shamun and Yuhanna, and the name of the third was Bulus, and the city was Antioch (Antakiyah).
 
 (Verily, we have been sent to you as Messengers.) meaning, 'from your Lord Who created you and Who commands you to worship Him Alone with no partners or associates.' This was the view of Abu Al-Aliyah. Qatadah bin Diamah claimed that they were messengers of the Messiah, peace be upon him, sent to the people of Antioch.
 
@@ -9729,6 +9732,11 @@ Dwellers of Hell will argue among each other.
 
     "[To them] it will be said, "Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant.""
     Quran, surah Az-Zumar 39:72
+
+The Hell also has its gates and keepers.
+
+    "And those who disbelieved will be driven to Hell in groups until, when they reach it, its gates are opened and its keepers will say, "Did there not come to you messengers from yourselves, reciting to you the verses of your Lord and warning you of the meeting of this Day of yours?" They will say, "Yes, but the word of punishment has come into effect upon the disbelievers."
+    Quran, surah Az-Zumar 39: Verse 71)
 
 </details><details><summary>
 
