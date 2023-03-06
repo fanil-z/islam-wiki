@@ -552,6 +552,7 @@ The Holy Quran says:
 
 * [About the big bang](https://www.youtube.com/watch?v=q3MWRvLndzs)
 * [A brief history of the universe](https://www.youtube.com/watch?v=7KYTJ8tBoZ8)
+* [The whole history of Earth and Life](https://www.youtube.com/watch?v=NQ4CUw9RcuA)
 * [Just about how small we are](https://www.youtube.com/watch?v=Iy7NzjCmUf0)
 * [Sheikh Yasir Qadhi on Adam and theory of evolution](https://www.youtube.com/watch?v=vAljUIFEtcE&list=PLYZxc42QNctXcCQZyZs48hAN90YJgnOnJ&index=31)
   
