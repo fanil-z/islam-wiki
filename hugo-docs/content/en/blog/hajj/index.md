@@ -15,7 +15,7 @@ homepage: false
 toc: true
 ---
 
-<p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b></b> <div style="font-size: 1rem; color:grey;"> The Pilgrim's guide from a person who has never done hajj yet </br> Hajj-Tamattu (Sunni view, mostly Hanafi school) </br> 
+<p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b></b> <div style="font-size: 1rem; color:grey;"> Hajj-Tamattu (Sunni view, mostly Hanafi school) </br> 
 
 The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanner.com/hajj-guide/)
 </div></p>
@@ -173,6 +173,7 @@ In this articale, I will focus on Hajj ul-Tamattu because that is the target of 
 - hujjaj.co traveller's tips: https://www.youtube.com/watch?v=Eryvb08ocDA
 - [Hajj Guide by Omar Suleiman]()
 - Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()
+- [Young Hamza Yusuf about Hajj](https://www.youtube.com/watch?v=Kswxexj6m00)
 - [Hajj Documentary -- Sacred Journey](https://www.youtube.com/watch?v=liPFurz5Rn0) 
 - [some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
 - [professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
