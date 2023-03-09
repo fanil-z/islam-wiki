@@ -2,8 +2,8 @@
 title: "My Hajj Plan 🕋"
 description: "The Pilgrim's guide from a person who has never done hajj yet"
 excerpt: "The Pilgrim's guide from a person who has never done hajj yet"
-date: 2023-01-08T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+date: 2023-03-01T09:19:42+01:00
+lastmod: 2023-03-04T09:19:42+01:00
 draft: false
 weight: 50
 images: [hajj-pix.png]
@@ -118,7 +118,7 @@ https://islamonline.net/en/glossary-of-hajj-related-terms/
 
 I like to compare the scale of buildings in these two pictures.
 
-<img src="./kaaba-charlesnicolasjosephvarin-1791.jpg" alt="Kaaba-1791">
+<img src="./kaaba-charlesnicolasjosephvarin-1791.jpg" alt="Kaaba-1791"></br>
 <img src="./kaaba-now.jpg" alt="Kaaba-2015"></br>
 
 </details><details><summary>
