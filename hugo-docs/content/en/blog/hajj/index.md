@@ -104,7 +104,15 @@ You will once again enter into a state of Ihram in the prescribed manner. There 
 - **Wajib** (Arabic: واجب), in Islamic jurisprudence, refers to an obligatory act, with failure to perform it constituting a sin. Wajib is generally synonymous with “Fardh”, although the Hanafi school of thought make a distinction between the two with the view that something that is Fardh is proven by means of definitive evidence, whereas something that is Wajib is proven on the basis of ambiguous evidence, where there is possibly more than one meaning.
 - **Miqat** (Arabic: ميقات) refers to the boundary where it becomes necessary for pilgrims to adorn the Ihram garments and impermissible to pass except in the state of Ihram. Those who cross the boundary without having entered into the state of Ihram must perform an animal sacrifice (Damm) as expiation.
 - **Halq** The complete shaving of the head by the male pilgrim on the 10th of Dhul-Hijjah. This is the last thing he does before getting out of the state of ihram. See also taqseer. For female pilgrims, the requirements of halq and taqseer are satisfied if they trim their hair by approximately half an inch.
+- **Hateem** The area adjacent to the Kabah on its west side, enclosed by a low semi-circular wall. Tradition has it that Hajar (wife of Prophet Ibrahim [peace and blessings be upon him]) is buried in this enclosure. It is highly recommended that the pilgrim offer sunnah Prayer and supplications to Allah in this area. However, this is not a part of the official rites of Hajj.
 - **Kiswah** The black cloth that drapes the Kabah. It is embroidered in gold thread with the Shahadah, praises of Allah, and verses of the Qur’an.
+- **Mutawwif** A knowledgeable professional who can guide the pilgrim during Hajj.
+- **Muhrim** A pilgrim in the state of ihram.
+- **Taqseer** Shortening or clipping of the whole head of hair by the male pilgrim following the completion of Hajj. This may be performed in lieu of halq (shaving). However, snipping off a few hairs here and there is not acceptable. The sunnah of the Messenger of Allah (peace and blessings be upon him) supports only taqseer and halq.
+- **Tawaf Al-Ifadah** The Tawaf performed by the pilgrim on the 10th of Dhul-Hijjah as the last formal rite of Hajj in Makkah after changing into street clothes. Also called Tawaf Az-Ziyarah. 
+- **Tawaf An-Nafl** A devotional Tawaf that may be performed any time. Tawaf Al-Qudum The initial Tawaf performed by the pilgrim upon entering Al- Masjid Al-Haram in Makkah pursuant upon his intention for Hajj. 
+- **Tawaf Al-Umrah**  The Tawaf performed as a rite of Umrah. 
+- **Tawaf Al-Wada** The Farewell Tawaf performed by the pilgrim just before leaving Makkah for his next destination.
 - **Wuquf** (meaning “standing”) is the act of being present, even for a moment, at a particular place during Hajj. The Wuquf at Arafat on the 9th of Dhul Hijjah is an integral rite of Hajj and its non-performance invalidates the entire pilgrimage. The Wuquf at Muzdalifah performed after Fajr on the 10th of Dhul Hijjah, just before leaving for Mina, is regarded as a Sunnah.
 
 Full Glossary:
