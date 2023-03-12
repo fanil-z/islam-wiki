@@ -36,7 +36,8 @@ The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanne
 0.1 Entering Ihram \
 0.2 Tawaf \
 0.3 Praying 2 raqat behind Maqam Ibrahim \
-0.4 Sai between Safa and Marwa
+0.4 Sai between Safa and Marwa \
+0.5 Trim the hair
 
 ### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (The Day of Quenching Thirst)	
 
