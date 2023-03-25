@@ -33,7 +33,7 @@ The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanne
 
 ### Umrah
 
-0.1 Entering Ihram \
+0.1 Entering Ihram and make niyah for umrah \
 0.2 Tawaf \
 0.3 Praying 2 raqat behind Maqam Ibrahim \
 0.4 Sai between Safa and Marwa \
@@ -41,7 +41,7 @@ The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanne
 
 ### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (The Day of Quenching Thirst)	
 
-1.1 Enter into Ihram and make Niyyah \
+1.1 Enter into Ihram and make niyah for hajj \
 1.2 Proceed to Mina before Dhuhr \
 1.3 Perform your Dhuhr, Asr, Maghrib and Isha in Mina \
 1.4 Stay there overnight
@@ -60,7 +60,7 @@ The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanne
 
 ### Day 3 (10th Dhul Hijjah): Yawm al-Nahr (The Day of Sacrifice)	
 
-3.1 Perform Rami (pelting) of Jamarah al-Aqaba (the big pillar) \
+3.1 Perform Rami (pelting) of Jamarah al-Aqaba (the big pillar, 7 pebbles) \
 3.2 Perform Hady (animal sacrifice) \
 3.3 Perform Halq/Taqsir (get your hair shaved or trimmed) \
 3.4 Proceed to Makkah \
@@ -68,9 +68,9 @@ The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanne
 3.6 Perform Sa’i \
 3.7 Go back to Mina (unless you have a valid excuse to stay in Makkah)
 
-### Day 4,5,6 (11th, 12th, 13th Dhul Hijjah)	Ayyam al-Tashreeq (The Days of Drying Meat)	
+### Day 4,5,6 (11th, 12th, 13th Dhul Hijjah): Ayyam al-Tashreeq (The Days of Drying Meat)
 
-4.1 Perform Rami (pelting) of all three Jamarat on each day \
+4.1 Perform Rami of all three Jamarat on each day (7 pebbles each, small-dua-middle-dua-big) \
 4.2 Proceed to Makkah \
 4.3 Perform Tawaf al-Wida 
 
