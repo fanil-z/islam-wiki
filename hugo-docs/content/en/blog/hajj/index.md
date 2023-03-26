@@ -52,8 +52,8 @@ The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanne
 <cr>2.2</cr> Proceed to Arafat \
 <cr>2.3</cr> Perform Dhuhr and Asr in Arafat \
 <cr>2.4</cr> Proceed to Muzdalifah after sunset \
-<cr>2.5</cr> Perform Maghrib and Isha in
-<cr>2.7</cr> Stay there overnight \ Muzdalifah \
+<cr>2.5</cr> Perform Maghrib and Isha in Muzdalifah \
+<cr>2.7</cr> Stay there overnight \
 <cr>2.6</cr> Collect pebbles \
 <cr>2.8</cr> Perform Fajr Salah and make Dua \
 <cr>2.9</cr> Proceed to Mina before sunrise
