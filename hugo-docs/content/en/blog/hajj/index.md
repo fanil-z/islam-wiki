@@ -33,46 +33,46 @@ The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanne
 
 ### Umrah
 
-0.1 Entering Ihram and make niyah for umrah \
-0.2 Tawaf \
-0.3 Praying 2 raqat behind Maqam Ibrahim \
-0.4 Sai between Safa and Marwa \
-0.5 Trim the hair
+<cr>0.1</cr> Entering Ihram and make niyah for umrah \
+<cr>0.2</cr> Tawaf 🕋 \
+<cr>0.3</cr> Praying 2 raqat behind Maqam Ibrahim \
+<cr>0.4</cr> Sai between Safa and Marwa \
+<cr>0.5</cr> Trim the hair
 
-### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (The Day of Quenching Thirst)	
+### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
 
-1.1 Enter into Ihram and make niyah for hajj \
-1.2 Proceed to Mina before Dhuhr \
-1.3 Perform your Dhuhr, Asr, Maghrib and Isha in Mina \
-1.4 Stay there overnight
+<cr>1.1</cr> Enter into Ihram and make niyah for hajj \
+<cr>1.2</cr> Proceed to Mina before Dhuhr \
+<cr>1.3</cr> Perform your Dhuhr, Asr, Maghrib and Isha in Mina \
+<cr>1.4</cr> Stay there overnight
 
 ### Day 2 (9th Dhul Hijjah): Yawm al-Arafat (The Day of Arafat) or Yawm al-Wuquf (The Day of Standing)
 
-2.1 Perform Fajr in Mina \
-2.2 Proceed to Arafat \
-2.3 Perform Dhuhr and Asr in Arafat \
-2.4 Proceed to Muzdalifah after sunset \
-2.5 Perform Maghrib and Isha in Muzdalifah \
-2.6 Collect pebbles \
-2.7 Stay there overnight \
-2.8 Perform Fajr Salah and make Dua \
-2.9 Proceed to Mina before sunrise
+<cr>2.1</cr> Perform Fajr in Mina \
+<cr>2.2</cr> Proceed to Arafat \
+<cr>2.3</cr> Perform Dhuhr and Asr in Arafat \
+<cr>2.4</cr> Proceed to Muzdalifah after sunset \
+<cr>2.5</cr> Perform Maghrib and Isha in
+<cr>2.7</cr> Stay there overnight \ Muzdalifah \
+<cr>2.6</cr> Collect pebbles \
+<cr>2.8</cr> Perform Fajr Salah and make Dua \
+<cr>2.9</cr> Proceed to Mina before sunrise
 
 ### Day 3 (10th Dhul Hijjah): Yawm al-Nahr (The Day of Sacrifice)	
 
-3.1 Perform Rami (pelting) of Jamarah al-Aqaba (the big pillar, 7 pebbles) \
-3.2 Perform Hady (animal sacrifice) \
-3.3 Perform Halq/Taqsir (get your hair shaved or trimmed) \
-3.4 Proceed to Makkah \
-3.5 Perform Tawaf al-Ziyarah \
-3.6 Perform Sa’i \
-3.7 Go back to Mina (unless you have a valid excuse to stay in Makkah)
+<cr>3.1</cr> Perform Rami (pelting) of Jamarah al-Aqaba (the big pillar, 7 pebbles) \
+<cr>3.2</cr> Hady (animal sacrifice) \
+<cr>3.3</cr> Perform Halq/Taqsir (get your hair shaved or trimmed) \
+<cr>3.4</cr> Proceed to Makkah \
+<cr>3.5</cr> Perform Tawaf al-Ziyarah 🕋 \
+<cr>3.6</cr> Sai between Safa and Marwa \
+<cr>3.7</cr> Go back to Mina (unless you have a valid excuse to stay in Makkah)
 
-### Day 4,5,6 (11th, 12th, 13th Dhul Hijjah): Ayyam al-Tashreeq (The Days of Drying Meat)
+### Day 4,5,6 (11th, 12th, 13th Dhul Hijjah): Ayyam</cr> al-Tashreeq (The Days of Drying Meat)
 
-4.1 Perform Rami of all three Jamarat on each day (7 pebbles each, small-dua-middle-dua-big) \
-4.2 Proceed to Makkah \
-4.3 Perform Tawaf al-Wida 
+<cr>4.1</cr> Perform Rami of all three Jamarat on each day (7 pebbles each, small-dua-middle-dua-big) \
+<cr>4.2</cr> Proceed to Makkah \
+<cr>4.3</cr> Perform Tawaf al-Wida 🕋
 
 <img src="./hajj-guide.jpg" alt="Hajj Guide"></br>
 

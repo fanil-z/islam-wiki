@@ -17,4 +17,58 @@
       </div>
     </div>
   </div>
+<div class="image-box">
+  <img src="" alt="" class="full-image">
+  <span class="close">&times;</span>
+  <div class="zoom-controls">
+    <button class="zoom-out">-</button>
+    <span class="zoom-level">100%</span>
+    <button class="zoom-in">+</button>
+    <img src="./magnifying-glass-solid.svg" alt="Magnifying Glass" class="zoom-icon">
+  </div>
+</div>
+<script>
+// JavaScript code to open, close and zoom the image-box
+const images = document.querySelectorAll('img');
+const imageBox = document.querySelector('.image-box');
+const fullImage = document.querySelector('.full-image');
+const closeBtn = document.querySelector('.close');
+const zoomOutBtn = document.querySelector('.zoom-out');
+const zoomInBtn = document.querySelector('.zoom-in');
+const zoomLevelDisplay = document.querySelector('.zoom-level');
+
+let zoomLevel = 100; // default zoom level
+
+images.forEach(image => {
+  image.addEventListener('click', () => {
+    imageBox.style.display = 'block';
+    fullImage.src = image.src;
+    zoomLevel = 100; // reset zoom level
+    fullImage.style.transform = `scale(${zoomLevel / 100})`;
+    zoomLevelDisplay.textContent = `${zoomLevel}%`;
+  });
+});
+
+fullImage.addEventListener('click', e => {
+  e.stopPropagation(); // prevent clicking on the full image from closing the image-box
+});
+
+closeBtn.addEventListener('click', () => {
+  imageBox.style.display = 'none';
+});
+
+zoomOutBtn.addEventListener('click', () => {
+  zoomLevel -= 10;
+  if (zoomLevel < 10) zoomLevel = 10;
+  fullImage.style.transform = `scale(${zoomLevel / 100})`;
+  zoomLevelDisplay.textContent = `${zoomLevel}%`;
+});
+
+zoomInBtn.addEventListener('click', () => {
+  zoomLevel += 10;
+  if (zoomLevel > 200) zoomLevel = 200;
+  fullImage.style.transform = `scale(${zoomLevel / 100})`;
+  zoomLevelDisplay.textContent = `${zoomLevel}%`;
+});
+  </script>
 </footer>
