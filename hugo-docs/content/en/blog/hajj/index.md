@@ -183,12 +183,14 @@ In this articale, I will focus on Hajj ul-Tamattu because that is the target of 
 - [Hajj Guide by Omar Suleiman]()
 - Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()
 - [Young Hamza Yusuf about Hajj](https://www.youtube.com/watch?v=Kswxexj6m00)
+- [Makkah Live](https://www.youtube.com/watch?v=3loPeQnJKk4)
 - [Hajj Documentary -- Sacred Journey](https://www.youtube.com/watch?v=liPFurz5Rn0) 
 - [some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
 - [professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
 
 #### Official Hajj Ministry Links
 
+- https://hajj.nusuk.sa
 - https://twitter.com/motawif_sa
 - https://www.facebook.com/Motawif/
 - https://www.haj.gov.sa/en
