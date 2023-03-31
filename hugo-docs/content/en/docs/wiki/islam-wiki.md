@@ -9817,6 +9817,8 @@ As for who the inhabitants of the inhabits al-aʿrāf are, the "majority of exeg
     And enter My Paradise.
     Quran, surah Al-Fajr (The Dawn) 89:27-30
 
+* [Jannah series by Yaqeen](https://www.youtube.com/watch?v=tks5sXy2r0w&list=PLQ02IYL5pmhGLpO-oUMpZbuI_5dT9m4fi&index=10)
+
 > In the hadith about intercession that the Prophet (blessings and peace of Allah be upon him) said: "I will come to the gate of Paradise on the Day of Resurrection and will ask for it to be opened. The keeper will say: ‘Who are you?’ I will say, ‘Muhammad.’ He will say: ‘I was commanded not to open it for anyone before you." Narrated by Muslim (197)
 
 Another report in the Sahihayn is in different words.
