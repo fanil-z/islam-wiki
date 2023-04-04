@@ -3984,6 +3984,8 @@ Hadith from Sahih Muslim, the prophet Muhammad ﷺ    said:
 
 <img src="/pre-islamic-arabia.jpg" alt="Early Expansion"></br>
 
+* [Mecca at the Dawn of Islam Map Explanation](https://www.youtube.com/watch?v=vooLHdL0Xp8)
+
 Arab traditions relating to the origins and classification of the Arabian tribes is based on biblical genealogy. The general consensus among 14th-century Arabic genealogists was that Arabs were three kinds:
 * "Perishing Arabs": These are the ancients of whose history little is known. They include ʿĀd, Thamud, Tasm, Jadis, Imlaq and others. Jadis and Tasm perished because of genocide. ʿĀd and Thamud perished because of their decadence. Some people in the past doubted their existence, but Imlaq is the singular form of 'Amaleeq and is probably synonymous to the biblical Amalek.
 * "Pure Arabs" (Qahtanite): These are traditionally considered to have originated from the progeny of Ya'rub bin Yashjub bin Qahtan so were also called Qahtanite Arabs.
