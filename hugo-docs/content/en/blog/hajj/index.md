@@ -1699,7 +1699,6 @@ Narrated Ibn Abbas:
 
 </summary>
 
-A pilgrim having his hair shavedA pilgrim having his hair shaved
 After you have received confirmation of the animal sacrifice being carried out, proceed to have your hair shaved if you’re a man (Halq) or trimmed if you’re a woman (Taqsir).
 
 If you’re performing Hajj al-Ifrad as opposed to Hajj al-Tamattu or Hajj al-Qiran, you may have your cut immediately after pelting the big pillar on the 10th of Dhul Hijjah and don’t need to wait for the animal sacrifice to be carried out.
@@ -1712,7 +1711,11 @@ Once the hair has been cut, all restrictions of Ihram will be lifted with the ex
 
 For health and safety reasons, please ensure you use a licensed barber to cut your hair or use your own equipment.
 
-Please refer to [this article](https://hajjumrahplanner.com/halq-taqsir/) for additional information on Halq/Taqsir.
+For details, see [Halq/Taqsir](https://hajjumrahplanner.com/halq-taqsir/).
+
+#### Halq ruling if you do multiple umrahs within a few days
+
+As [this QA](https://islamqa.info/en/answers/95439/if-he-repeats-umrah-but-he-does-not-have-any-hair-to-shave-what-should-he-do) says, if a person performs multiple umrahs within a few days and if the hair have grown a little, then he must pass the razor over his head.
 
 <details><summary>
 
