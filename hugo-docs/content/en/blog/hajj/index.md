@@ -1544,7 +1544,7 @@ There is flexibility in terms of the timeframe in which each of these rituals mu
 
 </details><details><summary>
 
-#### Rami of Jamarah al-Aqaba
+### Rami of Jamarah al-Aqaba
 
 </summary>
 
@@ -1715,11 +1715,11 @@ For details, see [Halq/Taqsir](https://hajjumrahplanner.com/halq-taqsir/).
 
 #### Halq ruling if you do multiple umrahs within a few days
 
-As [this QA](https://islamqa.info/en/answers/95439/if-he-repeats-umrah-but-he-does-not-have-any-hair-to-shave-what-should-he-do) says, if a person performs multiple umrahs within a few days and if the hair have grown a little, then he must pass the razor over his head.
+As [this QA](https://islamqa.info/en/answers/95439/if-he-repeats-umrah-but-he-does-not-have-any-hair-to-shave-what-should-he-do) says, if a person performs multiple umrahs within a few days and if the hair have grown a little, then he must pass the razor over his head to exit ihram.
 
 <details><summary>
 
-## Hadith and Rulings
+#### Hadith and Rulings
 
 </summary>
 
