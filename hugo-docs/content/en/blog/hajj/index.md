@@ -190,7 +190,7 @@ In this articale, I will focus on Hajj ul-Tamattu because that is the target of 
 
 #### Official Hajj Ministry Links
 
-- https://hajj.nusuk.sa
+- https://hajj.nusuk.sa (For 2023, this is the official registration website, where the Hajj ministry of SA is going to announce the hajj packages.)
 - https://twitter.com/motawif_sa
 - https://www.facebook.com/Motawif/
 - https://www.haj.gov.sa/en
@@ -630,7 +630,7 @@ Ibn Kathir V writes the following regarding al-Bayt al-Ma’mur in his Tafsir:
 
 Cosmologically, the Kaaba is regarded as a reflection of al-Bayt al-Ma’mur in the seventh heaven and the Tawaf of the pilgrims reflects that of the angels.
 
-https://hajjumrahplanner.com/tawaf/
+For more details, see [hajjumrahplanner.com: Tawaf](https://hajjumrahplanner.com/tawaf/)
 
 	Allah has made the Kaaba, the Sacred House, standing for the people and [has sanctified] the sacred months and the sacrificial animals and the garlands [by which they are identified]. That is so you may know that Allah knows what is in the heavens and what is in the earth and that Allah is Knowing of all things.
 	Qur'an, surah Al-Ma’idah 5:97
@@ -663,11 +663,9 @@ This is performed by Hajj pilgrims just before leaving Makkah after completing t
 ### Rules of Tawaf
 
 ### Dua At the Start of Tawaf
-The following Dua was recited by Ali ibn Ali Talib I:
+The following Dua was recited by Ali ibn Ali Talib:
 
 >سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ
->
-> Bismi llāhi wa llāhu akbar, Allāhumma īmānan bika wa taṣdīqan bi kitābika wa wafā’an bi ahdika wattibā’an li sunnati nabiyyika Muḥammadin ﷺ.
 >
 > In the name of Allah, Allah is the greatest. O Allah, out of faith in You, conviction in Your book, in fulfilment of Your covenant and in emulation of Your Prophet’s Sunnah ﷺ.
 
@@ -727,8 +725,6 @@ Ar-Raml is the ritual where male pilgrims are required to walk briskly with thei
 Raml (Arabic: refers to the practice of walking quickly, lifting the legs forcefully and sticking out the chest while moving the shoulders during Tawaf al-Umrah and Tawaf al-Qudum, so as to imitate a warrior. It is a Sunnah to perform Raml for the first three rounds before returning to normal walking pace for the final four rounds. Neglecting Raml will not invalidate the Tawaf.
 
 The practice of Raml was ordered by the Prophet ﷺ   in a display of strength against the enemies of Islam:
-
-Raml (Arabic: رمل) refers to the practice of walking quickly, lifting the legs forcefully and sticking out the chest while moving the shoulders during Tawaf al-Umrah and Tawaf al-Qudum, so as to imitate a warrior. It is a Sunnah to perform Raml for the first three rounds before returning to normal walking pace for the final four rounds. Neglecting Raml will not invalidate the Tawaf.
 
 > Ibn Abbas narrated: “When Allah’s Messenger ﷺ   and his companions came to Makkah, the pagans circulated the news that a group of people were coming to them and they had been weakened by the Fever of Yathrib (Madinah). So the Prophet ordered his companions to do Ramal in the first three rounds of Tawaf of the Kaaba and to walk between the two corners (The Black Stone and Yemenite corner). The Prophet ﷺ   did not order them to do Ramal in all the rounds of Tawaf out of pity for them.”
 >
@@ -1982,3 +1978,74 @@ There is certainly a reason why this verse of the Qur’an is mentioned in surah
 - [Pilgrim's Visit to Madinah](https://www.islamicity.org/81308/the-spirituality-of-hajj-pilgrims-visit-to-madinah/)
 
 </details></details>
+<details><summary>
+
+## Hajj-Tamattu Cheatsheet
+------------------------------------------------------
+
+</summary>
+
+### Umrah
+
+<cr>0.1</cr> Entering Ihram and make niyah for umrah \
+<details><summary>0.2 Tawaf 🕋 </summary>
+
+> Beginning dua:
+>
+>سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ
+>
+>Bismi llāhi wa llāhu akbar, Allāhumma īmānan bika wa taṣdīqan bi kitābika wa wafā’an bi ahdika wattibā’an li sunnati nabiyyika Muḥammadin ﷺ.
+> 
+> In the name of Allah, Allah is the greatest. O Allah, out of faith in You, conviction in Your book, in fulfilment of Your covenant and in emulation of Your Prophet’s Sunnah ﷺ.
+
+It is recorded in Ibn Majah that the following Duas may be read during Tawaf:
+
+O Allah, I ask You for forgiveness and safety in the worldly life and Hereafter.
+
+Glory be to Allah. All Praise is due to Allah. There is no god besides Allah. Allah is the Greatest. There is no power or might except with Allah, the Most High and the Most Great.
+
+<b>Ar-Raml</b> during the first three circuits of Tawaf ul-Qudum (Arrival Tawaf).
+
+<b>Hajar al-Aswad</b> (“The Black Stone”) Istilam
+
+</details>
+<cr>0.3</cr> Praying 2 raqat behind Maqam Ibrahim \
+<cr>0.4</cr> Sai between Safa and Marwa \
+<cr>0.5</cr> Trim the hair
+
+### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
+
+<cr>1.1</cr> Enter into Ihram and make niyah for hajj \
+<cr>1.2</cr> Proceed to Mina before Dhuhr \
+<cr>1.3</cr> Perform your Dhuhr, Asr, Maghrib and Isha in Mina \
+<cr>1.4</cr> Stay there overnight
+
+### Day 2 (9th Dhul Hijjah): Yawm al-Arafat (The Day of Arafat) or Yawm al-Wuquf (The Day of Standing)
+
+<cr>2.1</cr> Perform Fajr in Mina \
+<cr>2.2</cr> Proceed to Arafat \
+<cr>2.3</cr> Perform Dhuhr and Asr in Arafat \
+<cr>2.4</cr> Proceed to Muzdalifah after sunset \
+<cr>2.5</cr> Perform Maghrib and Isha in Muzdalifah \
+<cr>2.7</cr> Stay there overnight \
+<cr>2.6</cr> Collect pebbles \
+<cr>2.8</cr> Perform Fajr Salah and make Dua \
+<cr>2.9</cr> Proceed to Mina before sunrise
+
+### Day 3 (10th Dhul Hijjah): Yawm al-Nahr (The Day of Sacrifice)	
+
+<cr>3.1</cr> Perform Rami (pelting) of Jamarah al-Aqaba (the big pillar, 7 pebbles) \
+<cr>3.2</cr> Hady (animal sacrifice) \
+<cr>3.3</cr> Perform Halq/Taqsir (get your hair shaved or trimmed) \
+<cr>3.4</cr> Proceed to Makkah \
+<cr>3.5</cr> Perform Tawaf al-Ziyarah 🕋 \
+<cr>3.6</cr> Sai between Safa and Marwa \
+<cr>3.7</cr> Go back to Mina (unless you have a valid excuse to stay in Makkah)
+
+### Day 4,5,6 (11th, 12th, 13th Dhul Hijjah): Ayyam</cr> al-Tashreeq (The Days of Drying Meat)
+
+<cr>4.1</cr> Perform Rami of all three Jamarat on each day (7 pebbles each, small-dua-middle-dua-big) \
+<cr>4.2</cr> Proceed to Makkah \
+<cr>4.3</cr> Perform Tawaf al-Wida 🕋
+
+</details>>
