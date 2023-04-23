@@ -2048,4 +2048,4 @@ Glory be to Allah. All Praise is due to Allah. There is no god besides Allah. Al
 <cr>4.2</cr> Proceed to Makkah \
 <cr>4.3</cr> Perform Tawaf al-Wida 🕋
 
-</details>>
+</details>
