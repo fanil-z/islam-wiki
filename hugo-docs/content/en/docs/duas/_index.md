@@ -14,5 +14,18 @@ Let there be no compulsion in religion, for the truth stands out clearly from fa
 
 Allah is the Guardian of the believers—He brings them out of darkness and into light. As for the disbelievers, their guardians are false gods who lead them out of light and into darkness. It is they who will be the residents of the Fire. They will be there forever.
 
-<img src="./bakara-255.png" alt="Bakara 2:255"></br>
+### Al-Bakara 2:255
+
+<img src="./bakara-255.webp" alt="Bakara 2:255"></br>
+
+### Al-Bakara 2:256-257
+
 <img src="./bakara-256-257.webp" alt="Bakara 2:256-257"></br>
+
+### Al-Bakara 2:284
+
+<img src="./bakara-284.webp" alt="Bakara 2:284-285"></br>
+
+### Al-Bakara 2:286
+
+<img src="./bakara-286.webp" alt="Bakara 2:286"></br>
