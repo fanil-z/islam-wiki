@@ -986,6 +986,10 @@ Narrated Anas bin Malik:
 >
 > Bukhari, Volume 2, Book 26, Number 629
 
+#### How to Wear Ihram
+
+[Watch how to wear ihram from a sheikh](https://www.youtube.com/watch?v=p3SgrvVjQ10).
+
 #### Talbiyah
 
 One enters into ihram with talbiyah. Talbiyah is the heart’s most profound surrender to the invitation and call of Allah: Here I come to You, my Lord, here I come – fully and forever.
