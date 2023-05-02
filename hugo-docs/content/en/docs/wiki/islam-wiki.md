@@ -9227,7 +9227,7 @@ Imam Muhammad Baqir (A) said:
 
 </details><details><summary>
 
-## People ask prophets to speak to God
+## People ask prophets to ask God to start the Judgement
 
 </summary>
 

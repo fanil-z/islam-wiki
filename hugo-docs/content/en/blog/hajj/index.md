@@ -17,7 +17,7 @@ toc: true
 
 <p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b></b> <div style="font-size: 1rem; color:grey;"> Hajj-Tamattu (Sunni view, mostly Hanafi school) </br> 
 
-The Best Hajj Guide I could find: [hajjumrahplanner.com](https://hajjumrahplanner.com/hajj-guide/)
+The best and detailed Hajj Guide that I could find is on the [hajjumrahplanner.com](https://hajjumrahplanner.com/hajj-guide/) website.
 </div></p>
 
 <details><summary>
@@ -116,8 +116,7 @@ You will once again enter into a state of Ihram in the prescribed manner. There 
 - **Tawaf Al-Wada** The Farewell Tawaf performed by the pilgrim just before leaving Makkah for his next destination.
 - **Wuquf** (meaning “standing”) is the act of being present, even for a moment, at a particular place during Hajj. The Wuquf at Arafat on the 9th of Dhul Hijjah is an integral rite of Hajj and its non-performance invalidates the entire pilgrimage. The Wuquf at Muzdalifah performed after Fajr on the 10th of Dhul Hijjah, just before leaving for Mina, is regarded as a Sunnah.
 
-Full Glossary:
-https://islamonline.net/en/glossary-of-hajj-related-terms/
+[Full Glossary](https://islamonline.net/en/glossary-of-hajj-related-terms/)
 
 </details><details><summary>
 
@@ -176,6 +175,7 @@ In this articale, I will focus on Hajj ul-Tamattu because that is the target of 
 
 </summary>
 
+- [Makkah Live](https://www.youtube.com/watch?v=3loPeQnJKk4)
 - [The Best Hajj Guide](https://hajjumrahplanner.com/hajj/)
 - [Valuable Tips for Hajj](https://www.islamicity.org/12445/getting-ready-for-hajj-physically-mentally-and-spiritually/)
 - [Another Guide](https://www.islamic-relief.org.uk/islamic-resources/hajj-in-islam/hajj-guide/)
@@ -183,10 +183,10 @@ In this articale, I will focus on Hajj ul-Tamattu because that is the target of 
 - [Hajj Guide by Omar Suleiman]()
 - Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()
 - [Young Hamza Yusuf about Hajj](https://www.youtube.com/watch?v=Kswxexj6m00)
-- [Makkah Live](https://www.youtube.com/watch?v=3loPeQnJKk4)
 - [Hajj Documentary -- Sacred Journey](https://www.youtube.com/watch?v=liPFurz5Rn0) 
-- [some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
-- [professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
+- [Some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
+- [Professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
+- [Hajj cheatsheets](https://hujjaj.co/hajj-guide/introduction/cheatsheets)
 
 #### Official Hajj Ministry Links
 
@@ -1981,8 +1981,7 @@ There is certainly a reason why this verse of the Qur’an is mentioned in surah
 
 - [Pilgrim's Visit to Madinah](https://www.islamicity.org/81308/the-spirituality-of-hajj-pilgrims-visit-to-madinah/)
 
-</details></details>
-<details><summary>
+</details></details><details><summary>
 
 ## Hajj-Tamattu Cheatsheet
 ------------------------------------------------------
@@ -1991,29 +1990,37 @@ There is certainly a reason why this verse of the Qur’an is mentioned in surah
 
 ### Umrah
 
-<cr>0.1</cr> Entering Ihram and make niyah for umrah \
-<details><summary>0.2 Tawaf 🕋 </summary>
+<details><summary><cr>0.1</cr> Entering Ihram and make niyah for umrah </summary>
 
-> Beginning dua:
->
->سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ
->
->Bismi llāhi wa llāhu akbar, Allāhumma īmānan bika wa taṣdīqan bi kitābika wa wafā’an bi ahdika wattibā’an li sunnati nabiyyika Muḥammadin ﷺ.
+Before you pass the meeqat (boundary of the haram), ensure you are in ihram and have made an intention for umrah.
+
+<details><summary><cr>0.2</cr> Tawaf 🕋 </summary>
+
+Make wudhu and start tawaf from Hajar al-Aswad, circuiting the Kaaba 7 times anti-clockwise.
+
+> Dua at the beginning of Tawaf:
+> <div dir="rtl" lang="ar">
+سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ  </div>
 > 
 > In the name of Allah, Allah is the greatest. O Allah, out of faith in You, conviction in Your book, in fulfilment of Your covenant and in emulation of Your Prophet’s Sunnah ﷺ.
 
-It is recorded in Ibn Majah that the following Duas may be read during Tawaf:
+Duas during Tawaf:
 
-O Allah, I ask You for forgiveness and safety in the worldly life and Hereafter.
-
-Glory be to Allah. All Praise is due to Allah. There is no god besides Allah. Allah is the Greatest. There is no power or might except with Allah, the Most High and the Most Great.
+> O Allah, I ask You for forgiveness and safety in the worldly life and Hereafter.
+> 
+> Glory be to Allah. All Praise is due to Allah. There is no god besides Allah. Allah is the Greatest. There is no power or might except with Allah, the Most High and the Most Great.
 
 <b>Ar-Raml</b> during the first three circuits of Tawaf ul-Qudum (Arrival Tawaf).
 
 <b>Hajar al-Aswad</b> (“The Black Stone”) Istilam
 
+</details><details><summary><cr>0.3</cr> Praying 2 raqat behind Maqam Ibrahim </summary>
+
+- 1st rakah: Al-Fatihah and Al-Kafiroon
+- 2nd rakah: Al-Fatihah and Al-Ikhlas
+
 </details>
-<cr>0.3</cr> Praying 2 raqat behind Maqam Ibrahim \
+
 <cr>0.4</cr> Sai between Safa and Marwa \
 <cr>0.5</cr> Trim the hair
 
