@@ -9,7 +9,6 @@ weight: 50
 images: [hajj-pix.png]
 categories: ["News"]
 tags: ["security", "performance", "SEO"]
-contributors: ["Fanil Ziganshin"]
 pinned: false
 homepage: false
 toc: true
