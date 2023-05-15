@@ -179,6 +179,7 @@ In this articale, I will focus on Hajj ul-Tamattu because that is the target of 
 - [The Best Hajj Guide](https://hajjumrahplanner.com/hajj/)
 - [Valuable Tips for Hajj](https://www.islamicity.org/12445/getting-ready-for-hajj-physically-mentally-and-spiritually/)
 - [Another Guide](https://www.islamic-relief.org.uk/islamic-resources/hajj-in-islam/hajj-guide/)
+- [hujjaj.co guide](https://hujjaj.co/hajj-guide/)
 - hujjaj.co traveller's tips: https://www.youtube.com/watch?v=Eryvb08ocDA
 - [Hajj Guide by Omar Suleiman]()
 - Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()
@@ -1994,13 +1995,12 @@ There is certainly a reason why this verse of the Qur’an is mentioned in surah
 
 Before you pass the meeqat (boundary of the haram), ensure you are in ihram and have made an intention for umrah.
 
-<details><summary><cr>0.2</cr> Tawaf 🕋 </summary>
+</details><details><summary><cr>0.2</cr> Tawaf 🕋 </summary>
 
 Make wudhu and start tawaf from Hajar al-Aswad, circuiting the Kaaba 7 times anti-clockwise.
 
 > Dua at the beginning of Tawaf:
-> <div dir="rtl" lang="ar">
-سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ  </div>
+> <div dir="rtl" lang="ar">سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ  </div>
 > 
 > In the name of Allah, Allah is the greatest. O Allah, out of faith in You, conviction in Your book, in fulfilment of Your covenant and in emulation of Your Prophet’s Sunnah ﷺ.
 
@@ -2059,4 +2059,4 @@ Duas during Tawaf:
 <cr>4.2</cr> Proceed to Makkah \
 <cr>4.3</cr> Perform Tawaf al-Wida 🕋
 
-</details>
+</details></details>
