@@ -576,6 +576,50 @@ If you feel that is impossible to repay the debt, make a firm intention to do so
 
 </summary><details><summary>
 
+## Visit to Medina
+
+</summary>
+
+It is not obligatory for a person to go to Madinah when they go for Hajj or Umrah, however, it is highly recommended and there are many virtues of going to Madinah.
+
+The Messenger of Allah ﷺ   said:
+
+> One prayer in my mosque is better than one thousand prayers elsewhere, except al-Masjid al-Haraam, and one prayer in al-Masjid al-Haraam is better than one hundred thousand prayers elsewhere.
+>
+> Ahmad, Ibn Majah
+
+> No journey should be made to visit mosques except for three: this mosque of mine (Masjid Nabawi in Madinah), al-Masjid al-Haraam (Makkah) and al-Masjid al-Aqsa (in al-Quds/Jerusalem)
+
+Many Muslims choose to visit Medina, Saudi Arabia, after completing the Hajj, the annual Islamic pilgrimage to Mecca. Medina is considered to be the second holiest city in Islam, after Mecca, and it is home to a number of important historical and religious sites that are of interest to Muslims.
+
+One of the most important sites in Medina is the Mosque of the Prophet, also known as the Prophet's Mosque, which is the burial place of the prophet Muhammad ﷺ   and is considered to be one of the holiest sites in Islam. The mosque is also the place where prophet Muhammad ﷺ   delivered many of his sermons and teachings, and it is visited by millions of Muslims each year.
+
+Other important sites in Medina include the Quba Mosque, the first mosque built by prophet Muhammad ﷺ   and his followers after their migration to Medina; the Baqi Cemetery, the burial place of many of Rasulullah's ﷺ   companions and other important figures in Islamic history; and the Mount Uhud, the site of a battle between the Muslims and the Meccans in the early years of Islam.
+
+Visiting Madinah is not part of Hajj. However, since paying a visit to the Prophet’s mosque is a recommended act, all pilgrims use the Hajj opportunity to perform the latter as well. They do so either before Hajj or after it. Some pilgrims arrive in Makkah via Madinah, while others do not, but depart from Makkah to their homelands via it.
+
+The distance between Makkah and Madinah is more than 400 km, which nevertheless accounts for nothing when compared with the distances most pilgrims cover to come for Hajj, and when compared with the benefits procured from visiting the Prophet’s mosque and its urban locus: the city of Madinah.
+
+The Prophet said: “Journeys should not be made (to visit any mosque) except towards three mosques: the Sacred Mosque (al-Masjid al-Haram in Makkah), this mosque of mine (in Madinah) and the al-Aqsa mosque (in Jerusalem).”
+
+The Prophet said about the virtues of praying in his mosque, thus inviting the faithful to undertake journeys from near and far to it: “One prayer in my mosque (in Madinah) is better than one thousand prayers elsewhere, except the Sacred Mosque (al-Masjid al-Haram in Makkah), and one prayer in the Sacred Mosque is better than one hundred thousand prayers elsewhere.”
+
+Once in Madinah, a pilgrim is to visit the Prophet’s mosque and to pray in it before anything else. That should be the chief reason for his visit; all other things are supplementary and assume subsidiary roles. After that, a pilgrim is to visit the Prophet’s grave and the graves of his two closest companions: Abu Bakr and ‘Umar bin al-Khattab, which are integrated into the mosque proper, observing the highest standards of Islamic monotheism and its ethical codes.
+
+A pilgrim then can go and visit al-Baqi’, the historic cemetery of Madinah containing the graves of many members of the first and best generations of Islam, because Muslims (albeit men more than women) are generally encouraged to visit graveyards in order to reflect upon the true meaning of life and death and to supplicate for the dead. A pilgrim can also visit the scene of the battle of Uhud, the second major battle between Muslims and polytheists in which the Prophet and his companions underwent unprecedented trials, in order to ruminate on jihad, sacrifice and martyrdom, and to pray for the many martyrs that fell in the battle.
+
+Finally, a pilgrim is expected to visit the Quba’ mosque and pray there. It was the first mosque built by the Prophet, which is located about 4 km south of the Prophet’s mosque. Doing that constitutes a sunnah (tradition) of the Prophet who himself used to go to the mosque sometimes walking and sometimes riding. According to some reports, whenever he was free the Prophet used to visit the Quba’ mosque every Saturday, each time offering a voluntary prayer of two units (rak’ah).
+
+A great reward is promised for following this sunnah, as the Prophet disclosed: “Whoever purifies himself in his house, then comes to the Quba’ mosque and offers a prayer therein, will have a reward like that for ‘Umrah (lesser pilgrimage).”
+
+The spiritual legitimacy of visiting these places is obtained from a great many sayings and deeds of the Prophet and his companions. Making those visits, moreover, falls into the category of travelling through the land with the aim of enlivening and possessing “hearts by which to reason and ears by which to hear, for indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts” (al-Hajj, 46).
+
+There is certainly a reason why this verse of the Qur’an is mentioned in surah (chapter) al-Hajj or the Pilgrimage. In the surah, besides talking about the aspects of Hajj, the Qur’an in addition pores over a number of ancient failed civilizational legacies which paid no heed to the counsels of their holy prophets. People are advised thereby to traverse the land with the intention of discovering, learning about and appreciating the truth and its ways. The good is to be acknowledged and emulated, and the bad discredited and rejected.
+
+- [Pilgrim's Visit to Madinah](https://www.islamicity.org/81308/the-spirituality-of-hajj-pilgrims-visit-to-madinah/)
+
+</details><details><summary>
+
 ## Day 0: Umrah
 
 </summary>
@@ -658,7 +702,6 @@ It is known as Tawaf al-Ziyarah (Tawaf of Visitation) as it is performed on visi
 Also known as Tawaf al-Sadr (Tawaf of Leaving)
 
 This is performed by Hajj pilgrims just before leaving Makkah after completing the Hajj. It is the final rite that is performed in Makkah prior to moving on to the next destination. Its performance is Wajib according to the Hanafi and Hanbali schools, requiring Fidyah as atonement if left unobserved, while the Maliki school regards it as a Sunnah, requiring no expiation if neglected.
-
 
 ### Rules of Tawaf
 
@@ -1947,41 +1990,7 @@ Refer to this article for a detailed guide on Tawaf.
 
 Your Hajj is now complete. May it be accepted. Ameen.
 
-</details></details><details><summary>
-
-## Visit to Medina
-
-</summary>
-
-Many Muslims choose to visit Medina, Saudi Arabia, after completing the Hajj, the annual Islamic pilgrimage to Mecca. Medina is considered to be the second holiest city in Islam, after Mecca, and it is home to a number of important historical and religious sites that are of interest to Muslims.
-
-One of the most important sites in Medina is the Mosque of the Prophet, also known as the Prophet's Mosque, which is the burial place of the prophet Muhammad ﷺ   and is considered to be one of the holiest sites in Islam. The mosque is also the place where prophet Muhammad ﷺ   delivered many of his sermons and teachings, and it is visited by millions of Muslims each year.
-
-Other important sites in Medina include the Quba Mosque, the first mosque built by prophet Muhammad ﷺ   and his followers after their migration to Medina; the Baqi Cemetery, the burial place of many of Rasulullah's ﷺ   companions and other important figures in Islamic history; and the Mount Uhud, the site of a battle between the Muslims and the Meccans in the early years of Islam.
-
-Visiting Madinah is not part of Hajj. However, since paying a visit to the Prophet’s mosque is a recommended act, all pilgrims use the Hajj opportunity to perform the latter as well. They do so either before Hajj or after it. Some pilgrims arrive in Makkah via Madinah, while others do not, but depart from Makkah to their homelands via it.
-
-The distance between Makkah and Madinah is more than 400 km, which nevertheless accounts for nothing when compared with the distances most pilgrims cover to come for Hajj, and when compared with the benefits procured from visiting the Prophet’s mosque and its urban locus: the city of Madinah.
-
-The Prophet said: “Journeys should not be made (to visit any mosque) except towards three mosques: the Sacred Mosque (al-Masjid al-Haram in Makkah), this mosque of mine (in Madinah) and the al-Aqsa mosque (in Jerusalem).”
-
-The Prophet said about the virtues of praying in his mosque, thus inviting the faithful to undertake journeys from near and far to it: “One prayer in my mosque (in Madinah) is better than one thousand prayers elsewhere, except the Sacred Mosque (al-Masjid al-Haram in Makkah), and one prayer in the Sacred Mosque is better than one hundred thousand prayers elsewhere.”
-
-Once in Madinah, a pilgrim is to visit the Prophet’s mosque and to pray in it before anything else. That should be the chief reason for his visit; all other things are supplementary and assume subsidiary roles. After that, a pilgrim is to visit the Prophet’s grave and the graves of his two closest companions: Abu Bakr and ‘Umar bin al-Khattab, which are integrated into the mosque proper, observing the highest standards of Islamic monotheism and its ethical codes.
-
-A pilgrim then can go and visit al-Baqi’, the historic cemetery of Madinah containing the graves of many members of the first and best generations of Islam, because Muslims (albeit men more than women) are generally encouraged to visit graveyards in order to reflect upon the true meaning of life and death and to supplicate for the dead. A pilgrim can also visit the scene of the battle of Uhud, the second major battle between Muslims and polytheists in which the Prophet and his companions underwent unprecedented trials, in order to ruminate on jihad, sacrifice and martyrdom, and to pray for the many martyrs that fell in the battle.
-
-Finally, a pilgrim is expected to visit the Quba’ mosque and pray there. It was the first mosque built by the Prophet, which is located about 4 km south of the Prophet’s mosque. Doing that constitutes a sunnah (tradition) of the Prophet who himself used to go to the mosque sometimes walking and sometimes riding. According to some reports, whenever he was free the Prophet used to visit the Quba’ mosque every Saturday, each time offering a voluntary prayer of two units (rak’ah).
-
-A great reward is promised for following this sunnah, as the Prophet disclosed: “Whoever purifies himself in his house, then comes to the Quba’ mosque and offers a prayer therein, will have a reward like that for ‘Umrah (lesser pilgrimage).”
-
-The spiritual legitimacy of visiting these places is obtained from a great many sayings and deeds of the Prophet and his companions. Making those visits, moreover, falls into the category of travelling through the land with the aim of enlivening and possessing “hearts by which to reason and ears by which to hear, for indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts” (al-Hajj, 46).
-
-There is certainly a reason why this verse of the Qur’an is mentioned in surah (chapter) al-Hajj or the Pilgrimage. In the surah, besides talking about the aspects of Hajj, the Qur’an in addition pores over a number of ancient failed civilizational legacies which paid no heed to the counsels of their holy prophets. People are advised thereby to traverse the land with the intention of discovering, learning about and appreciating the truth and its ways. The good is to be acknowledged and emulated, and the bad discredited and rejected.
-
-- [Pilgrim's Visit to Madinah](https://www.islamicity.org/81308/the-spirituality-of-hajj-pilgrims-visit-to-madinah/)
-
-</details></details><details><summary>
+</details></details></details><details><summary>
 
 ## Hajj-Tamattu Cheatsheet
 ------------------------------------------------------
