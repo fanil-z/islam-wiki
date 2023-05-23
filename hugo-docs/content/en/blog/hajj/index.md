@@ -2003,7 +2003,10 @@ Your Hajj is now complete. May it be accepted. Ameen.
 
 Before you pass the meeqat (boundary of the haram), ensure you are in ihram and have made an intention for umrah.
 
-</details><details><summary><cr>0.2</cr> Tawaf 🕋 </summary>
+</details>
+<cr>0.2</cr> Niyah for Tawaf al-Umrah
+
+<details><summary><cr>0.3</cr> Tawaf 🕋 (with Ar-Raml)</summary>
 
 Make wudhu and start tawaf from Hajar al-Aswad, circuiting the Kaaba 7 times anti-clockwise.
 
@@ -2022,34 +2025,52 @@ Duas during Tawaf:
 
 <b>Hajar al-Aswad</b> (“The Black Stone”) Istilam
 
-</details><details><summary><cr>0.3</cr> Praying 2 raqat behind Maqam Ibrahim </summary>
+</details><details><summary><cr>0.4</cr> Praying 2 raqat behind Maqam Ibrahim </summary>
 
 - 1st rakah: Al-Fatihah and Al-Kafiroon
 - 2nd rakah: Al-Fatihah and Al-Ikhlas
 
 </details>
 
-<cr>0.4</cr> Sai between Safa and Marwa \
-<cr>0.5</cr> Trim the hair
+<cr>0.5</cr> Sai between Safa and Marwa \
+<cr>0.6</cr> Trim the hair
 
 ### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
 
 <cr>1.1</cr> Enter into Ihram and make niyah for hajj \
-<cr>1.2</cr> Proceed to Mina before Dhuhr \
-<cr>1.3</cr> Perform your Dhuhr, Asr, Maghrib and Isha in Mina \
-<cr>1.4</cr> Stay there overnight
+<cr>1.2</cr> Recite Talbiyah \
+<cr>1.3</cr> Proceed to Mina before Dhuhr \
+<cr>1.4</cr> Perform shortened Dhuhr, Asr, Maghrib and Isha in Mina \
+<cr>1.5</cr> Stay at Mina overnight
 
 ### Day 2 (9th Dhul Hijjah): Yawm al-Arafat (The Day of Arafat) or Yawm al-Wuquf (The Day of Standing)
 
 <cr>2.1</cr> Perform Fajr in Mina \
-<cr>2.2</cr> Proceed to Arafat \
-<cr>2.3</cr> Perform Dhuhr and Asr in Arafat \
-<cr>2.4</cr> Proceed to Muzdalifah after sunset \
-<cr>2.5</cr> Perform Maghrib and Isha in Muzdalifah \
-<cr>2.7</cr> Stay there overnight \
-<cr>2.6</cr> Collect pebbles \
-<cr>2.8</cr> Perform Fajr Salah and make Dua \
-<cr>2.9</cr> Proceed to Mina before sunrise
+<details><summary><cr>2.2</cr> Takbir al-Tashreeq </summary>
+
+Starting immediately after Fajr Salah on the 9th of Dhul Hijjah, audibly recite Takbir al-Tashreeq at least once after every Fardh Salah, up to and including Asr Salah on the 13th of Dhul Hijjah (a total of 23 Fardh prayers).
+
+Takbir al-Tashreeq is the recitation of the following:
+
+Allahu Akbar, Allahu Akbar, La Ilaha Ilallahu Wallahu Akbar, Allahu Akbar, Wa Lillahil Hamd.
+
+Allah is the greatest, Allah is the greatest. There is no deity besides Allah and Allah is the greatest. Allah is the greatest and all praises are for Allah only.
+Notes:
+
+Talbiyah is recited after Takbir al-Tashreeq.
+</details><details><summary><cr>2.3</cr> Perform Ghusl (better in Mina) </summary>
+
+It is Sunnah to perform Ghusl on the Day of Arafat. This can be done in Arafat before the Wuquf (standing) or it can be done in Mina before departing for Arafat. The camps in Arafat are more open in comparison to Mina, so it may be more comfortable for a person to perform Ghusl in Mina.
+</details>
+<cr>2.4</cr> Proceed to Arafat \
+<cr>2.5</cr> Perform Dhuhr and Asr in Arafat (shortened and prayed together at Dhuhr) \
+<cr>2.6</cr> Standing at Arafat from Dhuhr till sunset \
+<cr>2.7</cr> Proceed to Muzdalifah after sunset \
+<cr>2.8</cr> Perform Maghrib and Isha in Muzdalifah (shortened and prayed together at Maghrib) \
+<cr>2.9</cr> Stay there overnight \
+<cr>2.10</cr> Collect pebbles \
+<cr>2.11</cr> Perform Fajr Salah and make Dua \
+<cr>2.12</cr> Proceed to Mina before sunrise
 
 ### Day 3 (10th Dhul Hijjah): Yawm al-Nahr (The Day of Sacrifice)	
 
