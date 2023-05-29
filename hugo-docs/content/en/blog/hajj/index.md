@@ -1209,7 +1209,10 @@ The word Arafat is derived from the Arabic verb “Arafa”, which means to know
 
 </summary>
 
+[Prophet Muhammad's ﷺ    Day of Arafat](https://www.youtube.com/watch?v=PSV0fHjHc1E)
+
 ### Takbir al-Tashreeq
+
 Starting immediately after Fajr Salah on the 9th of Dhul Hijjah, audibly recite Takbir al-Tashreeq at least once after every Fardh Salah, up to and including Asr Salah on the 13th of Dhul Hijjah (a total of 23 Fardh prayers).
 
 Takbir al-Tashreeq is the recitation of the following:
@@ -1889,6 +1892,8 @@ If you walk back to Mina, make sure you don’t get lost and walk with those who
 
 </summary>
 
+[Day 4-6 in details](https://hajjumrahplanner.com/days-4-6-11th-13th-dhul-hijjah/)
+
 The three days after Yawm al-Nahr are known as Ayyam al-Tashreeq (the Days of Drying Meat) due to the fact that the early pilgrims would preserve the meat that was acquired from animal sacrifices through seasoning it with salt and letting it dry in the sun, to prevent it from going rotten. About these days, Rasulullah ﷺ   said:
 
 > The days of Tashreeq are the days of eating and drinking.
@@ -2045,7 +2050,8 @@ Duas during Tawaf:
 
 ### Day 2 (9th Dhul Hijjah): Yawm al-Arafat (The Day of Arafat) or Yawm al-Wuquf (The Day of Standing)
 
-<cr>2.1</cr> Perform Fajr in Mina \
+<cr>2.1</cr> Perform Fajr in Mina 
+
 <details><summary><cr>2.2</cr> Takbir al-Tashreeq </summary>
 
 Starting immediately after Fajr Salah on the 9th of Dhul Hijjah, audibly recite Takbir al-Tashreeq at least once after every Fardh Salah, up to and including Asr Salah on the 13th of Dhul Hijjah (a total of 23 Fardh prayers).
@@ -2058,10 +2064,12 @@ Allah is the greatest, Allah is the greatest. There is no deity besides Allah an
 Notes:
 
 Talbiyah is recited after Takbir al-Tashreeq.
+
 </details><details><summary><cr>2.3</cr> Perform Ghusl (better in Mina) </summary>
 
 It is Sunnah to perform Ghusl on the Day of Arafat. This can be done in Arafat before the Wuquf (standing) or it can be done in Mina before departing for Arafat. The camps in Arafat are more open in comparison to Mina, so it may be more comfortable for a person to perform Ghusl in Mina.
 </details>
+
 <cr>2.4</cr> Proceed to Arafat \
 <cr>2.5</cr> Perform Dhuhr and Asr in Arafat (shortened and prayed together at Dhuhr) \
 <cr>2.6</cr> Standing at Arafat from Dhuhr till sunset \
