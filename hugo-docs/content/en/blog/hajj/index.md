@@ -1211,7 +1211,7 @@ The word Arafat is derived from the Arabic verb “Arafa”, which means to know
 
 [Prophet Muhammad's ﷺ    Day of Arafat](https://www.youtube.com/watch?v=PSV0fHjHc1E)
 
-### Takbir al-Tashreeq
+### Takbir al-Tashreeq 
 
 Starting immediately after Fajr Salah on the 9th of Dhul Hijjah, audibly recite Takbir al-Tashreeq at least once after every Fardh Salah, up to and including Asr Salah on the 13th of Dhul Hijjah (a total of 23 Fardh prayers).
 
@@ -2042,7 +2042,18 @@ Duas during Tawaf:
 
 ### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
 
-<cr>1.1</cr> Enter into Ihram and make niyah for hajj \
+<details><summary>
+
+<cr>1.1</cr> Enter into Ihram and make niyah for hajj 
+
+</summary>
+
+It is Mustahabb (recommended) that you take a shower, cut your nails and trim your moustache prior to wearing the Ihram garments.
+
+You will then perform two Rakats of Nafl Salah, pronounce a new Niyyah (intention) for Hajj, recite Talbiyah and enter into the state of Ihram before the morning of the 8th of Dhul Hijjah. It is Mustahabb to carry this out at Masjid al-Haram, although it’s also perfectly acceptable at your place of residence. Please note, you don’t have to travel to the nearest Miqat (Masjid Aisha) in order to enter into Ihram.
+
+</details>
+
 <cr>1.2</cr> Recite Talbiyah \
 <cr>1.3</cr> Proceed to Mina before Dhuhr \
 <cr>1.4</cr> Perform shortened Dhuhr, Asr, Maghrib and Isha in Mina \
