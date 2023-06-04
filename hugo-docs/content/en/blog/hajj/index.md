@@ -187,6 +187,7 @@ In this articale, I will focus on Hajj ul-Tamattu because that is the target of 
 - [Some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
 - [Professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
 - [Hajj cheatsheets](https://hujjaj.co/hajj-guide/introduction/cheatsheets)
+- [Places where duas are accepted during hajj](https://travelforumrah.co.uk/blog/places-where-dua-is-accepted-during-umrah-and-hajj)
 
 #### Official Hajj Ministry Links
 
@@ -617,6 +618,20 @@ The spiritual legitimacy of visiting these places is obtained from a great many 
 There is certainly a reason why this verse of the Qur’an is mentioned in surah (chapter) al-Hajj or the Pilgrimage. In the surah, besides talking about the aspects of Hajj, the Qur’an in addition pores over a number of ancient failed civilizational legacies which paid no heed to the counsels of their holy prophets. People are advised thereby to traverse the land with the intention of discovering, learning about and appreciating the truth and its ways. The good is to be acknowledged and emulated, and the bad discredited and rejected.
 
 - [Pilgrim's Visit to Madinah](https://www.islamicity.org/81308/the-spirituality-of-hajj-pilgrims-visit-to-madinah/)
+
+#### Rawdaw 
+
+The first opinion is that the Rawdah is located between the house of Aisha, in which the grave of the Prophet ﷺ   is situated, and his pulpit. This is based on the following hadiths:
+
+> Between my house and my pulpit is one of the gardens of Paradise and my pulpit stands on my pool (al-Hawd).
+>
+> Narrated in Sahih al-Bukhari
+
+As a side note, the Pool that is mentioned in this Hadith – al-Hawd (Arabic: الحوضي), will be located near the near entrance of paradise on the Day of Judgment and those who are permitted to drink from it by the Prophet ﷺ will never experience thirst again. The water in al-Hawd is collected from a river of Paradise, known as al-Kawthar (Arabic: الكوثر). About this pool, the Prophet ﷺ says:
+
+> My pool is so large that it takes a month’s journey to cross it. Its water is whiter than milk, and its smell is nicer than musk, and its drinking cups are as numerous as the number of stars of the sky. Whoever drinks from it, will never be thirsty again.
+>
+> Narrated in Sahih al-Bukhari
 
 </details><details><summary>
 
@@ -1997,23 +2012,40 @@ Your Hajj is now complete. May it be accepted. Ameen.
 
 </details></details></details><details><summary>
 
-## Hajj-Tamattu Cheatsheet
+## My Hajj-Tamattu Roadmap
 ------------------------------------------------------
 
+</summary><details><summary> 
+
+### Medina (3 days) 
+
 </summary>
+
+- Visit the Prophet SAW mosque and the Quba mosque.
+- Use the Nusuk app to book a place in [Rawdah](https://hajjumrahplanner.com/rawdah/). 
+- Buy missing things for hajj.
+
+</details><details><summary>Bus from Medina to Mecca (Crossing Miqat)</summary>
+
+</details>
 
 ### Umrah
 
 <details><summary><cr>0.1</cr> Entering Ihram and make niyah for umrah </summary>
 
-Before you pass the meeqat (boundary of the haram), ensure you are in ihram and have made an intention for umrah.
+Before you pass the miqat (boundary of the haram), ensure you are in ihram and have made an intention for umrah.
 
-</details>
-<cr>0.2</cr> Niyah for Tawaf al-Umrah
+</details><details><summary><cr>0.2</cr> Dua upon seeing the Kaaba for the first time </summary>
 
-<details><summary><cr>0.3</cr> Tawaf 🕋 (with Ar-Raml)</summary>
+When a person enters Makkah and his gaze falls upon the Ka'ba and he reaches the Mosque, it is mustahab for him to lift his hands and supplicate. It is reported that the dua of a Muslim is accepted upon seeing the Ka'ba. Allah, increase this House in honour, esteem, respect and reverence.
 
-Make wudhu and start tawaf from Hajar al-Aswad, circuiting the Kaaba 7 times anti-clockwise.
+</details><details><summary><cr>0.3</cr> Niyah for Tawaf al-Umrah</summary>
+
+This will be the first tawaf in Mecca but no need to do Tawaf al-Qudum (Tawaf of Arrival) when performing umrah.
+
+</details><details><summary><cr>0.4</cr> Tawaf 🕋 (with Ar-Raml) <mark class="grey"> start from Hajar al-Aswad </mark></summary>
+
+Make wudhu and start tawaf from Hajar al-Aswad (Black Stone), circuiting the Kaaba 7 times anti-clockwise.
 
 > Dua at the beginning of Tawaf:
 > <div dir="rtl" lang="ar">سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ  </div>
@@ -2030,15 +2062,22 @@ Duas during Tawaf:
 
 <b>Hajar al-Aswad</b> (“The Black Stone”) Istilam
 
-</details><details><summary><cr>0.4</cr> Praying 2 raqat behind Maqam Ibrahim </summary>
+</details><details><summary><cr>0.5</cr> Praying 2 raqat behind Maqam Ibrahim </summary>
 
 - 1st rakah: Al-Fatihah and Al-Kafiroon
 - 2nd rakah: Al-Fatihah and Al-Ikhlas
 
 </details>
 
-<cr>0.5</cr> Sai between Safa and Marwa \
-<cr>0.6</cr> Trim the hair
+<details><summary><cr>0.6</cr> Istilam of the Hajar al-Aswad</summary>
+
+Prior to performing Sa’i, it is Sunnah to return to the Hajar al-Aswad in order to do Istilam. You will be carrying out Istilam for the ninth time, following the eight times you performed Istilam during Tawaf. This Istilam is only applicable if Sa’i is performed immediately after Tawaf.
+
+</br></br></details><details><summary><cr>0.7</cr> Sai between Safa and Marwa</summary>
+
+[Sai in details](https://hajjumrahplanner.com/safa-marwa/)
+
+</details><details><summary><cr>0.8</cr> Trim the hair</summary></details>
 
 ### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
 

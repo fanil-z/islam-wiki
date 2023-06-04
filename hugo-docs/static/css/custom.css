@@ -429,3 +429,8 @@ qr, .qr {
   height: 20px;
   margin-left: 10px;
 }
+
+mark.grey {
+  color: grey;
+  background: none;
+}
