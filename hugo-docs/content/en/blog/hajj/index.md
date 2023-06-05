@@ -945,17 +945,15 @@ The first lap must begin at Safa. If an individual starts from Marwa, the lap wo
 Completion of Seven Laps
 After starting the first lap at Safa, it must end at Marwa and the next lap must begin at Marwa and end at Safa, until seven laps are completed. The laps are counted as follows:
 
--------------------------
-| Lap No. |	From  |	To  |
--------------------------
-| 1	| Safa  |   Marwa   |
-| 2	| Marwa |	Safa    |
-| 3	| Safa  |	Marwa   |
-| 4	| Marwa |	Safa    |
-| 5	| Safa  |	Marwa   |
-| 6	| Marwa |	Safa    |
-| 7	| Safa  |	Marwa   |
--------------------------
+| Lap No. |  From |  To   |
+|---------|:-----:|------:|
+| 1 	  | Safa  | Marwa |
+| 2       | Marwa | Safa  |
+| 3 	  | Safa  | Marwa |
+| 4       | Marwa | Safa  |
+| 5 	  | Safa  | Marwa |
+| 6       | Marwa | Safa  |
+| 7 	  | Safa  | Marwa |
 
 If during the course of Sa’i you have doubts regarding the amount of laps you have completed, you should take the lowest amount you think you have done.
 
@@ -2073,11 +2071,30 @@ Duas during Tawaf:
 
 Prior to performing Sa’i, it is Sunnah to return to the Hajar al-Aswad in order to do Istilam. You will be carrying out Istilam for the ninth time, following the eight times you performed Istilam during Tawaf. This Istilam is only applicable if Sa’i is performed immediately after Tawaf.
 
-</br></br></details><details><summary><cr>0.7</cr> Sai between Safa and Marwa</summary>
+</br></br></details><details><summary><cr>0.7</cr> Sai between Safa and Marwa (~3km)<mark class="grey"> start at Safa, end at Marwah, dua after each lap, quicken the pace between Milayn al-Arkhdharayn</mark> </summary>
 
 [Sai in details](https://hajjumrahplanner.com/safa-marwa/)
 
-</details><details><summary><cr>0.8</cr> Trim the hair</summary></details>
+It is Sunnah to recite the following Dua:
+
+> Allāhu akbar, Allāhu akbar, Allāhu akbar, wa lillāhi l-ḥamd.
+
+Allah is the greatest; Allah is the greatest; Allah is the greatest, and to Allah belongs all praise.
+
+> Lā ilāha illallāh waḥdahu lā sharīka lah(u), lahu l-mulku wa lahu l-ḥamdu yuḥyī wa yumīt(u), wa huwa ‘alā kulli shay’in qadīr.
+
+There is no deity except Allah, alone without a partner. To Him belongs the Dominion, and to Him belongs all praise. He gives life and death and He has power over everything.
+
+> Lā ilāha illallāhu waḥdah(u), anjaza wa’dahu wa naṣara ‘abdahu wa hazama l-aḥzāba waḥdah.
+
+There is no deity except Allah alone. He fulfilled His promise, supported His slave and defeated the confederates alone.
+
+After reciting this Dua, you may recite your own supplications. Read the Dua a total of three times, making your own supplications in between each time, as was the Sunnah of the Prophet ﷺ.
+
+</br></br></details><details><summary><cr>0.8</cr> Perform 2 raqat Nafl salah and leave Haram for Taqsir </mark> </summary>
+</details>
+
+<details><summary><cr>0.9</cr> Trim the hair</summary></details>
 
 ### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
 
@@ -2121,7 +2138,7 @@ It is Sunnah to perform Ghusl on the Day of Arafat. This can be done in Arafat b
 </details>
 
 <cr>2.4</cr> Proceed to Arafat \
-<cr>2.5</cr> Perform Dhuhr and Asr in Arafat (shortened and prayed together at Dhuhr) \
+<cr>2.5</cr> Perform Dhuhr and Asr in Arafat <mark class="grey"> shortened and prayed together at Dhuhr</mark> \
 <cr>2.6</cr> Standing at Arafat from Dhuhr till sunset \
 <cr>2.7</cr> Proceed to Muzdalifah after sunset \
 <cr>2.8</cr> Perform Maghrib and Isha in Muzdalifah (shortened and prayed together at Maghrib) \
