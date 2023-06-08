@@ -95,6 +95,40 @@ You will once again enter into a state of Ihram in the prescribed manner. There 
 
 </details><details><summary>
 
+#### Links and References
+
+</summary>
+
+- [Makkah Live](https://www.youtube.com/watch?v=3loPeQnJKk4)
+- [The Best Hajj Guide](https://hajjumrahplanner.com/hajj/)
+- [Valuable Tips for Hajj](https://www.islamicity.org/12445/getting-ready-for-hajj-physically-mentally-and-spiritually/)
+- [Another Guide](https://www.islamic-relief.org.uk/islamic-resources/hajj-in-islam/hajj-guide/)
+- [hujjaj.co guide](https://hujjaj.co/hajj-guide/)
+- hujjaj.co traveller's tips: https://www.youtube.com/watch?v=Eryvb08ocDA
+- [Hajj Guide by Omar Suleiman]()
+- Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()
+- [Young Hamza Yusuf about Hajj](https://www.youtube.com/watch?v=Kswxexj6m00)
+- [Hajj Documentary -- Sacred Journey](https://www.youtube.com/watch?v=liPFurz5Rn0) 
+- [Some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
+- [Professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
+- [Hajj cheatsheets](https://hujjaj.co/hajj-guide/introduction/cheatsheets)
+- [Places where duas are accepted during hajj](https://travelforumrah.co.uk/blog/places-where-dua-is-accepted-during-umrah-and-hajj)
+
+#### Official Hajj Ministry Links
+
+- https://hajj.nusuk.sa (For 2023, this is the official registration website, where the Hajj ministry of SA is going to announce the hajj packages.)
+- https://twitter.com/motawif_sa
+- https://www.facebook.com/Motawif/
+- https://www.haj.gov.sa/en
+- https://twitter.com/MoHU_En?t=WQM4tACX9VwY82PwJ0zAMg&s=08
+
+#### Dua Collection for Hajj
+
+[Hajj Duas](https://thepilgrim.co/list-of-hajj-duas/)
+[Essential Duas for Hajj and Umrah](https://muslimhands.org.uk/latest/2019/08/a-list-of-essential-duas-for-hajj-and-umrah)
+
+</details><details><summary>
+
 ## Glossary
 
 </summary>
@@ -169,40 +203,6 @@ It is important to note that all three types of Hajj involve the same core ritua
 In this articale, I will focus on Hajj ul-Tamattu because that is the target of the majority of Muslims who plan their hajj including myself.
 
 </details></details><details><summary>
-
-#### Links and References
-
-</summary>
-
-- [Makkah Live](https://www.youtube.com/watch?v=3loPeQnJKk4)
-- [The Best Hajj Guide](https://hajjumrahplanner.com/hajj/)
-- [Valuable Tips for Hajj](https://www.islamicity.org/12445/getting-ready-for-hajj-physically-mentally-and-spiritually/)
-- [Another Guide](https://www.islamic-relief.org.uk/islamic-resources/hajj-in-islam/hajj-guide/)
-- [hujjaj.co guide](https://hujjaj.co/hajj-guide/)
-- hujjaj.co traveller's tips: https://www.youtube.com/watch?v=Eryvb08ocDA
-- [Hajj Guide by Omar Suleiman]()
-- Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()
-- [Young Hamza Yusuf about Hajj](https://www.youtube.com/watch?v=Kswxexj6m00)
-- [Hajj Documentary -- Sacred Journey](https://www.youtube.com/watch?v=liPFurz5Rn0) 
-- [Some footage](https://www.youtube.com/watch?v=q7q_LcqbvKI)
-- [Professional footage](https://www.youtube.com/watch?v=FiE-Pd9Amz0)
-- [Hajj cheatsheets](https://hujjaj.co/hajj-guide/introduction/cheatsheets)
-- [Places where duas are accepted during hajj](https://travelforumrah.co.uk/blog/places-where-dua-is-accepted-during-umrah-and-hajj)
-
-#### Official Hajj Ministry Links
-
-- https://hajj.nusuk.sa (For 2023, this is the official registration website, where the Hajj ministry of SA is going to announce the hajj packages.)
-- https://twitter.com/motawif_sa
-- https://www.facebook.com/Motawif/
-- https://www.haj.gov.sa/en
-- https://twitter.com/MoHU_En?t=WQM4tACX9VwY82PwJ0zAMg&s=08
-
-#### Dua Collection for Hajj
-
-[Hajj Duas](https://thepilgrim.co/list-of-hajj-duas/)
-[Essential Duas for Hajj and Umrah](https://muslimhands.org.uk/latest/2019/08/a-list-of-essential-duas-for-hajj-and-umrah)
-
-</details><details><summary>
 
 ## Overview
 
@@ -382,8 +382,9 @@ Other texts teach that Nuh (’alayhi al-salam), Ibrahim (’alayhi al-salam), a
 
 </summary>
 
-Hajjar and Ismail
-Ibrahim and Ismail build the Kaaba
+Hajjar and Ismail AS [TBD]
+
+How Ibrahim AS and Ismail AS build the Kaaba [TBD]
 
 </details><details><summary>
 
@@ -580,8 +581,6 @@ If you feel that is impossible to repay the debt, make a firm intention to do so
 ## Visit to Medina
 
 </summary>
-
-It is not obligatory for a person to go to Madinah when they go for Hajj or Umrah, however, it is highly recommended and there are many virtues of going to Madinah.
 
 The Messenger of Allah ﷺ   said:
 
