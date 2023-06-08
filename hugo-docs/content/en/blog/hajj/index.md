@@ -21,7 +21,7 @@ The best and detailed Hajj Guide that I could find is on the [hajjumrahplanner.c
 
 <details><summary>
 
-## Hajj-Tamattu Roadmap
+## Short Hajj-Tamattu Roadmap
 ------------------------------------------------------
 
 </summary>
@@ -95,7 +95,162 @@ You will once again enter into a state of Ihram in the prescribed manner. There 
 
 </details><details><summary>
 
-#### Links and References
+## My Hajj-Tamattu Roadmap
+------------------------------------------------------
+
+</summary><details><summary> 
+
+### Medina (3 days) 
+
+</summary>
+
+- Visit the Prophet SAW mosque and the Quba mosque.
+- Use the Nusuk app to book a place in [Rawdah](https://hajjumrahplanner.com/rawdah/). 
+- Buy missing things for hajj.
+
+</details><details><summary>Bus from Medina to Mecca (Crossing Miqat)</summary>
+
+</details>
+
+### Umrah
+
+<details><summary><cr>0.1</cr> Entering Ihram and make niyah for umrah </summary>
+
+Before you pass the miqat (boundary of the haram), ensure you are in ihram and have made an intention for umrah.
+
+</details><details><summary><cr>0.2</cr> Dua upon seeing the Kaaba for the first time </summary>
+
+When a person enters Makkah and his gaze falls upon the Ka'ba and he reaches the Mosque, it is mustahab for him to lift his hands and supplicate. It is reported that the dua of a Muslim is accepted upon seeing the Ka'ba. Allah, increase this House in honour, esteem, respect and reverence.
+
+</details><details><summary><cr>0.3</cr> Niyah for Tawaf al-Umrah</summary>
+
+This will be the first tawaf in Mecca but no need to do Tawaf al-Qudum (Tawaf of Arrival) when performing umrah.
+
+</details><details><summary><cr>0.4</cr> Tawaf 🕋 (with Ar-Raml) <mark class="grey"> start from Hajar al-Aswad </mark></summary>
+
+Make wudhu and start tawaf from Hajar al-Aswad (Black Stone), circuiting the Kaaba 7 times anti-clockwise.
+
+> Dua at the beginning of Tawaf:
+> <div dir="rtl" lang="ar">سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ  </div>
+> 
+> In the name of Allah, Allah is the greatest. O Allah, out of faith in You, conviction in Your book, in fulfilment of Your covenant and in emulation of Your Prophet’s Sunnah ﷺ.
+
+Duas during Tawaf:
+
+> O Allah, I ask You for forgiveness and safety in the worldly life and Hereafter.
+> 
+> Glory be to Allah. All Praise is due to Allah. There is no god besides Allah. Allah is the Greatest. There is no power or might except with Allah, the Most High and the Most Great.
+
+<b>Ar-Raml</b> during the first three circuits of Tawaf ul-Qudum (Arrival Tawaf).
+
+<b>Hajar al-Aswad</b> (“The Black Stone”) Istilam
+
+</details><details><summary><cr>0.5</cr> Praying 2 raqat behind Maqam Ibrahim </summary>
+
+- 1st rakah: Al-Fatihah and Al-Kafiroon
+- 2nd rakah: Al-Fatihah and Al-Ikhlas
+
+</details>
+
+<details><summary><cr>0.6</cr> Istilam of the Hajar al-Aswad</summary>
+
+Prior to performing Sa’i, it is Sunnah to return to the Hajar al-Aswad in order to do Istilam. You will be carrying out Istilam for the ninth time, following the eight times you performed Istilam during Tawaf. This Istilam is only applicable if Sa’i is performed immediately after Tawaf.
+
+</br></br></details><details><summary><cr>0.7</cr> Sai between Safa and Marwa (~3km)<mark class="grey"> start at Safa, end at Marwah, dua after each lap, quicken the pace between Milayn al-Arkhdharayn</mark> </summary>
+
+[Sai in details](https://hajjumrahplanner.com/safa-marwa/)
+
+It is Sunnah to recite the following Dua:
+
+> Allāhu akbar, Allāhu akbar, Allāhu akbar, wa lillāhi l-ḥamd.
+
+Allah is the greatest; Allah is the greatest; Allah is the greatest, and to Allah belongs all praise.
+
+> Lā ilāha illallāh waḥdahu lā sharīka lah(u), lahu l-mulku wa lahu l-ḥamdu yuḥyī wa yumīt(u), wa huwa ‘alā kulli shay’in qadīr.
+
+There is no deity except Allah, alone without a partner. To Him belongs the Dominion, and to Him belongs all praise. He gives life and death and He has power over everything.
+
+> Lā ilāha illallāhu waḥdah(u), anjaza wa’dahu wa naṣara ‘abdahu wa hazama l-aḥzāba waḥdah.
+
+There is no deity except Allah alone. He fulfilled His promise, supported His slave and defeated the confederates alone.
+
+After reciting this Dua, you may recite your own supplications. Read the Dua a total of three times, making your own supplications in between each time, as was the Sunnah of the Prophet ﷺ.
+
+</br></br></details><details><summary><cr>0.8</cr> Perform 2 raqat Nafl salah and leave Haram for Taqsir </mark> </summary>
+</details>
+
+<details><summary><cr>0.9</cr> Trim the hair</summary></details>
+
+### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
+
+<details><summary>
+
+<cr>1.1</cr> Enter into Ihram and make niyah for hajj 
+
+</summary>
+
+It is Mustahabb (recommended) that you take a shower, cut your nails and trim your moustache prior to wearing the Ihram garments.
+
+You will then perform two Rakats of Nafl Salah, pronounce a new Niyyah (intention) for Hajj, recite Talbiyah and enter into the state of Ihram before the morning of the 8th of Dhul Hijjah. It is Mustahabb to carry this out at Masjid al-Haram, although it’s also perfectly acceptable at your place of residence. Please note, you don’t have to travel to the nearest Miqat (Masjid Aisha) in order to enter into Ihram.
+
+</details>
+
+<cr>1.2</cr> Recite Talbiyah \
+<cr>1.3</cr> Proceed to Mina before Dhuhr \
+<cr>1.4</cr> Perform shortened Dhuhr, Asr, Maghrib and Isha in Mina \
+<cr>1.5</cr> Stay at Mina overnight
+
+### Day 2 (9th Dhul Hijjah): Yawm al-Arafat (The Day of Arafat) or Yawm al-Wuquf (The Day of Standing)
+
+<cr>2.1</cr> Perform Fajr in Mina 
+
+<details><summary><cr>2.2</cr> Takbir al-Tashreeq </summary>
+
+Starting immediately after Fajr Salah on the 9th of Dhul Hijjah, audibly recite Takbir al-Tashreeq at least once after every Fardh Salah, up to and including Asr Salah on the 13th of Dhul Hijjah (a total of 23 Fardh prayers).
+
+Takbir al-Tashreeq is the recitation of the following:
+
+Allahu Akbar, Allahu Akbar, La Ilaha Ilallahu Wallahu Akbar, Allahu Akbar, Wa Lillahil Hamd.
+
+Allah is the greatest, Allah is the greatest. There is no deity besides Allah and Allah is the greatest. Allah is the greatest and all praises are for Allah only.
+Notes:
+
+Talbiyah is recited after Takbir al-Tashreeq.
+
+</details><details><summary><cr>2.3</cr> Perform Ghusl (better in Mina) </summary>
+
+It is Sunnah to perform Ghusl on the Day of Arafat. This can be done in Arafat before the Wuquf (standing) or it can be done in Mina before departing for Arafat. The camps in Arafat are more open in comparison to Mina, so it may be more comfortable for a person to perform Ghusl in Mina.
+</details>
+
+<cr>2.4</cr> Proceed to Arafat \
+<cr>2.5</cr> Perform Dhuhr and Asr in Arafat <mark class="grey"> shortened and prayed together at Dhuhr</mark> \
+<cr>2.6</cr> Standing at Arafat from Dhuhr till sunset \
+<cr>2.7</cr> Proceed to Muzdalifah after sunset \
+<cr>2.8</cr> Perform Maghrib and Isha in Muzdalifah (shortened and prayed together at Maghrib) \
+<cr>2.9</cr> Stay there overnight \
+<cr>2.10</cr> Collect pebbles \
+<cr>2.11</cr> Perform Fajr Salah and make Dua \
+<cr>2.12</cr> Proceed to Mina before sunrise
+
+### Day 3 (10th Dhul Hijjah): Yawm al-Nahr (The Day of Sacrifice)	
+
+<cr>3.1</cr> Perform Rami (pelting) of Jamarah al-Aqaba (the big pillar, 7 pebbles) \
+<cr>3.2</cr> Hady (animal sacrifice) \
+<cr>3.3</cr> Perform Halq/Taqsir (get your hair shaved or trimmed) \
+<cr>3.4</cr> Proceed to Makkah \
+<cr>3.5</cr> Perform Tawaf al-Ziyarah 🕋 \
+<cr>3.6</cr> Sai between Safa and Marwa \
+<cr>3.7</cr> Go back to Mina (unless you have a valid excuse to stay in Makkah)
+
+### Day 4,5,6 (11th, 12th, 13th Dhul Hijjah): Ayyam</cr> al-Tashreeq (The Days of Drying Meat)
+
+<cr>4.1</cr> Perform Rami of all three Jamarat on each day (7 pebbles each, small-dua-middle-dua-big) \
+<cr>4.2</cr> Proceed to Makkah \
+<cr>4.3</cr> Perform Tawaf al-Wida 🕋
+
+</details><details><summary>
+
+## Links and References
 
 </summary>
 
@@ -2007,159 +2162,4 @@ Refer to this article for a detailed guide on Tawaf.
 
 Your Hajj is now complete. May it be accepted. Ameen.
 
-</details></details></details><details><summary>
-
-## My Hajj-Tamattu Roadmap
-------------------------------------------------------
-
-</summary><details><summary> 
-
-### Medina (3 days) 
-
-</summary>
-
-- Visit the Prophet SAW mosque and the Quba mosque.
-- Use the Nusuk app to book a place in [Rawdah](https://hajjumrahplanner.com/rawdah/). 
-- Buy missing things for hajj.
-
-</details><details><summary>Bus from Medina to Mecca (Crossing Miqat)</summary>
-
-</details>
-
-### Umrah
-
-<details><summary><cr>0.1</cr> Entering Ihram and make niyah for umrah </summary>
-
-Before you pass the miqat (boundary of the haram), ensure you are in ihram and have made an intention for umrah.
-
-</details><details><summary><cr>0.2</cr> Dua upon seeing the Kaaba for the first time </summary>
-
-When a person enters Makkah and his gaze falls upon the Ka'ba and he reaches the Mosque, it is mustahab for him to lift his hands and supplicate. It is reported that the dua of a Muslim is accepted upon seeing the Ka'ba. Allah, increase this House in honour, esteem, respect and reverence.
-
-</details><details><summary><cr>0.3</cr> Niyah for Tawaf al-Umrah</summary>
-
-This will be the first tawaf in Mecca but no need to do Tawaf al-Qudum (Tawaf of Arrival) when performing umrah.
-
-</details><details><summary><cr>0.4</cr> Tawaf 🕋 (with Ar-Raml) <mark class="grey"> start from Hajar al-Aswad </mark></summary>
-
-Make wudhu and start tawaf from Hajar al-Aswad (Black Stone), circuiting the Kaaba 7 times anti-clockwise.
-
-> Dua at the beginning of Tawaf:
-> <div dir="rtl" lang="ar">سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ  </div>
-> 
-> In the name of Allah, Allah is the greatest. O Allah, out of faith in You, conviction in Your book, in fulfilment of Your covenant and in emulation of Your Prophet’s Sunnah ﷺ.
-
-Duas during Tawaf:
-
-> O Allah, I ask You for forgiveness and safety in the worldly life and Hereafter.
-> 
-> Glory be to Allah. All Praise is due to Allah. There is no god besides Allah. Allah is the Greatest. There is no power or might except with Allah, the Most High and the Most Great.
-
-<b>Ar-Raml</b> during the first three circuits of Tawaf ul-Qudum (Arrival Tawaf).
-
-<b>Hajar al-Aswad</b> (“The Black Stone”) Istilam
-
-</details><details><summary><cr>0.5</cr> Praying 2 raqat behind Maqam Ibrahim </summary>
-
-- 1st rakah: Al-Fatihah and Al-Kafiroon
-- 2nd rakah: Al-Fatihah and Al-Ikhlas
-
-</details>
-
-<details><summary><cr>0.6</cr> Istilam of the Hajar al-Aswad</summary>
-
-Prior to performing Sa’i, it is Sunnah to return to the Hajar al-Aswad in order to do Istilam. You will be carrying out Istilam for the ninth time, following the eight times you performed Istilam during Tawaf. This Istilam is only applicable if Sa’i is performed immediately after Tawaf.
-
-</br></br></details><details><summary><cr>0.7</cr> Sai between Safa and Marwa (~3km)<mark class="grey"> start at Safa, end at Marwah, dua after each lap, quicken the pace between Milayn al-Arkhdharayn</mark> </summary>
-
-[Sai in details](https://hajjumrahplanner.com/safa-marwa/)
-
-It is Sunnah to recite the following Dua:
-
-> Allāhu akbar, Allāhu akbar, Allāhu akbar, wa lillāhi l-ḥamd.
-
-Allah is the greatest; Allah is the greatest; Allah is the greatest, and to Allah belongs all praise.
-
-> Lā ilāha illallāh waḥdahu lā sharīka lah(u), lahu l-mulku wa lahu l-ḥamdu yuḥyī wa yumīt(u), wa huwa ‘alā kulli shay’in qadīr.
-
-There is no deity except Allah, alone without a partner. To Him belongs the Dominion, and to Him belongs all praise. He gives life and death and He has power over everything.
-
-> Lā ilāha illallāhu waḥdah(u), anjaza wa’dahu wa naṣara ‘abdahu wa hazama l-aḥzāba waḥdah.
-
-There is no deity except Allah alone. He fulfilled His promise, supported His slave and defeated the confederates alone.
-
-After reciting this Dua, you may recite your own supplications. Read the Dua a total of three times, making your own supplications in between each time, as was the Sunnah of the Prophet ﷺ.
-
-</br></br></details><details><summary><cr>0.8</cr> Perform 2 raqat Nafl salah and leave Haram for Taqsir </mark> </summary>
-</details>
-
-<details><summary><cr>0.9</cr> Trim the hair</summary></details>
-
-### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
-
-<details><summary>
-
-<cr>1.1</cr> Enter into Ihram and make niyah for hajj 
-
-</summary>
-
-It is Mustahabb (recommended) that you take a shower, cut your nails and trim your moustache prior to wearing the Ihram garments.
-
-You will then perform two Rakats of Nafl Salah, pronounce a new Niyyah (intention) for Hajj, recite Talbiyah and enter into the state of Ihram before the morning of the 8th of Dhul Hijjah. It is Mustahabb to carry this out at Masjid al-Haram, although it’s also perfectly acceptable at your place of residence. Please note, you don’t have to travel to the nearest Miqat (Masjid Aisha) in order to enter into Ihram.
-
-</details>
-
-<cr>1.2</cr> Recite Talbiyah \
-<cr>1.3</cr> Proceed to Mina before Dhuhr \
-<cr>1.4</cr> Perform shortened Dhuhr, Asr, Maghrib and Isha in Mina \
-<cr>1.5</cr> Stay at Mina overnight
-
-### Day 2 (9th Dhul Hijjah): Yawm al-Arafat (The Day of Arafat) or Yawm al-Wuquf (The Day of Standing)
-
-<cr>2.1</cr> Perform Fajr in Mina 
-
-<details><summary><cr>2.2</cr> Takbir al-Tashreeq </summary>
-
-Starting immediately after Fajr Salah on the 9th of Dhul Hijjah, audibly recite Takbir al-Tashreeq at least once after every Fardh Salah, up to and including Asr Salah on the 13th of Dhul Hijjah (a total of 23 Fardh prayers).
-
-Takbir al-Tashreeq is the recitation of the following:
-
-Allahu Akbar, Allahu Akbar, La Ilaha Ilallahu Wallahu Akbar, Allahu Akbar, Wa Lillahil Hamd.
-
-Allah is the greatest, Allah is the greatest. There is no deity besides Allah and Allah is the greatest. Allah is the greatest and all praises are for Allah only.
-Notes:
-
-Talbiyah is recited after Takbir al-Tashreeq.
-
-</details><details><summary><cr>2.3</cr> Perform Ghusl (better in Mina) </summary>
-
-It is Sunnah to perform Ghusl on the Day of Arafat. This can be done in Arafat before the Wuquf (standing) or it can be done in Mina before departing for Arafat. The camps in Arafat are more open in comparison to Mina, so it may be more comfortable for a person to perform Ghusl in Mina.
-</details>
-
-<cr>2.4</cr> Proceed to Arafat \
-<cr>2.5</cr> Perform Dhuhr and Asr in Arafat <mark class="grey"> shortened and prayed together at Dhuhr</mark> \
-<cr>2.6</cr> Standing at Arafat from Dhuhr till sunset \
-<cr>2.7</cr> Proceed to Muzdalifah after sunset \
-<cr>2.8</cr> Perform Maghrib and Isha in Muzdalifah (shortened and prayed together at Maghrib) \
-<cr>2.9</cr> Stay there overnight \
-<cr>2.10</cr> Collect pebbles \
-<cr>2.11</cr> Perform Fajr Salah and make Dua \
-<cr>2.12</cr> Proceed to Mina before sunrise
-
-### Day 3 (10th Dhul Hijjah): Yawm al-Nahr (The Day of Sacrifice)	
-
-<cr>3.1</cr> Perform Rami (pelting) of Jamarah al-Aqaba (the big pillar, 7 pebbles) \
-<cr>3.2</cr> Hady (animal sacrifice) \
-<cr>3.3</cr> Perform Halq/Taqsir (get your hair shaved or trimmed) \
-<cr>3.4</cr> Proceed to Makkah \
-<cr>3.5</cr> Perform Tawaf al-Ziyarah 🕋 \
-<cr>3.6</cr> Sai between Safa and Marwa \
-<cr>3.7</cr> Go back to Mina (unless you have a valid excuse to stay in Makkah)
-
-### Day 4,5,6 (11th, 12th, 13th Dhul Hijjah): Ayyam</cr> al-Tashreeq (The Days of Drying Meat)
-
-<cr>4.1</cr> Perform Rami of all three Jamarat on each day (7 pebbles each, small-dua-middle-dua-big) \
-<cr>4.2</cr> Proceed to Makkah \
-<cr>4.3</cr> Perform Tawaf al-Wida 🕋
-
-</details></details>
+</details></details></details>
