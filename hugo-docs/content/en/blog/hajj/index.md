@@ -122,6 +122,30 @@ Before you pass the miqat (boundary of the haram), ensure you are in ihram and h
 
 When a person enters Makkah and his gaze falls upon the Ka'ba and he reaches the Mosque, it is mustahab for him to lift his hands and supplicate. It is reported that the dua of a Muslim is accepted upon seeing the Ka'ba. Allah, increase this House in honour, esteem, respect and reverence.
 
+<div dir="rtl" lang="ar">
+
+اللَّهُمَّ زِدْ هَذَا البَيْتَ تَشْريفًا وَتَعْظِيمًا وَتَكْرِيمًا وَمَهَابَةً، وَزِدْ مِن شَرَّفَهُ وكَرمَهُ مِمَّنْ حَجَّه أو اعْتَمَرَه تَشْرِيفًا وَتَكْرِيمًا وَتَعْظِيمًا وَبِرًّا
+
+</div>
+
+Allāhumma zid hādha l-bayta tashrīfan wa ta’żiman wa takrīman wa mahābatan, wa zid man sharrafahū wa karramahū mimman ḣajjahū wa’tamarahū tashrīfan wa ta’żiman wa takrīman wa birran
+
+O Allah! Increase this House in honour and reverence and nobility and awe, and increase those who honour and revere it as pilgrims for Hajj and Umrah in nobility and goodness and status and righteousness (Ibn ‘Abd al-Barr, Ibn Taymiyyah)
+
+#### Du’a after Every Prayer
+
+During your Hajj or Umrah you will be praying lots of salah in the Haram with the hope of extra rewards. It’s important you constantly focus on trying to improve the quality of your salah, and this du’a eloquently asks for Allah’s help to do so.
+
+<div dir="rtl" lang="ar">
+
+اللَّهُمَّ أعِنَّيْ عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ
+
+</div>
+
+Allāhumma a’innī ‘alā dhikrika wa shukrika wa ḣusni ‘ibādatika
+
+O Allah! Help me to remember You and thank You and help me to the best manner of worshipping You. (Al-Adab Al-Mufrad)
+
 </details><details><summary><cr>0.3</cr> Niyah for Tawaf al-Umrah</summary>
 
 This will be the first tawaf in Mecca but no need to do Tawaf al-Qudum (Tawaf of Arrival) when performing umrah.
@@ -133,7 +157,10 @@ Make wudhu and start tawaf from Hajar al-Aswad (Black Stone), circuiting the Kaa
 > Dua at the beginning of Tawaf:
 > <div dir="rtl" lang="ar">سْمِ اللَّهِ وَاللّٰهُ أَكْبَرُ، اللَّهُمَّ إِيْمَاناً بِكَ وَتَصْدِيْقاً بِكِتَابِكَ، وَوَفَاءً بِعَهْدِكَ، وَاتِّبَاعاً لِسُنَّةِ نَبِيِّكَ مُحَمَّدْ  </div>
 > 
+> Allāhumma īmānan bika wa taṣdīqan bi kitābika wa sunnati nabiyyika ṣalla l-lāhu ‘alayhi wa sallam 
+>
 > In the name of Allah, Allah is the greatest. O Allah, out of faith in You, conviction in Your book, in fulfilment of Your covenant and in emulation of Your Prophet’s Sunnah ﷺ.
+
 
 Duas during Tawaf:
 
@@ -271,16 +298,14 @@ It is Sunnah to perform Ghusl on the Day of Arafat. This can be done in Arafat b
 
 #### Official Hajj Ministry Links
 
-- https://hajj.nusuk.sa (For 2023, this is the official registration website, where the Hajj ministry of SA is going to announce the hajj packages.)
-- https://twitter.com/motawif_sa
-- https://www.facebook.com/Motawif/
-- https://www.haj.gov.sa/en
-- https://twitter.com/MoHU_En?t=WQM4tACX9VwY82PwJ0zAMg&s=08
+- [hajj.nusuk.sa](https://hajj.nusuk.sa) (For 2023, this is the official registration website, where the Hajj ministry of SA is going to announce the hajj packages.)
+- [Motawif](https://twitter.com/motawif_sa) (Motawif was the official platform in 2022.)
+- [Ministry of Hajj Twitter](https://twitter.com/MoHU_En?t=WQM4tACX9VwY82PwJ0zAMg&s=08)
 
 #### Dua Collection for Hajj
 
-[Hajj Duas](https://thepilgrim.co/list-of-hajj-duas/)
-[Essential Duas for Hajj and Umrah](https://muslimhands.org.uk/latest/2019/08/a-list-of-essential-duas-for-hajj-and-umrah)
+- [Hajj Duas](https://thepilgrim.co/list-of-hajj-duas/)
+- [Essential Duas for Hajj and Umrah](https://muslimhands.org.uk/latest/2019/08/a-list-of-essential-duas-for-hajj-and-umrah)
 
 </details><details><summary>
 
@@ -367,9 +392,7 @@ Hajj is an annual Islamic pilgrimage to Mecca, Saudi Arabia, and is one of the f
 
 During the Hajj, Muslims visit the Kaaba, a sacred shrine in Mecca, and perform a series of rituals, including circling the Kaaba seven times, running between the hills of Safa and Marwah, and standing in prayer on the plain of Arafat. They also perform the ritual of stoning the Devil and make an animal sacrifice.
 
-The Hajj is a time of intense spiritual reflection and devotion for Muslims, and it is believed that those who complete the pilgrimage with a pure heart and intention will have their sins forgiven. It is also an opportunity for Muslims from all over the world to come together in unity and reaffirm their faith in God.
-
-Resurrecting what Ibrahim did 4000 years ago.
+The Hajj is a time of intense spiritual reflection and devotion for Muslims, and it is believed that those who complete the pilgrimage with a pure heart and intention will have their sins forgiven. It is also an opportunity for Muslims from all over the world to come together in unity and reaffirm their faith in God. Resurrecting what the prophet Ibrahim AS did 4000 years ago.
 
 ## How many people visit Mecca
 
