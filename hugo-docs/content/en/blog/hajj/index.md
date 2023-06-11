@@ -16,7 +16,7 @@ toc: true
 
 <p style="font-size: 2.2rem; font-style: bold; margin-bottom: 0.1rem !important;"><b></b> <div style="font-size: 1rem; color:grey;"> Hajj-Tamattu (Sunni view, mostly Hanafi school) </br> 
 
-The best and detailed Hajj Guide that I could find is on the [hajjumrahplanner.com](https://hajjumrahplanner.com/hajj-guide/) website.
+Most of the info is taken from [hajjumrahplanner.com](https://hajjumrahplanner.com/hajj-guide/), which was the best and detailed Hajj Guide that I could find.
 </div></p>
 
 <details><summary>
@@ -38,7 +38,7 @@ The best and detailed Hajj Guide that I could find is on the [hajjumrahplanner.c
 <cr>0.4</cr> Sai between Safa and Marwa \
 <cr>0.5</cr> Trim the hair
 
-<img src="./tawaf_illustration-en.svg" alt="Kaaba-explanation"></br>
+<img src="./tawaf_illustration-en.svg" alt="Kaaba-explanation" style="background: #EDEADE;"></br>
 
 ### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
 
@@ -300,7 +300,8 @@ It is Sunnah to perform Ghusl on the Day of Arafat. This can be done in Arafat b
 - [Valuable Tips for Hajj](https://www.islamicity.org/12445/getting-ready-for-hajj-physically-mentally-and-spiritually/)
 - [Another Guide](https://www.islamic-relief.org.uk/islamic-resources/hajj-in-islam/hajj-guide/)
 - [hujjaj.co guide](https://hujjaj.co/hajj-guide/)
-- hujjaj.co traveller's tips: https://www.youtube.com/watch?v=Eryvb08ocDA
+- [hujjaj.co traveller's tips](https://www.youtube.com/watch?v=Eryvb08ocDA)
+- [Hajj guide with good interfaces](https://www.ilamecca.com/guide/ihram/ifrad)
 - [Hajj Guide by Omar Suleiman]()
 - Hajj Guide by Yasir Qadhi [Part 1](), [Part 2]()
 - [Young Hamza Yusuf about Hajj](https://www.youtube.com/watch?v=Kswxexj6m00)
@@ -836,7 +837,9 @@ As a side note, the Pool that is mentioned in this Hadith – al-Hawd (Arabic: �
 
 </summary>
 
-Linguistically, the word is derived from the Arabic verb Taafa  (Arabic: طاف) which means “to walk around” or “to encircle something”. Its technical meaning is to perform seven anti-clockwise circuits of the Kaaba. One complete circuit of the Kaaba is known as a Shawt (Arabic: شوط ).
+For more details, see [hajjumrahplanner.com: Tawaf](https://hajjumrahplanner.com/tawaf/).
+
+The word is derived from the Arabic verb Taafa  (Arabic: طاف) which means “to walk around” or “to encircle something”. Its technical meaning is to perform seven anti-clockwise circuits of the Kaaba. One complete circuit of the Kaaba is known as a Shawt (Arabic: شوط ).
 
 Abdullah ibn Umar I narrates:
 
@@ -879,8 +882,6 @@ Ibn Kathir V writes the following regarding al-Bayt al-Ma’mur in his Tafsir:
 > In the two Sahihs it is confirmed that the Messenger of Allah ﷺ   said in the Hadith about al-Isra, after ascending to the seventh heaven: ‘Then, I was taken to al-Bayt al-Ma’mur. It is visited every day by seventy thousand angels who will not come back to visit it again.’ The angels worship Allah in Al-Bayt Al-Ma’mur and perform Tawaf around it just as the people of the earth perform Tawaf around the Kaaba. Al-Bayt al-Ma’mur is the Kaaba of those who reside in the seventh heaven. During the Isra journey, the Prophet ﷺ   saw Ibrahim S, who was reclining with his back on al-Bayt al-Ma’mur. It was Ibrahim who built the Kaaba on earth, and surely, the reward is compatible with the action. Al-Bayt al-Ma’mur is parallel to the Kaaba; every heaven has its own house of worship, which is also the direction of prayer for its residents. The house that is located in the lower heaven, is called Bayt al-Izzah. And Allah knows best.
 
 Cosmologically, the Kaaba is regarded as a reflection of al-Bayt al-Ma’mur in the seventh heaven and the Tawaf of the pilgrims reflects that of the angels.
-
-For more details, see [hajjumrahplanner.com: Tawaf](https://hajjumrahplanner.com/tawaf/)
 
 	Allah has made the Kaaba, the Sacred House, standing for the people and [has sanctified] the sacred months and the sacrificial animals and the garlands [by which they are identified]. That is so you may know that Allah knows what is in the heavens and what is in the earth and that Allah is Knowing of all things.
 	Qur'an, surah Al-Ma’idah 5:97
