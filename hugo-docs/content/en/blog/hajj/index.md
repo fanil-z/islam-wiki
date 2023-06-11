@@ -118,6 +118,16 @@ You will once again enter into a state of Ihram in the prescribed manner. There 
 
 Before you pass the miqat (boundary of the haram), ensure you are in ihram and have made an intention for umrah.
 
+<div dir="rtl" lang="ar"> 
+
+>لبيك اللهم لبيك عمرة متمتعاً بها إلى الحج ❁
+
+</div>
+
+	 Labaik Allahumma labaika umratan mutamti'an bihaa ila-l hajj 
+
+	 Here I am O Allah, serving You; here I am serving You with the umrah with interruption of the ihram state until hajj ❁
+
 </details><details><summary><cr>0.2</cr> Dua upon seeing the Kaaba for the first time </summary>
 
 When a person enters Makkah and his gaze falls upon the Ka'ba and he reaches the Mosque, it is mustahab for him to lift his hands and supplicate. It is reported that the dua of a Muslim is accepted upon seeing the Ka'ba. Allah, increase this House in honour, esteem, respect and reverence.
@@ -132,7 +142,7 @@ Allāhumma zid hādha l-bayta tashrīfan wa ta’żiman wa takrīman wa mahābat
 
 O Allah! Increase this House in honour and reverence and nobility and awe, and increase those who honour and revere it as pilgrims for Hajj and Umrah in nobility and goodness and status and righteousness (Ibn ‘Abd al-Barr, Ibn Taymiyyah)
 
-#### Du’a after Every Prayer
+#### Dua after Every Prayer
 
 During your Hajj or Umrah you will be praying lots of salah in the Haram with the hope of extra rewards. It’s important you constantly focus on trying to improve the quality of your salah, and this du’a eloquently asks for Allah’s help to do so.
 
@@ -1229,9 +1239,22 @@ One enters into ihram with talbiyah. Talbiyah is the heart’s most profound sur
 
 	Labayk Allahuma labaik
 
+	Labaik Allahumma labaika Hajjan
+
 Talbiyah is a phrase that is recited by Muslims during the Hajj, the annual Islamic pilgrimage to Mecca, Saudi Arabia. The phrase, "Labbaika Allahumma Labbaik" (meaning "Here I am at Your service, O Lord"), is a declaration of devotion and submission to God, and it is recited as a way of expressing the intention to perform the Hajj.
 
 Talbiyah is recited at various points during the Hajj, including at the start of the journey to Mecca, at the beginning of the rituals of the Hajj, and during the journey between the hills of Safa and Marwah.
+
+If one has the intention of performing the umrah first and then the hajj (At-Tamatu'), he can say the words in the first Talbiyah:
+<div dir="rtl" lang="ar"> 
+
+>لبيك اللهم لبيك عمرة متمتعاً بها إلى الحج ❁
+
+</div>
+
+	 Labaik Allahumma labaika umratan mutamti'an bihaa ila-l hajj 
+
+	 Here I am O Allah, serving You; here I am serving You with the umrah with interruption of the ihram state until hajj ❁
 
 Narrated 'Abdullah bin 'Umar:
 > The Talbiya of Allah's Apostle was : `'Labbaika Allahumma labbaik, Labbaika la sharika Laka labbaik, Inna-l-hamda wan-ni'mata Laka walmu Lk, La sharika Laka'` (I respond to Your call O Allah, I respond to Your call, and I am obedient to Your orders, You have no partner, I respond to Your call All the praises and blessings are for You, All the sovereignty is for You, And You have no partners with you.
@@ -1244,6 +1267,7 @@ Narrated 'Aisha:
 > Bukhari, Volume 2, Book 26, Number 622
 
 </details><details><summary>
+
 
 ### Leaving for Mina
 
