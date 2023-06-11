@@ -38,6 +38,8 @@ The best and detailed Hajj Guide that I could find is on the [hajjumrahplanner.c
 <cr>0.4</cr> Sai between Safa and Marwa \
 <cr>0.5</cr> Trim the hair
 
+<img src="./tawaf_illustration-en.svg" alt="Kaaba-explanation"></br>
+
 ### Day 1 (8th Dhul Hijjah): Yawm al-Tarwiyah (Tahim he Day of Quenching Thirst)	
 
 <cr>1.1</cr> Enter into Ihram and make niyah for hajj \
@@ -126,7 +128,7 @@ Before you pass the miqat (boundary of the haram), ensure you are in ihram and h
 
 	 Labaik Allahumma labaika umratan mutamti'an bihaa ila-l hajj 
 
-	 Here I am O Allah, serving You; here I am serving You with the umrah with interruption of the ihram state until hajj ❁
+	 Here I am O Allah, serving You; here I am serving You with the umrah with interruption of the ihram state until hajj ❁ 
 
 </details><details><summary><cr>0.2</cr> Dua upon seeing the Kaaba for the first time </summary>
 
@@ -141,6 +143,8 @@ When a person enters Makkah and his gaze falls upon the Ka'ba and he reaches the
 Allāhumma zid hādha l-bayta tashrīfan wa ta’żiman wa takrīman wa mahābatan, wa zid man sharrafahū wa karramahū mimman ḣajjahū wa’tamarahū tashrīfan wa ta’żiman wa takrīman wa birran
 
 O Allah! Increase this House in honour and reverence and nobility and awe, and increase those who honour and revere it as pilgrims for Hajj and Umrah in nobility and goodness and status and righteousness (Ibn ‘Abd al-Barr, Ibn Taymiyyah)
+
+<img src="./tawaf_illustration-en.svg" alt="Kaaba-explanation"></br>
 
 #### Dua after Every Prayer
 
