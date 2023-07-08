@@ -1637,7 +1637,7 @@ Ibrahim is the only person that the Quran commands our prophet to look up to as 
 
 </details><details><summary>
 
-## Soddom and Homorra: Story of Lut
+## Sodom and Homorra: Story of Lut
 
 </summary>
 
@@ -1684,6 +1684,8 @@ There is a narration that Jibril participated in the desctruction of the cities.
 The major difference between the story of Lut in the Quran and the story of Lot in the Bible is that the Biblical version includes a story of Lot's being induced to incestuous relations with his own daughters. The Quran says that Lut is a prophet, and holds that all Prophets were examples of moral and spiritual rectitude. Though it is not altogether clear in the Bible story that Lot consented to his action, in Islam these stories of incest are thus considered to be false.
 
 Sodom and Gomorrah are not mentioned by name in the Quran. The Islamic use of the term Sodomite was borrowed therefrom by the Ulama(Scholars) of Islamic law which teach that capital punishment/or flogging is the penalty for this action to be meted out on both the sodomite (the penetrator) and the catamite (the receptive member). These punishments were adopted by the blooming Islamic Empires approximately two centuries after the death of the Prophet Muhammad according to oral traditions and they are not Sunnah.
+
+- [A Christian looking for evidence of the Sodom and Homorra destruction](https://www.youtube.com/watch?v=jQl4KaRtef8)
 
 </details>
 
