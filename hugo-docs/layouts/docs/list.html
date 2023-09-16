@@ -4,6 +4,9 @@
     <article>
       <h1 class="text-center">{{ .Title }}</h1>
       <div class="text-center">{{ .Content }}</div>
+      {{ if .Site.Params.editPage -}}
+				{{ partial "main/edit-page.html" . }}
+			{{ end -}}
 			<div class="card-list">
 				{{ $currentSection := .CurrentSection }}
 				{{ range where .Site.RegularPages.ByTitle "Section" .Section }}

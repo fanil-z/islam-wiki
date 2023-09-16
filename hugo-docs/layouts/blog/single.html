@@ -8,6 +8,9 @@
       </div>
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       {{ .Content }}
+      {{ if .Site.Params.editPage -}}
+        {{ partial "main/edit-page.html" . }}
+      {{ end -}}
     </article>
   </div>
 </div>

@@ -4,6 +4,9 @@
     <article>
       <h1 class="text-center">{{ .Title }}</h1>
       <div class="text-center">{{ .Content }}</div>
+      {{ if .Site.Params.editPage -}}
+				{{ partial "main/edit-page.html" . }}
+			{{ end -}}
 			<div class="card-list">
 				{{ $paginator := .Paginate (.Data.Pages) -}}
 				{{ range $paginator.Pages -}}
