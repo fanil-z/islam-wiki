@@ -8,6 +8,8 @@ enableRobotsTXT = true
 languageCode = "en-US"
 paginate = 7
 rssLimit = 10
+lastMod = true
+editPage = true
 
 # Multilingual
 defaultContentLanguage = "en"
