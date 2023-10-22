@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('./neon.css');
+@import url('./intersectionObserver.css');
+
+body {
+	background-color: #252525;
+	font-family: 'Abel', sans-serif;
+	font-weight: 500;
+	margin: 1rem 4rem 1rem 4rem;
+}
+
+@media (max-width: 768px) {
+	body {
+	  margin: 1rem !important;
+	}
+	body section1 p, li{
+		margin: 1rem !important;
+	  }
+	img {
+		width: 100% !important; /* Ensure the image stays within its container */
+	  }
+  }
+
+p, h3, .p, .h3, li {
+	color:aliceblue !important;
+}
+
+h1 {
+	font-size: 4rem;
+}
+
+img {
+	width: 700px;
+	height: auto;
+	border-radius:10px;
+}
+
+img, iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+	color:#bc13fe;
+}
+
+section1 p, li {
+	margin: 0 15% 1.2rem 15%;
+	font-size: 20px;
+}
+
+vid iframe {
+	width: 650px;
+	height: 400px;
+	border-radius: 4px;
+  }
+  
+  /* Media query for screens with a maximum width of 768px (typical for mobile screens) */
+  @media (max-width: 768px) {
+	vid iframe {
+	  max-width: 600px; /* Maintain full width for mobile screens */
+	  width:100% !important;
+	  margin: 5px; /* Adjust for smaller screens */
+	}
+  }
