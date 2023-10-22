@@ -73,6 +73,11 @@ rel  = "sitemap"
 [minify.tdewolff.html]
   keepWhitespace = false
 
+[[headers]]
+  for = "/*"
+  [headers.defaults]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com"
+
 [module]
   [module.hugoVersion]
     extended = true
