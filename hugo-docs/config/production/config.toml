@@ -76,7 +76,8 @@ rel  = "sitemap"
 [[headers]]
   for = "/*"
   [headers.defaults]
-    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/css?family=Abel"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' ttps://fonts.googleapis.com/css?family=Sacramento:400"
 
 [module]
   [module.hugoVersion]
