@@ -13,7 +13,7 @@ body p {
 	font-size: 16px !important;
 }
 
-figcaption {
+figc, .figc {
 	color: grey; 
 	margin-bottom: 2rem;
 }
@@ -122,7 +122,7 @@ I will not use any names and show any faces in photos just to be on the safe sid
 Mecca Live gives a short glimpse of the Tawaf and Sai part of the hajj:
 
 <vid>
-	<iframe
+	<iframe style="width: 650px !important;"
 	  src="https://www.youtube.com/embed/moQtMet7F7w?autoplay=1&mute=1&si=xKbnS9JQfIx0wB_F"
 	  allow="autoplay"
 	></iframe>
@@ -185,7 +185,7 @@ The roads in Medina are named after the sahabis. It is so different when you wal
 # The Mosque of the Prophet Muhammad ﷺ   (Masjid Al-Nabawi)
 
 <img src="./images/masjid-an-nabawi.jpg" alt="dsd">
-<figcaption>One wing of Masjid Al-Nabawi in between the prayers while there is still some place to sit</figcaption>
+<figc>One wing of Masjid Al-Nabawi in between the prayers while there is still some place to sit</figc>
 
 Medina is beautiful. It is so nice and relaxing in Medina. There is Allah's blessing in the atmosphere and always reminded me of the hadith when Abu Bakr was sick in Medina and wrote a poem about their home Mecca, the prophet Muhammad SAW made dua asking Allah to make Medina more enjoyable than Mecca for muhajireen. and I feel bad for telling the hadith in my own words because imam Malik would make wudhu, put on good clothes, apply perfume, take a sitting position and only then narrate a hadith to the asker.
 
@@ -205,12 +205,12 @@ Bukhari, Volume 2, Book 26, Number 598
 
 <img src="./images/medina-cats.jpg">
 
-<figcaption>Local desert cats have long legs and look really thin. Usually hiding in the shadows. </figcaption>
+<figc>Local desert cats have long legs and look really thin. Usually hiding in the shadows. </figc>
 
 Other than cats, I've seen only pigeons, doves and crickets; eagles in Mecca and camels here and there on the way to Mecca. Some kind of locusts were flying in swarms around Haram lamps. Probably insects are attracted by cool air and moisture from pulverizers in the Haram area. I've prayed several times on the roof of Masjid Al Haram in Mecca and in the morning and after maghrib, there were birds flying above the mosque. There was no time to look for local animals though.
 
 <img src="./images/uhud.jpg">
-<figcaption>The hill of Jabal Uhub area where the archers were standing</figcaption>
+<figc>The hill of Jabal Uhub area where the archers were standing</figc>
 
 We also went to the mount of Uhud. The place where the prophetﷺ   was wounded, the place where Hamza died. Talha ibn UbaydAllah is one of my favorite sahabis. And Uhud is the place where Talha carved his name in the hadiths when he protected the prophetﷺ   from arrows with his own body while most of the Muslim army fled. Abu Bakr said that the battle of Uhud was "the day of Talha". It was interesting to be there after reading about the battle of Uhud from the seerah of the prophet Muhammad ﷺ  .
 
@@ -229,7 +229,7 @@ Before I went on this journey, I've spent almost a year researching, reading abo
 As I said, it was my first time in Mecca and my first impression of Mecca was absolutely shocking. 
 
 <img src="./images/clock-tower-night.jpg">
-<figcaption>On the way to Haram</figcaption>
+<figc>On the way to Haram</figc>
 
 Mecca is also in the middle of nowhere. It is just a desert with rocky hills. If the Kaaba was somewhere in a city with a sea shore or a nice weather, people could easily turn it into a horrible tourist trap. It's turning into one right now despite being in the middle of the Saudi desert. If there was no Zamzam, there would be no water to drink. If this place was not predestined by God to become a sacred place of worship and a pilgrimage destination, hardly anyone would decide to settle in there by his own will.
 
@@ -258,7 +258,7 @@ In Mecca, you see a lot of things that you might not agree nor understand. My fr
 Hajj starts when you leave for Mina. There are some things that I would do differently if I wasn't feverish and if it wasn't my first time in Mecca. One of the things would definitely be to go to Mina on your own without a group. The distance between Haram and EU and American tents in Mina is about 12-13km. Mina itself is a tent "city". and the main thing that bothered me was that after 3.5 hour walk in the crowds in +40-45-degree heat under the sun it would be difficult to find your tent. Every tent looks the same. Also, if you decide to walk give your bag with belongings to brothers in your group, take the minimum on your back. Don't forget water, put on sunscreen, sunglasses, make sure your sandals are soft and comfortable, etc. 
 
 <img src="./images/camps-in-mina.webp"><img src="./images/mina-tent-city.jpg">
-<figcaption>Assalamu Aleikum! Excuse me, do you know where is the tent 6158? It should be on Street 649.</figcaption>
+<figc>Assalamu Aleikum! Excuse me, do you know where is the tent 6158? It should be on Street 649.</figc>
 
 Took the pics from [here](https://theislamicinformation.com/news/saudi-arabia-allocated-mina-camps-hajj-2022/) and [here](https://hajjumrahplanner.com/mina/).
 
