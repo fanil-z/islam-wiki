@@ -12,7 +12,7 @@
 
 World History Timeline according to Quran, hadiths,  (from creation of the Earth and till the Day of Judgement and beyond).
 
-☪️ WEBSITE: [gilmetdeen.com](https://gilmetdeen.com/islam-wiki/)
+☪️ WEBSITE: [ilm-al-deen.onrender.com](https://ilm-al-deen.onrender.com/islam-wiki/). Former url [gilmetdeen.com](https://gilmetdeen.com/islam-wiki/) is not active since Dec 2024.
 
 ![Website layout](https://github.com/fanil-z/islam-wiki/blob/master/website-layout.png?raw=true)
 

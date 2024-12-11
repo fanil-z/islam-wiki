@@ -7,7 +7,8 @@ url: "/islam-wiki/"
 cover.linkFullImages: true
 ---
 
-<h1 style="font-size: 2.2rem; font-style: bold; color: #4aa3a0; margin-bottom: 0.1rem !important; font-weight: 400"> World History Timeline  <div id="subtitle"> According to Islamic sources (Quran, hadith, tafsir)</div></h1>
+<h1 style="font-size: 2.2rem; font-style: bold; color: #4aa3a0; margin-bottom: 0.1rem !important; font-weight: 400"> World History Timeline  <div id="subtitle"> According to Islamic sources (Quran, hadith, tafsir)</div>
+<div id="subtitle"> Disclaimer: this is a private project done by a non-scholar for purposes of research and seeking truth. It contains some unauthentic ahadith, and paragraphs from unislamic sources. The content should not be quoted. </div></h1>
 
 </br></br><details id="level0" open><summary id="level0">
 

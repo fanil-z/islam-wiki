@@ -1,4 +1,4 @@
-baseurl = "https://gilmetdeen.com/"
+baseurl = "https://ilm-al-deen.onrender.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -28,6 +28,11 @@ section = ["HTML", "RSS", "SITEMAP"]
 [mediaTypes."text/netlify"]
 suffixes = [""]
 delimiter = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # add output format for netlify _redirects
 [outputFormats.REDIRECTS]

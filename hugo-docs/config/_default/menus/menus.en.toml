@@ -20,9 +20,9 @@
   weight = 7
 
 [[main]]
-  name = "On Gaza and Palestine"
-  url = "/new/on-palestine.html"
-  weight = 15
+  name = "My Hajj Experience"
+  url = "/docs/hajj/"
+  weight = 8
 
 [[social]]
   name = "GitHub"
