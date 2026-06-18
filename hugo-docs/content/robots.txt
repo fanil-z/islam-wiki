@@ -1,1 +1,2 @@
-Sitemap: https://ilm-al-deen.onrender.com/sitemap.xml
+User-agent: *
+Disallow: /
